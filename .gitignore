@@ -43,3 +43,7 @@ yarn-error.log*
 
 # OS metadata
 .DS_Store
+
+# Extracted release media and offline build
+/media-backup/
+/offline-site/
