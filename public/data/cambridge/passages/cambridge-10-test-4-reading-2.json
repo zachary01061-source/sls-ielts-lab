@@ -1,0 +1,340 @@
+{
+  "id": "cambridge-10-test-4-reading-2",
+  "title": "Second nature",
+  "titleCn": "Second nature",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 10,
+    "test": 4
+  },
+  "sourceQuestionId": "6848",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6848",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Second nature"
+    },
+    {
+      "label": "2",
+      "text": "Your personality isn't necessarily set in stone. With a little experimentation,"
+    },
+    {
+      "label": "3",
+      "text": "people can reshape their temperaments and inject passion, optimism, joy and"
+    },
+    {
+      "label": "4",
+      "text": "courage into their lives"
+    },
+    {
+      "label": "5",
+      "text": "A Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age. However, researchers have begun looking more closely at ways we can change. Positive psychologists have identified 24 qualities we admire, such as loyalty and kindness, and are studying them to find out why they come so naturally to some people. What they're discovering is that many of these qualities amount to habitual behaviour that determines the way we respond to the world. The good news is that all this can be learned."
+    },
+    {
+      "label": "6",
+      "text": "Some qualities are less challenging to develop than others, optimism being one of them. However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising. For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions. Cultivating such qualities will help you realise your full potential."
+    },
+    {
+      "label": "7",
+      "text": "B 'The evidence is good that most personality traits can be altered/ says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. 'Now my extroverted behaviour is spontaneous,' he says."
+    },
+    {
+      "label": "8",
+      "text": "C David Fajgenbaum had to make a similar transition. He was preparing for university, when he had an accident that put an end to his sports career. On campus, he quickly found that beyond ordinary counselling, the university had no services for students who were undergoing physical rehabilitation and suffering from depression like him. He therefore launched a support group to help others in similar situations. He took action despite his own pain - a typical response of an optimist."
+    },
+    {
+      "label": "9",
+      "text": "D Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action."
+    },
+    {
+      "label": "10",
+      "text": "E You can recognise a person who is passionate about a pursuit by the way they are so strongly involved in it. Tanya Streeter's passion is freediving ω the sport of plunging deep into the water without tanks or other breathing equipment. Beginning in 1998, she set nine world records and can hold her breath for six minutes. The physical stamina required for this sport is intense but the"
+    },
+    {
+      "label": "11",
+      "text": "psychological demands are even more overwhelming. Streeter learned to untangle her fears from her judgment of what her body and mind could do. 'In my career as a competitive freediver, there was a limit to what I could do - but it wasn't anywhere near what I thought it was,' she says."
+    },
+    {
+      "label": "12",
+      "text": "F Finding a pursuit that excites you can improve anyone's life. The secret about consuming passions, though, according to psychologist Paul Silvia of the University of North Carolina, is that' they require discipline, hard work and ability, which is why they are so rewarding/ Psychologist Todd Kashdan has this advice for those people taking up a new passion: 'As a newcomer, you also have to tolerate and laugh at your own ignorance. You must be willing to accept the negative feelings that come your way' he says."
+    },
+    {
+      "label": "13",
+      "text": "G In 2004, physician-scientist Mauro Zappaterra began his PhD research at Harvard Medical School. Unfortunately, he was miserable as his research wasn't compatible with his curiosity about healing. He finally took a break and during eight months in Santa Fe, Zappaterra learned about alternative healing techniques not taught at Harvard. When he got back, he switched labs to study how cerebrospinal fluid nourishes the developing nervous system. He also vowed to look for the joy in everything, including failure, as this could help him learn about his research and himself."
+    },
+    {
+      "label": "14",
+      "text": "One thing that can hold joy back is a person's concentration on avoiding failure rather than their looking forward to doing something well. 'Focusing on being safe might get in the way of your reaching your goals,' explains Kashdan. For example, are you hoping to get through a business lunch without embarrassing yourself, or are you thinking about how fascinating the conversation might be?"
+    },
+    {
+      "label": "15",
+      "text": "H Usually, we think of courage in physical terms but ordinary life demands something else. For marketing executive Kenneth Pedeleose, it meant speaking out against something he thought was ethically wrong. The new manager was intimidating staff so Pedeleose carefully recorded each instance of bullying and eventually took the evidence to a senior director, knowing his own job security would be threatened. Eventually the manager was the one to go. According to Cynthia Pury, a psychologist at Clemson University, Pedeleose's story proves the point that courage is not motivated by fearlessness, but by moral obligation. Pury also believes that people can acquire courage. Many of her students said that faced with a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations."
+    },
+    {
+      "label": "16",
+      "text": "Over the long term, picking up a new character trait may help you move toward being the person you want to be. And in the short term, the effort itself could be surprisingly rewarding, a kind of internal adventure."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 14-18\n\nComplete the summary below.\n\nWrite NO MORE THAN TWO WORDS in each gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Answer for gap 14.",
+          "answers": [
+            "transformation",
+            "change"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6848_927506",
+          "explanation": "题号：14\n\n定位词：Psychologists，impossible\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n14和15空在题干中同处于一个句子中，考生可以通过分析本句主干Psychologists have traditionally believed that ... and that ... 得知，这两空分别位于一个宾语从句中，都是心理学家传统上始终相信的观点。文章正文的第一段开篇即给出了“心理学家长久以来一直认为”这样一个同义替换信息，而题干问“个性的什么是不可能发生的\"，对比原文“人的个性不可能经历任何有意义的改变\"，答案为transformation.\n\n题号：15\n\n定位词：by, character, tends to be fixed\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n本题的定位紧跟上题，对应在原文中也是that引导的第二个宾语从句内容。此题的难点在于需要考生分析题干全句，发现本宾语从句的主干是\"a person's character tends to be fixed\" 并由此得出空格里内容应与\"by a\" 组合构成状语，对应原文的状语部分为\"at a very young age\"，但此部分填空题要求答案不超过两个单词，答案为young age。\n\n题号：16\n\n定位词：easiest, acquire\n\nSection A 第二段首句：Some qualities are less challenging to develop than others, optimism being one of them.\n\n本题干问“最容易获得的品质之一是什么”，此题的难点是原文表述得比较隐晦，说“有些品质不像其他另一些那样难于发展”,虽然与“最容易之一”并不完全对等，但却是原文中从意思上最接近的表达，答案为optimism。\n\n题号：17\n\n定位词：a wide variety of\n\nSection A 第二段第二句：However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising.\n\n题干问“无论要发展哪种品质都有必要学习一系列不同的什么”，题干中的a wide variety of与原文中的a range of的对应十分明显，答案为skills.\n\n题号：18\n\n定位词：understand, feel-Section\n\nA 第二段第三句: For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions.\n\n题干问“要增加幸福感，一个人必须理解和感受到什么”，对应到原文中的同义表述是experience,这几个单词的难度都不高，答案为negative emotions。",
+          "promptHtml": "Answer for gap 14."
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Answer for gap 15.",
+          "answers": [
+            "young age"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6848_358706",
+          "explanation": "题号：14\n\n定位词：Psychologists，impossible\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n14和15空在题干中同处于一个句子中，考生可以通过分析本句主干Psychologists have traditionally believed that ... and that ... 得知，这两空分别位于一个宾语从句中，都是心理学家传统上始终相信的观点。文章正文的第一段开篇即给出了“心理学家长久以来一直认为”这样一个同义替换信息，而题干问“个性的什么是不可能发生的\"，对比原文“人的个性不可能经历任何有意义的改变\"，答案为transformation.\n\n题号：15\n\n定位词：by, character, tends to be fixed\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n本题的定位紧跟上题，对应在原文中也是that引导的第二个宾语从句内容。此题的难点在于需要考生分析题干全句，发现本宾语从句的主干是\"a person's character tends to be fixed\" 并由此得出空格里内容应与\"by a\" 组合构成状语，对应原文的状语部分为\"at a very young age\"，但此部分填空题要求答案不超过两个单词，答案为young age。\n\n题号：16\n\n定位词：easiest, acquire\n\nSection A 第二段首句：Some qualities are less challenging to develop than others, optimism being one of them.\n\n本题干问“最容易获得的品质之一是什么”，此题的难点是原文表述得比较隐晦，说“有些品质不像其他另一些那样难于发展”,虽然与“最容易之一”并不完全对等，但却是原文中从意思上最接近的表达，答案为optimism。\n\n题号：17\n\n定位词：a wide variety of\n\nSection A 第二段第二句：However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising.\n\n题干问“无论要发展哪种品质都有必要学习一系列不同的什么”，题干中的a wide variety of与原文中的a range of的对应十分明显，答案为skills.\n\n题号：18\n\n定位词：understand, feel-Section\n\nA 第二段第三句: For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions.\n\n题干问“要增加幸福感，一个人必须理解和感受到什么”，对应到原文中的同义表述是experience,这几个单词的难度都不高，答案为negative emotions。",
+          "promptHtml": "Answer for gap 15."
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Answer for gap 16.",
+          "answers": [
+            "optimism"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6848_105143",
+          "explanation": "题号：14\n\n定位词：Psychologists，impossible\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n14和15空在题干中同处于一个句子中，考生可以通过分析本句主干Psychologists have traditionally believed that ... and that ... 得知，这两空分别位于一个宾语从句中，都是心理学家传统上始终相信的观点。文章正文的第一段开篇即给出了“心理学家长久以来一直认为”这样一个同义替换信息，而题干问“个性的什么是不可能发生的\"，对比原文“人的个性不可能经历任何有意义的改变\"，答案为transformation.\n\n题号：15\n\n定位词：by, character, tends to be fixed\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n本题的定位紧跟上题，对应在原文中也是that引导的第二个宾语从句内容。此题的难点在于需要考生分析题干全句，发现本宾语从句的主干是\"a person's character tends to be fixed\" 并由此得出空格里内容应与\"by a\" 组合构成状语，对应原文的状语部分为\"at a very young age\"，但此部分填空题要求答案不超过两个单词，答案为young age。\n\n题号：16\n\n定位词：easiest, acquire\n\nSection A 第二段首句：Some qualities are less challenging to develop than others, optimism being one of them.\n\n本题干问“最容易获得的品质之一是什么”，此题的难点是原文表述得比较隐晦，说“有些品质不像其他另一些那样难于发展”,虽然与“最容易之一”并不完全对等，但却是原文中从意思上最接近的表达，答案为optimism。\n\n题号：17\n\n定位词：a wide variety of\n\nSection A 第二段第二句：However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising.\n\n题干问“无论要发展哪种品质都有必要学习一系列不同的什么”，题干中的a wide variety of与原文中的a range of的对应十分明显，答案为skills.\n\n题号：18\n\n定位词：understand, feel-Section\n\nA 第二段第三句: For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions.\n\n题干问“要增加幸福感，一个人必须理解和感受到什么”，对应到原文中的同义表述是experience,这几个单词的难度都不高，答案为negative emotions。",
+          "promptHtml": "Answer for gap 16."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Answer for gap 17.",
+          "answers": [
+            "skills",
+            "techniques"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6848_876047",
+          "explanation": "题号：14\n\n定位词：Psychologists，impossible\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n14和15空在题干中同处于一个句子中，考生可以通过分析本句主干Psychologists have traditionally believed that ... and that ... 得知，这两空分别位于一个宾语从句中，都是心理学家传统上始终相信的观点。文章正文的第一段开篇即给出了“心理学家长久以来一直认为”这样一个同义替换信息，而题干问“个性的什么是不可能发生的\"，对比原文“人的个性不可能经历任何有意义的改变\"，答案为transformation.\n\n题号：15\n\n定位词：by, character, tends to be fixed\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n本题的定位紧跟上题，对应在原文中也是that引导的第二个宾语从句内容。此题的难点在于需要考生分析题干全句，发现本宾语从句的主干是\"a person's character tends to be fixed\" 并由此得出空格里内容应与\"by a\" 组合构成状语，对应原文的状语部分为\"at a very young age\"，但此部分填空题要求答案不超过两个单词，答案为young age。\n\n题号：16\n\n定位词：easiest, acquire\n\nSection A 第二段首句：Some qualities are less challenging to develop than others, optimism being one of them.\n\n本题干问“最容易获得的品质之一是什么”，此题的难点是原文表述得比较隐晦，说“有些品质不像其他另一些那样难于发展”,虽然与“最容易之一”并不完全对等，但却是原文中从意思上最接近的表达，答案为optimism。\n\n题号：17\n\n定位词：a wide variety of\n\nSection A 第二段第二句：However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising.\n\n题干问“无论要发展哪种品质都有必要学习一系列不同的什么”，题干中的a wide variety of与原文中的a range of的对应十分明显，答案为skills.\n\n题号：18\n\n定位词：understand, feel-Section\n\nA 第二段第三句: For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions.\n\n题干问“要增加幸福感，一个人必须理解和感受到什么”，对应到原文中的同义表述是experience,这几个单词的难度都不高，答案为negative emotions。",
+          "promptHtml": "Answer for gap 17."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Answer for gap 18.",
+          "answers": [
+            "negative emotions",
+            "negative feelings"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6848_308727",
+          "explanation": "题号：14\n\n定位词：Psychologists，impossible\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n14和15空在题干中同处于一个句子中，考生可以通过分析本句主干Psychologists have traditionally believed that ... and that ... 得知，这两空分别位于一个宾语从句中，都是心理学家传统上始终相信的观点。文章正文的第一段开篇即给出了“心理学家长久以来一直认为”这样一个同义替换信息，而题干问“个性的什么是不可能发生的\"，对比原文“人的个性不可能经历任何有意义的改变\"，答案为transformation.\n\n题号：15\n\n定位词：by, character, tends to be fixed\n\nSection A 第一段首句： Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.\n\n本题的定位紧跟上题，对应在原文中也是that引导的第二个宾语从句内容。此题的难点在于需要考生分析题干全句，发现本宾语从句的主干是\"a person's character tends to be fixed\" 并由此得出空格里内容应与\"by a\" 组合构成状语，对应原文的状语部分为\"at a very young age\"，但此部分填空题要求答案不超过两个单词，答案为young age。\n\n题号：16\n\n定位词：easiest, acquire\n\nSection A 第二段首句：Some qualities are less challenging to develop than others, optimism being one of them.\n\n本题干问“最容易获得的品质之一是什么”，此题的难点是原文表述得比较隐晦，说“有些品质不像其他另一些那样难于发展”,虽然与“最容易之一”并不完全对等，但却是原文中从意思上最接近的表达，答案为optimism。\n\n题号：17\n\n定位词：a wide variety of\n\nSection A 第二段第二句：However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising.\n\n题干问“无论要发展哪种品质都有必要学习一系列不同的什么”，题干中的a wide variety of与原文中的a range of的对应十分明显，答案为skills.\n\n题号：18\n\n定位词：understand, feel-Section\n\nA 第二段第三句: For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions.\n\n题干问“要增加幸福感，一个人必须理解和感受到什么”，对应到原文中的同义表述是experience,这几个单词的难度都不高，答案为negative emotions。",
+          "promptHtml": "Answer for gap 18."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><span>Psychologists have traditionally believed that a personality </span></span><strong>[14] ______</strong><span><span>was impossible </span></span><span><span>and that by a </span></span><strong>[15] ______</strong><span><span>a person&#x27;s character tends to be fixed. This is not true </span></span><span><span>according to positive psychologists, who say that our personal qualities can be seen as habitual behaviour. One of the easiest qualities to acquire is </span></span><strong>[16] ______</strong><span><span>However, regardless of the quality, it is necessary to learn a wide variety of different </span></span><strong>[17] ______</strong><span><span>in order for a new quality to develop; for example, a person must understand and feel some </span></span><strong>[18] ______</strong><span><span>in order to increase their happiness.</span></span></p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 19-22\n\nLook at the following statements (Questions 19-22) and the list of people below.\n\nMatch each statement with the correct person,A-G.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "[19] ______ People must accept that they do not know much when first trying something new.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6848_816304",
+          "explanation": "题号：19\n\n译文：人们必须接受这样一点：当他们刚刚开始尝试某项新事物的时候，所知道的就是不多。\n\n定位词：must accept, do not know much\n\nF段倒数第二句：Psychologist Todd Kashdan has this advice for those people taking up a new passion: 'As a new comer, you also have to tolerate and laugh at your own ignorance.'\n\n本题基本上就是考查考生对两组同义替换词的认知，tolerate 和accept放在上下文中表达的是类似的意思，ignorance 则相当于do not know much,答案为E。\n\n题号：20\n\n译文：人们要去积极地注意到发生的好事情，这一点很重要。\n\n定位词：actively notice, good things\n\nD 段：Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action.\n\n本题考查考生通读若干个句子并按照它们之间的逻辑关系理解其表达意思的能力。第一句出现了人名Suzanne Segerstrom,但却没有直接提及“人们要注意到好事情”，只是隐晦地说“要开发出乐观行为\" ；第二句进一步给出建议，同义地表述了“记录每天发生的三件好事”；如果考生读到此处依然没有获得\"明示\"，则再向下看一句会更加明显，答案为C。\n\n题号：21\n\n译文：勇气的源头是责任感，这一点一旦被理解了，人们也就学会了获得勇气。\n\n定位词：courage, responsibility\n\nH段第五句：According to Cynthia Pury, a psychologist at Clemson University, Pedelecose's story proves the point that courage is not motivated by fearlessness, but by moral obligation.\n\n本题有个小陷阱，原文句子中除了Cynthia Pury这个真正的观点外，还提及了Pedelcose这个F选项人名，但细心阅读此句就能发现，Pedcleose的故事只是作为一个例子来说明Pury的观点而已，并非在此发表自己的看法。至于moral obligation和sense of responsibility在文中的近义替换，从单词的角度来说倒是不难，答案为G。\n\n题号：22\n\n译文：当面对要在公众面前讲话的需要时，害羞感是有可能被克服的。\n\n定位词：overcome, shyness, speak in public\n\nB段：'The evidence is good that most personality traits can be altered,' says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. ' Now my extroverted behaviour is spontaneous,' he says.\n\n本题的出题方式与第20题有着相似之处：第一句中出现了人名， 但没有直接提到“克服害羞\"或“在公众面前讲话\" ；第二句话中提到了introverted和reticence这两个与题干中shyness有同义替换功用的单词，但对于不认识这两个词的考生来说则依然无法定位；到了第三、四句意思才更清晰一些，答案为A。",
+          "promptHtml": "[19] ______ People must accept that they do not know much when first trying something new."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "[20] ______ It is important for people to actively notice when good things happen.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6848_938963",
+          "explanation": "题号：19\n\n译文：人们必须接受这样一点：当他们刚刚开始尝试某项新事物的时候，所知道的就是不多。\n\n定位词：must accept, do not know much\n\nF段倒数第二句：Psychologist Todd Kashdan has this advice for those people taking up a new passion: 'As a new comer, you also have to tolerate and laugh at your own ignorance.'\n\n本题基本上就是考查考生对两组同义替换词的认知，tolerate 和accept放在上下文中表达的是类似的意思，ignorance 则相当于do not know much,答案为E。\n\n题号：20\n\n译文：人们要去积极地注意到发生的好事情，这一点很重要。\n\n定位词：actively notice, good things\n\nD 段：Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action.\n\n本题考查考生通读若干个句子并按照它们之间的逻辑关系理解其表达意思的能力。第一句出现了人名Suzanne Segerstrom,但却没有直接提及“人们要注意到好事情”，只是隐晦地说“要开发出乐观行为\" ；第二句进一步给出建议，同义地表述了“记录每天发生的三件好事”；如果考生读到此处依然没有获得\"明示\"，则再向下看一句会更加明显，答案为C。\n\n题号：21\n\n译文：勇气的源头是责任感，这一点一旦被理解了，人们也就学会了获得勇气。\n\n定位词：courage, responsibility\n\nH段第五句：According to Cynthia Pury, a psychologist at Clemson University, Pedelecose's story proves the point that courage is not motivated by fearlessness, but by moral obligation.\n\n本题有个小陷阱，原文句子中除了Cynthia Pury这个真正的观点外，还提及了Pedelcose这个F选项人名，但细心阅读此句就能发现，Pedcleose的故事只是作为一个例子来说明Pury的观点而已，并非在此发表自己的看法。至于moral obligation和sense of responsibility在文中的近义替换，从单词的角度来说倒是不难，答案为G。\n\n题号：22\n\n译文：当面对要在公众面前讲话的需要时，害羞感是有可能被克服的。\n\n定位词：overcome, shyness, speak in public\n\nB段：'The evidence is good that most personality traits can be altered,' says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. ' Now my extroverted behaviour is spontaneous,' he says.\n\n本题的出题方式与第20题有着相似之处：第一句中出现了人名， 但没有直接提到“克服害羞\"或“在公众面前讲话\" ；第二句话中提到了introverted和reticence这两个与题干中shyness有同义替换功用的单词，但对于不认识这两个词的考生来说则依然无法定位；到了第三、四句意思才更清晰一些，答案为A。",
+          "promptHtml": "[20] ______ It is important for people to actively notice when good things happen."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "[21] ______ Courage can be learned once its origins in a sense of responsibility are understood.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6848_929076",
+          "explanation": "题号：19\n\n译文：人们必须接受这样一点：当他们刚刚开始尝试某项新事物的时候，所知道的就是不多。\n\n定位词：must accept, do not know much\n\nF段倒数第二句：Psychologist Todd Kashdan has this advice for those people taking up a new passion: 'As a new comer, you also have to tolerate and laugh at your own ignorance.'\n\n本题基本上就是考查考生对两组同义替换词的认知，tolerate 和accept放在上下文中表达的是类似的意思，ignorance 则相当于do not know much,答案为E。\n\n题号：20\n\n译文：人们要去积极地注意到发生的好事情，这一点很重要。\n\n定位词：actively notice, good things\n\nD 段：Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action.\n\n本题考查考生通读若干个句子并按照它们之间的逻辑关系理解其表达意思的能力。第一句出现了人名Suzanne Segerstrom,但却没有直接提及“人们要注意到好事情”，只是隐晦地说“要开发出乐观行为\" ；第二句进一步给出建议，同义地表述了“记录每天发生的三件好事”；如果考生读到此处依然没有获得\"明示\"，则再向下看一句会更加明显，答案为C。\n\n题号：21\n\n译文：勇气的源头是责任感，这一点一旦被理解了，人们也就学会了获得勇气。\n\n定位词：courage, responsibility\n\nH段第五句：According to Cynthia Pury, a psychologist at Clemson University, Pedelecose's story proves the point that courage is not motivated by fearlessness, but by moral obligation.\n\n本题有个小陷阱，原文句子中除了Cynthia Pury这个真正的观点外，还提及了Pedelcose这个F选项人名，但细心阅读此句就能发现，Pedcleose的故事只是作为一个例子来说明Pury的观点而已，并非在此发表自己的看法。至于moral obligation和sense of responsibility在文中的近义替换，从单词的角度来说倒是不难，答案为G。\n\n题号：22\n\n译文：当面对要在公众面前讲话的需要时，害羞感是有可能被克服的。\n\n定位词：overcome, shyness, speak in public\n\nB段：'The evidence is good that most personality traits can be altered,' says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. ' Now my extroverted behaviour is spontaneous,' he says.\n\n本题的出题方式与第20题有着相似之处：第一句中出现了人名， 但没有直接提到“克服害羞\"或“在公众面前讲话\" ；第二句话中提到了introverted和reticence这两个与题干中shyness有同义替换功用的单词，但对于不认识这两个词的考生来说则依然无法定位；到了第三、四句意思才更清晰一些，答案为A。",
+          "promptHtml": "[21] ______ Courage can be learned once its origins in a sense of responsibility are understood."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "[22] ______ It is possible to overcome shyness when faced with the need to speak in public.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6848_555601",
+          "explanation": "题号：19\n\n译文：人们必须接受这样一点：当他们刚刚开始尝试某项新事物的时候，所知道的就是不多。\n\n定位词：must accept, do not know much\n\nF段倒数第二句：Psychologist Todd Kashdan has this advice for those people taking up a new passion: 'As a new comer, you also have to tolerate and laugh at your own ignorance.'\n\n本题基本上就是考查考生对两组同义替换词的认知，tolerate 和accept放在上下文中表达的是类似的意思，ignorance 则相当于do not know much,答案为E。\n\n题号：20\n\n译文：人们要去积极地注意到发生的好事情，这一点很重要。\n\n定位词：actively notice, good things\n\nD 段：Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action.\n\n本题考查考生通读若干个句子并按照它们之间的逻辑关系理解其表达意思的能力。第一句出现了人名Suzanne Segerstrom,但却没有直接提及“人们要注意到好事情”，只是隐晦地说“要开发出乐观行为\" ；第二句进一步给出建议，同义地表述了“记录每天发生的三件好事”；如果考生读到此处依然没有获得\"明示\"，则再向下看一句会更加明显，答案为C。\n\n题号：21\n\n译文：勇气的源头是责任感，这一点一旦被理解了，人们也就学会了获得勇气。\n\n定位词：courage, responsibility\n\nH段第五句：According to Cynthia Pury, a psychologist at Clemson University, Pedelecose's story proves the point that courage is not motivated by fearlessness, but by moral obligation.\n\n本题有个小陷阱，原文句子中除了Cynthia Pury这个真正的观点外，还提及了Pedelcose这个F选项人名，但细心阅读此句就能发现，Pedcleose的故事只是作为一个例子来说明Pury的观点而已，并非在此发表自己的看法。至于moral obligation和sense of responsibility在文中的近义替换，从单词的角度来说倒是不难，答案为G。\n\n题号：22\n\n译文：当面对要在公众面前讲话的需要时，害羞感是有可能被克服的。\n\n定位词：overcome, shyness, speak in public\n\nB段：'The evidence is good that most personality traits can be altered,' says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. ' Now my extroverted behaviour is spontaneous,' he says.\n\n本题的出题方式与第20题有着相似之处：第一句中出现了人名， 但没有直接提到“克服害羞\"或“在公众面前讲话\" ；第二句话中提到了introverted和reticence这两个与题干中shyness有同义替换功用的单词，但对于不认识这两个词的考生来说则依然无法定位；到了第三、四句意思才更清晰一些，答案为A。",
+          "promptHtml": "[22] ______ It is possible to overcome shyness when faced with the need to speak in public."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Christopher Peterson"
+        },
+        {
+          "value": "B",
+          "text": "David Fajgenbaum"
+        },
+        {
+          "value": "C",
+          "text": "Suzanne Segerstrom"
+        },
+        {
+          "value": "D",
+          "text": "Tanya Streeter"
+        },
+        {
+          "value": "E",
+          "text": "Todd Kashdan"
+        },
+        {
+          "value": "F",
+          "text": "Kenneth Pedeleose"
+        },
+        {
+          "value": "G",
+          "text": "Cynthia Pury"
+        }
+      ],
+      "contextHtml": "<p><strong>[19] ______</strong> <span><span>People must accept that they do not know much when first trying something new.</span></span></p>\n\n<p><strong>[20] ______</strong> <span><span> It is important for people to actively notice when good things happen.</span></span></p>\n\n<p><strong>[21] ______</strong> <span><span>Courage can be learned once its origins in a sense of responsibility are understood.</span></span></p>\n\n<p><strong>[22] ______</strong> <span><span>It is possible to overcome shyness when faced with the need to speak in public.</span></span></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 23-26\n\nReading Passage 2 has eight sections, A-H.\n\nWhich section contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "a mention of how rational thinking enabled someone to achieve physical goals",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6848_573662-1"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "an account of how someone overcame a sad experience",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6848_573662-2"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "a description of how someone decided to rethink their academic career path",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6848_573662-3"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "an example of how someone risked his career out of a sense of duty",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q6848_573662-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Second nature</span></strong><br><em><span>Your personality isn&#x27;t necessarily set in stone. With a little experimentation,<br>people can reshape their temperaments and inject passion, optimism, joy and<br>courage into their lives</span></em></p><p><strong>A</strong>    Psychologists have long held that a person&#x27;s character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age. However, researchers have begun looking more closely at ways we can change. Positive psychologists have identified 24 qualities we admire, such as loyalty and kindness, and are studying them to find out why they come so naturally to some people. What they&#x27;re discovering is that many of these qualities amount to habitual behaviour that determines the way we respond to the world. The good news is that all this can be learned.</p><p>Some qualities are less challenging to develop than others, optimism being one of them. However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising. For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions. Cultivating such qualities will help you realise your full potential.</p><p><strong>B</strong>    &#x27;The evidence is good that most personality traits can be altered/ says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. &#x27;Now my extroverted behaviour is spontaneous,&#x27; he says.</p><p><strong>C</strong>    David Fajgenbaum had to make a similar transition. He was preparing for university, when he had an accident that put an end to his sports career. On campus, he quickly found that beyond ordinary counselling, the university had no services for students who were undergoing physical rehabilitation and suffering from depression like him. He therefore launched a support group to help others in similar situations. He took action despite his own pain - a typical response of an optimist.</p><p><strong>D</strong>    Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action.</p><p><strong>E </strong>   You can recognise a person who is passionate about a pursuit by the way they are so strongly involved in it. Tanya Streeter&#x27;s passion is freediving ω the sport of plunging deep into the water without tanks or other breathing equipment. Beginning in 1998, she set nine world records and can hold her breath for six minutes. The physical stamina required for this sport is intense but the <br>psychological demands are even more overwhelming. Streeter learned to untangle her fears from her judgment of what her body and mind could do. &#x27;In my career as a competitive freediver, there was a limit to what I could do - but it wasn&#x27;t anywhere near what I thought it was,&#x27; she says.</p><p><strong>F </strong>   Finding a pursuit that excites you can improve anyone&#x27;s life. The secret about consuming passions, though, according to psychologist Paul Silvia of the University of North Carolina, is that&#x27; they require discipline, hard work and ability, which is why they are so rewarding/ Psychologist Todd Kashdan has this advice for those people taking up a new passion: &#x27;As a newcomer, you also have to tolerate and laugh at your own ignorance. You must be willing to accept the negative feelings that come your way&#x27; he says.</p><p><strong>G </strong>   In 2004, physician-scientist Mauro Zappaterra began his PhD research at Harvard Medical School. Unfortunately, he was miserable as his research wasn&#x27;t compatible with his curiosity about healing. He finally took a break and during eight months in Santa Fe, Zappaterra learned about alternative healing techniques not taught at Harvard. When he got back, he switched labs to study how cerebrospinal fluid nourishes the developing nervous system. He also vowed to look for the joy in everything, including failure, as this could help him learn about his research and himself.</p><p>One thing that can hold joy back is a person&#x27;s concentration on avoiding failure rather than their looking forward to doing something well. &#x27;Focusing on being safe might get in the way of your reaching your goals,&#x27; explains Kashdan. For example, are you hoping to get through a business lunch without embarrassing yourself, or are you thinking about how fascinating the conversation might be?</p><p><strong>H</strong>    Usually, we think of courage in physical terms but ordinary life demands something else. For marketing executive Kenneth Pedeleose, it meant speaking out against something he thought was ethically wrong. The new manager was intimidating staff so Pedeleose carefully recorded each instance of bullying and eventually took the evidence to a senior director, knowing his own job security would be threatened. Eventually the manager was the one to go. According to Cynthia Pury, a psychologist at Clemson University, Pedeleose&#x27;s story proves the point that courage is not motivated by fearlessness, but by moral obligation. Pury also believes that people can acquire courage. Many of her students said that faced with a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations.</p><p>Over the long term, picking up a new character trait may help you move toward being the person you want to be. And in the short term, the effort itself could be surprisingly rewarding, a kind of internal adventure.</p>"
+}

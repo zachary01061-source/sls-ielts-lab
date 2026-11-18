@@ -1,0 +1,291 @@
+{
+  "id": "cambridge-7-test-4-reading-2",
+  "title": "Endless Harvest",
+  "titleCn": "Endless Harvest",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 4
+  },
+  "sourceQuestionId": "6990",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6990",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Endless Harvest"
+    },
+    {
+      "label": "2",
+      "text": "More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands' native inhabitants called this land mass Aleyska, the 'Great Land'; today, we know it as Alaska."
+    },
+    {
+      "label": "3",
+      "text": "The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska's commercial fisheries have developed into some of the largest in the world."
+    },
+    {
+      "label": "4",
+      "text": "According to the Alaska Department of Fish and Game (ADF&G), Alaska's commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska's fisheries, however, is salmon. 'Salmon,' notes writer Susan Ewing in The Great Alaska Nature Factbook, 'pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.' The 'predictable abundance of salmon allowed some native cultures to flourish,' and 'dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.' All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million."
+    },
+    {
+      "label": "5",
+      "text": "Catches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska's natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish."
+    },
+    {
+      "label": "6",
+      "text": "The primary reason for such increases is what is known as 'In-Season Abundance-Based Management'. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered."
+    },
+    {
+      "label": "7",
+      "text": "In 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others."
+    },
+    {
+      "label": "8",
+      "text": "Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC's final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated."
+    },
+    {
+      "label": "9",
+      "text": "The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño / la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes."
+    },
+    {
+      "label": "10",
+      "text": "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards."
+    },
+    {
+      "label": "11",
+      "text": "* spawners: fish that have released eggs"
+    },
+    {
+      "label": "12",
+      "text": "** spawn: release eggs"
+    },
+    {
+      "label": "13",
+      "text": "*** MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 14-20\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "The inhabitants of the Aleutian islands renamed their islands 'Aleyska'.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6990_133565",
+          "explanation": "参考译文：阿留申群岛的居民将他们的岛名改为“Aleyska\"。\n\n定位词：inhabitants, Aleutian islands, Aleyska\n\n第一段末句：The islands' native inhabitants called this land mass Aleyska, the “Great Land\"; ...此题定位词均在文章第一段以原词出现。其含义为“岛上居民称此岛为Aleyska\" ,而题中关键词为重命名(renamed)，与文章不符，故此题答案为FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Alaska's fisheries are owned by some of the world's largest companies.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6990_365039",
+          "explanation": "参考译文：阿拉斯加的渔场属于一些世界上最大的公司。\n\n定位词：Alaska's fisheries, largest companies\n\n第二段末句：Taking advantage of this rich bounty, Alaska's commercial fisheries have developed into some of the largest in the world.此题通过定位词可以快速定位。文中定位句指出，阿拉斯加的一些商业渔场发展成为世界上最大的。题目中所提到的“渔场为最大的公司所拥有”在文中并未提及，所以此题答案为NOT GIVEN。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Life in Alaska is dependent on salmon.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6990_478243",
+          "explanation": "参考译文：阿拉斯加的生活依赖于大马哈鱼。\n\n定位词：life, salmon\n\n第三段中间：'Salmon,' notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, ....通过题中定位词可定位于首次出现salmon的第三段。定位处运用比喻的手法说明大马哈鱼对于阿拉斯加意义重大，就像流过心脏的血液一样，这与题目中的dependent on(依赖于)对应，故此题答案为TRUE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Ninety per cent of all Pacific salmon caught are sockeye or pink salmon.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6990_556196",
+          "explanation": "参考译文：被捕捞的太平洋大马哈鱼有90%是红大马哈鱼或粉大马哈鱼。\n\n定位词：ninety per cent, Pacific salmon\n\n第三段后半部分：All five species of Pacific salmon—chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback—spawn in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there.此题定位词均在文中以原词出现，定位句介绍了在阿拉斯加水域产卵的五种太平洋大马哈鱼，并指出被捕捞的太平洋大马哈鱼有90%都产自此水域。而题目却将产自此水域的五种鱼等同为一种，是典型的“由文到题范围缩小型”，故此题答案为NOT GIVEN。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "More than 320,000 tonnes of salmon were caught in Alaska in 2000.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6990_179796",
+          "explanation": "参考译文：在2000年，超过32万吨大马哈鱼在阿拉斯加被捕捞。\n\n定位词：Alaska，in 2000\n\n第三段末句：During 2000, commercial catch of Pacific salmon in Alaska exceeded 320,000 tonnes, …根据顺序原则可迅速定位此题，且定位句和题目内容一致，文化中的exceeded与题目中的more than属于同义转述。故此题答案为TRUE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Between 1940 and 1959, there was a sharp decrease in Alaska's salmon population.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6990_641591",
+          "explanation": "参考译文：在1940到1959年间，阿拉斯加的大马哈鱼总量急剧下降。\n\n定位词：Between 1940 and 1959, Alaska's salmon population\n\n第四段第二句：Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that…定位词均以原词出现，定位句指出，在1940到1959年间，过度捕捞导致大马哈鱼总量大跌，这与题目完全一致。文章中的crashes与题目中的sharp decrease属于同义转述。故此题答案为TRUE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "During the 1990s, the average number of salmon caught each year was 100 million.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6990_316401",
+          "explanation": "参考译文：在20世纪90年代，大马哈鱼的年捕捞量平均为1亿。\n\n定位词：1990s, average number\n\n第四段末句：... during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish.根据年代可迅速定位于第四段末句，定位句指出年捕捞量超过( in excess of)1亿，还有些年份为2亿，而题目则说平均为1亿，故此题答案为FALSE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 21-26\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "In Alaska, biologists keep a check on adult fish in Alaska, [21] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6990_977977",
+          "explanation": "题号：21\n\n定位词：biologists, adult fish\n\n第五段第二句：There are biologists throughout the state constantly monitoring adult fish as they show up to spawn.此题定位较易，但解题较难。由定位句可知生物学家从成年鱼类开始产卵时对其进行监控，但是未直接指出其目的，考上只能通过理解该段上下文分析得出：生物学家的监控是“当季捕捞盈余为本”管理方法的一部分，而这项管理带来了鱼量的增加，从而得出生物学家的目的是监控鱼量是否充足（abundance）。通过扫描选项关键词，只有G选项能与之对应：to ensure that fish numbers are sufficient(对应abundance ) to permit fishing。故正确答案为G。\n\n题号：22\n\n定位词：authority\n\n第五段中间：…, but on any given day, one or more field biologists in a particular area can put a halt to fishing.此题定位较难，考生应使用排除法，最后解决这道题。定位句指出生物学家可以制止( halt)捕鱼行为。通过扫描选项关键词,只有E选项关键词能与之对应：to stop(对应halt) people fishing for sport。故正确答案为E。\n\n题号：23\n\n定位词：allowed\n\n第五段末句：It is this management mech-anism that has allowed Alaska salmon stocks... to prosper, ...此题按照顺序原则可迅速定位，定位句指出该项管理手段使得阿拉斯加的大马哈鱼渔业开始繁荣(prosper)。通过扫描选项关键词，只有B选项关键词能与之对应： to be successful(对应prosper)。故正确答案为B。\n\n题号：24\n\n定位词：MSC, establish\n\n第六段第二句：The Council, which was found in 1996, certifies fisheries that meet high environmental standards, …要定位此题，必须先辨识出established在文中的同义转述was found，定位句指出MSC会认证满足高环保标准的渔场；通过扫描选项关键词，只有A选项关键词能与之对应: to recognise(对应certifies)fisheries that care for the environment (对应meet high environmental standards)。故正确答案为A。\n\n题号：25\n\n定位词：the state\n\n第八段末句：However, the state reacted quickly, closing down all fisheries, …通过题干主语可快速定位，通过扫描定位句和剩余选项可以很快看出K选项“to close down all fisheries”与原文几乎完全一致。故正确答案为K。\n\n题号：26\n\n定位词：seven Alaska salmon\n\n第九段第二句：Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.此题定位句指出题目中提到的7家公司被授权可以在自己的产品上使用MSC的标志。通过扫描选项关键词及剩余选项，发现F选项“to label(对应display ) their products using the MSC logo”几乎与原文一致。故正确答案为F。",
+          "promptHtml": "In Alaska, biologists keep a check on adult fish in Alaska, [21] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Biologists have the authority [22] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6990_489717",
+          "explanation": "题号：21\n\n定位词：biologists, adult fish\n\n第五段第二句：There are biologists throughout the state constantly monitoring adult fish as they show up to spawn.此题定位较易，但解题较难。由定位句可知生物学家从成年鱼类开始产卵时对其进行监控，但是未直接指出其目的，考上只能通过理解该段上下文分析得出：生物学家的监控是“当季捕捞盈余为本”管理方法的一部分，而这项管理带来了鱼量的增加，从而得出生物学家的目的是监控鱼量是否充足（abundance）。通过扫描选项关键词，只有G选项能与之对应：to ensure that fish numbers are sufficient(对应abundance ) to permit fishing。故正确答案为G。\n\n题号：22\n\n定位词：authority\n\n第五段中间：…, but on any given day, one or more field biologists in a particular area can put a halt to fishing.此题定位较难，考生应使用排除法，最后解决这道题。定位句指出生物学家可以制止( halt)捕鱼行为。通过扫描选项关键词,只有E选项关键词能与之对应：to stop(对应halt) people fishing for sport。故正确答案为E。\n\n题号：23\n\n定位词：allowed\n\n第五段末句：It is this management mech-anism that has allowed Alaska salmon stocks... to prosper, ...此题按照顺序原则可迅速定位，定位句指出该项管理手段使得阿拉斯加的大马哈鱼渔业开始繁荣(prosper)。通过扫描选项关键词，只有B选项关键词能与之对应： to be successful(对应prosper)。故正确答案为B。\n\n题号：24\n\n定位词：MSC, establish\n\n第六段第二句：The Council, which was found in 1996, certifies fisheries that meet high environmental standards, …要定位此题，必须先辨识出established在文中的同义转述was found，定位句指出MSC会认证满足高环保标准的渔场；通过扫描选项关键词，只有A选项关键词能与之对应: to recognise(对应certifies)fisheries that care for the environment (对应meet high environmental standards)。故正确答案为A。\n\n题号：25\n\n定位词：the state\n\n第八段末句：However, the state reacted quickly, closing down all fisheries, …通过题干主语可快速定位，通过扫描定位句和剩余选项可以很快看出K选项“to close down all fisheries”与原文几乎完全一致。故正确答案为K。\n\n题号：26\n\n定位词：seven Alaska salmon\n\n第九段第二句：Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.此题定位句指出题目中提到的7家公司被授权可以在自己的产品上使用MSC的标志。通过扫描选项关键词及剩余选项，发现F选项“to label(对应display ) their products using the MSC logo”几乎与原文一致。故正确答案为F。",
+          "promptHtml": "Biologists have the authority [22] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "In-Season Abundance-Based Management has allowed the Alaska salmon fisheries [23] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6990_800427",
+          "explanation": "题号：21\n\n定位词：biologists, adult fish\n\n第五段第二句：There are biologists throughout the state constantly monitoring adult fish as they show up to spawn.此题定位较易，但解题较难。由定位句可知生物学家从成年鱼类开始产卵时对其进行监控，但是未直接指出其目的，考上只能通过理解该段上下文分析得出：生物学家的监控是“当季捕捞盈余为本”管理方法的一部分，而这项管理带来了鱼量的增加，从而得出生物学家的目的是监控鱼量是否充足（abundance）。通过扫描选项关键词，只有G选项能与之对应：to ensure that fish numbers are sufficient(对应abundance ) to permit fishing。故正确答案为G。\n\n题号：22\n\n定位词：authority\n\n第五段中间：…, but on any given day, one or more field biologists in a particular area can put a halt to fishing.此题定位较难，考生应使用排除法，最后解决这道题。定位句指出生物学家可以制止( halt)捕鱼行为。通过扫描选项关键词,只有E选项关键词能与之对应：to stop(对应halt) people fishing for sport。故正确答案为E。\n\n题号：23\n\n定位词：allowed\n\n第五段末句：It is this management mech-anism that has allowed Alaska salmon stocks... to prosper, ...此题按照顺序原则可迅速定位，定位句指出该项管理手段使得阿拉斯加的大马哈鱼渔业开始繁荣(prosper)。通过扫描选项关键词，只有B选项关键词能与之对应： to be successful(对应prosper)。故正确答案为B。\n\n题号：24\n\n定位词：MSC, establish\n\n第六段第二句：The Council, which was found in 1996, certifies fisheries that meet high environmental standards, …要定位此题，必须先辨识出established在文中的同义转述was found，定位句指出MSC会认证满足高环保标准的渔场；通过扫描选项关键词，只有A选项关键词能与之对应: to recognise(对应certifies)fisheries that care for the environment (对应meet high environmental standards)。故正确答案为A。\n\n题号：25\n\n定位词：the state\n\n第八段末句：However, the state reacted quickly, closing down all fisheries, …通过题干主语可快速定位，通过扫描定位句和剩余选项可以很快看出K选项“to close down all fisheries”与原文几乎完全一致。故正确答案为K。\n\n题号：26\n\n定位词：seven Alaska salmon\n\n第九段第二句：Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.此题定位句指出题目中提到的7家公司被授权可以在自己的产品上使用MSC的标志。通过扫描选项关键词及剩余选项，发现F选项“to label(对应display ) their products using the MSC logo”几乎与原文一致。故正确答案为F。",
+          "promptHtml": "In-Season Abundance-Based Management has allowed the Alaska salmon fisheries [23] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "The Marine Stewardship Council (MSC) was established [24] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6990_551789",
+          "explanation": "题号：21\n\n定位词：biologists, adult fish\n\n第五段第二句：There are biologists throughout the state constantly monitoring adult fish as they show up to spawn.此题定位较易，但解题较难。由定位句可知生物学家从成年鱼类开始产卵时对其进行监控，但是未直接指出其目的，考上只能通过理解该段上下文分析得出：生物学家的监控是“当季捕捞盈余为本”管理方法的一部分，而这项管理带来了鱼量的增加，从而得出生物学家的目的是监控鱼量是否充足（abundance）。通过扫描选项关键词，只有G选项能与之对应：to ensure that fish numbers are sufficient(对应abundance ) to permit fishing。故正确答案为G。\n\n题号：22\n\n定位词：authority\n\n第五段中间：…, but on any given day, one or more field biologists in a particular area can put a halt to fishing.此题定位较难，考生应使用排除法，最后解决这道题。定位句指出生物学家可以制止( halt)捕鱼行为。通过扫描选项关键词,只有E选项关键词能与之对应：to stop(对应halt) people fishing for sport。故正确答案为E。\n\n题号：23\n\n定位词：allowed\n\n第五段末句：It is this management mech-anism that has allowed Alaska salmon stocks... to prosper, ...此题按照顺序原则可迅速定位，定位句指出该项管理手段使得阿拉斯加的大马哈鱼渔业开始繁荣(prosper)。通过扫描选项关键词，只有B选项关键词能与之对应： to be successful(对应prosper)。故正确答案为B。\n\n题号：24\n\n定位词：MSC, establish\n\n第六段第二句：The Council, which was found in 1996, certifies fisheries that meet high environmental standards, …要定位此题，必须先辨识出established在文中的同义转述was found，定位句指出MSC会认证满足高环保标准的渔场；通过扫描选项关键词，只有A选项关键词能与之对应: to recognise(对应certifies)fisheries that care for the environment (对应meet high environmental standards)。故正确答案为A。\n\n题号：25\n\n定位词：the state\n\n第八段末句：However, the state reacted quickly, closing down all fisheries, …通过题干主语可快速定位，通过扫描定位句和剩余选项可以很快看出K选项“to close down all fisheries”与原文几乎完全一致。故正确答案为K。\n\n题号：26\n\n定位词：seven Alaska salmon\n\n第九段第二句：Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.此题定位句指出题目中提到的7家公司被授权可以在自己的产品上使用MSC的标志。通过扫描选项关键词及剩余选项，发现F选项“to label(对应display ) their products using the MSC logo”几乎与原文一致。故正确答案为F。",
+          "promptHtml": "The Marine Stewardship Council (MSC) was established [24] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "As a result of the collapse of the salmon runs in 1999, the state decided [25] ______",
+          "answers": [
+            "K"
+          ],
+          "sourceCode": "Q6990_520445",
+          "explanation": "题号：21\n\n定位词：biologists, adult fish\n\n第五段第二句：There are biologists throughout the state constantly monitoring adult fish as they show up to spawn.此题定位较易，但解题较难。由定位句可知生物学家从成年鱼类开始产卵时对其进行监控，但是未直接指出其目的，考上只能通过理解该段上下文分析得出：生物学家的监控是“当季捕捞盈余为本”管理方法的一部分，而这项管理带来了鱼量的增加，从而得出生物学家的目的是监控鱼量是否充足（abundance）。通过扫描选项关键词，只有G选项能与之对应：to ensure that fish numbers are sufficient(对应abundance ) to permit fishing。故正确答案为G。\n\n题号：22\n\n定位词：authority\n\n第五段中间：…, but on any given day, one or more field biologists in a particular area can put a halt to fishing.此题定位较难，考生应使用排除法，最后解决这道题。定位句指出生物学家可以制止( halt)捕鱼行为。通过扫描选项关键词,只有E选项关键词能与之对应：to stop(对应halt) people fishing for sport。故正确答案为E。\n\n题号：23\n\n定位词：allowed\n\n第五段末句：It is this management mech-anism that has allowed Alaska salmon stocks... to prosper, ...此题按照顺序原则可迅速定位，定位句指出该项管理手段使得阿拉斯加的大马哈鱼渔业开始繁荣(prosper)。通过扫描选项关键词，只有B选项关键词能与之对应： to be successful(对应prosper)。故正确答案为B。\n\n题号：24\n\n定位词：MSC, establish\n\n第六段第二句：The Council, which was found in 1996, certifies fisheries that meet high environmental standards, …要定位此题，必须先辨识出established在文中的同义转述was found，定位句指出MSC会认证满足高环保标准的渔场；通过扫描选项关键词，只有A选项关键词能与之对应: to recognise(对应certifies)fisheries that care for the environment (对应meet high environmental standards)。故正确答案为A。\n\n题号：25\n\n定位词：the state\n\n第八段末句：However, the state reacted quickly, closing down all fisheries, …通过题干主语可快速定位，通过扫描定位句和剩余选项可以很快看出K选项“to close down all fisheries”与原文几乎完全一致。故正确答案为K。\n\n题号：26\n\n定位词：seven Alaska salmon\n\n第九段第二句：Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.此题定位句指出题目中提到的7家公司被授权可以在自己的产品上使用MSC的标志。通过扫描选项关键词及剩余选项，发现F选项“to label(对应display ) their products using the MSC logo”几乎与原文一致。故正确答案为F。",
+          "promptHtml": "As a result of the collapse of the salmon runs in 1999, the state decided [25] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "In September 2000, the MSC allowed seven Alaska salmon companies [26] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6990_958657",
+          "explanation": "题号：21\n\n定位词：biologists, adult fish\n\n第五段第二句：There are biologists throughout the state constantly monitoring adult fish as they show up to spawn.此题定位较易，但解题较难。由定位句可知生物学家从成年鱼类开始产卵时对其进行监控，但是未直接指出其目的，考上只能通过理解该段上下文分析得出：生物学家的监控是“当季捕捞盈余为本”管理方法的一部分，而这项管理带来了鱼量的增加，从而得出生物学家的目的是监控鱼量是否充足（abundance）。通过扫描选项关键词，只有G选项能与之对应：to ensure that fish numbers are sufficient(对应abundance ) to permit fishing。故正确答案为G。\n\n题号：22\n\n定位词：authority\n\n第五段中间：…, but on any given day, one or more field biologists in a particular area can put a halt to fishing.此题定位较难，考生应使用排除法，最后解决这道题。定位句指出生物学家可以制止( halt)捕鱼行为。通过扫描选项关键词,只有E选项关键词能与之对应：to stop(对应halt) people fishing for sport。故正确答案为E。\n\n题号：23\n\n定位词：allowed\n\n第五段末句：It is this management mech-anism that has allowed Alaska salmon stocks... to prosper, ...此题按照顺序原则可迅速定位，定位句指出该项管理手段使得阿拉斯加的大马哈鱼渔业开始繁荣(prosper)。通过扫描选项关键词，只有B选项关键词能与之对应： to be successful(对应prosper)。故正确答案为B。\n\n题号：24\n\n定位词：MSC, establish\n\n第六段第二句：The Council, which was found in 1996, certifies fisheries that meet high environmental standards, …要定位此题，必须先辨识出established在文中的同义转述was found，定位句指出MSC会认证满足高环保标准的渔场；通过扫描选项关键词，只有A选项关键词能与之对应: to recognise(对应certifies)fisheries that care for the environment (对应meet high environmental standards)。故正确答案为A。\n\n题号：25\n\n定位词：the state\n\n第八段末句：However, the state reacted quickly, closing down all fisheries, …通过题干主语可快速定位，通过扫描定位句和剩余选项可以很快看出K选项“to close down all fisheries”与原文几乎完全一致。故正确答案为K。\n\n题号：26\n\n定位词：seven Alaska salmon\n\n第九段第二句：Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.此题定位句指出题目中提到的7家公司被授权可以在自己的产品上使用MSC的标志。通过扫描选项关键词及剩余选项，发现F选项“to label(对应display ) their products using the MSC logo”几乎与原文一致。故正确答案为F。",
+          "promptHtml": "In September 2000, the MSC allowed seven Alaska salmon companies [26] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "to recognise fisheries that care for the environment."
+        },
+        {
+          "value": "B",
+          "text": "to be successful."
+        },
+        {
+          "value": "C",
+          "text": "to stop fish from spawning."
+        },
+        {
+          "value": "D",
+          "text": "to set up environmental protection laws."
+        },
+        {
+          "value": "E",
+          "text": "to stop people fishing for sport."
+        },
+        {
+          "value": "F",
+          "text": "to label their products using the MSC logo."
+        },
+        {
+          "value": "G",
+          "text": "to ensure that fish numbers are sufficient to permit fishing."
+        },
+        {
+          "value": "H",
+          "text": "to assist the subsistence communities in the region."
+        },
+        {
+          "value": "I",
+          "text": "to freeze a huge number of salmon eggs."
+        },
+        {
+          "value": "J",
+          "text": "to deny certification to the Alaska fisheries."
+        },
+        {
+          "value": "K",
+          "text": "to close down all fisheries."
+        }
+      ],
+      "contextHtml": "<p>In Alaska, biologists keep a check on adult fish in Alaska, <strong>[21] ______</strong> </p>\n\n<p>Biologists have the authority <strong>[22] ______</strong> </p>\n\n<p>In-Season Abundance-Based Management has allowed the Alaska salmon fisheries <strong>[23] ______</strong> </p>\n\n<p>The Marine Stewardship Council (MSC) was established <strong>[24] ______</strong> </p>\n\n<p>As a result of the collapse of the salmon runs in 1999, the state decided <strong>[25] ______</strong>  </p>\n\n<p>In September 2000, the MSC allowed seven Alaska salmon companies <strong>[26] ______</strong>  </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Endless Harvest</span></strong></p><p>More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands&#x27; native inhabitants called this land mass Aleyska, the &#x27;Great Land&#x27;; today, we know it as Alaska.</p><p>The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska&#x27;s commercial fisheries have developed into some of the largest in the world.</p><p>According to the Alaska Department of Fish and Game (ADF&amp;G), Alaska&#x27;s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska&#x27;s fisheries, however, is salmon. &#x27;Salmon,&#x27; notes writer Susan Ewing in The Great Alaska Nature Factbook, &#x27;pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.&#x27; The &#x27;predictable abundance of salmon allowed some native cultures to flourish,&#x27; and &#x27;dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.&#x27; All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million.</p><p>Catches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska&#x27;s natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish.</p><p>The primary reason for such increases is what is known as &#x27;In-Season Abundance-Based Management&#x27;. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered.</p><p>In 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others.</p><p>Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC&#x27;s final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated.</p><p>The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño / la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes.</p><p>In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards.</p><p>* spawners: fish that have released eggs</p><p>** spawn: release eggs</p><p>*** MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national</p>"
+}

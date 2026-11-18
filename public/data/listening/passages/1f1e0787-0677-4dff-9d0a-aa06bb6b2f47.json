@@ -1,0 +1,220 @@
+{
+  "id": "1f1e0787-0677-4dff-9d0a-aa06bb6b2f47",
+  "title": "Overheating on the London underground train system（机经听写）",
+  "titleCn": "伦敦地铁过热问题及解决方案",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/1f1e0787-0677-4dff-9d0a-aa06bb6b2f47",
+  "duration": 186,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Listening, part four, dictation, topic, overheating on the London Underground train system. The reason why the system gets so hot is because some tunnels are very narrow and deep. Another reason is that the original designers didn't expect the fast population growth. Newspapers often block air vents behind seats on train carriages. There are some primary issues for engineers. They have to consider how the systems would make people on the platforms hotter, how security could be retained if large shafts were made as well as the impact of the shafts on London, buildings and parks."
+    },
+    {
+      "label": "2",
+      "text": "There are some solutions. First of all, new large fans have lowered temperatures slightly. Secondly, large amounts of water might help cool the air. There are some benefits. For example, heat could be used to remove ice from the streets. When a solution to overheating is found, there could be an increase in tourism."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "0954ff54-9a15-4062-8c01-445f65659cbb",
+          "prompt": "The reason why the system gets so hot is because some tunnels are very narrow and **31**_____ .",
+          "answers": [
+            "deep"
+          ],
+          "rawAnswer": "deep",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The reason why the system gets so hot is because some tunnels are very narrow and deep."
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "873f2845-4366-4777-b9b9-8b3c8204acf0",
+          "prompt": "Another reason is that the original designers didn`t expect the fast **32**_____ growth.",
+          "answers": [
+            "population"
+          ],
+          "rawAnswer": "population",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another reason is that the original designers didn't expect the fast population growth"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "010eb9a7-34de-4829-ad1a-f506e2c05b5e",
+          "prompt": "**33**_____ often block air vents behind seats on trains carriages.",
+          "answers": [
+            "newspapers"
+          ],
+          "rawAnswer": "newspapers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Newspapers often block air vents behind seats on train carriages."
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "There are some primary issues for engineers, so they have to consider how the system would make people on the **34**_____ feel and how **35**_____ could be retained if large shafts were made",
+      "questions": [
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "0e4e33d9-e19a-40b0-b312-dfb2a6eb67ea",
+          "prompt": "34. _____",
+          "answers": [
+            "platforms"
+          ],
+          "rawAnswer": "platforms",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They have to consider how the systems would make people on the platforms hotter, how security could be retained if large shafts were made as well as the impact of the shafts on London"
+          },
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "f8b0908e-13fb-4b58-9d06-9aacb742642b",
+          "prompt": "35. _____",
+          "answers": [
+            "security"
+          ],
+          "rawAnswer": "security",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They have to consider how the systems would make people on the platforms hotter, how security could be retained if large shafts were made as well as the impact of the shafts on London"
+          },
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "84d50caf-3305-401a-8722-b0916ff82610",
+          "prompt": "as well as the impact of the shafts on London`s buildings and **36**_____ .",
+          "answers": [
+            "parks"
+          ],
+          "rawAnswer": "parks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "how security could be retained if large shafts were made as well as the impact of the shafts on London, buildings and parks"
+          },
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "d663eae4-4d34-45d9-acc6-2479f0ec6e45",
+          "prompt": "There are some solutions.\nFirst of all, new large **37**_____ have lowered temperatures slightly.",
+          "answers": [
+            "fans"
+          ],
+          "rawAnswer": "fans",
+          "evidence": {
+            "paragraph": "",
+            "quote": "First of all, new large fans have lowered temperatures slightly"
+          },
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "6c602f1f-8493-4329-aa81-5e1f0a0e772e",
+          "prompt": "Second, large amounts of **38**_____ might help cool the air.",
+          "answers": [
+            "water"
+          ],
+          "rawAnswer": "water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Secondly, large amounts of water might help cool the air"
+          },
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "948eb7f2-21ef-4180-b661-02092fb23caa",
+          "prompt": "There are some benefits. For example, heat could be used to remove ice from the **39**_____ .",
+          "answers": [
+            "street"
+          ],
+          "rawAnswer": "street",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, heat could be used to remove ice from the streets"
+          },
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "bd0a614b-6b24-423e-83e4-97c712f7e626",
+          "prompt": "When a solution to overheating is found, there could be an increase in **40**_____ .",
+          "answers": [
+            "tourism"
+          ],
+          "rawAnswer": "tourism",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When a solution to overheating is found, there could be an increase in tourism"
+          },
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Listening, part four, dictation, topic, overheating on the London Underground train system. The reason why the system gets so hot is because some tunnels are very narrow and deep. Another reason is that the original designers didn't expect the fast population growth. Newspapers often block air vents behind seats on train carriages. There are some primary issues for engineers. They have to consider how the systems would make people on the platforms hotter, how security could be retained if large shafts were made as well as the impact of the shafts on London, buildings and parks. </p><p>There are some solutions. First of all, new large fans have lowered temperatures slightly. Secondly, large amounts of water might help cool the air. There are some benefits. For example, heat could be used to remove ice from the streets. When a solution to overheating is found, there could be an increase in tourism. <span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/1f1e0787-0677-4dff-9d0a-aa06bb6b2f47.mp3",
+    "durationSeconds": 65.04,
+    "sizeBytes": 1041171,
+    "sha256": "3092e1ef6966a935a9287bd242da3cb833ff979ec4bd9996ab99ab4689946056",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:34:56Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1788858156274_75029bb2_1788858156274_sy20ba.mp3"
+}

@@ -1,0 +1,322 @@
+{
+  "id": "0a57732c-034a-4ed4-9242-9ca1929c55f2",
+  "title": "Nanotechnology and its applications",
+  "titleCn": "纳米技术及其应用",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/0a57732c-034a-4ed4-9242-9ca1929c55f2",
+  "duration": 496,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:05,460"
+    },
+    {
+      "label": "2",
+      "text": "Part four. You will hear part of a lecture on nanotechnology and its applications. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:01:08,460"
+    },
+    {
+      "label": "4",
+      "text": "Now, listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:01:16,340"
+    },
+    {
+      "label": "6",
+      "text": "Today's lecture is the first of a series of lectures on nanotechnology. Nanotechnology, sometimes shortened to nanotech, refers to the manipulation of matter on an atomic and molecular level. It's a science, engineering, and technology conducted at the nanoscale, which is about one to one hundred nanometers. It is the study and application of extremely small things and can be used across all the other science fields. Just how small is that? A nanometer is one-billionth of a meter. The idea of nanoscale research first started from a physicist called Richard Feynman in nineteen fifty-nine. He envisaged a process in which scientists would be able to manipulate and control individual atoms and molecules. In fact, it wasn't until nineteen eighty-one, with the invention of a special kind of microscope, that modern nanotechnology truly began. Even though nanotechnology has created many new materials and devices with a vast range of applications, there is always concern over these unnatural products. Many people are worried that they may pose a threat to the environment, health, and safety, also known as EHS. In order to better understand and evaluate the potential harm, risk assessment has been introduced. There are also ongoing international collaborations on nano EHS research and related policy issues. Despite the concern, nanotechnology has benefited society in unexpected ways. In the food processing industry, nanotechnology is leveraged against iron deficiency, which triggers anemia. For example, by reducing the particle size in potatoes, this new technology improves the bioavailability of this nutritional ingredient without the tendency to cause color and odor changes. In terms of packaging, nanomaterials are more economical and are used in all sorts of products, chocolate in particular. Nanotechnology can also enhance the flavor of food. On a domestic scale, we expect more smart furniture, which is made of shape memory alloys, to be manufactured."
+    },
+    {
+      "label": "7",
+      "text": "00:03:26,240"
+    },
+    {
+      "label": "8",
+      "text": "But nanotechnology has much wider application than this and could also help develop sustainable agriculture. It offers great potential to strengthen the effect of fertilizers, thereby minimizing the environmental impact and boosting the productivity of plants in the soil. In the area of medicine, bioengineers have developed simple and inexpensive nanoscale delivery vehicles. Conductors like carbon nanotubes have been invented with varying structures. Such nanotubes have become increasingly attractive to researchers because of their ability to efficiently deliver drugs into veins. This means that higher doses of drugs loaded on them can be transported from the administration sites to the effects related sites, such as cancer focuses, thus decreasing toxic side effects while increasing the treatment effects. The research team has also developed a widely accepted material that can be used to coat different surfaces, including wood, plastic, and glass. It is mainly comprised of silver. Such nanoparticles can eventually kill some microbes due to the antiseptic properties. The whole process is simple, easy to apply, and more importantly, harmless to the environment. Surprisingly, nanotechnology has major implications for our health as well. By changing the metabolic rate through a particular type of protein, obese patients are able to burn calories faster, even under a high calorie diet. Therefore, treatment programs are provided for patients to lose weight by disposing of excess fat in a relatively safer manner. The finding may help explain why overweight people struggle to lose weight. Their stored fat is actively fighting against their efforts to burn it off at the molecular level. Further research is mainly focused on the clinical and commercial developments of therapies for obesity, diabetes, and other associated conditions, such as heart disease. In terms of cosmetics, the applications of nanotechnology and nanomaterials can be found in many products. There are two main uses for nanotechnology in cosmetics. The first one is that nanoparticles are commonly used as UV filters in anti-aging sun care products to avoid skin damage caused by the sun. In addition, nanotechnology has played an important role in delivering active ingredients to the skin. The mechanism proves to improve the bioavailability of actives and enhance skin hydration. The wide variety of nanotechnology applications leave no doubt that this field will only continue to get more exciting, and I look forward to seeing these developments further branch out."
+    },
+    {
+      "label": "9",
+      "text": "00:06:06,770"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of part four. You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "56ce248e-9fc6-4b4d-afb6-556168cc8ad4",
+          "prompt": "**About Nanotechnology**\n·It is a study on t he scale of nanometre\n·The development in nanotechnology is the result of a new type of **31**_____ .",
+          "answers": [
+            "microscope"
+          ],
+          "rawAnswer": "microscope",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In fact, it wasn't until nineteen eighty-one, with the invention of a special kind of microscope, that modern nanotechnology truly began"
+          },
+          "keywordPairs": [
+            {
+              "question": "development",
+              "article": "truly began"
+            },
+            {
+              "question": "new type of",
+              "article": "special kind of"
+            },
+            {
+              "question": "result of",
+              "article": "with the invention of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "6c502749-84c0-4d7a-9707-168c3d4d4e50",
+          "prompt": "·People are worried that nanotech products are **32**_____ .",
+          "answers": [
+            "unnatural"
+          ],
+          "rawAnswer": "unnatural",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Even though nanotechnology has created many new materials and devices with a vast range of applications, there is always concern over these unnatural products"
+          },
+          "keywordPairs": [
+            {
+              "question": "worried",
+              "article": "concern"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "2f9234f6-61ae-46aa-9eba-2f59fbf59587",
+          "prompt": "**Food and household**\n·The availability of **33**_____ in our diet (e.g. in potatoes) is great improved.",
+          "answers": [
+            "iron"
+          ],
+          "rawAnswer": "iron",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the food processing industry, nanotechnology is leveraged against iron deficiency;improves the bioavailability of this nutritional ingredient"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "51be6dd7-c31c-4f07-988a-45c73032bca9",
+          "prompt": "·The packaging cost of **34**_____ is particularly reduced.",
+          "answers": [
+            "chocolate"
+          ],
+          "rawAnswer": "chocolate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In terms of packaging, nanomaterials are more economical and are used in all sorts of products, chocolate in particular"
+          },
+          "keywordPairs": [
+            {
+              "question": "packaging cost reduced",
+              "article": "more economical"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "3102d541-5cad-451f-89b5-ffedecd32db2",
+          "prompt": "·Nanotechnology can increase the **35**_____ of food.\n·Nanotechnology can be used to make new types of furniture.",
+          "answers": [
+            "flavor",
+            "flavour"
+          ],
+          "rawAnswer": "flavor|flavour",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Nanotechnology can also enhance the flavor of food"
+          },
+          "keywordPairs": [
+            {
+              "question": "increase",
+              "article": "enhance"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "23367338-ec6d-46bc-bf0f-3093cd590da7",
+          "prompt": "**Agriculture**\n·The efficiency of **36**_____ is increased.",
+          "answers": [
+            "fertilizers"
+          ],
+          "rawAnswer": "fertilizers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It offers great potential to strengthen the effect of fertilizers, thereby minimizing the environmental impact and boosting the productivity of plants in the soil"
+          },
+          "keywordPairs": [
+            {
+              "question": "increased",
+              "article": "strengthen"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "e624af50-131c-452e-afbb-d8420b1e7669",
+          "prompt": "**Health and Medicine**\n·Nanotubes allow more **37**_____ to enter veins.",
+          "answers": [
+            "drugs"
+          ],
+          "rawAnswer": "drugs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Such nanotubes have become increasingly attractive to researchers because of their ability to efficiently deliver drugs into veins"
+          },
+          "keywordPairs": [
+            {
+              "question": "enter",
+              "article": "deliver"
+            },
+            {
+              "question": "more",
+              "article": "efficiently"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "c3300a4a-4b8a-452d-982e-6409becc2706",
+          "prompt": "·As the most popular material, **38**_____ is used to kill bacteria.",
+          "answers": [
+            "silver"
+          ],
+          "rawAnswer": "silver",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is mainly comprised of silver. Such nanoparticles can eventually kill some microbes due to the antiseptic properties"
+          },
+          "keywordPairs": [
+            {
+              "question": "most popular",
+              "article": "widely accepted"
+            },
+            {
+              "question": "bacteria",
+              "article": "microbes"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "be2d485d-94eb-4b96-a17e-e51a41093ded",
+          "prompt": "·Nanotechnology is also helpful in **39**_____ loss program.",
+          "answers": [
+            "weight"
+          ],
+          "rawAnswer": "weight",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Therefore, treatment programs are provided for patients to lose weight by disposing of excess fat in a relatively safer manner"
+          },
+          "keywordPairs": [
+            {
+              "question": "helpful",
+              "article": "treatment programs"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "62423973-5ca7-4b8f-a9d5-4e5b830e5ea9",
+          "prompt": "**Cosmetic**\n·Nanoparticles protect skin from the **40**_____ .\n·an help to improve the ability against aging.\n·Nanotechnology helps to deliver effective elements to the skin.",
+          "answers": [
+            "sun"
+          ],
+          "rawAnswer": "sun",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Nanoparticles are commonly used as UV filters in anti-aging sun care products to avoid skin damage caused by the sun"
+          },
+          "keywordPairs": [
+            {
+              "question": "protect skin from",
+              "article": "skin damage caused by"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:05,460</p><p>Part four. You will hear part of a lecture on nanotechnology and its applications. First, you have some time to look at questions thirty-one to forty. </p><p>00:01:08,460</p><p>Now, listen carefully and answer questions thirty-one to forty. </p><p>00:01:16,340</p><p>Today's lecture is the first of a series of lectures on nanotechnology. Nanotechnology, sometimes shortened to nanotech, refers to the manipulation of matter on an atomic and molecular level. It's a science, engineering, and technology conducted at the nanoscale, which is about one to one hundred nanometers. It is the study and application of extremely small things and can be used across all the other science fields. Just how small is that? A nanometer is one-billionth of a meter. The idea of nanoscale research first started from a physicist called Richard Feynman in nineteen fifty-nine. He envisaged a process in which scientists would be able to manipulate and control individual atoms and molecules. In fact, it wasn't until nineteen eighty-one, with the invention of a special kind of microscope, that modern nanotechnology truly began. Even though nanotechnology has created many new materials and devices with a vast range of applications, there is always concern over these unnatural products. Many people are worried that they may pose a threat to the environment, health, and safety, also known as EHS. In order to better understand and evaluate the potential harm, risk assessment has been introduced. There are also ongoing international collaborations on nano EHS research and related policy issues. Despite the concern, nanotechnology has benefited society in unexpected ways. In the food processing industry, nanotechnology is leveraged against iron deficiency, which triggers anemia. For example, by reducing the particle size in potatoes, this new technology improves the bioavailability of this nutritional ingredient without the tendency to cause color and odor changes. In terms of packaging, nanomaterials are more economical and are used in all sorts of products, chocolate in particular. Nanotechnology can also enhance the flavor of food. On a domestic scale, we expect more smart furniture, which is made of shape memory alloys, to be manufactured. </p><p>00:03:26,240</p><p>But nanotechnology has much wider application than this and could also help develop sustainable agriculture. It offers great potential to strengthen the effect of fertilizers, thereby minimizing the environmental impact and boosting the productivity of plants in the soil. In the area of medicine, bioengineers have developed simple and inexpensive nanoscale delivery vehicles. Conductors like carbon nanotubes have been invented with varying structures. Such nanotubes have become increasingly attractive to researchers because of their ability to efficiently deliver drugs into veins. This means that higher doses of drugs loaded on them can be transported from the administration sites to the effects related sites, such as cancer focuses, thus decreasing toxic side effects while increasing the treatment effects. The research team has also developed a widely accepted material that can be used to coat different surfaces, including wood, plastic, and glass. It is mainly comprised of silver. Such nanoparticles can eventually kill some microbes due to the antiseptic properties. The whole process is simple, easy to apply, and more importantly, harmless to the environment. Surprisingly, nanotechnology has major implications for our health as well. By changing the metabolic rate through a particular type of protein, obese patients are able to burn calories faster, even under a high calorie diet. Therefore, treatment programs are provided for patients to lose weight by disposing of excess fat in a relatively safer manner. The finding may help explain why overweight people struggle to lose weight. Their stored fat is actively fighting against their efforts to burn it off at the molecular level. Further research is mainly focused on the clinical and commercial developments of therapies for obesity, diabetes, and other associated conditions, such as heart disease. In terms of cosmetics, the applications of nanotechnology and nanomaterials can be found in many products. There are two main uses for nanotechnology in cosmetics. The first one is that nanoparticles are commonly used as UV filters in anti-aging sun care products to avoid skin damage caused by the sun. In addition, nanotechnology has played an important role in delivering active ingredients to the skin. The mechanism proves to improve the bioavailability of actives and enhance skin hydration. The wide variety of nanotechnology applications leave no doubt that this field will only continue to get more exciting, and I look forward to seeing these developments further branch out. </p><p>00:06:06,770</p>That is the end of part four. You now have one minute to check your answers to part four.",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/0a57732c-034a-4ed4-9242-9ca1929c55f2.mp3",
+    "durationSeconds": 375.144,
+    "sizeBytes": 6002835,
+    "sha256": "cd8f496522f766b45929c6a8c2d6ca8eb0f01cfaf36fff9de8648f37256bbd5e",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:53:19Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1776388504353_rs4fhv_88642ba8.mp3"
+}

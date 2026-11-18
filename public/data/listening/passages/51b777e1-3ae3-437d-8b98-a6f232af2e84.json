@@ -1,0 +1,588 @@
+{
+  "id": "51b777e1-3ae3-437d-8b98-a6f232af2e84",
+  "title": "Saving energy",
+  "titleCn": "雅思听力Part2节能与节水广播",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/51b777e1-3ae3-437d-8b98-a6f232af2e84",
+  "duration": 472,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,140"
+    },
+    {
+      "label": "2",
+      "text": "Section two. You will hear a radio anchor on broadcast speaking to her audience about water conservation and some contributions they can make at home. First, you have some time to look at questions eleven to sixteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:20,820"
+    },
+    {
+      "label": "4",
+      "text": "Now listen carefully and answer questions eleven to sixteen."
+    },
+    {
+      "label": "5",
+      "text": "00:00:49,000"
+    },
+    {
+      "label": "6",
+      "text": "Good morning, ladies and gentlemen. Thank you for returning to Action Radio. We are here talking about current affairs and global issues. I am Jill, and today our focus will be on discussing the very concerning issue of the significance of water conservation and how you can make your own contribution at home. The most universal wasted energy of all the domestic kinds is heat. Yet since my house has well-insulated walls, I'm lucky enough not to need to do anything about this problem. Yet I still found out that a large amount of water was wasted owing to my way of life. I looked into a few approaches online, trying to reduce my water usage as much as possible, and have been pleasantly surprised to figure out that there are experts in that field who can make some instant changes to my home. But the only dark side is this work is so costly that there are no means for me to get financial help. Now, if any of you listeners are interested in reducing your energy usage, here are a couple of easy and positive changes you can make immediately. A lot of the magazines will recommend that you change your bulbs for those with energy-saving capabilities. However, I have found that these make little difference to your electricity bill, and they also severely reduce the light levels in your home. Instead, simply switch off all plug sockets and appliances to make an immediate saving on your electricity consumption. If this doesn't make enough of a saving for you, you could later turn down the thermostat as well. Even though my energy provider gave me a discount on my bills for prompt payment, this doesn't make enough of a saving for my monthly bill considering the amount of energy that I was using. So I felt like switching to another provider. Not only could I make a considerable monthly saving, but also get other perks from the new company. The bills can now be paid online, for instance, which was a thrill to me because it saves me from driving to the bank. If our contract endures more than one year, they will also provide me with a deduction for all the energy-saving appliances I am currently using. Now, many of you listeners will have an electricity meter at home, so I'm very sure that all of you will know the problems associated with them. These meters can occupy a lot of room in your home and can be very unsightly if you cannot tuck them away in a cupboard. Mine is very large, and it measures both gas and electricity usage. But it is nicely hidden in the coat cupboard, and I'm lucky enough to escape from accessing it easily. But the cons about this is that whenever I need to take a meter reading, I'll have to use a torch because it is hidden in darkness, and without a flashlight, I can't read the numbers on the screen correctly. I recently extended my house with a new room that gives us a bathroom with a low energy boiler, so I'm able to take long showers guilty-free. My walls are nice and thick and well insulated, but disappointingly the window is a little drafty. Thus, I'm about to make some investments by doing some upgrading. Given renewable energy, I initially thought about installing solar panels on the roof to heat the water rather than applying a new low energy boiler, which was the price-friendly alternative. But I finally determined that the panels would make my house ugly on the exterior in spite of their ease of technical use."
+    },
+    {
+      "label": "7",
+      "text": "00:04:24,920"
+    },
+    {
+      "label": "8",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty."
+    },
+    {
+      "label": "9",
+      "text": "00:04:37,460"
+    },
+    {
+      "label": "10",
+      "text": "Now listen and answer questions seventeen to twenty."
+    },
+    {
+      "label": "11",
+      "text": "00:05:05,520"
+    },
+    {
+      "label": "12",
+      "text": "Now, if you are keen on taking long showers as I am, switching from baths to showers doesn't change much on your total water usage. Instead, some small effective changes can be quite helpful and efficient. When making a cup of tea, for instance, before boiling water, measure out the amount that you need during the procedure. Also, when brushing teeth, use a cup of water instead of leaving the tap water running. I would recommend you not to fill up the washing machine before switching it on because I found out that the clothes were not thoroughly cleaned. Also, call a plumber to fix your dripping taps. This will give rise to a great reduction of water being wasted. Before finishing today's show"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-16**\nChoose the correct letters **A, B**, or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "b5699664-8d1f-46eb-8fda-128618f4b336",
+          "prompt": "**11** What was Jill surprised about?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "the work on the house will start soon",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I looked into a few approaches online, trying to reduce my water usage as much as possible, and have been pleasantly surprised to figure out that there are experts in that field who can make some instant changes to my home"
+          },
+          "keywordPairs": [
+            {
+              "question": "soon",
+              "article": "instant"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "the work on the house will start soon"
+            },
+            {
+              "value": "B",
+              "text": "the house was poorly insulated"
+            },
+            {
+              "value": "C",
+              "text": "she could get financial help"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "025289b4-33a3-40c8-b847-958cbe2420f7",
+          "prompt": "**12** What does Jill say every family can do straight away?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "turn off their appliances completely.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Instead, simply switch off all plug sockets and appliances to make an immediate saving on your electricity consumption"
+          },
+          "keywordPairs": [
+            {
+              "question": "straight away",
+              "article": "immediate"
+            },
+            {
+              "question": "turn off",
+              "article": "switch off"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "use energy-saving bulbs."
+            },
+            {
+              "value": "B",
+              "text": "turn down the thermostat."
+            },
+            {
+              "value": "C",
+              "text": "turn off their appliances completely."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "a9ef9604-9d0d-4dab-9ab5-444c6e2a76d4",
+          "prompt": "**13** What is Jill pleased about the energy provider?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "have a reduction of price of the energy-saving sources",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If our contract endures more than one year, they will also provide me with a deduction for all the energy-saving appliances I am currently using"
+          },
+          "keywordPairs": [
+            {
+              "question": "reduction",
+              "article": "deduction"
+            },
+            {
+              "question": "sources",
+              "article": "appliances"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "reduce the price with prompt payment"
+            },
+            {
+              "value": "B",
+              "text": "allow online payment by customers"
+            },
+            {
+              "value": "C",
+              "text": "have a reduction of price of the energy-saving sources"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "ebda46c4-dc06-49d9-b0ec-292ab706484a",
+          "prompt": "**14** What difficulty did Jill have with the energy meters?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "the figures are hard to be read accurately",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But the cons about this is that whenever I need to take a meter reading, I'll have to use a torch because it is hidden in darkness, and without a flashlight, I can't read the numbers on the screen correctly"
+          },
+          "keywordPairs": [
+            {
+              "question": "difficulty",
+              "article": "cons"
+            },
+            {
+              "question": "figures",
+              "article": "numbers"
+            },
+            {
+              "question": "accurately",
+              "article": "correctly"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "they are difficult to access"
+            },
+            {
+              "value": "B",
+              "text": "the figures are hard to be read accurately"
+            },
+            {
+              "value": "C",
+              "text": "she can't tell whether it's for electricity or for gas"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "00461b28-a473-4fe9-97b0-571e7e3ed271",
+          "prompt": "**15** What energy-saving method does Jill going to take next?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "install double-glazed window",
+          "evidence": {
+            "paragraph": "",
+            "quote": "My walls are nice and thick and well insulated, but disappointingly the window is a little drafty. Thus, I'm about to make some investments by doing some upgrading"
+          },
+          "keywordPairs": [
+            {
+              "question": "going to take next",
+              "article": "upgrading"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "install double-glazed window"
+            },
+            {
+              "value": "B",
+              "text": "use energy-saving boiler"
+            },
+            {
+              "value": "C",
+              "text": "have the walls checked with insulation level"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "e26eecc3-3b05-4f9b-a3ac-091a5d366aa7",
+          "prompt": "**16** Why is Jill doubtful about the renewable energy?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "she thinks it's unsuitable for her house",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But I finally determined that the panels would make my house ugly on the exterior in spite of their ease of technical use"
+          },
+          "keywordPairs": [
+            {
+              "question": "renewable energy",
+              "article": "panels"
+            },
+            {
+              "question": "unsuitable for her house",
+              "article": "make my house ugly on the exterior"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16",
+          "options": [
+            {
+              "value": "A",
+              "text": "she thinks it's unsuitable for her house"
+            },
+            {
+              "value": "B",
+              "text": "she doesn't understand the technical details"
+            },
+            {
+              "value": "C",
+              "text": "she believes it's too expensive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "sourceType": "multiple_choice",
+      "instruction": "**Questions 17-18**\nWrite **TWO** letters, **A-E**, next to questions **17-18** in your answer sheet.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "17-18",
+          "sourceQuestionId": "5c347327-4eb8-48d4-8492-223aca8200e0",
+          "prompt": "Which **TWO** water-saving tips does Jill recommend?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "rawAnswer": "boil as much water as you need,repair leaking tap",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When making a cup of tea, for instance, before boiling water, measure out the amount that you need during the procedure;Also, call a plumber to fix your dripping taps. This will give rise to a great reduction of water being wasted"
+          },
+          "keywordPairs": [
+            {
+              "question": "water-saving tips",
+              "article": "a great reduction of water being wasted"
+            },
+            {
+              "question": "repair",
+              "article": "fix"
+            },
+            {
+              "question": "leaking",
+              "article": "dripping"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17",
+          "blockId": "5c347327-4eb8-48d4-8492-223aca8200e0",
+          "blockPosition": 0,
+          "blockSize": 2,
+          "setId": "5c347327-4eb8-48d4-8492-223aca8200e0",
+          "options": [
+            {
+              "value": "A",
+              "text": "use more showers than baths"
+            },
+            {
+              "value": "B",
+              "text": "keep the washing machine full before using it"
+            },
+            {
+              "value": "C",
+              "text": "boil as much water as you need"
+            },
+            {
+              "value": "D",
+              "text": "turn off the taps while you are brushing your teeth"
+            },
+            {
+              "value": "E",
+              "text": "repair leaking tap"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "sourceNumber": "17-18",
+          "sourceQuestionId": "5c347327-4eb8-48d4-8492-223aca8200e0",
+          "prompt": "Which **TWO** water-saving tips does Jill recommend?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "rawAnswer": "boil as much water as you need,repair leaking tap",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When making a cup of tea, for instance, before boiling water, measure out the amount that you need during the procedure;Also, call a plumber to fix your dripping taps. This will give rise to a great reduction of water being wasted"
+          },
+          "keywordPairs": [
+            {
+              "question": "water-saving tips",
+              "article": "a great reduction of water being wasted"
+            },
+            {
+              "question": "repair",
+              "article": "fix"
+            },
+            {
+              "question": "leaking",
+              "article": "dripping"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18",
+          "blockId": "5c347327-4eb8-48d4-8492-223aca8200e0",
+          "blockPosition": 1,
+          "blockSize": 2,
+          "setId": "5c347327-4eb8-48d4-8492-223aca8200e0",
+          "options": [
+            {
+              "value": "A",
+              "text": "use more showers than baths"
+            },
+            {
+              "value": "B",
+              "text": "keep the washing machine full before using it"
+            },
+            {
+              "value": "C",
+              "text": "boil as much water as you need"
+            },
+            {
+              "value": "D",
+              "text": "turn off the taps while you are brushing your teeth"
+            },
+            {
+              "value": "E",
+              "text": "repair leaking tap"
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "use more showers than baths"
+        },
+        {
+          "value": "B",
+          "text": "keep the washing machine full before using it"
+        },
+        {
+          "value": "C",
+          "text": "boil as much water as you need"
+        },
+        {
+          "value": "D",
+          "text": "turn off the taps while you are brushing your teeth"
+        },
+        {
+          "value": "E",
+          "text": "repair leaking tap"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "sourceType": "multiple_choice",
+      "instruction": "**Questions 19-20**\nWrite **TWO** letters, **A-E**, next to questions **19-20** in your answer sheet.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceNumber": "19-20",
+          "sourceQuestionId": "7522f4cf-5a9c-4872-946f-931c3d329ee0",
+          "prompt": "What **TWO** topics do people most frequently ask?\n（本题无答案）",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "rawAnswer": "the ideal temperature of the thermostat,if the solar panels only work on sunny days",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, on a more serious note, a number of you wanted to know what the most efficient temperature is to set the thermostat to;One of our listeners wrote in with a question that made me chuckle, and the answer is yes, solar panels only work when the sun is out"
+          },
+          "keywordPairs": [],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19",
+          "blockId": "7522f4cf-5a9c-4872-946f-931c3d329ee0",
+          "blockPosition": 0,
+          "blockSize": 2,
+          "setId": "7522f4cf-5a9c-4872-946f-931c3d329ee0",
+          "options": [
+            {
+              "value": "A",
+              "text": "the ideal temperature of the thermostat"
+            },
+            {
+              "value": "B",
+              "text": "whether to leave the light on or not"
+            },
+            {
+              "value": "C",
+              "text": "the type of computer that uses less energy"
+            },
+            {
+              "value": "D",
+              "text": "how to work out the running cost of the appliances"
+            },
+            {
+              "value": "E",
+              "text": "if the solar panels only work on sunny days"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "sourceNumber": "19-20",
+          "sourceQuestionId": "7522f4cf-5a9c-4872-946f-931c3d329ee0",
+          "prompt": "What **TWO** topics do people most frequently ask?\n（本题无答案）",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "rawAnswer": "the ideal temperature of the thermostat,if the solar panels only work on sunny days",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, on a more serious note, a number of you wanted to know what the most efficient temperature is to set the thermostat to;One of our listeners wrote in with a question that made me chuckle, and the answer is yes, solar panels only work when the sun is out"
+          },
+          "keywordPairs": [],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20",
+          "blockId": "7522f4cf-5a9c-4872-946f-931c3d329ee0",
+          "blockPosition": 1,
+          "blockSize": 2,
+          "setId": "7522f4cf-5a9c-4872-946f-931c3d329ee0",
+          "options": [
+            {
+              "value": "A",
+              "text": "the ideal temperature of the thermostat"
+            },
+            {
+              "value": "B",
+              "text": "whether to leave the light on or not"
+            },
+            {
+              "value": "C",
+              "text": "the type of computer that uses less energy"
+            },
+            {
+              "value": "D",
+              "text": "how to work out the running cost of the appliances"
+            },
+            {
+              "value": "E",
+              "text": "if the solar panels only work on sunny days"
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the ideal temperature of the thermostat"
+        },
+        {
+          "value": "B",
+          "text": "whether to leave the light on or not"
+        },
+        {
+          "value": "C",
+          "text": "the type of computer that uses less energy"
+        },
+        {
+          "value": "D",
+          "text": "how to work out the running cost of the appliances"
+        },
+        {
+          "value": "E",
+          "text": "if the solar panels only work on sunny days"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "多选题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,140</p><p>Section two. You will hear a radio anchor on broadcast speaking to her audience about water conservation and some contributions they can make at home. First, you have some time to look at questions eleven to sixteen. </p><p>00:00:20,820</p><p>Now listen carefully and answer questions eleven to sixteen. </p><p>00:00:49,000</p><p>Good morning, ladies and gentlemen. Thank you for returning to Action Radio. We are here talking about current affairs and global issues. I am Jill, and today our focus will be on discussing the very concerning issue of the significance of water conservation and how you can make your own contribution at home. The most universal wasted energy of all the domestic kinds is heat. Yet since my house has well-insulated walls, I'm lucky enough not to need to do anything about this problem. Yet I still found out that a large amount of water was wasted owing to my way of life. I looked into a few approaches online, trying to reduce my water usage as much as possible, and have been pleasantly surprised to figure out that there are experts in that field who can make some instant changes to my home. But the only dark side is this work is so costly that there are no means for me to get financial help. Now, if any of you listeners are interested in reducing your energy usage, here are a couple of easy and positive changes you can make immediately. A lot of the magazines will recommend that you change your bulbs for those with energy-saving capabilities. However, I have found that these make little difference to your electricity bill, and they also severely reduce the light levels in your home. Instead, simply switch off all plug sockets and appliances to make an immediate saving on your electricity consumption. If this doesn't make enough of a saving for you, you could later turn down the thermostat as well. Even though my energy provider gave me a discount on my bills for prompt payment, this doesn't make enough of a saving for my monthly bill considering the amount of energy that I was using. So I felt like switching to another provider. Not only could I make a considerable monthly saving, but also get other perks from the new company. The bills can now be paid online, for instance, which was a thrill to me because it saves me from driving to the bank. If our contract endures more than one year, they will also provide me with a deduction for all the energy-saving appliances I am currently using. Now, many of you listeners will have an electricity meter at home, so I'm very sure that all of you will know the problems associated with them. These meters can occupy a lot of room in your home and can be very unsightly if you cannot tuck them away in a cupboard. Mine is very large, and it measures both gas and electricity usage. But it is nicely hidden in the coat cupboard, and I'm lucky enough to escape from accessing it easily. But the cons about this is that whenever I need to take a meter reading, I'll have to use a torch because it is hidden in darkness, and without a flashlight, I can't read the numbers on the screen correctly. I recently extended my house with a new room that gives us a bathroom with a low energy boiler, so I'm able to take long showers guilty-free. My walls are nice and thick and well insulated, but disappointingly the window is a little drafty. Thus, I'm about to make some investments by doing some upgrading. Given renewable energy, I initially thought about installing solar panels on the roof to heat the water rather than applying a new low energy boiler, which was the price-friendly alternative. But I finally determined that the panels would make my house ugly on the exterior in spite of their ease of technical use. </p><p>00:04:24,920</p><p>Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty. </p><p>00:04:37,460</p><p>Now listen and answer questions seventeen to twenty. </p><p>00:05:05,520</p><p>Now, if you are keen on taking long showers as I am, switching from baths to showers doesn't change much on your total water usage. Instead, some small effective changes can be quite helpful and efficient. When making a cup of tea, for instance, before boiling water, measure out the amount that you need during the procedure. Also, when brushing teeth, use a cup of water instead of leaving the tap water running. I would recommend you not to fill up the washing machine before switching it on because I found out that the clothes were not thoroughly cleaned. Also, call a plumber to fix your dripping taps. This will give rise to a great reduction of water being wasted. Before finishing today's show<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/51b777e1-3ae3-437d-8b98-a6f232af2e84.mp3",
+    "durationSeconds": 351.144,
+    "sizeBytes": 1404921,
+    "sha256": "5fae18c86ad08c51656843c322c8dafc2fbad32d670d1a7af86dabaa6108f974",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:13:01Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792992628987_ifvbjz.mp3"
+}

@@ -1,0 +1,398 @@
+{
+  "id": "00b32727-93ea-4a1c-a5fe-aa8a84ab8af6",
+  "title": "Photic sneezing",
+  "titleCn": "光喷嚏反射：一晒太阳就打喷嚏",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/00b32727-93ea-4a1c-a5fe-aa8a84ab8af6",
+  "duration": 380,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,880"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:08,980"
+    },
+    {
+      "label": "4",
+      "text": "Welcome to this lecture in the health sciences intended to inspire you and get you thinking about your research project. Today, I want to show you how even ordinary human behavior like sneezing, which normally happens when you get a cold, may be worth studying. Have you ever been walking outside when a bright shaft of sunlight hits you between the eyes? The reaction of some people is immediate, an unpleasant prickling in the nose, an increase in their breathing rate, and an uncontrollable watering of the eyes. Then, almost as quickly, they sneeze and gain relief. This may happen every time they go into the sun. This so-called photic or light sneeze is a reflex, which means it can't be controlled, and it's very common. Anything between one in ten and one in three people might be affected."
+    },
+    {
+      "label": "5",
+      "text": "00:01:09,060"
+    },
+    {
+      "label": "6",
+      "text": "In fact, a sneeze is triggered by an irritation of some sort in the linings of the nostrils. The result is a cascade of reactions, beginning with the stimulation of the nerve endings all over the face and generating an explosive expulsion of air at up to ninety-five miles an hour, like an extremely localized personal hurricane."
+    },
+    {
+      "label": "7",
+      "text": "00:01:35,480"
+    },
+    {
+      "label": "8",
+      "text": "The body's coordination of such reactions is complicated and belongs to the subconscious control hardware that regulates other things. For example, tears in the eyes."
+    },
+    {
+      "label": "9",
+      "text": "00:01:51,400"
+    },
+    {
+      "label": "10",
+      "text": "People have been interested in the phenomenon of photic sneezing for thousands of years. The Greek philosopher Aristotle asked, \"Why does the sun prompt us to sneeze, whereas the heat of a fire does not?\""
+    },
+    {
+      "label": "11",
+      "text": "00:02:05,640"
+    },
+    {
+      "label": "12",
+      "text": "A partial answer came two thousand years later when the English philosopher Francis Bacon showed that his photic sneeze had nothing to do with heat. If he closed his eyes when going into the sun, he didn't sneeze even though the heat was still there."
+    },
+    {
+      "label": "13",
+      "text": "00:02:22,020"
+    },
+    {
+      "label": "14",
+      "text": "Henry Everett, a consultant psychiatrist at John Hopkins University Hospital in Baltimore, was the first to make a systematic attempt to understand the condition. Noting in nineteen sixty-four that thirty percent of the staff employed in the medical department were photic sneezers, Everett did some further investigation. He found that while eighty percent of sneezers reported other sneezers among their relatives, only twenty percent of non-sneezers did. Now, there are factors that are certain indicators of a photic sneeze. First of all, those with the condition almost always sneeze a set number of times on exposure to light. In addition to this, the sneeze depends on a contrast in visible brightness, such as when the sun moves out from behind a cloud."
+    },
+    {
+      "label": "15",
+      "text": "00:03:09,420"
+    },
+    {
+      "label": "16",
+      "text": "And the sneezing fit won't be repeated immediately. The body needs time before it can be recharged. So if you go back into a darkened space and then immediately re-enter bright light, you will not sneeze again."
+    },
+    {
+      "label": "17",
+      "text": "00:03:24,680"
+    },
+    {
+      "label": "18",
+      "text": "Now on to possible applications of research in this area. The photic sneeze had long been overlooked because its effects are generally less than serious. Although the government did once study it as a risk factor for pilots."
+    },
+    {
+      "label": "19",
+      "text": "00:03:39,620"
+    },
+    {
+      "label": "20",
+      "text": "Yet work on such a simple disorder might lead to important discoveries on more acute conditions such as migraine or epilepsy, which are also caused by cross wires in the nervous system. That is why I encourage you to select something similar for your first investigative medical project. It could be the beginning of something even more useful."
+    },
+    {
+      "label": "21",
+      "text": "00:04:01,600"
+    },
+    {
+      "label": "22",
+      "text": "Now let's talk about the project timetable."
+    },
+    {
+      "label": "23",
+      "text": "00:04:07,500"
+    },
+    {
+      "label": "24",
+      "text": "That is the end of part four."
+    },
+    {
+      "label": "25",
+      "text": "00:04:10,360"
+    },
+    {
+      "label": "26",
+      "text": "You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "e7d7e9b6-37e4-4dfa-a4e7-e2e38a871eb0",
+          "prompt": "**Background**\nSome people react to sunlight by:\n·a prickle in the nose\n·faster **31**_____ relieved by a sneeze",
+          "answers": [
+            "breathing"
+          ],
+          "rawAnswer": "breathing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The reaction of some people is immediate;an unpleasant prickling in the nose, an increase in their breathing rate, and an uncontrollable watering of the eyes"
+          },
+          "keywordPairs": [
+            {
+              "question": "faster",
+              "article": "increase in rate"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "1bae36ae-8369-4388-bf92-ae497c787533",
+          "prompt": "·watery eyes\nThis “photic” sneeze cannot be controlled and is a **32**_____ reflex.",
+          "answers": [
+            "common"
+          ],
+          "rawAnswer": "common",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This so-called photic or light sneeze is a reflex, which means it can't be controlled, and it's very common"
+          },
+          "keywordPairs": [
+            {
+              "question": "cannot be controlled",
+              "article": "can't be controlled"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "8523020f-08a5-41d2-918c-21a648971fc7",
+          "prompt": "**Sneezing in general**\n·A sneeze is caused by some kind of irritation in the nose.\n·Nerve endings in the **33**_____ are stimulated, leading to an explosion of air.",
+          "answers": [
+            "face"
+          ],
+          "rawAnswer": "face",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The result is a cascade of reactions, beginning with the stimulation of the nerve endings all over the face and generating an explosive expulsion of air"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "7881e1d8-d277-46c2-b8ed-ec3c69d91d9a",
+          "prompt": "·It is co-ordinated by the same mechanism that controls the production of **34**_____ .",
+          "answers": [
+            "tears"
+          ],
+          "rawAnswer": "tears",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The body's coordination of such reactions is complicated and belongs to the subconscious control hardware that regulates other things, for example, tears in the eyes"
+          },
+          "keywordPairs": [
+            {
+              "question": "co-ordinated",
+              "article": "coordination"
+            },
+            {
+              "question": "controls",
+              "article": "regulates"
+            },
+            {
+              "question": "production of tears",
+              "article": "tears in the eyes"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "4abfa925-48f9-483c-804f-46bf5da3aba9",
+          "prompt": "**Research into photic sneezing**\nThe condition has been known for thousands of years.\nAristotle: Why does the sun cause sneezing while a **35**_____ does not?",
+          "answers": [
+            "fire"
+          ],
+          "rawAnswer": "fire",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The Greek philosopher Aristotle asked, \"Why does the sun prompt us to sneeze, whereas the heat of a fire does not"
+          },
+          "keywordPairs": [
+            {
+              "question": "cause",
+              "article": "prompt us to"
+            },
+            {
+              "question": "while",
+              "article": "whereas"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "9549016e-9822-43c2-b93e-1341b9add721",
+          "prompt": "Bacon showed the cause was light.\nEverett found 80% photic sneezers shared the habit with **36**_____ .",
+          "answers": [
+            "relatives"
+          ],
+          "rawAnswer": "relatives",
+          "evidence": {
+            "paragraph": "",
+            "quote": "He found that while eighty percent of sneezers reported other sneezers among their relatives, only twenty percent of non-sneezers did"
+          },
+          "keywordPairs": [
+            {
+              "question": "shared the habit with",
+              "article": "other sneezers among their"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "0c28e179-9fa1-4c77-a72e-25ae995b581c",
+          "prompt": "**Indicators **\nPhotic sneezers usually produce the same **37**_____ of sneezes.",
+          "answers": [
+            "number",
+            "times"
+          ],
+          "rawAnswer": "number|times",
+          "evidence": {
+            "paragraph": "",
+            "quote": "those with the condition almost always sneeze a set number of times on exposure to light"
+          },
+          "keywordPairs": [
+            {
+              "question": "usually",
+              "article": "almost always"
+            },
+            {
+              "question": "same",
+              "article": "set"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "4e99edee-3737-4656-ae8c-c2a2220ec2a4",
+          "prompt": "The reaction is caused by a **38**_____ in brightness.",
+          "answers": [
+            "contrast"
+          ],
+          "rawAnswer": "contrast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The sneeze depends on a contrast in visible brightness, such as when the sun moves out from behind a cloud"
+          },
+          "keywordPairs": [
+            {
+              "question": "reaction",
+              "article": "sneeze"
+            },
+            {
+              "question": "is caused by",
+              "article": "depends on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "688b8a1e-cd4f-4eee-8990-2ecc7854e5a3",
+          "prompt": "The sneeze takes **39**_____ to recharge.",
+          "answers": [
+            "time"
+          ],
+          "rawAnswer": "time",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The body needs time before it can be recharged"
+          },
+          "keywordPairs": [
+            {
+              "question": "takes",
+              "article": "needs"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "7280d6a7-7455-4494-b5c1-bce3f4ef9e6b",
+          "prompt": "**Application**\nThe condition was often ignored apart from some research on photic sneezing among **40**_____ .\nBut studying it may result in breakthroughs for more serious conditions.",
+          "answers": [
+            "pilots"
+          ],
+          "rawAnswer": "pilots",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The photic sneeze had long been overlooked because its effects are generally less than serious, although the government did once study it as a risk factor for pilots"
+          },
+          "keywordPairs": [
+            {
+              "question": "ignored",
+              "article": "overlooked"
+            },
+            {
+              "question": "research on",
+              "article": "study"
+            },
+            {
+              "question": "among",
+              "article": "for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,880</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:08,980</p><p>Welcome to this lecture in the health sciences intended to inspire you and get you thinking about your research project. Today, I want to show you how even ordinary human behavior like sneezing, which normally happens when you get a cold, may be worth studying. Have you ever been walking outside when a bright shaft of sunlight hits you between the eyes? The reaction of some people is immediate, an unpleasant prickling in the nose, an increase in their breathing rate, and an uncontrollable watering of the eyes. Then, almost as quickly, they sneeze and gain relief. This may happen every time they go into the sun. This so-called photic or light sneeze is a reflex, which means it can't be controlled, and it's very common. Anything between one in ten and one in three people might be affected. </p><p>00:01:09,060</p><p>In fact, a sneeze is triggered by an irritation of some sort in the linings of the nostrils. The result is a cascade of reactions, beginning with the stimulation of the nerve endings all over the face and generating an explosive expulsion of air at up to ninety-five miles an hour, like an extremely localized personal hurricane. </p><p>00:01:35,480</p><p>The body's coordination of such reactions is complicated and belongs to the subconscious control hardware that regulates other things. For example, tears in the eyes. </p><p>00:01:51,400</p><p>People have been interested in the phenomenon of photic sneezing for thousands of years. The Greek philosopher Aristotle asked, \"Why does the sun prompt us to sneeze, whereas the heat of a fire does not?\" </p><p>00:02:05,640</p><p>A partial answer came two thousand years later when the English philosopher Francis Bacon showed that his photic sneeze had nothing to do with heat. If he closed his eyes when going into the sun, he didn't sneeze even though the heat was still there. </p><p>00:02:22,020</p><p>Henry Everett, a consultant psychiatrist at John Hopkins University Hospital in Baltimore, was the first to make a systematic attempt to understand the condition. Noting in nineteen sixty-four that thirty percent of the staff employed in the medical department were photic sneezers, Everett did some further investigation. He found that while eighty percent of sneezers reported other sneezers among their relatives, only twenty percent of non-sneezers did. Now, there are factors that are certain indicators of a photic sneeze. First of all, those with the condition almost always sneeze a set number of times on exposure to light. In addition to this, the sneeze depends on a contrast in visible brightness, such as when the sun moves out from behind a cloud. </p><p>00:03:09,420</p><p>And the sneezing fit won't be repeated immediately. The body needs time before it can be recharged. So if you go back into a darkened space and then immediately re-enter bright light, you will not sneeze again. </p><p>00:03:24,680</p><p>Now on to possible applications of research in this area. The photic sneeze had long been overlooked because its effects are generally less than serious. Although the government did once study it as a risk factor for pilots. </p><p>00:03:39,620</p><p>Yet work on such a simple disorder might lead to important discoveries on more acute conditions such as migraine or epilepsy, which are also caused by cross wires in the nervous system. That is why I encourage you to select something similar for your first investigative medical project. It could be the beginning of something even more useful. </p><p>00:04:01,600</p><p>Now let's talk about the project timetable. </p><p>00:04:07,500</p><p>That is the end of part four. </p><p>00:04:10,360</p><p>You now have one minute to check your answers to part four.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/00b32727-93ea-4a1c-a5fe-aa8a84ab8af6.mp3",
+    "durationSeconds": 259.578776,
+    "sizeBytes": 1038554,
+    "sha256": "2d432cea8d869a85eed9e40da9cad150d85f3e0d39ae17322596118f191a8747",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:24:57Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1776389454924_2svtqc_97bc2519.mp3"
+}

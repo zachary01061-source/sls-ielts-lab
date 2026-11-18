@@ -1,0 +1,345 @@
+{
+  "id": "39cac047-242b-43a2-8611-f33d43931b97",
+  "title": "Life on the international space station",
+  "titleCn": "国际空间站上的生活",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/39cac047-242b-43a2-8611-f33d43931b97",
+  "duration": 487,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,380"
+    },
+    {
+      "label": "2",
+      "text": "Part four."
+    },
+    {
+      "label": "3",
+      "text": "00:00:02,180"
+    },
+    {
+      "label": "4",
+      "text": "You will hear an engineering student giving a presentation about a research project on design features of the International Space Station. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:20,320"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "7",
+      "text": "00:01:14,560"
+    },
+    {
+      "label": "8",
+      "text": "For my presentation, I'm going to summarize the findings of a research project on life aboard the International Space Station in the early days of its operation, its teething problems as it were. I'll start by giving a little background information. The space station crew were essentially a constantly changing team of scientists from different countries who lived on the space station for several months at a time. And they conducted a number of experiments, including some studies of living conditions in space, which is what I'm going to be looking at now. So what was life like on board in the very confined conditions of the space station? Well, the early impressions recorded by the astronauts were very different from what people had expected. They'd expected that the air would smell stale or artificial, but the astronauts found that it was fresh. So that was one very positive finding. And although they were in such a confined space and people worried that it would get very hot, in fact, they found that it was very easy to turn the temperature up or down in order to keep it within a comfortable range. The feedback on the food was also positive. Astronauts on previous space stations had described the meals as boring, but the International Space Station meals were praised for their variety. So that was another good piece of feedback. And something which is taken for granted today, but was a key morale booster in those days, was communication between the space station and Earth, which the astronauts said was clear and reliable. So in the early days, it seems that the mood was overall very positive."
+    },
+    {
+      "label": "9",
+      "text": "00:03:07,420"
+    },
+    {
+      "label": "10",
+      "text": "However, after a few days, the difficulties and frustrations became clearer. Above all, the crew complained about the constant noise caused by the air filters, which used to rattle and buzz twenty-four hours a day, interrupting their sleep. As well as that, the astronauts complained that the Velcro fasteners, which were positioned all over the station, didn't work well. And so a lot of the time, objects weren't secure in the cabin, but floated about. A particularly serious problem was that the systems used on the space station had been developed in a number of different countries, and they didn't always work well together. For example, it was impossible to mix the water produced from different systems because it contained different sorts of preservatives, and these reacted together and blocked the pipes. Another problem was connected to repairs. At the best of times, these took up an inordinate amount of time on the station, and the crew complained that many of the tools that they'd been provided with weren't suitable for the jobs they had to do. So they had to improvise, which meant that jobs took a lot longer than they needed to."
+    },
+    {
+      "label": "11",
+      "text": "00:04:23,720"
+    },
+    {
+      "label": "12",
+      "text": "Another related problem was to do with access to equipment that needed maintaining. Because the instructions on the equipment were often located in places where they were difficult to read, like on the back of equipment, it was often difficult or impossible to read them."
+    },
+    {
+      "label": "13",
+      "text": "00:04:41,420"
+    },
+    {
+      "label": "14",
+      "text": "So having identified these problems, the researchers came up with a number of suggestions about how conditions could be improved on subsequent missions. First, it became clear that although there had been a great deal of consultation with the crews, the systems and equipment on the space station needed much more wide-ranging testing. Then the whole issue of language training came under review. Astronauts from different countries had to be able to talk to the controllers on Earth and to understand them. Now, although they'd had extensive language training, the astronauts sometimes had problems comprehending what was said because they weren't familiar with the accent of the speaker, and this sometimes led to quite dangerous misunderstandings. Finally, and this is the point I found most surprising, the researchers felt that the designers of the space station were paying too much attention to safety rather than considering operating issues. That is, how the station could be run comfortably and smoothly. And the recommendation was to make changes here at quite a fundamental level. So those were the main points I covered in the..."
+    },
+    {
+      "label": "15",
+      "text": "00:06:00,160"
+    },
+    {
+      "label": "16",
+      "text": "That is the end of part four. You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "e67422a8-a0d4-46b9-ae4c-88c543090d44",
+          "prompt": "**Background**\n- Station was occupied by international teams of scientists over several months.\n- Research was done on living conditions.\n\n**Early Impressions**\n- The air smelt **31**_____ .",
+          "answers": [
+            "fresh"
+          ],
+          "rawAnswer": "fresh",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They'd expected that the air would smell stale or artificial, but the astronauts found that it was fresh"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "986484cd-585b-4bda-8e2d-30241702c2c8",
+          "prompt": "- The temperature was easy to adjust.\n- The food had enough **32**_____ .",
+          "answers": [
+            "variety"
+          ],
+          "rawAnswer": "variety",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Astronauts on previous space stations had described the meals as boring, but the International Space Station meals were praised for their variety"
+          },
+          "keywordPairs": [
+            {
+              "question": "food",
+              "article": "meals"
+            },
+            {
+              "question": "had enough",
+              "article": "praised for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "8b43e8d1-b009-42ed-8452-358ace63ad2f",
+          "prompt": "- **33**_____ was efficient.",
+          "answers": [
+            "communication"
+          ],
+          "rawAnswer": "communication",
+          "evidence": {
+            "paragraph": "",
+            "quote": "communication between the space station and Earth, which the astronauts said was clear and reliable"
+          },
+          "keywordPairs": [
+            {
+              "question": "efficient",
+              "article": "clear and reliable"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "664a61b8-1ba3-4f4d-965a-9036cba05155",
+          "prompt": "**Problems**\n- Difficulties with air filters caused lack of **34**_____ .",
+          "answers": [
+            "sleep"
+          ],
+          "rawAnswer": "sleep",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Above all, the crew complained about the constant noise caused by the air filters;interrupting their sleep"
+          },
+          "keywordPairs": [
+            {
+              "question": "interrupting their sleep",
+              "article": "lack of sleep"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "b9aa1a85-f6c5-42a4-b326-5fda17a4fa19",
+          "prompt": "- It was difficult to keep cabin objects secure.\n- Systems were incompatible - e.g. there were problems when mixing **35**_____ because of the preservatives.",
+          "answers": [
+            "water"
+          ],
+          "rawAnswer": "water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, it was impossible to mix the water produced from different systems because it contained different sorts of preservatives"
+          },
+          "keywordPairs": [
+            {
+              "question": "incompatible",
+              "article": "didn’t always work well together"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "526ab623-308e-4e2c-aa81-97f2f574700a",
+          "prompt": "- The **36**_____ available were not always suitable for their purpose.",
+          "answers": [
+            "tools"
+          ],
+          "rawAnswer": "tools",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The crew complained that many of the tools that they'd been provided with weren't suitable for the jobs they had to do"
+          },
+          "keywordPairs": [
+            {
+              "question": "available",
+              "article": "provided with"
+            },
+            {
+              "question": "purpose",
+              "article": "jobs they had to do"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "b31164e8-ad8a-445c-870c-d4d6c28f5599",
+          "prompt": "- It was difficult to access the **37**_____ for equipment maintenance.",
+          "answers": [
+            "instructions"
+          ],
+          "rawAnswer": "instructions",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another related problem was to do with access to equipment that needed maintaining. Because the instructions on the equipment were often located in places where they were difficult to read, like on the back of equipment, it was often difficult or impossible to read them"
+          },
+          "keywordPairs": [
+            {
+              "question": "access",
+              "article": "read"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "fb4f0a79-afcd-4cb2-8687-d843edbcfefa",
+          "prompt": "**Suggested improvements**\n- Systems and equipment should undergo ore extensive **38**_____ .",
+          "answers": [
+            "testing"
+          ],
+          "rawAnswer": "testing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The systems and equipment on the space station needed much more wide-ranging testing"
+          },
+          "keywordPairs": [
+            {
+              "question": "extensive",
+              "article": "wide-ranging"
+            },
+            {
+              "question": "undergo",
+              "article": "needed"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "a07fde04-d031-4136-b08d-32197846dc9d",
+          "prompt": "- In language training, astronauts needed practice in understanding the controller`s **39**_____ .",
+          "answers": [
+            "accent"
+          ],
+          "rawAnswer": "accent",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the astronauts sometimes had problems comprehending what was said because they weren’t familiar with the accent of the speaker"
+          },
+          "keywordPairs": [
+            {
+              "question": "understanding",
+              "article": "comprehending"
+            },
+            {
+              "question": "needed practice in",
+              "article": "weren’t familiar with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "e5a7732f-dae8-4bf8-92db-e58b9c519d49",
+          "prompt": "-There should be less emphasis on **40**_____ and more other issues.",
+          "answers": [
+            "safety"
+          ],
+          "rawAnswer": "safety",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the researchers felt that the designers of the space station were paying too much attention to safety rather than considering operating issues"
+          },
+          "keywordPairs": [
+            {
+              "question": "paying too much attention to",
+              "article": "emphasis on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,380</p><p>Part four. </p><p>00:00:02,180</p><p>You will hear an engineering student giving a presentation about a research project on design features of the International Space Station. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:20,320</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:14,560</p><p>For my presentation, I'm going to summarize the findings of a research project on life aboard the International Space Station in the early days of its operation, its teething problems as it were. I'll start by giving a little background information. The space station crew were essentially a constantly changing team of scientists from different countries who lived on the space station for several months at a time. And they conducted a number of experiments, including some studies of living conditions in space, which is what I'm going to be looking at now. So what was life like on board in the very confined conditions of the space station? Well, the early impressions recorded by the astronauts were very different from what people had expected. They'd expected that the air would smell stale or artificial, but the astronauts found that it was fresh. So that was one very positive finding. And although they were in such a confined space and people worried that it would get very hot, in fact, they found that it was very easy to turn the temperature up or down in order to keep it within a comfortable range. The feedback on the food was also positive. Astronauts on previous space stations had described the meals as boring, but the International Space Station meals were praised for their variety. So that was another good piece of feedback. And something which is taken for granted today, but was a key morale booster in those days, was communication between the space station and Earth, which the astronauts said was clear and reliable. So in the early days, it seems that the mood was overall very positive. </p><p>00:03:07,420</p><p>However, after a few days, the difficulties and frustrations became clearer. Above all, the crew complained about the constant noise caused by the air filters, which used to rattle and buzz twenty-four hours a day, interrupting their sleep. As well as that, the astronauts complained that the Velcro fasteners, which were positioned all over the station, didn't work well. And so a lot of the time, objects weren't secure in the cabin, but floated about. A particularly serious problem was that the systems used on the space station had been developed in a number of different countries, and they didn't always work well together. For example, it was impossible to mix the water produced from different systems because it contained different sorts of preservatives, and these reacted together and blocked the pipes. Another problem was connected to repairs. At the best of times, these took up an inordinate amount of time on the station, and the crew complained that many of the tools that they'd been provided with weren't suitable for the jobs they had to do. So they had to improvise, which meant that jobs took a lot longer than they needed to. </p><p>00:04:23,720</p><p>Another related problem was to do with access to equipment that needed maintaining. Because the instructions on the equipment were often located in places where they were difficult to read, like on the back of equipment, it was often difficult or impossible to read them. </p><p>00:04:41,420</p><p>So having identified these problems, the researchers came up with a number of suggestions about how conditions could be improved on subsequent missions. First, it became clear that although there had been a great deal of consultation with the crews, the systems and equipment on the space station needed much more wide-ranging testing. Then the whole issue of language training came under review. Astronauts from different countries had to be able to talk to the controllers on Earth and to understand them. Now, although they'd had extensive language training, the astronauts sometimes had problems comprehending what was said because they weren't familiar with the accent of the speaker, and this sometimes led to quite dangerous misunderstandings. Finally, and this is the point I found most surprising, the researchers felt that the designers of the space station were paying too much attention to safety rather than considering operating issues. That is, how the station could be run comfortably and smoothly. And the recommendation was to make changes here at quite a fundamental level. So those were the main points I covered in the... </p><p>00:06:00,160</p><p>That is the end of part four. You now have one minute to check your answers to part four.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/39cac047-242b-43a2-8611-f33d43931b97.mp3",
+    "durationSeconds": 366.889796,
+    "sizeBytes": 1467798,
+    "sha256": "944e73c2d3aa8577403c273590ec39ebc0cee5d3fbba659e9d4c9f3940a2d0a7",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:33Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777602006959_opfgex_55616f2c.mp3"
+}

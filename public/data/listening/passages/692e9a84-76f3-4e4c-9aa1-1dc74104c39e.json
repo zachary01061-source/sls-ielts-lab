@@ -1,0 +1,326 @@
+{
+  "id": "692e9a84-76f3-4e4c-9aa1-1dc74104c39e",
+  "title": "The study of the green turtle",
+  "titleCn": "绿海龟保护研究",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/692e9a84-76f3-4e4c-9aa1-1dc74104c39e",
+  "duration": 600,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,080"
+    },
+    {
+      "label": "2",
+      "text": "Morning, everyone. Today, we'll be discussing some crucial conservation efforts focused on the green turtle. Starting with the green turtle, this magnificent creature has been facing numerous threats due to human activities and environmental changes. Conservationists are making dedicated efforts to protect these turtles, particularly by keeping a close eye on their breeding sites along the coastline. Monitoring the nesting areas on the beaches is essential to ensure the turtles have a safe environment to lay their eggs and to help increase their population numbers over time."
+    },
+    {
+      "label": "3",
+      "text": "00:00:39,140"
+    },
+    {
+      "label": "4",
+      "text": "Moving on to the Aldabra giant tortoise, this species is one of the largest tortoises in the world. Interestingly, its ecological role is often likened to that of a large mammal in other ecosystems, the elephant. Just as elephants shape their environment by knocking down trees and creating pathways, the Aldabra giant tortoise influences its habitat significantly. Despite their size, these tortoises are capable of moving swiftly and are most active during the early hours of the day. Their activity peaks in the morning when the temperatures are cooler. Conservationists and researchers assist with the annual population studies of these tortoises to keep track of their numbers and health status. An important part of this work involves checking whether the tortoises are encroaching into nearby human settlements. Monitoring their movement helps prevent potential conflicts with local villages and ensures both human and tortoise communities can coexist peacefully."
+    },
+    {
+      "label": "5",
+      "text": "00:01:44,240"
+    },
+    {
+      "label": "6",
+      "text": "In addition to animal monitoring, there's also a focus on plant life. Seedlings are cultivated in a controlled environment, a nursery, until they are robust enough to survive in the wild. This practice aids in restoring native plant species and maintaining the ecological balance. To support these efforts, a comprehensive database of plant species is being created. This repository of information will be invaluable for researchers and conservationists in tracking plant diversity and planning further conservation actions. Lastly, let's discuss mangrove forests, which are vital coastal ecosystems. One of the key activities here is measuring how quickly coastal erosion is occurring. Understanding the speed of erosion helps in developing strategies to protect the shoreline and the communities that rely on it."
+    },
+    {
+      "label": "7",
+      "text": "00:02:40,460"
+    },
+    {
+      "label": "8",
+      "text": "While studying mangroves, noting the different species of birds that inhabit these areas is also important. Birds are excellent indicators of environmental health, and their presence can provide insights into the overall condition of the ecosystem. Additionally, recording the temperature each day is a simple yet crucial task. Daily temperature data contributes to a larger body of research on climate patterns and how they affect both marine and terrestrial environments."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the note below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "a179e22f-42c2-4711-a38a-7d0c8ff9f284",
+          "prompt": "**Efforts to conserve**\n·to keep track of **31**_____ places at coastal areas",
+          "answers": [
+            "nesting"
+          ],
+          "rawAnswer": "nesting",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Conservationists are making dedicated efforts to protect these turtles, particularly by keeping a close eye on their breeding sites along the coastline. Monitoring the nesting areas on the beaches is essential to ensure the turtles have a safe environment to lay their eggs and to help increase their population numbers over time"
+          },
+          "keywordPairs": [
+            {
+              "question": "keep track of",
+              "article": "Monitoring"
+            },
+            {
+              "question": "places",
+              "article": "areas"
+            },
+            {
+              "question": "coastal areas",
+              "article": "on the beaches"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "b2ac9fde-de29-4669-874f-1b4d37afcca6",
+          "prompt": "**The Aldabra Giant Tortoise**\n·quite large, with a role similar to that of the **32**_____",
+          "answers": [
+            "elephants"
+          ],
+          "rawAnswer": "elephants",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Interestingly, its ecological role is often likened to that of a large mammal in other ecosystems, the elephant"
+          },
+          "keywordPairs": [
+            {
+              "question": "a role similar to",
+              "article": "its ecological role is often likened to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "fd73732f-b279-4bfc-992e-586238384f8c",
+          "prompt": "·moves fast, and is particularly energetic in the **33**_____",
+          "answers": [
+            "morning"
+          ],
+          "rawAnswer": "morning",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Despite their size, these tortoises are capable of moving swiftly and are most active during the early hours of the day. Their activity peaks in the morning when the temperatures are cooler"
+          },
+          "keywordPairs": [
+            {
+              "question": "fast",
+              "article": "swiftly"
+            },
+            {
+              "question": "particularly energetic",
+              "article": "most active"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "80c74ef4-dc63-47a5-aa35-5a328f589fdd",
+          "prompt": "·to support the study of tortoise **34**_____ numbers every year",
+          "answers": [
+            "population"
+          ],
+          "rawAnswer": "population",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Conservationists and researchers assist with the annual population studies of these tortoises to keep track of their numbers and health status"
+          },
+          "keywordPairs": [
+            {
+              "question": "every year",
+              "article": "annual"
+            },
+            {
+              "question": "numbers",
+              "article": "tortoises"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "948728a7-72c4-465e-8e72-f3b6a70c8107",
+          "prompt": "·to observe whether tortoises were moving into nearby **35**_____",
+          "answers": [
+            "villages"
+          ],
+          "rawAnswer": "villages",
+          "evidence": {
+            "paragraph": "",
+            "quote": "An important part of this work involves checking whether the tortoises are encroaching into nearby human settlements. Monitoring their movement helps prevent potential conflicts with local villages and ensures both human and tortoise communities can coexist peacefully"
+          },
+          "keywordPairs": [
+            {
+              "question": "observe",
+              "article": "checking"
+            },
+            {
+              "question": "moving into",
+              "article": "encroaching into"
+            },
+            {
+              "question": "nearby",
+              "article": "local villages"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "39474b4a-61f3-496c-9eec-fd00bb5b36c3",
+          "prompt": "·to house the seedlings in a **36**_____ are ready to be fully developed",
+          "answers": [
+            "nursery"
+          ],
+          "rawAnswer": "nursery",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Seedlings are cultivated in a controlled environment, a nursery, until they are robust enough to survive in the wild"
+          },
+          "keywordPairs": [
+            {
+              "question": "house",
+              "article": "cultivated in"
+            },
+            {
+              "question": "ready to be fully developed",
+              "article": "robust enough to survive"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "02b7997c-e65d-4855-a4ad-5e6a6ee0d9a6",
+          "prompt": "·to develop a **37**_____ of various plant species",
+          "answers": [
+            "database"
+          ],
+          "rawAnswer": "database",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To support these efforts, a comprehensive database of plant species is being created"
+          },
+          "keywordPairs": [
+            {
+              "question": "develop",
+              "article": "being created"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "9a2a389c-6885-43c2-b6e8-3796658ae42d",
+          "prompt": "**Mangroves**\n·to measure the **38**_____ of coastal erosion",
+          "answers": [
+            "speed"
+          ],
+          "rawAnswer": "speed",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the key activities here is measuring how quickly coastal erosion is occurring. Understanding the speed of erosion helps in developing strategies to protect the shoreline and the communities that rely on it"
+          },
+          "keywordPairs": [
+            {
+              "question": "quickly",
+              "article": "speed"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "48d49794-735e-4bd9-b59c-897e2e9b7a00",
+          "prompt": "·to note different species of **39**_____",
+          "answers": [
+            "birds"
+          ],
+          "rawAnswer": "birds",
+          "evidence": {
+            "paragraph": "",
+            "quote": "While studying mangroves, noting the different species of birds that inhabit these areas is also important"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "e29ce8d7-2612-4ce0-98aa-752a1a4f684a",
+          "prompt": "·to document the **40**_____ every day",
+          "answers": [
+            "temperature"
+          ],
+          "rawAnswer": "temperature",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Additionally, recording the temperature each day is a simple yet crucial task"
+          },
+          "keywordPairs": [
+            {
+              "question": "document",
+              "article": "recording"
+            },
+            {
+              "question": "every",
+              "article": "each"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,080</p><p>Morning, everyone. Today, we'll be discussing some crucial conservation efforts focused on the green turtle. Starting with the green turtle, this magnificent creature has been facing numerous threats due to human activities and environmental changes. Conservationists are making dedicated efforts to protect these turtles, particularly by keeping a close eye on their breeding sites along the coastline. Monitoring the nesting areas on the beaches is essential to ensure the turtles have a safe environment to lay their eggs and to help increase their population numbers over time. </p><p>00:00:39,140</p><p>Moving on to the Aldabra giant tortoise, this species is one of the largest tortoises in the world. Interestingly, its ecological role is often likened to that of a large mammal in other ecosystems, the elephant. Just as elephants shape their environment by knocking down trees and creating pathways, the Aldabra giant tortoise influences its habitat significantly. Despite their size, these tortoises are capable of moving swiftly and are most active during the early hours of the day. Their activity peaks in the morning when the temperatures are cooler. Conservationists and researchers assist with the annual population studies of these tortoises to keep track of their numbers and health status. An important part of this work involves checking whether the tortoises are encroaching into nearby human settlements. Monitoring their movement helps prevent potential conflicts with local villages and ensures both human and tortoise communities can coexist peacefully. </p><p>00:01:44,240</p><p>In addition to animal monitoring, there's also a focus on plant life. Seedlings are cultivated in a controlled environment, a nursery, until they are robust enough to survive in the wild. This practice aids in restoring native plant species and maintaining the ecological balance. To support these efforts, a comprehensive database of plant species is being created. This repository of information will be invaluable for researchers and conservationists in tracking plant diversity and planning further conservation actions. Lastly, let's discuss mangrove forests, which are vital coastal ecosystems. One of the key activities here is measuring how quickly coastal erosion is occurring. Understanding the speed of erosion helps in developing strategies to protect the shoreline and the communities that rely on it. </p><p>00:02:40,460</p><p>While studying mangroves, noting the different species of birds that inhabit these areas is also important. Birds are excellent indicators of environmental health, and their presence can provide insights into the overall condition of the ecosystem. Additionally, recording the temperature each day is a simple yet crucial task. Daily temperature data contributes to a larger body of research on climate patterns and how they affect both marine and terrestrial environments.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "pending",
+    "src": "",
+    "errorCode": "source_http_404",
+    "sourceUnavailable": true,
+    "sourceVerifiedAt": "2026-10-30T05:44:24Z"
+  },
+  "audioMissing": true,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786348143938_3og2wm_5fbf6d5d.mp3"
+}

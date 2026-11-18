@@ -1,0 +1,276 @@
+{
+  "id": "cambridge-5-test-2-reading-3",
+  "title": "The Birth of Scientific English",
+  "titleCn": "The Birth of Scientific English",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 5,
+    "test": 2
+  },
+  "sourceQuestionId": "7031",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7031",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Birth of Scientific English"
+    },
+    {
+      "label": "2",
+      "text": "World science is dominated today by a small number of languages, including Japanese, German and French, but it is English which is probably the most popular global language of science. This is not just because of the importance of English-speaking countries such as the USA in scientific research; the scientists of many non-English-speaking countries find that they need to write their research papers in English to reach a wide international audience. Given the prominence of scientific English today, it may seem surprising that no one really knew how to write science in English before the 17th century. Before that, Latin was regarded as the lingua franca1 for European intellectuals."
+    },
+    {
+      "label": "3",
+      "text": "The European Renaissance (c. 14th-16th century) is sometimes called the 'revival of learning', a time of renewed interest in the 'lost knowledge' of classical times. At the same time, however, scholars also began to test and extend this knowledge. The emergent nation states of Europe developed competitive interests in world exploration and the development of trade. Such expansion, which was to take the English language west to America and east to India, was supported by scientific developments such as the discovery of magnetism (and hence the invention of the compass), improvements in cartography and - perhaps the most important scientific revolution of them all - the new theories of astronomy and the movement of the Earth in relation to the planets and stars, developed by Copernicus (1473-1543)."
+    },
+    {
+      "label": "4",
+      "text": "England was one of the first countries where scientists adopted and publicised Copernican ideas with enthusiasm. Some of these scholars, including two with interests in language -John Wallis and John Wilkins - helped found the Royal Society in 1660 in order to promote empirical scientific research."
+    },
+    {
+      "label": "5",
+      "text": "Across Europe similar academies and societies arose, creating new national traditions of science. In the initial stages of the scientific revolution, most publications in the national languages were popular works, encyclopaedias, educational textbooks and translations. Original science was not done in English until the second half of the 17th century. For example, Newton published his mathematical treatise, known as the Principia, in Latin, but published his later work on the properties of light - Opticks - in English."
+    },
+    {
+      "label": "6",
+      "text": "There were several reasons why original science continued to be written in Latin. The first was simply a matter of audience. Latin was suitable for an international audience of scholars, whereas English reached a socially wider, but more local, audience. Hence, popular science was written in English."
+    },
+    {
+      "label": "7",
+      "text": "A second reason for writing in Latin may, perversely, have been a concern for secrecy. Open publication had dangers in putting into the public domain preliminary ideas which had not yet been fully exploited by their 'author'. This growing concern about intellectual property rights was a feature of the period - it reflected both the humanist notion of the individual, rational scientist who invents and discovers through private intellectual labour, and the growing connection between original science and commercial exploitation. There was something of a social distinction between 'scholars and gentlemen' who understood Latin, and men of trade who lacked a classical education. And in the mid-17th century it was common practice for mathematicians to keep their discoveries and proofs secret, by writing them in cipher, in obscure languages, or in private messages deposited in a sealed box with the Royal Society. Some scientists might have felt more comfortable with Latin precisely because its audience, though international, was socially restricted. Doctors clung the most keenly to Latin as an 'insider language'."
+    },
+    {
+      "label": "8",
+      "text": "A third reason why the writing of original science in English was delayed may have been to do with the linguistic inadequacy of English in the early modern period. English was not well equipped to deal with scientific argument. First, it lacked the necessary technical vocabulary. Second, it lacked the grammatical resources required to represent the world in an objective and impersonal way, and to discuss the relations, such as cause and effect, that might hold between complex and hypothetical entities."
+    },
+    {
+      "label": "9",
+      "text": "Fortunately, several members of the Royal Society possessed an interest in language and became engaged in various linguistic projects. Although a proposal in 1664 to establish a committee for improving the English language came to little, the society's members did a great deal to foster the publication of science in English and to encourage the development of a suitable writing style. Many members of the Royal Society also published monographs in English. One of the first was by Robert Hooke, the society's first curator of experiments, who described his experiments with microscopes in Micrographia (1665). This work is largely narrative in style, based on a transcript of oral demonstrations and lectures."
+    },
+    {
+      "label": "10",
+      "text": "In 1665 a new scientific journal, Philosophical Transactions, was inaugurated. Perhaps the first international English-language scientific journal, it encouraged a new genre of scientific writing, that of short, focused accounts of particular experiments."
+    },
+    {
+      "label": "11",
+      "text": "The 17th century was thus a formative period in the establishment of scientific English. In the following century much of this momentum was lost as German established itself as the leading European language of science. It is estimated that by the end of the 18th century 401 German scientific journals had been established as opposed to 96 in France and 50 in England. However, in the 19th century scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, and new, specialised, professional societies were instituted to promote and publish in the new disciplines."
+    },
+    {
+      "label": "12",
+      "text": "1 lingua franca: a language which is used for communication between groups of people who speak different languages"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 28-34\n\nComplete the summary.\n\nChoose NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Answer for gap 28.",
+          "answers": [
+            "Latin"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_251218",
+          "explanation": "题号：28\n\n定位词：Europe, nation state, At first\n\n文中对应第一、五、六段\n\n题解：这是一道非常复杂的题目，答案的选择涉及对文章三段的理解。在首段末句，作者提到了Before that, Latin was regarded as the lingua franca for European intellectuals.我们隐约可以感觉到拉丁文在学术界的盛行，但这还不足以让我们确定此空就要填Latin一词。在第五和第六段中，作者提到了学术界流行拉丁文的原因。其中第六段开头句提到A second reason for writing in Latin may, perversely, have a concern for secrecy，这正好就等同题目中28空后面的那句话。所以我们]推测答案应该填写Latin一词。\n\n题号：29\n\n定位词：Mathematicians\n\n文中对应第六段：…doctors clung the most keenly to Latin…\n\n题解：首先由上一题确定此题答案在第六段后半部分，然后寻找mathematicians词。题目中告诉我们：有的时候保护个人观点的欲望远远大于与人分享观点的欲望，特别是对于数学家和___。 在这里应该填上一个表示职业的名词。而第六段中在mathematician之后，只有一个表示职业的名词，那就是doctors。故此题答案应该填doctors。\n\n题号：30、31\n\n定位词：Britain, English, neither…nor…\n\n文中对应第七段：First, it lacked the necessary...\n\n题解：首先用English将此题定位在第七段中，这一段提到了英文为什么迟迟未被用作学术语言的原因。从题目上我们看出这两个原因应该是并列的，进而找到了first和second,然后就选出了答案technical vocabulary和grammatical resources。\n\n注意：一般并列关系的空格不限词序。\n\n题号：32\n\n定位词：after 1600, associated with\n\n文中对应第八段：Several members of the Royal Society…\n\n题解：按照顺序原则，此题答案应该在第八段出现。在这一段当中作者不断提到皇家学会的科学家如何致力于发展英语作为一种学术语言，并且举出了具体的例子。所以答案应该填Royal Society。\n\n题号：33\n\n定位词：journal, English, overtaken\n\n文中对应第十段：...German established itself as the leading European language of\n\nscience.\n\n题解：文中的第九段提到了journal的诞生，因此31题的答案应该还在这一段之后， 于是我们找到第十段。第十段中提到德语压倒英语成为主要的科学语言。establish…as...确立为......。\n\n题号：34\n\n定位词：19th century\n\n文中对应第十段：.... the industrial revolution created the need for new technical vocabulary...\n\n题解：首先确定答案在19th century的后面，进而找到文中：...scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, ...是工业革命促进了科技英语的复兴，所以此题答案应该填industrial revolution。",
+          "promptHtml": "Answer for gap 28."
+        },
+        {
+          "id": 2,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Answer for gap 29.",
+          "answers": [
+            "doctors"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_213809",
+          "explanation": "题号：28\n\n定位词：Europe, nation state, At first\n\n文中对应第一、五、六段\n\n题解：这是一道非常复杂的题目，答案的选择涉及对文章三段的理解。在首段末句，作者提到了Before that, Latin was regarded as the lingua franca for European intellectuals.我们隐约可以感觉到拉丁文在学术界的盛行，但这还不足以让我们确定此空就要填Latin一词。在第五和第六段中，作者提到了学术界流行拉丁文的原因。其中第六段开头句提到A second reason for writing in Latin may, perversely, have a concern for secrecy，这正好就等同题目中28空后面的那句话。所以我们]推测答案应该填写Latin一词。\n\n题号：29\n\n定位词：Mathematicians\n\n文中对应第六段：…doctors clung the most keenly to Latin…\n\n题解：首先由上一题确定此题答案在第六段后半部分，然后寻找mathematicians词。题目中告诉我们：有的时候保护个人观点的欲望远远大于与人分享观点的欲望，特别是对于数学家和___。 在这里应该填上一个表示职业的名词。而第六段中在mathematician之后，只有一个表示职业的名词，那就是doctors。故此题答案应该填doctors。\n\n题号：30、31\n\n定位词：Britain, English, neither…nor…\n\n文中对应第七段：First, it lacked the necessary...\n\n题解：首先用English将此题定位在第七段中，这一段提到了英文为什么迟迟未被用作学术语言的原因。从题目上我们看出这两个原因应该是并列的，进而找到了first和second,然后就选出了答案technical vocabulary和grammatical resources。\n\n注意：一般并列关系的空格不限词序。\n\n题号：32\n\n定位词：after 1600, associated with\n\n文中对应第八段：Several members of the Royal Society…\n\n题解：按照顺序原则，此题答案应该在第八段出现。在这一段当中作者不断提到皇家学会的科学家如何致力于发展英语作为一种学术语言，并且举出了具体的例子。所以答案应该填Royal Society。\n\n题号：33\n\n定位词：journal, English, overtaken\n\n文中对应第十段：...German established itself as the leading European language of\n\nscience.\n\n题解：文中的第九段提到了journal的诞生，因此31题的答案应该还在这一段之后， 于是我们找到第十段。第十段中提到德语压倒英语成为主要的科学语言。establish…as...确立为......。\n\n题号：34\n\n定位词：19th century\n\n文中对应第十段：.... the industrial revolution created the need for new technical vocabulary...\n\n题解：首先确定答案在19th century的后面，进而找到文中：...scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, ...是工业革命促进了科技英语的复兴，所以此题答案应该填industrial revolution。",
+          "promptHtml": "Answer for gap 29."
+        },
+        {
+          "id": 3,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Answer for gap 30.",
+          "answers": [
+            "technical vocabulary",
+            "grammatical resources"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_499189",
+          "explanation": "题号：28\n\n定位词：Europe, nation state, At first\n\n文中对应第一、五、六段\n\n题解：这是一道非常复杂的题目，答案的选择涉及对文章三段的理解。在首段末句，作者提到了Before that, Latin was regarded as the lingua franca for European intellectuals.我们隐约可以感觉到拉丁文在学术界的盛行，但这还不足以让我们确定此空就要填Latin一词。在第五和第六段中，作者提到了学术界流行拉丁文的原因。其中第六段开头句提到A second reason for writing in Latin may, perversely, have a concern for secrecy，这正好就等同题目中28空后面的那句话。所以我们]推测答案应该填写Latin一词。\n\n题号：29\n\n定位词：Mathematicians\n\n文中对应第六段：…doctors clung the most keenly to Latin…\n\n题解：首先由上一题确定此题答案在第六段后半部分，然后寻找mathematicians词。题目中告诉我们：有的时候保护个人观点的欲望远远大于与人分享观点的欲望，特别是对于数学家和___。 在这里应该填上一个表示职业的名词。而第六段中在mathematician之后，只有一个表示职业的名词，那就是doctors。故此题答案应该填doctors。\n\n题号：30、31\n\n定位词：Britain, English, neither…nor…\n\n文中对应第七段：First, it lacked the necessary...\n\n题解：首先用English将此题定位在第七段中，这一段提到了英文为什么迟迟未被用作学术语言的原因。从题目上我们看出这两个原因应该是并列的，进而找到了first和second,然后就选出了答案technical vocabulary和grammatical resources。\n\n注意：一般并列关系的空格不限词序。\n\n题号：32\n\n定位词：after 1600, associated with\n\n文中对应第八段：Several members of the Royal Society…\n\n题解：按照顺序原则，此题答案应该在第八段出现。在这一段当中作者不断提到皇家学会的科学家如何致力于发展英语作为一种学术语言，并且举出了具体的例子。所以答案应该填Royal Society。\n\n题号：33\n\n定位词：journal, English, overtaken\n\n文中对应第十段：...German established itself as the leading European language of\n\nscience.\n\n题解：文中的第九段提到了journal的诞生，因此31题的答案应该还在这一段之后， 于是我们找到第十段。第十段中提到德语压倒英语成为主要的科学语言。establish…as...确立为......。\n\n题号：34\n\n定位词：19th century\n\n文中对应第十段：.... the industrial revolution created the need for new technical vocabulary...\n\n题解：首先确定答案在19th century的后面，进而找到文中：...scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, ...是工业革命促进了科技英语的复兴，所以此题答案应该填industrial revolution。",
+          "setId": "Q7031_499189",
+          "promptHtml": "Answer for gap 30."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Answer for gap 31.",
+          "answers": [
+            "technical vocabulary",
+            "grammatical resources"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_499189",
+          "explanation": "题号：28\n\n定位词：Europe, nation state, At first\n\n文中对应第一、五、六段\n\n题解：这是一道非常复杂的题目，答案的选择涉及对文章三段的理解。在首段末句，作者提到了Before that, Latin was regarded as the lingua franca for European intellectuals.我们隐约可以感觉到拉丁文在学术界的盛行，但这还不足以让我们确定此空就要填Latin一词。在第五和第六段中，作者提到了学术界流行拉丁文的原因。其中第六段开头句提到A second reason for writing in Latin may, perversely, have a concern for secrecy，这正好就等同题目中28空后面的那句话。所以我们]推测答案应该填写Latin一词。\n\n题号：29\n\n定位词：Mathematicians\n\n文中对应第六段：…doctors clung the most keenly to Latin…\n\n题解：首先由上一题确定此题答案在第六段后半部分，然后寻找mathematicians词。题目中告诉我们：有的时候保护个人观点的欲望远远大于与人分享观点的欲望，特别是对于数学家和___。 在这里应该填上一个表示职业的名词。而第六段中在mathematician之后，只有一个表示职业的名词，那就是doctors。故此题答案应该填doctors。\n\n题号：30、31\n\n定位词：Britain, English, neither…nor…\n\n文中对应第七段：First, it lacked the necessary...\n\n题解：首先用English将此题定位在第七段中，这一段提到了英文为什么迟迟未被用作学术语言的原因。从题目上我们看出这两个原因应该是并列的，进而找到了first和second,然后就选出了答案technical vocabulary和grammatical resources。\n\n注意：一般并列关系的空格不限词序。\n\n题号：32\n\n定位词：after 1600, associated with\n\n文中对应第八段：Several members of the Royal Society…\n\n题解：按照顺序原则，此题答案应该在第八段出现。在这一段当中作者不断提到皇家学会的科学家如何致力于发展英语作为一种学术语言，并且举出了具体的例子。所以答案应该填Royal Society。\n\n题号：33\n\n定位词：journal, English, overtaken\n\n文中对应第十段：...German established itself as the leading European language of\n\nscience.\n\n题解：文中的第九段提到了journal的诞生，因此31题的答案应该还在这一段之后， 于是我们找到第十段。第十段中提到德语压倒英语成为主要的科学语言。establish…as...确立为......。\n\n题号：34\n\n定位词：19th century\n\n文中对应第十段：.... the industrial revolution created the need for new technical vocabulary...\n\n题解：首先确定答案在19th century的后面，进而找到文中：...scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, ...是工业革命促进了科技英语的复兴，所以此题答案应该填industrial revolution。",
+          "setId": "Q7031_499189",
+          "promptHtml": "Answer for gap 31."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Answer for gap 32.",
+          "answers": [
+            "Royal Society"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_490056",
+          "explanation": "题号：28\n\n定位词：Europe, nation state, At first\n\n文中对应第一、五、六段\n\n题解：这是一道非常复杂的题目，答案的选择涉及对文章三段的理解。在首段末句，作者提到了Before that, Latin was regarded as the lingua franca for European intellectuals.我们隐约可以感觉到拉丁文在学术界的盛行，但这还不足以让我们确定此空就要填Latin一词。在第五和第六段中，作者提到了学术界流行拉丁文的原因。其中第六段开头句提到A second reason for writing in Latin may, perversely, have a concern for secrecy，这正好就等同题目中28空后面的那句话。所以我们]推测答案应该填写Latin一词。\n\n题号：29\n\n定位词：Mathematicians\n\n文中对应第六段：…doctors clung the most keenly to Latin…\n\n题解：首先由上一题确定此题答案在第六段后半部分，然后寻找mathematicians词。题目中告诉我们：有的时候保护个人观点的欲望远远大于与人分享观点的欲望，特别是对于数学家和___。 在这里应该填上一个表示职业的名词。而第六段中在mathematician之后，只有一个表示职业的名词，那就是doctors。故此题答案应该填doctors。\n\n题号：30、31\n\n定位词：Britain, English, neither…nor…\n\n文中对应第七段：First, it lacked the necessary...\n\n题解：首先用English将此题定位在第七段中，这一段提到了英文为什么迟迟未被用作学术语言的原因。从题目上我们看出这两个原因应该是并列的，进而找到了first和second,然后就选出了答案technical vocabulary和grammatical resources。\n\n注意：一般并列关系的空格不限词序。\n\n题号：32\n\n定位词：after 1600, associated with\n\n文中对应第八段：Several members of the Royal Society…\n\n题解：按照顺序原则，此题答案应该在第八段出现。在这一段当中作者不断提到皇家学会的科学家如何致力于发展英语作为一种学术语言，并且举出了具体的例子。所以答案应该填Royal Society。\n\n题号：33\n\n定位词：journal, English, overtaken\n\n文中对应第十段：...German established itself as the leading European language of\n\nscience.\n\n题解：文中的第九段提到了journal的诞生，因此31题的答案应该还在这一段之后， 于是我们找到第十段。第十段中提到德语压倒英语成为主要的科学语言。establish…as...确立为......。\n\n题号：34\n\n定位词：19th century\n\n文中对应第十段：.... the industrial revolution created the need for new technical vocabulary...\n\n题解：首先确定答案在19th century的后面，进而找到文中：...scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, ...是工业革命促进了科技英语的复兴，所以此题答案应该填industrial revolution。",
+          "promptHtml": "Answer for gap 32."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "German"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_826499",
+          "explanation": "题号：28\n\n定位词：Europe, nation state, At first\n\n文中对应第一、五、六段\n\n题解：这是一道非常复杂的题目，答案的选择涉及对文章三段的理解。在首段末句，作者提到了Before that, Latin was regarded as the lingua franca for European intellectuals.我们隐约可以感觉到拉丁文在学术界的盛行，但这还不足以让我们确定此空就要填Latin一词。在第五和第六段中，作者提到了学术界流行拉丁文的原因。其中第六段开头句提到A second reason for writing in Latin may, perversely, have a concern for secrecy，这正好就等同题目中28空后面的那句话。所以我们]推测答案应该填写Latin一词。\n\n题号：29\n\n定位词：Mathematicians\n\n文中对应第六段：…doctors clung the most keenly to Latin…\n\n题解：首先由上一题确定此题答案在第六段后半部分，然后寻找mathematicians词。题目中告诉我们：有的时候保护个人观点的欲望远远大于与人分享观点的欲望，特别是对于数学家和___。 在这里应该填上一个表示职业的名词。而第六段中在mathematician之后，只有一个表示职业的名词，那就是doctors。故此题答案应该填doctors。\n\n题号：30、31\n\n定位词：Britain, English, neither…nor…\n\n文中对应第七段：First, it lacked the necessary...\n\n题解：首先用English将此题定位在第七段中，这一段提到了英文为什么迟迟未被用作学术语言的原因。从题目上我们看出这两个原因应该是并列的，进而找到了first和second,然后就选出了答案technical vocabulary和grammatical resources。\n\n注意：一般并列关系的空格不限词序。\n\n题号：32\n\n定位词：after 1600, associated with\n\n文中对应第八段：Several members of the Royal Society…\n\n题解：按照顺序原则，此题答案应该在第八段出现。在这一段当中作者不断提到皇家学会的科学家如何致力于发展英语作为一种学术语言，并且举出了具体的例子。所以答案应该填Royal Society。\n\n题号：33\n\n定位词：journal, English, overtaken\n\n文中对应第十段：...German established itself as the leading European language of\n\nscience.\n\n题解：文中的第九段提到了journal的诞生，因此31题的答案应该还在这一段之后， 于是我们找到第十段。第十段中提到德语压倒英语成为主要的科学语言。establish…as...确立为......。\n\n题号：34\n\n定位词：19th century\n\n文中对应第十段：.... the industrial revolution created the need for new technical vocabulary...\n\n题解：首先确定答案在19th century的后面，进而找到文中：...scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, ...是工业革命促进了科技英语的复兴，所以此题答案应该填industrial revolution。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Answer for gap 34.",
+          "answers": [
+            "industrial revolution"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_126763",
+          "explanation": "题号：28\n\n定位词：Europe, nation state, At first\n\n文中对应第一、五、六段\n\n题解：这是一道非常复杂的题目，答案的选择涉及对文章三段的理解。在首段末句，作者提到了Before that, Latin was regarded as the lingua franca for European intellectuals.我们隐约可以感觉到拉丁文在学术界的盛行，但这还不足以让我们确定此空就要填Latin一词。在第五和第六段中，作者提到了学术界流行拉丁文的原因。其中第六段开头句提到A second reason for writing in Latin may, perversely, have a concern for secrecy，这正好就等同题目中28空后面的那句话。所以我们]推测答案应该填写Latin一词。\n\n题号：29\n\n定位词：Mathematicians\n\n文中对应第六段：…doctors clung the most keenly to Latin…\n\n题解：首先由上一题确定此题答案在第六段后半部分，然后寻找mathematicians词。题目中告诉我们：有的时候保护个人观点的欲望远远大于与人分享观点的欲望，特别是对于数学家和___。 在这里应该填上一个表示职业的名词。而第六段中在mathematician之后，只有一个表示职业的名词，那就是doctors。故此题答案应该填doctors。\n\n题号：30、31\n\n定位词：Britain, English, neither…nor…\n\n文中对应第七段：First, it lacked the necessary...\n\n题解：首先用English将此题定位在第七段中，这一段提到了英文为什么迟迟未被用作学术语言的原因。从题目上我们看出这两个原因应该是并列的，进而找到了first和second,然后就选出了答案technical vocabulary和grammatical resources。\n\n注意：一般并列关系的空格不限词序。\n\n题号：32\n\n定位词：after 1600, associated with\n\n文中对应第八段：Several members of the Royal Society…\n\n题解：按照顺序原则，此题答案应该在第八段出现。在这一段当中作者不断提到皇家学会的科学家如何致力于发展英语作为一种学术语言，并且举出了具体的例子。所以答案应该填Royal Society。\n\n题号：33\n\n定位词：journal, English, overtaken\n\n文中对应第十段：...German established itself as the leading European language of\n\nscience.\n\n题解：文中的第九段提到了journal的诞生，因此31题的答案应该还在这一段之后， 于是我们找到第十段。第十段中提到德语压倒英语成为主要的科学语言。establish…as...确立为......。\n\n题号：34\n\n定位词：19th century\n\n文中对应第十段：.... the industrial revolution created the need for new technical vocabulary...\n\n题解：首先确定答案在19th century的后面，进而找到文中：...scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, ...是工业革命促进了科技英语的复兴，所以此题答案应该填industrial revolution。",
+          "promptHtml": "Answer for gap 34."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>In Europe, modern science emerged at the same time as the nation state. At first, the scientific language of choice remained <strong>[28] ______</strong>. It allowed scientists to communicate with other socially privileged thinkers while protecting their work from unwanted exploitation. Sometimes the desire to protect ideas seems to have been stronger than the desire to communicate them, particularly in the case of mathematicians  and<span> </span><strong>[29] ______</strong> .</p>\n\n<p>In Britain, moreover, scientists worried that English had neither the <strong>[30] ______ [31] ______</strong><span>the  </span>to express their ideas. This situation only changed after 1660 when scientists associated with the <strong>[32] ______</strong><span> </span>set about developing English. An early scientific journal fostered a new kind of writing based on short descriptions of specific experiments. Although English was then overtaken by <strong>[33] ______</strong> , it developed again in the 19th century as a direct result of the <strong>[34] ______</strong> <span>.</span>     </p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 35-37\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "There was strong competition between scientists in Renaissance Europe.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7031_235144",
+          "explanation": "参考译文：文艺复兴时期的欧洲，科学家之间的竞争十分激烈。\n\n定位词：Renaissance Europe\n\n解题关键词：strong competition\n\n文中对应第二段：在此段当中并没有提到文艺复兴时期欧洲的科学家们是如何激烈竞争的，是一道完全未提及型NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "The most important scientific development of the Renaissance period was the discovery of magnetism.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7031_224868",
+          "explanation": "参考译文：文艺复兴时期最重大的科学进步就是发现了磁场。\n\n定位词：magnetism\n\n解题关键词：most important\n\n文中对应第二段:..., was supported by ... the new theories of astronomy...这句话表明文艺复兴时期最重大的发现也许是天文学方面的新理论，这就和题目当中磁场的发现相抵触了，故应该选择FALSE。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "In 17th-century Britain, leading thinkers combined their interest in science with an interest in how to express ideas.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7031_543766",
+          "explanation": "参考译文：在17世纪的英国，重要的思想家将对科学的兴趣与如何表达观点的兴趣相结合起来。\n\n定位词：17th-century Britain\n\n解题关键词：how to express ideas\n\n文中对应根据T/F/NG题目一般每段考查一题、按顺序出题的原则，我们将这道题目定位在第三段，而England一词也印证了我们的定位。但是如果想在这一段直接找到与题目相对应的词语却非常困难。本段只是提到英格兰是率先有科学家热情地接受并宣传哥白尼的思想的国家统一。 这些学者当中，有两位对语言感兴趣，他们分别是John Wallis和John Wilkins。1660 年，这两位学者帮助组建了英国皇家学会，来推广实证性的科学研究。所以我们可以推断出本题目为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 38-40\n\nComplete the table.\n\nChoose NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "[38] ______",
+          "answers": [
+            "popular"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_508822",
+          "explanation": "题号：38\n\n定位第五段：Hence, popular science was written in English.\n\n题解：此处要填个与original相对的词，故popular最合适。\n\n题号：39\n\n定位第四段：For example, Newton published his mathematical treatise, known as the Principia, ...\n\n题解：通过旁边的纵栏我们了解到英文是用来书写大百科全书的，而横栏又告诉我们此处需要个例子，于是我们需要填写的就是用拉丁文书写的一个范例，所以填Principia。\n\n题号：40\n\n定位第五段：…whereas English reached a socially wider, but more local audience.题解：通过横栏的audience词我们找到了第五段。拉丁文的目标读者是国际学者，而英文的目标读者则更广泛，也更本地化。\n\n答案是local。",
+          "promptHtml": "[38] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "[39] ______",
+          "answers": [
+            "Principia",
+            "the Principia",
+            "Newton's Principia",
+            "mathematical treatise"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_382548",
+          "explanation": "题号：38\n\n定位第五段：Hence, popular science was written in English.\n\n题解：此处要填个与original相对的词，故popular最合适。\n\n题号：39\n\n定位第四段：For example, Newton published his mathematical treatise, known as the Principia, ...\n\n题解：通过旁边的纵栏我们了解到英文是用来书写大百科全书的，而横栏又告诉我们此处需要个例子，于是我们需要填写的就是用拉丁文书写的一个范例，所以填Principia。\n\n题号：40\n\n定位第五段：…whereas English reached a socially wider, but more local audience.题解：通过横栏的audience词我们找到了第五段。拉丁文的目标读者是国际学者，而英文的目标读者则更广泛，也更本地化。\n\n答案是local。",
+          "promptHtml": "[39] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "[40] ______ , but socially wider",
+          "answers": [
+            "local",
+            "more local",
+            "local audience"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7031_760863",
+          "explanation": "题号：38\n\n定位第五段：Hence, popular science was written in English.\n\n题解：此处要填个与original相对的词，故popular最合适。\n\n题号：39\n\n定位第四段：For example, Newton published his mathematical treatise, known as the Principia, ...\n\n题解：通过旁边的纵栏我们了解到英文是用来书写大百科全书的，而横栏又告诉我们此处需要个例子，于是我们需要填写的就是用拉丁文书写的一个范例，所以填Principia。\n\n题号：40\n\n定位第五段：…whereas English reached a socially wider, but more local audience.题解：通过横栏的audience词我们找到了第五段。拉丁文的目标读者是国际学者，而英文的目标读者则更广泛，也更本地化。\n\n答案是local。",
+          "promptHtml": "[40] ______ , but socially wider"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"3\">\n\t\t\t<p><strong>Science written in the first half of the 17th century</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Language used</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Latin</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>English</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Type of science</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Original</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>[38] ______</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Examples</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>[39] ______</strong><span> </span> </p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Encyclopaedias</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Target audience</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>International scholars</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>[40] ______</strong> , but socially wider</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>The Birth of Scientific English</span></strong></p><p>World science is dominated today by a small number of languages, including Japanese, German and French, but it is English which is probably the most popular global language of science. This is not just because of the importance of English-speaking countries such as the USA in scientific research; the scientists of many non-English-speaking countries find that they need to write their research papers in English to reach a wide international audience. Given the prominence of scientific English today, it may seem surprising that no one really knew how to write science in English before the 17th century. Before that, Latin was regarded as the lingua franca<sup>1</sup> for European intellectuals.</p><p>The European Renaissance (c. 14th-16th century) is sometimes called the &#x27;revival of learning&#x27;, a time of renewed interest in the &#x27;lost knowledge&#x27; of classical times. At the same time, however, scholars also began to test and extend this knowledge. The emergent nation states of Europe developed competitive interests in world exploration and the development of trade. Such expansion, which was to take the English language west to America and east to India, was supported by scientific developments such as the discovery of magnetism (and hence the invention of the compass), improvements in cartography and - perhaps the most important scientific revolution of them all - the new theories of astronomy and the movement of the Earth in relation to the planets and stars, developed by Copernicus (1473-1543).</p><p>England was one of the first countries where scientists adopted and publicised Copernican ideas with enthusiasm. Some of these scholars, including two with interests in language -John Wallis and John Wilkins - helped found the Royal Society in 1660 in order to promote empirical scientific research.</p><p>Across Europe similar academies and societies arose, creating new national traditions of science. In the initial stages of the scientific revolution, most publications in the national languages were popular works, encyclopaedias, educational textbooks and translations. Original science was not done in English until the second half of the 17th century. For example, Newton published his mathematical treatise, known as the Principia, in Latin, but published his later work on the properties of light - Opticks - in English.</p><p>There were several reasons why original science continued to be written in Latin. The first was simply a matter of audience. Latin was suitable for an international audience of scholars, whereas English reached a socially wider, but more local, audience. Hence, popular science was written in English.</p><p>A second reason for writing in Latin may, perversely, have been a concern for secrecy. Open publication had dangers in putting into the public domain preliminary ideas which had not yet been fully exploited by their &#x27;author&#x27;. This growing concern about intellectual property rights was a feature of the period - it reflected both the humanist notion of the individual, rational scientist who invents and discovers through private intellectual labour, and the growing connection between original science and commercial exploitation. There was something of a social distinction between &#x27;scholars and gentlemen&#x27; who understood Latin, and men of trade who lacked a classical education. And in the mid-17th century it was common practice for mathematicians to keep their discoveries and proofs secret, by writing them in cipher, in obscure languages, or in private messages deposited in a sealed box with the Royal Society. Some scientists might have felt more comfortable with Latin precisely because its audience, though international, was socially restricted. Doctors clung the most keenly to Latin as an &#x27;insider language&#x27;.</p><p>A third reason why the writing of original science in English was delayed may have been to do with the linguistic inadequacy of English in the early modern period. English was not well equipped to deal with scientific argument. First, it lacked the necessary technical vocabulary. Second, it lacked the grammatical resources required to represent the world in an objective and impersonal way, and to discuss the relations, such as cause and effect, that might hold between complex and hypothetical entities.</p><p>Fortunately, several members of the Royal Society possessed an interest in language and became engaged in various linguistic projects. Although a proposal in 1664 to establish a committee for improving the English language came to little, the society&#x27;s members did a great deal to foster the publication of science in English and to encourage the development of a suitable writing style. Many members of the Royal Society also published monographs in English. One of the first was by Robert Hooke, the society&#x27;s first curator of experiments, who described his experiments with microscopes in Micrographia (1665). This work is largely narrative in style, based on a transcript of oral demonstrations and lectures.</p><p>In 1665 a new scientific journal, Philosophical Transactions, was inaugurated. Perhaps the first international English-language scientific journal, it encouraged a new genre of scientific writing, that of short, focused accounts of particular experiments.</p><p>The 17th century was thus a formative period in the establishment of scientific English. In the following century much of this momentum was lost as German established itself as the leading European language of science. It is estimated that by the end of the 18th century 401 German scientific journals had been established as opposed to 96 in France and 50 in England. However, in the 19th century scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, and new, specialised, professional societies were instituted to promote and publish in the new disciplines.</p><p>1 lingua franca: a language which is used for communication between groups of people who speak different languages</p>"
+}

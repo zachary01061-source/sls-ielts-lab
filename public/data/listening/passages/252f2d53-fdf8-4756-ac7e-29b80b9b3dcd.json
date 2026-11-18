@@ -1,0 +1,303 @@
+{
+  "id": "252f2d53-fdf8-4756-ac7e-29b80b9b3dcd",
+  "title": "Rock art",
+  "titleCn": "史前岩画与早期人类迁徙",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/252f2d53-fdf8-4756-ac7e-29b80b9b3dcd",
+  "duration": 417,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,100"
+    },
+    {
+      "label": "2",
+      "text": "Hello everyone, and welcome. As part of this series of lectures on the development of early humans, today we are looking at rock art, the paintings and drawings produced by prehistoric peoples as they spread across the continents. If you've been lucky enough to look at a piece of rock art close up, you will know it's an experience that makes you wonder about the passage of time and our own history. But rock art also has a practical value for researchers. And let's start by considering why that is. Firstly, it provides vital information about the way that people evolved, information not always easily obtainable from excavated artifacts alone. Secondly, rock art tells us about migration, where people came from and where perhaps they went next."
+    },
+    {
+      "label": "3",
+      "text": "00:00:54,580"
+    },
+    {
+      "label": "4",
+      "text": "Rock art is found all over the world, and this in itself is not surprising. But what is rather amazing, you might think, is how similar some images are, whether you're looking at a rock face in South Africa or standing inside a cave in Spain. Let me give you an example. When our ancestors drew humans, they would often draw them as stick figures. But if they drew a face, then the eyes were almost always very prominent, very open and wide. And of course, animals are very common in rock art. But one animal which is very interesting to researchers is the lizard, because whenever you see a prehistoric painting of one, it's depicted either in profile or looking down on it from above. And these drawings are produced by people of totally different cultural backgrounds. Amazing. But how can this be the case that similar artistic styles exist in such distant locations?"
+    },
+    {
+      "label": "5",
+      "text": "00:02:02,880"
+    },
+    {
+      "label": "6",
+      "text": "In the past, archaeologists believed that trade must have brought people together and that it gave them the opportunity to observe each other's culture, including art styles. But this didn't prove to be the case. Recently, researchers have come up with a new theory. They believe that the brains of our ancestors evolved to notice certain images before others, and this was important, actually essential, because in an environment full of constant danger, it was necessary for survival. So the need to quickly recognize things that could be helpful or harmful could have had a great influence on rock art and explain why some images are more common across cultures than others."
+    },
+    {
+      "label": "7",
+      "text": "00:02:54,100"
+    },
+    {
+      "label": "8",
+      "text": "Later on, there would have been other reasons why communities produced art, certainly for spiritual and social purposes, and no doubt for political ones too, as different tribes looked for allies and struggled against their enemies."
+    },
+    {
+      "label": "9",
+      "text": "00:03:11,420"
+    },
+    {
+      "label": "10",
+      "text": "Well, as I said before, you can find rock art all over the world, but I'd like to focus now on the rock art of the Aboriginal people of Australia. The images that survive in this part of the world span at least twenty thousand years. In fact, the Aborigines were still practicing this art form in the late eighteenth century when the Europeans began to arrive and certain images point to the contact between them. For example, the Aborigines began to draw ships which they would have seen along the coast. It's hard for us to imagine what they must have thought when these first began to appear. Another image that is evidence of European arrival is that of horses, an animal that would have been very alien to the Australian landscape. Um, it isn't actually known how many sites there are across Australia where rock art can be found, but unfortunately we do know that much of the art is being lost to us. Erosion, of course, is one of the key reasons for its destruction, but human activity is also increasingly responsible. Since the nineteen sixties, industry alone has destroyed around an estimated ten thousand pieces of art. At this rate, in fifty years, half of all Australian rock art could have disappeared for good. Vandalism is sadly another factor, and although most people, I believe, would wish to preserve this art, I'm afraid that tourism is another reason why the art is disappearing. In some cases, the art is damaged when peo..."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "d6bf4df9-40a2-494e-8833-8f027491c185",
+          "prompt": "**For researchers, rock art provides evidence about**\n·evolution\n·**31**_____",
+          "answers": [
+            "migration"
+          ],
+          "rawAnswer": "migration",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Firstly, it provides vital information about the way that people evolved, information not always easily obtainable from excavated artifacts alone. Secondly, rock art tells us about migration, where people came from and where perhaps they went next"
+          },
+          "keywordPairs": [
+            {
+              "question": "evidence",
+              "article": "vital information"
+            },
+            {
+              "question": "evolution",
+              "article": "people evolved"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "f80b6008-507d-489e-ad74-b6ad6261051c",
+          "prompt": "**Global similarities in rock art**\n·humans often had large **32**_____",
+          "answers": [
+            "eyes"
+          ],
+          "rawAnswer": "eyes",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When our ancestors drew humans, they would often draw them as stick figures. But if they drew a face, then the eyes were almost always very prominent, very open and wide"
+          },
+          "keywordPairs": [
+            {
+              "question": "had large",
+              "article": "very prominent, very open and wide"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "66e58359-80dc-49bf-bdad-5361b88c3ae4",
+          "prompt": "·animals were common,but a **33**_____ was always",
+          "answers": [
+            "lizard"
+          ],
+          "rawAnswer": "lizard",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But one animal which is very interesting to researchers is the lizard, because whenever you see a prehistoric painting of one, it's depicted either in profile or looking down on it from above"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "c4251f3a-0196-4e53-b63c-868357a47117",
+          "prompt": "drawn from the side or from above\n·unlikely that contact through **34**_____ resulted in\nsimilar artistic styles",
+          "answers": [
+            "trade"
+          ],
+          "rawAnswer": "trade",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the past, archaeologists believed that trade must have brought people together and that it gave them the opportunity to observe each other's culture, including art styles. But this didn't prove to be the case"
+          },
+          "keywordPairs": [
+            {
+              "question": "unlikely that",
+              "article": "But this didn't prove to be the case"
+            },
+            {
+              "question": "contact",
+              "article": "brought people together"
+            },
+            {
+              "question": "resulted in similar artistic styles",
+              "article": "observe each other's culture, including art styles"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "0e7ae8e4-afec-41e7-95bd-a24a63ac31f2",
+          "prompt": "**Reasons for our ancestors producing rock art**\n·firstly for reasons of **35**_____",
+          "answers": [
+            "survival"
+          ],
+          "rawAnswer": "survival",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They believe that the brains of our ancestors evolved to notice certain images before others, and this was important, actually essential, because in an environment full of constant danger, it was necessary for survival. So the need to quickly recognize things that could be helpful or harmful could have had a great influence on rock art;Later on, there would have been other reasons why communities produced art, certainly for spiritual and social purposes, and no doubt for political ones too"
+          },
+          "keywordPairs": [
+            {
+              "question": "our ancestors producing rock art",
+              "article": "communities produced art"
+            },
+            {
+              "question": "firstly",
+              "article": "Later on"
+            },
+            {
+              "question": "for reasons of",
+              "article": "necessary for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "7f480af9-feb6-49c1-986b-b4eb4fa41666",
+          "prompt": "·later for social,spiritual and **36**_____ reasons",
+          "answers": [
+            "political"
+          ],
+          "rawAnswer": "political",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Later on, there would have been other reasons why communities produced art, certainly for spiritual and social purposes, and no doubt for political ones too, as different tribes looked for allies and struggled against their enemies"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "4a727ac6-f9ef-43ed-9800-3a1cde7d0eb4",
+          "prompt": "**Aboriginal people drew images to show contact with Europeans**\n·**37**_____",
+          "answers": [
+            "ships"
+          ],
+          "rawAnswer": "ships",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, the Aborigines began to draw ships which they would have seen along the coast"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "d5278ec4-cf7a-4ee8-ad4d-fb45e421ede2",
+          "prompt": "·**38**_____",
+          "answers": [
+            "horses"
+          ],
+          "rawAnswer": "horses",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another image that is evidence of European arrival is that of horses, an animal that would have been very alien to the Australian landscape"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "88b5279f-086c-4f59-b27e-3d4ec321af7e",
+          "prompt": "**Human activities that threaten Aboriginal rock art**\n·**39**_____",
+          "answers": [
+            "erosion"
+          ],
+          "rawAnswer": "erosion",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Erosion, of course, is one of the key reasons for its destruction, but human activity is also increasingly responsible. Since the nineteen sixties, industry alone has destroyed around an estimated ten thousand pieces of art"
+          },
+          "keywordPairs": [
+            {
+              "question": "threaten",
+              "article": "destruction"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "1264ee2c-c41c-4f6b-9133-a09e81c95aba",
+          "prompt": "Vandalism\n·**40**_____",
+          "answers": [
+            "tourism"
+          ],
+          "rawAnswer": "tourism",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Vandalism is sadly another factor, and although most people, I believe, would wish to preserve this art, I'm afraid that tourism is another reason why the art is disappearing"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,100</p><p>Hello everyone, and welcome. As part of this series of lectures on the development of early humans, today we are looking at rock art, the paintings and drawings produced by prehistoric peoples as they spread across the continents. If you've been lucky enough to look at a piece of rock art close up, you will know it's an experience that makes you wonder about the passage of time and our own history. But rock art also has a practical value for researchers. And let's start by considering why that is. Firstly, it provides vital information about the way that people evolved, information not always easily obtainable from excavated artifacts alone. Secondly, rock art tells us about migration, where people came from and where perhaps they went next. </p><p>00:00:54,580</p><p>Rock art is found all over the world, and this in itself is not surprising. But what is rather amazing, you might think, is how similar some images are, whether you're looking at a rock face in South Africa or standing inside a cave in Spain. Let me give you an example. When our ancestors drew humans, they would often draw them as stick figures. But if they drew a face, then the eyes were almost always very prominent, very open and wide. And of course, animals are very common in rock art. But one animal which is very interesting to researchers is the lizard, because whenever you see a prehistoric painting of one, it's depicted either in profile or looking down on it from above. And these drawings are produced by people of totally different cultural backgrounds. Amazing. But how can this be the case that similar artistic styles exist in such distant locations? </p><p>00:02:02,880</p><p>In the past, archaeologists believed that trade must have brought people together and that it gave them the opportunity to observe each other's culture, including art styles. But this didn't prove to be the case. Recently, researchers have come up with a new theory. They believe that the brains of our ancestors evolved to notice certain images before others, and this was important, actually essential, because in an environment full of constant danger, it was necessary for survival. So the need to quickly recognize things that could be helpful or harmful could have had a great influence on rock art and explain why some images are more common across cultures than others. </p><p>00:02:54,100</p><p>Later on, there would have been other reasons why communities produced art, certainly for spiritual and social purposes, and no doubt for political ones too, as different tribes looked for allies and struggled against their enemies. </p><p>00:03:11,420</p><p>Well, as I said before, you can find rock art all over the world, but I'd like to focus now on the rock art of the Aboriginal people of Australia. The images that survive in this part of the world span at least twenty thousand years. In fact, the Aborigines were still practicing this art form in the late eighteenth century when the Europeans began to arrive and certain images point to the contact between them. For example, the Aborigines began to draw ships which they would have seen along the coast. It's hard for us to imagine what they must have thought when these first began to appear. Another image that is evidence of European arrival is that of horses, an animal that would have been very alien to the Australian landscape. Um, it isn't actually known how many sites there are across Australia where rock art can be found, but unfortunately we do know that much of the art is being lost to us. Erosion, of course, is one of the key reasons for its destruction, but human activity is also increasingly responsible. Since the nineteen sixties, industry alone has destroyed around an estimated ten thousand pieces of art. At this rate, in fifty years, half of all Australian rock art could have disappeared for good. Vandalism is sadly another factor, and although most people, I believe, would wish to preserve this art, I'm afraid that tourism is another reason why the art is disappearing. In some cases, the art is damaged when peo...<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/252f2d53-fdf8-4756-ac7e-29b80b9b3dcd.mp3",
+    "durationSeconds": 296.071837,
+    "sizeBytes": 1184677,
+    "sha256": "84f4a46d9d68ee0fb4d80316d3d73c1ce1bf8b9cbac29ed67c196b0e86fd8ab9",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:33Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1781535316942_8e8868ad_1781535316942_usmrl2.mp3"
+}

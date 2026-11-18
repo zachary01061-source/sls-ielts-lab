@@ -1,0 +1,15 @@
+.sidebar nav{overflow-y:auto;min-height:0;flex:1;padding-bottom:8px;scrollbar-width:thin}
+.sidebar{display:flex;flex-direction:column}
+.sidebar .nav-item{min-height:39px;padding-block:9px}
+.sidebar-bottom{position:static;margin-top:auto;padding-top:12px}
+.cloud-alert{border:1px solid #d7a65b;background:#fff9ed;border-radius:12px;padding:15px 18px;margin-bottom:20px;color:#654211}
+.cloud-alert p{margin:0 0 10px}.cloud-alert button+button{margin-left:8px}
+.local-status{white-space:nowrap}
+.topbar .local-status{font-size:12px}
+.nav-resources{margin-top:18px;padding-top:14px;border-top:1px solid #e5e9ef}
+.nav-resources summary{padding:10px 14px;cursor:pointer;font-size:12px;font-weight:600;color:#647186;letter-spacing:.03em}
+.nav-resources summary:focus-visible{outline:2px solid #173651;outline-offset:2px;border-radius:4px}
+.nav-resources .nav-item{font-size:12px;padding-left:20px;min-height:35px}
+@media(max-width:900px){.sidebar nav{overflow-x:auto;overflow-y:hidden;display:flex;flex-wrap:nowrap}.sidebar .nav-item{flex:0 0 auto}.sidebar-bottom{display:none}.local-status{font-size:11px}}
+@media print{.sidebar,.topbar,.page-footer,.cloud-alert,#toast,#dialog{display:none!important}.shell{margin:0!important}.main{padding:0!important}}
+@media(max-width:900px){.sidebar nav{flex-wrap:wrap;overflow:visible}.nav-resources{margin:0;padding:0;border:0;flex:1 0 100%}.nav-resources>div{display:flex;flex-wrap:wrap}.nav-resources .nav-item{padding:8px 12px}.sidebar .nav-item{font-size:12px}}

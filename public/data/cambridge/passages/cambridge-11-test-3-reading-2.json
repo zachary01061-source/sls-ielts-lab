@@ -1,0 +1,274 @@
+{
+  "id": "cambridge-11-test-3-reading-2",
+  "title": "Great Migrations",
+  "titleCn": "Great Migrations",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 11,
+    "test": 3
+  },
+  "sourceQuestionId": "6786",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6786",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Great Migrations"
+    },
+    {
+      "label": "2",
+      "text": "Animal migration, however it is defined, is far more than just the movement of animals. It can loosely be described as travel that takes place at regular intervals - often in an annual cycle - that may involve many members of a species, and is rewarded only after a long journey. It suggests inherited instinct. The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combinations, to all migrations. They are prolonged movements that carry animals outside familiar habitats; they tend to be linear, not zigzaggy; they involve special behaviours concerning preparation (such as overfeeding) and arrival; they demand special allocations of energy. And one more: migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside."
+    },
+    {
+      "label": "3",
+      "text": "An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of a nice smelly herring offered from a bird-watcher's boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because it is driven at that moment by an instinctive sense of something we humans find admirable: larger purpose. In other words, it is determined to reach its destination. The bird senses that it can eat, rest and mate later. Right now it is totally focused on the journey; its undivided intent is arrival. Reaching some gravelly coastline in the Arctic, upon which other arctic terns have converged, will serve its larger purpose as shaped by evolution: finding a place, a time, and a set of circumstances in which it can successfully hatch and rear offspring."
+    },
+    {
+      "label": "4",
+      "text": "But migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study. Joel Berger, of the University of Montana, who works on the American pronghorn and other large terrestrial mammals, prefers what he calls a simple, practical definition suited to his beasts: 'movements from a seasonal home area away to another home area and back again'. Generally the reason for such seasonal back-and-forth movement is to seek resources that aren't available within a single area year-round."
+    },
+    {
+      "label": "5",
+      "text": "But daily vertical movements by zooplankton in the ocean - upward by night to seek food, downward by day to escape predators - can also be considered migration. So can the movement of aphids when, having depleted the young leaves on one food plant, their offspring then fly onward to a different host plant, with no one aphid ever returning to where it started."
+    },
+    {
+      "label": "6",
+      "text": "Dingle is an evolutionary biologist who studies insects. His definition is more intricate than Berger's, citing those five features that distinguish migration from other forms of movement. They allow for the fact that, for example, aphids will become sensitive to blue light (from the sky) when it's time for takeoff on their big journey, and sensitive to yellow light (reflected from tender young leaves) when it's appropriate to land. Birds will fatten themselves with heavy feeding in advance of a long migrational flight. The value of his definition, Dingle argues, is that it focuses attention on what the phenomenon of wildebeest migration shares with the phenomenon of the aphids, and therefore helps guide researchers towards understanding how evolution has produced them all."
+    },
+    {
+      "label": "7",
+      "text": "Human behaviour, however, is having a detrimental impact on animal migration. The pronghorn, which resembles an antelope, though they are unrelated, is the fastest land mammal of the New World. One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, feeding mainly on sagebrush blown clear of snow. These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks. If they can't pass through each of the three during their spring migration, they can't reach their bounty of summer grazing; if they can't pass through again in autumn, escaping south onto those windblown plains, they are likely to die trying to overwinter in the deep snow. Pronghorn, dependent on distance vision and speed to keep safe from predators, traverse high, open shoulders of land, where they can see and run. At one of the bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only about 150 metres wide, filled with private homes. Increasing development is leading toward a crisis for the pronghorn threatening to choke off their passageway."
+    },
+    {
+      "label": "8",
+      "text": "Conservation scientists, along with some biologists and land managers within the USA's National Park Service and other agencies, are now working to preserve migrational behaviours, not just species and habitats. A National Forest has recognised the path of the pronghorn, much of which passes across its land, as a protected migration corridor. But neither the Forest Service nor the Park Service can control what happens on private land at a bottleneck. And with certain other migrating species, the challenge is complicated further - by vastly greater distances traversed, more jurisdictions, more borders, more dangers along the way. We will require wisdom and resoluteness to ensure that migrating species can continue their journeying a while longer."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 14-18\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Local gulls and migrating arctic terns behave in the same way when offered food.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6786_976242",
+          "explanation": "译文：本地海鸥和迁徙中的北极燕鸥在被提供给食物时表现得一样。\n\n定位词：local gulls, arctic terns, food\n\n文中对应第二段前两句：An arctic tern, on its 20,000 km fight from the extreme south of South America to the Arctic circle, will take no notice of a nice smelly herring offered from a bird-watcher's boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on.\n\n考生即使在原文两句中有着不止一个并不认识的单词，其实也不影响对此题的解答。local gulls会为了herring这样的handouts而voraciously俯冲下来，然而arctic tern却会继续飞行，显然二者在面对食物时表现得并不一样，与题千信息相悖，因此答案为FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Experts' definitions of migration tend to vary according to their area of study.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6786_881927",
+          "explanation": "译文：专家们对于迁徙的定义往往会根据他们的研究领域而各有不同。\n\n定位词：expert's definitions, vary, area of study\n\n文中对第三段第一句：But migration is a complex issue, and biologists define it differently,depending in part on what sorts of animals they study.\n\n本题极其友好，从定位到理解都没有给考生构成困难，只需按照“专家的定义”找到原文中的相应描述即可，答案为TRUE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Very few experts agree that the movement of aphids can be considered migration.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6786_583487",
+          "explanation": "译文：很少有专家赞同蚜虫的移动可以被视为迁徙。\n\n定位词：very few experts agree, movement of aphids\n\n第四段前两句：But daily vertical movements by zooplankton in the ocean-upward by night to seek food, downward by day to escape predators- can also be considered migration. So can the movement of aphids when...\n\n本题具有一定的迷惑性。“蚜虫移动”这个信息不难定位，原文也以事实陈述的口吻指出:浮游生物和蚜虫的移动确实可以被视为某种形式的迁徙。但此题是一道典型的“将事实与观点相混淆”思路的判断题，题干说“很少有专家认同这个看法”，是明确的“专家观点表达”，与原文的“事实陈述”既不能说是矛盾，也不能说是一致，而是NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Aphids' journeys are affected by changes in the light that they perceive.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6786_679942",
+          "explanation": "译文：蚜虫的旅行受到它们所感知到的光的影响。\n\n定位词：aphids' journeys, affected, changes in the light\n\n第五段第三句：..., aphids will become sensitive to blue light (from the sky) when it's time for takeoff on their big journey, and sensitive to yellow light (effected from tender young leaves) when it s appropriate to land.\n\n本题定位不困难:虽然考生未必认识aphids (蚜虫)这个单词，但它在文中作为昆虫名并没有被替换。阅读定位句可知，这种生物确实会在不同的情况下分别对蓝光和黄光更加敏感，也就是“会受到光色变化的影响”，答案为TRUE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Dingle's aim is to distinguish between the migratory behaviours of different species.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6786_780261",
+          "explanation": "译文：Dingle的目标在于区分不同物种迁徙行为之间的差异。\n\n定位词：Dingle's aim, distinguish\n\n第五段最后一句：The value of his definition, Dingle argues, is that it focuses attention on what the phenomenon of wildebeest migration shares with the phenomenon of the aphids, and therefore helps guide researchers towards understanding how evolution has produced them all.\n\n由于有Dingle这个大写人名，本题定位不难。关于文中对应句子的详解可以参见前文中“佳句赏析”的第五句。对比可知Dingle的目的在于找到迁徙行为的共性,与题干所表述的“区分不同”形成矛盾抵触的关系,答案为FALSE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 19-22\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "[19] ______ According to Dingle, migratory routes are likely to",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6786_312952",
+          "explanation": "题号：19\n\n定位词：Dingle, migratory routes, likely to\n\n文中对应第一段第四、五句：The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combinations, to all migrations.They are... they tend to be linear, not zigzaggy; ...\n\n题干说“按照Dingle的说法，迁徙的路线往往会”。回到原文中Dingle这个人名不难找到，route(路线)这个意思却是通过linear和zigzaggy这两个用以描述“路线”是平直还是 曲折的形容词来间接表达的，需要考生认识其中至少一个才能更准确定位。而一旦定位之后确定答案则很容易，为G项: follow a straight line (沿着一条直线 )。\n\n题号：20\n\n定位词：prepare for, likely to\n\n文中对应第一段第五句：...; they involve special behaviours concerning preparation (such as overfeeding and arrival;\n\n题干说“为了给迁徙做准备,动物们往往会”。prepare这个题千中的定位信息在原文中仅仅改了词性，变成了名词preparation,很容易被找到；而括号里对于“做准备”的举例说明overfeeding也不是困难的词汇，可以轻松得出答案为C: eat more than they need for immediate purposes (吃得比它们当下立刻就需要的要多)。\n\n题号：21\n\n定位词：during migration, unlikely to\n\n文中对应第一段最后一句：And one more migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside.\n\n题干说“在迁徙过程中，动物们一般不会”。此题比较有迷惑性，原因在于原文中给出了两个否定性信息: undistracted by temptations和undeterred by challenges that would turn other animals aside, 分别对应于选项E和选项A。注意:选项E和A所描述内容的方向是相反的。根据题千中的unlikely, 可得出答案为A: be discouraged by difficulties,即“不会被困难阻挡”，如果选E的话，则与文意相反。而且下一道题只有唯一的可选项E,且本题型中又没有提示可以重复选用某个选项，因此结合排除法可得答案为A。\n\n题号：22\n\n定位词：Arctic terns, illustrate, ability\n\n文中对应第二段前四句：An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of an ice smelly herring offered from a bird-watcher's boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because...\n\n题干说“北极燕鸥证明了迁徙中的动物有能力”。Arctic tern不难定位，但考生需要具备耐心，在第一次找到定位词的句子里没有提供相关解题信息的时候继续向下阅读原文，直到看至第四句时能得出完整信息，答案为E: ignore distractions (忽视那些分散注意力的因素)。",
+          "promptHtml": "[19] ______ According to Dingle, migratory routes are likely to"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "[20] ______ To prepare for migration, animals are likely to",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6786_649449",
+          "explanation": "题号：19\n\n定位词：Dingle, migratory routes, likely to\n\n文中对应第一段第四、五句：The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combinations, to all migrations.They are... they tend to be linear, not zigzaggy; ...\n\n题干说“按照Dingle的说法，迁徙的路线往往会”。回到原文中Dingle这个人名不难找到，route(路线)这个意思却是通过linear和zigzaggy这两个用以描述“路线”是平直还是 曲折的形容词来间接表达的，需要考生认识其中至少一个才能更准确定位。而一旦定位之后确定答案则很容易，为G项: follow a straight line (沿着一条直线 )。\n\n题号：20\n\n定位词：prepare for, likely to\n\n文中对应第一段第五句：...; they involve special behaviours concerning preparation (such as overfeeding and arrival;\n\n题干说“为了给迁徙做准备,动物们往往会”。prepare这个题千中的定位信息在原文中仅仅改了词性，变成了名词preparation,很容易被找到；而括号里对于“做准备”的举例说明overfeeding也不是困难的词汇，可以轻松得出答案为C: eat more than they need for immediate purposes (吃得比它们当下立刻就需要的要多)。\n\n题号：21\n\n定位词：during migration, unlikely to\n\n文中对应第一段最后一句：And one more migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside.\n\n题干说“在迁徙过程中，动物们一般不会”。此题比较有迷惑性，原因在于原文中给出了两个否定性信息: undistracted by temptations和undeterred by challenges that would turn other animals aside, 分别对应于选项E和选项A。注意:选项E和A所描述内容的方向是相反的。根据题千中的unlikely, 可得出答案为A: be discouraged by difficulties,即“不会被困难阻挡”，如果选E的话，则与文意相反。而且下一道题只有唯一的可选项E,且本题型中又没有提示可以重复选用某个选项，因此结合排除法可得答案为A。\n\n题号：22\n\n定位词：Arctic terns, illustrate, ability\n\n文中对应第二段前四句：An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of an ice smelly herring offered from a bird-watcher's boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because...\n\n题干说“北极燕鸥证明了迁徙中的动物有能力”。Arctic tern不难定位，但考生需要具备耐心，在第一次找到定位词的句子里没有提供相关解题信息的时候继续向下阅读原文，直到看至第四句时能得出完整信息，答案为E: ignore distractions (忽视那些分散注意力的因素)。",
+          "promptHtml": "[20] ______ To prepare for migration, animals are likely to"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "[21] ______ During migration, animals are unlikely to",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6786_408454",
+          "explanation": "题号：19\n\n定位词：Dingle, migratory routes, likely to\n\n文中对应第一段第四、五句：The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combinations, to all migrations.They are... they tend to be linear, not zigzaggy; ...\n\n题干说“按照Dingle的说法，迁徙的路线往往会”。回到原文中Dingle这个人名不难找到，route(路线)这个意思却是通过linear和zigzaggy这两个用以描述“路线”是平直还是 曲折的形容词来间接表达的，需要考生认识其中至少一个才能更准确定位。而一旦定位之后确定答案则很容易，为G项: follow a straight line (沿着一条直线 )。\n\n题号：20\n\n定位词：prepare for, likely to\n\n文中对应第一段第五句：...; they involve special behaviours concerning preparation (such as overfeeding and arrival;\n\n题干说“为了给迁徙做准备,动物们往往会”。prepare这个题千中的定位信息在原文中仅仅改了词性，变成了名词preparation,很容易被找到；而括号里对于“做准备”的举例说明overfeeding也不是困难的词汇，可以轻松得出答案为C: eat more than they need for immediate purposes (吃得比它们当下立刻就需要的要多)。\n\n题号：21\n\n定位词：during migration, unlikely to\n\n文中对应第一段最后一句：And one more migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside.\n\n题干说“在迁徙过程中，动物们一般不会”。此题比较有迷惑性，原因在于原文中给出了两个否定性信息: undistracted by temptations和undeterred by challenges that would turn other animals aside, 分别对应于选项E和选项A。注意:选项E和A所描述内容的方向是相反的。根据题千中的unlikely, 可得出答案为A: be discouraged by difficulties,即“不会被困难阻挡”，如果选E的话，则与文意相反。而且下一道题只有唯一的可选项E,且本题型中又没有提示可以重复选用某个选项，因此结合排除法可得答案为A。\n\n题号：22\n\n定位词：Arctic terns, illustrate, ability\n\n文中对应第二段前四句：An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of an ice smelly herring offered from a bird-watcher's boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because...\n\n题干说“北极燕鸥证明了迁徙中的动物有能力”。Arctic tern不难定位，但考生需要具备耐心，在第一次找到定位词的句子里没有提供相关解题信息的时候继续向下阅读原文，直到看至第四句时能得出完整信息，答案为E: ignore distractions (忽视那些分散注意力的因素)。",
+          "promptHtml": "[21] ______ During migration, animals are unlikely to"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "[22] ______ Arctic terns illustrate migrating animals' ability to",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6786_650211",
+          "explanation": "题号：19\n\n定位词：Dingle, migratory routes, likely to\n\n文中对应第一段第四、五句：The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combinations, to all migrations.They are... they tend to be linear, not zigzaggy; ...\n\n题干说“按照Dingle的说法，迁徙的路线往往会”。回到原文中Dingle这个人名不难找到，route(路线)这个意思却是通过linear和zigzaggy这两个用以描述“路线”是平直还是 曲折的形容词来间接表达的，需要考生认识其中至少一个才能更准确定位。而一旦定位之后确定答案则很容易，为G项: follow a straight line (沿着一条直线 )。\n\n题号：20\n\n定位词：prepare for, likely to\n\n文中对应第一段第五句：...; they involve special behaviours concerning preparation (such as overfeeding and arrival;\n\n题干说“为了给迁徙做准备,动物们往往会”。prepare这个题千中的定位信息在原文中仅仅改了词性，变成了名词preparation,很容易被找到；而括号里对于“做准备”的举例说明overfeeding也不是困难的词汇，可以轻松得出答案为C: eat more than they need for immediate purposes (吃得比它们当下立刻就需要的要多)。\n\n题号：21\n\n定位词：during migration, unlikely to\n\n文中对应第一段最后一句：And one more migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside.\n\n题干说“在迁徙过程中，动物们一般不会”。此题比较有迷惑性，原因在于原文中给出了两个否定性信息: undistracted by temptations和undeterred by challenges that would turn other animals aside, 分别对应于选项E和选项A。注意:选项E和A所描述内容的方向是相反的。根据题千中的unlikely, 可得出答案为A: be discouraged by difficulties,即“不会被困难阻挡”，如果选E的话，则与文意相反。而且下一道题只有唯一的可选项E,且本题型中又没有提示可以重复选用某个选项，因此结合排除法可得答案为A。\n\n题号：22\n\n定位词：Arctic terns, illustrate, ability\n\n文中对应第二段前四句：An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of an ice smelly herring offered from a bird-watcher's boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because...\n\n题干说“北极燕鸥证明了迁徙中的动物有能力”。Arctic tern不难定位，但考生需要具备耐心，在第一次找到定位词的句子里没有提供相关解题信息的时候继续向下阅读原文，直到看至第四句时能得出完整信息，答案为E: ignore distractions (忽视那些分散注意力的因素)。",
+          "promptHtml": "[22] ______ Arctic terns illustrate migrating animals&#x27; ability to"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "be discouraged by difficulties."
+        },
+        {
+          "value": "B",
+          "text": "travel on open land where they can look out for predators."
+        },
+        {
+          "value": "C",
+          "text": "eat more than they need for immediate purposes."
+        },
+        {
+          "value": "D",
+          "text": "be repeated daily."
+        },
+        {
+          "value": "E",
+          "text": "ignore distractions."
+        },
+        {
+          "value": "F",
+          "text": "be governed by the availability of water."
+        },
+        {
+          "value": "G",
+          "text": "follow a straight line."
+        }
+      ],
+      "contextHtml": "<p><strong>[19] ______</strong> According to Dingle, migratory routes are likely to <br>\n<strong>[20] ______</strong> To prepare for migration, animals are likely to        <br>\n<strong>[21] ______</strong> During migration, animals are unlikely to                <br>\n<strong>[22] ______</strong> Arctic terns illustrate migrating animals&#x27; ability to   </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 23-26\n\nComplete the summary below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Answer for gap 23.",
+          "answers": [
+            "speed"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6786_561166",
+          "explanation": "题号：23\n\n定位词：pronghorns,rely on, eyesight, predators\n\n文中对应第六段倒数第三句：Pronghorn, dependent on distance vision and speed to keep safe from predators, ...\n\npronghorn这个词在文中出现在了两个部位。第一次是在第三段中，只是在介绍Joel Berger的研究领域时被简短地一带而过，没有展开;第二次则是在文章的后两段中密集出现，此时才是真正说到了其迁徙行为的细节内容，是此部分summary题型对应的正文部分。题干说“叉角羚依赖它们的视力和 _____来躲避捕食者”。对比原文中与vision形成并列关系的内容，可得答案为speed。\n\n题号：24\n\n定位词：summer habitat, national park, winter home,\n\n文中对应第六段第三、四句：One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, ...\n\n题干说“某个特定种群(叉角羚)的夏季栖息地是一个国家公园，而它们的冬季家园则位于”。“夏季”和“国家公园”这两个信息都不难在文中找到，但包含这两个信息的句子里提供的地点“平原”却不容易被确定为答案，原因在于本句中并没有明确提及“冬季”这个信息。考生需要耐心向下再阅读一句，找到“冬季”的同义替换frozen months，从而用here这个地点指代词来确认，答案为plains。\n\n题号：25\n\n定位词：route, three\n\n文中对应第六段第五句：These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks.\n\n题干说“它们在这两个区域之间的迁徙路线包含三个_____”。其实只需找到文中明确提及“三”这个数目的所指对象即可，答案为bottlenecks。\n\n题号：26\n\n定位词：problem, construction of new homes, narrow\n\n文中对应第六段倒数第二句：At one of the bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only\n\nabout 150 metres wide, filled with private homes.\n\n题干说“问题之一来自叉角羚迁徙路线上一条狭长_____上的新建房屋”。本题的难度来自于使用了narrow 来同义替换“只有150米宽”这一具体的细节信息，可能会给一些考生的定位造成一定障碍。而一旦成功定位即可得出答案为corridor。",
+          "promptHtml": "Answer for gap 23."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "plains"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6786_698817",
+          "explanation": "题号：23\n\n定位词：pronghorns,rely on, eyesight, predators\n\n文中对应第六段倒数第三句：Pronghorn, dependent on distance vision and speed to keep safe from predators, ...\n\npronghorn这个词在文中出现在了两个部位。第一次是在第三段中，只是在介绍Joel Berger的研究领域时被简短地一带而过，没有展开;第二次则是在文章的后两段中密集出现，此时才是真正说到了其迁徙行为的细节内容，是此部分summary题型对应的正文部分。题干说“叉角羚依赖它们的视力和 _____来躲避捕食者”。对比原文中与vision形成并列关系的内容，可得答案为speed。\n\n题号：24\n\n定位词：summer habitat, national park, winter home,\n\n文中对应第六段第三、四句：One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, ...\n\n题干说“某个特定种群(叉角羚)的夏季栖息地是一个国家公园，而它们的冬季家园则位于”。“夏季”和“国家公园”这两个信息都不难在文中找到，但包含这两个信息的句子里提供的地点“平原”却不容易被确定为答案，原因在于本句中并没有明确提及“冬季”这个信息。考生需要耐心向下再阅读一句，找到“冬季”的同义替换frozen months，从而用here这个地点指代词来确认，答案为plains。\n\n题号：25\n\n定位词：route, three\n\n文中对应第六段第五句：These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks.\n\n题干说“它们在这两个区域之间的迁徙路线包含三个_____”。其实只需找到文中明确提及“三”这个数目的所指对象即可，答案为bottlenecks。\n\n题号：26\n\n定位词：problem, construction of new homes, narrow\n\n文中对应第六段倒数第二句：At one of the bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only\n\nabout 150 metres wide, filled with private homes.\n\n题干说“问题之一来自叉角羚迁徙路线上一条狭长_____上的新建房屋”。本题的难度来自于使用了narrow 来同义替换“只有150米宽”这一具体的细节信息，可能会给一些考生的定位造成一定障碍。而一旦成功定位即可得出答案为corridor。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "bottlenecks"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6786_164593",
+          "explanation": "题号：23\n\n定位词：pronghorns,rely on, eyesight, predators\n\n文中对应第六段倒数第三句：Pronghorn, dependent on distance vision and speed to keep safe from predators, ...\n\npronghorn这个词在文中出现在了两个部位。第一次是在第三段中，只是在介绍Joel Berger的研究领域时被简短地一带而过，没有展开;第二次则是在文章的后两段中密集出现，此时才是真正说到了其迁徙行为的细节内容，是此部分summary题型对应的正文部分。题干说“叉角羚依赖它们的视力和 _____来躲避捕食者”。对比原文中与vision形成并列关系的内容，可得答案为speed。\n\n题号：24\n\n定位词：summer habitat, national park, winter home,\n\n文中对应第六段第三、四句：One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, ...\n\n题干说“某个特定种群(叉角羚)的夏季栖息地是一个国家公园，而它们的冬季家园则位于”。“夏季”和“国家公园”这两个信息都不难在文中找到，但包含这两个信息的句子里提供的地点“平原”却不容易被确定为答案，原因在于本句中并没有明确提及“冬季”这个信息。考生需要耐心向下再阅读一句，找到“冬季”的同义替换frozen months，从而用here这个地点指代词来确认，答案为plains。\n\n题号：25\n\n定位词：route, three\n\n文中对应第六段第五句：These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks.\n\n题干说“它们在这两个区域之间的迁徙路线包含三个_____”。其实只需找到文中明确提及“三”这个数目的所指对象即可，答案为bottlenecks。\n\n题号：26\n\n定位词：problem, construction of new homes, narrow\n\n文中对应第六段倒数第二句：At one of the bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only\n\nabout 150 metres wide, filled with private homes.\n\n题干说“问题之一来自叉角羚迁徙路线上一条狭长_____上的新建房屋”。本题的难度来自于使用了narrow 来同义替换“只有150米宽”这一具体的细节信息，可能会给一些考生的定位造成一定障碍。而一旦成功定位即可得出答案为corridor。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "corridor",
+            "passageway"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6786_883217",
+          "explanation": "题号：23\n\n定位词：pronghorns,rely on, eyesight, predators\n\n文中对应第六段倒数第三句：Pronghorn, dependent on distance vision and speed to keep safe from predators, ...\n\npronghorn这个词在文中出现在了两个部位。第一次是在第三段中，只是在介绍Joel Berger的研究领域时被简短地一带而过，没有展开;第二次则是在文章的后两段中密集出现，此时才是真正说到了其迁徙行为的细节内容，是此部分summary题型对应的正文部分。题干说“叉角羚依赖它们的视力和 _____来躲避捕食者”。对比原文中与vision形成并列关系的内容，可得答案为speed。\n\n题号：24\n\n定位词：summer habitat, national park, winter home,\n\n文中对应第六段第三、四句：One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, ...\n\n题干说“某个特定种群(叉角羚)的夏季栖息地是一个国家公园，而它们的冬季家园则位于”。“夏季”和“国家公园”这两个信息都不难在文中找到，但包含这两个信息的句子里提供的地点“平原”却不容易被确定为答案，原因在于本句中并没有明确提及“冬季”这个信息。考生需要耐心向下再阅读一句，找到“冬季”的同义替换frozen months，从而用here这个地点指代词来确认，答案为plains。\n\n题号：25\n\n定位词：route, three\n\n文中对应第六段第五句：These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks.\n\n题干说“它们在这两个区域之间的迁徙路线包含三个_____”。其实只需找到文中明确提及“三”这个数目的所指对象即可，答案为bottlenecks。\n\n题号：26\n\n定位词：problem, construction of new homes, narrow\n\n文中对应第六段倒数第二句：At one of the bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only\n\nabout 150 metres wide, filled with private homes.\n\n题干说“问题之一来自叉角羚迁徙路线上一条狭长_____上的新建房屋”。本题的难度来自于使用了narrow 来同义替换“只有150米宽”这一具体的细节信息，可能会给一些考生的定位造成一定障碍。而一旦成功定位即可得出答案为corridor。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>The migration of pronghorns</strong></span></p>\n\n<p>Pronghorns rely on their eyesight and <strong>[23] ______</strong>to avoid predators. One particular population&#x27;s summer habitat is a national park, and their winter home is on the <strong>[24] ______</strong> , where they go to avoid the danger presented by the snow at that time of year. However, their route between these two areas contains three <strong>[25] ______</strong>. One problem is the construction of new homes in a narrow <strong>[26] ______</strong>of land on the pronghorns&#x27; route.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Great Migrations</strong></span></p><p>Animal migration, however it is defined, is far more than just the movement of animals. It can loosely be described as travel that takes place at regular intervals - often in an annual cycle - that may involve many members of a species, and is rewarded only after a long journey. It suggests inherited instinct. The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combinations, to all migrations. They are prolonged movements that carry animals outside familiar habitats; they tend to be linear, not zigzaggy; they involve special behaviours concerning preparation (such as overfeeding) and arrival; they demand special allocations of energy. And one more: migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside.</p><p>An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of a nice smelly herring offered from a bird-watcher&#x27;s boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because it is driven at that moment by an instinctive sense of something we humans find admirable: larger purpose. In other words, it is determined to reach its destination. The bird senses that it can eat, rest and mate later. Right now it is totally focused on the journey; its undivided intent is arrival. Reaching some gravelly coastline in the Arctic, upon which other arctic terns have converged, will serve its larger purpose as shaped by evolution: finding a place, a time, and a set of circumstances in which it can successfully hatch and rear offspring.</p><p>But migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study. Joel Berger, of the University of Montana, who works on the American pronghorn and other large terrestrial mammals, prefers what he calls a simple, practical definition suited to his beasts: &#x27;movements from a seasonal home area away to another home area and back again&#x27;. Generally the reason for such seasonal back-and-forth movement is to seek resources that aren&#x27;t available within a single area year-round.</p><p>But daily vertical movements by zooplankton in the ocean - upward by night to seek food, downward by day to escape predators - can also be considered migration. So can the movement of aphids when, having depleted the young leaves on one food plant, their offspring then fly onward to a different host plant, with no one aphid ever returning to where it started.</p><p>Dingle is an evolutionary biologist who studies insects. His definition is more intricate than Berger&#x27;s, citing those five features that distinguish migration from other forms of movement. They allow for the fact that, for example, aphids will become sensitive to blue light (from the sky) when it&#x27;s time for takeoff on their big journey, and sensitive to yellow light (reflected from tender young leaves) when it&#x27;s appropriate to land. Birds will fatten themselves with heavy feeding in advance of a long migrational flight. The value of his definition, Dingle argues, is that it focuses attention on what the phenomenon of wildebeest migration shares with the phenomenon of the aphids, and therefore helps guide researchers towards understanding how evolution has produced them all.</p><p>Human behaviour, however, is having a detrimental impact on animal migration. The pronghorn, which resembles an antelope, though they are unrelated, is the fastest land mammal of the New World. One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, feeding mainly on sagebrush blown clear of snow. These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks. If they can&#x27;t pass through each of the three during their spring migration, they can&#x27;t reach their bounty of summer grazing; if they can&#x27;t pass through again in autumn, escaping south onto those windblown plains, they are likely to die trying to overwinter in the deep snow. Pronghorn, dependent on distance vision and speed to keep safe from predators, traverse high, open shoulders of land, where they can see and run. At one of the bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only about 150 metres wide, filled with private homes. Increasing development is leading toward a crisis for the pronghorn threatening to choke off their passageway.</p><p>Conservation scientists, along with some biologists and land managers within the USA&#x27;s National Park Service and other agencies, are now working to preserve migrational behaviours, not just species and habitats. A National Forest has recognised the path of the pronghorn, much of which passes across its land, as a protected migration corridor. But neither the Forest Service nor the Park Service can control what happens on private land at a bottleneck. And with certain other migrating species, the challenge is complicated further - by vastly greater distances traversed, more jurisdictions, more borders, more dangers along the way. We will require wisdom and resoluteness to ensure that migrating species can continue their journeying a while longer.</p>"
+}

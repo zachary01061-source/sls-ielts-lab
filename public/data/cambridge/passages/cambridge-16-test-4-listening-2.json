@@ -1,0 +1,258 @@
+{
+  "id": "cambridge-16-test-4-listening-2",
+  "title": "Local council report on traffic and highways",
+  "titleCn": "Local council report on traffic and highways",
+  "subject": "listening",
+  "part": 2,
+  "duration": 385,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 4
+  },
+  "sourceQuestionId": "8364",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8364",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "CHAIRPERSON: Right. Next on the agenda we have traffic and highways. Councillor Thornton."
+    },
+    {
+      "label": "2",
+      "text": "COUNCILLOR THORNTON: Thank you. Well, we now have the results of the survey carried out last month about traffic and road transport in the town. People were generally satisfied with the state of the roads. There were one or two complaints about potholes which will be addressed, but a significant number of people complained about the increasing number of heavy vehicles using our local roads to avoid traffic elsewhere. We’d expected more complaints by commuters about the reduction in the train service, but it doesn’t seem to have affected people too much. The cycle path that runs alongside the river is very well used by both cyclists and pedestrians since the surface was improved last year, but overtaking can be a problem so we’re going to add a bit on the side to make it wider. At some stage, we’d like to extend the path so that it goes all the way through the town, but that won’t be happening in the immediate future."
+    },
+    {
+      "label": "3",
+      "text": "The plans to have a pedestrian crossing next to the Post Office have unfortunately had to be put on hold for the time being. We’d budgeted for this to be done this financial year, but then there were rumours that the Post Office was going to move, which would have meant there wasn’t really a need for a crossing. Now they’ve confirmed that they’re staying where they are, but the Highways Department have told us that it would be dangerous to have a pedestrian crossing where we’d originally planned it as there’s a bend in the road there. So that’ll need some more thought."
+    },
+    {
+      "label": "4",
+      "text": "On Station Road near the station and level crossing, drivers can face quite long waits if the level crossing’s closed, and we’ve now got signs up requesting them not to leave their engines running at that time. This means pedestrians waiting on the pavement to cross he railway line don’t have to breathe in car fumes. We’ve had some problems with cyclists leaving their bikes chained to the railings outside the ticket office, but the station has agreed to provide bike racks there."
+    },
+    {
+      "label": "5",
+      "text": "CHAIRPERSON: So next on the agenda is ‘Proposals for improvements to the recreation ground’. Councillor Thornton again."
+    },
+    {
+      "label": "6",
+      "text": "COUNCILLOR THORNTON: Well, since we managed to extend the recreation ground, we’ve spent some time talking to local people about how it could be made a more attractive and useful space. If you have a look at the map up on the screen, you can see the river up in the north, and the Community Hall near the entrance from the road. At present, cars can park between the Community Hall and that line of trees to the east, but this is quite dangerous for pedestrians so we’re suggesting a new car park on the opposite side of the Community Hall, right next to it. We also have a new location for the cricket pitch. As we’ve now purchased additional space to the east of the recreation ground, beyond the trees, we plan to move it away from its current location, which is rather near the road, into this new area beyond the line of trees. This means there’s less danger of stray balls hitting cars or pedestrians."
+    },
+    {
+      "label": "7",
+      "text": "We’ve got plans for a children’s playground which will be accessible by a footpath from the Community Hall and will be alongside the river. We’d originally thought of having it close to the road, but we think this will be a more attractive location."
+    },
+    {
+      "label": "8",
+      "text": "The skateboard ramp is very popular with both younger and older children – we had considered moving this up towards the river, but in the end we decided to have it in the southeast corner near the road. The pavilion is very well used at present by both football players and cricketers. It will stay where it is now – to the left of the line of trees and near to the river – handy for both the football and cricket pitches."
+    },
+    {
+      "label": "9",
+      "text": "And finally, we’ll be getting a new notice board for local information, and that will be directly on people’s right as they go from the road into the recreation ground."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "PART 2 Questions 11–20\n\nQuestions 11–14\n\nChoose the correct letter, A, B or C.\n\nLocal council report on traffic and highways",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "A survey found people’s main concern about traffic in the area was",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8364_772910",
+          "options": [
+            {
+              "value": "A",
+              "text": "cuts to public transport."
+            },
+            {
+              "value": "B",
+              "text": "poor maintenance of roads."
+            },
+            {
+              "value": "C",
+              "text": "changes in the type of traffic."
+            }
+          ],
+          "explanation": "11. 题干词main concern在原文中以同义替换complained about的形式出现，表示对交通状况的抱怨和担忧。注意题干中的main表示“主要的”担忧，限定了答案的范围，在听力原文中需要找到跟main对应的表达，即a significant number of people...。原文中提到potholes（路面有坑洞），与选项B关于路面维护状况的抱怨相对应，但原文提到仅仅是one or two complaints，因此排除；接下来原文中的increasing number of heavy vehicles（越来越多的重型车辆）对应选项C；选项A和public transport有关，原文中对应的是train service，cuts to与reduction in同义替换，不过后面即被否定。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Which change will shortly be made to the cycle path next to the river?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8364_545678",
+          "options": [
+            {
+              "value": "A",
+              "text": "It will be widened."
+            },
+            {
+              "value": "B",
+              "text": "It will be extended."
+            },
+            {
+              "value": "C",
+              "text": "It will be resurfaced."
+            }
+          ],
+          "explanation": "12. 题干中的cycle path原词重现，可以作为定位词。选项A中的核心词widen和原文中的to make it wider是同义替换。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Plans for a pedestrian crossing have been postponed because",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8364_746321",
+          "options": [
+            {
+              "value": "A",
+              "text": "the Post Office has moved."
+            },
+            {
+              "value": "B",
+              "text": "the proposed location is unsafe."
+            },
+            {
+              "value": "C",
+              "text": "funding is not available at present."
+            }
+          ],
+          "explanation": "13. 题干中的pedestrian crossing（人行横道）是固定词组，在原文中原词重现，可以帮助定位；核心词postpone是“推迟”的意思，和原文中put on hold是同义替换。原文先提及选项C，和funding（资金）有关，但原文中表示已经budgeted（做过预算了），意思不符，可排除。接下来提到选项A，即Post Office迁址了，但原文中讲到they’re staying where they are, 可知A选项与原文不符。最终锁定选项B为答案，原文中的dangerous和选项中的unsafe是同义替换。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "On Station Road, notices have been erected",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8364_783546",
+          "options": [
+            {
+              "value": "A",
+              "text": "telling cyclists not to leave their bikes outside the station ticket office."
+            },
+            {
+              "value": "B",
+              "text": "asking motorists to switch off engines when waiting at the level crossing."
+            },
+            {
+              "value": "C",
+              "text": "warning pedestrians to leave enough time when crossing the railway line."
+            }
+          ],
+          "explanation": "14. 题干词Station Road是专有名词，在原文中相对稳定，可以帮助定位。核心词erected（竖立）是个难点，一些考生可能不认识，但是通过选项和题干组合出来的句子可以推测 erect notices的意思是“竖立起提示牌”。根据notices在原文中的替换词signs找到对应答案为选项B。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 15–20\n\nLabel the map below.\n\nWrite the correct letter, A–I, next to Questions 15–20.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "New car park [15] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8364_693216",
+          "explanation": "15. New car park 原文：…a new car park on the opposite side of the Community Hall, right next to it.\n\n16. New cricket pitch 原文：…to the east of the recreation ground, beyond the trees…\n\n17. Children's playground 原文：…accessible by a footpath from the Community Hall and will be alongside the river.\n\n18. Skateboard ramp 原文：…in the southeast corner near the road.\n\n19. Pavilion 原文：…to the left of the line of trees and near the river…\n\n20. Notice board 原文：…directly on people’s right as they go from the road into the recreation ground.",
+          "promptHtml": "New car park [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "New cricket pitch [16] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8364_392425",
+          "explanation": "15. New car park 原文：…a new car park on the opposite side of the Community Hall, right next to it.\n\n16. New cricket pitch 原文：…to the east of the recreation ground, beyond the trees…\n\n17. Children's playground 原文：…accessible by a footpath from the Community Hall and will be alongside the river.\n\n18. Skateboard ramp 原文：…in the southeast corner near the road.\n\n19. Pavilion 原文：…to the left of the line of trees and near the river…\n\n20. Notice board 原文：…directly on people’s right as they go from the road into the recreation ground.",
+          "promptHtml": "New cricket pitch [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Children's playground [17] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8364_807344",
+          "explanation": "15. New car park 原文：…a new car park on the opposite side of the Community Hall, right next to it.\n\n16. New cricket pitch 原文：…to the east of the recreation ground, beyond the trees…\n\n17. Children's playground 原文：…accessible by a footpath from the Community Hall and will be alongside the river.\n\n18. Skateboard ramp 原文：…in the southeast corner near the road.\n\n19. Pavilion 原文：…to the left of the line of trees and near the river…\n\n20. Notice board 原文：…directly on people’s right as they go from the road into the recreation ground.",
+          "promptHtml": "Children&#x27;s playground [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Skateboard ramp [18] ______",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q8364_134073",
+          "explanation": "15. New car park 原文：…a new car park on the opposite side of the Community Hall, right next to it.\n\n16. New cricket pitch 原文：…to the east of the recreation ground, beyond the trees…\n\n17. Children's playground 原文：…accessible by a footpath from the Community Hall and will be alongside the river.\n\n18. Skateboard ramp 原文：…in the southeast corner near the road.\n\n19. Pavilion 原文：…to the left of the line of trees and near the river…\n\n20. Notice board 原文：…directly on people’s right as they go from the road into the recreation ground.",
+          "promptHtml": "Skateboard ramp [18] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Pavilion [19] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8364_505811",
+          "explanation": "15. New car park 原文：…a new car park on the opposite side of the Community Hall, right next to it.\n\n16. New cricket pitch 原文：…to the east of the recreation ground, beyond the trees…\n\n17. Children's playground 原文：…accessible by a footpath from the Community Hall and will be alongside the river.\n\n18. Skateboard ramp 原文：…in the southeast corner near the road.\n\n19. Pavilion 原文：…to the left of the line of trees and near the river…\n\n20. Notice board 原文：…directly on people’s right as they go from the road into the recreation ground.",
+          "promptHtml": "Pavilion [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Notice board [20] ______",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8364_574702",
+          "explanation": "15. New car park 原文：…a new car park on the opposite side of the Community Hall, right next to it.\n\n16. New cricket pitch 原文：…to the east of the recreation ground, beyond the trees…\n\n17. Children's playground 原文：…accessible by a footpath from the Community Hall and will be alongside the river.\n\n18. Skateboard ramp 原文：…in the southeast corner near the road.\n\n19. Pavilion 原文：…to the left of the line of trees and near the river…\n\n20. Notice board 原文：…directly on people’s right as they go from the road into the recreation ground.",
+          "promptHtml": "Notice board [20] ______"
+        }
+      ],
+      "sourceType": "map",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/07b098c2d930d5fcc313b1271ad51e50.png\" alt=\"原题配图\"></p>\n\n<p>New car park <strong>[15] ______</strong></p>\n\n<p>New cricket pitch <strong>[16] ______</strong></p>\n\n<p>Children&#x27;s playground <strong>[17] ______</strong></p>\n\n<p>Skateboard ramp <strong>[18] ______</strong></p>\n\n<p>Pavilion <strong>[19] ______</strong></p>\n\n<p>Notice board <strong>[20] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>CHAIRPERSON: Right. Next on the agenda we have traffic and highways. Councillor Thornton.</p>\n\n<p>COUNCILLOR THORNTON: Thank you. Well, we now have the results of the survey carried out last month about traffic and road transport in the town. People were generally satisfied with the state of the roads. There were one or two complaints about potholes which will be addressed, but a significant number of people complained about the increasing number of heavy vehicles using our local roads to avoid traffic elsewhere. We’d expected more complaints by commuters about the reduction in the train service, but it doesn’t seem to have affected people too much. The cycle path that runs alongside the river is very well used by both cyclists and pedestrians since the surface was improved last year, but overtaking can be a problem so we’re going to add a bit on the side to make it wider. At some stage, we’d like to extend the path so that it goes all the way through the town, but that won’t be happening in the immediate future.</p>\n\n<p>The plans to have a pedestrian crossing next to the Post Office have unfortunately had to be put on hold for the time being. We’d budgeted for this to be done this financial year, but then there were rumours that the Post Office was going to move, which would have meant there wasn’t really a need for a crossing. Now they’ve confirmed that they’re staying where they are, but the Highways Department have told us that it would be dangerous to have a pedestrian crossing where we’d originally planned it as there’s a bend in the road there. So that’ll need some more thought.</p>\n\n<p>On Station Road near the station and level crossing, drivers can face quite long waits if the level crossing’s closed, and we’ve now got signs up requesting them not to leave their engines running at that time. This means pedestrians waiting on the pavement to cross he railway line don’t have to breathe in car fumes. We’ve had some problems with cyclists leaving their bikes chained to the railings outside the ticket office, but the station has agreed to provide bike racks there.</p>\n\n<p>CHAIRPERSON: So next on the agenda is ‘Proposals for improvements to the recreation ground’. Councillor Thornton again.</p>\n\n<p>COUNCILLOR THORNTON: Well, since we managed to extend the recreation ground, we’ve spent some time talking to local people about how it could be made a more attractive and useful space. If you have a look at the map up on the screen, you can see the river up in the north, and the Community Hall near the entrance from the road. At present, cars can park between the Community Hall and that line of trees to the east, but this is quite dangerous for pedestrians so we’re suggesting a new car park on the opposite side of the Community Hall, right next to it. We also have a new location for the cricket pitch. As we’ve now purchased additional space to the east of the recreation ground, beyond the trees, we plan to move it away from its current location, which is rather near the road, into this new area beyond the line of trees. This means there’s less danger of stray balls hitting cars or pedestrians.</p>\n\n<p>We’ve got plans for a children’s playground which will be accessible by a footpath from the Community Hall and will be alongside the river. We’d originally thought of having it close to the road, but we think this will be a more attractive location.</p>\n\n<p>The skateboard ramp is very popular with both younger and older children – we had considered moving this up towards the river, but in the end we decided to have it in the southeast corner near the road. The pavilion is very well used at present by both football players and cricketers. It will stay where it is now – to the left of the line of trees and near to the river – handy for both the football and cricket pitches.</p>\n\n<p>And finally, we’ll be getting a new notice board for local information, and that will be directly on people’s right as they go from the road into the recreation ground.</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8364.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 385.123
+  }
+}

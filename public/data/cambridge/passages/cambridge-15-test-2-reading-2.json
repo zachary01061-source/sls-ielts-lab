@@ -1,0 +1,279 @@
+{
+  "id": "cambridge-15-test-2-reading-2",
+  "title": "Should we try to bring extinct species back to life?",
+  "titleCn": "Should we try to bring extinct species back to life?",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 15,
+    "test": 2
+  },
+  "sourceQuestionId": "8131",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8131",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Should we try to bring extinct species back to life?"
+    },
+    {
+      "label": "2",
+      "text": "A The passenger pigeon was a legendary species. Flying in vast numbers across North America, with potentially many millions within a single flock, their migration was once one of nature's great spectacles. Sadly, the passenger pigeon's existence came to an end on 1 September 1914, when the last living specimen died at Cincinnati Zoo. Geneticist Ben Novak is lead researcher on an ambitious project which now aims to bring the bird back to life through a process known as 'de-extinction'. The basic premise involves using cloning technology to turn the DNA of extinct animals into a fertilised embryo, which is carried by the nearest relative still in existence -- in this case, the abundant band-tailed pigeon -- before being born as a living, breathing animal. Passenger pigeons are one of the pioneering species in this field, but they are far from the only ones on which this cutting-edge technology is being trialled."
+    },
+    {
+      "label": "3",
+      "text": "B In Australia, the thylacine, more commonly known as the Tasmanian tiger, is another extinct creature which genetic scientists are striving to bring back to life. 'There is no carnivore now in Tasmania that fills the niche which thylacines once occupied,' explains Michael Archer of the University of New South Wales. He points out that in the decades since the thylacine went extinct, there has been a spread in a 'dangerously debilitating' facial tumour syndrome which threatens the existence of the Tasmanian devils, the island's other notorious resident. Thylacines would have prevented this spread because they would have killed significant numbers of Tasmanian devils. 'If that contagious cancer had popped up previously, it would have burned out in whatever region it started. The return of thylacines to Tasmania could help to ensure that devils are never again subjected to risks of this kind.'"
+    },
+    {
+      "label": "4",
+      "text": "C If extinct species can be brought back to life, can humanity begin to correct the damage it has caused to the natural world over the past few millennia? 'The idea of de-extinction is that we can reverse this process, bringing species that no longer exist back to life,' says Beth Shapiro of University of California Santa Cruz's Genomics Institute. 'I don't think that we can do this. There is no way to bring back something that is 100 per cent identical to a species that went extinct a long time ago.' A more practical approach for long-extinct species is to take the DNA of existing species as a template, ready for the insertion of strands of extinct animal DNA to create something new; a hybrid, based on the living species, but which looks and/or acts like the animal which died out."
+    },
+    {
+      "label": "5",
+      "text": "D This complicated process and questionable outcome begs the question: what is the actual point of this technology? 'For us, the goal has always been replacing the extinct species with a suitable replacement,' explains Novak. 'When it comes to breeding, band-tailed pigeons scatter and make maybe one or two nests per hectare, whereas passenger pigeons were very social and would make 10,000 or more nests in one hectare.' Since the disappearance of this key species, ecosystems in the eastern US have suffered, as the lack of disturbance caused by thousands of passenger pigeons wrecking trees and branches means there has been minimal need for regrowth. This has left forests stagnant and therefore unwelcoming to the plants and animals which evolved to help regenerate the forest after a disturbance. According to Novak, a hybridised band-tailed pigeon, with the added nesting habits of a passenger pigeon, could, in theory, re-establish that forest disturbance, thereby creating a habitat necessary for a great many other native species to thrive."
+    },
+    {
+      "label": "6",
+      "text": "E Another popular candidate for this technology is the woolly mammoth. George Church, professor at Harvard Medical School and leader of the Woolly Mammoth Revival Project, has been focusing on cold resistance, the main way in which the extinct woolly mammoth and its nearest living relative, the Asian elephant, differ. By pinpointing which genetic traits made it possible for mammoths to survive the icy climate of the tundra, the project's goal is to return mammoths, or a mammoth- like species, to the area. 'My highest priority would be preserving the endangered Asian elephant,' says Church, 'expanding their range to the huge ecosystem of the tundra. Necessary adaptations would include smaller ears, thicker hair, and extra insulating fat, all for the purpose of reducing heat loss in the tundra, and all traits found in the now extinct woolly mammoth.' This repopulation of the tundra and boreal forests of Eurasia and North America with large mammals could also be a useful factor in reducing carbon emissions -- elephants punch holes through snow and knock down trees, which encourages grass growth. This grass growth would reduce temperatures, and mitigate emissions from melting permafrost."
+    },
+    {
+      "label": "7",
+      "text": "F While the prospect of bringing extinct animals back to life might capture imaginations, it is, of course, far easier to try to save an existing species which is merely threatened with extinction. 'Many of the technologies that people have in mind when they think about de-extinction can be used as a form of \"genetic rescue\",' explains Shapiro. She prefers to focus the debate on how this emerging technology could be used to fully understand why various species went extinct in the first place, and therefore how we could use it to make genetic modifications which could prevent mass extinctions in the future. 'I would also say there's an incredible moral hazard to not do anything at all,' she continues. 'We know that what we are doing today is not enough, and we have to be willing to take some calculated and measured risks.'"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–17\n\nReading Passage 2 has six paragraphs, A–F.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A–F, in boxes 14–17 on your answer sheet.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a reference to how further disappearance of multiple species could be avoided",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8131_884066-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "explanation of a way of reproducing an extinct animal using the DNA of only that species",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8131_884066-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "reference to a habitat which has suffered following the extinction of a species",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8131_884066-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "mention of the exact point at which a particular species became extinct",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8131_884066-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 18–22\n\nComplete the summary below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nWrite your answers in boxes 18–22 on your answer sheet.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Professor George Church and his team are trying to identify the [18] ______which enabled mammoths to live in the tundra. The findings could help preserve the mammoth's close relative, the endangered Asian elephant.",
+          "answers": [
+            "genetic traits"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8131_173595",
+          "explanation": "18 题干说：George Church教授和他的团队正在尝试确认到底是____使得猛犸象能在冰原冻土上生存。\n\n本题的定位难度极低，无论是人名大写信息George Church，还是一模一样出现在原文中的tundra这个词组，都能帮考生轻松找到答案句出处附近；同时，提示空格答案的题干表述enabled与原文made it possible之间的同义替换也非常明显，由此可知答案应为：genetic traits。\n\n19 题干说：按照Church的说法，将亚洲象引入冰原地带将会牵扯到一定的外貌特征改变以使得 ____最小化。\n\n本题的定位与上一道题距离并不远，且题干中的adaptation在原文中一模一样地出现了，另一个帮助定位答案的题干词minimise与原文中reduce的同义替换表述关系也十分明显，且这两个词都是雅思阅读文章中的常客，考生要顺利得出答案应为heat loss并不困难。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第四句。\n\n20 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的 ____以及更多的____。\n\n本题与下一题出自同一个答案句，题干中和两个空格处答案形成并列关系的thicker hair是一模一样地出现在原文中的，考生完全可以凭借这个词组定位到大致句中位置，再利用题干中reduced size与原文更为直白的表述smaller之间的对应关系，轻松得出答案为：ears。\n\n如果一定要说有什么困难之处，大约就是本题和下一题的出题位置跟第19题的出处略有乱序，但是由于三者其实都处在同一个长难句的范围之内，所以虽然乱序，但答案也相隔不远，并不真的足以对考生阅读和答题造成什么实质性的干扰。\n\n21 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的耳朵以及更多的____。本题与上一题是并列关系，定位后对比分析题干，即可轻松得出答案为：insulating fat。\n\n22 题干说：将猛犸或者说亚洲象与猛犸的杂交产物重新引入 冰原的做法也会对环境产生影响，这样做有助于降低温度并减少____。\n\n由于答案出处位置比较集中，所以考生在解答完了前面的题目、顺序向下阅读的过程中，很快就能在原文中定位到reduce这个与题干中的decrease同义替换、且在雅思听说读写各科目中都高频出现的单词，进而顺利得出答案为：carbon emissions。",
+          "promptHtml": "Professor George Church and his team are trying to identify the [18] ______which enabled mammoths to live in the tundra. The findings could help preserve the mammoth&#x27;s close relative, the endangered Asian elephant."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Answer for gap 19.",
+          "answers": [
+            "heat loss"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8131_172260",
+          "explanation": "18 题干说：George Church教授和他的团队正在尝试确认到底是____使得猛犸象能在冰原冻土上生存。\n\n本题的定位难度极低，无论是人名大写信息George Church，还是一模一样出现在原文中的tundra这个词组，都能帮考生轻松找到答案句出处附近；同时，提示空格答案的题干表述enabled与原文made it possible之间的同义替换也非常明显，由此可知答案应为：genetic traits。\n\n19 题干说：按照Church的说法，将亚洲象引入冰原地带将会牵扯到一定的外貌特征改变以使得 ____最小化。\n\n本题的定位与上一道题距离并不远，且题干中的adaptation在原文中一模一样地出现了，另一个帮助定位答案的题干词minimise与原文中reduce的同义替换表述关系也十分明显，且这两个词都是雅思阅读文章中的常客，考生要顺利得出答案应为heat loss并不困难。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第四句。\n\n20 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的 ____以及更多的____。\n\n本题与下一题出自同一个答案句，题干中和两个空格处答案形成并列关系的thicker hair是一模一样地出现在原文中的，考生完全可以凭借这个词组定位到大致句中位置，再利用题干中reduced size与原文更为直白的表述smaller之间的对应关系，轻松得出答案为：ears。\n\n如果一定要说有什么困难之处，大约就是本题和下一题的出题位置跟第19题的出处略有乱序，但是由于三者其实都处在同一个长难句的范围之内，所以虽然乱序，但答案也相隔不远，并不真的足以对考生阅读和答题造成什么实质性的干扰。\n\n21 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的耳朵以及更多的____。本题与上一题是并列关系，定位后对比分析题干，即可轻松得出答案为：insulating fat。\n\n22 题干说：将猛犸或者说亚洲象与猛犸的杂交产物重新引入 冰原的做法也会对环境产生影响，这样做有助于降低温度并减少____。\n\n由于答案出处位置比较集中，所以考生在解答完了前面的题目、顺序向下阅读的过程中，很快就能在原文中定位到reduce这个与题干中的decrease同义替换、且在雅思听说读写各科目中都高频出现的单词，进而顺利得出答案为：carbon emissions。",
+          "promptHtml": "Answer for gap 19."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Answer for gap 20.",
+          "answers": [
+            "ears"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8131_486813",
+          "explanation": "18 题干说：George Church教授和他的团队正在尝试确认到底是____使得猛犸象能在冰原冻土上生存。\n\n本题的定位难度极低，无论是人名大写信息George Church，还是一模一样出现在原文中的tundra这个词组，都能帮考生轻松找到答案句出处附近；同时，提示空格答案的题干表述enabled与原文made it possible之间的同义替换也非常明显，由此可知答案应为：genetic traits。\n\n19 题干说：按照Church的说法，将亚洲象引入冰原地带将会牵扯到一定的外貌特征改变以使得 ____最小化。\n\n本题的定位与上一道题距离并不远，且题干中的adaptation在原文中一模一样地出现了，另一个帮助定位答案的题干词minimise与原文中reduce的同义替换表述关系也十分明显，且这两个词都是雅思阅读文章中的常客，考生要顺利得出答案应为heat loss并不困难。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第四句。\n\n20 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的 ____以及更多的____。\n\n本题与下一题出自同一个答案句，题干中和两个空格处答案形成并列关系的thicker hair是一模一样地出现在原文中的，考生完全可以凭借这个词组定位到大致句中位置，再利用题干中reduced size与原文更为直白的表述smaller之间的对应关系，轻松得出答案为：ears。\n\n如果一定要说有什么困难之处，大约就是本题和下一题的出题位置跟第19题的出处略有乱序，但是由于三者其实都处在同一个长难句的范围之内，所以虽然乱序，但答案也相隔不远，并不真的足以对考生阅读和答题造成什么实质性的干扰。\n\n21 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的耳朵以及更多的____。本题与上一题是并列关系，定位后对比分析题干，即可轻松得出答案为：insulating fat。\n\n22 题干说：将猛犸或者说亚洲象与猛犸的杂交产物重新引入 冰原的做法也会对环境产生影响，这样做有助于降低温度并减少____。\n\n由于答案出处位置比较集中，所以考生在解答完了前面的题目、顺序向下阅读的过程中，很快就能在原文中定位到reduce这个与题干中的decrease同义替换、且在雅思听说读写各科目中都高频出现的单词，进而顺利得出答案为：carbon emissions。",
+          "promptHtml": "Answer for gap 20."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Answer for gap 21.",
+          "answers": [
+            "insulating fat",
+            "fat"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8131_523286",
+          "explanation": "18 题干说：George Church教授和他的团队正在尝试确认到底是____使得猛犸象能在冰原冻土上生存。\n\n本题的定位难度极低，无论是人名大写信息George Church，还是一模一样出现在原文中的tundra这个词组，都能帮考生轻松找到答案句出处附近；同时，提示空格答案的题干表述enabled与原文made it possible之间的同义替换也非常明显，由此可知答案应为：genetic traits。\n\n19 题干说：按照Church的说法，将亚洲象引入冰原地带将会牵扯到一定的外貌特征改变以使得 ____最小化。\n\n本题的定位与上一道题距离并不远，且题干中的adaptation在原文中一模一样地出现了，另一个帮助定位答案的题干词minimise与原文中reduce的同义替换表述关系也十分明显，且这两个词都是雅思阅读文章中的常客，考生要顺利得出答案应为heat loss并不困难。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第四句。\n\n20 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的 ____以及更多的____。\n\n本题与下一题出自同一个答案句，题干中和两个空格处答案形成并列关系的thicker hair是一模一样地出现在原文中的，考生完全可以凭借这个词组定位到大致句中位置，再利用题干中reduced size与原文更为直白的表述smaller之间的对应关系，轻松得出答案为：ears。\n\n如果一定要说有什么困难之处，大约就是本题和下一题的出题位置跟第19题的出处略有乱序，但是由于三者其实都处在同一个长难句的范围之内，所以虽然乱序，但答案也相隔不远，并不真的足以对考生阅读和答题造成什么实质性的干扰。\n\n21 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的耳朵以及更多的____。本题与上一题是并列关系，定位后对比分析题干，即可轻松得出答案为：insulating fat。\n\n22 题干说：将猛犸或者说亚洲象与猛犸的杂交产物重新引入 冰原的做法也会对环境产生影响，这样做有助于降低温度并减少____。\n\n由于答案出处位置比较集中，所以考生在解答完了前面的题目、顺序向下阅读的过程中，很快就能在原文中定位到reduce这个与题干中的decrease同义替换、且在雅思听说读写各科目中都高频出现的单词，进而顺利得出答案为：carbon emissions。",
+          "promptHtml": "Answer for gap 21."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Repopulating the tundra with mammoths or Asian elephant/mammoth hybrids would also have an impact on the environment, which could help to reduce temperatures and decrease [22] ______.",
+          "answers": [
+            "carbon emissions",
+            "emissions"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8131_782079",
+          "explanation": "18 题干说：George Church教授和他的团队正在尝试确认到底是____使得猛犸象能在冰原冻土上生存。\n\n本题的定位难度极低，无论是人名大写信息George Church，还是一模一样出现在原文中的tundra这个词组，都能帮考生轻松找到答案句出处附近；同时，提示空格答案的题干表述enabled与原文made it possible之间的同义替换也非常明显，由此可知答案应为：genetic traits。\n\n19 题干说：按照Church的说法，将亚洲象引入冰原地带将会牵扯到一定的外貌特征改变以使得 ____最小化。\n\n本题的定位与上一道题距离并不远，且题干中的adaptation在原文中一模一样地出现了，另一个帮助定位答案的题干词minimise与原文中reduce的同义替换表述关系也十分明显，且这两个词都是雅思阅读文章中的常客，考生要顺利得出答案应为heat loss并不困难。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第四句。\n\n20 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的 ____以及更多的____。\n\n本题与下一题出自同一个答案句，题干中和两个空格处答案形成并列关系的thicker hair是一模一样地出现在原文中的，考生完全可以凭借这个词组定位到大致句中位置，再利用题干中reduced size与原文更为直白的表述smaller之间的对应关系，轻松得出答案为：ears。\n\n如果一定要说有什么困难之处，大约就是本题和下一题的出题位置跟第19题的出处略有乱序，但是由于三者其实都处在同一个长难句的范围之内，所以虽然乱序，但答案也相隔不远，并不真的足以对考生阅读和答题造成什么实质性的干扰。\n\n21 题干说：为了在冰原上生存，这个物种将需要具备类似猛犸的特征：更厚的毛，更小尺寸的耳朵以及更多的____。本题与上一题是并列关系，定位后对比分析题干，即可轻松得出答案为：insulating fat。\n\n22 题干说：将猛犸或者说亚洲象与猛犸的杂交产物重新引入 冰原的做法也会对环境产生影响，这样做有助于降低温度并减少____。\n\n由于答案出处位置比较集中，所以考生在解答完了前面的题目、顺序向下阅读的过程中，很快就能在原文中定位到reduce这个与题干中的decrease同义替换、且在雅思听说读写各科目中都高频出现的单词，进而顺利得出答案为：carbon emissions。",
+          "promptHtml": "Repopulating the tundra with mammoths or Asian elephant/mammoth hybrids would also have an impact on the environment, which could help to reduce temperatures and decrease [22] ______."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><strong><span>The woolly mammoth revival project</span></strong></p>\n\n<p>Professor George Church and his team are trying to identify the <strong>[18] ______</strong>which enabled mammoths to live in the tundra. The findings could help preserve the mammoth&#x27;s close relative, the endangered Asian elephant.</p>\n\n<p>According to Church, introducing Asian elephants to the tundra would involve certain physical adaptations to minimise <strong>[19] ______</strong>. To survive in the tundra, the species would need to have the mammoth-like features of thicker hair, <strong>[20] ______</strong>of a reduced size and more <strong>[21] ______</strong>.</p>\n\n<p>Repopulating the tundra with mammoths or Asian elephant/mammoth hybrids would also have an impact on the environment, which could help to reduce temperatures and decrease <strong>[22] ______</strong>.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 23–26\n\nLook at the following statements (Questions 23–26) and the list of people below.\n\nMatch each statement with the correct person, A, B or C.\n\nWrite the correct letter, A, B or C, in boxes 23–26 on your answer sheet.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Reintroducing an extinct species to its original habitat could improve the health of a particular species living there. [23] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8131_664543",
+          "explanation": "23 题干：Reintroducing an extinct species to its original habitat could improve the health of a particular species living there.\n\n译文：将一个已经灭绝的物种重新引入其原栖息地，将能够提升生活在那里的某个特定物种的健康状况\n\n考生做出此题的速度，在一定程度上取决于自身的单词量高低。如果在利用大写人名Michael Archer定位到B段后，在阅读第三句话时认识syndrome是“疾病症状”、threaten是“威胁”、resident是“居住者”这些单词的意思，其实已经能得出“袋狼灭绝以后，另一种本地生物袋獾受到了疾病威胁”这个理解，进而在下一句中从would have prevented这个虚拟语气的表达中得出结论：如果袋狼能在本地复活，其实袋獾就不会受到这么大的威胁，由此已经可以顺利得出正确答案为本句人名对应的选项B。但是如果并不认识上面说到的词汇，对虚拟语气的意思表达也不够敏感，则可能需要拿出耐心来、多往下再看两句话，也能根据难度更低的词汇和句子大意的表达，得出同样的结论来。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第二句。\n\n24 题干：It is important to concentrate on the causes of an animal’s extinction.\n\n译文：聚焦关注一种动物的灭绝原因是很重要的。\n\n本题的难度比较高，其中最主要的原因是：Beth Shapiro这个人名第一次出现的位置是在文章的C段中；然而在这一段里重点表达的意思是“用已灭绝动物的DNA片段和这种动物的近亲物种可以杂交出一种类似但并非完全一样的生物”，完全没有提及“聚焦物种灭绝原因”这个信息。这无疑对考生提升阅读速度、准确理解句子大意、甚至是保持稳定的心态都提出了一定挑战。因此，也要温馨提示考生：做题的本质一方面在于准确对应到正确的答案出处，但另一方面也同样在于当发现所读之处并不对应问题信息的时候，需及时果断做出判定，继续向后文中寻找还未看过的文章部分，而不是轻易产生自我怀疑和动摇，盲目回读之前的内容。当然，这种果断需建立在平时进行了语句篇章分析练习、对自己着实准确读懂了句意这一点有自信的基础之上。\n\n而一旦具备了这个自信、判定C段Shapiro所表达的内容与解题无关之后，考生即可迅速去定位这个人名的下一次出处，从而在F段的第三句里找到正确答案的对应C项。\n\n关于答案出处句的具体分析，可以参见前文“佳句赏析”的第五句。\n\n25 题干：A species brought back from extinction could have an important beneficial impact on the vegetation of its habitat.\n\n译文：经复活的某个业已灭绝的物种可以对其栖息地的植被产生重要的有益影响。\n\n本题的难点与上一道题类似，同样是因为人名Ben Novak第一次出现的位置是在A段，然而A段中却并没有任何表述了题干对应信息的语句，所以考生需及时判定并转而寻找下一次的人名出处，从而定位到D段。同时，在定位之后，虽然通过第四句话中trees and branches这个信息与题干中vegetation这个上义下义之间的同义替换，确实能获得强烈的暗示，但要百分之百确定此处为正确答案对应处的话，考生最好还是耐心向下文再多看几句，从而最终敲定正确答案为人名对应的选项A。\n\n26 题干：Our current efforts at preserving biodiversity are insufficient.\n\n译文：我们目前所做出的保护生物多样性的努力是不够的。\n\n本题其实距离同样对应于Shapiro这个人名的另外一个观点表述，也就是第24题的答案出处，并不算很远；考生在定位到本段人名Shapiro和找到24题答案后，只需再耐心确认一下后文的几句话，发现还是同一个人在继续表达观点，原本就应该再向后阅读几句，查对是否还有其它对应题目的表述。所以，本题的唯一难度可能就是来自于位置出处在全文最后一段的最后一句话里，考生需一直读到此处，才能轻松看出原文中的not enough这个表述正是直接对应于题干里的insufficient，且本段也确实是在说“保护各种各样的物种”这个话题，从而准确匹配到正确答案为C。",
+          "promptHtml": "Reintroducing an extinct species to its original habitat could improve the health of a particular species living there. [23] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "It is important to concentrate on the causes of an animal's extinction. [24] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8131_440821",
+          "explanation": "23 题干：Reintroducing an extinct species to its original habitat could improve the health of a particular species living there.\n\n译文：将一个已经灭绝的物种重新引入其原栖息地，将能够提升生活在那里的某个特定物种的健康状况\n\n考生做出此题的速度，在一定程度上取决于自身的单词量高低。如果在利用大写人名Michael Archer定位到B段后，在阅读第三句话时认识syndrome是“疾病症状”、threaten是“威胁”、resident是“居住者”这些单词的意思，其实已经能得出“袋狼灭绝以后，另一种本地生物袋獾受到了疾病威胁”这个理解，进而在下一句中从would have prevented这个虚拟语气的表达中得出结论：如果袋狼能在本地复活，其实袋獾就不会受到这么大的威胁，由此已经可以顺利得出正确答案为本句人名对应的选项B。但是如果并不认识上面说到的词汇，对虚拟语气的意思表达也不够敏感，则可能需要拿出耐心来、多往下再看两句话，也能根据难度更低的词汇和句子大意的表达，得出同样的结论来。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第二句。\n\n24 题干：It is important to concentrate on the causes of an animal’s extinction.\n\n译文：聚焦关注一种动物的灭绝原因是很重要的。\n\n本题的难度比较高，其中最主要的原因是：Beth Shapiro这个人名第一次出现的位置是在文章的C段中；然而在这一段里重点表达的意思是“用已灭绝动物的DNA片段和这种动物的近亲物种可以杂交出一种类似但并非完全一样的生物”，完全没有提及“聚焦物种灭绝原因”这个信息。这无疑对考生提升阅读速度、准确理解句子大意、甚至是保持稳定的心态都提出了一定挑战。因此，也要温馨提示考生：做题的本质一方面在于准确对应到正确的答案出处，但另一方面也同样在于当发现所读之处并不对应问题信息的时候，需及时果断做出判定，继续向后文中寻找还未看过的文章部分，而不是轻易产生自我怀疑和动摇，盲目回读之前的内容。当然，这种果断需建立在平时进行了语句篇章分析练习、对自己着实准确读懂了句意这一点有自信的基础之上。\n\n而一旦具备了这个自信、判定C段Shapiro所表达的内容与解题无关之后，考生即可迅速去定位这个人名的下一次出处，从而在F段的第三句里找到正确答案的对应C项。\n\n关于答案出处句的具体分析，可以参见前文“佳句赏析”的第五句。\n\n25 题干：A species brought back from extinction could have an important beneficial impact on the vegetation of its habitat.\n\n译文：经复活的某个业已灭绝的物种可以对其栖息地的植被产生重要的有益影响。\n\n本题的难点与上一道题类似，同样是因为人名Ben Novak第一次出现的位置是在A段，然而A段中却并没有任何表述了题干对应信息的语句，所以考生需及时判定并转而寻找下一次的人名出处，从而定位到D段。同时，在定位之后，虽然通过第四句话中trees and branches这个信息与题干中vegetation这个上义下义之间的同义替换，确实能获得强烈的暗示，但要百分之百确定此处为正确答案对应处的话，考生最好还是耐心向下文再多看几句，从而最终敲定正确答案为人名对应的选项A。\n\n26 题干：Our current efforts at preserving biodiversity are insufficient.\n\n译文：我们目前所做出的保护生物多样性的努力是不够的。\n\n本题其实距离同样对应于Shapiro这个人名的另外一个观点表述，也就是第24题的答案出处，并不算很远；考生在定位到本段人名Shapiro和找到24题答案后，只需再耐心确认一下后文的几句话，发现还是同一个人在继续表达观点，原本就应该再向后阅读几句，查对是否还有其它对应题目的表述。所以，本题的唯一难度可能就是来自于位置出处在全文最后一段的最后一句话里，考生需一直读到此处，才能轻松看出原文中的not enough这个表述正是直接对应于题干里的insufficient，且本段也确实是在说“保护各种各样的物种”这个话题，从而准确匹配到正确答案为C。",
+          "promptHtml": "It is important to concentrate on the causes of an animal&#x27;s extinction. [24] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "A species brought back from extinction could have an important beneficial impact on the vegetation of its habitat. [25] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8131_420126",
+          "explanation": "23 题干：Reintroducing an extinct species to its original habitat could improve the health of a particular species living there.\n\n译文：将一个已经灭绝的物种重新引入其原栖息地，将能够提升生活在那里的某个特定物种的健康状况\n\n考生做出此题的速度，在一定程度上取决于自身的单词量高低。如果在利用大写人名Michael Archer定位到B段后，在阅读第三句话时认识syndrome是“疾病症状”、threaten是“威胁”、resident是“居住者”这些单词的意思，其实已经能得出“袋狼灭绝以后，另一种本地生物袋獾受到了疾病威胁”这个理解，进而在下一句中从would have prevented这个虚拟语气的表达中得出结论：如果袋狼能在本地复活，其实袋獾就不会受到这么大的威胁，由此已经可以顺利得出正确答案为本句人名对应的选项B。但是如果并不认识上面说到的词汇，对虚拟语气的意思表达也不够敏感，则可能需要拿出耐心来、多往下再看两句话，也能根据难度更低的词汇和句子大意的表达，得出同样的结论来。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第二句。\n\n24 题干：It is important to concentrate on the causes of an animal’s extinction.\n\n译文：聚焦关注一种动物的灭绝原因是很重要的。\n\n本题的难度比较高，其中最主要的原因是：Beth Shapiro这个人名第一次出现的位置是在文章的C段中；然而在这一段里重点表达的意思是“用已灭绝动物的DNA片段和这种动物的近亲物种可以杂交出一种类似但并非完全一样的生物”，完全没有提及“聚焦物种灭绝原因”这个信息。这无疑对考生提升阅读速度、准确理解句子大意、甚至是保持稳定的心态都提出了一定挑战。因此，也要温馨提示考生：做题的本质一方面在于准确对应到正确的答案出处，但另一方面也同样在于当发现所读之处并不对应问题信息的时候，需及时果断做出判定，继续向后文中寻找还未看过的文章部分，而不是轻易产生自我怀疑和动摇，盲目回读之前的内容。当然，这种果断需建立在平时进行了语句篇章分析练习、对自己着实准确读懂了句意这一点有自信的基础之上。\n\n而一旦具备了这个自信、判定C段Shapiro所表达的内容与解题无关之后，考生即可迅速去定位这个人名的下一次出处，从而在F段的第三句里找到正确答案的对应C项。\n\n关于答案出处句的具体分析，可以参见前文“佳句赏析”的第五句。\n\n25 题干：A species brought back from extinction could have an important beneficial impact on the vegetation of its habitat.\n\n译文：经复活的某个业已灭绝的物种可以对其栖息地的植被产生重要的有益影响。\n\n本题的难点与上一道题类似，同样是因为人名Ben Novak第一次出现的位置是在A段，然而A段中却并没有任何表述了题干对应信息的语句，所以考生需及时判定并转而寻找下一次的人名出处，从而定位到D段。同时，在定位之后，虽然通过第四句话中trees and branches这个信息与题干中vegetation这个上义下义之间的同义替换，确实能获得强烈的暗示，但要百分之百确定此处为正确答案对应处的话，考生最好还是耐心向下文再多看几句，从而最终敲定正确答案为人名对应的选项A。\n\n26 题干：Our current efforts at preserving biodiversity are insufficient.\n\n译文：我们目前所做出的保护生物多样性的努力是不够的。\n\n本题其实距离同样对应于Shapiro这个人名的另外一个观点表述，也就是第24题的答案出处，并不算很远；考生在定位到本段人名Shapiro和找到24题答案后，只需再耐心确认一下后文的几句话，发现还是同一个人在继续表达观点，原本就应该再向后阅读几句，查对是否还有其它对应题目的表述。所以，本题的唯一难度可能就是来自于位置出处在全文最后一段的最后一句话里，考生需一直读到此处，才能轻松看出原文中的not enough这个表述正是直接对应于题干里的insufficient，且本段也确实是在说“保护各种各样的物种”这个话题，从而准确匹配到正确答案为C。",
+          "promptHtml": "A species brought back from extinction could have an important beneficial impact on the vegetation of its habitat. [25] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Our current efforts at preserving biodiversity are insufficient. [26] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8131_955095",
+          "explanation": "23 题干：Reintroducing an extinct species to its original habitat could improve the health of a particular species living there.\n\n译文：将一个已经灭绝的物种重新引入其原栖息地，将能够提升生活在那里的某个特定物种的健康状况\n\n考生做出此题的速度，在一定程度上取决于自身的单词量高低。如果在利用大写人名Michael Archer定位到B段后，在阅读第三句话时认识syndrome是“疾病症状”、threaten是“威胁”、resident是“居住者”这些单词的意思，其实已经能得出“袋狼灭绝以后，另一种本地生物袋獾受到了疾病威胁”这个理解，进而在下一句中从would have prevented这个虚拟语气的表达中得出结论：如果袋狼能在本地复活，其实袋獾就不会受到这么大的威胁，由此已经可以顺利得出正确答案为本句人名对应的选项B。但是如果并不认识上面说到的词汇，对虚拟语气的意思表达也不够敏感，则可能需要拿出耐心来、多往下再看两句话，也能根据难度更低的词汇和句子大意的表达，得出同样的结论来。\n\n关于本题对应的原文句详细分析，可以参见前文中“佳句赏析”的第二句。\n\n24 题干：It is important to concentrate on the causes of an animal’s extinction.\n\n译文：聚焦关注一种动物的灭绝原因是很重要的。\n\n本题的难度比较高，其中最主要的原因是：Beth Shapiro这个人名第一次出现的位置是在文章的C段中；然而在这一段里重点表达的意思是“用已灭绝动物的DNA片段和这种动物的近亲物种可以杂交出一种类似但并非完全一样的生物”，完全没有提及“聚焦物种灭绝原因”这个信息。这无疑对考生提升阅读速度、准确理解句子大意、甚至是保持稳定的心态都提出了一定挑战。因此，也要温馨提示考生：做题的本质一方面在于准确对应到正确的答案出处，但另一方面也同样在于当发现所读之处并不对应问题信息的时候，需及时果断做出判定，继续向后文中寻找还未看过的文章部分，而不是轻易产生自我怀疑和动摇，盲目回读之前的内容。当然，这种果断需建立在平时进行了语句篇章分析练习、对自己着实准确读懂了句意这一点有自信的基础之上。\n\n而一旦具备了这个自信、判定C段Shapiro所表达的内容与解题无关之后，考生即可迅速去定位这个人名的下一次出处，从而在F段的第三句里找到正确答案的对应C项。\n\n关于答案出处句的具体分析，可以参见前文“佳句赏析”的第五句。\n\n25 题干：A species brought back from extinction could have an important beneficial impact on the vegetation of its habitat.\n\n译文：经复活的某个业已灭绝的物种可以对其栖息地的植被产生重要的有益影响。\n\n本题的难点与上一道题类似，同样是因为人名Ben Novak第一次出现的位置是在A段，然而A段中却并没有任何表述了题干对应信息的语句，所以考生需及时判定并转而寻找下一次的人名出处，从而定位到D段。同时，在定位之后，虽然通过第四句话中trees and branches这个信息与题干中vegetation这个上义下义之间的同义替换，确实能获得强烈的暗示，但要百分之百确定此处为正确答案对应处的话，考生最好还是耐心向下文再多看几句，从而最终敲定正确答案为人名对应的选项A。\n\n26 题干：Our current efforts at preserving biodiversity are insufficient.\n\n译文：我们目前所做出的保护生物多样性的努力是不够的。\n\n本题其实距离同样对应于Shapiro这个人名的另外一个观点表述，也就是第24题的答案出处，并不算很远；考生在定位到本段人名Shapiro和找到24题答案后，只需再耐心确认一下后文的几句话，发现还是同一个人在继续表达观点，原本就应该再向后阅读几句，查对是否还有其它对应题目的表述。所以，本题的唯一难度可能就是来自于位置出处在全文最后一段的最后一句话里，考生需一直读到此处，才能轻松看出原文中的not enough这个表述正是直接对应于题干里的insufficient，且本段也确实是在说“保护各种各样的物种”这个话题，从而准确匹配到正确答案为C。",
+          "promptHtml": "Our current efforts at preserving biodiversity are insufficient. [26] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Ben Novak"
+        },
+        {
+          "value": "B",
+          "text": "Michael Archer"
+        },
+        {
+          "value": "C",
+          "text": "Beth Shapiro"
+        }
+      ],
+      "contextHtml": "<p>Reintroducing an extinct species to its original habitat could improve the health of a particular species living there. <strong>[23] ______</strong> <br>\nIt is important to concentrate on the causes of an animal&#x27;s extinction. <strong>[24] ______</strong> <br>\nA species brought back from extinction could have an important beneficial impact on the vegetation of its habitat. <strong>[25] ______</strong> <br>\nOur current efforts at preserving biodiversity are insufficient. <strong>[26] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Should we try to bring extinct species back to life?</span></strong></p><p> </p><p><strong>A </strong>  The passenger pigeon was a legendary species. Flying in vast numbers across North America, with potentially many millions within a single flock, their migration was once one of nature&#x27;s great spectacles. Sadly, the passenger pigeon&#x27;s existence came to an end on 1 September 1914, when the last living specimen died at Cincinnati Zoo. Geneticist Ben Novak is lead researcher on an ambitious project which now aims to bring the bird back to life through a process known as &#x27;de-extinction&#x27;. The basic premise involves using cloning technology to turn the DNA of extinct animals into a fertilised embryo, which is carried by the nearest relative still in existence -- in this case, the abundant band-tailed pigeon -- before being born as a living, breathing animal. Passenger pigeons are one of the pioneering species in this field, but they are far from the only ones on which this cutting-edge technology is being trialled.<br> </p><p><strong>B </strong>  In Australia, the thylacine, more commonly known as the Tasmanian tiger, is another extinct creature which genetic scientists are striving to bring back to life. &#x27;There is no carnivore now in Tasmania that fills the niche which thylacines once occupied,&#x27; explains Michael Archer of the University of New South Wales. He points out that in the decades since the thylacine went extinct, there has been a spread in a &#x27;dangerously debilitating&#x27; facial tumour syndrome which threatens the existence of the Tasmanian devils, the island&#x27;s other notorious resident. Thylacines would have prevented this spread because they would have killed significant numbers of Tasmanian devils. &#x27;If that contagious cancer had popped up previously, it would have burned out in whatever region it started. The return of thylacines to Tasmania could help to ensure that devils are never again subjected to risks of this kind.&#x27;<br> </p><p><strong>C </strong>  If extinct species can be brought back to life, can humanity begin to correct the damage it has caused to the natural world over the past few millennia? &#x27;The idea of de-extinction is that we can reverse this process, bringing species that no longer exist back to life,&#x27; says Beth Shapiro of University of California Santa Cruz&#x27;s Genomics Institute. &#x27;I don&#x27;t think that we can do this. There is no way to bring back something that is 100 per cent identical to a species that went extinct a long time ago.&#x27; A more practical approach for long-extinct species is to take the DNA of existing species as a template, ready for the insertion of strands of extinct animal DNA to create something new; a hybrid, based on the living species, but which looks and/or acts like the animal which died out.<br> </p><p><strong>D </strong>  This complicated process and questionable outcome begs the question: what is the actual point of this technology? &#x27;For us, the goal has always been replacing the extinct species with a suitable replacement,&#x27; explains Novak. &#x27;When it comes to breeding, band-tailed pigeons scatter and make maybe one or two nests per hectare, whereas passenger pigeons were very social and would make 10,000 or more nests in one hectare.&#x27; Since the disappearance of this key species, ecosystems in the eastern US have suffered, as the lack of disturbance caused by thousands of passenger pigeons wrecking trees and branches means there has been minimal need for regrowth. This has left forests stagnant and therefore unwelcoming to the plants and animals which evolved to help regenerate the forest after a disturbance. According to Novak, a hybridised band-tailed pigeon, with the added nesting habits of a passenger pigeon, could, in theory, re-establish that forest disturbance, thereby creating a habitat necessary for a great many other native species to thrive.<br> </p><p><strong>E</strong>   Another popular candidate for this technology is the woolly mammoth. George Church, professor at Harvard Medical School and leader of the Woolly Mammoth Revival Project, has been focusing on cold resistance, the main way in which the extinct woolly mammoth and its nearest living relative, the Asian elephant, differ. By pinpointing which genetic traits made it possible for mammoths to survive the icy climate of the tundra, the project&#x27;s goal is to return mammoths, or a mammoth- like species, to the area. &#x27;My highest priority would be preserving the endangered Asian elephant,&#x27; says Church, &#x27;expanding their range to the huge ecosystem of the tundra. Necessary adaptations would include smaller ears, thicker hair, and extra insulating fat, all for the purpose of reducing heat loss in the tundra, and all traits found in the now extinct woolly mammoth.&#x27; This repopulation of the tundra and boreal forests of Eurasia and North America with large mammals could also be a useful factor in reducing carbon emissions -- elephants punch holes through snow and knock down trees, which encourages grass growth. This grass growth would reduce temperatures, and mitigate emissions from melting permafrost.<br> </p><p><strong>F </strong>  While the prospect of bringing extinct animals back to life might capture imaginations, it is, of course, far easier to try to save an existing species which is merely threatened with extinction. &#x27;Many of the technologies that people have in mind when they think about de-extinction can be used as a form of &quot;genetic rescue&quot;,&#x27; explains Shapiro. She prefers to focus the debate on how this emerging technology could be used to fully understand why various species went extinct in the first place, and therefore how we could use it to make genetic modifications which could prevent mass extinctions in the future. &#x27;I would also say there&#x27;s an incredible moral hazard to not do anything at all,&#x27; she continues. &#x27;We know that what we are doing today is not enough, and we have to be willing to take some calculated and measured risks.&#x27;</p>"
+}

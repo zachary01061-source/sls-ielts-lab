@@ -1,0 +1,253 @@
+{
+  "id": "cambridge-20-test-3-reading-1",
+  "title": "Frozen Food",
+  "titleCn": "Frozen Food",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 3
+  },
+  "sourceQuestionId": "8552",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8552",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Frozen Food"
+    },
+    {
+      "label": "2",
+      "text": "A US perspective on the development of the frozen food industry"
+    },
+    {
+      "label": "3",
+      "text": "At some point in history, humans discovered that ice preserved food. There is evidence that winter ice was stored to preserve food in the summer as far back as 10,000 years ago. Two thousand years ago, the inhabitants of South America’s Andean mountains had a unique means of conserving potatoes for later consumption. They froze them overnight, then trampled them to squeeze out the moisture, then dried them in the sun. This preserved their nutritional value—if not their aesthetic appeal."
+    },
+    {
+      "label": "4",
+      "text": "Natural ice remained the main form of refrigeration until late in the 19th century. In the early 1800s, ship owners from Boston, USA, had enormous blocks of Arctic ice towed all over the Atlantic for the purpose of food preservation. In 1851, railroads first began putting blocks of ice in insulated rail cars to send butter from Ogdensburg, New York, to Boston."
+    },
+    {
+      "label": "5",
+      "text": "Finally, in 1870, Australian inventors found a way to make ‘mechanical ice’. They used a compressor to force a gas—ammonia at first and later Freon—through a condenser. The compressed gas gave up some of its heat as it moved through the condenser. Then the gas was released quickly into a low-pressure evaporator coil where it became liquid and cold. Air was blown over the evaporator coil and then this cooled air passed into an insulated compartment, lowering its temperature to freezing point."
+    },
+    {
+      "label": "6",
+      "text": "Initially, this process was invented to keep Australian beer cool even in hot weather. But Australian cattlemen were quick to realize that, if they could put this new invention on a ship, they could export meat across the oceans. In 1880, a shipment of Australian beef and mutton was sent, frozen, to England. While the food frozen this way was still palatable, there was some deterioration. During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, this spoilt the flavor and texture of the food."
+    },
+    {
+      "label": "7",
+      "text": "The modern frozen food industry began with the indigenous Inuit people of Canada. In 1912, a biology student in Massachusetts, USA, named Clarence Birdseye, ran out of money and went to Labrador in Canada to trap and trade furs. While he was there, he became fascinated with how the Inuit would quickly freeze fish in the Arctic air. The fish looked and tasted fresh even months later."
+    },
+    {
+      "label": "8",
+      "text": "Birdseye returned to the USA in 1917 and began developing mechanical freezers capable of quick-freezing food. Birdseye methodically kept inventing better freezers and gradually built a business selling frozen fish from Gloucester, Massachusetts. In 1929, his business was sold and became General Foods, but he stayed with the company as director of research, and his division continued to innovate."
+    },
+    {
+      "label": "9",
+      "text": "Birdseye was responsible for several key innovations that made the frozen food industry possible. He developed quick-freezing techniques that reduced the damage that crystals caused, as well as the technique of freezing the product in the package it was to be sold in. He also introduced the use of cellophane, the first transparent material for food packaging, which allowed consumers to see the quality of the product. Birdseye products also came in convenient size packages that could be prepared with a minimum of effort."
+    },
+    {
+      "label": "10",
+      "text": "But there were still obstacles. In the 1930s, few grocery stores could afford to buy freezers for a market that wasn’t established yet. So, Birdseye leased inexpensive freezer cases to them. He also leased insulated railroad cars so that he could ship his products nationwide. However, few consumers had freezers large enough or efficient enough to take advantage of the products."
+    },
+    {
+      "label": "11",
+      "text": "Sales increased in the early 1940s, when World War II gave a boost to the frozen food industry because tin was being used for munitions. Canned foods were rationed to save tin for the war effort, while frozen foods were abundant and cheap. Finally, by the 1950s, refrigerator technology had developed far enough to make these appliances affordable for the average family. By 1953, 33 million US families owned a refrigerator, and manufacturers were gradually increasing the size of the freezer compartments in them."
+    },
+    {
+      "label": "12",
+      "text": "1950s families were also looking for convenience at mealtimes, so the moment was right for the arrival of the ‘TV Dinner’. Swanson Foods was a large, nationally recognized producer of canned and frozen poultry. In 1954, the company adapted some of Birdseye’s freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first ‘TV Dinner’. This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that was used by airlines. The product was an instant success. Within a year, Swanson had sold 13 million TV dinners. American consumers couldn’t resist the combination of a trusted brand name, a single-serving package and the convenience of a meal that could be ready after only 25 minutes in a hot oven. By 1959, Americans were spending $2.7 billion annually on frozen foods, and half a billion of that was spent on ready-prepared meals such as the TV Dinner."
+    },
+    {
+      "label": "13",
+      "text": "Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of that sold to consumers for home consumption. The remaining $40 billion in frozen food sales come through restaurants, cafeterias, hospitals and schools, and that represents a third of the total food service sales."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–7\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "· People conserved the nutritional value of [1] ______, using a method of freezing then drying.",
+          "answers": [
+            "potatoes"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8552_968569",
+          "explanation": "1. 本题题干中的定位词2,000 years ago和South America出现在第一段第三句，在句中可以看到a unique means of conserving potatoes，随后第四句的内容与题目中a method of freezing then drying的说法一致，而在第五句中也说到preserved their nutritional value，由此可知这里的their就是前文的potatoes。\n\n因此本题答案为potatoes。\n\n2. 本题定位词可以在文章第二段第三句中找到，其中kept cool by ice对应文中putting blocks of ice，transportation in specially adapted trains对应文中in insulated rail cars，而题目中问到的运送物品，在文中to send butter from Ogdensburg, New York, to Boston的表述中可以找到。\n\n因此本题答案为butter。\n\n3. 本题定位词1880，Australian，sent, frozen, to England出现在第四段第三句，而本段第二句是But开头的转折句，且第三句本身是对第二句的进一步展开，第二句中的they could export meat across the oceans与第三句中a shipment of Australian beef and mutton was sent, frozen, to England实际上表达了同样的含义，所以文中beef and mutton实际上就是题目中的Two kinds of meat。\n\n因此本题答案为meat。\n\n4. 从文章内容推进的节奏来看，文中首先在第四段提到了crystals formed并且this spoilt the flavor and texture of the food的问题，随后从第五段开始写Clarence Birdseye的经历，但此处从1912开始，第六段写了1917年和1929年，也就是到了1917 onwards的阶段，第七段出现了innovations 的具体作用，即reduced the damage that crystals caused，这里的创新解决了前文中提到过的问题。\n\n因此本题答案为crystals。\n\n5. 题目中关于packaging products的信息在文中第七段第三句中出现，并且句中the first transparent material for food packaging的表述也与题目中visible的含义一致，因此可在本句解题，句中说到的with表示对方式的考查，文中原文为the use of cellophane，因此可见此处the use of 和题目中with是同义替换。\n\n因此本题答案为cellophane。\n\n6. 题目中定位词对应第九段第一句，其中说道sales increased in the early 1940s，以及a boost to the frozen food industry，而题目中考查的because of a shortage of在文中对应because tin was being used for munitions，由此可以判断答案为tin，本题还可以通过本段第二句进行进一步印证，其中提到了save tin for the war effort以及frozen foods were abundant and cheap。\n\n因此本题答案为tin。\n\n7. 题目中定位词出现在文中第九段，这里分别写到了by the 1950s和By 1953，通过阅读文章内容可以看到，refrigerator technology had developed far enough，并且33 million US families owned a refrigerator，因此可以确定题目中信息应当是A large number of homes now had a refrigerator。这里定冠词a也可以作为辅助解题的信息。\n\n因此本题答案为refrigerator。",
+          "promptHtml": "· People conserved the nutritional value of [1] ______, using a method of freezing then drying."
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "·[2] ______was kept cool by ice during transportation in specially adapted trains.",
+          "answers": [
+            "Butter"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8552_785388",
+          "explanation": "1. 本题题干中的定位词2,000 years ago和South America出现在第一段第三句，在句中可以看到a unique means of conserving potatoes，随后第四句的内容与题目中a method of freezing then drying的说法一致，而在第五句中也说到preserved their nutritional value，由此可知这里的their就是前文的potatoes。\n\n因此本题答案为potatoes。\n\n2. 本题定位词可以在文章第二段第三句中找到，其中kept cool by ice对应文中putting blocks of ice，transportation in specially adapted trains对应文中in insulated rail cars，而题目中问到的运送物品，在文中to send butter from Ogdensburg, New York, to Boston的表述中可以找到。\n\n因此本题答案为butter。\n\n3. 本题定位词1880，Australian，sent, frozen, to England出现在第四段第三句，而本段第二句是But开头的转折句，且第三句本身是对第二句的进一步展开，第二句中的they could export meat across the oceans与第三句中a shipment of Australian beef and mutton was sent, frozen, to England实际上表达了同样的含义，所以文中beef and mutton实际上就是题目中的Two kinds of meat。\n\n因此本题答案为meat。\n\n4. 从文章内容推进的节奏来看，文中首先在第四段提到了crystals formed并且this spoilt the flavor and texture of the food的问题，随后从第五段开始写Clarence Birdseye的经历，但此处从1912开始，第六段写了1917年和1929年，也就是到了1917 onwards的阶段，第七段出现了innovations 的具体作用，即reduced the damage that crystals caused，这里的创新解决了前文中提到过的问题。\n\n因此本题答案为crystals。\n\n5. 题目中关于packaging products的信息在文中第七段第三句中出现，并且句中the first transparent material for food packaging的表述也与题目中visible的含义一致，因此可在本句解题，句中说到的with表示对方式的考查，文中原文为the use of cellophane，因此可见此处the use of 和题目中with是同义替换。\n\n因此本题答案为cellophane。\n\n6. 题目中定位词对应第九段第一句，其中说道sales increased in the early 1940s，以及a boost to the frozen food industry，而题目中考查的because of a shortage of在文中对应because tin was being used for munitions，由此可以判断答案为tin，本题还可以通过本段第二句进行进一步印证，其中提到了save tin for the war effort以及frozen foods were abundant and cheap。\n\n因此本题答案为tin。\n\n7. 题目中定位词出现在文中第九段，这里分别写到了by the 1950s和By 1953，通过阅读文章内容可以看到，refrigerator technology had developed far enough，并且33 million US families owned a refrigerator，因此可以确定题目中信息应当是A large number of homes now had a refrigerator。这里定冠词a也可以作为辅助解题的信息。\n\n因此本题答案为refrigerator。",
+          "promptHtml": "·[2] ______was kept cool by ice during transportation in specially adapted trains."
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "· Two kinds of [3] ______were the first frozen food shipped to England.",
+          "answers": [
+            "meat"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8552_304311",
+          "explanation": "1. 本题题干中的定位词2,000 years ago和South America出现在第一段第三句，在句中可以看到a unique means of conserving potatoes，随后第四句的内容与题目中a method of freezing then drying的说法一致，而在第五句中也说到preserved their nutritional value，由此可知这里的their就是前文的potatoes。\n\n因此本题答案为potatoes。\n\n2. 本题定位词可以在文章第二段第三句中找到，其中kept cool by ice对应文中putting blocks of ice，transportation in specially adapted trains对应文中in insulated rail cars，而题目中问到的运送物品，在文中to send butter from Ogdensburg, New York, to Boston的表述中可以找到。\n\n因此本题答案为butter。\n\n3. 本题定位词1880，Australian，sent, frozen, to England出现在第四段第三句，而本段第二句是But开头的转折句，且第三句本身是对第二句的进一步展开，第二句中的they could export meat across the oceans与第三句中a shipment of Australian beef and mutton was sent, frozen, to England实际上表达了同样的含义，所以文中beef and mutton实际上就是题目中的Two kinds of meat。\n\n因此本题答案为meat。\n\n4. 从文章内容推进的节奏来看，文中首先在第四段提到了crystals formed并且this spoilt the flavor and texture of the food的问题，随后从第五段开始写Clarence Birdseye的经历，但此处从1912开始，第六段写了1917年和1929年，也就是到了1917 onwards的阶段，第七段出现了innovations 的具体作用，即reduced the damage that crystals caused，这里的创新解决了前文中提到过的问题。\n\n因此本题答案为crystals。\n\n5. 题目中关于packaging products的信息在文中第七段第三句中出现，并且句中the first transparent material for food packaging的表述也与题目中visible的含义一致，因此可在本句解题，句中说到的with表示对方式的考查，文中原文为the use of cellophane，因此可见此处the use of 和题目中with是同义替换。\n\n因此本题答案为cellophane。\n\n6. 题目中定位词对应第九段第一句，其中说道sales increased in the early 1940s，以及a boost to the frozen food industry，而题目中考查的because of a shortage of在文中对应because tin was being used for munitions，由此可以判断答案为tin，本题还可以通过本段第二句进行进一步印证，其中提到了save tin for the war effort以及frozen foods were abundant and cheap。\n\n因此本题答案为tin。\n\n7. 题目中定位词出现在文中第九段，这里分别写到了by the 1950s和By 1953，通过阅读文章内容可以看到，refrigerator technology had developed far enough，并且33 million US families owned a refrigerator，因此可以确定题目中信息应当是A large number of homes now had a refrigerator。这里定冠词a也可以作为辅助解题的信息。\n\n因此本题答案为refrigerator。",
+          "promptHtml": "· Two kinds of [3] ______were the first frozen food shipped to England."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "-quick-freezing methods, so that [4] ______ did not spoil the food.",
+          "answers": [
+            "crystals"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8552_965270",
+          "explanation": "1. 本题题干中的定位词2,000 years ago和South America出现在第一段第三句，在句中可以看到a unique means of conserving potatoes，随后第四句的内容与题目中a method of freezing then drying的说法一致，而在第五句中也说到preserved their nutritional value，由此可知这里的their就是前文的potatoes。\n\n因此本题答案为potatoes。\n\n2. 本题定位词可以在文章第二段第三句中找到，其中kept cool by ice对应文中putting blocks of ice，transportation in specially adapted trains对应文中in insulated rail cars，而题目中问到的运送物品，在文中to send butter from Ogdensburg, New York, to Boston的表述中可以找到。\n\n因此本题答案为butter。\n\n3. 本题定位词1880，Australian，sent, frozen, to England出现在第四段第三句，而本段第二句是But开头的转折句，且第三句本身是对第二句的进一步展开，第二句中的they could export meat across the oceans与第三句中a shipment of Australian beef and mutton was sent, frozen, to England实际上表达了同样的含义，所以文中beef and mutton实际上就是题目中的Two kinds of meat。\n\n因此本题答案为meat。\n\n4. 从文章内容推进的节奏来看，文中首先在第四段提到了crystals formed并且this spoilt the flavor and texture of the food的问题，随后从第五段开始写Clarence Birdseye的经历，但此处从1912开始，第六段写了1917年和1929年，也就是到了1917 onwards的阶段，第七段出现了innovations 的具体作用，即reduced the damage that crystals caused，这里的创新解决了前文中提到过的问题。\n\n因此本题答案为crystals。\n\n5. 题目中关于packaging products的信息在文中第七段第三句中出现，并且句中the first transparent material for food packaging的表述也与题目中visible的含义一致，因此可在本句解题，句中说到的with表示对方式的考查，文中原文为the use of cellophane，因此可见此处the use of 和题目中with是同义替换。\n\n因此本题答案为cellophane。\n\n6. 题目中定位词对应第九段第一句，其中说道sales increased in the early 1940s，以及a boost to the frozen food industry，而题目中考查的because of a shortage of在文中对应because tin was being used for munitions，由此可以判断答案为tin，本题还可以通过本段第二句进行进一步印证，其中提到了save tin for the war effort以及frozen foods were abundant and cheap。\n\n因此本题答案为tin。\n\n7. 题目中定位词出现在文中第九段，这里分别写到了by the 1950s和By 1953，通过阅读文章内容可以看到，refrigerator technology had developed far enough，并且33 million US families owned a refrigerator，因此可以确定题目中信息应当是A large number of homes now had a refrigerator。这里定冠词a也可以作为辅助解题的信息。\n\n因此本题答案为refrigerator。",
+          "promptHtml": "-quick-freezing methods, so that [4] ______ did not spoil the food."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "-packaging products with [5] ______, so the product was visible.",
+          "answers": [
+            "cellophane"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8552_895073",
+          "explanation": "1. 本题题干中的定位词2,000 years ago和South America出现在第一段第三句，在句中可以看到a unique means of conserving potatoes，随后第四句的内容与题目中a method of freezing then drying的说法一致，而在第五句中也说到preserved their nutritional value，由此可知这里的their就是前文的potatoes。\n\n因此本题答案为potatoes。\n\n2. 本题定位词可以在文章第二段第三句中找到，其中kept cool by ice对应文中putting blocks of ice，transportation in specially adapted trains对应文中in insulated rail cars，而题目中问到的运送物品，在文中to send butter from Ogdensburg, New York, to Boston的表述中可以找到。\n\n因此本题答案为butter。\n\n3. 本题定位词1880，Australian，sent, frozen, to England出现在第四段第三句，而本段第二句是But开头的转折句，且第三句本身是对第二句的进一步展开，第二句中的they could export meat across the oceans与第三句中a shipment of Australian beef and mutton was sent, frozen, to England实际上表达了同样的含义，所以文中beef and mutton实际上就是题目中的Two kinds of meat。\n\n因此本题答案为meat。\n\n4. 从文章内容推进的节奏来看，文中首先在第四段提到了crystals formed并且this spoilt the flavor and texture of the food的问题，随后从第五段开始写Clarence Birdseye的经历，但此处从1912开始，第六段写了1917年和1929年，也就是到了1917 onwards的阶段，第七段出现了innovations 的具体作用，即reduced the damage that crystals caused，这里的创新解决了前文中提到过的问题。\n\n因此本题答案为crystals。\n\n5. 题目中关于packaging products的信息在文中第七段第三句中出现，并且句中the first transparent material for food packaging的表述也与题目中visible的含义一致，因此可在本句解题，句中说到的with表示对方式的考查，文中原文为the use of cellophane，因此可见此处the use of 和题目中with是同义替换。\n\n因此本题答案为cellophane。\n\n6. 题目中定位词对应第九段第一句，其中说道sales increased in the early 1940s，以及a boost to the frozen food industry，而题目中考查的because of a shortage of在文中对应because tin was being used for munitions，由此可以判断答案为tin，本题还可以通过本段第二句进行进一步印证，其中提到了save tin for the war effort以及frozen foods were abundant and cheap。\n\n因此本题答案为tin。\n\n7. 题目中定位词出现在文中第九段，这里分别写到了by the 1950s和By 1953，通过阅读文章内容可以看到，refrigerator technology had developed far enough，并且33 million US families owned a refrigerator，因此可以确定题目中信息应当是A large number of homes now had a refrigerator。这里定冠词a也可以作为辅助解题的信息。\n\n因此本题答案为refrigerator。",
+          "promptHtml": "-packaging products with [5] ______, so the product was visible."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "· Frozen food became popular because of a shortage of [6] ______.",
+          "answers": [
+            "tin"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8552_367274",
+          "explanation": "1. 本题题干中的定位词2,000 years ago和South America出现在第一段第三句，在句中可以看到a unique means of conserving potatoes，随后第四句的内容与题目中a method of freezing then drying的说法一致，而在第五句中也说到preserved their nutritional value，由此可知这里的their就是前文的potatoes。\n\n因此本题答案为potatoes。\n\n2. 本题定位词可以在文章第二段第三句中找到，其中kept cool by ice对应文中putting blocks of ice，transportation in specially adapted trains对应文中in insulated rail cars，而题目中问到的运送物品，在文中to send butter from Ogdensburg, New York, to Boston的表述中可以找到。\n\n因此本题答案为butter。\n\n3. 本题定位词1880，Australian，sent, frozen, to England出现在第四段第三句，而本段第二句是But开头的转折句，且第三句本身是对第二句的进一步展开，第二句中的they could export meat across the oceans与第三句中a shipment of Australian beef and mutton was sent, frozen, to England实际上表达了同样的含义，所以文中beef and mutton实际上就是题目中的Two kinds of meat。\n\n因此本题答案为meat。\n\n4. 从文章内容推进的节奏来看，文中首先在第四段提到了crystals formed并且this spoilt the flavor and texture of the food的问题，随后从第五段开始写Clarence Birdseye的经历，但此处从1912开始，第六段写了1917年和1929年，也就是到了1917 onwards的阶段，第七段出现了innovations 的具体作用，即reduced the damage that crystals caused，这里的创新解决了前文中提到过的问题。\n\n因此本题答案为crystals。\n\n5. 题目中关于packaging products的信息在文中第七段第三句中出现，并且句中the first transparent material for food packaging的表述也与题目中visible的含义一致，因此可在本句解题，句中说到的with表示对方式的考查，文中原文为the use of cellophane，因此可见此处the use of 和题目中with是同义替换。\n\n因此本题答案为cellophane。\n\n6. 题目中定位词对应第九段第一句，其中说道sales increased in the early 1940s，以及a boost to the frozen food industry，而题目中考查的because of a shortage of在文中对应because tin was being used for munitions，由此可以判断答案为tin，本题还可以通过本段第二句进行进一步印证，其中提到了save tin for the war effort以及frozen foods were abundant and cheap。\n\n因此本题答案为tin。\n\n7. 题目中定位词出现在文中第九段，这里分别写到了by the 1950s和By 1953，通过阅读文章内容可以看到，refrigerator technology had developed far enough，并且33 million US families owned a refrigerator，因此可以确定题目中信息应当是A large number of homes now had a refrigerator。这里定冠词a也可以作为辅助解题的信息。\n\n因此本题答案为refrigerator。",
+          "promptHtml": "· Frozen food became popular because of a shortage of [6] ______."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "· A large number of homes now had a [7] ______.",
+          "answers": [
+            "refrigerator"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8552_406679",
+          "explanation": "1. 本题题干中的定位词2,000 years ago和South America出现在第一段第三句，在句中可以看到a unique means of conserving potatoes，随后第四句的内容与题目中a method of freezing then drying的说法一致，而在第五句中也说到preserved their nutritional value，由此可知这里的their就是前文的potatoes。\n\n因此本题答案为potatoes。\n\n2. 本题定位词可以在文章第二段第三句中找到，其中kept cool by ice对应文中putting blocks of ice，transportation in specially adapted trains对应文中in insulated rail cars，而题目中问到的运送物品，在文中to send butter from Ogdensburg, New York, to Boston的表述中可以找到。\n\n因此本题答案为butter。\n\n3. 本题定位词1880，Australian，sent, frozen, to England出现在第四段第三句，而本段第二句是But开头的转折句，且第三句本身是对第二句的进一步展开，第二句中的they could export meat across the oceans与第三句中a shipment of Australian beef and mutton was sent, frozen, to England实际上表达了同样的含义，所以文中beef and mutton实际上就是题目中的Two kinds of meat。\n\n因此本题答案为meat。\n\n4. 从文章内容推进的节奏来看，文中首先在第四段提到了crystals formed并且this spoilt the flavor and texture of the food的问题，随后从第五段开始写Clarence Birdseye的经历，但此处从1912开始，第六段写了1917年和1929年，也就是到了1917 onwards的阶段，第七段出现了innovations 的具体作用，即reduced the damage that crystals caused，这里的创新解决了前文中提到过的问题。\n\n因此本题答案为crystals。\n\n5. 题目中关于packaging products的信息在文中第七段第三句中出现，并且句中the first transparent material for food packaging的表述也与题目中visible的含义一致，因此可在本句解题，句中说到的with表示对方式的考查，文中原文为the use of cellophane，因此可见此处the use of 和题目中with是同义替换。\n\n因此本题答案为cellophane。\n\n6. 题目中定位词对应第九段第一句，其中说道sales increased in the early 1940s，以及a boost to the frozen food industry，而题目中考查的because of a shortage of在文中对应because tin was being used for munitions，由此可以判断答案为tin，本题还可以通过本段第二句进行进一步印证，其中提到了save tin for the war effort以及frozen foods were abundant and cheap。\n\n因此本题答案为tin。\n\n7. 题目中定位词出现在文中第九段，这里分别写到了by the 1950s和By 1953，通过阅读文章内容可以看到，refrigerator technology had developed far enough，并且33 million US families owned a refrigerator，因此可以确定题目中信息应当是A large number of homes now had a refrigerator。这里定冠词a也可以作为辅助解题的信息。\n\n因此本题答案为refrigerator。",
+          "promptHtml": "· A large number of homes now had a [7] ______."
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>The history of frozen food</strong></p>\n\n\t\t\t<p><strong>2,000 years ago, South America</strong></p>\n\n\t\t\t<p>· People conserved the nutritional value of <strong>[1] ______</strong>, using a method of freezing then drying.</p>\n\n\t\t\t<p><strong>1851, USA</strong></p>\n\n\t\t\t<p>·<strong>[2] ______</strong>was kept cool by ice during transportation in specially adapted trains.</p>\n\n\t\t\t<p><strong>1880, Australia</strong></p>\n\n\t\t\t<p>· Two kinds of <strong>[3] ______</strong>were the first frozen food shipped to England.</p>\n\n\t\t\t<p><strong>1917 onwards, USA</strong></p>\n\n\t\t\t<p>· Clarence Birdseye introduced innovations including:</p>\n\n\t\t\t<p>   -quick-freezing methods, so that <strong>[4] ______</strong> did not spoil the food.</p>\n\n\t\t\t<p>   -packaging products with <strong>[5] ______</strong>, so the product was visible.</p>\n\n\t\t\t<p><strong>Early 1940s, USA</strong></p>\n\n\t\t\t<p>· Frozen food became popular because of a shortage of <strong>[6] ______</strong>.</p>\n\n\t\t\t<p><strong>1950s, USA</strong></p>\n\n\t\t\t<p>· A large number of homes now had a <strong>[7] ______</strong>.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 8–13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "The ice transportation business made some Boston ship owners very wealthy in the early 1800s.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8552_177905",
+          "explanation": "第二段第二句：In the early 1800s, ship owners from Boston, USA, had enormous blocks of Arctic ice towed all over the Atlantic for the purpose of food preservation.\n\n通过题目中的定位词，可以将本题定位至第二段第二句，不难发现这里主要讲的是船主们在大西洋运输来自北极的巨大冰块，用于食品保鲜，而没有涉及到这些船主是否因此而变得very wealthy。保险起见，可以对本句的前后句也进行阅读检查，发现也没有提到是否very wealthy的话题。\n\n因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "A disadvantage of the freezing process invented in Australia was that it affected the taste of food.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8552_899407",
+          "explanation": "第四段第五句：During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, this spoilt the flavor and texture of the food.\n\n关于澳大利亚制冷技术的内容从文章第三段就有提及，这里重点描述这种工艺的具体实现过程，第四段则重点描述其用途，其中第五句话讲到冷冻过程中，食物细胞内形成冰晶，随后冰晶膨胀，细胞破裂，这会破坏食物的口味和质地。可见这种工艺的缺点之一是spoilt the flavor，也就是题目中的affected the taste of food。\n\n因此本题答案为TRUE。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Clarence Birdseye travelled to Labrador in order to learn how the Inuit people froze fish.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8552_247686",
+          "explanation": "第五段第二句：In 1912, a biology student in Massachusetts, USA, named Clarence Birdseye, ran out of money and went to Labrador in Canada to trap and trade furs.\n\n本题问的是Clarence Birdseye前往Labrador的目的，在文章第五段第二句中有提到，当时Clarence Birdseye的情况是ran out of money，之所以去Labrador是为了trap and trade furs，因此关于目的，文中有提及，并且不是题目中的learn how the Inuit people froze fish。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Swanson Foods invested a great deal of money in the promotion of the TV Dinner.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8552_364541",
+          "explanation": "第十段第三句：In 1954, the company adapted some of Birdseye’s freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first ‘TV Dinner’.\n\n根据题目中的定位词可以在文章第十段找到相应内容，其中第三句说到公司推出TV Dinner时用了a huge advertising budget，这与题目中invested a great deal of money in the promotion的表述是一致的。\n\n因此本题答案为TRUE。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Swanson Foods developed a new style of container for the launch of the TV Dinner.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8552_454136",
+          "explanation": "第十段第四句：This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that was used by airlines.\n\n本题依然说的是TV Dinner，关于盛放食物的container，文中第十段第四句说的是served in the same segmented aluminum tray that was used by airlines，也就是说，文中已经提到了用什么来盛放食物，因此可以排除NOT GIVEN，而从文中可以看到，实际的情况是用的与航空餐同样的segmented aluminum tray，也就是铝制餐盘，而不是题目中developed a new style of container，因此题目信息与原文不一致。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "The US frozen food industry is currently the largest in the world.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8552_400162",
+          "explanation": "第十一段第一、二句：Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of that sold to consumers for home consumption. The remaining $40 billion in frozen food sales come through restaurants, cafeterias, hospitals and schools, and that represents a third of the total food service sales.\n\n本文第十一段的两句话着重讲了美国冷冻食品产业的规模，以及每年营业额有哪几部分构成，但是关于题目中currently the largest in the world的信息并没有提及，文中既没有讲到美国冷冻食品业在全球的份额或排名，也没有讲到与其他国家产业规模的对比。\n\n因此本题答案为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>Frozen Food</b></span></p><p>A US perspective on the development of the frozen food industry</p><p>At some point in history, humans discovered that ice preserved food. There is evidence that winter ice was stored to preserve food in the summer as far back as 10,000 years ago. Two thousand years ago, the inhabitants of South America’s Andean mountains had a unique means of conserving potatoes for later consumption. They froze them overnight, then trampled them to squeeze out the moisture, then dried them in the sun. This preserved their nutritional value—if not their aesthetic appeal.</p><p>Natural ice remained the main form of refrigeration until late in the 19th century. In the early 1800s, ship owners from Boston, USA, had enormous blocks of Arctic ice towed all over the Atlantic for the purpose of food preservation. In 1851, railroads first began putting blocks of ice in insulated rail cars to send butter from Ogdensburg, New York, to Boston.</p><p>Finally, in 1870, Australian inventors found a way to make ‘mechanical ice’. They used a compressor to force a gas—ammonia at first and later Freon—through a condenser. The compressed gas gave up some of its heat as it moved through the condenser. Then the gas was released quickly into a low-pressure evaporator coil where it became liquid and cold. Air was blown over the evaporator coil and then this cooled air passed into an insulated compartment, lowering its temperature to freezing point.</p><p>Initially, this process was invented to keep Australian beer cool even in hot weather. But Australian cattlemen were quick to realize that, if they could put this new invention on a ship, they could export meat across the oceans. In 1880, a shipment of Australian beef and mutton was sent, frozen, to England. While the food frozen this way was still palatable, there was some deterioration. During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, this spoilt the flavor and texture of the food.</p><p>The modern frozen food industry began with the indigenous Inuit people of Canada. In 1912, a biology student in Massachusetts, USA, named Clarence Birdseye, ran out of money and went to Labrador in Canada to trap and trade furs. While he was there, he became fascinated with how the Inuit would quickly freeze fish in the Arctic air. The fish looked and tasted fresh even months later. </p><p>Birdseye returned to the USA in 1917 and began developing mechanical freezers capable of quick-freezing food. Birdseye methodically kept inventing better freezers and gradually built a business selling frozen fish from Gloucester, Massachusetts. In 1929, his business was sold and became General Foods, but he stayed with the company as director of research, and his division continued to innovate.</p><p>Birdseye was responsible for several key innovations that made the frozen food industry possible. He developed quick-freezing techniques that reduced the damage that crystals caused, as well as the technique of freezing the product in the package it was to be sold in. He also introduced the use of cellophane, the first transparent material for food packaging, which allowed consumers to see the quality of the product. Birdseye products also came in convenient size packages that could be prepared with a minimum of effort.</p><p>But there were still obstacles. In the 1930s, few grocery stores could afford to buy freezers for a market that wasn’t established yet. So, Birdseye leased inexpensive freezer cases to them. He also leased insulated railroad cars so that he could ship his products nationwide. However, few consumers had freezers large enough or efficient enough to take advantage of the products.</p><p>Sales increased in the early 1940s, when World War II gave a boost to the frozen food industry because tin was being used for munitions. Canned foods were rationed to save tin for the war effort, while frozen foods were abundant and cheap. Finally, by the 1950s, refrigerator technology had developed far enough to make these appliances affordable for the average family. By 1953, 33 million US families owned a refrigerator, and manufacturers were gradually increasing the size of the freezer compartments in them.</p><p>1950s families were also looking for convenience at mealtimes, so the moment was right for the arrival of the ‘TV Dinner’. Swanson Foods was a large, nationally recognized producer of canned and frozen poultry. In 1954, the company adapted some of Birdseye’s freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first ‘TV Dinner’. This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that was used by airlines. The product was an instant success. Within a year, Swanson had sold 13 million TV dinners. American consumers couldn’t resist the combination of a trusted brand name, a single-serving package and the convenience of a meal that could be ready after only 25 minutes in a hot oven. By 1959, Americans were spending $2.7 billion annually on frozen foods, and half a billion of that was spent on ready-prepared meals such as the TV Dinner.</p><p>Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of that sold to consumers for home consumption. The remaining $40 billion in frozen food sales come through restaurants, cafeterias, hospitals and schools, and that represents a third of the total food service sales.</p>"
+}

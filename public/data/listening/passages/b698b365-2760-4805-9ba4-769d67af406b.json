@@ -1,0 +1,435 @@
+{
+  "id": "b698b365-2760-4805-9ba4-769d67af406b",
+  "title": "St Ninians Isle",
+  "titleCn": "圣尼尼安岛考古发现与银器宝藏",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/b698b365-2760-4805-9ba4-769d67af406b",
+  "duration": 369,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,440"
+    },
+    {
+      "label": "2",
+      "text": "Today, I'm going to introduce a small island called St Ninian's Isle, which lies off the coast of the Shetland Islands in Northern Scotland."
+    },
+    {
+      "label": "3",
+      "text": "00:00:09,240"
+    },
+    {
+      "label": "4",
+      "text": "Although it is quite small, it has become extremely important for historians and archaeologists because of several fascinating discoveries made there."
+    },
+    {
+      "label": "5",
+      "text": "00:00:18,100"
+    },
+    {
+      "label": "6",
+      "text": "Let's begin with the physical landscape of the island. Along this part of Scotland's coastline, there are a number of narrow sea inlets cutting into the land. In the local Scottish dialect, people use a special word to describe this kind of coastal feature. The term voe is used locally, and it refers to what most English speakers would simply call a bay."
+    },
+    {
+      "label": "7",
+      "text": "00:00:41,260"
+    },
+    {
+      "label": "8",
+      "text": "Another interesting point about the island today is that it does not have a permanent population anymore. No one lives there throughout the year. However, the island is far from empty because it supports a wide variety of wildlife, particularly seabirds that nest along the cliffs and rocky shores. These animals are now the island's most common inhabitants, meaning the place is largely populated by birds."
+    },
+    {
+      "label": "9",
+      "text": "00:01:04,720"
+    },
+    {
+      "label": "10",
+      "text": "Moving on to the archaeological findings, researchers have carried out several excavations in the ruins of early religious buildings on the island. During these investigations, they uncovered many remains that were clearly human."
+    },
+    {
+      "label": "11",
+      "text": "00:01:17,700"
+    },
+    {
+      "label": "12",
+      "text": "Among the discoveries were numerous bones, which provided valuable evidence about the people who once lived and worshipped there. Perhaps the most famous discovery, however, was made not by a professional archaeologist, but by a local schoolboy. While exploring the island, he came across a small wooden container buried in the ground. When it was opened, researchers found that every object inside had been made from the same precious metal. All of the items were crafted from silver, which immediately suggested that the collection was extremely valuable. Now let's look more closely at the objects discovered inside the wooden box because these items tell us a great deal about the people who owned them. First of all, the fact that the objects were made of precious metal immediately suggested that the owner was not an ordinary individual. Items like these would have required considerable wealth, and therefore, archaeologists believe that the person who possessed them must have held a relatively high status within the local community. When researchers examined the contents of the box more carefully, they discovered a group of eating vessels."
+    },
+    {
+      "label": "13",
+      "text": "00:02:24,560"
+    },
+    {
+      "label": "14",
+      "text": "Researchers counted eight pieces of tableware in total, most of which were small bowls. Most were probably used for every day meals, although one was noticeably larger and may have been intended for ceremonial purposes. Another particularly interesting item was a spoon with a decorated handle. At the end of the handle, craftsmen had carved the image of an animal. The design clearly represented a dog, and the carving showed the animal's head, a decorative style that can still be seen in later metalwork traditions."
+    },
+    {
+      "label": "15",
+      "text": "00:02:57,900"
+    },
+    {
+      "label": "16",
+      "text": "In addition to the bowls and spoons, archaeologists identified another unusual object among the collection. It was a small metal implement whose exact purpose is still debated. However, based on its shape and design, experts believe it functioned as a small tool designed to remove shellfish from their shells while eating. For many years, researchers assumed that the collection of objects must have belonged to a church since the items were discovered close to the ruins of religious buildings. However, more recent interpretations suggest a different explanation. The style and variety of the objects indicate that they were probably part of a private collection owned by a family rather than property belonging to the church itself."
+    },
+    {
+      "label": "17",
+      "text": "00:03:40,350"
+    },
+    {
+      "label": "18",
+      "text": "The final mystery concerns why the items were hidden in the first place. Archaeologists believe that the owners deliberately buried the box in order to protect their valuables. At that time, communities in the region sometimes faced raids or attacks, so it is likely that the people who hid the treasure believed they were in danger and hoped to return later to retrieve it."
+    },
+    {
+      "label": "19",
+      "text": "00:04:00,660"
+    },
+    {
+      "label": "20",
+      "text": "Unfortunately, it seems that they never came back, leaving the treasure to remain hidden for centuries until it was eventually rediscovered."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below. \nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "3504db2c-97b8-4c02-b432-39580268b5b1",
+          "prompt": "**St Ninian's Isle**\n\n**Geography**\n·**31** The island lies beside a narrow sea inlet known locally as a voe, which in the Scottish dialect means a _____ .",
+          "answers": [
+            "bay"
+          ],
+          "rawAnswer": "bay",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The term voe is used locally, and it refers to what most English speakers would simply call a bay"
+          },
+          "keywordPairs": [
+            {
+              "question": "in the Scottish dialect means",
+              "article": "is used locally, and it refers to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "4bcbbc16-f232-43cf-b11a-8c186ad927ee",
+          "prompt": "·**32** Nowadays the island is no longer inhabited by people, and the only living creatures regularly seen there are _____ .",
+          "answers": [
+            "birds"
+          ],
+          "rawAnswer": "birds",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These animals are now the island's most common inhabitants, meaning the place is largely populated by birds"
+          },
+          "keywordPairs": [
+            {
+              "question": "the only living creatures regularly seen",
+              "article": "the place is largely populated by"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "c33b9fd9-4a96-47e0-8afe-a21e495373c2",
+          "prompt": "**Archaeological Evidence**\n·**33** Excavations in the remains of early churches uncovered a large number of human _____.",
+          "answers": [
+            "bones"
+          ],
+          "rawAnswer": "bones",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Among the discoveries were numerous bones, which provided valuable evidence about the people who once lived and worshipped there"
+          },
+          "keywordPairs": [
+            {
+              "question": "Excavations",
+              "article": "discoveries"
+            },
+            {
+              "question": "the remains of",
+              "article": "the ruins of"
+            },
+            {
+              "question": "a large number of",
+              "article": "numerous"
+            },
+            {
+              "question": "human",
+              "article": "people who once lived and worshipped there"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "f0099d48-5f7a-44d2-950e-0d1228451dfd",
+          "prompt": "·**34** A local boy once discovered a wooden box containing objects made entirely of a valuable metal, _____ .",
+          "answers": [
+            "silver"
+          ],
+          "rawAnswer": "silver",
+          "evidence": {
+            "paragraph": "",
+            "quote": "All of the items were crafted from silver, which immediately suggested that the collection was extremely valuable"
+          },
+          "keywordPairs": [
+            {
+              "question": "containing",
+              "article": "All of the"
+            },
+            {
+              "question": "made entirely of",
+              "article": "were crafted from"
+            },
+            {
+              "question": "valuable",
+              "article": "precious"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "89567ef5-a773-4f3a-880e-727ff2e3407b",
+          "prompt": "·**35** Because of the value of these items, researchers believe the owner must have had a high social _____ .",
+          "answers": [
+            "status"
+          ],
+          "rawAnswer": "status",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Items like these would have required considerable wealth, and therefore, archaeologists believe that the person who possessed them must have held a relatively high status within the local community"
+          },
+          "keywordPairs": [
+            {
+              "question": "Because of the value of these items",
+              "article": "Items like these would have required considerable wealth"
+            },
+            {
+              "question": "researchers",
+              "article": "archaeologists"
+            },
+            {
+              "question": "the owner",
+              "article": "the person who possessed them"
+            },
+            {
+              "question": "had",
+              "article": "held"
+            },
+            {
+              "question": "a high social",
+              "article": "a relatively high;within the local community"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "b4186b9c-27a8-4d94-8c1a-e279b9c22e8e",
+          "prompt": "**Items in the Treasure**\n·**36** The box contained eight ceremonial and domestic _____ .",
+          "answers": [
+            "bowls"
+          ],
+          "rawAnswer": "bowls",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers counted eight pieces of tableware in total, most of which were small bowls. Most were probably used for every day meals, although one was noticeably larger and may have been intended for ceremonial purposes"
+          },
+          "keywordPairs": [
+            {
+              "question": "The box contained",
+              "article": "Researchers counted;in the box"
+            },
+            {
+              "question": "eight",
+              "article": "eight pieces of tableware in total"
+            },
+            {
+              "question": "ceremonial and domestic",
+              "article": "for ceremonial purposes;for everyday meals"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "14e2edfe-c194-4815-bf0a-9833702285f1",
+          "prompt": "·**37** One spoon handle features a carved animal _____ representing a dog.",
+          "answers": [
+            "head"
+          ],
+          "rawAnswer": "head",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The design clearly represented a dog, and the carving showed the animal's head, a decorative style that can still be seen in later metalwork traditions"
+          },
+          "keywordPairs": [
+            {
+              "question": "features a carved animal",
+              "article": "had carved the image of an animal;the carving showed the animal's"
+            },
+            {
+              "question": "representing a dog",
+              "article": "clearly represented a dog"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "3d0d1bb9-7f10-48e2-9c02-ba8d2597f0ac",
+          "prompt": "·**38** Archaeologists also found a small _____, possibly used when eating shellfish.",
+          "answers": [
+            "tool"
+          ],
+          "rawAnswer": "tool",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, based on its shape and design, experts believe it functioned as a small tool designed to remove shellfish from their shells while eating"
+          },
+          "keywordPairs": [
+            {
+              "question": "Archaeologists",
+              "article": "experts"
+            },
+            {
+              "question": "also found",
+              "article": "identified another unusual object among the collection"
+            },
+            {
+              "question": "a small",
+              "article": "a small metal implement"
+            },
+            {
+              "question": "possibly used when eating shellfish",
+              "article": "designed to remove shellfish from their shells while eating"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "55a2d64e-1040-40af-b24d-a84b5c72983c",
+          "prompt": "·**39** Experts now believe the objects belonged to a _____ rather than being church property.",
+          "answers": [
+            "family"
+          ],
+          "rawAnswer": "family",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For many years, researchers assumed that the collection of objects must have belonged to a church;However, more recent interpretations suggest a different explanation. The style and variety of the objects indicate that they were probably part of a private collection owned by a family rather than property belonging to the church itself"
+          },
+          "keywordPairs": [
+            {
+              "question": "Experts now believe",
+              "article": "more recent interpretations suggest;The style and variety of the objects indicate"
+            },
+            {
+              "question": "the objects",
+              "article": "the collection of objects"
+            },
+            {
+              "question": "belonged to",
+              "article": "owned by;belonging to"
+            },
+            {
+              "question": "rather than being church property",
+              "article": "rather than property belonging to the church itself"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "44848418-ad23-49b8-a814-9a0692b747d2",
+          "prompt": "·**40** The treasure was probably hidden because the owners believed they were in _____ .",
+          "answers": [
+            "danger"
+          ],
+          "rawAnswer": "danger",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At that time, communities in the region sometimes faced raids or attacks, so it is likely that the people who hid the treasure believed they were in danger and hoped to return later to retrieve it"
+          },
+          "keywordPairs": [
+            {
+              "question": "The treasure was probably hidden",
+              "article": "it is likely that the people who hid the treasure"
+            },
+            {
+              "question": "because",
+              "article": "so"
+            },
+            {
+              "question": "the owners",
+              "article": "the people who hid the treasure"
+            },
+            {
+              "question": "believed they were in",
+              "article": "believed they were in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,440</p><p>Today, I'm going to introduce a small island called St Ninian's Isle, which lies off the coast of the Shetland Islands in Northern Scotland. </p><p>00:00:09,240</p><p>Although it is quite small, it has become extremely important for historians and archaeologists because of several fascinating discoveries made there. </p><p>00:00:18,100</p><p>Let's begin with the physical landscape of the island. Along this part of Scotland's coastline, there are a number of narrow sea inlets cutting into the land. In the local Scottish dialect, people use a special word to describe this kind of coastal feature. The term voe is used locally, and it refers to what most English speakers would simply call a bay. </p><p>00:00:41,260</p><p>Another interesting point about the island today is that it does not have a permanent population anymore. No one lives there throughout the year. However, the island is far from empty because it supports a wide variety of wildlife, particularly seabirds that nest along the cliffs and rocky shores. These animals are now the island's most common inhabitants, meaning the place is largely populated by birds. </p><p>00:01:04,720</p><p>Moving on to the archaeological findings, researchers have carried out several excavations in the ruins of early religious buildings on the island. During these investigations, they uncovered many remains that were clearly human. </p><p>00:01:17,700</p><p>Among the discoveries were numerous bones, which provided valuable evidence about the people who once lived and worshipped there. Perhaps the most famous discovery, however, was made not by a professional archaeologist, but by a local schoolboy. While exploring the island, he came across a small wooden container buried in the ground. When it was opened, researchers found that every object inside had been made from the same precious metal. All of the items were crafted from silver, which immediately suggested that the collection was extremely valuable. Now let's look more closely at the objects discovered inside the wooden box because these items tell us a great deal about the people who owned them. First of all, the fact that the objects were made of precious metal immediately suggested that the owner was not an ordinary individual. Items like these would have required considerable wealth, and therefore, archaeologists believe that the person who possessed them must have held a relatively high status within the local community. When researchers examined the contents of the box more carefully, they discovered a group of eating vessels. </p><p>00:02:24,560</p><p>Researchers counted eight pieces of tableware in total, most of which were small bowls. Most were probably used for every day meals, although one was noticeably larger and may have been intended for ceremonial purposes. Another particularly interesting item was a spoon with a decorated handle. At the end of the handle, craftsmen had carved the image of an animal. The design clearly represented a dog, and the carving showed the animal's head, a decorative style that can still be seen in later metalwork traditions. </p><p>00:02:57,900</p><p>In addition to the bowls and spoons, archaeologists identified another unusual object among the collection. It was a small metal implement whose exact purpose is still debated. However, based on its shape and design, experts believe it functioned as a small tool designed to remove shellfish from their shells while eating. For many years, researchers assumed that the collection of objects must have belonged to a church since the items were discovered close to the ruins of religious buildings. However, more recent interpretations suggest a different explanation. The style and variety of the objects indicate that they were probably part of a private collection owned by a family rather than property belonging to the church itself. </p><p>00:03:40,350</p><p>The final mystery concerns why the items were hidden in the first place. Archaeologists believe that the owners deliberately buried the box in order to protect their valuables. At that time, communities in the region sometimes faced raids or attacks, so it is likely that the people who hid the treasure believed they were in danger and hoped to return later to retrieve it. </p><p>00:04:00,660</p>Unfortunately, it seems that they never came back, leaving the treasure to remain hidden for centuries until it was eventually rediscovered.",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/b698b365-2760-4805-9ba4-769d67af406b.mp3",
+    "durationSeconds": 248.058776,
+    "sizeBytes": 992625,
+    "sha256": "84da68b451d77c0a678dc34aa940ad1783954789e52f40a5442537c35bff0551",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:52:51Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1774349532446_m89rnj_ac6cede9_da8735cf.mp3"
+}

@@ -1,0 +1,410 @@
+{
+  "id": "d9cad743-1da2-4b0c-9127-cbd20eae1bbe",
+  "title": "Annual ski and snowboard exhibition",
+  "titleCn": "年度滑雪与单板滑雪展",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/d9cad743-1da2-4b0c-9127-cbd20eae1bbe",
+  "duration": 600,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,340"
+    },
+    {
+      "label": "2",
+      "text": "Section two. You'll hear a coordinator for the annual Ski and Snowboard Exhibition talking to the audience about some practical information for the whole event. First, you have some time to look at questions eleven to fifteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:49,160"
+    },
+    {
+      "label": "4",
+      "text": "Now listen carefully and answer questions eleven to fifteen."
+    },
+    {
+      "label": "5",
+      "text": "00:00:56,620"
+    },
+    {
+      "label": "6",
+      "text": "Good morning, everyone, and welcome to the annual Ski and Snowboard Exhibition held from April the eighth to seventeenth. I am Mary Granger, coordinator of the event this year. The ten-day event features many highlights. As a snow sports lover, I know you are looking forward to a great time here. Now, I'd like to offer you some practical information about the whole event and what to expect from it. This might be the first time coming here for some of you. So for those who are still wondering about the right accommodation, I recommend Sky Hotel. It has its own health and sports club, just like most of the hotels here. But I love it because of its incredibly cozy beds, which guarantees good rest after an exhausting day of exploration. If you haven't brought your own equipment like poles, boots, and skis, they are available for purchase or rent at Ski Set or Snow Rental. The exhibition this year provides a colorful look into the history of skiing and an inspiring peek into the future prospects of the sport. Apart from the fascinating photo exhibitions and the most up-to-date skiing gear like always, this year we have added four computers which can imitate the process of skiing, ensuring the same physical activity and sensations that appear during the skiing process on downhill slopes. But I have to warn you that it might be quite time-consuming to line up for the free trial experience. Many have posed the question as to how to enter the skiing and snowboarding competition. Well, rather than filling out the back of the entrance ticket or bombarding the committee with emails, the most effective method is by checking out the exhibition newsletter delivered every month for availability. At the most beloved local event, the exhibition has also drawn attention from the press. Last year, massive media coverage was on the worrisome amount of snowfalls. In order to avoid the same predicament, several artificial skiing slopes have been built. With more participants this year, we have lowered the entrance fee, which has been widely reported to local newspapers. A bonus for our participants is the ski program. It offers a wide variety of lessons and sessions with qualified instructors, ensuring that all ages and abilities are catered to, from the first-timers to seasoned amateurs. I strongly advise you to sign up for the program, as it is offering an unprecedented thirty percent discount. That's mainly because we are cooperating with the program organizer, who promises affordable prices only for the participants of the festival this year."
+    },
+    {
+      "label": "7",
+      "text": "00:03:45,540"
+    },
+    {
+      "label": "8",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty."
+    },
+    {
+      "label": "9",
+      "text": "00:03:57,520"
+    },
+    {
+      "label": "10",
+      "text": "Now listen and answer questions sixteen to twenty."
+    },
+    {
+      "label": "11",
+      "text": "00:04:04,440"
+    },
+    {
+      "label": "12",
+      "text": "Now, I would like to introduce you to the list of presentations during the following week so that you can better plan your schedule. The first presenter, Simon, is one of our best ski instructors. As an experienced instructor, he will inform you about the dangers that face skiers and snowboarders. Accidents happen mostly to those who are careless or ignorant. Good risk management involves considering both the probability and consequences of an accident. The next speech, titled Solution, is given by Jamie Kurt. A list of problems may occur to novice skiers and snowboarders, so he is going to offer useful information for first-timers on choosing the appropriate gears, the right dress code, and ways of protecting your skin. For instance, some of you may have rented the skiing equipment, but rental footwear is notoriously uncomfortable. Then Jamie will provide instructions to help make your footwear fit better. The third speech is about a documentary introducing skiing and snowboarding and the difference between the two sports. It also depicts a group of snow lovers exploring new slopes with breathtaking views. The director, Andy Fisher, will be there addressing the whole shooting experience. The fourth talk is about the tricks of skiing presented by Harry Tyson. It is most useful for those who have already tried skiing yet still need more practice to master the sport. Harry will teach you how to turn more skillfully. A lot of people can keep their skis roughly parallel, but there's no point if you make it hard to work with and slide around out of control. Useful exercises will also be suggested to improve your parallel skiing technique so that you can tackle steeper slopes and enjoy yourself more. Jason Smith will be the last presenter, mainly addressing towards advanced skiers. He manages to apply snow climbing into skiing. Climbing in soft snow, you are floundering around. Walking becomes harder. So a good trick during climbing is to maintain a wider gait, approximately shoulder width, so that you are more stable while walking. This works for skiing as well."
+    },
+    {
+      "label": "13",
+      "text": "00:06:24,320"
+    },
+    {
+      "label": "14",
+      "text": "That is the end of section two. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-15**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "a7927d70-3531-4015-968c-95f65ab907ef",
+          "prompt": "**11** Why does the speaker recommend the Sky Hotel?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "Because it is quite comfortable",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I recommend Sky Hotel. It has its own health and sports club, just like most of the hotels here. But I love it because of its incredibly cozy beds, which guarantees good rest after an exhausting day of exploration"
+          },
+          "keywordPairs": [
+            {
+              "question": "quite comfortable",
+              "article": "good rest"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "Because it is quite comfortable"
+            },
+            {
+              "value": "B",
+              "text": "Because it provides ski and snowboard equipment rental"
+            },
+            {
+              "value": "C",
+              "text": "Because it has health and sports club"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "2b9cae8a-dc5b-4a8a-8488-c261f1c7c29c",
+          "prompt": "**12** What is new in this year`s exhibition?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "computer simulation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Apart from the fascinating photo exhibitions and the most up-to-date skiing gear like always, this year we have added four computers which can imitate the process of skiing, ensuring the same physical activity and sensations that appear during the skiing process on downhill slopes"
+          },
+          "keywordPairs": [
+            {
+              "question": "computer simulation",
+              "article": "imitate the process of skiing"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "photos of top ski resorts worldwide"
+            },
+            {
+              "value": "B",
+              "text": "ski equipment"
+            },
+            {
+              "value": "C",
+              "text": "computer simulation"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "a99b6b61-ab04-4e40-85a2-2f61e9e0d189",
+          "prompt": "**13** How do people enter the skiing and snowboarding competition?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "They can check out the exhibition.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Many have posed the question as to how to enter the skiing and snowboarding competition. Well, rather than filling out the back of the entrance ticket or bombarding the committee with emails, the most effective method is by checking out the exhibition newsletter delivered every month for availability"
+          },
+          "keywordPairs": [],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "They can send to the committee."
+            },
+            {
+              "value": "B",
+              "text": "They can fill out the back of the entrance ticket."
+            },
+            {
+              "value": "C",
+              "text": "They can check out the exhibition."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "794ddbfe-bbe7-4729-8847-f301aa092d30",
+          "prompt": "**14** What did the media focus on this year?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "reduction in fee",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Last year, massive media coverage was on the worrisome amount of snowfalls. In order to avoid the same predicament, several artificial skiing slopes have been built. With more participants this year, we have lowered the entrance fee, which has been widely reported to local newspapers"
+          },
+          "keywordPairs": [
+            {
+              "question": "reduction in fee",
+              "article": "lowered the entrance fee"
+            },
+            {
+              "question": "media focus",
+              "article": "widely reported"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "not enough snow"
+            },
+            {
+              "value": "B",
+              "text": "reduction in fee"
+            },
+            {
+              "value": "C",
+              "text": "the decline of participants"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "380aa4c2-8915-46c4-903c-7b7eaefead52",
+          "prompt": "**15** Why does the speaker recommend the ski program?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "it provides special offers at the moment.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I strongly advise you to sign up for the program, as it is offering an unprecedented thirty percent discount. That's mainly because we are cooperating with the program organizer, who promises affordable prices only for the participants of the festival this year"
+          },
+          "keywordPairs": [
+            {
+              "question": "special offers",
+              "article": "affordable prices"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "the instructors are quite friendly and patient."
+            },
+            {
+              "value": "B",
+              "text": "in include lessons and sessions that suit only beginners."
+            },
+            {
+              "value": "C",
+              "text": "it provides special offers at the moment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 16-20**\nChoose **FIVE** answers from the box and write the correct letter, **A-F**, next to questions **16-20**.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "d4c353ab-a8a5-4af1-88a9-7938d0fb5d38",
+          "prompt": "Simon`s talk",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "information about skiing safety",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The first presenter, Simon, is one of our best ski instructors. As an experienced instructor, he will inform you about the dangers that face skiers and snowboarders. Accidents happen mostly to those who are careless or ignorant. Good risk management involves considering both the probability and consequences of an accident"
+          },
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "e11e8e3f-c31e-49cd-b6de-c830a959f0ac",
+          "prompt": "Solution",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "how to make the skiing boots comfortable",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The next speech, titled Solution, is given by Jamie Kurt;rental footwear is notoriously uncomfortable. Then Jamie will provide instructions to help make your footwear fit better"
+          },
+          "keywordPairs": [
+            {
+              "question": "boots",
+              "article": "footwear"
+            },
+            {
+              "question": "comfortable",
+              "article": "fit better"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "e7872286-2000-434a-a1dc-2d5243fbf86e",
+          "prompt": "Documentary",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "exploring new destinations",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The third speech is about a documentary introducing skiing and snowboarding and the difference between the two sports. It also depicts a group of snow lovers exploring new slopes with breathtaking views"
+          },
+          "keywordPairs": [
+            {
+              "question": "destinations",
+              "article": "slopes"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "143d4fd3-b4cb-48fd-8ee4-b581e1a100d8",
+          "prompt": "Tricks",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "how to improve the skills of skiing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The fourth talk is about the tricks of skiing presented by Harry Tyson. It is most useful for those who have already tried skiing yet still need more practice to master the sport. Harry will teach you how to turn more skillfully... Useful exercises will also be suggested to improve your parallel skiing technique so that you can tackle steeper slopes and enjoy yourself more"
+          },
+          "keywordPairs": [
+            {
+              "question": "technique",
+              "article": "skills "
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "e9094109-02e2-4d19-ab2f-436574b3e97e",
+          "prompt": "Johnson`s talk",
+          "answers": [
+            "D"
+          ],
+          "rawAnswer": "how to combine other activities with skiing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Jason Smith will be the last presenter;He manages to apply snow climbing into skiing. Climbing in soft snow;This works for skiing as well"
+          },
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "exploring new destinations"
+        },
+        {
+          "value": "B",
+          "text": "how to make the skiing boots comfortable"
+        },
+        {
+          "value": "C",
+          "text": "how to become a ski instructor"
+        },
+        {
+          "value": "D",
+          "text": "how to combine other activities with skiing"
+        },
+        {
+          "value": "E",
+          "text": "how to improve the skills of skiing"
+        },
+        {
+          "value": "F",
+          "text": "information about skiing safety"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "配对题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,340</p><p>Section two. You'll hear a coordinator for the annual Ski and Snowboard Exhibition talking to the audience about some practical information for the whole event. First, you have some time to look at questions eleven to fifteen. </p><p>00:00:49,160</p><p>Now listen carefully and answer questions eleven to fifteen. </p><p>00:00:56,620</p><p>Good morning, everyone, and welcome to the annual Ski and Snowboard Exhibition held from April the eighth to seventeenth. I am Mary Granger, coordinator of the event this year. The ten-day event features many highlights. As a snow sports lover, I know you are looking forward to a great time here. Now, I'd like to offer you some practical information about the whole event and what to expect from it. This might be the first time coming here for some of you. So for those who are still wondering about the right accommodation, I recommend Sky Hotel. It has its own health and sports club, just like most of the hotels here. But I love it because of its incredibly cozy beds, which guarantees good rest after an exhausting day of exploration. If you haven't brought your own equipment like poles, boots, and skis, they are available for purchase or rent at Ski Set or Snow Rental. The exhibition this year provides a colorful look into the history of skiing and an inspiring peek into the future prospects of the sport. Apart from the fascinating photo exhibitions and the most up-to-date skiing gear like always, this year we have added four computers which can imitate the process of skiing, ensuring the same physical activity and sensations that appear during the skiing process on downhill slopes. But I have to warn you that it might be quite time-consuming to line up for the free trial experience. Many have posed the question as to how to enter the skiing and snowboarding competition. Well, rather than filling out the back of the entrance ticket or bombarding the committee with emails, the most effective method is by checking out the exhibition newsletter delivered every month for availability. At the most beloved local event, the exhibition has also drawn attention from the press. Last year, massive media coverage was on the worrisome amount of snowfalls. In order to avoid the same predicament, several artificial skiing slopes have been built. With more participants this year, we have lowered the entrance fee, which has been widely reported to local newspapers. A bonus for our participants is the ski program. It offers a wide variety of lessons and sessions with qualified instructors, ensuring that all ages and abilities are catered to, from the first-timers to seasoned amateurs. I strongly advise you to sign up for the program, as it is offering an unprecedented thirty percent discount. That's mainly because we are cooperating with the program organizer, who promises affordable prices only for the participants of the festival this year. </p><p>00:03:45,540</p><p>Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty. </p><p>00:03:57,520</p><p>Now listen and answer questions sixteen to twenty. </p><p>00:04:04,440</p><p>Now, I would like to introduce you to the list of presentations during the following week so that you can better plan your schedule. The first presenter, Simon, is one of our best ski instructors. As an experienced instructor, he will inform you about the dangers that face skiers and snowboarders. Accidents happen mostly to those who are careless or ignorant. Good risk management involves considering both the probability and consequences of an accident. The next speech, titled Solution, is given by Jamie Kurt. A list of problems may occur to novice skiers and snowboarders, so he is going to offer useful information for first-timers on choosing the appropriate gears, the right dress code, and ways of protecting your skin. For instance, some of you may have rented the skiing equipment, but rental footwear is notoriously uncomfortable. Then Jamie will provide instructions to help make your footwear fit better. The third speech is about a documentary introducing skiing and snowboarding and the difference between the two sports. It also depicts a group of snow lovers exploring new slopes with breathtaking views. The director, Andy Fisher, will be there addressing the whole shooting experience. The fourth talk is about the tricks of skiing presented by Harry Tyson. It is most useful for those who have already tried skiing yet still need more practice to master the sport. Harry will teach you how to turn more skillfully. A lot of people can keep their skis roughly parallel, but there's no point if you make it hard to work with and slide around out of control. Useful exercises will also be suggested to improve your parallel skiing technique so that you can tackle steeper slopes and enjoy yourself more. Jason Smith will be the last presenter, mainly addressing towards advanced skiers. He manages to apply snow climbing into skiing. Climbing in soft snow, you are floundering around. Walking becomes harder. So a good trick during climbing is to maintain a wider gait, approximately shoulder width, so that you are more stable while walking. This works for skiing as well. </p><p>00:06:24,320</p><p>That is the end of section two. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "pending",
+    "src": "",
+    "errorCode": "source_http_404",
+    "sourceUnavailable": true,
+    "sourceVerifiedAt": "2026-10-30T05:48:36Z"
+  },
+  "audioMissing": true,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346387654_c2vudn_6c5df7d1.mp3"
+}

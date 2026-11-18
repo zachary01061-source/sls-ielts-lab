@@ -1,0 +1,316 @@
+{
+  "id": "4a3d6bb2-357b-4e9c-af61-49f20c5fe909",
+  "title": "Penguins in Africa",
+  "titleCn": "非洲企鹅的生存与繁殖习性",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/4a3d6bb2-357b-4e9c-af61-49f20c5fe909",
+  "duration": 600,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,460"
+    },
+    {
+      "label": "2",
+      "text": "Now turn to section four. Section four. You will hear part of a lecture about African penguins. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:21,880"
+    },
+    {
+      "label": "4",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:01:01,460"
+    },
+    {
+      "label": "6",
+      "text": "Good morning, everyone. Today's lecture is about a type of adorable animal, the penguin. When you think of penguins, you may picture them surrounded by snow and ice, but not all penguins live where it's cold. African penguins live in the southern tip of Africa. They are usually found within forty kilometers of the shore and on a number of its surrounding islands. African penguins are also known as jackass penguins because they make donkey-like braying sounds to communicate. African penguins can keep their body temperature at a stable level, but their land habitat can get quite warm. So there are a number of ways for them to stay cool. They limit their daylight movements on breeding sites on land to early mornings and early evenings to avoid too much sun. The pink glands above their eyes can help them cope with the temperate climates. Like other penguins, African penguins spend most of the day feeding in the ocean, which also helps keep them cool. Being a type of small to medium-sized penguin species, African penguins average about sixty centimeters tall and weigh up to three point six kilograms. They have a black stripe and a pattern of unique black spots on their chest. Males are larger than females and have larger beaks. Even though they are categorized as birds, African penguins aren't able to fly because of their heavy bones. Their wings are more like flippers that make them particularly suited for life in the water. When they're on land, their flippers and their tails help them keep their balance and walk upright. African penguins begin to breed at the average age of four. When a male and female pair up, they tend to breed together for the rest of their lives. Most other penguins nest and lay their eggs out in the open, but African penguins have a different approach. They dig holes under bushes out of their own excrement called guano, so they are sheltered from the sun and predators. The African penguins survive on a diet that is comprised mainly of marine organisms. They feed primarily on fish like sardines, along with the occasional squid and shellfish. But when normal food is in short supply, they eat tree roots as well. The streamlined body of the African penguin allows it to move through the water like a rocket, capable of reaching a speed of around twenty kilometers per hour when hunting for food."
+    },
+    {
+      "label": "7",
+      "text": "00:03:35,820"
+    },
+    {
+      "label": "8",
+      "text": "The African penguin's smaller size means that it has many predators, both in the water and also on dry land. Their natural predators at sea include seals and sharks. The biggest threat to them on land is not just towards the adult penguins. The penguin chicks are sometimes taken by seagulls into the air and dropped from above. The seagulls could thus feed on them. At risk from predators, young penguins are protected for about forty days after hatching by both parents. They will leave the colony when they are between three to five months old and will return a few years later. The entire surface of their body is densely covered with feathers, which fall off during the winter. This process is called molting and takes about three weeks to complete. During that time, they are unable to forage. Therefore, prior to this, African penguins spend about five weeks laying down fat deposits. They generally live between ten to fifteen years. However, many do not reach their full lifespan. Their population has drastically declined. Approximately a hundred and twenty thousand African penguins remain in the wild, and their population has decreased by ninety percent in the past sixty years. They are considered to be vulnerable and have been listed as being endangered. Two major factors have contributed to their decline. They are struggling for nesting space due to human disruption and competing for food due to overfishing and pollution. With the limited number of breeding pairs, survivorship becomes difficult for African penguins. This makes them especially vulnerable as environmental conditions change or an outbreak of a disease occurs. For instance, avian malaria has caused twenty-seven percent of the captive breeding penguins' deaths annually. The more genetic diversity there is within a species, the higher the likelihood that at least some of the individuals will adapt and survive."
+    },
+    {
+      "label": "9",
+      "text": "00:05:43,000"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "3979af7f-6bc7-4fb5-884f-1333afd0ef32",
+          "prompt": "**Appearance and lifestyle**\n- live in southern Africa\n- also called Jackass Penguins for the sound they make\n- the **31**_____ of their body remains constant",
+          "answers": [
+            "temperature"
+          ],
+          "rawAnswer": "temperature",
+          "evidence": {
+            "paragraph": "",
+            "quote": "African penguins can keep their body temperature at a stable level"
+          },
+          "keywordPairs": [
+            {
+              "question": "remains",
+              "article": "keep"
+            },
+            {
+              "question": "constant",
+              "article": "stable"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "9484910a-6e8e-4732-b236-0e77776e0f21",
+          "prompt": "- restrict their **32**_____ on land from dawn to dust",
+          "answers": [
+            "movements"
+          ],
+          "rawAnswer": "movements",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They limit their daylight movements on breeding sites on land, to early mornings and early evenings to avoid too much sun"
+          },
+          "keywordPairs": [
+            {
+              "question": "restrict",
+              "article": "limit"
+            },
+            {
+              "question": "from dawn to dusk",
+              "article": "daylight"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "203c978c-9def-4815-b87b-8eaa428f1ed8",
+          "prompt": "- can not fly because of the heavy **33**_____",
+          "answers": [
+            "bones"
+          ],
+          "rawAnswer": "bones",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Even though they are categorized as birds, African penguins aren't able to fly because of their heavy bones"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "b6c29493-39cd-4e7a-8cc2-363565d1fd96",
+          "prompt": "- set up nests in **34**_____ beneath bushes",
+          "answers": [
+            "holes"
+          ],
+          "rawAnswer": "holes",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They dig holes under bushes out of their own excrement called guano"
+          },
+          "keywordPairs": [
+            {
+              "question": "set up",
+              "article": "build"
+            },
+            {
+              "question": "beneath",
+              "article": "under"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "276e47ee-64d1-4b3a-8926-307fadf77e94",
+          "prompt": "- mainly eat fish like sardine, also fed on **35**_____ of the tree",
+          "answers": [
+            "roots"
+          ],
+          "rawAnswer": "roots",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They feed primarily on fish like sardines, along with the occasional squid and shellfish. But when normal food is in short supply, they eat tree roots as well"
+          },
+          "keywordPairs": [
+            {
+              "question": "fed on",
+              "article": "eat"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "c8c44590-ac68-4cd8-b1d4-65de798c4e3f",
+          "prompt": "**Predators**\n- seals\n- **36**_____",
+          "answers": [
+            "sharks"
+          ],
+          "rawAnswer": "sharks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Their natural predators at sea include seals and sharks"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "0367fa7f-2a3e-45b7-9466-a240c6b12b6a",
+          "prompt": "- seagulls (like to prey on penguin **37**_____ )",
+          "answers": [
+            "chicks"
+          ],
+          "rawAnswer": "chicks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The penguin chicks are sometimes taken by seagulls into the air and dropped from above. The seagulls could thus feed on them"
+          },
+          "keywordPairs": [
+            {
+              "question": "prey",
+              "article": "feed"
+            },
+            {
+              "question": "chicks",
+              "article": "young"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "5803ba15-2afe-4e58-80c4-2c7d4289fe80",
+          "prompt": "**Traits and Threats**\n- lose **38**_____ in winter",
+          "answers": [
+            "feathers"
+          ],
+          "rawAnswer": "feathers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The entire surface of their body is densely covered with feathers which fall off during the winter. This process is called molting"
+          },
+          "keywordPairs": [
+            {
+              "question": "lose",
+              "article": "fall off"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "d062969c-455f-4910-a70f-68735b444d52",
+          "prompt": "- fight for nesting **39**_____ and food due to human activities",
+          "answers": [
+            "space"
+          ],
+          "rawAnswer": "space",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They are struggling for nesting space due to human disruption and competing for food due to overfishing and pollution"
+          },
+          "keywordPairs": [
+            {
+              "question": "fight for",
+              "article": "struggling for"
+            },
+            {
+              "question": "activities",
+              "article": "disruption"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "d972f9de-5243-4526-9de8-1b35e6e8cf95",
+          "prompt": "- to improve survivorship, it is helpful to increase the **40**_____ of their genes",
+          "answers": [
+            "diversity"
+          ],
+          "rawAnswer": "diversity",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The more genetic diversity there is within a species, the higher the likelihood that at least some of the individuals will adapt and survive"
+          },
+          "keywordPairs": [
+            {
+              "question": "improve survivorship",
+              "article": "higher likelihood to survive"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,460</p><p>Now turn to section four. Section four. You will hear part of a lecture about African penguins. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:21,880</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:01,460</p><p>Good morning, everyone. Today's lecture is about a type of adorable animal, the penguin. When you think of penguins, you may picture them surrounded by snow and ice, but not all penguins live where it's cold. African penguins live in the southern tip of Africa. They are usually found within forty kilometers of the shore and on a number of its surrounding islands. African penguins are also known as jackass penguins because they make donkey-like braying sounds to communicate. African penguins can keep their body temperature at a stable level, but their land habitat can get quite warm. So there are a number of ways for them to stay cool. They limit their daylight movements on breeding sites on land to early mornings and early evenings to avoid too much sun. The pink glands above their eyes can help them cope with the temperate climates. Like other penguins, African penguins spend most of the day feeding in the ocean, which also helps keep them cool. Being a type of small to medium-sized penguin species, African penguins average about sixty centimeters tall and weigh up to three point six kilograms. They have a black stripe and a pattern of unique black spots on their chest. Males are larger than females and have larger beaks. Even though they are categorized as birds, African penguins aren't able to fly because of their heavy bones. Their wings are more like flippers that make them particularly suited for life in the water. When they're on land, their flippers and their tails help them keep their balance and walk upright. African penguins begin to breed at the average age of four. When a male and female pair up, they tend to breed together for the rest of their lives. Most other penguins nest and lay their eggs out in the open, but African penguins have a different approach. They dig holes under bushes out of their own excrement called guano, so they are sheltered from the sun and predators. The African penguins survive on a diet that is comprised mainly of marine organisms. They feed primarily on fish like sardines, along with the occasional squid and shellfish. But when normal food is in short supply, they eat tree roots as well. The streamlined body of the African penguin allows it to move through the water like a rocket, capable of reaching a speed of around twenty kilometers per hour when hunting for food. </p><p>00:03:35,820</p><p>The African penguin's smaller size means that it has many predators, both in the water and also on dry land. Their natural predators at sea include seals and sharks. The biggest threat to them on land is not just towards the adult penguins. The penguin chicks are sometimes taken by seagulls into the air and dropped from above. The seagulls could thus feed on them. At risk from predators, young penguins are protected for about forty days after hatching by both parents. They will leave the colony when they are between three to five months old and will return a few years later. The entire surface of their body is densely covered with feathers, which fall off during the winter. This process is called molting and takes about three weeks to complete. During that time, they are unable to forage. Therefore, prior to this, African penguins spend about five weeks laying down fat deposits. They generally live between ten to fifteen years. However, many do not reach their full lifespan. Their population has drastically declined. Approximately a hundred and twenty thousand African penguins remain in the wild, and their population has decreased by ninety percent in the past sixty years. They are considered to be vulnerable and have been listed as being endangered. Two major factors have contributed to their decline. They are struggling for nesting space due to human disruption and competing for food due to overfishing and pollution. With the limited number of breeding pairs, survivorship becomes difficult for African penguins. This makes them especially vulnerable as environmental conditions change or an outbreak of a disease occurs. For instance, avian malaria has caused twenty-seven percent of the captive breeding penguins' deaths annually. The more genetic diversity there is within a species, the higher the likelihood that at least some of the individuals will adapt and survive. </p><p>00:05:43,000</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "pending",
+    "src": "",
+    "errorCode": "source_http_404",
+    "sourceUnavailable": true,
+    "sourceVerifiedAt": "2026-10-30T05:44:18Z"
+  },
+  "audioMissing": true,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347508399_nr5xi2_41286850.mp3"
+}

@@ -1,0 +1,247 @@
+{
+  "id": "cambridge-19-test-2-reading-1",
+  "title": "The Industrial Revolution in Britain",
+  "titleCn": "The Industrial Revolution in Britain",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 2
+  },
+  "sourceQuestionId": "8505",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8505",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Industrial Revolution in Britain"
+    },
+    {
+      "label": "2",
+      "text": "The Industrial Revolution began in Britain in the mid-1700s and by the 1830s and 1840s had spread to many other parts of the world, including the United States. In Britain, it was a period when a largely rural, agrarian* society was transformed into an industrialised, urban one. Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries."
+    },
+    {
+      "label": "3",
+      "text": "The foundations of the Industrial Revolution date back to the early 1700s,when the English inventor Thomas Newcomen designed the first modern steam engine. Called the ‘atmospheric steam engine’, Newcomen’s invention was originally used to power machines that pumped water out of mines. In the 1760s, the Scottish engineer James Watt started to adapt one of Newcomen’s models,and succeeded in making it far more efficient. Watt later worked with the English manufacturer Matthew Boulton to invent a new steam engine driven by both the forward and backward strokes of the piston, while the gear mechanism it was connected to produced rotary motion. It was a key innovation that would allowsteam power to spread across British industries."
+    },
+    {
+      "label": "4",
+      "text": "The demand for coal, which was a relatively cheap energy source, grew rapidly during the Industrial Revolution, as it was needed to run not only the factories used to produce manufactured goods, but also steam-powered transportation. In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by 1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool. In addition, steam-powered boats and ships were widely used to carry goods along Britain’s canals as well as across the Atlantic."
+    },
+    {
+      "label": "5",
+      "text": "Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true ‘cottage industry’, with the work performed in small workshops or even homes by individual spinners, weavers and dyers. Starting in the mid-1700s, innovations like the spinning jenny and the power loom made weaving cloth and spinning yarn and thread much easier. With these machines, relatively little labour was required to produce cloth, and the new, mechanised textile factories that opened around the country were quickly able to meet customer demand for cloth both at home and abroad."
+    },
+    {
+      "label": "6",
+      "text": "The British iron industry also underwent major change as it adopted new innovations. Chief among the new techniques was the smelting of iron ore with coke (a material made by heating coal) instead of the traditional charcoal. This method was cheaper and produced metals that were of a higher quality, enabling Britain’s iron and steel production to expand in response to demand created by the Napoleonic Wars (1803–15) and the expansion of the railways from the 1830s."
+    },
+    {
+      "label": "7",
+      "text": "The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances. In 1837, British inventors William Cooke and Charles Wheatstone patented the first commercial telegraphy system. In the 1830s and 1840s, Samuel Morse and other inventors worked on their own versions in the United States. Cooke and Wheatstone’s system was soon used for railway signalling in the UK. As the speed of the new locomotives increased, it was essential to have a fast and effective means of avoiding collisions."
+    },
+    {
+      "label": "8",
+      "text": "The impact of the Industrial Revolution on people’s lives was immense. Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just a few decades. This rapid urbanisation brought significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation."
+    },
+    {
+      "label": "9",
+      "text": "Although industrialisation increased the country’s economic output overall and improved the standard of living for the middle and upper classes, many poor people continued to struggle. Factory workers had to work long hours in dangerous conditions for extremely low wages. These conditions along with the rapid pace of change fuelled opposition to industrialisation. A group of British workers who became known as ‘Luddites’ were British weavers and textile workers who objected to the increased use of mechanised looms and knitting frames. Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood. A few desperate weavers began breaking into factories and smashing textile machines. They called themselves Luddites after Ned Ludd, a young apprentice who was rumoured to have wrecked a textile machine in 1779."
+    },
+    {
+      "label": "10",
+      "text": "The first major instances of machine breaking took place in 1811 in the city of Nottingham, and the practice soon spread across the country. Machine-breaking Luddites attacked and burned factories, and in some cases they even exchanged gunfire with company guards and soldiers. The workers wanted employers to stop installing new machinery, but the British government responded to the uprisings by making machine-breaking punishable by death. The unrest finally reached its peak in April 1812, when a few Luddites were shot during an attack on a mill near Huddersfield. In the days that followed, other Luddites were arrested, and dozens were hanged or transported to Australia. By 1813, the Luddite resistance had all but vanished."
+    },
+    {
+      "label": "11",
+      "text": "* agrarian: relating to the land, especially the use of land for farming"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–7\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 1–7 on your answer sheet.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "· In Watt and Boulton’s steam engine, the movement of the[1] ______ was linked to a gear system.",
+          "answers": [
+            "piston"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8505_476196",
+          "explanation": "1. 译文：在Watt和Boulton的蒸汽机中，______的运动连接着一个齿轮系统。\n\n本题定位简单，给出了两个首字母大写人名帮助定位；虽然第一个人名Watt出现在了上一句话里，但是第二个人名Boulton却到了下一句也就是倒数第二句里才能看到。看懂这个句子，分析清楚the gear mechanism it was connected to中的it指代的是前半个句子里的piston之后，考生即使不知道该词意为“活塞”，也不难确认答案应为piston。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第一句。\n\n2. 译文：需要供应更多的______来为蒸汽机提供动力。\n\n本题虽然没有像上一题中那样提供显眼关键词供考生快速定位，但题干语义并不难懂，距离上一题在原文中的位置也不远。考生只需耐心向后阅读，就会在第三段第一句里看到需要为工厂和蒸汽动力交通工具提供能源的是煤炭，空格内答案应为coal。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n3. 译文：工业革命之前，纺纱工和纺织工的工作地点在家里和______里。\n\n本题的定位之所以不难，是因为题干中的spinners and weavers和home都一模一样地出现在了原文中；但这几个词距离上一道题的文中位置略远，因此本题的定位也不是全无难度。考生如果能抱定平行阅读的策略，顺次阅读原文而同时兼顾两种题型，则在做完第2题而尚未看到本题定位句之前，可以先解答出判断题的第8题，这样更不容易因为没有很快定位到本题而心浮气躁，而是有着“迟早会找到答案”的从容淡定。而一旦看到了本题的定位处，就不难看出这些工人的工作地点除了在家里就是在小作坊里，进而锁定答案为workshops。\n\n4. 译文：一旦发明了珍妮纺纱机和水力织布机，就不再需要那么多______来生产布料了。\n\n本题题干中的两台机器名称一模一样地出现在了上一题定位处的下一句话里；然而单看这句只能知道生产布料变得容易多了，并没有说到因此不再需要那么多什么。考生需要再向后多读一句，才能找到relatively little labour was required这个跟进结果，进而得出答案应为labour/labor。\n\n5. 译文：用焦炭来熔炼铁矿石导致材料有更好的______。\n\n本题距离上一题不远，题干中的主语Smelting of iron ore with coke虽然从词义上来说略显生僻，但是原词重现在了第五段的第二句话里。可惜这句并没有告知冶炼出来的材质会有更好的什么，考生需要耐心看完下一句，找到原文中higher与题干中better的对应，进而得出答案为quality。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第五句。\n\n6. 译文：对铁的需求随着______的增长而升高。\n\n本题的答案与上一道题出自同一句，考生完全可以在看懂该句之后，“一石二鸟”地得知这种更好质量的钢铁能满足英国当时面临拿破仑战争和铁路扩建的需要。在这两种需要中，对应题干growth意思表达的当然是原文中的expansion，从而可得答案应为railway(s)。\n\n7. 译文：这些新兴城市肮脏、拥挤并且缺乏足够的______。\n\n本题在原文中的对应处距离上一题隔了几乎两段的距离。不过，如果考生留意到了这部分笔记填空题中的每个小标题，其实就能从第7题所在部分的副标题Urbanisation获得提示，从而安心略读讲述Communications内容的第六段，顺利来到第七段。本段的篇幅不长，只有三句话，考生只要词汇基础过关，应当就能将原文中的inadequate与题干中的lacked sufficient对应起来，从而得出答案为sanitation。",
+          "promptHtml": "· In Watt and Boulton’s steam engine, the movement of the[1] ______ was linked to a gear system."
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "· A greater supply of [2] ______was required to power steam engines.",
+          "answers": [
+            "coal"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8505_693829",
+          "explanation": "1. 译文：在Watt和Boulton的蒸汽机中，______的运动连接着一个齿轮系统。\n\n本题定位简单，给出了两个首字母大写人名帮助定位；虽然第一个人名Watt出现在了上一句话里，但是第二个人名Boulton却到了下一句也就是倒数第二句里才能看到。看懂这个句子，分析清楚the gear mechanism it was connected to中的it指代的是前半个句子里的piston之后，考生即使不知道该词意为“活塞”，也不难确认答案应为piston。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第一句。\n\n2. 译文：需要供应更多的______来为蒸汽机提供动力。\n\n本题虽然没有像上一题中那样提供显眼关键词供考生快速定位，但题干语义并不难懂，距离上一题在原文中的位置也不远。考生只需耐心向后阅读，就会在第三段第一句里看到需要为工厂和蒸汽动力交通工具提供能源的是煤炭，空格内答案应为coal。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n3. 译文：工业革命之前，纺纱工和纺织工的工作地点在家里和______里。\n\n本题的定位之所以不难，是因为题干中的spinners and weavers和home都一模一样地出现在了原文中；但这几个词距离上一道题的文中位置略远，因此本题的定位也不是全无难度。考生如果能抱定平行阅读的策略，顺次阅读原文而同时兼顾两种题型，则在做完第2题而尚未看到本题定位句之前，可以先解答出判断题的第8题，这样更不容易因为没有很快定位到本题而心浮气躁，而是有着“迟早会找到答案”的从容淡定。而一旦看到了本题的定位处，就不难看出这些工人的工作地点除了在家里就是在小作坊里，进而锁定答案为workshops。\n\n4. 译文：一旦发明了珍妮纺纱机和水力织布机，就不再需要那么多______来生产布料了。\n\n本题题干中的两台机器名称一模一样地出现在了上一题定位处的下一句话里；然而单看这句只能知道生产布料变得容易多了，并没有说到因此不再需要那么多什么。考生需要再向后多读一句，才能找到relatively little labour was required这个跟进结果，进而得出答案应为labour/labor。\n\n5. 译文：用焦炭来熔炼铁矿石导致材料有更好的______。\n\n本题距离上一题不远，题干中的主语Smelting of iron ore with coke虽然从词义上来说略显生僻，但是原词重现在了第五段的第二句话里。可惜这句并没有告知冶炼出来的材质会有更好的什么，考生需要耐心看完下一句，找到原文中higher与题干中better的对应，进而得出答案为quality。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第五句。\n\n6. 译文：对铁的需求随着______的增长而升高。\n\n本题的答案与上一道题出自同一句，考生完全可以在看懂该句之后，“一石二鸟”地得知这种更好质量的钢铁能满足英国当时面临拿破仑战争和铁路扩建的需要。在这两种需要中，对应题干growth意思表达的当然是原文中的expansion，从而可得答案应为railway(s)。\n\n7. 译文：这些新兴城市肮脏、拥挤并且缺乏足够的______。\n\n本题在原文中的对应处距离上一题隔了几乎两段的距离。不过，如果考生留意到了这部分笔记填空题中的每个小标题，其实就能从第7题所在部分的副标题Urbanisation获得提示，从而安心略读讲述Communications内容的第六段，顺利来到第七段。本段的篇幅不长，只有三句话，考生只要词汇基础过关，应当就能将原文中的inadequate与题干中的lacked sufficient对应起来，从而得出答案为sanitation。",
+          "promptHtml": "· A greater supply of [2] ______was required to power steam engines."
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "· Before the Industrial Revolution, spinners and weavers worked at home and in [3] ______",
+          "answers": [
+            "workshops"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8505_483739",
+          "explanation": "1. 译文：在Watt和Boulton的蒸汽机中，______的运动连接着一个齿轮系统。\n\n本题定位简单，给出了两个首字母大写人名帮助定位；虽然第一个人名Watt出现在了上一句话里，但是第二个人名Boulton却到了下一句也就是倒数第二句里才能看到。看懂这个句子，分析清楚the gear mechanism it was connected to中的it指代的是前半个句子里的piston之后，考生即使不知道该词意为“活塞”，也不难确认答案应为piston。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第一句。\n\n2. 译文：需要供应更多的______来为蒸汽机提供动力。\n\n本题虽然没有像上一题中那样提供显眼关键词供考生快速定位，但题干语义并不难懂，距离上一题在原文中的位置也不远。考生只需耐心向后阅读，就会在第三段第一句里看到需要为工厂和蒸汽动力交通工具提供能源的是煤炭，空格内答案应为coal。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n3. 译文：工业革命之前，纺纱工和纺织工的工作地点在家里和______里。\n\n本题的定位之所以不难，是因为题干中的spinners and weavers和home都一模一样地出现在了原文中；但这几个词距离上一道题的文中位置略远，因此本题的定位也不是全无难度。考生如果能抱定平行阅读的策略，顺次阅读原文而同时兼顾两种题型，则在做完第2题而尚未看到本题定位句之前，可以先解答出判断题的第8题，这样更不容易因为没有很快定位到本题而心浮气躁，而是有着“迟早会找到答案”的从容淡定。而一旦看到了本题的定位处，就不难看出这些工人的工作地点除了在家里就是在小作坊里，进而锁定答案为workshops。\n\n4. 译文：一旦发明了珍妮纺纱机和水力织布机，就不再需要那么多______来生产布料了。\n\n本题题干中的两台机器名称一模一样地出现在了上一题定位处的下一句话里；然而单看这句只能知道生产布料变得容易多了，并没有说到因此不再需要那么多什么。考生需要再向后多读一句，才能找到relatively little labour was required这个跟进结果，进而得出答案应为labour/labor。\n\n5. 译文：用焦炭来熔炼铁矿石导致材料有更好的______。\n\n本题距离上一题不远，题干中的主语Smelting of iron ore with coke虽然从词义上来说略显生僻，但是原词重现在了第五段的第二句话里。可惜这句并没有告知冶炼出来的材质会有更好的什么，考生需要耐心看完下一句，找到原文中higher与题干中better的对应，进而得出答案为quality。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第五句。\n\n6. 译文：对铁的需求随着______的增长而升高。\n\n本题的答案与上一道题出自同一句，考生完全可以在看懂该句之后，“一石二鸟”地得知这种更好质量的钢铁能满足英国当时面临拿破仑战争和铁路扩建的需要。在这两种需要中，对应题干growth意思表达的当然是原文中的expansion，从而可得答案应为railway(s)。\n\n7. 译文：这些新兴城市肮脏、拥挤并且缺乏足够的______。\n\n本题在原文中的对应处距离上一题隔了几乎两段的距离。不过，如果考生留意到了这部分笔记填空题中的每个小标题，其实就能从第7题所在部分的副标题Urbanisation获得提示，从而安心略读讲述Communications内容的第六段，顺利来到第七段。本段的篇幅不长，只有三句话，考生只要词汇基础过关，应当就能将原文中的inadequate与题干中的lacked sufficient对应起来，从而得出答案为sanitation。",
+          "promptHtml": "· Before the Industrial Revolution, spinners and weavers worked at home and in [3] ______"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "· Not as much [4] ______was needed to produce cloth once the spinning jenny and power loom were invented.",
+          "answers": [
+            "labour",
+            "labor"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8505_429984",
+          "explanation": "1. 译文：在Watt和Boulton的蒸汽机中，______的运动连接着一个齿轮系统。\n\n本题定位简单，给出了两个首字母大写人名帮助定位；虽然第一个人名Watt出现在了上一句话里，但是第二个人名Boulton却到了下一句也就是倒数第二句里才能看到。看懂这个句子，分析清楚the gear mechanism it was connected to中的it指代的是前半个句子里的piston之后，考生即使不知道该词意为“活塞”，也不难确认答案应为piston。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第一句。\n\n2. 译文：需要供应更多的______来为蒸汽机提供动力。\n\n本题虽然没有像上一题中那样提供显眼关键词供考生快速定位，但题干语义并不难懂，距离上一题在原文中的位置也不远。考生只需耐心向后阅读，就会在第三段第一句里看到需要为工厂和蒸汽动力交通工具提供能源的是煤炭，空格内答案应为coal。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n3. 译文：工业革命之前，纺纱工和纺织工的工作地点在家里和______里。\n\n本题的定位之所以不难，是因为题干中的spinners and weavers和home都一模一样地出现在了原文中；但这几个词距离上一道题的文中位置略远，因此本题的定位也不是全无难度。考生如果能抱定平行阅读的策略，顺次阅读原文而同时兼顾两种题型，则在做完第2题而尚未看到本题定位句之前，可以先解答出判断题的第8题，这样更不容易因为没有很快定位到本题而心浮气躁，而是有着“迟早会找到答案”的从容淡定。而一旦看到了本题的定位处，就不难看出这些工人的工作地点除了在家里就是在小作坊里，进而锁定答案为workshops。\n\n4. 译文：一旦发明了珍妮纺纱机和水力织布机，就不再需要那么多______来生产布料了。\n\n本题题干中的两台机器名称一模一样地出现在了上一题定位处的下一句话里；然而单看这句只能知道生产布料变得容易多了，并没有说到因此不再需要那么多什么。考生需要再向后多读一句，才能找到relatively little labour was required这个跟进结果，进而得出答案应为labour/labor。\n\n5. 译文：用焦炭来熔炼铁矿石导致材料有更好的______。\n\n本题距离上一题不远，题干中的主语Smelting of iron ore with coke虽然从词义上来说略显生僻，但是原词重现在了第五段的第二句话里。可惜这句并没有告知冶炼出来的材质会有更好的什么，考生需要耐心看完下一句，找到原文中higher与题干中better的对应，进而得出答案为quality。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第五句。\n\n6. 译文：对铁的需求随着______的增长而升高。\n\n本题的答案与上一道题出自同一句，考生完全可以在看懂该句之后，“一石二鸟”地得知这种更好质量的钢铁能满足英国当时面临拿破仑战争和铁路扩建的需要。在这两种需要中，对应题干growth意思表达的当然是原文中的expansion，从而可得答案应为railway(s)。\n\n7. 译文：这些新兴城市肮脏、拥挤并且缺乏足够的______。\n\n本题在原文中的对应处距离上一题隔了几乎两段的距离。不过，如果考生留意到了这部分笔记填空题中的每个小标题，其实就能从第7题所在部分的副标题Urbanisation获得提示，从而安心略读讲述Communications内容的第六段，顺利来到第七段。本段的篇幅不长，只有三句话，考生只要词汇基础过关，应当就能将原文中的inadequate与题干中的lacked sufficient对应起来，从而得出答案为sanitation。",
+          "promptHtml": "· Not as much [4] ______was needed to produce cloth once the spinning jenny and power loom were invented."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "· Smelting of iron ore with coke resulted in material that was better [5] ______",
+          "answers": [
+            "quality"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8505_156909",
+          "explanation": "1. 译文：在Watt和Boulton的蒸汽机中，______的运动连接着一个齿轮系统。\n\n本题定位简单，给出了两个首字母大写人名帮助定位；虽然第一个人名Watt出现在了上一句话里，但是第二个人名Boulton却到了下一句也就是倒数第二句里才能看到。看懂这个句子，分析清楚the gear mechanism it was connected to中的it指代的是前半个句子里的piston之后，考生即使不知道该词意为“活塞”，也不难确认答案应为piston。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第一句。\n\n2. 译文：需要供应更多的______来为蒸汽机提供动力。\n\n本题虽然没有像上一题中那样提供显眼关键词供考生快速定位，但题干语义并不难懂，距离上一题在原文中的位置也不远。考生只需耐心向后阅读，就会在第三段第一句里看到需要为工厂和蒸汽动力交通工具提供能源的是煤炭，空格内答案应为coal。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n3. 译文：工业革命之前，纺纱工和纺织工的工作地点在家里和______里。\n\n本题的定位之所以不难，是因为题干中的spinners and weavers和home都一模一样地出现在了原文中；但这几个词距离上一道题的文中位置略远，因此本题的定位也不是全无难度。考生如果能抱定平行阅读的策略，顺次阅读原文而同时兼顾两种题型，则在做完第2题而尚未看到本题定位句之前，可以先解答出判断题的第8题，这样更不容易因为没有很快定位到本题而心浮气躁，而是有着“迟早会找到答案”的从容淡定。而一旦看到了本题的定位处，就不难看出这些工人的工作地点除了在家里就是在小作坊里，进而锁定答案为workshops。\n\n4. 译文：一旦发明了珍妮纺纱机和水力织布机，就不再需要那么多______来生产布料了。\n\n本题题干中的两台机器名称一模一样地出现在了上一题定位处的下一句话里；然而单看这句只能知道生产布料变得容易多了，并没有说到因此不再需要那么多什么。考生需要再向后多读一句，才能找到relatively little labour was required这个跟进结果，进而得出答案应为labour/labor。\n\n5. 译文：用焦炭来熔炼铁矿石导致材料有更好的______。\n\n本题距离上一题不远，题干中的主语Smelting of iron ore with coke虽然从词义上来说略显生僻，但是原词重现在了第五段的第二句话里。可惜这句并没有告知冶炼出来的材质会有更好的什么，考生需要耐心看完下一句，找到原文中higher与题干中better的对应，进而得出答案为quality。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第五句。\n\n6. 译文：对铁的需求随着______的增长而升高。\n\n本题的答案与上一道题出自同一句，考生完全可以在看懂该句之后，“一石二鸟”地得知这种更好质量的钢铁能满足英国当时面临拿破仑战争和铁路扩建的需要。在这两种需要中，对应题干growth意思表达的当然是原文中的expansion，从而可得答案应为railway(s)。\n\n7. 译文：这些新兴城市肮脏、拥挤并且缺乏足够的______。\n\n本题在原文中的对应处距离上一题隔了几乎两段的距离。不过，如果考生留意到了这部分笔记填空题中的每个小标题，其实就能从第7题所在部分的副标题Urbanisation获得提示，从而安心略读讲述Communications内容的第六段，顺利来到第七段。本段的篇幅不长，只有三句话，考生只要词汇基础过关，应当就能将原文中的inadequate与题干中的lacked sufficient对应起来，从而得出答案为sanitation。",
+          "promptHtml": "· Smelting of iron ore with coke resulted in material that was better [5] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "· Demand for iron increased with the growth of the [6] ______.",
+          "answers": [
+            "railways",
+            "railway"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8505_517036",
+          "explanation": "1. 译文：在Watt和Boulton的蒸汽机中，______的运动连接着一个齿轮系统。\n\n本题定位简单，给出了两个首字母大写人名帮助定位；虽然第一个人名Watt出现在了上一句话里，但是第二个人名Boulton却到了下一句也就是倒数第二句里才能看到。看懂这个句子，分析清楚the gear mechanism it was connected to中的it指代的是前半个句子里的piston之后，考生即使不知道该词意为“活塞”，也不难确认答案应为piston。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第一句。\n\n2. 译文：需要供应更多的______来为蒸汽机提供动力。\n\n本题虽然没有像上一题中那样提供显眼关键词供考生快速定位，但题干语义并不难懂，距离上一题在原文中的位置也不远。考生只需耐心向后阅读，就会在第三段第一句里看到需要为工厂和蒸汽动力交通工具提供能源的是煤炭，空格内答案应为coal。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n3. 译文：工业革命之前，纺纱工和纺织工的工作地点在家里和______里。\n\n本题的定位之所以不难，是因为题干中的spinners and weavers和home都一模一样地出现在了原文中；但这几个词距离上一道题的文中位置略远，因此本题的定位也不是全无难度。考生如果能抱定平行阅读的策略，顺次阅读原文而同时兼顾两种题型，则在做完第2题而尚未看到本题定位句之前，可以先解答出判断题的第8题，这样更不容易因为没有很快定位到本题而心浮气躁，而是有着“迟早会找到答案”的从容淡定。而一旦看到了本题的定位处，就不难看出这些工人的工作地点除了在家里就是在小作坊里，进而锁定答案为workshops。\n\n4. 译文：一旦发明了珍妮纺纱机和水力织布机，就不再需要那么多______来生产布料了。\n\n本题题干中的两台机器名称一模一样地出现在了上一题定位处的下一句话里；然而单看这句只能知道生产布料变得容易多了，并没有说到因此不再需要那么多什么。考生需要再向后多读一句，才能找到relatively little labour was required这个跟进结果，进而得出答案应为labour/labor。\n\n5. 译文：用焦炭来熔炼铁矿石导致材料有更好的______。\n\n本题距离上一题不远，题干中的主语Smelting of iron ore with coke虽然从词义上来说略显生僻，但是原词重现在了第五段的第二句话里。可惜这句并没有告知冶炼出来的材质会有更好的什么，考生需要耐心看完下一句，找到原文中higher与题干中better的对应，进而得出答案为quality。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第五句。\n\n6. 译文：对铁的需求随着______的增长而升高。\n\n本题的答案与上一道题出自同一句，考生完全可以在看懂该句之后，“一石二鸟”地得知这种更好质量的钢铁能满足英国当时面临拿破仑战争和铁路扩建的需要。在这两种需要中，对应题干growth意思表达的当然是原文中的expansion，从而可得答案应为railway(s)。\n\n7. 译文：这些新兴城市肮脏、拥挤并且缺乏足够的______。\n\n本题在原文中的对应处距离上一题隔了几乎两段的距离。不过，如果考生留意到了这部分笔记填空题中的每个小标题，其实就能从第7题所在部分的副标题Urbanisation获得提示，从而安心略读讲述Communications内容的第六段，顺利来到第七段。本段的篇幅不长，只有三句话，考生只要词汇基础过关，应当就能将原文中的inadequate与题干中的lacked sufficient对应起来，从而得出答案为sanitation。",
+          "promptHtml": "· Demand for iron increased with the growth of the [6] ______."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "· The new cities were dirty, crowded and lacked sufficient[7] ______",
+          "answers": [
+            "sanitation"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8505_407630",
+          "explanation": "1. 译文：在Watt和Boulton的蒸汽机中，______的运动连接着一个齿轮系统。\n\n本题定位简单，给出了两个首字母大写人名帮助定位；虽然第一个人名Watt出现在了上一句话里，但是第二个人名Boulton却到了下一句也就是倒数第二句里才能看到。看懂这个句子，分析清楚the gear mechanism it was connected to中的it指代的是前半个句子里的piston之后，考生即使不知道该词意为“活塞”，也不难确认答案应为piston。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第一句。\n\n2. 译文：需要供应更多的______来为蒸汽机提供动力。\n\n本题虽然没有像上一题中那样提供显眼关键词供考生快速定位，但题干语义并不难懂，距离上一题在原文中的位置也不远。考生只需耐心向后阅读，就会在第三段第一句里看到需要为工厂和蒸汽动力交通工具提供能源的是煤炭，空格内答案应为coal。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n3. 译文：工业革命之前，纺纱工和纺织工的工作地点在家里和______里。\n\n本题的定位之所以不难，是因为题干中的spinners and weavers和home都一模一样地出现在了原文中；但这几个词距离上一道题的文中位置略远，因此本题的定位也不是全无难度。考生如果能抱定平行阅读的策略，顺次阅读原文而同时兼顾两种题型，则在做完第2题而尚未看到本题定位句之前，可以先解答出判断题的第8题，这样更不容易因为没有很快定位到本题而心浮气躁，而是有着“迟早会找到答案”的从容淡定。而一旦看到了本题的定位处，就不难看出这些工人的工作地点除了在家里就是在小作坊里，进而锁定答案为workshops。\n\n4. 译文：一旦发明了珍妮纺纱机和水力织布机，就不再需要那么多______来生产布料了。\n\n本题题干中的两台机器名称一模一样地出现在了上一题定位处的下一句话里；然而单看这句只能知道生产布料变得容易多了，并没有说到因此不再需要那么多什么。考生需要再向后多读一句，才能找到relatively little labour was required这个跟进结果，进而得出答案应为labour/labor。\n\n5. 译文：用焦炭来熔炼铁矿石导致材料有更好的______。\n\n本题距离上一题不远，题干中的主语Smelting of iron ore with coke虽然从词义上来说略显生僻，但是原词重现在了第五段的第二句话里。可惜这句并没有告知冶炼出来的材质会有更好的什么，考生需要耐心看完下一句，找到原文中higher与题干中better的对应，进而得出答案为quality。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第五句。\n\n6. 译文：对铁的需求随着______的增长而升高。\n\n本题的答案与上一道题出自同一句，考生完全可以在看懂该句之后，“一石二鸟”地得知这种更好质量的钢铁能满足英国当时面临拿破仑战争和铁路扩建的需要。在这两种需要中，对应题干growth意思表达的当然是原文中的expansion，从而可得答案应为railway(s)。\n\n7. 译文：这些新兴城市肮脏、拥挤并且缺乏足够的______。\n\n本题在原文中的对应处距离上一题隔了几乎两段的距离。不过，如果考生留意到了这部分笔记填空题中的每个小标题，其实就能从第7题所在部分的副标题Urbanisation获得提示，从而安心略读讲述Communications内容的第六段，顺利来到第七段。本段的篇幅不长，只有三句话，考生只要词汇基础过关，应当就能将原文中的inadequate与题干中的lacked sufficient对应起来，从而得出答案为sanitation。",
+          "promptHtml": "· The new cities were dirty, crowded and lacked sufficient[7] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><b>Britain’s Industrial Revolution</b></p>\n\n<p><b>Steam power</b></p>\n\n<p>· Newcomen’s steam engine was used in mines to remove water.</p>\n\n<p>· In Watt and Boulton’s steam engine, the movement of the<strong>[1] ______</strong> was linked to a gear system.</p>\n\n<p>· A greater supply of <strong>[2] ______</strong>was required to power steam engines.</p>\n\n<p><b>Textile industry</b></p>\n\n<p>· Before the Industrial Revolution, spinners and weavers worked at home and in <strong>[3] ______</strong></p>\n\n<p>· Not as much <strong>[4] ______</strong>was needed to produce cloth once the spinning jenny and power loom were invented.</p>\n\n<p><b>Iron industry</b></p>\n\n<p>· Smelting of iron ore with coke resulted in material that was better <strong>[5] ______</strong></p>\n\n<p>· Demand for iron increased with the growth of the <strong>[6] ______</strong>.</p>\n\n<p><b>Communications</b></p>\n\n<p>· Cooke and Wheatstone patented the first telegraphy system.</p>\n\n<p>· The telegraphy system was used to prevent locomotives colliding.</p>\n\n<p><b>Urbanisation</b></p>\n\n<p>· Small towns turned into cities very quickly.</p>\n\n<p>· The new cities were dirty, crowded and lacked sufficient<strong>[7] ______</strong></p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 8–13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 8–13 on your answer sheet, write\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Britain’s canal network grew rapidly so that more goods could be transported around the country.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8505_862094",
+          "explanation": "译文：英国的运河航路网快速发展，因此有更多商品得以运遍全国。\n\n本题的定位不算简单，虽然第三段的最后一句话里非常明确地提及了Britain’s canals这两个一模一样的词，然而只是说到蒸汽驳船被广泛用来沿运河输送货物，并没有给出运河航路网是否快速发展的相关描述。而且，由于下一道题的定位出自距离较远的第五段，一些欠缺判断题解题经验的考生可能会因此犹豫不定，担心是自己没有找准而非原文没有提及。若能使用平行阅读，同时兼顾两个题型，则能更坦然地依次阅读对比，根据所读文章内容判定这条题干信息确实不曾出现过，由此确认答案应为NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Costs in the iron industry rose when the technique of smelting iron ore with coke was introduced.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8505_676706",
+          "explanation": "译文：在引入利用焦炭熔炼铁矿石的技术后，冶铁业的成本上升了。\n\n本题的定位会给使用平行阅读的考生一个丰厚的回报，因为定位句里不但包含了填空题第5和第6题的答案，而且也提供了This method was cheaper这一明确信息，与题干所说“成本上升”形成了明确的矛盾抵触，因此可以判定答案为FALSE。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Samuel Morse’s communication system was more reliable than that developed by William Cooke and Charles Wheatstone.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8505_853434",
+          "explanation": "译文：Samuel Morse的通讯系统比William Cooke和Charles Wheatstone研发的更为可靠。\n\n本题非常慷慨地一口气给出了三个首字母大写人名来帮助考生定位；然而读遍人名所在的第六段，也找不到任何将他们各自创建的通讯体系放在一起对比的信息，答案应为NOT GIVEN。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "The economic benefits of industrialisation were limited to certain sectors of society.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8505_880237",
+          "explanation": "译文：工业化的经济益处仅惠及了一些特定的社会阶层。\n\n本题虽然出处位置靠后，但题干中的economic和industrialisation两个词都原样重现在了原文第八段的第一句里，所以耐心阅读的考生应当不难找到。看懂这句简单直白的表述后就能知道，虽然整体经济上扬，中产和上层受益，但穷苦民众仍在挣扎求存，这与题干的表述是符合的，因此答案应为TRUE。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Some skilled weavers believed that the introduction of the new textile machines would lead to job losses.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8505_350664",
+          "explanation": "译文：一些有经验的纺织工相信引入了新的纺织机器将会导致失业。\n\n本题的题干被同义替换得较多，例如skilled weavers在原文中是spent years learning their craft；lead to job losses在原文中是robbing them of their livelihood。但这些表述既没有包含困难词汇，也并未使用复杂句式。考生只要看懂句意，就能根据二者之间的对应，确认答案为TRUE。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "There was some sympathy among local people for the Luddites who were arrested near Huddersfield.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8505_974794",
+          "explanation": "译文：对于在哈德斯菲尔德附近被捕的卢德派分子，当地民众持有一些同情之心。\n\n本题的定位相比之下就轻松多了，首字母大写地名Huddersfield提示考生直接找到最后一段的倒数第三句话。接下来，无论是本句还是剩下的全文最后两句话，都只是客观描述这场动荡之后的史实，丝毫未提及当地民众的看法，因此答案应为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>The Industrial Revolution in Britain</b></p><p>The Industrial Revolution began in Britain in the mid-1700s and by the 1830s and 1840s had spread to many other parts of the world, including the United States. In Britain, it was a period when a largely rural, agrarian* society was transformed into an industrialised, urban one. Goods that had once been crafted by hand started to be produced in mass quantities  by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.</p><p>The foundations of the Industrial Revolution date back to the early 1700s,when the English inventor Thomas Newcomen designed the first modern steam engine. Called the ‘atmospheric steam engine’, Newcomen’s invention was originally used to power machines that pumped water out of mines. In the 1760s, the Scottish engineer James Watt started to adapt one of Newcomen’s models,and succeeded in making it far more efficient. Watt later worked with the English manufacturer Matthew Boulton to invent a new steam engine driven by both the forward and backward strokes of the piston, while the gear mechanism it was connected to produced rotary motion. It was a key innovation that would allowsteam power to spread across British industries.</p><p>The demand for coal, which was a relatively cheap energy source, grew rapidly during the Industrial Revolution, as it was needed to run not only the factories used to produce manufactured goods, but also steam-powered transportation. In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by 1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool. In addition, steam-powered boats and ships were widely used to carry goods along Britain’s canals as well as across the Atlantic.</p><p>Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior  to the Industrial Revolution, the British textile business was a true ‘cottage industry’, with the work performed in small workshops or even homes by individual spinners, weavers and dyers. Starting in the mid-1700s, innovations like the spinning jenny and the power loom made weaving cloth and spinning yarn and thread much easier. With these machines, relatively little labour was required to produce cloth, and the new, mechanised textile factories that opened around the country were quickly able to meet customer demand for cloth both at home and abroad. </p><p>The British iron industry also underwent major change as it adopted new innovations. Chief among the new techniques was the smelting of iron ore with coke (a material made by heating coal) instead of the traditional charcoal. This method was cheaper and produced metals that were of a higher quality, enabling Britain’s iron and steel production to expand in response to demand created by the Napoleonic Wars (1803–15) and the expansion of the railways from the 1830s.</p><p>The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances. In 1837, British inventors William Cooke and Charles Wheatstone patented the first commercial telegraphy system. In the 1830s and 1840s, Samuel Morse and other inventors worked on their own versions in the United States. Cooke and Wheatstone’s system was soon used for railway signalling in the UK. As the speed of the new locomotives increased, it was essential to have a fast and effective means of avoiding collisions.</p><p>The impact of the Industrial Revolution on people’s lives was immense. Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just a few decades. This rapid urbanisation brought significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation.</p><p>Although industrialisation increased the country’s economic output overall and improved the standard of living for the middle and upper classes, many poor people continued to struggle. Factory workers had to work long hours in dangerous conditions for extremely low wages. These conditions along with the rapid pace of change fuelled opposition to industrialisation. A group of British workers who became known as ‘Luddites’ were British weavers and textile workers who objected to the increased use of mechanised looms and knitting frames. Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood. A few desperate weavers began breaking into factories and smashing textile machines. They called themselves Luddites after Ned Ludd, a young apprentice who was rumoured to have wrecked a textile machine in 1779.</p><p>The first major instances of machine breaking took place in 1811 in the city of Nottingham, and the practice soon spread across the country. Machine-breaking Luddites attacked and burned factories, and in some cases they even exchanged gunfire with company guards and soldiers. The workers wanted employers to stop installing new machinery, but the British government responded to the uprisings by making machine-breaking punishable by death. The unrest finally reached its peak in April 1812, when a few Luddites were shot during an attack on a mill near Huddersfield. In the days that followed, other Luddites were arrested, and dozens were hanged or transported to Australia. By 1813, the Luddite resistance had all but vanished.</p><p>* agrarian: relating to the land, especially the use of land for farming</p>"
+}

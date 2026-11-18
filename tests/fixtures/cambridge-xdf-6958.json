@@ -1,0 +1,157 @@
+{
+  "code": 200,
+  "data": {
+    "allCount": "13",
+    "article": "Johnson's Dictionary",
+    "contentList": [
+      {
+        "content": "{\"sctype\":\"101\",\"title\":\"<p><strong><em>Questions 1-3</em></strong></p>\\n\\n<p><em>Choose <strong>THREE</strong> correct answers.</em></p>\\n\",\"name\":\"富文本\"}",
+        "contentAnalyze": null,
+        "contentClean": null,
+        "contentId": "11900",
+        "contentOrder": "2",
+        "pageId": "8577",
+        "pageOrder": null,
+        "type": "101"
+      },
+      {
+        "content": "{\"sctype\":\"201\",\"sccnt\":3,\"valcnt\":3,\"sccode\":\"Q6958_335963\",\"isBDX\":0,\"value\":\"DEG\",\"title\":\"<p>Which <strong>THREE</strong> of the following statements are true of Johnson&#39;s Dictionary?</p>\\n\",\"options\":[{\"name\":\"A\",\"option\":\"It avoided all scholarly words.\"},{\"name\":\"B\",\"option\":\"It was the only English dictionary in general use for 200 years.\"},{\"name\":\"C\",\"option\":\"It was famous because of the large number of people involved.\"},{\"name\":\"D\",\"option\":\"It focused mainly on language from contemporary texts.\"},{\"name\":\"E\",\"option\":\"There was a time limit for its completion.\"},{\"name\":\"F\",\"option\":\"It ignored work done by previous dictionary writers.\"},{\"name\":\"G\",\"option\":\"It took into account subtleties of meaning.\"},{\"name\":\"H\",\"option\":\"Its definitions were famous for their originality.\"}],\"name\":\"文本选择题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>A：约翰逊的字典不开了所有学术词汇。</p>\\n\\n<p>all太绝对，所以不选</p>\\n\\n<p>B：约翰逊的字典是唯一一本被广泛使用了二百年的字典。</p>\\n\\n<p>only太绝对，不会入选</p>\\n\\n<p>C：约翰逊的字典之所以出名是因为参与编纂的人员众多。</p>\\n\\n<p>第四段：Johnson decided he did not need an academy to settle arguments&hellip;一句证明约翰逊并未招聘很多人员</p>\\n\\n<p>D：约翰逊字典主要集中于当代文本中的语言。</p>\\n\\n<p>第六段：&hellip;and illustrated their many meanings with some&nbsp;114,000 quotations drawn from the Elizabethans to&nbsp;his own time.</p>\\n\\n<p>E：字典完工有时限。</p>\\n\\n<p>第六段：Working to a deadline, ...</p>\\n\\n<p>F：约翰逊字典忽略了以前字典编纂者的工作。</p>\\n\\n<p>第六段：... he had to draw on the best of all previous</p>\\n\\n<p>dictionaries.与原文矛盾，故不选</p>\\n\\n<p>G：约翰逊字典讲述了词义的细微差别。</p>\\n\\n<p>Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of&nbsp;meaning.</p>\\n\\n<p>H：约翰逊字典的解释以原创性著称。</p>\\n\\n<p>第六段：He did not expect to achieve complete originality.与原文矛盾，故不选</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11901",
+        "contentOrder": "3",
+        "pageId": "8577",
+        "pageOrder": null,
+        "type": "201"
+      },
+      {
+        "content": "{\"sctype\":\"101\",\"title\":\"<p><strong><em>Questions 4-7</em></strong></p>\\n\\n<p><em>Complete the summary below.</em></p>\\n\\n<p><em>Write<strong> NO MORE THAN TWO WORDS&nbsp;</strong>in each gap.</em></p>\\n\",\"name\":\"富文本\"}",
+        "contentAnalyze": null,
+        "contentClean": null,
+        "contentId": "11903",
+        "contentOrder": "5",
+        "pageId": "8578",
+        "pageOrder": null,
+        "type": "101"
+      },
+      {
+        "content": "{\"sctype\":\"216\",\"title\":\"<p>In 1764 Dr Johnson accepted the contract to produce a dictionary. Having rented a garret, he took on a number of <span role=\\\"replace\\\" sccode=\\\"Q6958_177392\\\"><input class=\\\"input-item\\\" placeholder=\\\"1\\\" type=\\\"text\\\" /></span>&nbsp;, who stood at a long central desk. Johnson did not have a <span role=\\\"replace\\\" sccode=\\\"Q6958_681779\\\"><input class=\\\"input-item\\\" placeholder=\\\"2\\\" type=\\\"text\\\" /></span>&nbsp;available to him, but eventually produced definitions of in excess of 40,000 words written down in 80 large notebooks. On publication, the Dictionary was immediately hailed in many European countries as a landmark. According to his biographer, James Boswell, Johnson&#39;s principal achievement was to bring <span role=\\\"replace\\\" sccode=\\\"Q6958_293958\\\"><input class=\\\"input-item\\\" placeholder=\\\"3\\\" type=\\\"text\\\" />&nbsp;</span>to the English language. As a reward for his hard work, he was granted a <span role=\\\"replace\\\" sccode=\\\"Q6958_437519\\\"><input class=\\\"input-item\\\" placeholder=\\\"4\\\" type=\\\"text\\\" />&nbsp;</span>by the king.</p>\\n\",\"content\":[{\"sccode\":\"Q6958_177392\",\"sccnt\":1,\"valcnt\":1,\"value\":[\"clerks|copying clerks\"],\"singlesc\":\"1\",\"exchange\":\"1\",\"sptype\":\"1\"},{\"sccode\":\"Q6958_681779\",\"sccnt\":1,\"valcnt\":1,\"value\":[\"library\"],\"singlesc\":\"1\",\"exchange\":\"1\",\"sptype\":\"1\"},{\"sccode\":\"Q6958_293958\",\"sccnt\":1,\"valcnt\":1,\"value\":[\"stability\"],\"singlesc\":\"1\",\"exchange\":\"1\",\"sptype\":\"1\"},{\"sccode\":\"Q6958_437519\",\"sccnt\":1,\"valcnt\":1,\"value\":[\"pension\"],\"singlesc\":\"1\",\"exchange\":\"1\",\"sptype\":\"1\"}],\"caseSensitive\":0,\"name\":\"文本填空题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>题号：4</p>\\n\\n<p>定位词：1764, a number of, who stood at</p>\\n\\n<p>在第四段中先找到1764，然后找到第五段-a number of要求其后填名词复数形式，而此空后面的非限制性定语从句who又限定要填一个关于人的名词。故对应第五段中:...with a long desk running down the middle at which the copying clerks would work standing up. 一句正确答案是copying clerks或clerks</p>\\n\\n<p>题号：5</p>\\n\\n<p>定位词：did not have a, 40,000</p>\\n\\n<p>第六段：40,000前后，数字40 ,000是一个很好的定位词。随后找到：The work was immense: filling about eighty large note-books (and without a library to hand), Johnson wrote&nbsp;the definitions of over 40,000 word...</p>\\n\\n<p>正确答案是library</p>\\n\\n<p>题号：6</p>\\n\\n<p>定位词：James Boswell</p>\\n\\n<p>第八段：in&nbsp;James Boswell&#39;s words&hellip;</p>\\n\\n<p>此考点与上一考点隔得较远，不过好在有James Boswell的名字可以帮忙定位。</p>\\n\\n<p>It is the cornerstone of Standard English, an achievement which, in James Boswell&#39; s words,&#39; conferred stability on the language of his country&quot;.</p>\\n\\n<p>正确答案是stability</p>\\n\\n<p>题号：7</p>\\n\\n<p>定位词：King</p>\\n\\n<p>最后一段：King&nbsp;George III-第九段：The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George II to offer him&nbsp;a pension.</p>\\n\\n<p>故正确答案是pension</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11904",
+        "contentOrder": "6",
+        "pageId": "8578",
+        "pageOrder": null,
+        "type": "216"
+      },
+      {
+        "content": "{\"sctype\":\"101\",\"title\":\"<p><strong><em>Questions 8-13</em></strong></p>\\n\\n<p><em>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text,</em></p>\\n\\n<p><em>choose <strong>FALSE</strong> if the statement contradicts the information,</em></p>\\n\\n<p><em>or choose <strong>NOT GIVEN</strong> if there is no information on this.</em></p>\\n\",\"name\":\"富文本\"}",
+        "contentAnalyze": null,
+        "contentClean": null,
+        "contentId": "11906",
+        "contentOrder": "8",
+        "pageId": "8579",
+        "pageOrder": null,
+        "type": "101"
+      },
+      {
+        "content": "{\"sctype\":\"203\",\"sccnt\":1,\"sccode\":\"Q6958_685932\",\"showType\":2,\"value\":\"T\",\"title\":\"<p>The growing importance of the middle classes led to an increased demand for dictionaries.</p>\\n\",\"options\":[{\"name\":\"T\",\"option\":\"TRUE\"},{\"name\":\"F\",\"option\":\"FALSE\"},{\"name\":\"NG\",\"option\":\"NOT GIVEN\"}],\"name\":\"TFN选择题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>参考译文：中产阶级渐渐崛起引发了对字典日渐增长的需求。</p>\\n\\n<p>定位词：middle classes</p>\\n\\n<p>解题关键词：led to, increased demand</p>\\n\\n<p>文中对应第三段：It is highly appropriate that Dr Samuel Johnson ... published his Dictionary at the very beginning of the heyday of the middle class.</p>\\n\\n<p>heyday一词是理解本题的关键，意思是全盛时期。</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11907",
+        "contentOrder": "9",
+        "pageId": "8579",
+        "pageOrder": null,
+        "type": "203"
+      },
+      {
+        "content": "{\"sctype\":\"203\",\"sccnt\":1,\"sccode\":\"Q6958_978795\",\"showType\":2,\"value\":\"F\",\"title\":\"<p>Johnson has become more well known since his death.</p>\\n\",\"options\":[{\"name\":\"T\",\"option\":\"TRUE\"},{\"name\":\"F\",\"option\":\"FALSE\"},{\"name\":\"NG\",\"option\":\"NOT GIVEN\"}],\"name\":\"TFN选择题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>参考译文：约翰逊过世后更加声名鹊起。</p>\\n\\n<p>定位词：Johnson, death</p>\\n\\n<p>解题关键词：more</p>\\n\\n<p>文中对应第三段：... famous in his own time as in ours&hellip;</p>\\n\\n<p>文中已经明确提到约翰逊爵士在当时和现代都享有盛誉,而题目却说他过世后更加出名，这显然与文章是矛盾的。</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11908",
+        "contentOrder": "10",
+        "pageId": "8579",
+        "pageOrder": null,
+        "type": "203"
+      },
+      {
+        "content": "{\"sctype\":\"203\",\"sccnt\":1,\"sccode\":\"Q6958_111840\",\"showType\":2,\"value\":\"NG\",\"title\":\"<p>&nbsp;Johnson had been planning to write a dictionary for several years.</p>\\n\",\"options\":[{\"name\":\"T\",\"option\":\"TRUE\"},{\"name\":\"F\",\"option\":\"FALSE\"},{\"name\":\"NG\",\"option\":\"NOT GIVEN\"}],\"name\":\"TFN选择题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>参考译文：约翰逊写字典的打算由来已久。</p>\\n\\n<p>定位词：several years</p>\\n\\n<p>解题关键词：several years</p>\\n\\n<p>文中对应按照TRUE/FALSE/NOT GIVEN出题顺序原则，本题的答案应该在第四段，然而在这一段，我们却找不到任何有关这句话的信息，故应选NOT GIVEN。</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11909",
+        "contentOrder": "11",
+        "pageId": "8579",
+        "pageOrder": null,
+        "type": "203"
+      },
+      {
+        "content": "{\"sctype\":\"203\",\"sccnt\":1,\"sccode\":\"Q6958_836373\",\"showType\":2,\"value\":\"F\",\"title\":\"<p>&nbsp;Johnson set up an academy to help with the writing of his Dictionary.</p>\\n\",\"options\":[{\"name\":\"T\",\"option\":\"TRUE\"},{\"name\":\"F\",\"option\":\"FALSE\"},{\"name\":\"NG\",\"option\":\"NOT GIVEN\"}],\"name\":\"TFN选择题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>参考译文：为编字典，约翰逊建起了研究院。</p>\\n\\n<p>定位词：academy</p>\\n\\n<p>解题关键词：set up</p>\\n\\n<p>文中对应第四段：Johnson decided he did not need an academy to settle arguments about language.这句话正说明约翰逊并未建立研究院来协助他完成字典的编算。</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11910",
+        "contentOrder": "12",
+        "pageId": "8579",
+        "pageOrder": null,
+        "type": "203"
+      },
+      {
+        "content": "{\"sctype\":\"203\",\"sccnt\":1,\"sccode\":\"Q6958_541571\",\"showType\":2,\"value\":\"F\",\"title\":\"<p class=\\\"MsoPlainText\\\" style=\\\"margin:0cm 0cm 0.0001pt; text-align:justify\\\">Johnson only received payment for his Dictionary on its completion.</p>\\n\",\"options\":[{\"name\":\"T\",\"option\":\"TRUE\"},{\"name\":\"F\",\"option\":\"FALSE\"},{\"name\":\"NG\",\"option\":\"NOT GIVEN\"}],\"name\":\"TFN选择题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>参考译文：约翰逊在字典完工后才拿到报酬。</p>\\n\\n<p>定位词：payment</p>\\n\\n<p>解题关键词：only</p>\\n\\n<p>文中对应第四段：He was to be paid &pound; 1,575 in instalments, ...</p>\\n\\n<p>文中明确提到约翰逊得到了总价值1575英镑的分期付款，这与题目恰好是矛盾的。</p>\\n\\n<p>TIPS：带有only一词的题目，一般选FALSE。</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11911",
+        "contentOrder": "13",
+        "pageId": "8579",
+        "pageOrder": null,
+        "type": "203"
+      },
+      {
+        "content": "{\"sctype\":\"203\",\"sccnt\":1,\"sccode\":\"Q6958_935950\",\"showType\":2,\"value\":\"T\",\"title\":\"<p>&nbsp;Not all of the assistants survived to see the publication of the Dictionary.</p>\\n\",\"options\":[{\"name\":\"T\",\"option\":\"TRUE\"},{\"name\":\"F\",\"option\":\"FALSE\"},{\"name\":\"NG\",\"option\":\"NOT GIVEN\"}],\"name\":\"TFN选择题\"}",
+        "contentAnalyze": "{\"audio\":\"\",\"nickName\":\"\",\"body\":\"<p>参考译文：不是所有助手都能活着看到字典付梓。</p>\\n\\n<p>定位词：assistants, publication</p>\\n\\n<p>解题关键词：not all</p>\\n\\n<p>文中对应第五段：He was also helped by six assistants, two of whom died whilst the Dictionary was still in&nbsp;preparation.</p>\\n\\n<p>TIPS：带有not all, not always这样部分否定结构的题目一般选TRUE。</p>\\n\"}",
+        "contentClean": null,
+        "contentId": "11912",
+        "contentOrder": "14",
+        "pageId": "8579",
+        "pageOrder": null,
+        "type": "203"
+      }
+    ],
+    "docList": [
+      {
+        "code": "5",
+        "name": "文章译文",
+        "list": [
+          {
+            "body": "<p>参考译文：</p>\n\n<p style=\"text-align: center;\">约翰逊博土的字典</p>\n\n<p>&nbsp; &nbsp; &nbsp;约翰逊博上的《字典》于1775年出版，在此之前的一个世纪，人们一直对英语的发展状况担忧。口语和书面语没有统一的标准，对于如何整顿英语拼写混乱的局面也没有统一的看法。正是约翰逊博土为这一问题提供了解决方案。</p>\n\n<p>&nbsp; &nbsp; 当然，在此之前也有过一些字典。其中最早的是一本约120页的小册子，由一个叫Robert Cawdray的人编辑，于1604年出版，名为《按字母排序的罕见英语词汇表》。正如后来17世纪出版的许多字典一样，Cawdray倾向于着重收录学术词汇。这本字典的功能之一就是使字典的使用者能体现出良好的学术修养。</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;除了规范英语混乱状态的实际需要外，英语字典的兴盛也与英国中产阶级的兴起有关。这些中产阶级渴望对各种要征服的环境进行定义和约束，&lsquo;包括词汇环境社会环境和商业环境.塞缪尔:约翰逊博土作为18世纪文学家的典型代表，在当时和现在都享有盛誉，他在中产阶级正如日中天之时出版他的《字典》真是再合&ldquo;时&quot;不过了。</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;约翰逊是诗人、批评家，他将常识提高到了天赋的高度，对于那些从17世纪晚期到18世纪早期一直困扰着作家的问题，约翰逊的解决方法是非常实用的。在约翰逊之前，如果没有专门的学术机构判别正确与错误的用法，要出版这样一部大型字典几乎是不可能的。约翰逊则认为不需要学术机构来解决语言上的争端，他要自己编一本字典，而且要自己亲手去编。1764年6月18日，约翰逊与书商Robert Dosley在Holborn酒店附近的Golden Anchor旅店吃早餐时，签订了关于这本《字典》的合同。约翰逊因此获得了总价值1575英镑的分期付款，他从这些钱中拿出一些租下了17 Gough广场，在这里建起了自己的&ldquo;字典作坊&rdquo;。</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;James Boswell曾为约翰逊作，他描述说约翰逊工作的阁楼就像&ldquo;一个账房&rdquo;，中间有一张长长的的桌子，负责抄写的工作人员站着工作。约翰逊坐在一把快要散架的椅子上，面前是一张老式的摇摇晃晃的文案桌，周围乱七八糟堆放着堆借来的书。同时旁边有六个助手帮助，其中两个在《字典》编纂的筹备阶段就去世了。</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;工作量是巨大的。当时，约翰逊在身边还没有图书馆可参阅的条件下，将80大本笔记进行了分类整理撰写了4万多条词的定义，并将这些词的多个义项用约11.4万条从各个学科的英语书面材料中摘出的引例加以佐证。这些引例来源极广，从伊丽莎白时代到当时作家的作品都被涵盖在内。约翰逊并没有想进行完全的自我创作。由于有最后期限，他不得不吸收先前所有字典的精华之处，这就使他的工作成了一项规模宏大的整合工作。事实上，约翰逊所做的工作绝不仅限于此。和以前的字典编纂者不同的是，约翰逊对待英语的态度十分务实。他将英语看成是活的语言，意思有许多细微的差别。他对词的定义采取英语普通法则：遵照先例。因此，约翰逊的《字典》出版后，在长达一个多世纪的时间里，都没有出现一本真正能与其相媲美的字典。</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;几经周折后，约翰逊的这本《字典》终于在1775年4月15日出版了。一经出版，这本字典就在整个欧洲获得了一致认可，被誉为里程碑式的著作。一位意大利著名的辞书编纂者写道：&ldquo;这项崇高的作品将成为其著者永恒的荣誉丰碑，也是其祖国的一项特别荣耀，这部作品惠及了整个欧洲大陆文学界。&rdquo;众所周知，40个法国学者花了40年的时间才出版了第一部法语字典。而约翰逊一个人就承担了一项欧洲学术界所做的工作并毫不逊色地把它完成，这一切都让英国人引以为傲。</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;约翰逊几乎没有得到学者的帮助或伟人的赞助，也没有退休后的舒适条件，更不是在凉爽的书房中完成工作。他是在种种不便与干扰中、在疾病折磨和忧伤中一直工作了九年。尽管存在瑕疵和怪异之处，他的这部两卷本的著作仍然称得上是一部杰作,一座里程碑。 用他自己的话说，这本字典&ldquo;规范了拼写,进行了词汇比较，规范了结构，明确了英文字词的含义&rdquo;。这部字典为后来的标准英语奠定了基础，这一成就，用James Boswell的话说，就是&ldquo;为英语的稳定做出了贡献&rdquo;。</p>\n\n<p>约翰逊因为这部《字典》和其他一些作品而闻名于世并备受尊重，这使得他的朋友能够说服国王乔治三世赏赐给他养老金，从那时起，他就成了家喻户晓的约翰逊。</p>",
+            "docId": "9351",
+            "id": null
+          }
+        ]
+      },
+      {
+        "code": "105",
+        "name": "阅读文章",
+        "list": [
+          {
+            "body": "{\"sctype\":\"105\",\"title\":\"<p style=\\\"text-align: center;\\\"><span style=\\\"font-size:20px;\\\"><strong>Johnson&#39;s Dictionary</strong></span></p><p>For the century before Johnson&#39;s Dictionary was published in 1775, there had been concern about the state of the English language. There was no standard way of speaking or writing and no agreement as to the best way of bringing some order to the chaos of English spelling. Dr Johnson provided the solution.</p><p>There had, of course, been dictionaries in the past, the first of these being a little book of some 120 pages, compiled by a certain Robert Cawdray, published in 1604 under the title A Table Alphabeticall &#39;of hard usuall English wordes&#39;. Like the various dictionaries that came after it during the seventeenth century, Cawdray&#39;s tended to concentrate on &#39;scholarly&#39; words; one function of the dictionary was to enable its student to convey an impression of fine learning.</p><p>Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer- lexical as well as social and commercial. It is highly appropriate that Dr Samuel Johnson, the very model of an eighteenth-century literary man, as famous in his own time as in ours, should have published his Dictionary at the very beginning of the heyday of the middle class.</p><p>Johnson was a poet and critic who raised common sense to the heights of genius. His approach to the problems that had worried writers throughout the late seventeenth and early eighteenth centuries was intensely practical. Up until his time, the task of producing a dictionary on such a large scale had seemed impossible without the establishment of an academy to make decisions about right and wrong usage. Johnson decided he did not need an academy to settle arguments about language; he would write a dictionary himself; and he would do it single-handed. Johnson signed the contract for the Dictionary with the bookseller Robert Dosley at a breakfast held at the Golden Anchor Inn near Holborn Bar on 18 June 1764. He was to be paid ￡1,575 in instalments, and from this he took money to rent 17 Gough Square, in which he set up his &#39;dictionary workshop&#39;.</p><p>James Boswell, his biographer, described the garret where Johnson worked as &#39;fitted up like a counting house&#39; with a long desk running down the middle at which the copying clerks would work standing up. Johnson himself was stationed on a rickety chair at an &#39;old crazy deal table&#39; surrounded by a chaos of borrowed books. He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation.</p><p>The work was immense; filling about eighty large notebooks (and without a library to hand), Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time. He did not expect to achieve complete originality. Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis. In fact, it was very much more. Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning. He adopted his definitions on the principle of English common law-according to precedent. After its publication, his Dictionary was not seriously rivalled for over a century.</p><p>After many vicissitudes the Dictionary was finally published on 15 April 1775. It was instantly recognised as a landmark throughout Europe. &#39;This very noble work,&#39; wrote the leading Italian lexicographer, &#39;will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.&#39; The fact that Johnson had taken on the Academies of Europe and matched them (everyone knew that forty French academics had taken forty years to produce the first French national dictionary) was cause for much English celebration.</p><p>Johnson had worked for nine years, &#39;with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow&#39;. For all its faults and eccentricities his two-volume work is a masterpiece and a landmark in his own words, &#39;setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words&#39;. It is the cornerstone of Standard English, an achievement which, in James Boswell&#39;s words, &#39;conferred stability on the language of his country&#39;.</p><p>The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George Ⅲ to offer him a pension. From then on, he was to become the Johnson of folklore.</p>\"}",
+            "docId": "11905",
+            "id": null
+          }
+        ]
+      }
+    ],
+    "initNum": "1",
+    "level1Name": "剑雅5",
+    "level2Name": "Test 1",
+    "number": "C5T1R1",
+    "order": "",
+    "parentType": "2",
+    "qId": "6958",
+    "qSource": "1",
+    "qTopic": "历史与发展",
+    "qTopicId": "1277",
+    "qType": "",
+    "qTypeId": "",
+    "spptName": "Passage 1",
+    "spptId": "1285"
+  }
+}

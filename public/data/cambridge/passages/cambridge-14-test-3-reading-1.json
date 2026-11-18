@@ -1,0 +1,308 @@
+{
+  "id": "cambridge-14-test-3-reading-1",
+  "title": "The concept of intelligence",
+  "titleCn": "The concept of intelligence",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 14,
+    "test": 3
+  },
+  "sourceQuestionId": "6644",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6644",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The concept of intelligence"
+    },
+    {
+      "label": "2",
+      "text": "A Looked at in one way, everyone knows what intelligence is; looked at in another way, no one does. In other words, people all have unconscious notions-known as 'implicit theories' - of intelligence, but no one knows for certain what it actually is. This chapter addresses how people conceptualize intelligence, whatever it may actually be."
+    },
+    {
+      "label": "3",
+      "text": "But why should we even care what people think intelligence is, as opposed only to valuing whatever it actually is? There are at least four reasons people's conceptions of intelligence matter."
+    },
+    {
+      "label": "4",
+      "text": "B First, implicit theories of intelligence drive the way in which people perceive and evaluate their own intelligence and that of others. To better understand the judgments people make about their own and others' abilities, it is useful to learn about people's implicit theories. For example, parents' implicit theories of their children's language development will determine at what ages they will be willing to make various corrections in their children's speech. More generally, parents' implicit theories of intelligence will determine at what ages they believe their children are ready to perform various cognitive tasks. Job interviewers will make hiring decisions on the basis of their implicit theories of intelligence. People will decide who to be friends with on the basis of such theories. In sum, knowledge about implicit theories of intelligence is important because this knowledge is so often used by people to make judgments in the course of their everyday lives."
+    },
+    {
+      "label": "5",
+      "text": "C Second, the implicit theories of scientific investigators ultimately give rise to their explicit theories. Thus it is useful to find out what these implicit theories are. Implicit theories provide a framework that is useful in defining the general scope of a phenomenon - especially a not-well-understood phenomenon. These implicit theories can suggest what aspects of the phenomenon have been more or less attended to in previous investigations."
+    },
+    {
+      "label": "6",
+      "text": "D Third, implicit theories can be useful when an investigator suspects that existing explicit theories are wrong or misleading. If an investigation of implicit theories reveals little correspondence between the extant implicit and explicit theories, the implicit theories may be wrong. But the possibility also needs to be taken into account that the explicit theories are wrong and in need of correction or supplementation. For example, some implicit theories of intelligence suggest the need for expansion of some of our explicit theories of the construct."
+    },
+    {
+      "label": "7",
+      "text": "E Finally, understanding implicit theories of intelligence can help elucidate developmental and cross-cultural differences. As mentioned earlier, people have expectations for intellectual performances that differ for children of different ages. How these expectations differ is in part a function of culture. For example, expectations for children who participate in Western-style schooling are almost certain to be different from those for children who do not participate in such schooling."
+    },
+    {
+      "label": "8",
+      "text": "F I have suggested that there are three major implicit theories of how intelligence relates to society as a whole (Sternberg, 1997). These might be called Hamiltonian, Jeffersonian, and Jacksonian. These views are not based strictly, but rather, loosely, on the philosophies of Alexander Hamilton, Thomas Jefferson, and Andrew Jackson, three great statesmen in the history of the United States."
+    },
+    {
+      "label": "9",
+      "text": "G The Hamiltonian view, which is similar to the Platonic view, is that people are born with different levels of intelligence and that those who are less intelligent need the good offices of the more intelligent to keep them in line, whether they are called government officials or, in Plato's term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this belief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually would have to take responsibility for the largely irresponsible masses of non-elite (low-IQ) people who cannot take care of themselves. Left to themselves, the unintelligent would create, as they always have created, a kind of chaos."
+    },
+    {
+      "label": "10",
+      "text": "H The Jeffersonian view is that people should have equal opportunities, but they do not necessarily avail themselves equally of these opportunities and are not necessarily equally rewarded for their accomplishments. People are rewarded for what they accomplish, if given equal opportunity. Low achievers are not rewarded to the same extent as high achievers. In the Jeffersonian view, the goal of education is not to favor or foster an elite, as in the Hamiltonian tradition, but rather to allow children the opportunities to make full use of the skills they have. My own views are similar to these (Sternberg, 1997)."
+    },
+    {
+      "label": "11",
+      "text": "I The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies - that one person would serve as well as another in government or on a jury or in almost any position of responsibility. In this view of democracy, people are essentially intersubstitutable except for specialized skills, all of which can be learned. In this view, we do not need or want any institutions that might lead to favoring one group over another."
+    },
+    {
+      "label": "12",
+      "text": "J Implicit theories of intelligence and of the relationship of intelligence to society perhaps need to be considered more carefully than they have been because they often serve as underlying presuppositions for explicit theories and even experimental designs that are then taken as scientific contributions. Until scholars are able to discuss their implicit theories and thus their assumptions, they are likely to miss the point of what others are saying when discussing their explicit theories and their data."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1-3\n\nWhich section contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Information about how non-scientists' assumptions about intelligence influence their behaviour towards others",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6644_653129-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "a reference to lack of clarity over the definition of intelligence",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6644_653129-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "the point that a researcher's implicit and explicit theories may be very different",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6644_653129-3"
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 1-3</em></strong></p>\n\n<p><em>Which section contains the following information?</em></p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Choose the correct answer.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        },
+        {
+          "value": "J",
+          "text": "J"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "instruction": "Questions 4-6\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Slow language development in children is likely to prove disappointing to their parents.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6644_825526",
+          "explanation": "题号：4\n\n题目译文：儿童缓慢的语言发展往往是令家长失望的\n\n定位词：Slow language development in children\n\nB段第三、四句：For example, parents' implicit theories of their children's language development will determine at what ages...to perform various cognitive tasks.\n\n这两句话中关于家长对儿童语言发展态度的表述中性地说明了儿童发展的内隐理论会影响父母纠正孩子语言的时间以及认为孩子已经能够处理各种各样认知任务的时间，并没有提及\"slow\" 以及是否会令家长\"disappointing\"。\n\n因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "People's expectations of what children should gain from education are universal.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6644_904994",
+          "explanation": "题号：5\n\n题目译文：人们关于儿童应当在教育中获得什么的期望是一致的。\n\n定位词：People's expectations, what children should gain from education\n\nE段第二、三、四句：As mentioned earlier, people have expectations for intellectual performances ... certain to be different from those for children who do not participate in such schooling.\n\n文中E段第二句提到人们期望不同年龄的儿童有不同的智力表现，之后又说这种期望的差异在一定程度上是文化造成的，这与题目中universal的表述相反。\n\n因此本题答案为NO。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Scholars may discuss theories without fully understanding each other.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6644_668379",
+          "explanation": "题号：6\n\n题目译文：学者们可能会在没有充分理解彼此的情况下讨论理论。\n\n定性词：without fully understanding each other\n\nJ段第二句：Until scholars are able to discuss...explicit theories and their data.\n\nJ段第二句提到they are like to miss the point of what others are saying when discussing their explicit theories and their data，说明在没有充分理解彼此的情况下，学者们依然会discuss theories。\n\n因此本题答案为YES。"
+        }
+      ],
+      "contextHtml": "<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><em>Questions 4-6</em></strong></p>\n\n\t\t\t<p><em>Choose <b>YES </b>if the statement agrees with the claims of the writer,</em></p>\n\n\t\t\t<p><em>choose <b>NO</b> if the statement contradicts the claims of the writer,</em></p>\n\n\t\t\t<p><em>or choose <strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 7-13\n\nLook at the following statements (Questions 7-13) and the list of theories below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "[7] ______ It is desirable for the same possibilities to be open to everyone.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6644_504376",
+          "explanation": "题号：7\n\n题目译文：每个人都应该可以享有同样的机会。\n\n关键词：the same possibilities, open to everyone\n\nH段第一句中说到了people should have equal opportunities, 这也是Jeffersonian的重要观点。\n\n因此本题答案为B。\n\n题号8：\n\n题目译文：社会的任何一个领域都不应该为了一个群体的利益而牺牲另一个群体的利益。\n\n关键词：preferential treatment\n\nI段最后一句说到we do not need or want any institutions that might lead to favoring one group over another，与题目表述一致。\n\n因此本题答案为C。\n\n题号：9\n\n题目译文：人们应当只在实际成就的基础上获得利益。\n\n关键词：gain benefits, what they actually achieve\n\nH段第一句末尾说到人们not necessarily equally rewarded for their accomplishments，之后第二句说到People are rewarded for what they accomplish，与题目表达的含义一致。\n\n因此本题答案为B。\n\n题号：10\n\n题目译文：智力的差异从出生就开始了。\n\n关键词：variation in inteligence, begins at birth\n\nG段前句说到people are born with different levels of intelligence，这种观点认为人们生来就具有不同的智力水平，这与题目表达的含义一致。\n\n因此本题答案为A。\n\n题号：11\n\n题目译文：智力更高的人应当掌握权力。\n\n关键词：the more intelligent people, in position of power\n\nG段第一句后半部分说到，那些智力稍逊的人需要智力优秀的人带领，无论他们被称为政府官员还是柏拉图语言中的“哲人王”，这与题目中the more intelligent people should be in positions of power含义一致。\n\n因此本题答案为A。\n\n题号：12\n\n题目译文：每个人都能够发展同样的能力。\n\n关键词：everyone, develop the same abilities\n\nI段首句提到all people are equal, not only as human beings but in terms of their competencies，并且进一步进行了解释，与题目的表述一致。\n\n因此本题答案为C。\n\n题号：13\n\n题目译文：低智力的人可能会过着混乱无序的生活。\n\n关键词：people of low intelligence, lead uncontrolled lives\n\nG段后半部分提到了non-elite (low-IQ) people who cannot take care of themselves，并且在最后句写到Left to themselves, the unintelligent would create, as they always have created, a kind of chaos，这与题目中lead uncontrolled lives含义一致。\n\n因此本题答案为A。",
+          "promptHtml": "[7] ______ It is desirable for the same possibilities to be open to everyone."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______ No section of society should have preferential treatment at the expense of another.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6644_947537",
+          "explanation": "题号：7\n\n题目译文：每个人都应该可以享有同样的机会。\n\n关键词：the same possibilities, open to everyone\n\nH段第一句中说到了people should have equal opportunities, 这也是Jeffersonian的重要观点。\n\n因此本题答案为B。\n\n题号8：\n\n题目译文：社会的任何一个领域都不应该为了一个群体的利益而牺牲另一个群体的利益。\n\n关键词：preferential treatment\n\nI段最后一句说到we do not need or want any institutions that might lead to favoring one group over another，与题目表述一致。\n\n因此本题答案为C。\n\n题号：9\n\n题目译文：人们应当只在实际成就的基础上获得利益。\n\n关键词：gain benefits, what they actually achieve\n\nH段第一句末尾说到人们not necessarily equally rewarded for their accomplishments，之后第二句说到People are rewarded for what they accomplish，与题目表达的含义一致。\n\n因此本题答案为B。\n\n题号：10\n\n题目译文：智力的差异从出生就开始了。\n\n关键词：variation in inteligence, begins at birth\n\nG段前句说到people are born with different levels of intelligence，这种观点认为人们生来就具有不同的智力水平，这与题目表达的含义一致。\n\n因此本题答案为A。\n\n题号：11\n\n题目译文：智力更高的人应当掌握权力。\n\n关键词：the more intelligent people, in position of power\n\nG段第一句后半部分说到，那些智力稍逊的人需要智力优秀的人带领，无论他们被称为政府官员还是柏拉图语言中的“哲人王”，这与题目中the more intelligent people should be in positions of power含义一致。\n\n因此本题答案为A。\n\n题号：12\n\n题目译文：每个人都能够发展同样的能力。\n\n关键词：everyone, develop the same abilities\n\nI段首句提到all people are equal, not only as human beings but in terms of their competencies，并且进一步进行了解释，与题目的表述一致。\n\n因此本题答案为C。\n\n题号：13\n\n题目译文：低智力的人可能会过着混乱无序的生活。\n\n关键词：people of low intelligence, lead uncontrolled lives\n\nG段后半部分提到了non-elite (low-IQ) people who cannot take care of themselves，并且在最后句写到Left to themselves, the unintelligent would create, as they always have created, a kind of chaos，这与题目中lead uncontrolled lives含义一致。\n\n因此本题答案为A。",
+          "promptHtml": "[8] ______ No section of society should have preferential treatment at the expense of another."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "[9] ______ People should only gain benefits on the basis of what they actually achieve.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6644_798695",
+          "explanation": "题号：7\n\n题目译文：每个人都应该可以享有同样的机会。\n\n关键词：the same possibilities, open to everyone\n\nH段第一句中说到了people should have equal opportunities, 这也是Jeffersonian的重要观点。\n\n因此本题答案为B。\n\n题号8：\n\n题目译文：社会的任何一个领域都不应该为了一个群体的利益而牺牲另一个群体的利益。\n\n关键词：preferential treatment\n\nI段最后一句说到we do not need or want any institutions that might lead to favoring one group over another，与题目表述一致。\n\n因此本题答案为C。\n\n题号：9\n\n题目译文：人们应当只在实际成就的基础上获得利益。\n\n关键词：gain benefits, what they actually achieve\n\nH段第一句末尾说到人们not necessarily equally rewarded for their accomplishments，之后第二句说到People are rewarded for what they accomplish，与题目表达的含义一致。\n\n因此本题答案为B。\n\n题号：10\n\n题目译文：智力的差异从出生就开始了。\n\n关键词：variation in inteligence, begins at birth\n\nG段前句说到people are born with different levels of intelligence，这种观点认为人们生来就具有不同的智力水平，这与题目表达的含义一致。\n\n因此本题答案为A。\n\n题号：11\n\n题目译文：智力更高的人应当掌握权力。\n\n关键词：the more intelligent people, in position of power\n\nG段第一句后半部分说到，那些智力稍逊的人需要智力优秀的人带领，无论他们被称为政府官员还是柏拉图语言中的“哲人王”，这与题目中the more intelligent people should be in positions of power含义一致。\n\n因此本题答案为A。\n\n题号：12\n\n题目译文：每个人都能够发展同样的能力。\n\n关键词：everyone, develop the same abilities\n\nI段首句提到all people are equal, not only as human beings but in terms of their competencies，并且进一步进行了解释，与题目的表述一致。\n\n因此本题答案为C。\n\n题号：13\n\n题目译文：低智力的人可能会过着混乱无序的生活。\n\n关键词：people of low intelligence, lead uncontrolled lives\n\nG段后半部分提到了non-elite (low-IQ) people who cannot take care of themselves，并且在最后句写到Left to themselves, the unintelligent would create, as they always have created, a kind of chaos，这与题目中lead uncontrolled lives含义一致。\n\n因此本题答案为A。",
+          "promptHtml": "[9] ______ People should only gain benefits on the basis of what they actually achieve."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "[10] ______ Variation in intelligence begins at birth.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6644_356128",
+          "explanation": "题号：7\n\n题目译文：每个人都应该可以享有同样的机会。\n\n关键词：the same possibilities, open to everyone\n\nH段第一句中说到了people should have equal opportunities, 这也是Jeffersonian的重要观点。\n\n因此本题答案为B。\n\n题号8：\n\n题目译文：社会的任何一个领域都不应该为了一个群体的利益而牺牲另一个群体的利益。\n\n关键词：preferential treatment\n\nI段最后一句说到we do not need or want any institutions that might lead to favoring one group over another，与题目表述一致。\n\n因此本题答案为C。\n\n题号：9\n\n题目译文：人们应当只在实际成就的基础上获得利益。\n\n关键词：gain benefits, what they actually achieve\n\nH段第一句末尾说到人们not necessarily equally rewarded for their accomplishments，之后第二句说到People are rewarded for what they accomplish，与题目表达的含义一致。\n\n因此本题答案为B。\n\n题号：10\n\n题目译文：智力的差异从出生就开始了。\n\n关键词：variation in inteligence, begins at birth\n\nG段前句说到people are born with different levels of intelligence，这种观点认为人们生来就具有不同的智力水平，这与题目表达的含义一致。\n\n因此本题答案为A。\n\n题号：11\n\n题目译文：智力更高的人应当掌握权力。\n\n关键词：the more intelligent people, in position of power\n\nG段第一句后半部分说到，那些智力稍逊的人需要智力优秀的人带领，无论他们被称为政府官员还是柏拉图语言中的“哲人王”，这与题目中the more intelligent people should be in positions of power含义一致。\n\n因此本题答案为A。\n\n题号：12\n\n题目译文：每个人都能够发展同样的能力。\n\n关键词：everyone, develop the same abilities\n\nI段首句提到all people are equal, not only as human beings but in terms of their competencies，并且进一步进行了解释，与题目的表述一致。\n\n因此本题答案为C。\n\n题号：13\n\n题目译文：低智力的人可能会过着混乱无序的生活。\n\n关键词：people of low intelligence, lead uncontrolled lives\n\nG段后半部分提到了non-elite (low-IQ) people who cannot take care of themselves，并且在最后句写到Left to themselves, the unintelligent would create, as they always have created, a kind of chaos，这与题目中lead uncontrolled lives含义一致。\n\n因此本题答案为A。",
+          "promptHtml": "[10] ______ Variation in intelligence begins at birth."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "[11] ______ The more intelligent people should be in positions of power.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6644_827561",
+          "explanation": "题号：7\n\n题目译文：每个人都应该可以享有同样的机会。\n\n关键词：the same possibilities, open to everyone\n\nH段第一句中说到了people should have equal opportunities, 这也是Jeffersonian的重要观点。\n\n因此本题答案为B。\n\n题号8：\n\n题目译文：社会的任何一个领域都不应该为了一个群体的利益而牺牲另一个群体的利益。\n\n关键词：preferential treatment\n\nI段最后一句说到we do not need or want any institutions that might lead to favoring one group over another，与题目表述一致。\n\n因此本题答案为C。\n\n题号：9\n\n题目译文：人们应当只在实际成就的基础上获得利益。\n\n关键词：gain benefits, what they actually achieve\n\nH段第一句末尾说到人们not necessarily equally rewarded for their accomplishments，之后第二句说到People are rewarded for what they accomplish，与题目表达的含义一致。\n\n因此本题答案为B。\n\n题号：10\n\n题目译文：智力的差异从出生就开始了。\n\n关键词：variation in inteligence, begins at birth\n\nG段前句说到people are born with different levels of intelligence，这种观点认为人们生来就具有不同的智力水平，这与题目表达的含义一致。\n\n因此本题答案为A。\n\n题号：11\n\n题目译文：智力更高的人应当掌握权力。\n\n关键词：the more intelligent people, in position of power\n\nG段第一句后半部分说到，那些智力稍逊的人需要智力优秀的人带领，无论他们被称为政府官员还是柏拉图语言中的“哲人王”，这与题目中the more intelligent people should be in positions of power含义一致。\n\n因此本题答案为A。\n\n题号：12\n\n题目译文：每个人都能够发展同样的能力。\n\n关键词：everyone, develop the same abilities\n\nI段首句提到all people are equal, not only as human beings but in terms of their competencies，并且进一步进行了解释，与题目的表述一致。\n\n因此本题答案为C。\n\n题号：13\n\n题目译文：低智力的人可能会过着混乱无序的生活。\n\n关键词：people of low intelligence, lead uncontrolled lives\n\nG段后半部分提到了non-elite (low-IQ) people who cannot take care of themselves，并且在最后句写到Left to themselves, the unintelligent would create, as they always have created, a kind of chaos，这与题目中lead uncontrolled lives含义一致。\n\n因此本题答案为A。",
+          "promptHtml": "[11] ______ The more intelligent people should be in positions of power."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "[12] ______ Everyone can develop the same abilities.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6644_817069",
+          "explanation": "题号：7\n\n题目译文：每个人都应该可以享有同样的机会。\n\n关键词：the same possibilities, open to everyone\n\nH段第一句中说到了people should have equal opportunities, 这也是Jeffersonian的重要观点。\n\n因此本题答案为B。\n\n题号8：\n\n题目译文：社会的任何一个领域都不应该为了一个群体的利益而牺牲另一个群体的利益。\n\n关键词：preferential treatment\n\nI段最后一句说到we do not need or want any institutions that might lead to favoring one group over another，与题目表述一致。\n\n因此本题答案为C。\n\n题号：9\n\n题目译文：人们应当只在实际成就的基础上获得利益。\n\n关键词：gain benefits, what they actually achieve\n\nH段第一句末尾说到人们not necessarily equally rewarded for their accomplishments，之后第二句说到People are rewarded for what they accomplish，与题目表达的含义一致。\n\n因此本题答案为B。\n\n题号：10\n\n题目译文：智力的差异从出生就开始了。\n\n关键词：variation in inteligence, begins at birth\n\nG段前句说到people are born with different levels of intelligence，这种观点认为人们生来就具有不同的智力水平，这与题目表达的含义一致。\n\n因此本题答案为A。\n\n题号：11\n\n题目译文：智力更高的人应当掌握权力。\n\n关键词：the more intelligent people, in position of power\n\nG段第一句后半部分说到，那些智力稍逊的人需要智力优秀的人带领，无论他们被称为政府官员还是柏拉图语言中的“哲人王”，这与题目中the more intelligent people should be in positions of power含义一致。\n\n因此本题答案为A。\n\n题号：12\n\n题目译文：每个人都能够发展同样的能力。\n\n关键词：everyone, develop the same abilities\n\nI段首句提到all people are equal, not only as human beings but in terms of their competencies，并且进一步进行了解释，与题目的表述一致。\n\n因此本题答案为C。\n\n题号：13\n\n题目译文：低智力的人可能会过着混乱无序的生活。\n\n关键词：people of low intelligence, lead uncontrolled lives\n\nG段后半部分提到了non-elite (low-IQ) people who cannot take care of themselves，并且在最后句写到Left to themselves, the unintelligent would create, as they always have created, a kind of chaos，这与题目中lead uncontrolled lives含义一致。\n\n因此本题答案为A。",
+          "promptHtml": "[12] ______ Everyone can develop the same abilities."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "[13] ______ People of low intelligence are likely to lead uncontrolled lives.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6644_783046",
+          "explanation": "题号：7\n\n题目译文：每个人都应该可以享有同样的机会。\n\n关键词：the same possibilities, open to everyone\n\nH段第一句中说到了people should have equal opportunities, 这也是Jeffersonian的重要观点。\n\n因此本题答案为B。\n\n题号8：\n\n题目译文：社会的任何一个领域都不应该为了一个群体的利益而牺牲另一个群体的利益。\n\n关键词：preferential treatment\n\nI段最后一句说到we do not need or want any institutions that might lead to favoring one group over another，与题目表述一致。\n\n因此本题答案为C。\n\n题号：9\n\n题目译文：人们应当只在实际成就的基础上获得利益。\n\n关键词：gain benefits, what they actually achieve\n\nH段第一句末尾说到人们not necessarily equally rewarded for their accomplishments，之后第二句说到People are rewarded for what they accomplish，与题目表达的含义一致。\n\n因此本题答案为B。\n\n题号：10\n\n题目译文：智力的差异从出生就开始了。\n\n关键词：variation in inteligence, begins at birth\n\nG段前句说到people are born with different levels of intelligence，这种观点认为人们生来就具有不同的智力水平，这与题目表达的含义一致。\n\n因此本题答案为A。\n\n题号：11\n\n题目译文：智力更高的人应当掌握权力。\n\n关键词：the more intelligent people, in position of power\n\nG段第一句后半部分说到，那些智力稍逊的人需要智力优秀的人带领，无论他们被称为政府官员还是柏拉图语言中的“哲人王”，这与题目中the more intelligent people should be in positions of power含义一致。\n\n因此本题答案为A。\n\n题号：12\n\n题目译文：每个人都能够发展同样的能力。\n\n关键词：everyone, develop the same abilities\n\nI段首句提到all people are equal, not only as human beings but in terms of their competencies，并且进一步进行了解释，与题目的表述一致。\n\n因此本题答案为C。\n\n题号：13\n\n题目译文：低智力的人可能会过着混乱无序的生活。\n\n关键词：people of low intelligence, lead uncontrolled lives\n\nG段后半部分提到了non-elite (low-IQ) people who cannot take care of themselves，并且在最后句写到Left to themselves, the unintelligent would create, as they always have created, a kind of chaos，这与题目中lead uncontrolled lives含义一致。\n\n因此本题答案为A。",
+          "promptHtml": "[13] ______ People of low intelligence are likely to lead uncontrolled lives."
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 7-13</em></strong></p>\n\n<p><em>Look at the following statements (Questions 7-13) and the list of theories below.</em></p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Choose the correct answer and move it into the gap.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n<p><strong>[7] ______</strong> It is desirable for the same possibilities to be open to everyone.<br>\n<strong>[8] ______</strong> No section of society should have preferential treatment at the expense of another.<br>\n<strong>[9] ______</strong> People should only gain benefits on the basis of what they actually achieve.<br>\n<strong>[10] ______</strong> Variation in intelligence begins at birth.<br>\n<strong>[11] ______</strong> The more intelligent people should be in positions of power.<br>\n<strong>[12] ______</strong> Everyone can develop the same abilities.<br>\n<strong>[13] ______</strong> People of low intelligence are likely to lead uncontrolled lives.</p>\n",
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Hamiltonian"
+        },
+        {
+          "value": "B",
+          "text": "Jeffersonian"
+        },
+        {
+          "value": "C",
+          "text": "Jacksonian"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The concept of intelligence</strong></span></p><p><strong>A    </strong>Looked at in one way, everyone knows what intelligence is; looked at in another way, no one does. In other words, people all have unconscious notions-known as &#x27;implicit theories&#x27; - of intelligence, but no one knows for certain what it actually is. This chapter addresses how people conceptualize intelligence, whatever it may actually be.</p><p>But why should we even care what people think intelligence is, as opposed only to valuing whatever it actually is? There are at least four reasons people&#x27;s conceptions of intelligence matter.</p><p><strong>B    </strong>First, implicit theories of intelligence drive the way in which people perceive and evaluate their own intelligence and that of others. To better understand the judgments people make about their own and others&#x27; abilities, it is useful to learn about people&#x27;s implicit theories. For example, parents&#x27; implicit theories of their children&#x27;s language development will determine at what ages they will be willing to make various corrections in their children&#x27;s speech. More generally, parents&#x27; implicit theories of intelligence will determine at what ages they believe their children are ready to perform various cognitive tasks. Job interviewers will make hiring decisions on the basis of their implicit theories of intelligence. People will decide who to be friends with on the basis of such theories. In sum, knowledge about implicit theories of intelligence is important because this knowledge is so often used by people to make judgments in the course of their everyday lives.</p><p><strong>C    </strong>Second, the implicit theories of scientific investigators ultimately give rise to their explicit theories. Thus it is useful to find out what these implicit theories are. Implicit theories provide a framework that is useful in defining the general scope of a phenomenon - especially a not-well-understood phenomenon. These implicit theories can suggest what aspects of the phenomenon have been more or less attended to in previous investigations.</p><p><strong>D    </strong>Third, implicit theories can be useful when an investigator suspects that existing explicit theories are wrong or misleading. If an investigation of implicit theories reveals little correspondence between the extant implicit and explicit theories, the implicit theories may be wrong. But the possibility also needs to be taken into account that the explicit theories are wrong and in need of correction or supplementation. For example, some implicit theories of intelligence suggest the need for expansion of some of our explicit theories of the construct.</p><p><strong>E    </strong>Finally, understanding implicit theories of intelligence can help elucidate developmental and cross-cultural differences. As mentioned earlier, people have expectations for intellectual performances that differ for children of different ages. How these expectations differ is in part a function of culture. For example, expectations for children who participate in Western-style schooling are almost certain to be different from those for children who do not participate in such schooling.</p><p><strong>F    </strong>I have suggested that there are three major implicit theories of how intelligence relates to society as a whole (Sternberg, 1997). These might be called Hamiltonian, Jeffersonian, and Jacksonian. These views are not based strictly, but rather, loosely, on the philosophies of Alexander Hamilton, Thomas Jefferson, and Andrew Jackson, three great statesmen in the history of the United States.</p><p><strong>G    </strong>The Hamiltonian view, which is similar to the Platonic view, is that people are born with different levels of intelligence and that those who are less intelligent need the good offices of the more intelligent to keep them in line, whether they are called government officials or, in Plato&#x27;s term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this belief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually would have to take responsibility for the largely irresponsible masses of non-elite (low-IQ) people who cannot take care of themselves. Left to themselves, the unintelligent would create, as they always have created, a kind of chaos.</p><p><strong>H    </strong>The Jeffersonian view is that people should have equal opportunities, but they do not necessarily avail themselves equally of these opportunities and are not necessarily equally rewarded for their accomplishments. People are rewarded for what they accomplish, if given equal opportunity. Low achievers are not rewarded to the same extent as high achievers. In the Jeffersonian view, the goal of education is not to favor or foster an elite, as in the Hamiltonian tradition, but rather to allow children the opportunities to make full use of the skills they have. My own views are similar to these (Sternberg, 1997).</p><p><strong>I    </strong>The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies - that one person would serve as well as another in government or on a jury or in almost any position of responsibility. In this view of democracy, people are essentially intersubstitutable except for specialized skills, all of which can be learned. In this view, we do not need or want any institutions that might lead to favoring one group over another.</p><p><strong>J    </strong>Implicit theories of intelligence and of the relationship of intelligence to society perhaps need to be considered more carefully than they have been because they often serve as underlying presuppositions for explicit theories and even experimental designs that are then taken as scientific contributions. Until scholars are able to discuss their implicit theories and thus their assumptions, they are likely to miss the point of what others are saying when discussing their explicit theories and their data.</p>"
+}

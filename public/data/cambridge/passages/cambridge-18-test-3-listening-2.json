@@ -1,0 +1,438 @@
+{
+  "id": "cambridge-18-test-3-listening-2",
+  "title": "C18T3L2",
+  "titleCn": "C18T3L2",
+  "subject": "listening",
+  "part": 2,
+  "duration": 467,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 3
+  },
+  "sourceQuestionId": "8460",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8460",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Presenter: This evening we’re delighted to welcome Dan Beagle, who’s just written a book on looking for and finding food in the wild. He’s going to tell us everything we need to know about picking wild mushrooms."
+    },
+    {
+      "label": "2",
+      "text": "Dan: Thank you very much. Well, I need to start by talking about safety. You really need to know what you’re doing because some mushrooms are extremely poisonous. Having said that, once you know what to look for, it’s really worth doing for the amazing variety of mushrooms available – which you can’t get in the shops. But of course, you have to be very careful and that’s why I always say you should never consume mushrooms picked by friends or neighbours – always remember that some poisonous mushrooms look very similar to edible ones and it’s easy for people to get confused. The other thing to avoid is mushrooms growing beside busy roads for obvious reasons. But nothing beats the taste of freshly picked mushrooms – don’t forget that the ones in the shops are often several days old and past their best."
+    },
+    {
+      "label": "3",
+      "text": "There are certain ideas about wild mushrooms that it’s important to be aware of. Don’t listen to people who tell you that it’s only OK to eat mushrooms that are pale or dull – this is completely untrue. Some edible mushrooms are bright red, for example. Personally, I prefer mushrooms cooked but it won’t do you any harm to eat them uncooked in salads – it’s not necessary to peel them. Another thing you should remember is that you can’t tell if a mushroom is safe to eat by its smell – some of the most deadly mushrooms have no smell and taste quite nice, apparently. Finally, just because deer or squirrels eat a particular mushroom doesn’t mean that you can."
+    },
+    {
+      "label": "4",
+      "text": "Of course, mushroom picking is associated with the countryside but if you haven’t got a car, your local park can be a great place to start. There are usually a range of habitats where mushrooms grow, such as playing fields and wooded areas. But you need to be there first thing in the morning, as there’s likely be a lot of competition – not just from people but wildlife too. The deer often get the best mushrooms in my local park."
+    },
+    {
+      "label": "5",
+      "text": "If you’re a complete beginner, I wouldn’t recommend going alone or relying on photos in a book, even the one I’ve written! There are some really good phone apps for identifying mushrooms, but you can’t always rely on getting a good signal in the middle of a wood. If possible, you should go with a group led by an expert – you’ll stay safe and learn a lot that way."
+    },
+    {
+      "label": "6",
+      "text": "Conservation is a really important consideration and you must follow a few basic rules. You should never pick all the mushrooms in one area – collect only enough for your own needs. Be very careful that you don’t trample on young mushrooms or other plants. And make sure you don’t pick any mushrooms that are endangered and protected by law."
+    },
+    {
+      "label": "7",
+      "text": "There’s been a decline in some varieties of wild mushrooms in this part of the country. Restaurants are becoming more interested in locally sourced food like wild mushrooms, but the biggest problem is that so many new houses have been built in this area in the last ten years. And more water is being taken from rivers and reservoirs because of this, and mushroom habitats have been destroyed."
+    },
+    {
+      "label": "8",
+      "text": "Anyway, a word of advice on storing mushrooms. Collect them in a brown paper bag and as soon as you get home, put them in the fridge. They’ll be fine for a couple of days, but it’s best to cook them as soon as possible – after washing them really carefully first, of course."
+    },
+    {
+      "label": "9",
+      "text": "So everybody knows what a mushroom tastes like, right? Well, you’ll be surprised by the huge variety of wild mushrooms there are. Be adventurous! They’re great in so many dishes – stir fries, risottos, pasta. But just be aware that some people can react badly to certain varieties so it’s a good idea not to eat huge quantities to begin with."
+    },
+    {
+      "label": "10",
+      "text": "OK, so now I’m going to show you …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "multi",
+      "instruction": "Questions 11 and 12\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Which TWO warnings does Dan give about picking mushrooms?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8460_830801",
+          "options": [
+            {
+              "value": "A",
+              "text": "Don’t pick more than one variety of mushroom at a time."
+            },
+            {
+              "value": "B",
+              "text": "Don’t pick mushrooms near busy roads."
+            },
+            {
+              "value": "C",
+              "text": "Don’t eat mushrooms given to you."
+            },
+            {
+              "value": "D",
+              "text": "Don’t eat mushrooms while picking them."
+            },
+            {
+              "value": "E",
+              "text": "Don’t pick old mushrooms."
+            }
+          ],
+          "explanation": "原文首先提及start和safety，大致对应到题干中的warnings。之后原文说到amazing variety of mushrooms，A选项部分关键词出现，但选项中的more than和at a time在原文中没有对应内容，因此排除A选项。原文在这句之后出现But of course，but之后的信息应加以关注。原文中的never对应C选项的Don’t，consume对应选项的eat，原文中的picked by friends or neighbours和C选项的given to you大致对应，故C选项正确。之后原文中的The other thing提示即将出现下一项内容，这是部分多选题中会出现的一种提示表述。本句中的avoid对应选项中的否定表述Don’t，原文中的beside对应B选项的near，busy roads原词重现，因此B选项正确。在之后的原文中，D选项中的pick确实出现了，但说的是freshly picked mushrooms，指“新鲜采摘的蘑菇”，整体表达的意思是没有什么能够胜过新鲜采摘的蘑菇的味道。E选项中的old，在原文中表达的含义是商店里的蘑菇经常已经放了一些天了。D、E两项与原文表达的内容不符。因此正确答案为选项B和C。",
+          "setId": "Q8460_830801",
+          "blockId": "Q8460_830801"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Which TWO warnings does Dan give about picking mushrooms?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8460_830801",
+          "options": [
+            {
+              "value": "A",
+              "text": "Don’t pick more than one variety of mushroom at a time."
+            },
+            {
+              "value": "B",
+              "text": "Don’t pick mushrooms near busy roads."
+            },
+            {
+              "value": "C",
+              "text": "Don’t eat mushrooms given to you."
+            },
+            {
+              "value": "D",
+              "text": "Don’t eat mushrooms while picking them."
+            },
+            {
+              "value": "E",
+              "text": "Don’t pick old mushrooms."
+            }
+          ],
+          "explanation": "原文首先提及start和safety，大致对应到题干中的warnings。之后原文说到amazing variety of mushrooms，A选项部分关键词出现，但选项中的more than和at a time在原文中没有对应内容，因此排除A选项。原文在这句之后出现But of course，but之后的信息应加以关注。原文中的never对应C选项的Don’t，consume对应选项的eat，原文中的picked by friends or neighbours和C选项的given to you大致对应，故C选项正确。之后原文中的The other thing提示即将出现下一项内容，这是部分多选题中会出现的一种提示表述。本句中的avoid对应选项中的否定表述Don’t，原文中的beside对应B选项的near，busy roads原词重现，因此B选项正确。在之后的原文中，D选项中的pick确实出现了，但说的是freshly picked mushrooms，指“新鲜采摘的蘑菇”，整体表达的意思是没有什么能够胜过新鲜采摘的蘑菇的味道。E选项中的old，在原文中表达的含义是商店里的蘑菇经常已经放了一些天了。D、E两项与原文表达的内容不符。因此正确答案为选项B和C。",
+          "setId": "Q8460_830801",
+          "blockId": "Q8460_830801"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Don’t pick more than one variety of mushroom at a time."
+        },
+        {
+          "value": "B",
+          "text": "Don’t pick mushrooms near busy roads."
+        },
+        {
+          "value": "C",
+          "text": "Don’t eat mushrooms given to you."
+        },
+        {
+          "value": "D",
+          "text": "Don’t eat mushrooms while picking them."
+        },
+        {
+          "value": "E",
+          "text": "Don’t pick old mushrooms."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 13 and 14\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Which TWO ideas about wild mushrooms does Dan say are correct?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8460_762232",
+          "options": [
+            {
+              "value": "A",
+              "text": "Mushrooms should always be peeled before eating."
+            },
+            {
+              "value": "B",
+              "text": "Mushrooms eaten by animals may be unsafe."
+            },
+            {
+              "value": "C",
+              "text": "Cooking destroys toxins in mushrooms."
+            },
+            {
+              "value": "D",
+              "text": "Brightly coloured mushrooms can be edible."
+            },
+            {
+              "value": "E",
+              "text": "All poisonous mushrooms have a bad smell"
+            }
+          ],
+          "explanation": "首先wild mushrooms原词重现，题干关键词可定位。D选项的brightly coloured对应原文中的bright red，edible原词重现，因此D选项正确。C选项的cooking对应原文的cooked，但相关内容并不是选项中的destroys toxins，而是说话者更喜欢烹饪过的蘑菇，但未烹煮放在沙拉中也没事，故排除C选项。A选项的peeled在原文中对应peel，但原文出现否定表述not necessary，故排除A选项。E选项中的smell在原文中原词重现，但相关内容出现否定表述can’t tell，也就是说，无法通过味道判断蘑菇是否安全可食用，故排除E选项。之后原文中出现Finally，其作用相当于前面两题中的The other thing，提示到了下一项内容。大致定位后，原文的deer和squirrels对应B选项的animals，这种对应方式与前面D选项的red和coloured有相似之处。原文中提到否定表述doesn’t mean that you can，对应B选项中的may be unsafe，因此B选项为另一个正确选项。",
+          "setId": "Q8460_762232",
+          "blockId": "Q8460_762232"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Which TWO ideas about wild mushrooms does Dan say are correct?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8460_762232",
+          "options": [
+            {
+              "value": "A",
+              "text": "Mushrooms should always be peeled before eating."
+            },
+            {
+              "value": "B",
+              "text": "Mushrooms eaten by animals may be unsafe."
+            },
+            {
+              "value": "C",
+              "text": "Cooking destroys toxins in mushrooms."
+            },
+            {
+              "value": "D",
+              "text": "Brightly coloured mushrooms can be edible."
+            },
+            {
+              "value": "E",
+              "text": "All poisonous mushrooms have a bad smell"
+            }
+          ],
+          "explanation": "首先wild mushrooms原词重现，题干关键词可定位。D选项的brightly coloured对应原文中的bright red，edible原词重现，因此D选项正确。C选项的cooking对应原文的cooked，但相关内容并不是选项中的destroys toxins，而是说话者更喜欢烹饪过的蘑菇，但未烹煮放在沙拉中也没事，故排除C选项。A选项的peeled在原文中对应peel，但原文出现否定表述not necessary，故排除A选项。E选项中的smell在原文中原词重现，但相关内容出现否定表述can’t tell，也就是说，无法通过味道判断蘑菇是否安全可食用，故排除E选项。之后原文中出现Finally，其作用相当于前面两题中的The other thing，提示到了下一项内容。大致定位后，原文的deer和squirrels对应B选项的animals，这种对应方式与前面D选项的red和coloured有相似之处。原文中提到否定表述doesn’t mean that you can，对应B选项中的may be unsafe，因此B选项为另一个正确选项。",
+          "setId": "Q8460_762232",
+          "blockId": "Q8460_762232"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Mushrooms should always be peeled before eating."
+        },
+        {
+          "value": "B",
+          "text": "Mushrooms eaten by animals may be unsafe."
+        },
+        {
+          "value": "C",
+          "text": "Cooking destroys toxins in mushrooms."
+        },
+        {
+          "value": "D",
+          "text": "Brightly coloured mushrooms can be edible."
+        },
+        {
+          "value": "E",
+          "text": "All poisonous mushrooms have a bad smell"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "choice",
+      "instruction": "Questions 15–20\n\nChoose the correct letter, A, B or C",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "What advice does Dan give about picking mushrooms in parks?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8460_909862",
+          "options": [
+            {
+              "value": "A",
+              "text": "Choose wooded areas."
+            },
+            {
+              "value": "B",
+              "text": "Don’t disturb wildlife."
+            },
+            {
+              "value": "C",
+              "text": "Get there early."
+            }
+          ],
+          "explanation": "题干中的parks对应原文中的park，题干关键词大致定位。A选项的wooded areas原词重现，但在原文中这只是其中一个例子，原文表述的意思是，蘑菇生长在各种环境中，除了wooded areas还提到playing fields这一例子，故排除A选项。接下来原文中出现But，这类词之后的内容值得关注。原文的first thing in the morning对应C选项中的early。B选项的wildlife在原文中虽然原词重现，但相关内容是competition，而不是会打扰到动物。因此本题选C。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Dan says it is a good idea for beginners to",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8460_778098",
+          "options": [
+            {
+              "value": "A",
+              "text": "use a mushroom app."
+            },
+            {
+              "value": "B",
+              "text": "join a group."
+            },
+            {
+              "value": "C",
+              "text": "take a reference book."
+            }
+          ],
+          "explanation": "题干中的beginners对应原文的beginner，题干关键词大致定位。首先出现C选项相关内容，选项中的reference book对应原文的book，但本句包含否定表述wouldn’t recommend，故排除C选项。接下来提及A选项，app对应原文中的apps，但之后出现转折词but，然后说到不一定总是信号好，故排除A选项。B选项的group原词重现，相关表述与原文对应，因此本题选B。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "What does Dan say is important for conservation?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8460_824802",
+          "options": [
+            {
+              "value": "A",
+              "text": "selecting only fully grown mushrooms"
+            },
+            {
+              "value": "B",
+              "text": "picking a limited amount of mushrooms"
+            },
+            {
+              "value": "C",
+              "text": "avoiding areas where rare mushroom species grow"
+            }
+          ],
+          "explanation": "题干中的conservation在原文中原词重现，题干关键词大致定位。原文中首先说到never pick all the mushrooms以及collect only enough，其中pick和collect对应B选项的picking，never和only enough对应limited amount。C选项的rare mushroom虽然对应原文的endangered，但原文的意思是确保不要采摘它们，而不是选项中的避开哪些区域，排除C选项。A选项的内容在原文中并未提及。因此本题选B。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "According to Dan, some varieties of wild mushrooms are in decline because there is",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8460_285252",
+          "options": [
+            {
+              "value": "A",
+              "text": "a huge demand for them from restaurants."
+            },
+            {
+              "value": "B",
+              "text": "a lack of rain in this part of the country."
+            },
+            {
+              "value": "C",
+              "text": "a rise in building developments locally."
+            }
+          ],
+          "explanation": "题干中的varieties、wild mushrooms及decline在原文中原词重现（出现顺序稍有不同），题干关键词大致定位。A选项的restaurants在原文中原词重现，但原文未提及huge demand，而是说对从当地获得的食物更感兴趣，故排除A选项。之后出现转折词but，相关内容中so many对应C选项的rise，原文的new houses和built对应选项的building developments。B选项的rain，虽然看似和原文提及水的water、rivers和reservoirs有关，但相关性不够直接，而且没有lack对应的信息，故排除B选项。因此本题选C。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Dan says that when storing mushrooms, people should",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8460_687794",
+          "options": [
+            {
+              "value": "A",
+              "text": "keep them in the fridge for no more than two days."
+            },
+            {
+              "value": "B",
+              "text": "keep them in a brown bag in a dark room."
+            },
+            {
+              "value": "C",
+              "text": "leave them for a period after washing them."
+            }
+          ],
+          "explanation": "题干中的storing mushrooms在原文中原词重现，题干关键词大致定位。B选项中的brown和bag原词重现，但选项中的dark room在原文中没有提及，故排除B选项。A选项的fridge原词重现，原文中的a couple of days对应two days，而且原文提到最好尽快烹饪。C选项中的leave them for a period不符合原文表述。因此本题选A。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "What does Dan say about trying new varieties of mushrooms?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8460_282734",
+          "options": [
+            {
+              "value": "A",
+              "text": "Experiment with different recipes."
+            },
+            {
+              "value": "B",
+              "text": "Expect some to have a strong taste."
+            },
+            {
+              "value": "C",
+              "text": "Cook them for a long time."
+            }
+          ],
+          "explanation": "题干中的trying new varieties大致对应原文中的huge variety以及adventurous。原文中的dishes以及相关的三种烹饪方式：stir fries、risottos和pasta，对应A选项的different recipes。因此本题选A。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span><span>Presenter: This evening we’re delighted to welcome Dan Beagle, who’s just written a book on looking for and finding food in the wild. He’s going to tell us everything we need to know about picking wild mushrooms.</span></span></p>\n\n<p><span><span>Dan: Thank you very much. Well, I need to start by talking about safety. You really need to know what you’re doing because some mushrooms are extremely poisonous. Having said that, once you know what to look for, it’s really worth doing for the amazing variety of mushrooms available – which you can’t get in the shops. But of course, you have to be very careful and that’s why I always say you should never consume mushrooms picked by friends or neighbours – always remember that some poisonous mushrooms look very similar to edible ones and it’s easy for people to get confused. The other thing to avoid is mushrooms growing beside busy roads for obvious reasons. But nothing beats the taste of freshly picked mushrooms – don’t forget that the ones in the shops are often several days old and past their best.</span></span></p>\n\n<p><span><span>There are certain ideas about wild mushrooms that it’s important to be aware of. Don’t listen to people who tell you that it’s only OK to eat mushrooms that are pale or dull – this is completely untrue. Some edible mushrooms are bright red, for example. Personally, I prefer mushrooms cooked but it won’t do you any harm to eat them uncooked in salads – it’s not necessary to peel them. Another thing you should remember is that you can’t tell if a mushroom is safe to eat by its smell – some of the most deadly mushrooms have no smell and taste quite nice, apparently. Finally, just because deer or squirrels eat a particular mushroom doesn’t mean that you can.</span></span></p>\n\n<p><span><span>Of course, mushroom picking is associated with the countryside but if you haven’t got a car, your local park can be a great place to start. There are usually a range of habitats where mushrooms grow, such as playing fields and wooded areas. But you need to be there first thing in the morning, as there’s likely be a lot of competition – not just from people but wildlife too. The deer often get the best mushrooms in my local park. </span></span></p>\n\n<p><span><span>If you’re a complete beginner, I wouldn’t recommend going alone or relying on photos in a book, even the one I’ve written! There are some really good phone apps for identifying mushrooms, but you can’t always rely on getting a good signal in the middle of a wood. If possible, you should go with a group led by an expert – you’ll stay safe and learn a lot that way.</span></span></p>\n\n<p><span><span>Conservation is a really important consideration and you must follow a few basic rules. You should never pick all the mushrooms in one area – collect only enough for your own needs. Be very careful that you don’t trample on young mushrooms or other plants. And make sure you don’t pick any mushrooms that are endangered and protected by law.</span></span></p>\n\n<p><span><span>There’s been a decline in some varieties of wild mushrooms in this part of the country. Restaurants are becoming more interested in locally sourced food like wild mushrooms, but the biggest problem is that so many new houses have been built in this area in the last ten years. And more water is being taken from rivers and reservoirs because of this, and mushroom habitats have been destroyed. </span></span></p>\n\n<p><span><span>Anyway, a word of advice on storing mushrooms. Collect them in a brown paper bag and as soon as you get home, put them in the fridge. They’ll be fine for a couple of days, but it’s best to cook them as soon as possible – after washing them really carefully first, of course.</span></span></p>\n\n<p><span><span>So everybody knows what a mushroom tastes like, right? Well, you’ll be surprised by the huge variety of wild mushrooms there are. Be adventurous! They’re great in so many dishes – stir fries, risottos, pasta. But just be aware that some people can react badly to certain varieties so it’s a good idea not to eat huge quantities to begin with.</span></span></p>\n\n<p><span><span>OK, so now I’m going to show you …</span></span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8460.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 467.417
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "cambridge-14-test-4-reading-3",
+  "title": "C14T4R3",
+  "titleCn": "C14T4R3",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 14,
+    "test": 4
+  },
+  "sourceQuestionId": "6662",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6662",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Chelsea Rochman, an ecologist at the University of California, Davis, has been trying to answer a dismal question: Is everything terrible, or are things just very, very bad?"
+    },
+    {
+      "label": "2",
+      "text": "Rochman is a member of the National Center for Ecological Analysis and Synthesis's marine-debris working group, a collection of scientists who study, among other things, the growing problem of marine debris, also known as ocean trash. Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology, Rochman and her colleagues set out to determine how many of those perceived risks are real."
+    },
+    {
+      "label": "3",
+      "text": "Often, Rochman says，scientists will end a paper by speculating about the broader impacts of what they've found. For example, a study could show that certain seabirds eat plastic bags, and go on to warn that whole bird populations are at risk of dying out. ‘But the truth was that nobody had yet tested those perceived threats,’ Rochman says. 'There wasn't a lot of information.'"
+    },
+    {
+      "label": "4",
+      "text": "Rochman and her colleagues examined more than a hundred papers on the impacts of marine debris that were published through 2013. Within each paper, they asked what threats scientists had studied - 366 perceived threats in all - and what they'd actually found."
+    },
+    {
+      "label": "5",
+      "text": "In 83 percent of cases, the perceived dangers of ocean trash were proven true. In the remaining cases, the working group found the studies had weaknesses in design and content which affected the validity of their conclusions-they lacked a control group, for example, or used faulty statistics."
+    },
+    {
+      "label": "6",
+      "text": "Strikingly, Rochman says, only one well-designed study failed to find the effect it was looking for, an investigation of mussels ingesting microscopic plastic bits. The plastic moved from the Mussels' stomachs to their bloodstreams, scientists found, and stayed there for weeks - but didn't seem to stress out the shellfish."
+    },
+    {
+      "label": "7",
+      "text": "While mussels may be fine eating trash, though, the analysis also gave a clearer picture of the many ways that ocean debris is bothersome."
+    },
+    {
+      "label": "8",
+      "text": "Within the studies they looked at, most of the proven threats came from plastic debris, rather than other materials like metal or wood. Most of the dangers also involved large pieces of debris - animals getting entangled in trash, for example, or eating it and severely injuring themselves."
+    },
+    {
+      "label": "9",
+      "text": "But a lot of ocean debris is 'microplastic', or pieces smaller than five millimeters. These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris. Compared to the number of studies investigating large-scale debris, Rochman's group found little research on the effects of these tiny bits. 'There are a lot of open questions still for microplastic', Rochman says, though she notes that more papers on the subject have been published since 2013, the cutoff point for the group's analysis."
+    },
+    {
+      "label": "10",
+      "text": "There are also, she adds, a lot of open questions about the ways that ocean debris can lead to sea-creature death. Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations. And in the lab, scientists often use higher concentrations of plastic than what’s really in the ocean. None of that tells us how many birds or fish or sea turtles could die from plastic pollution — or how deaths in one species could affect that animal's predators, or the rest of the ecosystem."
+    },
+    {
+      "label": "11",
+      "text": "'We need to be asking more ecologically relevant questions,' Rochman says. Usually, scientists don't know exactly how disasters such as a tanker accidentally spilling its whole cargo of oil and polluting huge areas of the ocean will affect the environment until after they've happened. 'We don't ask the right questions early enough,' she says. But if ecologists can understand how the slow-moving effect of ocean trash is damaging ecosystems, they might be able to prevent things from getting worse."
+    },
+    {
+      "label": "12",
+      "text": "Asking the right questions can help policy makers, and the public, figure out where to focus their attention. The problems that look or sound most dramatic may not be the best places to start. For example, the name of the 'Great Pacific Garbage Patch' — a collection of marine debris in the northern Pacific Ocean—might conjure up a vast, floating trash island. In reality though, much of the debris is tiny or below the surface; a person could sail through the area without seeing any trash at all. A Dutch group called 'The Ocean Cleanup' is currently working on plans to put mechanical devices in the Pacific Garbage Patch and similar areas to suck up plastic. But a recent paper used simulations to show that strategically positioning the cleanup devices closer to shore would more effectively reduce pollution over the long term."
+    },
+    {
+      "label": "13",
+      "text": "'I think clearing up some of these misperceptions is really important', Rochman says. Among scientists as well as in the media, she says, 'A lot of the images about strandings and entanglement and all of that cause the perception that plastic debris is killing everything in the ocean.' Interrogating the existing scientific literature can help ecologists figure out which problems really need addressing, and which ones they'd be better off—like the mussels—absorbing and ignoring."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 27-33\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Rochman and her colleagues were the first people to research the problem of marine debris.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6662_769660",
+          "explanation": "参考译文：Rochman和她的同事是最先研究海洋废弃物问题的人。\n\n定位词：Rochman and her colleagues\n\n第二段第二句：Plenty of studies have...how many of those perceived risks are real.\n\n文中第二段第二句说到Plenty of studies have sounded alarm bells about the state of marine debris，而后全文都涉及了之前的研究者对这一课题的研究，因此Rochman和她的同事们不是最先研究这一课题的人。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "The creatures most in danger from ocean trash are certain seabirds.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6662_490856",
+          "explanation": "参考译文：受到海洋垃圾威胁最严重的生物是一些海鸟。\n\n定位词：The creatures most in danger from ocean trash\n\n第三段第二句：For example, a study could show...whole bird populations are at risk of dying out.的例子中讲到了certain seabirds，用来说明人们会在自己的研究中对将来可能出现的危机进行推断，但是并没有提及它们是不是受到海洋垃圾威胁最严重的物种。\n\n因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "The studies Rochman has reviewed have already proved that populations of some\n\nbirds will soon become extinct.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6662_221776",
+          "explanation": "参考译文：Rochman分析的研究已经证明些鸟类很快会灭绝。\n\n定位词：The studies Rochman has reviewed\n\n第三段第三句：‘But the truth was that nobody had yet tested those perceived threats,’Rochman says. ‘There wasn't a lot of information.’\n\n文中第三段第二、三句说到，例如，一份研究可以说明某种海鸟误食塑料袋，并进而警示人们整个鸟群都可能面临灭绝。“但事实是没有人验证过这些潜在的威胁，”Rochman说。因此从第三段的信息可知，实际上之前的研究并没有proved that populations of some birds will soon become extinct，这与题目表述相反。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Rochman analysed papers on the different kinds of danger caused by ocean trash.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6662_996822",
+          "explanation": "参考译文：Rohman分析了关于海洋垃圾带来的不同种类的危险的论文。\n\n定位词：Rochman analysed papers\n\n第四段第二句：Within each paper, they asked what threats scientists had studied...and what they'd actually found.\n\n文中第四段说到Rochman对有关海洋垃圾影响的论文进行了分析，其中第二句说到，在每篇论文中，他们探求科学家们研究了哪些威胁以及他们的实际发现。这与题目表述的含义一致。\n\n因此本题答案为TRUE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Most of the research analysed by Rochman and her colleagues was badly\n\ndesigned.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6662_923421",
+          "explanation": "参考译文：Rochman和同事们分析的大多数研究都设计得有问题。\n\n定位词：Most of the research\n\n第五段：In 83 percent of cases, the perceived dangers...or used faulty statistics.\n\n文中第五段对Rochman分析的论文情况进行了说明，其中在83%的案例中，海洋垃圾的潜在危险被证明是真实的，在剩余的案例中，工作组发现这些研究在设计和内容方面存在缺陷，这些缺陷影响了研究结论的有效性。这与题目中的“大多数研究都设计得有问题”不一致。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "One study examined by Rochman was expecting to find that mussels were harmed\n\nby eating plastic.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6662_411887",
+          "explanation": "参考译文：Rochman 分析的一项研究预期发现贻贝受到了误食塑料的危害。\n\n定位词：One study examined by Rochman\n\n第六段：Strikingly, Rochman says, only one well-designed study...didn't seem to stress out the shellfish.\n\n文中第六段说到，只有一项设计完善的研究没有发现它预期的影响，这是一项有关贻贝误食微小塑料碎片的调查。科学家发现，塑料从贻贝的胃部移动到血液中，并在那里停留了几个星期——但似乎并没有使这一甲壳类动物受到损伤。这与题目中的表述一致。\n\n因此本题答案为TRUE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Some mussels choose to eat plastic in preference to their natural diet.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6662_676953",
+          "explanation": "参考译文：一些贻贝选择食用塑料而非自然界的食物。\n\n定位词：Some mussels choose\n\n第七段While mussels may be fine eating trash, though, the analysis also gave a clearer picture of the many ways that ocean debris is bothersome说到，尽管贻贝误食垃圾或许没有影响，但是分析依然清楚地指出海洋垃圾在很多方面是令人烦恼的。其中没有涉及贻贝在食物方面的preference。\n\n因此本题答案为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 34-39\n\nComplete the notes below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "• bits of debris that were [34] ______(harmful to animals)",
+          "answers": [
+            "large"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6662_526240",
+          "explanation": "题号：34\n\n定位词：metal, wood, bits\n\n第八段第二句：Most of the dangers also involved...or eating it and severely injuring themselves.本题可以根据上一行的plastic (not metal or wood)帮助确认答题区域，然后将题目与第八段第二句进行对应，原文中large pieces of debris与题目对应。因此本题答案为large。\n\n题号：35\n\n定位词：ittle research, synthetic fibers\n\n第九段第二句：These maybe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.根据题目中的定位词，可以在第九段找到对应的句子，其中第一句提到的microplastic是这部分描写的重点，而文中的fibers shed by synthetic clothing也与题目信息对应。因此本题答案为microplastic。\n\n题号：36\n\n定位词：individual animals, entire\n\n第十段第二句：Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations.题目中的表述出现在原文第十段第二句，句中说到多数研究关注塑料对an individual animal的影响，而非whole populations，其中whole与题目中entire含义一致，因此本题答案为populations。\n\n题号：37\n\n定位词：lab\n\n第十段第三句：And in the lab, scientists often use higher concentrations of plastic than what's really in the ocean.第十段第三句写到，在实验室中，科学家通常使用比海洋中实际浓度更高的塑料，这一信息与题目表述一致，再将其中的对应名词找到，因此本题答案为concentrations。\n\n题号：38\n\n定位词：reduction\n\n第十段第四句：None of that tells us...the rest of the ecosystem.本题列举了存在的insufficient information，其中第十段第四句提到了关于how deaths in one species could affect that animal's predators，这一信息与本题对应，因此本题答案为predators。\n\n题号：39\n\n定位词：future, oil\n\n第十一段第二句：Usually, scientists don't know exactly...until after they've happened.文中第十一段写到，通常，对于游轮意外地泄露整船石油并污染大片海洋这类事件，科学家们直到事情发生才能准确地知道灾难对环境产生的影响，与题目表述一致，因此本题答案为disasters。",
+          "promptHtml": "• bits of debris that were [34] ______(harmful to animals)"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "There was little research into [35] ______e.g. from synthetic fibres.",
+          "answers": [
+            "microplastic"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6662_468179",
+          "explanation": "题号：34\n\n定位词：metal, wood, bits\n\n第八段第二句：Most of the dangers also involved...or eating it and severely injuring themselves.本题可以根据上一行的plastic (not metal or wood)帮助确认答题区域，然后将题目与第八段第二句进行对应，原文中large pieces of debris与题目对应。因此本题答案为large。\n\n题号：35\n\n定位词：ittle research, synthetic fibers\n\n第九段第二句：These maybe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.根据题目中的定位词，可以在第九段找到对应的句子，其中第一句提到的microplastic是这部分描写的重点，而文中的fibers shed by synthetic clothing也与题目信息对应。因此本题答案为microplastic。\n\n题号：36\n\n定位词：individual animals, entire\n\n第十段第二句：Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations.题目中的表述出现在原文第十段第二句，句中说到多数研究关注塑料对an individual animal的影响，而非whole populations，其中whole与题目中entire含义一致，因此本题答案为populations。\n\n题号：37\n\n定位词：lab\n\n第十段第三句：And in the lab, scientists often use higher concentrations of plastic than what's really in the ocean.第十段第三句写到，在实验室中，科学家通常使用比海洋中实际浓度更高的塑料，这一信息与题目表述一致，再将其中的对应名词找到，因此本题答案为concentrations。\n\n题号：38\n\n定位词：reduction\n\n第十段第四句：None of that tells us...the rest of the ecosystem.本题列举了存在的insufficient information，其中第十段第四句提到了关于how deaths in one species could affect that animal's predators，这一信息与本题对应，因此本题答案为predators。\n\n题号：39\n\n定位词：future, oil\n\n第十一段第二句：Usually, scientists don't know exactly...until after they've happened.文中第十一段写到，通常，对于游轮意外地泄露整船石油并污染大片海洋这类事件，科学家们直到事情发生才能准确地知道灾难对环境产生的影响，与题目表述一致，因此本题答案为disasters。",
+          "promptHtml": "There was little research into [35] ______e.g. from synthetic fibres."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "• most of them focused on individual animals, not entire [36] ______",
+          "answers": [
+            "populations"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6662_113691",
+          "explanation": "题号：34\n\n定位词：metal, wood, bits\n\n第八段第二句：Most of the dangers also involved...or eating it and severely injuring themselves.本题可以根据上一行的plastic (not metal or wood)帮助确认答题区域，然后将题目与第八段第二句进行对应，原文中large pieces of debris与题目对应。因此本题答案为large。\n\n题号：35\n\n定位词：ittle research, synthetic fibers\n\n第九段第二句：These maybe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.根据题目中的定位词，可以在第九段找到对应的句子，其中第一句提到的microplastic是这部分描写的重点，而文中的fibers shed by synthetic clothing也与题目信息对应。因此本题答案为microplastic。\n\n题号：36\n\n定位词：individual animals, entire\n\n第十段第二句：Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations.题目中的表述出现在原文第十段第二句，句中说到多数研究关注塑料对an individual animal的影响，而非whole populations，其中whole与题目中entire含义一致，因此本题答案为populations。\n\n题号：37\n\n定位词：lab\n\n第十段第三句：And in the lab, scientists often use higher concentrations of plastic than what's really in the ocean.第十段第三句写到，在实验室中，科学家通常使用比海洋中实际浓度更高的塑料，这一信息与题目表述一致，再将其中的对应名词找到，因此本题答案为concentrations。\n\n题号：38\n\n定位词：reduction\n\n第十段第四句：None of that tells us...the rest of the ecosystem.本题列举了存在的insufficient information，其中第十段第四句提到了关于how deaths in one species could affect that animal's predators，这一信息与本题对应，因此本题答案为predators。\n\n题号：39\n\n定位词：future, oil\n\n第十一段第二句：Usually, scientists don't know exactly...until after they've happened.文中第十一段写到，通常，对于游轮意外地泄露整船石油并污染大片海洋这类事件，科学家们直到事情发生才能准确地知道灾难对环境产生的影响，与题目表述一致，因此本题答案为disasters。",
+          "promptHtml": "• most of them focused on individual animals, not entire [36] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "• the [37] ______of plastic used in the lab did not always reflect those in the ocean",
+          "answers": [
+            "concentrations"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6662_405012",
+          "explanation": "题号：34\n\n定位词：metal, wood, bits\n\n第八段第二句：Most of the dangers also involved...or eating it and severely injuring themselves.本题可以根据上一行的plastic (not metal or wood)帮助确认答题区域，然后将题目与第八段第二句进行对应，原文中large pieces of debris与题目对应。因此本题答案为large。\n\n题号：35\n\n定位词：ittle research, synthetic fibers\n\n第九段第二句：These maybe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.根据题目中的定位词，可以在第九段找到对应的句子，其中第一句提到的microplastic是这部分描写的重点，而文中的fibers shed by synthetic clothing也与题目信息对应。因此本题答案为microplastic。\n\n题号：36\n\n定位词：individual animals, entire\n\n第十段第二句：Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations.题目中的表述出现在原文第十段第二句，句中说到多数研究关注塑料对an individual animal的影响，而非whole populations，其中whole与题目中entire含义一致，因此本题答案为populations。\n\n题号：37\n\n定位词：lab\n\n第十段第三句：And in the lab, scientists often use higher concentrations of plastic than what's really in the ocean.第十段第三句写到，在实验室中，科学家通常使用比海洋中实际浓度更高的塑料，这一信息与题目表述一致，再将其中的对应名词找到，因此本题答案为concentrations。\n\n题号：38\n\n定位词：reduction\n\n第十段第四句：None of that tells us...the rest of the ecosystem.本题列举了存在的insufficient information，其中第十段第四句提到了关于how deaths in one species could affect that animal's predators，这一信息与本题对应，因此本题答案为predators。\n\n题号：39\n\n定位词：future, oil\n\n第十一段第二句：Usually, scientists don't know exactly...until after they've happened.文中第十一段写到，通常，对于游轮意外地泄露整船石油并污染大片海洋这类事件，科学家们直到事情发生才能准确地知道灾难对环境产生的影响，与题目表述一致，因此本题答案为disasters。",
+          "promptHtml": "• the [37] ______of plastic used in the lab did not always reflect those in the ocean"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "- the impact of a reduction in numbers on the [38] ______of that species",
+          "answers": [
+            "predators"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6662_254304",
+          "explanation": "题号：34\n\n定位词：metal, wood, bits\n\n第八段第二句：Most of the dangers also involved...or eating it and severely injuring themselves.本题可以根据上一行的plastic (not metal or wood)帮助确认答题区域，然后将题目与第八段第二句进行对应，原文中large pieces of debris与题目对应。因此本题答案为large。\n\n题号：35\n\n定位词：ittle research, synthetic fibers\n\n第九段第二句：These maybe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.根据题目中的定位词，可以在第九段找到对应的句子，其中第一句提到的microplastic是这部分描写的重点，而文中的fibers shed by synthetic clothing也与题目信息对应。因此本题答案为microplastic。\n\n题号：36\n\n定位词：individual animals, entire\n\n第十段第二句：Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations.题目中的表述出现在原文第十段第二句，句中说到多数研究关注塑料对an individual animal的影响，而非whole populations，其中whole与题目中entire含义一致，因此本题答案为populations。\n\n题号：37\n\n定位词：lab\n\n第十段第三句：And in the lab, scientists often use higher concentrations of plastic than what's really in the ocean.第十段第三句写到，在实验室中，科学家通常使用比海洋中实际浓度更高的塑料，这一信息与题目表述一致，再将其中的对应名词找到，因此本题答案为concentrations。\n\n题号：38\n\n定位词：reduction\n\n第十段第四句：None of that tells us...the rest of the ecosystem.本题列举了存在的insufficient information，其中第十段第四句提到了关于how deaths in one species could affect that animal's predators，这一信息与本题对应，因此本题答案为predators。\n\n题号：39\n\n定位词：future, oil\n\n第十一段第二句：Usually, scientists don't know exactly...until after they've happened.文中第十一段写到，通常，对于游轮意外地泄露整船石油并污染大片海洋这类事件，科学家们直到事情发生才能准确地知道灾难对环境产生的影响，与题目表述一致，因此本题答案为disasters。",
+          "promptHtml": "- the impact of a reduction in numbers on the [38] ______of that species"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Rochman says more information is needed on the possible impact of future [39] ______(e.g. involving oil).",
+          "answers": [
+            "disasters"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6662_837672",
+          "explanation": "题号：34\n\n定位词：metal, wood, bits\n\n第八段第二句：Most of the dangers also involved...or eating it and severely injuring themselves.本题可以根据上一行的plastic (not metal or wood)帮助确认答题区域，然后将题目与第八段第二句进行对应，原文中large pieces of debris与题目对应。因此本题答案为large。\n\n题号：35\n\n定位词：ittle research, synthetic fibers\n\n第九段第二句：These maybe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.根据题目中的定位词，可以在第九段找到对应的句子，其中第一句提到的microplastic是这部分描写的重点，而文中的fibers shed by synthetic clothing也与题目信息对应。因此本题答案为microplastic。\n\n题号：36\n\n定位词：individual animals, entire\n\n第十段第二句：Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations.题目中的表述出现在原文第十段第二句，句中说到多数研究关注塑料对an individual animal的影响，而非whole populations，其中whole与题目中entire含义一致，因此本题答案为populations。\n\n题号：37\n\n定位词：lab\n\n第十段第三句：And in the lab, scientists often use higher concentrations of plastic than what's really in the ocean.第十段第三句写到，在实验室中，科学家通常使用比海洋中实际浓度更高的塑料，这一信息与题目表述一致，再将其中的对应名词找到，因此本题答案为concentrations。\n\n题号：38\n\n定位词：reduction\n\n第十段第四句：None of that tells us...the rest of the ecosystem.本题列举了存在的insufficient information，其中第十段第四句提到了关于how deaths in one species could affect that animal's predators，这一信息与本题对应，因此本题答案为predators。\n\n题号：39\n\n定位词：future, oil\n\n第十一段第二句：Usually, scientists don't know exactly...until after they've happened.文中第十一段写到，通常，对于游轮意外地泄露整船石油并污染大片海洋这类事件，科学家们直到事情发生才能准确地知道灾难对环境产生的影响，与题目表述一致，因此本题答案为disasters。",
+          "promptHtml": "Rochman says more information is needed on the possible impact of future [39] ______(e.g. involving oil)."
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Findings related to marine debris</strong></span></p>\n\n<p><strong>Studies of marine debris found the biggest threats were</strong></p>\n\n<p>•  plastic (not metal or wood)</p>\n\n<p>•  bits of debris that were <strong>[34] ______</strong>(harmful to animals)</p>\n\n<p>There was little research into <strong>[35] ______</strong>e.g. from synthetic fibres.</p>\n\n<p><strong>Drawbacks of the studies examined</strong></p>\n\n<p>• most of them focused on individual animals, not entire <strong>[36] ______</strong></p>\n\n<p>• the <strong>[37] ______</strong>of plastic used in the lab did not always reflect those in the ocean</p>\n\n<p>• there was insufficient information on</p>\n\n<p>- numbers of animals which could be affected</p>\n\n<p>- the impact of a reduction in numbers on the <strong>[38] ______</strong>of that species</p>\n\n<p>- the impact on the ecosystem</p>\n\n<p>Rochman says more information is needed on the possible impact of future <strong>[39] ______</strong>(e.g. involving oil).</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "choice",
+      "instruction": "Question 40\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "What would be the best title for this passage?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6662_643457",
+          "options": [
+            {
+              "value": "A",
+              "text": "Assessing the threat of marine debris"
+            },
+            {
+              "value": "B",
+              "text": "Marine debris: who is to blame?"
+            },
+            {
+              "value": "C",
+              "text": "A new solution to the problem of marine debris"
+            },
+            {
+              "value": "D",
+              "text": "Marine debris: the need for international action"
+            }
+          ],
+          "explanation": "定位词：the best title\n\n题目：这篇文章的最佳标题是什么?\n\nA. 评估海洋垃圾的威胁\n\nB. 海洋垃圾：应当指责谁?\n\nC. 解决海洋垃级问题的新方法\n\nD. 海洋垃圾：需要全球性措施\n\n分析：解决这关题目需要关注的是对文章主题的掌握，四个选项中都出现了\n\nmarine debris这一主题词， A选项“评估海洋垃圾的威胁”是全文都在讨论的话题；B选项中的who to blame是关于原因方面的讨论，与文章内容不符；选项C和D选项都是相对比较片面的主题，无法总结全文内容。\n\n因此本题答案为A。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p>Chelsea Rochman, an ecologist at the University of California, Davis, has been trying to answer a dismal question: Is everything terrible, or are things just very, very bad?</p><p>Rochman is a member of the National Center for Ecological Analysis and Synthesis&#x27;s marine-debris working group, a collection of scientists who study, among other things, the growing problem of marine debris, also known as ocean trash. Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal <em>Ecology</em>, Rochman and her colleagues set out to determine how many of those perceived risks are real.</p><p>Often, Rochman says，scientists will end a paper by speculating about the broader impacts of what they&#x27;ve found. For example, a study could show that certain seabirds eat plastic bags, and go on to warn that whole bird populations are at risk of dying out. ‘But the truth was that nobody had yet tested those perceived threats,’ Rochman says. &#x27;There wasn&#x27;t a lot of information.&#x27;</p><p>Rochman and her colleagues examined more than a hundred papers on the impacts of marine debris that were published through 2013. Within each paper, they asked what threats scientists had studied - 366 perceived threats in all - and what they&#x27;d actually found.</p><p>In 83 percent of cases, the perceived dangers of ocean trash were proven true. In the remaining cases, the working group found the studies had weaknesses in design and content which affected the validity of their conclusions-they lacked a control group, for example, or used faulty statistics.</p><p>Strikingly, Rochman says, only one well-designed study failed to find the effect it was looking for, an investigation of mussels ingesting microscopic plastic bits. The plastic moved from the Mussels&#x27; stomachs to their bloodstreams, scientists found, and stayed there for weeks - but didn&#x27;t seem to stress out the shellfish.</p><p>While mussels may be fine eating trash, though, the analysis also gave a clearer picture of the many ways that ocean debris is bothersome.</p><p>Within the studies they looked at, most of the proven threats came from plastic debris, rather than other materials like metal or wood. Most of the dangers also involved large pieces of debris - animals getting entangled in trash, for example, or eating it and severely injuring themselves.</p><p>But a lot of ocean debris is &#x27;microplastic&#x27;, or pieces smaller than five millimeters. These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris. Compared to the number of studies investigating large-scale debris, Rochman&#x27;s group found little research on the effects of these tiny bits. &#x27;There are a lot of open questions still for microplastic&#x27;, Rochman says, though she notes that more papers on the subject have been published since 2013, the cutoff point for the group&#x27;s analysis.</p><p>There are also, she adds, a lot of open questions about the ways that ocean debris can lead to sea-creature death. Many studies have looked at how plastic affects an individual animal, or that animal&#x27;s tissues or cells, rather than whole populations. And in the lab, scientists often use higher concentrations of plastic than what’s really in the ocean. None of that tells us how many birds or fish or sea turtles could die from plastic pollution — or how deaths in one species could affect that animal&#x27;s predators, or the rest of the ecosystem.</p><p>&#x27;We need to be asking more ecologically relevant questions,&#x27; Rochman says. Usually, scientists don&#x27;t know exactly how disasters such as a tanker accidentally spilling its whole cargo of oil and polluting huge areas of the ocean will affect the environment until after they&#x27;ve happened. &#x27;We don&#x27;t ask the right questions early enough,&#x27; she says. But if ecologists can understand how the slow-moving effect of ocean trash is damaging ecosystems, they might be able to prevent things from getting worse.</p><p>Asking the right questions can help policy makers, and the public, figure out where to focus their attention. The problems that look or sound most dramatic may not be the best places to start. For example, the name of the &#x27;Great Pacific Garbage Patch&#x27; — a collection of marine debris in the northern Pacific Ocean—might conjure up a vast, floating trash island. In reality though, much of the debris is tiny or below the surface; a person could sail through the area without seeing any trash at all. A Dutch group called &#x27;The Ocean Cleanup&#x27; is currently working on plans to put mechanical devices in the Pacific Garbage Patch and similar areas to suck up plastic. But a recent paper used simulations to show that strategically positioning the cleanup devices closer to shore would more effectively reduce pollution over the long term.</p><p>&#x27;I think clearing up some of these misperceptions is really important&#x27;, Rochman says. Among scientists as well as in the media, she says, &#x27;A lot of the images about strandings and entanglement and all of that cause the perception that plastic debris is killing everything in the ocean.&#x27; Interrogating the existing scientific literature can help ecologists figure out which problems really need addressing, and which ones they&#x27;d be better off—like the mussels—absorbing and ignoring.</p>"
+}

@@ -1,0 +1,294 @@
+{
+  "id": "cambridge-13-test-2-reading-2",
+  "title": "Oxytocin",
+  "titleCn": "Oxytocin",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 13,
+    "test": 2
+  },
+  "sourceQuestionId": "6690",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6690",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Oxytocin"
+    },
+    {
+      "label": "2",
+      "text": "The positive and negative effects of the chemical known as the 'love hormone'"
+    },
+    {
+      "label": "3",
+      "text": "A Oxytocin is a chemical, a hormone produced in the pituitary gland in the brain. It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin. They discovered that it helps reinforce the bonds between prairie voles, which mate for life, and triggers the motherly behaviour that sheep show towards their newborn lambs. It is also released by women in childbirth, strengthening the attachment between mother and baby. Few chemicals have as positive a reputation as oxytocin, which is sometimes referred to as the 'love hormone'. One sniff of it can, it is claimed, make a person more trusting, empathetic, generous and cooperative. It is time, however, to revise this wholly optimistic view. A new wave of studies has shown that its effects vary greatly depending on the person and the circumstances, and it can impact on our social interactions for worse as well as for better."
+    },
+    {
+      "label": "4",
+      "text": "B Oxytocin's role in human behaviour first emerged in 2005. In a groundbreaking experiment, Markus Heinrichs and his colleagues at the University of Freiburg, Germany, asked volunteers to do an activity in which they could invest money with an anonymous person who was not guaranteed to be honest. The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. The study was the start of research into the effects of oxytocin on human interactions. 'For eight years, it was quite a lonesome field,' Heinrichs recalls. 'Now, everyone is interested' These follow-up studies have shown that after a sniff of the hormone, people become more charitable, better at reading emotions on others' faces and at communicating constructively in arguments. Together, the results fuelled the view that oxytocin universally enhanced the positive aspects of our social nature."
+    },
+    {
+      "label": "5",
+      "text": "C Then, after a few years, contrasting findings began to emerge. Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won. What's more, administering oxytocin also has sharply contrasting outcomes depending on a person's disposition. Jennifer Bartz from Mount Sinai School of Medicine, New York, found that it improves people's ability to read emotions, but only if they are not very socially adept to begin with. Her research also shows that oxytocin in fact reduces cooperation in subjects who are particularly anxious or sensitive to rejection."
+    },
+    {
+      "label": "6",
+      "text": "D Another discovery is that oxytocin's effects vary depending on who we are interacting with. Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers. Meanwhile, Carsten De Dreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. According to De Dreu, oxytocin drives people to care for those in their social circles and defend them from outside dangers. So, it appears that oxytocin strengthens biases, rather than promoting general goodwill, as was previously thought."
+    },
+    {
+      "label": "7",
+      "text": "E There were signs of these subtleties from the start. Bartz has recently shown that in almost half of the existing research results, oxytocin influenced only certain individuals or in certain circumstances. Where once researchers took no notice of such findings, now a more nuanced understanding of oxytocin's effects is propelling investigations down new lines. To Bartz, the key to understanding what the hormone does lies in pinpointing its core function rather than in cataloguing its seemingly endless effects. There are several hypotheses which are not mutually exclusive. Oxytocin could help to reduce anxiety and fear. Or it could simply motivate people to seek out social connections. She believes that oxytocin acts as a chemical spotlight that shines on social clues - a shift in posture, a flicker of the eyes, a dip in the voice - making people more attuned to their social environment. This would explain why it makes us more likely to look others in the eye and improves our ability to identify emotions. But it could also make things worse for people who are overly sensitive or prone to interpreting social cues in the worst light."
+    },
+    {
+      "label": "8",
+      "text": "F Perhaps we should not be surprised that the oxytocin story has become more perplexing. The hormone is found in everything from octopuses to sheep, and its evolutionary roots stretch back half a billion years. 'It's a very simple and ancient molecule that has been co-opted for many different functions,，says Sue Carter at the University of Illinois, Chicago, USA. 'It affects primitive parts of the brain like the amygdala, so it's going to have many effects on just about everything.' Bartz agrees. 'Oxytocin probably does some very basic things, but once you add our higher-order thinking and social situations, these basic processes could manifest in different ways depending on individual differences and context.'"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-17\n\nReading Passage 2 has six paragraphs, A-F.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A-F, in boxes 14-17 on your answer sheet.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "reference to research showing the beneficial effects of oxytocin on people",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6690_588524-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "reasons why the effects of oxytocin are complex",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6690_588524-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "mention of a period in which oxytocin attracted little scientific attention",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6690_588524-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "reference to people ignoring certain aspects of their research data",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6690_588524-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 18-20\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "[18] ______ People are more trusting when affected by oxytocin.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6690_556052",
+          "explanation": "题号：18\n\n译文：人们在受到催产素影响时会更易于相信他人。\n\n定位词： Markus Heinrichs\n\n对应B段第二、三句：In a groundbreaking experiment, Markus Heinrichs and his colleagues ... asked volunteers to do an activity ... The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead.\n\n此题的难点，其一在于题干中的trusting一模一样地出现在了A段里，考生如果注意到了这一点可能会受到一定迷惑，A段中并未指明是谁的实验发现了这一点，因此无法据此答题；难点之二在于，考生定位到了相应人名以后，需真正看懂此处的两个句子（其中包含人名的一句结构略复杂，详细解析可以参见前文“佳句赏析”中的第二句） ，就会发现虽然句中并没有明确使用trusting一词，但所谓“吸入催产素的实验对象愿意将更多的钱投资在一个既不认识、也不能确定其是否诚信的人身上”， 无疑表达的就是trusting这个意思，于是找到正确的对应答案。\n\n题号：19\n\n译文：催产素增加了人们的嫉妒感。\n\n译文：人们在受到催产素影响时会更易于相信他人。\n\n定位词： Simone Shamay- Tsoory\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n此题的难度主要来自于对考生词汇认知水平的考查：题干中的jealousy直接对应于原文定位句中的envy，考生只要认识这两个单词，就能比较轻松地完成匹配答题。\n\n题号：20\n\n译文：催产素的作用会取决于不同类型的人而有所不同。\n\n定位词： Jennifer Bartz\n\n对应 C段倒数两句：Jennifer Bartz from Mount Sinai School of Medicine, New York, found that it improves people's ability to read emotions, but only if ...\n\n此题的难度比较高。一方面，它仍在考查考生对于vary这个动词的认知水平，而动词vary 及其同根词various （形容词）、variety （名词）都是雅思阅读文章中的高频常客，对于考生来说不应是陌生词汇；另一方面，定位到的两句原文中并未直接出现vary或可以直接形成同义替换关系的词汇，考生还需真正读懂这两句，并提炼出“催产素在一些人身上产生的作用和在另一些人身上产生的作用有很大不同”这个意思，才能顺利匹配答案。\n\n还需特别提醒的一点是，D段第一句中另一个人DeClerck的发现有着不小的迷惑作用，因为此句中包含一模一样的题干词vary，乍一看貌似也是在说“对人的影响不同”；然而耐心细读就会发现，这里说的“不同”，指的是“我们与之互动的对象”不同，与题干意思不符。",
+          "promptHtml": "[18] ______ People are more trusting when affected by oxytocin."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "[19] ______ Oxytocin increases people's feelings of jealousy.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6690_285834",
+          "explanation": "题号：18\n\n译文：人们在受到催产素影响时会更易于相信他人。\n\n定位词： Markus Heinrichs\n\n对应B段第二、三句：In a groundbreaking experiment, Markus Heinrichs and his colleagues ... asked volunteers to do an activity ... The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead.\n\n此题的难点，其一在于题干中的trusting一模一样地出现在了A段里，考生如果注意到了这一点可能会受到一定迷惑，A段中并未指明是谁的实验发现了这一点，因此无法据此答题；难点之二在于，考生定位到了相应人名以后，需真正看懂此处的两个句子（其中包含人名的一句结构略复杂，详细解析可以参见前文“佳句赏析”中的第二句） ，就会发现虽然句中并没有明确使用trusting一词，但所谓“吸入催产素的实验对象愿意将更多的钱投资在一个既不认识、也不能确定其是否诚信的人身上”， 无疑表达的就是trusting这个意思，于是找到正确的对应答案。\n\n题号：19\n\n译文：催产素增加了人们的嫉妒感。\n\n译文：人们在受到催产素影响时会更易于相信他人。\n\n定位词： Simone Shamay- Tsoory\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n此题的难度主要来自于对考生词汇认知水平的考查：题干中的jealousy直接对应于原文定位句中的envy，考生只要认识这两个单词，就能比较轻松地完成匹配答题。\n\n题号：20\n\n译文：催产素的作用会取决于不同类型的人而有所不同。\n\n定位词： Jennifer Bartz\n\n对应 C段倒数两句：Jennifer Bartz from Mount Sinai School of Medicine, New York, found that it improves people's ability to read emotions, but only if ...\n\n此题的难度比较高。一方面，它仍在考查考生对于vary这个动词的认知水平，而动词vary 及其同根词various （形容词）、variety （名词）都是雅思阅读文章中的高频常客，对于考生来说不应是陌生词汇；另一方面，定位到的两句原文中并未直接出现vary或可以直接形成同义替换关系的词汇，考生还需真正读懂这两句，并提炼出“催产素在一些人身上产生的作用和在另一些人身上产生的作用有很大不同”这个意思，才能顺利匹配答案。\n\n还需特别提醒的一点是，D段第一句中另一个人DeClerck的发现有着不小的迷惑作用，因为此句中包含一模一样的题干词vary，乍一看貌似也是在说“对人的影响不同”；然而耐心细读就会发现，这里说的“不同”，指的是“我们与之互动的对象”不同，与题干意思不符。",
+          "promptHtml": "[19] ______ Oxytocin increases people&#x27;s feelings of jealousy."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "[20] ______ The effect of oxytocin varies from one type of person to another.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6690_762621",
+          "explanation": "题号：18\n\n译文：人们在受到催产素影响时会更易于相信他人。\n\n定位词： Markus Heinrichs\n\n对应B段第二、三句：In a groundbreaking experiment, Markus Heinrichs and his colleagues ... asked volunteers to do an activity ... The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead.\n\n此题的难点，其一在于题干中的trusting一模一样地出现在了A段里，考生如果注意到了这一点可能会受到一定迷惑，A段中并未指明是谁的实验发现了这一点，因此无法据此答题；难点之二在于，考生定位到了相应人名以后，需真正看懂此处的两个句子（其中包含人名的一句结构略复杂，详细解析可以参见前文“佳句赏析”中的第二句） ，就会发现虽然句中并没有明确使用trusting一词，但所谓“吸入催产素的实验对象愿意将更多的钱投资在一个既不认识、也不能确定其是否诚信的人身上”， 无疑表达的就是trusting这个意思，于是找到正确的对应答案。\n\n题号：19\n\n译文：催产素增加了人们的嫉妒感。\n\n译文：人们在受到催产素影响时会更易于相信他人。\n\n定位词： Simone Shamay- Tsoory\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n此题的难度主要来自于对考生词汇认知水平的考查：题干中的jealousy直接对应于原文定位句中的envy，考生只要认识这两个单词，就能比较轻松地完成匹配答题。\n\n题号：20\n\n译文：催产素的作用会取决于不同类型的人而有所不同。\n\n定位词： Jennifer Bartz\n\n对应 C段倒数两句：Jennifer Bartz from Mount Sinai School of Medicine, New York, found that it improves people's ability to read emotions, but only if ...\n\n此题的难度比较高。一方面，它仍在考查考生对于vary这个动词的认知水平，而动词vary 及其同根词various （形容词）、variety （名词）都是雅思阅读文章中的高频常客，对于考生来说不应是陌生词汇；另一方面，定位到的两句原文中并未直接出现vary或可以直接形成同义替换关系的词汇，考生还需真正读懂这两句，并提炼出“催产素在一些人身上产生的作用和在另一些人身上产生的作用有很大不同”这个意思，才能顺利匹配答案。\n\n还需特别提醒的一点是，D段第一句中另一个人DeClerck的发现有着不小的迷惑作用，因为此句中包含一模一样的题干词vary，乍一看貌似也是在说“对人的影响不同”；然而耐心细读就会发现，这里说的“不同”，指的是“我们与之互动的对象”不同，与题干意思不符。",
+          "promptHtml": "[20] ______ The effect of oxytocin varies from one type of person to another."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Markus Heinrichs"
+        },
+        {
+          "value": "B",
+          "text": "Simone Shamay-Tsoory"
+        },
+        {
+          "value": "C",
+          "text": "Jennifer Bartz"
+        },
+        {
+          "value": "D",
+          "text": "Carolyn DeClerck"
+        },
+        {
+          "value": "E",
+          "text": "Carsten De Dreu"
+        },
+        {
+          "value": "F",
+          "text": "Sue Carter"
+        }
+      ],
+      "contextHtml": "<p><strong>[18] ______</strong> People are more trusting when affected by oxytocin.</p>\n\n<p><strong>[19] ______</strong> Oxytocin increases people&#x27;s feelings of jealousy.</p>\n\n<p><strong>[20] ______</strong> The effect of oxytocin varies from one type of person to another.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 21-26\n\nComplete the summary below.\n\nWrite ONE WORD ONLY in each gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Answer for gap 21.",
+          "answers": [
+            "animals"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6690_979223",
+          "explanation": "题号：21\n\n定位词：earliest findings, involving\n\n对应A段第二句：It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin.\n\n题干问“关于催产素与情感纽带的最早研究发现来自于涉及_____的研究”，可知空格内需要的是作为研究对象的一个名词。依靠后文2005这个数字信息，考生不难确定本题与下一题的出处应当都是文章的第一段，进而也就不难通过earliest与first的对应关系找到出题句。关于本句的详细解析，考生可以参见前文“佳句赏析”中的第一句，利用involve与focus on的同义替换关系可知，答案为animals。\n\n题号：22\n\n定位词：Humans\n\n对应A段第四句：It is also released by women in childbirth, strengthening the attachment between mother and baby. 题干问“还发现人类在_____过程中会分泌催产素”，考生只需从上一题向后顺序阅读，便能找到原文中的women与题干的humans对应。无论题千句还是对应原文句的结构都不复杂，考生只要认识release与produce的同义替换关系，即可确定答案为childbirth。\n\n题号：23\n\n定位词：2005, either…or…\n\n对应B段第三句：The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. 本题虽然定位不难，但题干本身比较复杂，需要考生耐心分析读懂。题干问“在2005年的一场实验中，参与者要么被使用了催产素，要么被给了____，这场实验强化了人们认为这种荷尔蒙有着积极性影响的看法。”用2005这个数字信息定位并不难，但包含数字的句子里并没有相关信息，考生需耐心向下再读两句，才能看出在这场实验中，给一些人用了催产素，而另一些人则给了placebo；即使并不认识placebo是“安慰剂”的意思，根据原文这种排列关系也能将它确定为空格内应当填写的答案。\n\n题号：24\n\n定位词：University of Haifa\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n本题可以凭借大写名称迅速定位，不过题干本身也略为复杂，需要考生耐心阅读。题干问“在海法大学的一项研究中，参与者进行了一项_____， 这表明催产素也有可能触发一些消极情绪。”可知空格内需要填写一个实验对象所参与进行的单数名词，此处无论是题干中的词组take part in，还是原文中的对应词play，都不构成任何难点，正确答案应为game。\n\n题号：25\n\n定位词：University of Antwerp\n\n对应D段第二句：Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers.\n\n本题虽然距离上一题答案比较远，但可以通过大写名称帮助快速定位。题干问“安特卫普大学的一项研究显示了在催产素的作用影响下，人们缺少去帮助_____的意愿”，可知空格内应为一个表示“人们帮助对象”的名词，耐心对比定位句，可以通过原文less cooperative与题干中lack of willingness之间的对应，确定答案为strangers。\n\n题号：26\n\n定位词：University of Amsterdam\n\n对应D段第三句：Meanwhile, Carsten DeDreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. 本题与前两道题的情况类似，虽然可以借助大写名称进行比较快速的定位，但考生却需认真耐心地阅读分析本身就很复杂的题干句。本句问“与此同时，在阿姆斯特丹大学进行的研究表明，被用了催产素的人会认为自己国家中的、对他们来说很熟悉的____比那些来自其他文化的有着更为积极的联系”；回到原文的定位句中，虽然句式结构也比较长难，却可以通过同样的比较结构以及原文中动词形式associate与题千中名词形式association的对应关系，确定答案应为names。",
+          "promptHtml": "Answer for gap 21."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Answer for gap 22.",
+          "answers": [
+            "childbirth"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6690_227390",
+          "explanation": "题号：21\n\n定位词：earliest findings, involving\n\n对应A段第二句：It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin.\n\n题干问“关于催产素与情感纽带的最早研究发现来自于涉及_____的研究”，可知空格内需要的是作为研究对象的一个名词。依靠后文2005这个数字信息，考生不难确定本题与下一题的出处应当都是文章的第一段，进而也就不难通过earliest与first的对应关系找到出题句。关于本句的详细解析，考生可以参见前文“佳句赏析”中的第一句，利用involve与focus on的同义替换关系可知，答案为animals。\n\n题号：22\n\n定位词：Humans\n\n对应A段第四句：It is also released by women in childbirth, strengthening the attachment between mother and baby. 题干问“还发现人类在_____过程中会分泌催产素”，考生只需从上一题向后顺序阅读，便能找到原文中的women与题干的humans对应。无论题千句还是对应原文句的结构都不复杂，考生只要认识release与produce的同义替换关系，即可确定答案为childbirth。\n\n题号：23\n\n定位词：2005, either…or…\n\n对应B段第三句：The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. 本题虽然定位不难，但题干本身比较复杂，需要考生耐心分析读懂。题干问“在2005年的一场实验中，参与者要么被使用了催产素，要么被给了____，这场实验强化了人们认为这种荷尔蒙有着积极性影响的看法。”用2005这个数字信息定位并不难，但包含数字的句子里并没有相关信息，考生需耐心向下再读两句，才能看出在这场实验中，给一些人用了催产素，而另一些人则给了placebo；即使并不认识placebo是“安慰剂”的意思，根据原文这种排列关系也能将它确定为空格内应当填写的答案。\n\n题号：24\n\n定位词：University of Haifa\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n本题可以凭借大写名称迅速定位，不过题干本身也略为复杂，需要考生耐心阅读。题干问“在海法大学的一项研究中，参与者进行了一项_____， 这表明催产素也有可能触发一些消极情绪。”可知空格内需要填写一个实验对象所参与进行的单数名词，此处无论是题干中的词组take part in，还是原文中的对应词play，都不构成任何难点，正确答案应为game。\n\n题号：25\n\n定位词：University of Antwerp\n\n对应D段第二句：Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers.\n\n本题虽然距离上一题答案比较远，但可以通过大写名称帮助快速定位。题干问“安特卫普大学的一项研究显示了在催产素的作用影响下，人们缺少去帮助_____的意愿”，可知空格内应为一个表示“人们帮助对象”的名词，耐心对比定位句，可以通过原文less cooperative与题干中lack of willingness之间的对应，确定答案为strangers。\n\n题号：26\n\n定位词：University of Amsterdam\n\n对应D段第三句：Meanwhile, Carsten DeDreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. 本题与前两道题的情况类似，虽然可以借助大写名称进行比较快速的定位，但考生却需认真耐心地阅读分析本身就很复杂的题干句。本句问“与此同时，在阿姆斯特丹大学进行的研究表明，被用了催产素的人会认为自己国家中的、对他们来说很熟悉的____比那些来自其他文化的有着更为积极的联系”；回到原文的定位句中，虽然句式结构也比较长难，却可以通过同样的比较结构以及原文中动词形式associate与题千中名词形式association的对应关系，确定答案应为names。",
+          "promptHtml": "Answer for gap 22."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Answer for gap 23.",
+          "answers": [
+            "placebo"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6690_461999",
+          "explanation": "题号：21\n\n定位词：earliest findings, involving\n\n对应A段第二句：It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin.\n\n题干问“关于催产素与情感纽带的最早研究发现来自于涉及_____的研究”，可知空格内需要的是作为研究对象的一个名词。依靠后文2005这个数字信息，考生不难确定本题与下一题的出处应当都是文章的第一段，进而也就不难通过earliest与first的对应关系找到出题句。关于本句的详细解析，考生可以参见前文“佳句赏析”中的第一句，利用involve与focus on的同义替换关系可知，答案为animals。\n\n题号：22\n\n定位词：Humans\n\n对应A段第四句：It is also released by women in childbirth, strengthening the attachment between mother and baby. 题干问“还发现人类在_____过程中会分泌催产素”，考生只需从上一题向后顺序阅读，便能找到原文中的women与题干的humans对应。无论题千句还是对应原文句的结构都不复杂，考生只要认识release与produce的同义替换关系，即可确定答案为childbirth。\n\n题号：23\n\n定位词：2005, either…or…\n\n对应B段第三句：The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. 本题虽然定位不难，但题干本身比较复杂，需要考生耐心分析读懂。题干问“在2005年的一场实验中，参与者要么被使用了催产素，要么被给了____，这场实验强化了人们认为这种荷尔蒙有着积极性影响的看法。”用2005这个数字信息定位并不难，但包含数字的句子里并没有相关信息，考生需耐心向下再读两句，才能看出在这场实验中，给一些人用了催产素，而另一些人则给了placebo；即使并不认识placebo是“安慰剂”的意思，根据原文这种排列关系也能将它确定为空格内应当填写的答案。\n\n题号：24\n\n定位词：University of Haifa\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n本题可以凭借大写名称迅速定位，不过题干本身也略为复杂，需要考生耐心阅读。题干问“在海法大学的一项研究中，参与者进行了一项_____， 这表明催产素也有可能触发一些消极情绪。”可知空格内需要填写一个实验对象所参与进行的单数名词，此处无论是题干中的词组take part in，还是原文中的对应词play，都不构成任何难点，正确答案应为game。\n\n题号：25\n\n定位词：University of Antwerp\n\n对应D段第二句：Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers.\n\n本题虽然距离上一题答案比较远，但可以通过大写名称帮助快速定位。题干问“安特卫普大学的一项研究显示了在催产素的作用影响下，人们缺少去帮助_____的意愿”，可知空格内应为一个表示“人们帮助对象”的名词，耐心对比定位句，可以通过原文less cooperative与题干中lack of willingness之间的对应，确定答案为strangers。\n\n题号：26\n\n定位词：University of Amsterdam\n\n对应D段第三句：Meanwhile, Carsten DeDreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. 本题与前两道题的情况类似，虽然可以借助大写名称进行比较快速的定位，但考生却需认真耐心地阅读分析本身就很复杂的题干句。本句问“与此同时，在阿姆斯特丹大学进行的研究表明，被用了催产素的人会认为自己国家中的、对他们来说很熟悉的____比那些来自其他文化的有着更为积极的联系”；回到原文的定位句中，虽然句式结构也比较长难，却可以通过同样的比较结构以及原文中动词形式associate与题千中名词形式association的对应关系，确定答案应为names。",
+          "promptHtml": "Answer for gap 23."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "game"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6690_987205",
+          "explanation": "题号：21\n\n定位词：earliest findings, involving\n\n对应A段第二句：It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin.\n\n题干问“关于催产素与情感纽带的最早研究发现来自于涉及_____的研究”，可知空格内需要的是作为研究对象的一个名词。依靠后文2005这个数字信息，考生不难确定本题与下一题的出处应当都是文章的第一段，进而也就不难通过earliest与first的对应关系找到出题句。关于本句的详细解析，考生可以参见前文“佳句赏析”中的第一句，利用involve与focus on的同义替换关系可知，答案为animals。\n\n题号：22\n\n定位词：Humans\n\n对应A段第四句：It is also released by women in childbirth, strengthening the attachment between mother and baby. 题干问“还发现人类在_____过程中会分泌催产素”，考生只需从上一题向后顺序阅读，便能找到原文中的women与题干的humans对应。无论题千句还是对应原文句的结构都不复杂，考生只要认识release与produce的同义替换关系，即可确定答案为childbirth。\n\n题号：23\n\n定位词：2005, either…or…\n\n对应B段第三句：The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. 本题虽然定位不难，但题干本身比较复杂，需要考生耐心分析读懂。题干问“在2005年的一场实验中，参与者要么被使用了催产素，要么被给了____，这场实验强化了人们认为这种荷尔蒙有着积极性影响的看法。”用2005这个数字信息定位并不难，但包含数字的句子里并没有相关信息，考生需耐心向下再读两句，才能看出在这场实验中，给一些人用了催产素，而另一些人则给了placebo；即使并不认识placebo是“安慰剂”的意思，根据原文这种排列关系也能将它确定为空格内应当填写的答案。\n\n题号：24\n\n定位词：University of Haifa\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n本题可以凭借大写名称迅速定位，不过题干本身也略为复杂，需要考生耐心阅读。题干问“在海法大学的一项研究中，参与者进行了一项_____， 这表明催产素也有可能触发一些消极情绪。”可知空格内需要填写一个实验对象所参与进行的单数名词，此处无论是题干中的词组take part in，还是原文中的对应词play，都不构成任何难点，正确答案应为game。\n\n题号：25\n\n定位词：University of Antwerp\n\n对应D段第二句：Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers.\n\n本题虽然距离上一题答案比较远，但可以通过大写名称帮助快速定位。题干问“安特卫普大学的一项研究显示了在催产素的作用影响下，人们缺少去帮助_____的意愿”，可知空格内应为一个表示“人们帮助对象”的名词，耐心对比定位句，可以通过原文less cooperative与题干中lack of willingness之间的对应，确定答案为strangers。\n\n题号：26\n\n定位词：University of Amsterdam\n\n对应D段第三句：Meanwhile, Carsten DeDreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. 本题与前两道题的情况类似，虽然可以借助大写名称进行比较快速的定位，但考生却需认真耐心地阅读分析本身就很复杂的题干句。本句问“与此同时，在阿姆斯特丹大学进行的研究表明，被用了催产素的人会认为自己国家中的、对他们来说很熟悉的____比那些来自其他文化的有着更为积极的联系”；回到原文的定位句中，虽然句式结构也比较长难，却可以通过同样的比较结构以及原文中动词形式associate与题千中名词形式association的对应关系，确定答案应为names。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "strangers"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6690_536652",
+          "explanation": "题号：21\n\n定位词：earliest findings, involving\n\n对应A段第二句：It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin.\n\n题干问“关于催产素与情感纽带的最早研究发现来自于涉及_____的研究”，可知空格内需要的是作为研究对象的一个名词。依靠后文2005这个数字信息，考生不难确定本题与下一题的出处应当都是文章的第一段，进而也就不难通过earliest与first的对应关系找到出题句。关于本句的详细解析，考生可以参见前文“佳句赏析”中的第一句，利用involve与focus on的同义替换关系可知，答案为animals。\n\n题号：22\n\n定位词：Humans\n\n对应A段第四句：It is also released by women in childbirth, strengthening the attachment between mother and baby. 题干问“还发现人类在_____过程中会分泌催产素”，考生只需从上一题向后顺序阅读，便能找到原文中的women与题干的humans对应。无论题千句还是对应原文句的结构都不复杂，考生只要认识release与produce的同义替换关系，即可确定答案为childbirth。\n\n题号：23\n\n定位词：2005, either…or…\n\n对应B段第三句：The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. 本题虽然定位不难，但题干本身比较复杂，需要考生耐心分析读懂。题干问“在2005年的一场实验中，参与者要么被使用了催产素，要么被给了____，这场实验强化了人们认为这种荷尔蒙有着积极性影响的看法。”用2005这个数字信息定位并不难，但包含数字的句子里并没有相关信息，考生需耐心向下再读两句，才能看出在这场实验中，给一些人用了催产素，而另一些人则给了placebo；即使并不认识placebo是“安慰剂”的意思，根据原文这种排列关系也能将它确定为空格内应当填写的答案。\n\n题号：24\n\n定位词：University of Haifa\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n本题可以凭借大写名称迅速定位，不过题干本身也略为复杂，需要考生耐心阅读。题干问“在海法大学的一项研究中，参与者进行了一项_____， 这表明催产素也有可能触发一些消极情绪。”可知空格内需要填写一个实验对象所参与进行的单数名词，此处无论是题干中的词组take part in，还是原文中的对应词play，都不构成任何难点，正确答案应为game。\n\n题号：25\n\n定位词：University of Antwerp\n\n对应D段第二句：Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers.\n\n本题虽然距离上一题答案比较远，但可以通过大写名称帮助快速定位。题干问“安特卫普大学的一项研究显示了在催产素的作用影响下，人们缺少去帮助_____的意愿”，可知空格内应为一个表示“人们帮助对象”的名词，耐心对比定位句，可以通过原文less cooperative与题干中lack of willingness之间的对应，确定答案为strangers。\n\n题号：26\n\n定位词：University of Amsterdam\n\n对应D段第三句：Meanwhile, Carsten DeDreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. 本题与前两道题的情况类似，虽然可以借助大写名称进行比较快速的定位，但考生却需认真耐心地阅读分析本身就很复杂的题干句。本句问“与此同时，在阿姆斯特丹大学进行的研究表明，被用了催产素的人会认为自己国家中的、对他们来说很熟悉的____比那些来自其他文化的有着更为积极的联系”；回到原文的定位句中，虽然句式结构也比较长难，却可以通过同样的比较结构以及原文中动词形式associate与题千中名词形式association的对应关系，确定答案应为names。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "names"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6690_484918",
+          "explanation": "题号：21\n\n定位词：earliest findings, involving\n\n对应A段第二句：It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin.\n\n题干问“关于催产素与情感纽带的最早研究发现来自于涉及_____的研究”，可知空格内需要的是作为研究对象的一个名词。依靠后文2005这个数字信息，考生不难确定本题与下一题的出处应当都是文章的第一段，进而也就不难通过earliest与first的对应关系找到出题句。关于本句的详细解析，考生可以参见前文“佳句赏析”中的第一句，利用involve与focus on的同义替换关系可知，答案为animals。\n\n题号：22\n\n定位词：Humans\n\n对应A段第四句：It is also released by women in childbirth, strengthening the attachment between mother and baby. 题干问“还发现人类在_____过程中会分泌催产素”，考生只需从上一题向后顺序阅读，便能找到原文中的women与题干的humans对应。无论题千句还是对应原文句的结构都不复杂，考生只要认识release与produce的同义替换关系，即可确定答案为childbirth。\n\n题号：23\n\n定位词：2005, either…or…\n\n对应B段第三句：The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. 本题虽然定位不难，但题干本身比较复杂，需要考生耐心分析读懂。题干问“在2005年的一场实验中，参与者要么被使用了催产素，要么被给了____，这场实验强化了人们认为这种荷尔蒙有着积极性影响的看法。”用2005这个数字信息定位并不难，但包含数字的句子里并没有相关信息，考生需耐心向下再读两句，才能看出在这场实验中，给一些人用了催产素，而另一些人则给了placebo；即使并不认识placebo是“安慰剂”的意思，根据原文这种排列关系也能将它确定为空格内应当填写的答案。\n\n题号：24\n\n定位词：University of Haifa\n\n对应C段第二句：Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.\n\n本题可以凭借大写名称迅速定位，不过题干本身也略为复杂，需要考生耐心阅读。题干问“在海法大学的一项研究中，参与者进行了一项_____， 这表明催产素也有可能触发一些消极情绪。”可知空格内需要填写一个实验对象所参与进行的单数名词，此处无论是题干中的词组take part in，还是原文中的对应词play，都不构成任何难点，正确答案应为game。\n\n题号：25\n\n定位词：University of Antwerp\n\n对应D段第二句：Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers.\n\n本题虽然距离上一题答案比较远，但可以通过大写名称帮助快速定位。题干问“安特卫普大学的一项研究显示了在催产素的作用影响下，人们缺少去帮助_____的意愿”，可知空格内应为一个表示“人们帮助对象”的名词，耐心对比定位句，可以通过原文less cooperative与题干中lack of willingness之间的对应，确定答案为strangers。\n\n题号：26\n\n定位词：University of Amsterdam\n\n对应D段第三句：Meanwhile, Carsten DeDreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. 本题与前两道题的情况类似，虽然可以借助大写名称进行比较快速的定位，但考生却需认真耐心地阅读分析本身就很复杂的题干句。本句问“与此同时，在阿姆斯特丹大学进行的研究表明，被用了催产素的人会认为自己国家中的、对他们来说很熟悉的____比那些来自其他文化的有着更为积极的联系”；回到原文的定位句中，虽然句式结构也比较长难，却可以通过同样的比较结构以及原文中动词形式associate与题千中名词形式association的对应关系，确定答案应为names。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>The earliest findings about oxytocin and bonding came from research involving <strong>[21] ______</strong> . It was also discovered that humans produce oxytocin during <strong>[22] ______</strong> . An experiment in 2005，in which participants were given either oxytocin or a <strong>[23] ______</strong> , reinforced the belief that the hormone had a positive effect.</p>\n\n<p>However, later research suggests that this is not always the case. A study at the University of Haifa where participants took part in a <strong>[24] ______</strong>revealed the negative emotions which oxytocin can trigger. A study at the University of Antwerp showed people&#x27;s lack of willingness to help <strong>[25] ______</strong>while under the influence of oxytocin. Meanwhile, research at the University of Amsterdam revealed that people who have been given oxytocin consider <strong>[26] ______</strong>that are familiar to them in their own country to have more positive associations than those from other cultures.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Oxytocin</strong></span></p><p><em>The positive and negative effects of the chemical known as the &#x27;love hormone&#x27;</em></p><p><strong>A</strong>   Oxytocin is a chemical, a hormone produced in the pituitary gland in the brain. It was through various studies focusing on animals that scientists first became aware of the influence of oxytocin. They discovered that it helps reinforce the bonds between prairie voles, which mate for life, and triggers the motherly behaviour that sheep show towards their newborn lambs. It is also released by women in childbirth, strengthening the attachment between mother and baby. Few chemicals have as positive a reputation as oxytocin, which is sometimes referred to as the &#x27;love hormone&#x27;. One sniff of it can, it is claimed, make a person more trusting, empathetic, generous and cooperative. It is time, however, to revise this wholly optimistic view. A new wave of studies has shown that its effects vary greatly depending on the person and the circumstances, and it can impact on our social interactions for worse as well as for better.</p><p>B Oxytocin&#x27;s role in human behaviour first emerged in 2005. In a groundbreaking experiment, Markus Heinrichs and his colleagues at the University of Freiburg, Germany, asked volunteers to do an activity in which they could invest money with an anonymous person who was not guaranteed to be honest. The team found that participants who had sniffed oxytocin via a nasal spray beforehand invested more money than those who received a placebo instead. The study was the start of research into the effects of oxytocin on human interactions. &#x27;For eight years, it was quite a lonesome field,&#x27; Heinrichs recalls. &#x27;Now, everyone is interested&#x27; These follow-up studies have shown that after a sniff of the hormone, people become more charitable, better at reading emotions on others&#x27; faces and at communicating constructively in arguments. Together, the results fuelled the view that oxytocin universally enhanced the positive aspects of our social nature.</p><p><strong>C</strong>  Then, after a few years, contrasting findings began to emerge. Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won. What&#x27;s more, administering oxytocin also has sharply contrasting outcomes depending on a person&#x27;s disposition. Jennifer Bartz from Mount Sinai School of Medicine, New York, found that it improves people&#x27;s ability to read emotions, but only if they are not very socially adept to begin with. Her research also shows that oxytocin in fact reduces cooperation in subjects who are particularly anxious or sensitive to rejection.</p><p><strong>D</strong>   Another discovery is that oxytocin&#x27;s effects vary depending on who we are interacting with. Studies conducted by Carolyn DeClerck of the University of Antwerp, Belgium, revealed that people who had received a dose of oxytocin actually became less cooperative when dealing with complete strangers. Meanwhile, Carsten De Dreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example. According to De Dreu, oxytocin drives people to care for those in their social circles and defend them from outside dangers. So, it appears that oxytocin strengthens biases, rather than promoting general goodwill, as was previously thought.</p><p><strong>E</strong>   There were signs of these subtleties from the start. Bartz has recently shown that in almost half of the existing research results, oxytocin influenced only certain individuals or in certain circumstances. Where once researchers took no notice of such findings, now a more nuanced understanding of oxytocin&#x27;s effects is propelling investigations down new lines. To Bartz, the key to understanding what the hormone does lies in pinpointing its core function rather than in cataloguing its seemingly endless effects. There are several hypotheses which are not mutually exclusive. Oxytocin could help to reduce anxiety and fear. Or it could simply motivate people to seek out social connections. She believes that oxytocin acts as a chemical spotlight that shines on social clues - a shift in posture, a flicker of the eyes, a dip in the voice - making people more attuned to their social environment. This would explain why it makes us more likely to look others in the eye and improves our ability to identify emotions. But it could also make things worse for people who are overly sensitive or prone to interpreting social cues in the worst light.</p><p><strong>F</strong>   Perhaps we should not be surprised that the oxytocin story has become more perplexing. The hormone is found in everything from octopuses to sheep, and its evolutionary roots stretch back half a billion years. &#x27;It&#x27;s a very simple and ancient molecule that has been co-opted for many different functions,，says Sue Carter at the University of Illinois, Chicago, USA. &#x27;It affects primitive parts of the brain like the amygdala, so it&#x27;s going to have many effects on just about everything.&#x27; Bartz agrees. &#x27;Oxytocin probably does some very basic things, but once you add our higher-order thinking and social situations, these basic processes could manifest in different ways depending on individual differences and context.&#x27;</p>"
+}

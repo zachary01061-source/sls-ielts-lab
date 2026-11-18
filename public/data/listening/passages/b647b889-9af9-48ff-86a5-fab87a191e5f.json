@@ -1,0 +1,223 @@
+{
+  "id": "b647b889-9af9-48ff-86a5-fab87a191e5f",
+  "title": "The development of weather science（机经听写）",
+  "titleCn": "天气科学的发展史（气象学之父）",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/b647b889-9af9-48ff-86a5-fab87a191e5f",
+  "duration": 196,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The development of weather science. Many people thought that the planets were responsible for causing bad weather. For example, if a lot of ants were around, rain was coming, while a wind from the east could lead to a headache.Talking about the development of weather science. In the US, Benjamin Franklin suggested that a boat could be pulled over by a kite with the right winds. A chemist from England called Luke Howard identified and named different kinds of clouds. James Glaisher traveled by balloon to measure temperature and humidity. The most challenging weather phenomenon to comprehend was a storm.In 1854, a politician proposed using electric telegraph to transmit weather information across Britain.Moving on to the father of British meteorology, his name is Robert Fitzroy. He set up 15 weather stations along Britain's coast and gathered data from them. He produced the first forecast on a regular basis. His innovation saved lives, but his impact on some workers income."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "7c19edc9-064e-4b9d-b372-62895c4d564c",
+          "prompt": "Many people thought that the planets were responsible for causing bad weather.\n\nFor example, if a lot of **31**_____ were around, rain was coming,",
+          "answers": [
+            "ants"
+          ],
+          "rawAnswer": "ants",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, if a lot of ants were around, rain was coming"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "93e4e822-f919-4fcf-8fc6-16ed0a2b630e",
+          "prompt": "while a wind from the east could lead to a **32**_____ .",
+          "answers": [
+            "headache"
+          ],
+          "rawAnswer": "headache",
+          "evidence": {
+            "paragraph": "",
+            "quote": "while a wind from the east could lead to a headache"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "91200f9c-c3e3-42eb-9210-808a7dfd571e",
+          "prompt": "**The development of weather science**\nIn the US, Benjamin Franklin suggested that a **33**_____ could pull a boat over water with the right winds.",
+          "answers": [
+            "kite"
+          ],
+          "rawAnswer": "kite",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Benjamin Franklin suggested that a boat could be pulled over by a kite with the right winds"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "3ed8cdf2-3a7e-43de-acc1-e28e280f770a",
+          "prompt": "An English chemist, Luke Howard, identified and named different kinds of **34**_____ .",
+          "answers": [
+            "cloud"
+          ],
+          "rawAnswer": "cloud",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A chemist from England called Luke Howard identified and named different kinds of clouds"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "29cc2792-2ef6-4543-996b-a6eb92d8497b",
+          "prompt": "James Glaisher travelled by **35**_____ to record temperature and humidity.",
+          "answers": [
+            "balloon"
+          ],
+          "rawAnswer": "balloon",
+          "evidence": {
+            "paragraph": "",
+            "quote": "James Glaisher traveled by balloon to measure temperature and humidity"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "050d47d6-87b8-42cf-8667-3a3761a11d6b",
+          "prompt": "The hardest weather phenomenon to understand was a **36**_____ .",
+          "answers": [
+            "storm"
+          ],
+          "rawAnswer": "storm",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The most challenging weather phenomenon to comprehend was a storm"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "101abc22-318b-40b8-8df0-c43110593ade",
+          "prompt": "In 1854, a **37**_____ suggested that information about Britain`s weather could be sent by electric telegraph.",
+          "answers": [
+            "politician"
+          ],
+          "rawAnswer": "politician",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In 1854, a politician proposed using electric telegraph to transmit weather information across Britain"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38-39",
+          "sourceQuestionId": "958182ef-f1c9-4678-ade9-10e6315d5690",
+          "prompt": "**Moving onto “the father of British meteorology”**\n**His name is Robert Fitzroy**\n- established fifteen weather stations around the **38**_____ of British and collected data from these produced the first daily **39**_____ .",
+          "answers": [
+            "coast"
+          ],
+          "rawAnswer": "coast|||forecast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "He set up 15 weather stations along Britain's coast and gathered data from them;He produced the first daily forecast on a regular basis"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38",
+          "blockId": "958182ef-f1c9-4678-ade9-10e6315d5690",
+          "blockPosition": 0,
+          "blockSize": 2
+        },
+        {
+          "id": 9,
+          "sourceNumber": "38-39",
+          "sourceQuestionId": "958182ef-f1c9-4678-ade9-10e6315d5690",
+          "prompt": "**Moving onto “the father of British meteorology”**\n**His name is Robert Fitzroy**\n- established fifteen weather stations around the **38**_____ of British and collected data from these produced the first daily **39**_____ .",
+          "answers": [
+            "forecast"
+          ],
+          "rawAnswer": "coast|||forecast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "He set up 15 weather stations along Britain's coast and gathered data from them;He produced the first daily forecast on a regular basis"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39",
+          "blockId": "958182ef-f1c9-4678-ade9-10e6315d5690",
+          "blockPosition": 1,
+          "blockSize": 2
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "c930b537-08d5-406d-8dce-72ce8d262c6a",
+          "prompt": "- sent messages to every major British port about dangerous weather\n- but his impact on some workers` **40**_____ made him unpopular.",
+          "answers": [
+            "income"
+          ],
+          "rawAnswer": "income",
+          "evidence": {
+            "paragraph": "",
+            "quote": "His innovation saved lives, but his impact on some workers' income made him unpopular"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "The development of weather science. Many people thought that the planets were responsible for causing bad weather. For example, if a lot of ants were around, rain was coming, while a wind from the east could lead to a headache.Talking about the development of weather science. In the US, Benjamin Franklin suggested that a boat could be pulled over by a kite with the right winds. A chemist from England called Luke Howard identified and named different kinds of clouds. James Glaisher traveled by balloon to measure temperature and humidity. The most challenging weather phenomenon to comprehend was a storm.In 1854, a politician proposed using electric telegraph to transmit weather information across Britain.Moving on to the father of British meteorology, his name is Robert Fitzroy. He set up 15 weather stations along Britain's coast and gathered data from them. He produced the first forecast on a regular basis. His innovation saved lives, but his impact on some workers income.",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/b647b889-9af9-48ff-86a5-fab87a191e5f.mp3",
+    "durationSeconds": 75.264,
+    "sizeBytes": 1204755,
+    "sha256": "2281086da18feaaf87b90e9b436c7addb8c44a8695d9d7d0b4732c1a1fda490d",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:52:36Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786018203841_y0zv4v_d27bba12.mp3"
+}

@@ -1,0 +1,300 @@
+{
+  "id": "cambridge-11-test-4-reading-1",
+  "title": "Research using twins",
+  "titleCn": "Research using twins",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 11,
+    "test": 4
+  },
+  "sourceQuestionId": "6813",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6813",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Research using twins"
+    },
+    {
+      "label": "2",
+      "text": "To biomedical researchers all over the world, twins offer a precious opportunity to untangle the influence of genes and the environment - of nature and nurture. Because identical twins come from a single fertilized egg that splits into two, they share virtually the same genetic code. Any differences between them - one twin having younger looking skin, for example - must be due to environmental factors such as less time spent in the sun."
+    },
+    {
+      "label": "3",
+      "text": "Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers can quantify the extent to which our genes affect our lives. If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be rooted at least in part in heredity."
+    },
+    {
+      "label": "4",
+      "text": "These two lines of research - studying the differences between identical twins to pinpoint the influence of environment, and comparing identical twins with fraternal ones to measure the role of inheritance - have been crucial to understanding the interplay of nature and nurture in determining our personalities, behavior, and vulnerability to disease."
+    },
+    {
+      "label": "5",
+      "text": "The idea of using twins to measure the influence of heredity dates back to 1875, when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture'). But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart. Numerous tests were carried out on the twins, and they were each asked more than 15,000 questions."
+    },
+    {
+      "label": "6",
+      "text": "Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical concept called heritability. In broad terms, the heritability of a trait measures the extent to which differences among members of a population can be explained by differences in their genetics. And wherever Bouchard and other scientists looked, it seemed, they found the invisible hand of genetic influence helping to shape our lives."
+    },
+    {
+      "label": "7",
+      "text": "Lately, however, twin studies have helped lead scientists to a radical new conclusion: that nature and nurture are not the only elemental forces at work. According to a recent field called epigenetics, there is a third factor also in play, one that in some cases serves as a bridge between the environment and our genes, and in others operates on its own to shape who we are."
+    },
+    {
+      "label": "8",
+      "text": "Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a 'third component'. These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies."
+    },
+    {
+      "label": "9",
+      "text": "If you think of our DNA as an immense piano keyboard and our genes as the keys - each key symbolizing a segment of DNA responsible for a particular note, or trait, and all the keys combining to make us who we are - then epigenetic processes determine when and how each key can be struck, changing the tune being played."
+    },
+    {
+      "label": "10",
+      "text": "One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes. Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up. Other epigenetic processes appear to occur randomly, while others are normal, such as those that guide embryonic cells as they become heart, brain, or liver cells for example."
+    },
+    {
+      "label": "11",
+      "text": "Geneticist Danielle Reed has worked with many twins over the years and thought deeply about what twin studies have taught us. 'It's very clear when you look at twins that much of what they share is hardwired,' she says. 'Many things about them are absolutely the same and unalterable. But it's also clear, when you get to know them, that other things about them are different. Epigenetics is the origin of a lot of those differences, in my view.'"
+    },
+    {
+      "label": "12",
+      "text": "Reed credits Thomas Bouchard's work for today's surge in twin studies. 'He was the trailblazer,' she says. 'We forget that 50 years ago things like heart disease were thought to be caused entirely by lifestyle. Schizophrenia was thought to be due to poor mothering. Twin studies have allowed us to be more reflective about what people are actually born with and what's caused by experience.'"
+    },
+    {
+      "label": "13",
+      "text": "Having said that, Reed adds, the latest work in epigenetics promises to take our understanding even further. 'What I like to say is that nature writes some things in pencil and some things in pen,' she says. 'Things written in pen you can't change. That's DNA. But things written in pencil you can. That's epigenetics. Now that we're actually able to look at the DNA and see where the pencil writings are, it's sort of a whole new world.'"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-4\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "There may be genetic causes for the differences in how young the skin of identical twins looks.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6813_277664",
+          "explanation": "译文：同卵双胞胎的皮肤看起来有多年轻，其背后有可能存在着基因方面的原因。\n\n定位词：genetic causes, skin\n\n文中对应第一段第二、三句: Because identical twins come from a single fertilized egg that splits into two, they share virtually the same genetic code. Any differences between them--one twin having younger looking skin, for example---must be due to environmental factors such as less time spent in the sun.\n\n本题出题位置符合顺序原则，作为文后第一个题型中的第一道题, 考生可以轻松在正文第一段中定位到一模一样的skin一词。从理解上来看本题也并不困难：原文明确说到同卵双胞胎来自同一颗受精卵，基因完全相同，一切不同都是后天环境因素造成的。这与题干信息相悖，因此答案为FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Twins are at greater risk of developing certain illnesses than non-twins.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6813_152454",
+          "explanation": "译文：双胞胎比非双胞胎更有风险得上某些疾病。\n\n定位词：greater risk, developing certain illnesses, non-twins\n\n文中对应第二段第二句: If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be rooted at least in part in heredity.\n\n题干中的illness一词回到原文中有两个对应的同义替换词，分别为ailment和disease。部分考生可能对前者不甚熟悉但必定应当认识后者，所以定位并不算困难。仔细阅读文章内容可知，本句只是提及同卵双胞胎与异卵双胞胎在对某种疾病产生反应的方面有何异同，换言之，比较的对象只涉及“双胞胎”这个范围，并未将之与“非双胞胎”比较，没有明确提及题千的信息，且即使考生继续耐心读下去，在之后的文章中也没有任何地方提到题千相关内容，因此答案为NOT GIVEN。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Bouchard advertised in newspapers for twins who had been separated at birth.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6813_595372",
+          "explanation": "译文：Bouchard在报纸上刊登广告招募那些出生以后就分开各自长大的双胞胎们。\n\n定位词：Bouchard, advertised, newspapers\n\n文中对应第四段第三句：Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart.\n\n本题可以凭借Bouchard这个专有名词而轻松在文中定位，但仔细阅读文章内容就会发现，确实有许多双胞胎参与了此人所进行的研究，但并没有明确提及那些双胞胎们是通过什么途径来到Bouchard实验室的，没有“报纸”和“广告”这些信息，因此答案是NOT GIVEN。\n\n考生需格外注意的是:近年来判断题型的难度有所上升，原因之一就是NOT GIVEN这个选项更加频繁地作为正确答案出现在相邻的两道问题中。这种现象给考生造成的困扰是定位时更加不确定、不自信，从而可能导致大家反复阅读某个文章部位或由于犹豫不决而拖慢阅读速度。针对这一现象,建议考生在连续两道判断题都不能确定出题位置的时候，适当多向下再看一道题目，以连续三道题干的关键词来更加准确定位，或判定某道题目可能就是NOT GIVEN而不再浪费太多时间恋战。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Epigenetic processes are different from both genetic and environmental processes.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6813_978207",
+          "explanation": "译文：表观遗传影响与基因影响和环境影响都不相同。\n\n定位词：epigenetic processes\n\n文中对应第六段最后一句: According to a recent field called epigenetics, there is a third factor also in play, one that in some cases serves as a bridge between the environment and our genes, and in others operates on its own to shape who we are.\n\nEpigenetic这个词作为学科名称，一模一样地出现在文中第六段，可以被轻松定位。阅读定位句则可以知道,这一作用过程确实既不同于环境因素,也不同于基因因素，与题干表述相一致，因此答案为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 5-9\n\nLook at the following statements (Questions 5-9) and the list of researchers below.\n\nChoose the correct answer and move it into the gap.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "[5] ______ invented a term used to distinguish two factors affecting human characteristics",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6813_483966",
+          "explanation": "题号：5\n\n译文：发明了一个术语用来区分影响个人特质的两种因素\n\n定位词：invented a term, two factors\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture' ).\n\n本题基本上就是考查考生对coin这个单词作为动词表示“创造”和term这个单词作为名词还可表示“术语”的词汇知识，而coin a term这样的用法在此前的剑桥真题里已经算是频繁出现的熟面孔了，不会给考生构成太大的解题障碍，此题答案为A。\n\n题号：6\n\n译文：表达了这样一个观点:对于表观遗传学的研究将会增加我们的知识\n\n定位词：Study of epigenetics, increase, knowledge\n\n文中对应第十二段第一句：Having said that, Reed adds, the latest work in epigenetics promises to take our understanding further.\n\n本题的定位略显麻烦，因为Reed这个人名在文章的后三段中都有所提及，考生需具备快速阅读每句大意而不细抠字眼的能力，带着对5~9所剩未选出答案的题干的记忆，对比这几段文章中的相关内容，待读到最后一段时理解原文倒应该不难，increase our knowledge与take our understanding further是简单的同义表述关系,本题答案为C。\n\n题号：7\n\n译文：开创了一种数学方法来衡量基因的影响\n\n定位词：mathematical method\n\n文中对应第五段第一、二句：Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical\n\nconcept called heritability.\n\n本题出题点距离人名定位处并不远，statistical concept与mathematical method的同义替换关系也不难理解，此题答案为B。\n\n题号：8\n\n译文：开创了通过双胞胎来研究基因学的做法\n\n定位词：pioneered\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase‘nature and nurture').\n\n本题与第五题的定位完全相同，都是原文中的同一句，且从考查单词的难度上来看，比第五题更容易理解。无论date back(追溯到)这个词组还是first这个单词对于考生来说都不会造成理解困难，正是Francis Galton开创了研究双胞胎的先河，本题答案为A。\n\n题号：9\n\n译文：对那些各自生活在不同地方的双胞胎进行了研究\n\n定位词：lived apart\n\n文中对应第四段第二、三句：But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart.\n\n无论是原文中第二句里的separated at birth and reunited as adults还是第三句里的Reared Apart,都明确对应题干中的lived apart 这个信息，不难理解。考生只需明确这个研究对象到底是Francis Galton还是Thomas Bouchard所研究的即可。经过仔细阅读可知为后者，因此本题答案为B。",
+          "promptHtml": "[5] ______ invented a term used to distinguish two factors affecting human characteristics"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "[6] ______ expressed the view that the study of epigenetics will increase our knowledge",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6813_433733",
+          "explanation": "题号：5\n\n译文：发明了一个术语用来区分影响个人特质的两种因素\n\n定位词：invented a term, two factors\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture' ).\n\n本题基本上就是考查考生对coin这个单词作为动词表示“创造”和term这个单词作为名词还可表示“术语”的词汇知识，而coin a term这样的用法在此前的剑桥真题里已经算是频繁出现的熟面孔了，不会给考生构成太大的解题障碍，此题答案为A。\n\n题号：6\n\n译文：表达了这样一个观点:对于表观遗传学的研究将会增加我们的知识\n\n定位词：Study of epigenetics, increase, knowledge\n\n文中对应第十二段第一句：Having said that, Reed adds, the latest work in epigenetics promises to take our understanding further.\n\n本题的定位略显麻烦，因为Reed这个人名在文章的后三段中都有所提及，考生需具备快速阅读每句大意而不细抠字眼的能力，带着对5~9所剩未选出答案的题干的记忆，对比这几段文章中的相关内容，待读到最后一段时理解原文倒应该不难，increase our knowledge与take our understanding further是简单的同义表述关系,本题答案为C。\n\n题号：7\n\n译文：开创了一种数学方法来衡量基因的影响\n\n定位词：mathematical method\n\n文中对应第五段第一、二句：Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical\n\nconcept called heritability.\n\n本题出题点距离人名定位处并不远，statistical concept与mathematical method的同义替换关系也不难理解，此题答案为B。\n\n题号：8\n\n译文：开创了通过双胞胎来研究基因学的做法\n\n定位词：pioneered\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase‘nature and nurture').\n\n本题与第五题的定位完全相同，都是原文中的同一句，且从考查单词的难度上来看，比第五题更容易理解。无论date back(追溯到)这个词组还是first这个单词对于考生来说都不会造成理解困难，正是Francis Galton开创了研究双胞胎的先河，本题答案为A。\n\n题号：9\n\n译文：对那些各自生活在不同地方的双胞胎进行了研究\n\n定位词：lived apart\n\n文中对应第四段第二、三句：But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart.\n\n无论是原文中第二句里的separated at birth and reunited as adults还是第三句里的Reared Apart,都明确对应题干中的lived apart 这个信息，不难理解。考生只需明确这个研究对象到底是Francis Galton还是Thomas Bouchard所研究的即可。经过仔细阅读可知为后者，因此本题答案为B。",
+          "promptHtml": "[6] ______ expressed the view that the study of epigenetics will increase our knowledge"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "[7] ______ developed a mathematical method of measuring genetic influences",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6813_893694",
+          "explanation": "题号：5\n\n译文：发明了一个术语用来区分影响个人特质的两种因素\n\n定位词：invented a term, two factors\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture' ).\n\n本题基本上就是考查考生对coin这个单词作为动词表示“创造”和term这个单词作为名词还可表示“术语”的词汇知识，而coin a term这样的用法在此前的剑桥真题里已经算是频繁出现的熟面孔了，不会给考生构成太大的解题障碍，此题答案为A。\n\n题号：6\n\n译文：表达了这样一个观点:对于表观遗传学的研究将会增加我们的知识\n\n定位词：Study of epigenetics, increase, knowledge\n\n文中对应第十二段第一句：Having said that, Reed adds, the latest work in epigenetics promises to take our understanding further.\n\n本题的定位略显麻烦，因为Reed这个人名在文章的后三段中都有所提及，考生需具备快速阅读每句大意而不细抠字眼的能力，带着对5~9所剩未选出答案的题干的记忆，对比这几段文章中的相关内容，待读到最后一段时理解原文倒应该不难，increase our knowledge与take our understanding further是简单的同义表述关系,本题答案为C。\n\n题号：7\n\n译文：开创了一种数学方法来衡量基因的影响\n\n定位词：mathematical method\n\n文中对应第五段第一、二句：Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical\n\nconcept called heritability.\n\n本题出题点距离人名定位处并不远，statistical concept与mathematical method的同义替换关系也不难理解，此题答案为B。\n\n题号：8\n\n译文：开创了通过双胞胎来研究基因学的做法\n\n定位词：pioneered\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase‘nature and nurture').\n\n本题与第五题的定位完全相同，都是原文中的同一句，且从考查单词的难度上来看，比第五题更容易理解。无论date back(追溯到)这个词组还是first这个单词对于考生来说都不会造成理解困难，正是Francis Galton开创了研究双胞胎的先河，本题答案为A。\n\n题号：9\n\n译文：对那些各自生活在不同地方的双胞胎进行了研究\n\n定位词：lived apart\n\n文中对应第四段第二、三句：But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart.\n\n无论是原文中第二句里的separated at birth and reunited as adults还是第三句里的Reared Apart,都明确对应题干中的lived apart 这个信息，不难理解。考生只需明确这个研究对象到底是Francis Galton还是Thomas Bouchard所研究的即可。经过仔细阅读可知为后者，因此本题答案为B。",
+          "promptHtml": "[7] ______ developed a mathematical method of measuring genetic influences"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______ pioneered research into genetics using twins",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6813_527722",
+          "explanation": "题号：5\n\n译文：发明了一个术语用来区分影响个人特质的两种因素\n\n定位词：invented a term, two factors\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture' ).\n\n本题基本上就是考查考生对coin这个单词作为动词表示“创造”和term这个单词作为名词还可表示“术语”的词汇知识，而coin a term这样的用法在此前的剑桥真题里已经算是频繁出现的熟面孔了，不会给考生构成太大的解题障碍，此题答案为A。\n\n题号：6\n\n译文：表达了这样一个观点:对于表观遗传学的研究将会增加我们的知识\n\n定位词：Study of epigenetics, increase, knowledge\n\n文中对应第十二段第一句：Having said that, Reed adds, the latest work in epigenetics promises to take our understanding further.\n\n本题的定位略显麻烦，因为Reed这个人名在文章的后三段中都有所提及，考生需具备快速阅读每句大意而不细抠字眼的能力，带着对5~9所剩未选出答案的题干的记忆，对比这几段文章中的相关内容，待读到最后一段时理解原文倒应该不难，increase our knowledge与take our understanding further是简单的同义表述关系,本题答案为C。\n\n题号：7\n\n译文：开创了一种数学方法来衡量基因的影响\n\n定位词：mathematical method\n\n文中对应第五段第一、二句：Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical\n\nconcept called heritability.\n\n本题出题点距离人名定位处并不远，statistical concept与mathematical method的同义替换关系也不难理解，此题答案为B。\n\n题号：8\n\n译文：开创了通过双胞胎来研究基因学的做法\n\n定位词：pioneered\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase‘nature and nurture').\n\n本题与第五题的定位完全相同，都是原文中的同一句，且从考查单词的难度上来看，比第五题更容易理解。无论date back(追溯到)这个词组还是first这个单词对于考生来说都不会造成理解困难，正是Francis Galton开创了研究双胞胎的先河，本题答案为A。\n\n题号：9\n\n译文：对那些各自生活在不同地方的双胞胎进行了研究\n\n定位词：lived apart\n\n文中对应第四段第二、三句：But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart.\n\n无论是原文中第二句里的separated at birth and reunited as adults还是第三句里的Reared Apart,都明确对应题干中的lived apart 这个信息，不难理解。考生只需明确这个研究对象到底是Francis Galton还是Thomas Bouchard所研究的即可。经过仔细阅读可知为后者，因此本题答案为B。",
+          "promptHtml": "[8] ______ pioneered research into genetics using twins"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "[9] ______ carried out research into twins who had lived apart",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6813_694997",
+          "explanation": "题号：5\n\n译文：发明了一个术语用来区分影响个人特质的两种因素\n\n定位词：invented a term, two factors\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture' ).\n\n本题基本上就是考查考生对coin这个单词作为动词表示“创造”和term这个单词作为名词还可表示“术语”的词汇知识，而coin a term这样的用法在此前的剑桥真题里已经算是频繁出现的熟面孔了，不会给考生构成太大的解题障碍，此题答案为A。\n\n题号：6\n\n译文：表达了这样一个观点:对于表观遗传学的研究将会增加我们的知识\n\n定位词：Study of epigenetics, increase, knowledge\n\n文中对应第十二段第一句：Having said that, Reed adds, the latest work in epigenetics promises to take our understanding further.\n\n本题的定位略显麻烦，因为Reed这个人名在文章的后三段中都有所提及，考生需具备快速阅读每句大意而不细抠字眼的能力，带着对5~9所剩未选出答案的题干的记忆，对比这几段文章中的相关内容，待读到最后一段时理解原文倒应该不难，increase our knowledge与take our understanding further是简单的同义表述关系,本题答案为C。\n\n题号：7\n\n译文：开创了一种数学方法来衡量基因的影响\n\n定位词：mathematical method\n\n文中对应第五段第一、二句：Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical\n\nconcept called heritability.\n\n本题出题点距离人名定位处并不远，statistical concept与mathematical method的同义替换关系也不难理解，此题答案为B。\n\n题号：8\n\n译文：开创了通过双胞胎来研究基因学的做法\n\n定位词：pioneered\n\n文中对应第四段第一句：The idea of using twins to measure the influence of heredity dates back to 1875,when the English scientist Francis Galton first suggested the approach (and coined the phrase‘nature and nurture').\n\n本题与第五题的定位完全相同，都是原文中的同一句，且从考查单词的难度上来看，比第五题更容易理解。无论date back(追溯到)这个词组还是first这个单词对于考生来说都不会造成理解困难，正是Francis Galton开创了研究双胞胎的先河，本题答案为A。\n\n题号：9\n\n译文：对那些各自生活在不同地方的双胞胎进行了研究\n\n定位词：lived apart\n\n文中对应第四段第二、三句：But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart.\n\n无论是原文中第二句里的separated at birth and reunited as adults还是第三句里的Reared Apart,都明确对应题干中的lived apart 这个信息，不难理解。考生只需明确这个研究对象到底是Francis Galton还是Thomas Bouchard所研究的即可。经过仔细阅读可知为后者，因此本题答案为B。",
+          "promptHtml": "[9] ______ carried out research into twins who had lived apart"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Francis Galton"
+        },
+        {
+          "value": "B",
+          "text": "Thomas Bouchard"
+        },
+        {
+          "value": "C",
+          "text": "Danielle Reed"
+        }
+      ],
+      "contextHtml": "<p><strong>[5] ______</strong> invented a term used to distinguish two factors affecting human characteristics<br>\n<strong>[6] ______</strong> expressed the view that the study of epigenetics will increase our knowledge<br>\n<strong>[7] ______</strong> developed a mathematical method of measuring genetic influences<br>\n<strong>[8] ______</strong> pioneered research into genetics using twins<br>\n<strong>[9] ______</strong> carried out research into twins who had lived apart</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 10-13\n\nComplete the summary using the list of words, A-F, below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Answer for gap 10.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6813_197287",
+          "explanation": "题号：10\n\n定位词：epigenetic processes\n\n文中对应第七段第一、二句：Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a 'third component'. These reactions influence how our genetic code is expressed....\n\n题干说“在表观遗传过程中，____会影响我们的基因活动行为”。用epigenetic processes可以轻松在原文中定位到出题位置，但考生需要耐心读完相邻的两句，才可根据后句里的these reactions这个指代更加确定答案应为前一句中的chemical reactions。 然而所给选项中并没有一模一样的内容，需根据意思选择最接近的选项，由此可得答案为D: chemicals。\n\n题号：11\n\n定位词：create, internal\n\n文中对应第七段第二句：These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies.\n\n题干说“在表观遗传过程中，化学反应会影响我们的基因活动行为，例如在创造我们内部____的时候”。本题的出题位置与上一题来自同一句话，在原文中的出处也极为接近。从阅读理解的角度来看，考生应该具备internal (内部的)、organs(器官)这样的基础词汇，从而看出原文中的parts of our bodies正是对应internal organs这一表述，因此答案为B选项: organs。\n\n题号：12\n\n定位词：uncover, genes, affected by\n\n文中对应第九段第一句：One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes.\n\n题干说“表观遗传学的研究正在探索我们的基因会以怎样的方式受到我们的____的影响”。,考生应该不难找到原文中impact与题干中be affected by的同义替换，对比可知答案为E选项：environment。\n\n题号：13\n\n定位词：pregnant rat, stress, problems\n\n文中对应第九段第二句：Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up.\n\n题干说“有一个例证：如果一只怀孕的老鼠经历过紧张压力体验，新生的幼鼠日后就有可能展现出___方面的问题”。“怀孕老鼠”这个信息在文中十分容易定位，考生只需认真阅读定位句即可得出答案为F选项：behaviour/behavior。",
+          "promptHtml": "Answer for gap 10."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Answer for gap 11.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6813_228357",
+          "explanation": "题号：10\n\n定位词：epigenetic processes\n\n文中对应第七段第一、二句：Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a 'third component'. These reactions influence how our genetic code is expressed....\n\n题干说“在表观遗传过程中，____会影响我们的基因活动行为”。用epigenetic processes可以轻松在原文中定位到出题位置，但考生需要耐心读完相邻的两句，才可根据后句里的these reactions这个指代更加确定答案应为前一句中的chemical reactions。 然而所给选项中并没有一模一样的内容，需根据意思选择最接近的选项，由此可得答案为D: chemicals。\n\n题号：11\n\n定位词：create, internal\n\n文中对应第七段第二句：These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies.\n\n题干说“在表观遗传过程中，化学反应会影响我们的基因活动行为，例如在创造我们内部____的时候”。本题的出题位置与上一题来自同一句话，在原文中的出处也极为接近。从阅读理解的角度来看，考生应该具备internal (内部的)、organs(器官)这样的基础词汇，从而看出原文中的parts of our bodies正是对应internal organs这一表述，因此答案为B选项: organs。\n\n题号：12\n\n定位词：uncover, genes, affected by\n\n文中对应第九段第一句：One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes.\n\n题干说“表观遗传学的研究正在探索我们的基因会以怎样的方式受到我们的____的影响”。,考生应该不难找到原文中impact与题干中be affected by的同义替换，对比可知答案为E选项：environment。\n\n题号：13\n\n定位词：pregnant rat, stress, problems\n\n文中对应第九段第二句：Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up.\n\n题干说“有一个例证：如果一只怀孕的老鼠经历过紧张压力体验，新生的幼鼠日后就有可能展现出___方面的问题”。“怀孕老鼠”这个信息在文中十分容易定位，考生只需认真阅读定位句即可得出答案为F选项：behaviour/behavior。",
+          "promptHtml": "Answer for gap 11."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Answer for gap 12.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6813_399897",
+          "explanation": "题号：10\n\n定位词：epigenetic processes\n\n文中对应第七段第一、二句：Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a 'third component'. These reactions influence how our genetic code is expressed....\n\n题干说“在表观遗传过程中，____会影响我们的基因活动行为”。用epigenetic processes可以轻松在原文中定位到出题位置，但考生需要耐心读完相邻的两句，才可根据后句里的these reactions这个指代更加确定答案应为前一句中的chemical reactions。 然而所给选项中并没有一模一样的内容，需根据意思选择最接近的选项，由此可得答案为D: chemicals。\n\n题号：11\n\n定位词：create, internal\n\n文中对应第七段第二句：These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies.\n\n题干说“在表观遗传过程中，化学反应会影响我们的基因活动行为，例如在创造我们内部____的时候”。本题的出题位置与上一题来自同一句话，在原文中的出处也极为接近。从阅读理解的角度来看，考生应该具备internal (内部的)、organs(器官)这样的基础词汇，从而看出原文中的parts of our bodies正是对应internal organs这一表述，因此答案为B选项: organs。\n\n题号：12\n\n定位词：uncover, genes, affected by\n\n文中对应第九段第一句：One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes.\n\n题干说“表观遗传学的研究正在探索我们的基因会以怎样的方式受到我们的____的影响”。,考生应该不难找到原文中impact与题干中be affected by的同义替换，对比可知答案为E选项：environment。\n\n题号：13\n\n定位词：pregnant rat, stress, problems\n\n文中对应第九段第二句：Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up.\n\n题干说“有一个例证：如果一只怀孕的老鼠经历过紧张压力体验，新生的幼鼠日后就有可能展现出___方面的问题”。“怀孕老鼠”这个信息在文中十分容易定位，考生只需认真阅读定位句即可得出答案为F选项：behaviour/behavior。",
+          "promptHtml": "Answer for gap 12."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Answer for gap 13.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6813_931280",
+          "explanation": "题号：10\n\n定位词：epigenetic processes\n\n文中对应第七段第一、二句：Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a 'third component'. These reactions influence how our genetic code is expressed....\n\n题干说“在表观遗传过程中，____会影响我们的基因活动行为”。用epigenetic processes可以轻松在原文中定位到出题位置，但考生需要耐心读完相邻的两句，才可根据后句里的these reactions这个指代更加确定答案应为前一句中的chemical reactions。 然而所给选项中并没有一模一样的内容，需根据意思选择最接近的选项，由此可得答案为D: chemicals。\n\n题号：11\n\n定位词：create, internal\n\n文中对应第七段第二句：These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies.\n\n题干说“在表观遗传过程中，化学反应会影响我们的基因活动行为，例如在创造我们内部____的时候”。本题的出题位置与上一题来自同一句话，在原文中的出处也极为接近。从阅读理解的角度来看，考生应该具备internal (内部的)、organs(器官)这样的基础词汇，从而看出原文中的parts of our bodies正是对应internal organs这一表述，因此答案为B选项: organs。\n\n题号：12\n\n定位词：uncover, genes, affected by\n\n文中对应第九段第一句：One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes.\n\n题干说“表观遗传学的研究正在探索我们的基因会以怎样的方式受到我们的____的影响”。,考生应该不难找到原文中impact与题干中be affected by的同义替换，对比可知答案为E选项：environment。\n\n题号：13\n\n定位词：pregnant rat, stress, problems\n\n文中对应第九段第二句：Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up.\n\n题干说“有一个例证：如果一只怀孕的老鼠经历过紧张压力体验，新生的幼鼠日后就有可能展现出___方面的问题”。“怀孕老鼠”这个信息在文中十分容易定位，考生只需认真阅读定位句即可得出答案为F选项：behaviour/behavior。",
+          "promptHtml": "Answer for gap 13."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "nurture"
+        },
+        {
+          "value": "B",
+          "text": "organs"
+        },
+        {
+          "value": "C",
+          "text": "code"
+        },
+        {
+          "value": "D",
+          "text": "chemicals"
+        },
+        {
+          "value": "E",
+          "text": "environment"
+        },
+        {
+          "value": "F",
+          "text": "behaviour/behavior"
+        }
+      ],
+      "contextHtml": "<p><span><strong>Epigenetic processes</strong></span></p>\n\n<p>In epigenetic processes, <strong>[10] ______</strong> influence the activity of our genes, for example in creating our internal <strong>[11] ______</strong>. The study of epigenetic processes is uncovering a way in which our genes can be affected by our <strong>[12] ______</strong>. One example is that if a pregnant rat suffers stress, the new-born rat may later show problems in its <strong>[13] ______</strong>.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Research using twins</strong></span></p><p>To biomedical researchers all over the world, twins offer a precious opportunity to untangle the influence of genes and the environment - of nature and nurture. Because identical twins come from a single fertilized egg that splits into two, they share virtually the same genetic code. Any differences between them - one twin having younger looking skin, for example - must be due to environmental factors such as less time spent in the sun.</p><p>Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers can quantify the extent to which our genes affect our lives. If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be rooted at least in part in heredity.</p><p>These two lines of research - studying the differences between identical twins to pinpoint the influence of environment, and comparing identical twins with fraternal ones to measure the role of inheritance - have been crucial to understanding the interplay of nature and nurture in determining our personalities, behavior, and vulnerability to disease.</p><p>The idea of using twins to measure the influence of heredity dates back to 1875, when the English scientist Francis Galton first suggested the approach (and coined the phrase &#x27;nature and nurture&#x27;). But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard&#x27;s lab in what became known as the Minnesota Study of Twins Reared Apart. Numerous tests were carried out on the twins, and they were each asked more than 15,000 questions.</p><p>Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical concept called heritability. In broad terms, the heritability of a trait measures the extent to which differences among members of a population can be explained by differences in their genetics. And wherever Bouchard and other scientists looked, it seemed, they found the invisible hand of genetic influence helping to shape our lives.</p><p>Lately, however, twin studies have helped lead scientists to a radical new conclusion: that nature and nurture are not the only elemental forces at work. According to a recent field called epigenetics, there is a third factor also in play, one that in some cases serves as a bridge between the environment and our genes, and in others operates on its own to shape who we are.</p><p>Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a &#x27;third component&#x27;. These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies.</p><p>If you think of our DNA as an immense piano keyboard and our genes as the keys - each key symbolizing a segment of DNA responsible for a particular note, or trait, and all the keys combining to make us who we are - then epigenetic processes determine when and how each key can be struck, changing the tune being played.</p><p>One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes. Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up. Other epigenetic processes appear to occur randomly, while others are normal, such as those that guide embryonic cells as they become heart, brain, or liver cells for example.</p><p>Geneticist Danielle Reed has worked with many twins over the years and thought deeply about what twin studies have taught us. &#x27;It&#x27;s very clear when you look at twins that much of what they share is hardwired,&#x27; she says. &#x27;Many things about them are absolutely the same and unalterable. But it&#x27;s also clear, when you get to know them, that other things about them are different. Epigenetics is the origin of a lot of those differences, in my view.&#x27;</p><p>Reed credits Thomas Bouchard&#x27;s work for today&#x27;s surge in twin studies. &#x27;He was the trailblazer,&#x27; she says. &#x27;We forget that 50 years ago things like heart disease were thought to be caused entirely by lifestyle. Schizophrenia was thought to be due to poor mothering. Twin studies have allowed us to be more reflective about what people are actually born with and what&#x27;s caused by experience.&#x27;</p><p>Having said that, Reed adds, the latest work in epigenetics promises to take our understanding even further. &#x27;What I like to say is that nature writes some things in pencil and some things in pen,&#x27; she says. &#x27;Things written in pen you can&#x27;t change. That&#x27;s DNA. But things written in pencil you can. That&#x27;s epigenetics. Now that we&#x27;re actually able to look at the DNA and see where the pencil writings are, it&#x27;s sort of a whole new world.&#x27;</p>"
+}

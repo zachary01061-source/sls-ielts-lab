@@ -1,0 +1,293 @@
+{
+  "id": "19ad7a17-20b1-4cf7-b1a4-c448920328a4",
+  "title": "Street furniture",
+  "titleCn": "街道家具设计：标识、路灯与街道杂乱问题",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/19ad7a17-20b1-4cf7-b1a4-c448920328a4",
+  "duration": 371,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,140"
+    },
+    {
+      "label": "2",
+      "text": "Today, I'm going to be talking about the design of streets from a town planner's angle, and I'm going to be looking at what's known as street furniture. That's signs, road markings, lampposts, and so on. When we're designing streets and deciding where to put street furniture, we must consider how strong an impact its location will have, not only in terms of aesthetics, but above all in terms of access. Over the years, there's been a build-up of street furniture, and the result is that many streets are cluttered, overcrowded, too busy. So many towns and cities now have a policy to declutter the streets, rationalize the amount of street furniture. However, removing street furniture causes another problem, that of storage. Towns are reluctant to throw out or dump their unwanted street furniture, as it can often be put to good use in another location. One of the biggest culprits when it comes to our streets looking cluttered is signs. Generally speaking, they should be attached to existing posts where feasible. Parking restriction signs are a good example of this, or they may be attached to buildings. In addition, they have to be put somewhere where they don't impede circulation. This is something I am sure all of you are aware of from your own experience. The only group of signs that must be sited in particular positions are warning signs. The public must have enough time to read these before they reach the problem. Of course, all signs should be concise and no bigger than necessary, and at the same time, their message must be clear. When it comes to choosing road signs for a town, there are a couple of things to take into account. The key point is that these signs need to be seen clearly after dark. Weather conditions pose less of a problem. The choice of material that the sign is made of is therefore important. One of the best materials being produced at the moment is one whose surface is made up of tiny prisms, each one reflecting light. The choice of material is also important if graffiti is a problem. In this case, material covered with a fine plastic film which is easily cleaned is suitable. This material also makes the removal of unwanted stickers much easier. There are a number of other objects which are potentially problematic. The introduction of CCTV cameras used for security, for example. It's not so much the cameras that are the problem because they are usually located high up on buildings. It's the boxes containing all the controls, which even when placed up on walls, can give a street an oppressive atmosphere. At ground level, the location of cycle racks is tricky. If they are near the road, they can get in the way of pedestrians. If they are back against a wall, the cyclists and their bikes have to cross the pavement. There is a similar problem with bins. They need to be easy for people to throw their litter into, but not block the pavement in any way. I'd like to round up this section of my talk by focusing on some design principles. Firstly, any street furniture or signs that are used, used must be fit for purpose. Secondly, they have got to be durable. They need to be able to stand the test of time. And then, of course, they need to be low maintenance. As for general principles, an area I haven't touched on so far is that we must find out about any legal regulations regarding street furniture. Many aspects of street furniture and signs are affected by this. And remember that there's no substitute for going to the actual town to do an inspection of the site."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "d77b2643-66a6-4508-8ace-565e5e3d68cd",
+          "prompt": "**“Public Amenities”**\nThe primary consideration in placing public amenities is their impact on **31**_____ .",
+          "answers": [
+            "access"
+          ],
+          "rawAnswer": "access",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When we're designing streets and deciding where to put street furniture, we must consider how strong an impact its location will have, not only in terms of aesthetics, but above all in terms of access"
+          },
+          "keywordPairs": [
+            {
+              "question": "public amenities",
+              "article": "street furniture"
+            },
+            {
+              "question": "placing",
+              "article": "deciding where to put"
+            },
+            {
+              "question": "primary consideration",
+              "article": "must consider"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "30a0b073-50b2-41ed-b0da-0f29eff18cad",
+          "prompt": "An issues that arises from removing public amenities is **32**_____ .",
+          "answers": [
+            "storage"
+          ],
+          "rawAnswer": "storage",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, removing street furniture causes another problem, that of storage"
+          },
+          "keywordPairs": [
+            {
+              "question": "issue",
+              "article": "problem"
+            },
+            {
+              "question": "arises from",
+              "article": "causes"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "d0611828-7903-4501-bd79-825e5bd3f801",
+          "prompt": "**Signage **\nThey should be mounted on existing structures when possible.\nThey should not obstruct **33**_____ .",
+          "answers": [
+            "circulation"
+          ],
+          "rawAnswer": "circulation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In addition, they have to be put somewhere where they don't impede circulation"
+          },
+          "keywordPairs": [
+            {
+              "question": "not obstruct",
+              "article": "don't impede"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "ec71f8c7-8422-4402-824b-61c8b045fc37",
+          "prompt": "Specific locations are required only for signs that provide a **34**_____ .",
+          "answers": [
+            "warning"
+          ],
+          "rawAnswer": "warning",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The only group of signs that must be sited in particular positions are warning signs"
+          },
+          "keywordPairs": [
+            {
+              "question": "Specific locations",
+              "article": "particular positions"
+            },
+            {
+              "question": "are required only for",
+              "article": "must be sited only for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "cce931b5-3d1e-49e1-8c9b-171463f809b1",
+          "prompt": "Their dimensions must be suitable and the message clear.\nIt`s crucial road signs are visible in the **35**_____ .",
+          "answers": [
+            "dark"
+          ],
+          "rawAnswer": "dark",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The key point is that these signs need to be seen clearly after dark"
+          },
+          "keywordPairs": [
+            {
+              "question": "crucial",
+              "article": "key point"
+            },
+            {
+              "question": "visible",
+              "article": "need to be seen clearly"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "3be85f57-0090-40be-90a1-7d4e6eccb60c",
+          "prompt": "Materials coated with plastic facilitate easy removal of graffiti and **36**_____ .",
+          "answers": [
+            "stickers"
+          ],
+          "rawAnswer": "stickers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This material also makes the removal of unwanted stickers much easier"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "bb95cba9-421c-4b07-8540-93b238bcf421",
+          "prompt": "**Other Potential Issues**\nThe **37**_____ needed for CCTV systems.",
+          "answers": [
+            "boxes"
+          ],
+          "rawAnswer": "boxes",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It's not so much the cameras that are the problem because they are usually located high up on buildings. It's the boxes containing all the controls, which even when placed up on walls, can give a street an oppressive atmosphere"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "2cbf7099-b2a7-43f3-9ead-ed9b74db99f9",
+          "prompt": "Bicycle racks\n**38**_____",
+          "answers": [
+            "bins"
+          ],
+          "rawAnswer": "bins",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At ground level, the location of cycle racks is tricky;There is a similar problem with bins. They need to be easy for people to throw their litter into, but not block the pavement in any way"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "88fcf891-399e-48c9-85a6-d82cdad497e0",
+          "prompt": "**Design Guidelines**\nPublic amenities should be:\nSuitable for their purpose\n**39**_____\nEasy to maintain",
+          "answers": [
+            "durable"
+          ],
+          "rawAnswer": "durable",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Firstly, any street furniture or signs that are used, used must be fit for purpose. Secondly, they have got to be durable. They need to be able to stand the test of time"
+          },
+          "keywordPairs": [
+            {
+              "question": "Suitable for",
+              "article": "fit for"
+            },
+            {
+              "question": "should be",
+              "article": "have got to be"
+            },
+            {
+              "question": "Easy to",
+              "article": "low"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "021293c4-bc51-4069-a858-9d36f7470e39",
+          "prompt": "**General Guidelines**\nVerify the **40**_____ requirements.",
+          "answers": [
+            "legal"
+          ],
+          "rawAnswer": "legal",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As for general principles, an area I haven't touched on so far is that we must find out about any legal regulations regarding street furniture"
+          },
+          "keywordPairs": [
+            {
+              "question": "Verify",
+              "article": "find out about"
+            },
+            {
+              "question": "requirements",
+              "article": "regulations"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,140</p><p>Today, I'm going to be talking about the design of streets from a town planner's angle, and I'm going to be looking at what's known as street furniture. That's signs, road markings, lampposts, and so on. When we're designing streets and deciding where to put street furniture, we must consider how strong an impact its location will have, not only in terms of aesthetics, but above all in terms of access. Over the years, there's been a build-up of street furniture, and the result is that many streets are cluttered, overcrowded, too busy. So many towns and cities now have a policy to declutter the streets, rationalize the amount of street furniture. However, removing street furniture causes another problem, that of storage. Towns are reluctant to throw out or dump their unwanted street furniture, as it can often be put to good use in another location. One of the biggest culprits when it comes to our streets looking cluttered is signs. Generally speaking, they should be attached to existing posts where feasible. Parking restriction signs are a good example of this, or they may be attached to buildings. In addition, they have to be put somewhere where they don't impede circulation. This is something I am sure all of you are aware of from your own experience. The only group of signs that must be sited in particular positions are warning signs. The public must have enough time to read these before they reach the problem. Of course, all signs should be concise and no bigger than necessary, and at the same time, their message must be clear. When it comes to choosing road signs for a town, there are a couple of things to take into account. The key point is that these signs need to be seen clearly after dark. Weather conditions pose less of a problem. The choice of material that the sign is made of is therefore important. One of the best materials being produced at the moment is one whose surface is made up of tiny prisms, each one reflecting light. The choice of material is also important if graffiti is a problem. In this case, material covered with a fine plastic film which is easily cleaned is suitable. This material also makes the removal of unwanted stickers much easier. There are a number of other objects which are potentially problematic. The introduction of CCTV cameras used for security, for example. It's not so much the cameras that are the problem because they are usually located high up on buildings. It's the boxes containing all the controls, which even when placed up on walls, can give a street an oppressive atmosphere. At ground level, the location of cycle racks is tricky. If they are near the road, they can get in the way of pedestrians. If they are back against a wall, the cyclists and their bikes have to cross the pavement. There is a similar problem with bins. They need to be easy for people to throw their litter into, but not block the pavement in any way. I'd like to round up this section of my talk by focusing on some design principles. Firstly, any street furniture or signs that are used, used must be fit for purpose. Secondly, they have got to be durable. They need to be able to stand the test of time. And then, of course, they need to be low maintenance. As for general principles, an area I haven't touched on so far is that we must find out about any legal regulations regarding street furniture. Many aspects of street furniture and signs are affected by this. And remember that there's no substitute for going to the actual town to do an inspection of the site.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/19ad7a17-20b1-4cf7-b1a4-c448920328a4.mp3",
+    "durationSeconds": 250.704,
+    "sizeBytes": 1003161,
+    "sha256": "596eed9d11313c30477c89e8ad61547d028ba79043d900a2fa720bcd0198e952",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:51:35Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792997335839_bzlikk.mp3"
+}

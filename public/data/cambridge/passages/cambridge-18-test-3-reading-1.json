@@ -1,0 +1,340 @@
+{
+  "id": "cambridge-18-test-3-reading-1",
+  "title": "Materials to take us beyond concrete",
+  "titleCn": "Materials to take us beyond concrete",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 3
+  },
+  "sourceQuestionId": "8463",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8463",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Materials to take us beyond concrete"
+    },
+    {
+      "label": "2",
+      "text": "Concrete is everywhere, but it’s bad for the planet, generating large amounts of carbon"
+    },
+    {
+      "label": "3",
+      "text": "dioxide – alternatives are being developed"
+    },
+    {
+      "label": "4",
+      "text": "A"
+    },
+    {
+      "label": "5",
+      "text": "Concrete is the second most used substance in the global economy, after water – and one of the world’s biggest single sources of greenhouse gas emissions. The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide. The UN estimates that there will be 9.8 billion people living on the planet by mid-century. They will need somewhere to live. If concrete is the only answer to the construction of new cities, then carbon emissions will soar, aggravating global warming. And so scientists have started innovating with other materials, in a scramble for alternatives to a universal commodity that has underpinned our modern life for many years."
+    },
+    {
+      "label": "6",
+      "text": "B"
+    },
+    {
+      "label": "7",
+      "text": "The problem with replacing concrete is that it is so very good at what it does. Chris Cheeseman, an engineering professor at Imperial College London, says the key thing to consider is the extent to which concrete is used around the world, and is likely to continue to be used. ‘Concrete is not a high-carbon product. Cement is high carbon, but concrete is not. But it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue.’"
+    },
+    {
+      "label": "8",
+      "text": "C"
+    },
+    {
+      "label": "9",
+      "text": "Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe, the stuff itself has marvellous properties: Portland cement, the vital component of concrete, is mouldable and pourable, but quickly sets hard. Cheeseman also notes another advantage: concrete and steel have similar thermal expansion properties, so steel can be used to reinforce concrete, making it far stronger and more flexible as a building material than it could be on its own. According to Cheeseman, all these factors together make concrete hard to beat. ‘Concrete is amazing stuff. Making anything with similar properties is going to be very difficult.’"
+    },
+    {
+      "label": "10",
+      "text": "D"
+    },
+    {
+      "label": "11",
+      "text": "A possible alternative to concrete is wood. Making buildings from wood may seem like a rather medieval idea, but climate change is driving architects to turn to treated timber as a possible resource. Recent years have seen the emergence of tall buildings constructed almost entirely from timber. Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings."
+    },
+    {
+      "label": "12",
+      "text": "E"
+    },
+    {
+      "label": "13",
+      "text": "Using wood to construct buildings, however, is not straightforward. Wood expands as it absorbs moisture from the air and is susceptible to pests, not to mention fire. But treating wood and combining it with other materials can improve its properties. Cross-laminated timber is engineered wood. An adhesive is used to stick layers of solid-sawn timber together, crosswise, to form building blocks. This material is light but has the strength of concrete and steel. Construction experts say that wooden buildings can be constructed at a greater speed than ones of concrete and steel and the process, it seems, is quieter."
+    },
+    {
+      "label": "14",
+      "text": "F"
+    },
+    {
+      "label": "15",
+      "text": "Stora Enso is Europe’s biggest supplier of cross-laminated timber, and its vice-president Markus Mannström reports that the company is seeing increasing demand globally for building in wood, with climate change concerns the key driver. Finland, with its large forests, where Stora Enso is based, has been leading the way, but the company is seeing a rise in demand for its timber products across the world, including in Asia. Of course, using timber in a building also locks away the carbon that it absorbed as it grew. But even treated wood has its limitations and only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings."
+    },
+    {
+      "label": "16",
+      "text": "G"
+    },
+    {
+      "label": "17",
+      "text": "Fly ash and slag from iron ore are possible alternatives to cement in a concrete mix. Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes to make up as much as 15 to 30% of the cement, without harming the strength or durability of the resulting mix. Iron-ore slag, a byproduct of the iron-ore smelting process, can be used in a similar way. Their incorporation into concrete mixes has the potential to reduce greenhouse gas emissions."
+    },
+    {
+      "label": "18",
+      "text": "But Anna Surgenor, of the UK’s Green Building Council, notes that although these waste products can save carbon in the concrete mix, their use is not always straightforward. ‘It’s possible to replace the cement content in concrete with waste products to lower the overall carbon impact. But there are several calculations that need to be considered across the entire life cycle of the building – these include factoring in where these materials are being shipped from. If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense from an overall carbon reduction perspective.’"
+    },
+    {
+      "label": "19",
+      "text": "H"
+    },
+    {
+      "label": "20",
+      "text": "While these technologies are all promising ideas, they are either unproven or based on materials that are not abundant. In their overview of innovation in the concrete industry, Felix Preston and Johanna Lehne of the UK’s Royal Institute of International Affairs reached the conclusion that, ‘Some novel cements have been discussed for more than a decade within the research community, without breaking through. At present, these alternatives are rarely as cost-effective as conventional cement, and they face raw-material shortages and resistance from customers.’"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1–4\n\nReading Passage 1 has eight sections, A–H.\n\nWhich section contains the following information?",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "an explanation of the industrial processes that create potential raw materials for concrete",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8463_483844-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "a reference to the various locations where high-rise wooden buildings can be found",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8463_483844-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "an indication of how widely available the raw materials of concrete are",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8463_483844-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "the belief that more high-rise wooden buildings are needed before wood can be regarded as a viable construction material",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8463_483844-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 5–8\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Answer for gap 5.",
+          "answers": [
+            "architects"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8463_839469",
+          "explanation": "5. 本题的题干信息词在原文中略不明显。“木头作为从前的传统材料”这个题干定位线索，在原文中使用了medieval这个可能对一些词汇量薄弱的考生来说略显陌生的同义替换；“当前对环境的担忧”这个题干线索，在原文中只是轻描淡写地改成了climate change，如果单看这两个词恐怕体会不出“担忧”这个意味；encourage这个题干词，如果没有语境的话，恐怕也很难被考生直接对应于原文的driving。一言以蔽之，如果单纯依靠某个单词或词组去跳读寻找，则本题的位置颇有些隐蔽。但如果考生能运用好平行阅读，依次耐心读懂每一句的完整句意，就不难理解以上那些对应，顺利得出本题答案：architects。\n\n6. 本题的出处位置虽然距离上一题略有些远，但定位难度却低得多了。题干中的atmosphere与原文中的air，是极其高频的同义替换表达；题干中的increases in size指体积增大，对应原文中的expand一词，这也算不上什么困难词汇。看懂了它们，也就能顺利得出本题答案：moisture。\n\n7. 本题的定位非常友好，因为题干中的solid和building blocks都原样出现在了对应的原文句中；考生只需要掌握原文中stick这个词有“粘贴”的词义，就不难看出它正是在对应题干里的glue一词，进而得出正确答案：layers。\n\n8. 本题的题干本身就很考验考生读懂长难句的能力。主干是带着宾语从句的“专家们说”，真正有“营养”的信息来自后面的that宾语从句。这个宾语从句自身的主干是“木质建筑比钢筋混凝土的要好”，in terms of之后的篇幅是在举例说明到底在哪两个方面更好。其中一个方面是题干已经给出的“所产生的噪音量”，另一个方面就是考生需要回原文寻找的、它们在建造过程中的某种属性了。本题的定位倒是不难，题干中的experts在原文中原样重现，题干中的how much noise对应原文的quieter。只是原文句本身也略曲折，考生只需要耐心看懂题干句和原文句，即可得出答案：speed。",
+          "promptHtml": "Answer for gap 5."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Answer for gap 6.",
+          "answers": [
+            "moisture"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8463_955574",
+          "explanation": "5. 本题的题干信息词在原文中略不明显。“木头作为从前的传统材料”这个题干定位线索，在原文中使用了medieval这个可能对一些词汇量薄弱的考生来说略显陌生的同义替换；“当前对环境的担忧”这个题干线索，在原文中只是轻描淡写地改成了climate change，如果单看这两个词恐怕体会不出“担忧”这个意味；encourage这个题干词，如果没有语境的话，恐怕也很难被考生直接对应于原文的driving。一言以蔽之，如果单纯依靠某个单词或词组去跳读寻找，则本题的位置颇有些隐蔽。但如果考生能运用好平行阅读，依次耐心读懂每一句的完整句意，就不难理解以上那些对应，顺利得出本题答案：architects。\n\n6. 本题的出处位置虽然距离上一题略有些远，但定位难度却低得多了。题干中的atmosphere与原文中的air，是极其高频的同义替换表达；题干中的increases in size指体积增大，对应原文中的expand一词，这也算不上什么困难词汇。看懂了它们，也就能顺利得出本题答案：moisture。\n\n7. 本题的定位非常友好，因为题干中的solid和building blocks都原样出现在了对应的原文句中；考生只需要掌握原文中stick这个词有“粘贴”的词义，就不难看出它正是在对应题干里的glue一词，进而得出正确答案：layers。\n\n8. 本题的题干本身就很考验考生读懂长难句的能力。主干是带着宾语从句的“专家们说”，真正有“营养”的信息来自后面的that宾语从句。这个宾语从句自身的主干是“木质建筑比钢筋混凝土的要好”，in terms of之后的篇幅是在举例说明到底在哪两个方面更好。其中一个方面是题干已经给出的“所产生的噪音量”，另一个方面就是考生需要回原文寻找的、它们在建造过程中的某种属性了。本题的定位倒是不难，题干中的experts在原文中原样重现，题干中的how much noise对应原文的quieter。只是原文句本身也略曲折，考生只需要耐心看懂题干句和原文句，即可得出答案：speed。",
+          "promptHtml": "Answer for gap 6."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Answer for gap 7.",
+          "answers": [
+            "layers"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8463_714477",
+          "explanation": "5. 本题的题干信息词在原文中略不明显。“木头作为从前的传统材料”这个题干定位线索，在原文中使用了medieval这个可能对一些词汇量薄弱的考生来说略显陌生的同义替换；“当前对环境的担忧”这个题干线索，在原文中只是轻描淡写地改成了climate change，如果单看这两个词恐怕体会不出“担忧”这个意味；encourage这个题干词，如果没有语境的话，恐怕也很难被考生直接对应于原文的driving。一言以蔽之，如果单纯依靠某个单词或词组去跳读寻找，则本题的位置颇有些隐蔽。但如果考生能运用好平行阅读，依次耐心读懂每一句的完整句意，就不难理解以上那些对应，顺利得出本题答案：architects。\n\n6. 本题的出处位置虽然距离上一题略有些远，但定位难度却低得多了。题干中的atmosphere与原文中的air，是极其高频的同义替换表达；题干中的increases in size指体积增大，对应原文中的expand一词，这也算不上什么困难词汇。看懂了它们，也就能顺利得出本题答案：moisture。\n\n7. 本题的定位非常友好，因为题干中的solid和building blocks都原样出现在了对应的原文句中；考生只需要掌握原文中stick这个词有“粘贴”的词义，就不难看出它正是在对应题干里的glue一词，进而得出正确答案：layers。\n\n8. 本题的题干本身就很考验考生读懂长难句的能力。主干是带着宾语从句的“专家们说”，真正有“营养”的信息来自后面的that宾语从句。这个宾语从句自身的主干是“木质建筑比钢筋混凝土的要好”，in terms of之后的篇幅是在举例说明到底在哪两个方面更好。其中一个方面是题干已经给出的“所产生的噪音量”，另一个方面就是考生需要回原文寻找的、它们在建造过程中的某种属性了。本题的定位倒是不难，题干中的experts在原文中原样重现，题干中的how much noise对应原文的quieter。只是原文句本身也略曲折，考生只需要耐心看懂题干句和原文句，即可得出答案：speed。",
+          "promptHtml": "Answer for gap 7."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Answer for gap 8.",
+          "answers": [
+            "speed"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8463_746831",
+          "explanation": "5. 本题的题干信息词在原文中略不明显。“木头作为从前的传统材料”这个题干定位线索，在原文中使用了medieval这个可能对一些词汇量薄弱的考生来说略显陌生的同义替换；“当前对环境的担忧”这个题干线索，在原文中只是轻描淡写地改成了climate change，如果单看这两个词恐怕体会不出“担忧”这个意味；encourage这个题干词，如果没有语境的话，恐怕也很难被考生直接对应于原文的driving。一言以蔽之，如果单纯依靠某个单词或词组去跳读寻找，则本题的位置颇有些隐蔽。但如果考生能运用好平行阅读，依次耐心读懂每一句的完整句意，就不难理解以上那些对应，顺利得出本题答案：architects。\n\n6. 本题的出处位置虽然距离上一题略有些远，但定位难度却低得多了。题干中的atmosphere与原文中的air，是极其高频的同义替换表达；题干中的increases in size指体积增大，对应原文中的expand一词，这也算不上什么困难词汇。看懂了它们，也就能顺利得出本题答案：moisture。\n\n7. 本题的定位非常友好，因为题干中的solid和building blocks都原样出现在了对应的原文句中；考生只需要掌握原文中stick这个词有“粘贴”的词义，就不难看出它正是在对应题干里的glue一词，进而得出正确答案：layers。\n\n8. 本题的题干本身就很考验考生读懂长难句的能力。主干是带着宾语从句的“专家们说”，真正有“营养”的信息来自后面的that宾语从句。这个宾语从句自身的主干是“木质建筑比钢筋混凝土的要好”，in terms of之后的篇幅是在举例说明到底在哪两个方面更好。其中一个方面是题干已经给出的“所产生的噪音量”，另一个方面就是考生需要回原文寻找的、它们在建造过程中的某种属性了。本题的定位倒是不难，题干中的experts在原文中原样重现，题干中的how much noise对应原文的quieter。只是原文句本身也略曲折，考生只需要耐心看懂题干句和原文句，即可得出答案：speed。",
+          "promptHtml": "Answer for gap 8."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<div>\n<div><span><span><span><span>Making buildings with wood </span></span></span></span></div>\n\n<div> </div>\n\n<div><span>Wood is a traditional building material, but current environmental concerns are encouraging </span><strong>[5] ______</strong><span> to use wood in modern construction projects. Using wood, however, has its challenges. For example, as </span><strong>[6] ______</strong><span> in the atmosphere enters wood, it increases in size. In addition, wood is prone to pests and the risk of fire is greater. However, wood can be turned into a better construction material if it is treated and combined with other materials. In one process, </span><strong>[7] ______</strong><span> of solid wood are glued together to create building blocks. These blocks are lighter than concrete and steel but equal them in strength. Experts say that wooden buildings are an improvement on those made of concrete and steel in terms of the </span><strong>[8] ______</strong><span> with which they can be constructed and how much noise is generated by the process.</span></div>\n</div>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 9–13\n\nLook at the following statements (Questions 9–13) and the list of people below.\n\nMatch each statement with the correct person, A, B, C or D\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "The environmental advantage of cement alternatives may not be as great as initially assumed. [9] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8463_933754",
+          "explanation": "9. 本题的难度可能主要在于考查考生的阅读耐心。Anna Surgenor连说了三句话，第一句表达的意思是“使用水泥替代物可以减少总体碳排放影响”，这是在对应题干信息中的“水泥替代品对环境的好处”；第二句和第三句则话锋一转，说我们也不能只考虑一个维度，而是要看得更全面一些：如果需要从很远处运输这些替代品，那么一路运送所需的化石燃料也对环境有害，就不值得去做这种改换了。这两句的意思，则对应了题干中的“好处没有原先想象的那么大”。将这几句信息结合起来，就不难看出本题最合适的选项：C。\n\n10. 本题的作答方式与上一道题类似，需要结合包含人名在内的三句话综合理解，才能更笃定作答。在Section C倒数第三句话里，Cheeseman先是定下了基调：前文所说的所有优势因素使得混凝土这种材料hard to beat。采用平行阅读从前文一路读到这里、推理预测能力较强的考生，也许已经能大致选定答案了；不过，当然还是继续向下再读两句，看到更多的明确同义替换了题干的原文表达，才可以更笃定地确认答案：A。\n\n11. 本题的定位比前两道题容易不少，答案可以直接根据人名所在的句子得出。在这个句子里，既有主干提到了该公司持续看到全球各地对木材建筑材料的需求上升，也有伴随状语解释说明驱动这种需求的是人们对气候变化的担忧，直接对应了题干信息，可知答案应为：B。\n\n12. 本题最大的解答难点可能来自于它的位置：全文最后一个段落的结尾处。也就是说，考生需要一路看到这里才能遇到答案。但由于这是一套试题的第一篇文章，所以解题时间应该不至于那么捉襟见肘。虽然没有很多原词重现，但题干与原文的同义替换使用的都是一些比较基础的认知词汇。题干的expense对应原文的cost-effective；题干的negative response对应原文的resistance，题干中的new对应上一个句子里的novel（作形容词，表示“新奇的”），这些都不算生僻词汇，认真打好单词基础的考生应当可以顺利得出答案：D。\n\n13. 本题的直接定位处是Section B第二句，因为这句已经给出了“要考虑的核心因素就是混凝土在全球的多大程度上被使用，以及未来还会持续被使用”；但显然，考生还是应该继续跟进向后文再阅读几句，直到把引言里的内容都看完，在最后一句中根据sheer scale这个直接对应于题干large quantities的信息，从而再次确认答案：A。",
+          "promptHtml": "The environmental advantage of cement alternatives may not be as great as initially assumed. [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "It would be hard to create a construction alternative to concrete that offers so many comparable benefits. [10] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8463_235073",
+          "explanation": "9. 本题的难度可能主要在于考查考生的阅读耐心。Anna Surgenor连说了三句话，第一句表达的意思是“使用水泥替代物可以减少总体碳排放影响”，这是在对应题干信息中的“水泥替代品对环境的好处”；第二句和第三句则话锋一转，说我们也不能只考虑一个维度，而是要看得更全面一些：如果需要从很远处运输这些替代品，那么一路运送所需的化石燃料也对环境有害，就不值得去做这种改换了。这两句的意思，则对应了题干中的“好处没有原先想象的那么大”。将这几句信息结合起来，就不难看出本题最合适的选项：C。\n\n10. 本题的作答方式与上一道题类似，需要结合包含人名在内的三句话综合理解，才能更笃定作答。在Section C倒数第三句话里，Cheeseman先是定下了基调：前文所说的所有优势因素使得混凝土这种材料hard to beat。采用平行阅读从前文一路读到这里、推理预测能力较强的考生，也许已经能大致选定答案了；不过，当然还是继续向下再读两句，看到更多的明确同义替换了题干的原文表达，才可以更笃定地确认答案：A。\n\n11. 本题的定位比前两道题容易不少，答案可以直接根据人名所在的句子得出。在这个句子里，既有主干提到了该公司持续看到全球各地对木材建筑材料的需求上升，也有伴随状语解释说明驱动这种需求的是人们对气候变化的担忧，直接对应了题干信息，可知答案应为：B。\n\n12. 本题最大的解答难点可能来自于它的位置：全文最后一个段落的结尾处。也就是说，考生需要一路看到这里才能遇到答案。但由于这是一套试题的第一篇文章，所以解题时间应该不至于那么捉襟见肘。虽然没有很多原词重现，但题干与原文的同义替换使用的都是一些比较基础的认知词汇。题干的expense对应原文的cost-effective；题干的negative response对应原文的resistance，题干中的new对应上一个句子里的novel（作形容词，表示“新奇的”），这些都不算生僻词汇，认真打好单词基础的考生应当可以顺利得出答案：D。\n\n13. 本题的直接定位处是Section B第二句，因为这句已经给出了“要考虑的核心因素就是混凝土在全球的多大程度上被使用，以及未来还会持续被使用”；但显然，考生还是应该继续跟进向后文再阅读几句，直到把引言里的内容都看完，在最后一句中根据sheer scale这个直接对应于题干large quantities的信息，从而再次确认答案：A。",
+          "promptHtml": "It would be hard to create a construction alternative to concrete that offers so many comparable benefits. [10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Worries about the environment have led to increased interest in wood as a construction material. [11] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8463_546136",
+          "explanation": "9. 本题的难度可能主要在于考查考生的阅读耐心。Anna Surgenor连说了三句话，第一句表达的意思是“使用水泥替代物可以减少总体碳排放影响”，这是在对应题干信息中的“水泥替代品对环境的好处”；第二句和第三句则话锋一转，说我们也不能只考虑一个维度，而是要看得更全面一些：如果需要从很远处运输这些替代品，那么一路运送所需的化石燃料也对环境有害，就不值得去做这种改换了。这两句的意思，则对应了题干中的“好处没有原先想象的那么大”。将这几句信息结合起来，就不难看出本题最合适的选项：C。\n\n10. 本题的作答方式与上一道题类似，需要结合包含人名在内的三句话综合理解，才能更笃定作答。在Section C倒数第三句话里，Cheeseman先是定下了基调：前文所说的所有优势因素使得混凝土这种材料hard to beat。采用平行阅读从前文一路读到这里、推理预测能力较强的考生，也许已经能大致选定答案了；不过，当然还是继续向下再读两句，看到更多的明确同义替换了题干的原文表达，才可以更笃定地确认答案：A。\n\n11. 本题的定位比前两道题容易不少，答案可以直接根据人名所在的句子得出。在这个句子里，既有主干提到了该公司持续看到全球各地对木材建筑材料的需求上升，也有伴随状语解释说明驱动这种需求的是人们对气候变化的担忧，直接对应了题干信息，可知答案应为：B。\n\n12. 本题最大的解答难点可能来自于它的位置：全文最后一个段落的结尾处。也就是说，考生需要一路看到这里才能遇到答案。但由于这是一套试题的第一篇文章，所以解题时间应该不至于那么捉襟见肘。虽然没有很多原词重现，但题干与原文的同义替换使用的都是一些比较基础的认知词汇。题干的expense对应原文的cost-effective；题干的negative response对应原文的resistance，题干中的new对应上一个句子里的novel（作形容词，表示“新奇的”），这些都不算生僻词汇，认真打好单词基础的考生应当可以顺利得出答案：D。\n\n13. 本题的直接定位处是Section B第二句，因为这句已经给出了“要考虑的核心因素就是混凝土在全球的多大程度上被使用，以及未来还会持续被使用”；但显然，考生还是应该继续跟进向后文再阅读几句，直到把引言里的内容都看完，在最后一句中根据sheer scale这个直接对应于题干large quantities的信息，从而再次确认答案：A。",
+          "promptHtml": "Worries about the environment have led to increased interest in wood as a construction material. [11] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Expense has been a factor in the negative response to the development of new cements. [12] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8463_817248",
+          "explanation": "9. 本题的难度可能主要在于考查考生的阅读耐心。Anna Surgenor连说了三句话，第一句表达的意思是“使用水泥替代物可以减少总体碳排放影响”，这是在对应题干信息中的“水泥替代品对环境的好处”；第二句和第三句则话锋一转，说我们也不能只考虑一个维度，而是要看得更全面一些：如果需要从很远处运输这些替代品，那么一路运送所需的化石燃料也对环境有害，就不值得去做这种改换了。这两句的意思，则对应了题干中的“好处没有原先想象的那么大”。将这几句信息结合起来，就不难看出本题最合适的选项：C。\n\n10. 本题的作答方式与上一道题类似，需要结合包含人名在内的三句话综合理解，才能更笃定作答。在Section C倒数第三句话里，Cheeseman先是定下了基调：前文所说的所有优势因素使得混凝土这种材料hard to beat。采用平行阅读从前文一路读到这里、推理预测能力较强的考生，也许已经能大致选定答案了；不过，当然还是继续向下再读两句，看到更多的明确同义替换了题干的原文表达，才可以更笃定地确认答案：A。\n\n11. 本题的定位比前两道题容易不少，答案可以直接根据人名所在的句子得出。在这个句子里，既有主干提到了该公司持续看到全球各地对木材建筑材料的需求上升，也有伴随状语解释说明驱动这种需求的是人们对气候变化的担忧，直接对应了题干信息，可知答案应为：B。\n\n12. 本题最大的解答难点可能来自于它的位置：全文最后一个段落的结尾处。也就是说，考生需要一路看到这里才能遇到答案。但由于这是一套试题的第一篇文章，所以解题时间应该不至于那么捉襟见肘。虽然没有很多原词重现，但题干与原文的同义替换使用的都是一些比较基础的认知词汇。题干的expense对应原文的cost-effective；题干的negative response对应原文的resistance，题干中的new对应上一个句子里的novel（作形容词，表示“新奇的”），这些都不算生僻词汇，认真打好单词基础的考生应当可以顺利得出答案：D。\n\n13. 本题的直接定位处是Section B第二句，因为这句已经给出了“要考虑的核心因素就是混凝土在全球的多大程度上被使用，以及未来还会持续被使用”；但显然，考生还是应该继续跟进向后文再阅读几句，直到把引言里的内容都看完，在最后一句中根据sheer scale这个直接对应于题干large quantities的信息，从而再次确认答案：A。",
+          "promptHtml": "Expense has been a factor in the negative response to the development of new cements. [12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "The environmental damage caused by concrete is due to it being produced in large quantities. [13] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8463_105735",
+          "explanation": "9. 本题的难度可能主要在于考查考生的阅读耐心。Anna Surgenor连说了三句话，第一句表达的意思是“使用水泥替代物可以减少总体碳排放影响”，这是在对应题干信息中的“水泥替代品对环境的好处”；第二句和第三句则话锋一转，说我们也不能只考虑一个维度，而是要看得更全面一些：如果需要从很远处运输这些替代品，那么一路运送所需的化石燃料也对环境有害，就不值得去做这种改换了。这两句的意思，则对应了题干中的“好处没有原先想象的那么大”。将这几句信息结合起来，就不难看出本题最合适的选项：C。\n\n10. 本题的作答方式与上一道题类似，需要结合包含人名在内的三句话综合理解，才能更笃定作答。在Section C倒数第三句话里，Cheeseman先是定下了基调：前文所说的所有优势因素使得混凝土这种材料hard to beat。采用平行阅读从前文一路读到这里、推理预测能力较强的考生，也许已经能大致选定答案了；不过，当然还是继续向下再读两句，看到更多的明确同义替换了题干的原文表达，才可以更笃定地确认答案：A。\n\n11. 本题的定位比前两道题容易不少，答案可以直接根据人名所在的句子得出。在这个句子里，既有主干提到了该公司持续看到全球各地对木材建筑材料的需求上升，也有伴随状语解释说明驱动这种需求的是人们对气候变化的担忧，直接对应了题干信息，可知答案应为：B。\n\n12. 本题最大的解答难点可能来自于它的位置：全文最后一个段落的结尾处。也就是说，考生需要一路看到这里才能遇到答案。但由于这是一套试题的第一篇文章，所以解题时间应该不至于那么捉襟见肘。虽然没有很多原词重现，但题干与原文的同义替换使用的都是一些比较基础的认知词汇。题干的expense对应原文的cost-effective；题干的negative response对应原文的resistance，题干中的new对应上一个句子里的novel（作形容词，表示“新奇的”），这些都不算生僻词汇，认真打好单词基础的考生应当可以顺利得出答案：D。\n\n13. 本题的直接定位处是Section B第二句，因为这句已经给出了“要考虑的核心因素就是混凝土在全球的多大程度上被使用，以及未来还会持续被使用”；但显然，考生还是应该继续跟进向后文再阅读几句，直到把引言里的内容都看完，在最后一句中根据sheer scale这个直接对应于题干large quantities的信息，从而再次确认答案：A。",
+          "promptHtml": "The environmental damage caused by concrete is due to it being produced in large quantities. [13] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Chris Cheeseman"
+        },
+        {
+          "value": "B",
+          "text": "Markus Mannström"
+        },
+        {
+          "value": "C",
+          "text": "Anna Surgenor"
+        },
+        {
+          "value": "D",
+          "text": "Felix Preston and Johanna Lehne"
+        }
+      ],
+      "contextHtml": "<p><span>The environmental advantage of cement alternatives may not be as great as initially assumed.  </span><strong>[9] ______</strong> <br>\n<span>It would be hard to create a construction alternative to concrete that offers so many comparable benefits.  </span><strong>[10] ______</strong> <br>\n<span>Worries about the environment have led to increased interest in wood as a construction material.  </span><strong>[11] ______</strong> <br>\n<span>Expense has been a factor in the negative response to the development of new cements.  </span><strong>[12] ______</strong> <br>\n<span>The environmental damage caused by concrete is due to it being produced in large quantities.  </span><strong>[13] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><span><span>Materials to take us beyond concrete</span></span></span></span></p><div><em><span><span><span><span>Concrete is everywhere, but it’s bad for the planet, generating large amounts of carbon </span></span></span></span></em></div><div><em><span><span><span><span>dioxide – alternatives are being developed</span></span></span></span></em></div><p><span>A <br>Concrete is the second most used substance in the global economy, after water – and one of the world’s biggest single sources of greenhouse gas emissions. The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide. The UN estimates that there will be 9.8 billion people living on the planet by mid-century. They will need somewhere to live. If concrete is the only answer to the construction of new cities, then carbon emissions will soar, aggravating global warming. And so scientists have started innovating with other materials, in a scramble for alternatives to a universal commodity that has underpinned our modern life for many years.<br>B <br>The problem with replacing concrete is that it is so very good at what it does. Chris Cheeseman, an engineering professor at Imperial College London, says the key thing to consider is the extent to which concrete is used around the world, and is likely to continue to be used. ‘Concrete is not a high-carbon product. Cement is high carbon, but concrete is not. But it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue.’<br>C <br>Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe, the stuff itself has marvellous properties: Portland cement, the vital component of concrete, is mouldable and pourable, but quickly sets hard. Cheeseman also notes another advantage: concrete and steel have similar thermal expansion properties, so steel can be used to reinforce concrete, making it far stronger and more flexible as a building material than it could be on its own. According to Cheeseman, all these factors together make concrete hard to beat. ‘Concrete is amazing stuff. Making anything with similar properties is going to be very difficult.’<br>D<br>A possible alternative to concrete is wood. Making buildings from wood may seem like a rather medieval idea, but climate change is driving architects to turn to treated timber as a possible resource. Recent years have seen the emergence of tall buildings constructed almost entirely from timber. Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings.<br>E <br>Using wood to construct buildings, however, is not straightforward. Wood expands as it absorbs moisture from the air and is susceptible to pests, not to mention fire. But treating wood and combining it with other materials can improve its properties. Cross-laminated timber is engineered wood. An adhesive is used to stick layers of solid-sawn timber together, crosswise, to form building blocks. This material is light but has the strength of concrete and steel. Construction experts say that wooden buildings can be constructed at a greater speed than ones of concrete and steel and the process, it seems, is quieter.<br>F <br>Stora Enso is Europe’s biggest supplier of cross-laminated timber, and its vice-president Markus Mannström reports that the company is seeing increasing demand globally for building in wood, with climate change concerns the key driver. Finland, with its large forests, where Stora Enso is based, has been leading the way, but the company is seeing a rise in demand for its timber products across the world, including in Asia. Of course, using timber in a building also locks away the carbon that it absorbed as it grew. But even treated wood has its limitations and only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings.<br>G <br>Fly ash and slag from iron ore are possible alternatives to cement in a concrete mix. Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes to make up as much as 15 to 30% of the cement, without harming the strength or durability of the resulting mix. Iron-ore slag, a byproduct of the iron-ore smelting process, can be used in a similar way. Their incorporation into concrete mixes has the potential to reduce greenhouse gas emissions.<br>But Anna Surgenor, of the UK’s Green Building Council, notes that although these waste products can save carbon in the concrete mix, their use is not always straightforward. ‘It’s possible to replace the cement content in concrete with waste products to lower the overall carbon impact. But there are several calculations that need to be considered across the entire life cycle of the building – these include factoring in where these materials are being shipped from. If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense from an overall carbon reduction perspective.’<br>H <br>While these technologies are all promising ideas, they are either unproven or based on materials that are not abundant. In their overview of innovation in the concrete industry, Felix Preston and Johanna Lehne of the UK’s Royal Institute of International Affairs reached the conclusion that, ‘Some novel cements have been discussed for more than a decade within the research community, without breaking through. At present, these alternatives are rarely as cost-effective as conventional cement, and they face raw-material shortages and resistance from customers.’</span></p>"
+}

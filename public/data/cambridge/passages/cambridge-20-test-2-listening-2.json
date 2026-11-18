@@ -1,0 +1,308 @@
+{
+  "id": "cambridge-20-test-2-listening-2",
+  "title": "Volunteers",
+  "titleCn": "Volunteers",
+  "subject": "listening",
+  "part": 2,
+  "duration": 426,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 2
+  },
+  "sourceQuestionId": "8539",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8539",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Good morning everyone. I’m Steve Wainwright, from Elmleigh Town Council, and I organise the town’s volunteer scheme. I’m delighted you’re all interested in joining the scheme. Our volunteers help to create a sense of community among the many people who live in our historic town of Elmleigh, and make residents and visitors feel welcome at local events."
+    },
+    {
+      "label": "2",
+      "text": "First I’ll mention just a few of the activities that volunteers carry out. One is to walk around the town centre streets wearing our volunteer T-shirt. Tourists often ask how to get to a particular shop, and they might also be grateful for recommendations about what to visit."
+    },
+    {
+      "label": "3",
+      "text": "The town holds a large number of concerts each year, and part of the volunteers’ role is to get everyone in the audience to the right place as smoothly as possible. You’d be surprised how many people buy tickets then don’t check them, and head for the wrong section of the hall!"
+    },
+    {
+      "label": "4",
+      "text": "Volunteers may get involved with community groups, such as sports clubs or gardeners’ associations. Here the volunteers talk about how groups can help each other. For instance, a writing group might want to travel to another town to hear a talk by a well-known author, but may not know that another club has a coach they could travel in."
+    },
+    {
+      "label": "5",
+      "text": "The town produces a monthly magazine, and anyone who lives in the town can send in articles. It’s free to residents, and is paid for by local businesses – that’s the responsibility of the council’s advertising department. We depend on volunteers, though, to find out what people think of events they’ve attended, and any suggestions they have for the future. The volunteers then send a summary to the editors."
+    },
+    {
+      "label": "6",
+      "text": "There are a number of clubs for retired people, and every year, the council arranges lunch for all the members. The volunteers welcome the guests, and when everyone’s sitting down and relaxing after the meal, some volunteers put on a show – usually around half an hour of songs and short plays. The club members really welcome the chance to chat to the volunteers at these events."
+    },
+    {
+      "label": "7",
+      "text": "The town council has a website, of course, and volunteers are asked to help by making sure residents know about it. It’s updated every day with information about future activities, and we want as many people as possible to use it."
+    },
+    {
+      "label": "8",
+      "text": "OK, now you know some of the things our volunteers do, I’ll go on to some practical matters. As you probably know, the town arranges three major festivals every year, and they all depend on a large number of volunteers. The book festival lasts three days, and uses several venues, which all need volunteers. More are needed for the music festival, because that lasts a whole week, and even more help is required for the science festival, even though it’s only two days long. It involves quite a lot of venues, though."
+    },
+    {
+      "label": "9",
+      "text": "It’s a good idea to help at the festival you’re most interested in, because you can attend most of the events for free. We try to use volunteers who are flexible, though, because some festival events are held outdoors, and the weather may affect the size of the audience, and even whether the event can take place; so there can be changes at short notice. What’s essential, though, is being able to get on well with other people, and also to deal with someone who’s behaving badly – as occasionally happens."
+    },
+    {
+      "label": "10",
+      "text": "Our plan is to get you all working in September, after a week’s training starting on the 2nd. So we’ll be timetabling you for duties the following week, from the 9th onward. Later, in the week beginning September 23rd, we have a chat with each of you, to find out how you feel about being a volunteer, and what extra support you need."
+    },
+    {
+      "label": "11",
+      "text": "As a thank you to the volunteers, we arrange an annual event. In recent years we’ve had a party in the town hall, and last year a barbecue in Chamber Park. Our forthcoming event is a trip along the canal from here to Dewhurst and back. It’s on Saturday September the 28th, and if you’d like to attend, you can sign up once you start work."
+    },
+    {
+      "label": "12",
+      "text": "Now this is the volunteers’ T-shirt …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 11–16\n\nWhat is the role of the volunteers in each of the following activities?\n\nChoose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "11. walking around the town centre [11] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8539_504957",
+          "explanation": "11. 选项中的advice to visitors替换原文的recommendations about what to visit。原文前一句的wearing out volunteer T-shirt可能对应B选项的publicity，但没有提到a council service。\n\n12. 选项中的seats即为原文中的right place，在谈论concert的语境下，此处right place指正确的座位。下一句的head for the wrong section of the hall也可以帮助理解。\n\n13. 选项中的cooperation between local organisations替换为how groups can help each other。下一句中的a talk by a well-known author可对应G选项的guest speakers at an event，但并未提及志愿者需要介绍演讲嘉宾。\n\n14. 本题答案句的前一句出现local businesses，对应干扰项C选项。但后半句明确指明that’s the responsibility of the council’s advertising department，也没有提及志愿者需要联系当地公司。紧接着下一句的We depend on volunteers提示答案出现。“what … think of …”即为feedback的替换。\n\n15. 本题答案句的前半句出现welcome the guests，虽出现了G选项中的guest一词，但“欢迎客人”并非introducing guest speakers。后半句中的show对应A选项的entertainment。\n\n16. 本题答案句making sure residents know about it即为选项中publicity的替换，需要考生了解publicity一词的意思。a council service即网站会be updated every day with information about future activities。后文的we want as many people as possible to use it也同样为publicity的替换。",
+          "promptHtml": "11. walking around the town centre [11] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "12. helping at concerts [12] ______",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q8539_924316",
+          "explanation": "11. 选项中的advice to visitors替换原文的recommendations about what to visit。原文前一句的wearing out volunteer T-shirt可能对应B选项的publicity，但没有提到a council service。\n\n12. 选项中的seats即为原文中的right place，在谈论concert的语境下，此处right place指正确的座位。下一句的head for the wrong section of the hall也可以帮助理解。\n\n13. 选项中的cooperation between local organisations替换为how groups can help each other。下一句中的a talk by a well-known author可对应G选项的guest speakers at an event，但并未提及志愿者需要介绍演讲嘉宾。\n\n14. 本题答案句的前一句出现local businesses，对应干扰项C选项。但后半句明确指明that’s the responsibility of the council’s advertising department，也没有提及志愿者需要联系当地公司。紧接着下一句的We depend on volunteers提示答案出现。“what … think of …”即为feedback的替换。\n\n15. 本题答案句的前半句出现welcome the guests，虽出现了G选项中的guest一词，但“欢迎客人”并非introducing guest speakers。后半句中的show对应A选项的entertainment。\n\n16. 本题答案句making sure residents know about it即为选项中publicity的替换，需要考生了解publicity一词的意思。a council service即网站会be updated every day with information about future activities。后文的we want as many people as possible to use it也同样为publicity的替换。",
+          "promptHtml": "12. helping at concerts [12] ______"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "13. getting involved with community groups [13] ______",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8539_914029",
+          "explanation": "11. 选项中的advice to visitors替换原文的recommendations about what to visit。原文前一句的wearing out volunteer T-shirt可能对应B选项的publicity，但没有提到a council service。\n\n12. 选项中的seats即为原文中的right place，在谈论concert的语境下，此处right place指正确的座位。下一句的head for the wrong section of the hall也可以帮助理解。\n\n13. 选项中的cooperation between local organisations替换为how groups can help each other。下一句中的a talk by a well-known author可对应G选项的guest speakers at an event，但并未提及志愿者需要介绍演讲嘉宾。\n\n14. 本题答案句的前一句出现local businesses，对应干扰项C选项。但后半句明确指明that’s the responsibility of the council’s advertising department，也没有提及志愿者需要联系当地公司。紧接着下一句的We depend on volunteers提示答案出现。“what … think of …”即为feedback的替换。\n\n15. 本题答案句的前半句出现welcome the guests，虽出现了G选项中的guest一词，但“欢迎客人”并非introducing guest speakers。后半句中的show对应A选项的entertainment。\n\n16. 本题答案句making sure residents know about it即为选项中publicity的替换，需要考生了解publicity一词的意思。a council service即网站会be updated every day with information about future activities。后文的we want as many people as possible to use it也同样为publicity的替换。",
+          "promptHtml": "13. getting involved with community groups [13] ______"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "14. helping with a magazine [14] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8539_844199",
+          "explanation": "11. 选项中的advice to visitors替换原文的recommendations about what to visit。原文前一句的wearing out volunteer T-shirt可能对应B选项的publicity，但没有提到a council service。\n\n12. 选项中的seats即为原文中的right place，在谈论concert的语境下，此处right place指正确的座位。下一句的head for the wrong section of the hall也可以帮助理解。\n\n13. 选项中的cooperation between local organisations替换为how groups can help each other。下一句中的a talk by a well-known author可对应G选项的guest speakers at an event，但并未提及志愿者需要介绍演讲嘉宾。\n\n14. 本题答案句的前一句出现local businesses，对应干扰项C选项。但后半句明确指明that’s the responsibility of the council’s advertising department，也没有提及志愿者需要联系当地公司。紧接着下一句的We depend on volunteers提示答案出现。“what … think of …”即为feedback的替换。\n\n15. 本题答案句的前半句出现welcome the guests，虽出现了G选项中的guest一词，但“欢迎客人”并非introducing guest speakers。后半句中的show对应A选项的entertainment。\n\n16. 本题答案句making sure residents know about it即为选项中publicity的替换，需要考生了解publicity一词的意思。a council service即网站会be updated every day with information about future activities。后文的we want as many people as possible to use it也同样为publicity的替换。",
+          "promptHtml": "14. helping with a magazine [14] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "15. participating at lunches for retired people [15] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8539_886518",
+          "explanation": "11. 选项中的advice to visitors替换原文的recommendations about what to visit。原文前一句的wearing out volunteer T-shirt可能对应B选项的publicity，但没有提到a council service。\n\n12. 选项中的seats即为原文中的right place，在谈论concert的语境下，此处right place指正确的座位。下一句的head for the wrong section of the hall也可以帮助理解。\n\n13. 选项中的cooperation between local organisations替换为how groups can help each other。下一句中的a talk by a well-known author可对应G选项的guest speakers at an event，但并未提及志愿者需要介绍演讲嘉宾。\n\n14. 本题答案句的前一句出现local businesses，对应干扰项C选项。但后半句明确指明that’s the responsibility of the council’s advertising department，也没有提及志愿者需要联系当地公司。紧接着下一句的We depend on volunteers提示答案出现。“what … think of …”即为feedback的替换。\n\n15. 本题答案句的前半句出现welcome the guests，虽出现了G选项中的guest一词，但“欢迎客人”并非introducing guest speakers。后半句中的show对应A选项的entertainment。\n\n16. 本题答案句making sure residents know about it即为选项中publicity的替换，需要考生了解publicity一词的意思。a council service即网站会be updated every day with information about future activities。后文的we want as many people as possible to use it也同样为publicity的替换。",
+          "promptHtml": "15. participating at lunches for retired people [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "16. helping with the website [16] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8539_209716",
+          "explanation": "11. 选项中的advice to visitors替换原文的recommendations about what to visit。原文前一句的wearing out volunteer T-shirt可能对应B选项的publicity，但没有提到a council service。\n\n12. 选项中的seats即为原文中的right place，在谈论concert的语境下，此处right place指正确的座位。下一句的head for the wrong section of the hall也可以帮助理解。\n\n13. 选项中的cooperation between local organisations替换为how groups can help each other。下一句中的a talk by a well-known author可对应G选项的guest speakers at an event，但并未提及志愿者需要介绍演讲嘉宾。\n\n14. 本题答案句的前一句出现local businesses，对应干扰项C选项。但后半句明确指明that’s the responsibility of the council’s advertising department，也没有提及志愿者需要联系当地公司。紧接着下一句的We depend on volunteers提示答案出现。“what … think of …”即为feedback的替换。\n\n15. 本题答案句的前半句出现welcome the guests，虽出现了G选项中的guest一词，但“欢迎客人”并非introducing guest speakers。后半句中的show对应A选项的entertainment。\n\n16. 本题答案句making sure residents know about it即为选项中publicity的替换，需要考生了解publicity一词的意思。a council service即网站会be updated every day with information about future activities。后文的we want as many people as possible to use it也同样为publicity的替换。",
+          "promptHtml": "16. helping with the website [16] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "providing entertainment"
+        },
+        {
+          "value": "B",
+          "text": "providing publicity about a council service"
+        },
+        {
+          "value": "C",
+          "text": "contacting local businesses"
+        },
+        {
+          "value": "D",
+          "text": "giving advice to visitors"
+        },
+        {
+          "value": "E",
+          "text": "collecting feedback on events"
+        },
+        {
+          "value": "F",
+          "text": "selling tickets"
+        },
+        {
+          "value": "G",
+          "text": "introducing guest speakers at an event"
+        },
+        {
+          "value": "H",
+          "text": "encouraging cooperation between local organisations"
+        },
+        {
+          "value": "I",
+          "text": "helping people find their seats"
+        }
+      ],
+      "contextHtml": "<p>11. walking around the town centre <strong>[11] ______</strong> </p>\n\n<p>12. helping at concerts <strong>[12] ______</strong> <br>\n13. getting involved with community groups <strong>[13] ______</strong> <br>\n14. helping with a magazine <strong>[14] ______</strong> <br>\n15. participating at lunches for retired people <strong>[15] ______</strong> <br>\n16. helping with the website <strong>[16] ______</strong> </p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "choice",
+      "instruction": "Questions 17-20\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Which event requires the largest number of volunteers?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8539_626213",
+          "options": [
+            {
+              "value": "A",
+              "text": "the music festival"
+            },
+            {
+              "value": "B",
+              "text": "the science festival"
+            },
+            {
+              "value": "C",
+              "text": "the book festival"
+            }
+          ],
+          "explanation": "题干中的the largest number为关键词。原文首先提到C选项book festival，下一句的More are needed for the music festival在引出A选项的同时否定了C选项。根据下一句“even more help … the science festival”，可确定B选项。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "What is the most important requirement for volunteers at the festivals?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8539_798351",
+          "options": [
+            {
+              "value": "A",
+              "text": "interpersonal skills"
+            },
+            {
+              "value": "B",
+              "text": "personal interest in the event"
+            },
+            {
+              "value": "C",
+              "text": "flexibility"
+            }
+          ],
+          "explanation": "本题需选出对于志愿者最重要的要求。首先，“It’s a good idea … the festival you’re most interested in”对应B选项，但并未回应题干关键词most important。下一句提及flexible，对应C选项，但仍未回应题干。最后一句中的What’s essential对应题干的most important，句中的get on well with other people对应A选项interpersonal skills。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "New volunteers will start working in the week beginning",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8539_975770",
+          "options": [
+            {
+              "value": "A",
+              "text": "2 September."
+            },
+            {
+              "value": "B",
+              "text": "9 September."
+            },
+            {
+              "value": "C",
+              "text": "23 September."
+            }
+          ],
+          "explanation": "本题需选出志愿者开始工作的日期。原文首先提到training starting on the 2nd，否定A选项。下一句提到“timetabling you for duties the following week, from the 9th onward”，意思为“安排从9号开始的工作日程”，对应B选项。此处请参考“文本解析”第五句的翻译。下一句中提到C选项September 23rd，但后文解释此处为和志愿者交谈、分享感受的日子，和题干不符。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "What is the next annual event for volunteers?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8539_431075",
+          "options": [
+            {
+              "value": "A",
+              "text": "a boat trip"
+            },
+            {
+              "value": "B",
+              "text": "a barbecue"
+            },
+            {
+              "value": "C",
+              "text": "a party"
+            }
+          ],
+          "explanation": "原文首先提到In recent years we’ve had a party，说明是过去发生的，紧接着出现“last year a barbecue …”，因此B和C两项均和题干中的next不符，这时已经可以通过排除法选出A选项。下一句的forthcoming对应题干中的next，紧接着出现的a trip along the canal对应A选项a boat trip。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Good morning everyone. I’m Steve Wainwright, from Elmleigh Town Council, and I organise the town’s volunteer scheme. I’m delighted you’re all interested in joining the scheme. Our volunteers help to create a sense of community among the many people who live in our historic town of Elmleigh, and make residents and visitors feel welcome at local events.<br>\nFirst I’ll mention just a few of the activities that volunteers carry out. One is to walk around the town centre streets wearing our volunteer T-shirt. Tourists often ask how to get to a particular shop, and they might also be grateful for recommendations about what to visit.<br>\nThe town holds a large number of concerts each year, and part of the volunteers’ role is to get everyone in the audience to the right place as smoothly as possible. You’d be surprised how many people buy tickets then don’t check them, and head for the wrong section of the hall!<br>\nVolunteers may get involved with community groups, such as sports clubs or gardeners’ associations. Here the volunteers talk about how groups can help each other. For instance, a writing group might want to travel to another town to hear a talk by a well-known author, but may not know that another club has a coach they could travel in.<br>\nThe town produces a monthly magazine, and anyone who lives in the town can send in articles. It’s free to residents, and is paid for by local businesses – that’s the responsibility of the council’s advertising department. We depend on volunteers, though, to find out what people think of events they’ve attended, and any suggestions they have for the future. The volunteers then send a summary to the editors.</p>\n\n<p>There are a number of clubs for retired people, and every year, the council arranges lunch for all the members. The volunteers welcome the guests, and when everyone’s sitting down and relaxing after the meal, some volunteers put on a show – usually around half an hour of songs and short plays. The club members really welcome the chance to chat to the volunteers at these events.<br>\nThe town council has a website, of course, and volunteers are asked to help by making sure residents know about it. It’s updated every day with information about future activities, and we want as many people as possible to use it.</p>\n\n<p>OK, now you know some of the things our volunteers do, I’ll go on to some practical matters. As you probably know, the town arranges three major festivals every year, and they all depend on a large number of volunteers. The book festival lasts three days, and uses several venues, which all need volunteers. More are needed for the music festival, because that lasts a whole week, and even more help is required for the science festival, even though it’s only two days long. It involves quite a lot of venues, though.<br>\nIt’s a good idea to help at the festival you’re most interested in, because you can attend most of the events for free. We try to use volunteers who are flexible, though, because some festival events are held outdoors, and the weather may affect the size of the audience, and even whether the event can take place; so there can be changes at short notice. What’s essential, though, is being able to get on well with other people, and also to deal with someone who’s behaving badly – as occasionally happens.<br>\nOur plan is to get you all working in September, after a week’s training starting on the 2nd. So we’ll be timetabling you for duties the following week, from the 9th onward. Later, in the week beginning September 23rd, we have a chat with each of you, to find out how you feel about being a volunteer, and what extra support you need.<br>\nAs a thank you to the volunteers, we arrange an annual event. In recent years we’ve had a party in the town hall, and last year a barbecue in Chamber Park. Our forthcoming event is a trip along the canal from here to Dewhurst and back. It’s on Saturday September the 28th, and if you’d like to attend, you can sign up once you start work.<br>\nNow this is the volunteers’ T-shirt …</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8539.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 426.188
+  }
+}

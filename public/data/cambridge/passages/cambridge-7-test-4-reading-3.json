@@ -1,0 +1,427 @@
+{
+  "id": "cambridge-7-test-4-reading-3",
+  "title": "EFFECTS OF NOISE",
+  "titleCn": "EFFECTS OF NOISE",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 4
+  },
+  "sourceQuestionId": "6998",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6998",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "EFFECTS OF NOISE"
+    },
+    {
+      "label": "2",
+      "text": "In general, it is plausible to suppose that we should prefer peace and quiet to noise. And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially 'too quiet', an experience that suggests that humans are capable of adapting to a wide range of noise levels. Research supports this view. For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise. The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise. Their physiological arousal also declined quickly to the same levels as those of the control subjects."
+    },
+    {
+      "label": "3",
+      "text": "But there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task. For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957). Similarly, noise did not affect a subject's ability to track a moving line with a steering wheel, but it did interfere with the subject's ability to repeat numbers while tracking (Finkelman and Glass, 1970)."
+    },
+    {
+      "label": "4",
+      "text": "Probably the most significant finding from research on noise is that its predictability is more important than how loud it is. We are much more able to 'tune out' chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise. In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts. For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise). Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment. But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. As shown in Table 1 the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise."
+    },
+    {
+      "label": "5",
+      "text": "Unpredictable Noise"
+    },
+    {
+      "label": "6",
+      "text": "Predictable Noise"
+    },
+    {
+      "label": "7",
+      "text": "Average"
+    },
+    {
+      "label": "8",
+      "text": "Loud noise"
+    },
+    {
+      "label": "9",
+      "text": "40.1"
+    },
+    {
+      "label": "10",
+      "text": "31.8"
+    },
+    {
+      "label": "11",
+      "text": "35.9"
+    },
+    {
+      "label": "12",
+      "text": "Soft noise"
+    },
+    {
+      "label": "13",
+      "text": "36.7"
+    },
+    {
+      "label": "14",
+      "text": "27.4"
+    },
+    {
+      "label": "15",
+      "text": "32.1"
+    },
+    {
+      "label": "16",
+      "text": "Average"
+    },
+    {
+      "label": "17",
+      "text": "38.4"
+    },
+    {
+      "label": "18",
+      "text": "29.6"
+    },
+    {
+      "label": "19",
+      "text": "Table 1: Proofreading Errors and Noise"
+    },
+    {
+      "label": "20",
+      "text": "Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance."
+    },
+    {
+      "label": "21",
+      "text": "Predictability is not the only variable that reduces or eliminates the negative effects of noise. Another is control. If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects. This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972). Just the knowledge that one has control is sufficient."
+    },
+    {
+      "label": "22",
+      "text": "The studies discussed so far exposed people to noise for only short periods and only transient effects were studied. But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects. One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles's busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al., 1980). It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools. Moreover, there was no evidence of adaptability to the noise. In fact, the longer the children had attended the noisy schools, the more distractible they became. The effects also seem to be long lasting. A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981). It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27-29\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "The writer suggests that people may have difficulty sleeping in the mountains because",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6998_178521",
+          "options": [
+            {
+              "value": "A",
+              "text": "humans do not prefer peace and quiet to noise."
+            },
+            {
+              "value": "B",
+              "text": "they may be exposed to short bursts of very strange sounds."
+            },
+            {
+              "value": "C",
+              "text": "humans prefer to hear a certain amount of noise while they sleep."
+            },
+            {
+              "value": "D",
+              "text": "they may have adapted to a higher noise level in the city."
+            }
+          ],
+          "explanation": "定位词：sleeping in the mountains\n\n题目：作者指出人们在山里睡觉可能有困难的原因是：\n\nA.人们喜欢噪音而不喜欢宁静。\n\nB.他们可能会听到瞬间产生的奇怪声音。\n\nC.人们在睡觉时更愿意听到一定量的噪音。\n\nD.他们可能已经适应了城市中更大的噪音。\n\n对应第一段前两句：先指出人类似乎( plausible意为“貌似真实的”)更喜欢安静，然后利用yet转折引出在山区睡觉会因为太安静而难以人睡。此题使用排除法能很快解题:：A中的“喜欢噪音不喜欢宁静\"文章并未提及; B中的“瞬间产生的奇怪声音”在定位句中也未提及; C中的“人喜欢睡觉时听噪音”也未提及;只有D选项符合文意，其中adapted to a higher noise level对应文中的adjust(调节)，因为城市噪音较大，所以在山里睡觉时需要调节适应。正确答案: D。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "In noise experiments, Glass and Singer found that",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6998_347117",
+          "options": [
+            {
+              "value": "A",
+              "text": "problem-solving is much easier under quiet conditions."
+            },
+            {
+              "value": "B",
+              "text": "physiological arousal prevents the ability to work."
+            },
+            {
+              "value": "C",
+              "text": "bursts of noise do not seriously disrupt problem-solving in the long term."
+            },
+            {
+              "value": "D",
+              "text": "the physiological arousal of control subjects declined quickly."
+            }
+          ],
+          "explanation": "定位词：Glass and Singer\n\n题目:在噪音实验中， Glass 和Singer两人发现：\n\nA.在安静环境中解决问题更加简单。\n\nB.生理反应抑制了工作能力。\n\nC.长期来看，瞬间产生的噪音并不会严重干扰解决问题。\n\nD.对照实验组的生理反应快速消退。\n\n对应第一段最后两句：起初，噪音让人心烦意乱。但在大约四分钟后，被研究者就能像那些未处于噪音之中的对照实验组一样很好地工作。他们的生理反应也迅速的消退到与对照实验组相当的水平。正确答案：C。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Researchers discovered that high noise levels are not likely to interfere with the",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6998_244939",
+          "options": [
+            {
+              "value": "A",
+              "text": "successful performance of a single task."
+            },
+            {
+              "value": "B",
+              "text": "tasks of pilots or air traffic controllers."
+            },
+            {
+              "value": "C",
+              "text": "ability to repeat numbers while tracking moving lines."
+            },
+            {
+              "value": "D",
+              "text": "ability to monitor three dials at once."
+            }
+          ],
+          "explanation": "定位词：high noise levels, not…interfere with\n\n题目：研究者发现高分贝噪音不太可能干扰：\n\nA.单项任务的成功执行。\n\nB.飞行员或空中交通协调员的任务。\n\nC.追踪移动轨迹的同时重复数字的能力。\n\nD.同时监视三个刻度盘的能力。\n\n第二段首句：但如果要求试验对象同时专注几项任务时，其对噪音的适应能力就会到达极限，噪音也会变得更加让人心烦意乱。从第二句开始就开始举例(For example)，因此例子之前的引导句就是解题句。噪音干扰同时专注多项任务的人，则A选项就可能不被干扰，为正确答案。其他三个选项都是原文出现的内容，但都是包含多项任务的选项，考生可按照“排除与原文一致的选项”的原则先将其排除，剩余选项也为A。正确答案: A。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 30-34\n\nChoose the correct answer and move it into the gap.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Answer for gap 30.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6998_112136",
+          "explanation": "题号：30\n\n定位词：Glass and Singer, circumstances\n\n第三段：We are much more able to 'tune out' chronic background noise, even if... 空格所填词为noise的修饰词，于是答案只限于BCDGJ。由题目所在句句意分析，可得出空格所填词应与intense构成反义关系。经过筛选可以确定答案为B选项:：unexpected。另外，通过比较题目和文中定位处的对应关系，可得出题中in which occurs对应文中with unexpected intrusions，也能选出正确答案B。\n\n题号：31\n\n定位词：all\n\n第三段：For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall…按照顺序原则在第30题后扫描定位词可以迅速定位。空格所填词为noise的修饰词，答案也只可能为BCDGJ,在这五个选项中只有D选项与原文the same amount一致，故正确答案为D。另外，通过理解题目，按照上下文意：“实验组中一部分人接触的噪音为可预测性的，其他人接触的为随机产生的，所有人听到的噪音都是___”也能推出空格里只能填D选项。\n\n题号：32\n\n定位词：predictable group, unpredictable group\n\n第三段：Subjects reported finding the predictable and... 此题定位同样可按照顺序原则。该题空格前后为两类人，因此中间应填词为比较关系，故答案只能为EFHI。通过扫描文中对应点可发现两种人performed at about the same level，因此只能选择F选项。\n\n题号：33\n\n定位词：written material\n\n第三段：As shown in Table 1 the unpredictable noise produced... 通过分析空格前后内容，可知空格内须填写处在可预测性噪音和非可预测性噪音中的两类人的比较关系，答案只能为EFHI。可以在文中对应点后扫描出相关比较关系：produced more errors，选项中只有I中的关键词made more mistakes与之相符，故答案为I。\n\n题号：34\n\n定位词：fatigue\n\n第四段：Apparently, unpredictable noise produces more fatigue than predictable noise... 此题定位词在文中原词出现，且题目空格所填词为造成疲劳(fatigue)的噪音类别，显然对应原文中的unpredictable noise，正确答案为B。",
+          "promptHtml": "Answer for gap 30."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Answer for gap 31.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6998_827712",
+          "explanation": "题号：30\n\n定位词：Glass and Singer, circumstances\n\n第三段：We are much more able to 'tune out' chronic background noise, even if... 空格所填词为noise的修饰词，于是答案只限于BCDGJ。由题目所在句句意分析，可得出空格所填词应与intense构成反义关系。经过筛选可以确定答案为B选项:：unexpected。另外，通过比较题目和文中定位处的对应关系，可得出题中in which occurs对应文中with unexpected intrusions，也能选出正确答案B。\n\n题号：31\n\n定位词：all\n\n第三段：For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall…按照顺序原则在第30题后扫描定位词可以迅速定位。空格所填词为noise的修饰词，答案也只可能为BCDGJ,在这五个选项中只有D选项与原文the same amount一致，故正确答案为D。另外，通过理解题目，按照上下文意：“实验组中一部分人接触的噪音为可预测性的，其他人接触的为随机产生的，所有人听到的噪音都是___”也能推出空格里只能填D选项。\n\n题号：32\n\n定位词：predictable group, unpredictable group\n\n第三段：Subjects reported finding the predictable and... 此题定位同样可按照顺序原则。该题空格前后为两类人，因此中间应填词为比较关系，故答案只能为EFHI。通过扫描文中对应点可发现两种人performed at about the same level，因此只能选择F选项。\n\n题号：33\n\n定位词：written material\n\n第三段：As shown in Table 1 the unpredictable noise produced... 通过分析空格前后内容，可知空格内须填写处在可预测性噪音和非可预测性噪音中的两类人的比较关系，答案只能为EFHI。可以在文中对应点后扫描出相关比较关系：produced more errors，选项中只有I中的关键词made more mistakes与之相符，故答案为I。\n\n题号：34\n\n定位词：fatigue\n\n第四段：Apparently, unpredictable noise produces more fatigue than predictable noise... 此题定位词在文中原词出现，且题目空格所填词为造成疲劳(fatigue)的噪音类别，显然对应原文中的unpredictable noise，正确答案为B。",
+          "promptHtml": "Answer for gap 31."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Answer for gap 32.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6998_669565",
+          "explanation": "题号：30\n\n定位词：Glass and Singer, circumstances\n\n第三段：We are much more able to 'tune out' chronic background noise, even if... 空格所填词为noise的修饰词，于是答案只限于BCDGJ。由题目所在句句意分析，可得出空格所填词应与intense构成反义关系。经过筛选可以确定答案为B选项:：unexpected。另外，通过比较题目和文中定位处的对应关系，可得出题中in which occurs对应文中with unexpected intrusions，也能选出正确答案B。\n\n题号：31\n\n定位词：all\n\n第三段：For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall…按照顺序原则在第30题后扫描定位词可以迅速定位。空格所填词为noise的修饰词，答案也只可能为BCDGJ,在这五个选项中只有D选项与原文the same amount一致，故正确答案为D。另外，通过理解题目，按照上下文意：“实验组中一部分人接触的噪音为可预测性的，其他人接触的为随机产生的，所有人听到的噪音都是___”也能推出空格里只能填D选项。\n\n题号：32\n\n定位词：predictable group, unpredictable group\n\n第三段：Subjects reported finding the predictable and... 此题定位同样可按照顺序原则。该题空格前后为两类人，因此中间应填词为比较关系，故答案只能为EFHI。通过扫描文中对应点可发现两种人performed at about the same level，因此只能选择F选项。\n\n题号：33\n\n定位词：written material\n\n第三段：As shown in Table 1 the unpredictable noise produced... 通过分析空格前后内容，可知空格内须填写处在可预测性噪音和非可预测性噪音中的两类人的比较关系，答案只能为EFHI。可以在文中对应点后扫描出相关比较关系：produced more errors，选项中只有I中的关键词made more mistakes与之相符，故答案为I。\n\n题号：34\n\n定位词：fatigue\n\n第四段：Apparently, unpredictable noise produces more fatigue than predictable noise... 此题定位词在文中原词出现，且题目空格所填词为造成疲劳(fatigue)的噪音类别，显然对应原文中的unpredictable noise，正确答案为B。",
+          "promptHtml": "Answer for gap 32."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q6998_319348",
+          "explanation": "题号：30\n\n定位词：Glass and Singer, circumstances\n\n第三段：We are much more able to 'tune out' chronic background noise, even if... 空格所填词为noise的修饰词，于是答案只限于BCDGJ。由题目所在句句意分析，可得出空格所填词应与intense构成反义关系。经过筛选可以确定答案为B选项:：unexpected。另外，通过比较题目和文中定位处的对应关系，可得出题中in which occurs对应文中with unexpected intrusions，也能选出正确答案B。\n\n题号：31\n\n定位词：all\n\n第三段：For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall…按照顺序原则在第30题后扫描定位词可以迅速定位。空格所填词为noise的修饰词，答案也只可能为BCDGJ,在这五个选项中只有D选项与原文the same amount一致，故正确答案为D。另外，通过理解题目，按照上下文意：“实验组中一部分人接触的噪音为可预测性的，其他人接触的为随机产生的，所有人听到的噪音都是___”也能推出空格里只能填D选项。\n\n题号：32\n\n定位词：predictable group, unpredictable group\n\n第三段：Subjects reported finding the predictable and... 此题定位同样可按照顺序原则。该题空格前后为两类人，因此中间应填词为比较关系，故答案只能为EFHI。通过扫描文中对应点可发现两种人performed at about the same level，因此只能选择F选项。\n\n题号：33\n\n定位词：written material\n\n第三段：As shown in Table 1 the unpredictable noise produced... 通过分析空格前后内容，可知空格内须填写处在可预测性噪音和非可预测性噪音中的两类人的比较关系，答案只能为EFHI。可以在文中对应点后扫描出相关比较关系：produced more errors，选项中只有I中的关键词made more mistakes与之相符，故答案为I。\n\n题号：34\n\n定位词：fatigue\n\n第四段：Apparently, unpredictable noise produces more fatigue than predictable noise... 此题定位词在文中原词出现，且题目空格所填词为造成疲劳(fatigue)的噪音类别，显然对应原文中的unpredictable noise，正确答案为B。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Answer for gap 34.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6998_439521",
+          "explanation": "题号：30\n\n定位词：Glass and Singer, circumstances\n\n第三段：We are much more able to 'tune out' chronic background noise, even if... 空格所填词为noise的修饰词，于是答案只限于BCDGJ。由题目所在句句意分析，可得出空格所填词应与intense构成反义关系。经过筛选可以确定答案为B选项:：unexpected。另外，通过比较题目和文中定位处的对应关系，可得出题中in which occurs对应文中with unexpected intrusions，也能选出正确答案B。\n\n题号：31\n\n定位词：all\n\n第三段：For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall…按照顺序原则在第30题后扫描定位词可以迅速定位。空格所填词为noise的修饰词，答案也只可能为BCDGJ,在这五个选项中只有D选项与原文the same amount一致，故正确答案为D。另外，通过理解题目，按照上下文意：“实验组中一部分人接触的噪音为可预测性的，其他人接触的为随机产生的，所有人听到的噪音都是___”也能推出空格里只能填D选项。\n\n题号：32\n\n定位词：predictable group, unpredictable group\n\n第三段：Subjects reported finding the predictable and... 此题定位同样可按照顺序原则。该题空格前后为两类人，因此中间应填词为比较关系，故答案只能为EFHI。通过扫描文中对应点可发现两种人performed at about the same level，因此只能选择F选项。\n\n题号：33\n\n定位词：written material\n\n第三段：As shown in Table 1 the unpredictable noise produced... 通过分析空格前后内容，可知空格内须填写处在可预测性噪音和非可预测性噪音中的两类人的比较关系，答案只能为EFHI。可以在文中对应点后扫描出相关比较关系：produced more errors，选项中只有I中的关键词made more mistakes与之相符，故答案为I。\n\n题号：34\n\n定位词：fatigue\n\n第四段：Apparently, unpredictable noise produces more fatigue than predictable noise... 此题定位词在文中原词出现，且题目空格所填词为造成疲劳(fatigue)的噪音类别，显然对应原文中的unpredictable noise，正确答案为B。",
+          "promptHtml": "Answer for gap 34."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "no control over"
+        },
+        {
+          "value": "B",
+          "text": "unexpected"
+        },
+        {
+          "value": "C",
+          "text": "intense"
+        },
+        {
+          "value": "D",
+          "text": "the same amount of"
+        },
+        {
+          "value": "E",
+          "text": "performed better than"
+        },
+        {
+          "value": "F",
+          "text": "performed at about the same level as"
+        },
+        {
+          "value": "G",
+          "text": "no"
+        },
+        {
+          "value": "H",
+          "text": "showed more irritation than"
+        },
+        {
+          "value": "I",
+          "text": "made more mistakes than"
+        },
+        {
+          "value": "J",
+          "text": "different types of"
+        }
+      ],
+      "contextHtml": "<p>Glass and Singer (1972) showed that situations in which there is intense noise have less effect on performance than circumstances in which  <strong>[30] ______</strong>  noise occurs. Subjects were divided into groups to perform a task. Some heard loud bursts of noise, others soft. For some subjects, the noise was predictable, while for others its occurrence was random. All groups were exposed to <strong>[31] ______</strong>  noise. The predictable noise group <strong>[32] ______</strong>  the unpredictable noise group on this task.</p>\n\n<p>In the second part of the experiment, the four groups were given a proofreading task to complete under conditions of no noise. They were required to check written material for errors. The group which had been exposed to unpredictable noise <strong>[33] ______</strong>  the group which had been exposed to predictable noise. The group which had been exposed to loud predictable noise performed better than those who had heard soft, unpredictable bursts. The results suggest that <strong>[34] ______</strong> noise produces fatigue but that this manifests itself later.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 35-40\n\nChoose the correct answer and move it into the gap.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "[35] ______ Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6998_412593",
+          "explanation": "题号：35\n\n定位词：difficult at first\n\n题目译文：起初，处于噪音中的实验对象很难集中精力来解决问题。此题的定位顺序应该排在第五(之前定位了BC各一处和两处D)，为第一次定位A选项Grass and Singer。定位于第一段倒数第四行：The noise was quite disruptive at first, …译文：起初，噪音让人心烦意乱。在文中对应点扫描到定位词disruptive at first，与第35题相符。故答案为A。\n\n题号：36\n\n定位词：long-term exposure, changes\n\n题目译文：长期处在噪音中能产生行为变化。这种变化在一年后仍能波观察到。此题的定位顺序应该排在第三和第四(之前定位了BC各一处)，为定位D选项Cohen et al.。首先定位处为未段第三行：One study, suggesting that this worry is a realistic one... 此句中出现指代词this worry，按照“遇指代，向前看一句\"原则，得到最终定位句为末段第二行：But the major worry about noisy environments is that... 译文：但是噪音环境所引起的主要忧虑是，日复一日地长期生活在噪音环境中可能会产生严重.持久的影响。通过扫描题干关键词初步判定为36题，但是其中关键词a year later仍未出现，于是进行二次定位D选项。末段倒数第五行：A follow-up study showed that ... 译文：另外一项跟踪研究表明，和那些一直在安静学校上学的孩子相比，即使喧闹学校的孩子们搬到安静一些的学校待上一年以后，他们还是难以集中注意力。至此，36题中关键词在D选项研究者的研究结果中全部出现，且含义一致, 故答案为D。\n\n题号：37\n\n定位词：make it stop\n\n题目译文：如果实验对象知道他们能够使噪音停止的话，由于处在噪音中而产生的问题就不会发生。此题的定位顺序应该排在第七(之前定位了BC各一处、两处D以及两处A，其中第二处A位于第三段且无信息可对应题目)，为第三次定位A选项Grass and Singer。定位于第五段第二行：If the individual knows that ...译文:如果一个人知道自己可以控制噪音的话,这一点似乎可以消除当时噪音的消极影响和副作用。定位处关键词control与第35题中make it stop对应，故答案为A。\n\n题号：38\n\n定位词：high-pitched, low-pitched\n\n题目译文：处在高分贝的噪音中比处在低分贝的噪音中能使人犯更多的错误。在解此题之前，通过定位ABCD四个选项已经将其余各题完成，且文中对应处均未提及噪音分贝高低问题，故此题通过排除法只能选择E。\n\n题号：39\n\n定位词：three tasks\n\n题目译文：当处于噪音环境时，实验对象很难同时做三项工作。此题的定位顺序应该排在第一(详见解题方法2)，为定位选项B选项Broadbent，定位于第二段第二行：For example, high noise levels interfered with the performance of subjects who were...译文：例如，如果每个试验对象需要同时监视三个刻度盘，那么高分贝噪音就会严重干扰他们完成工作。定位处monitor three dials at a time与第39题中perform three tasks at the same time相对应。故答案为B。\n\n题号：40\n\n定位词：repeat numbers, another task\n\n题目译文：当实验对象在做另一项工作时，噪音会影响其重复数字的能力。定位于第二段倒数第一行：…but it did interfere with the subject's ability to repeat numbers while tracking.译文：但如果让实验对象在追踪的同时重复数字,那么噪音对他们的影响就很大了。定位处tracking对应第40题中carrying out another task。故答案为C。",
+          "promptHtml": "[35] ______ Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "[36] ______ Long-term exposure to noise can produce changes in behaviour which can still be observed a year later.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6998_684922",
+          "explanation": "题号：35\n\n定位词：difficult at first\n\n题目译文：起初，处于噪音中的实验对象很难集中精力来解决问题。此题的定位顺序应该排在第五(之前定位了BC各一处和两处D)，为第一次定位A选项Grass and Singer。定位于第一段倒数第四行：The noise was quite disruptive at first, …译文：起初，噪音让人心烦意乱。在文中对应点扫描到定位词disruptive at first，与第35题相符。故答案为A。\n\n题号：36\n\n定位词：long-term exposure, changes\n\n题目译文：长期处在噪音中能产生行为变化。这种变化在一年后仍能波观察到。此题的定位顺序应该排在第三和第四(之前定位了BC各一处)，为定位D选项Cohen et al.。首先定位处为未段第三行：One study, suggesting that this worry is a realistic one... 此句中出现指代词this worry，按照“遇指代，向前看一句\"原则，得到最终定位句为末段第二行：But the major worry about noisy environments is that... 译文：但是噪音环境所引起的主要忧虑是，日复一日地长期生活在噪音环境中可能会产生严重.持久的影响。通过扫描题干关键词初步判定为36题，但是其中关键词a year later仍未出现，于是进行二次定位D选项。末段倒数第五行：A follow-up study showed that ... 译文：另外一项跟踪研究表明，和那些一直在安静学校上学的孩子相比，即使喧闹学校的孩子们搬到安静一些的学校待上一年以后，他们还是难以集中注意力。至此，36题中关键词在D选项研究者的研究结果中全部出现，且含义一致, 故答案为D。\n\n题号：37\n\n定位词：make it stop\n\n题目译文：如果实验对象知道他们能够使噪音停止的话，由于处在噪音中而产生的问题就不会发生。此题的定位顺序应该排在第七(之前定位了BC各一处、两处D以及两处A，其中第二处A位于第三段且无信息可对应题目)，为第三次定位A选项Grass and Singer。定位于第五段第二行：If the individual knows that ...译文:如果一个人知道自己可以控制噪音的话,这一点似乎可以消除当时噪音的消极影响和副作用。定位处关键词control与第35题中make it stop对应，故答案为A。\n\n题号：38\n\n定位词：high-pitched, low-pitched\n\n题目译文：处在高分贝的噪音中比处在低分贝的噪音中能使人犯更多的错误。在解此题之前，通过定位ABCD四个选项已经将其余各题完成，且文中对应处均未提及噪音分贝高低问题，故此题通过排除法只能选择E。\n\n题号：39\n\n定位词：three tasks\n\n题目译文：当处于噪音环境时，实验对象很难同时做三项工作。此题的定位顺序应该排在第一(详见解题方法2)，为定位选项B选项Broadbent，定位于第二段第二行：For example, high noise levels interfered with the performance of subjects who were...译文：例如，如果每个试验对象需要同时监视三个刻度盘，那么高分贝噪音就会严重干扰他们完成工作。定位处monitor three dials at a time与第39题中perform three tasks at the same time相对应。故答案为B。\n\n题号：40\n\n定位词：repeat numbers, another task\n\n题目译文：当实验对象在做另一项工作时，噪音会影响其重复数字的能力。定位于第二段倒数第一行：…but it did interfere with the subject's ability to repeat numbers while tracking.译文：但如果让实验对象在追踪的同时重复数字,那么噪音对他们的影响就很大了。定位处tracking对应第40题中carrying out another task。故答案为C。",
+          "promptHtml": "[36] ______ Long-term exposure to noise can produce changes in behaviour which can still be observed a year later."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "[37] ______ The problems associated with exposure to noise do not arise if the subject knows they can make it stop.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6998_902774",
+          "explanation": "题号：35\n\n定位词：difficult at first\n\n题目译文：起初，处于噪音中的实验对象很难集中精力来解决问题。此题的定位顺序应该排在第五(之前定位了BC各一处和两处D)，为第一次定位A选项Grass and Singer。定位于第一段倒数第四行：The noise was quite disruptive at first, …译文：起初，噪音让人心烦意乱。在文中对应点扫描到定位词disruptive at first，与第35题相符。故答案为A。\n\n题号：36\n\n定位词：long-term exposure, changes\n\n题目译文：长期处在噪音中能产生行为变化。这种变化在一年后仍能波观察到。此题的定位顺序应该排在第三和第四(之前定位了BC各一处)，为定位D选项Cohen et al.。首先定位处为未段第三行：One study, suggesting that this worry is a realistic one... 此句中出现指代词this worry，按照“遇指代，向前看一句\"原则，得到最终定位句为末段第二行：But the major worry about noisy environments is that... 译文：但是噪音环境所引起的主要忧虑是，日复一日地长期生活在噪音环境中可能会产生严重.持久的影响。通过扫描题干关键词初步判定为36题，但是其中关键词a year later仍未出现，于是进行二次定位D选项。末段倒数第五行：A follow-up study showed that ... 译文：另外一项跟踪研究表明，和那些一直在安静学校上学的孩子相比，即使喧闹学校的孩子们搬到安静一些的学校待上一年以后，他们还是难以集中注意力。至此，36题中关键词在D选项研究者的研究结果中全部出现，且含义一致, 故答案为D。\n\n题号：37\n\n定位词：make it stop\n\n题目译文：如果实验对象知道他们能够使噪音停止的话，由于处在噪音中而产生的问题就不会发生。此题的定位顺序应该排在第七(之前定位了BC各一处、两处D以及两处A，其中第二处A位于第三段且无信息可对应题目)，为第三次定位A选项Grass and Singer。定位于第五段第二行：If the individual knows that ...译文:如果一个人知道自己可以控制噪音的话,这一点似乎可以消除当时噪音的消极影响和副作用。定位处关键词control与第35题中make it stop对应，故答案为A。\n\n题号：38\n\n定位词：high-pitched, low-pitched\n\n题目译文：处在高分贝的噪音中比处在低分贝的噪音中能使人犯更多的错误。在解此题之前，通过定位ABCD四个选项已经将其余各题完成，且文中对应处均未提及噪音分贝高低问题，故此题通过排除法只能选择E。\n\n题号：39\n\n定位词：three tasks\n\n题目译文：当处于噪音环境时，实验对象很难同时做三项工作。此题的定位顺序应该排在第一(详见解题方法2)，为定位选项B选项Broadbent，定位于第二段第二行：For example, high noise levels interfered with the performance of subjects who were...译文：例如，如果每个试验对象需要同时监视三个刻度盘，那么高分贝噪音就会严重干扰他们完成工作。定位处monitor three dials at a time与第39题中perform three tasks at the same time相对应。故答案为B。\n\n题号：40\n\n定位词：repeat numbers, another task\n\n题目译文：当实验对象在做另一项工作时，噪音会影响其重复数字的能力。定位于第二段倒数第一行：…but it did interfere with the subject's ability to repeat numbers while tracking.译文：但如果让实验对象在追踪的同时重复数字,那么噪音对他们的影响就很大了。定位处tracking对应第40题中carrying out another task。故答案为C。",
+          "promptHtml": "[37] ______ The problems associated with exposure to noise do not arise if the subject knows they can make it stop."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "[38] ______ Exposure to high-pitched noise results in more errors than exposure to low-pitched noise.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6998_888591",
+          "explanation": "题号：35\n\n定位词：difficult at first\n\n题目译文：起初，处于噪音中的实验对象很难集中精力来解决问题。此题的定位顺序应该排在第五(之前定位了BC各一处和两处D)，为第一次定位A选项Grass and Singer。定位于第一段倒数第四行：The noise was quite disruptive at first, …译文：起初，噪音让人心烦意乱。在文中对应点扫描到定位词disruptive at first，与第35题相符。故答案为A。\n\n题号：36\n\n定位词：long-term exposure, changes\n\n题目译文：长期处在噪音中能产生行为变化。这种变化在一年后仍能波观察到。此题的定位顺序应该排在第三和第四(之前定位了BC各一处)，为定位D选项Cohen et al.。首先定位处为未段第三行：One study, suggesting that this worry is a realistic one... 此句中出现指代词this worry，按照“遇指代，向前看一句\"原则，得到最终定位句为末段第二行：But the major worry about noisy environments is that... 译文：但是噪音环境所引起的主要忧虑是，日复一日地长期生活在噪音环境中可能会产生严重.持久的影响。通过扫描题干关键词初步判定为36题，但是其中关键词a year later仍未出现，于是进行二次定位D选项。末段倒数第五行：A follow-up study showed that ... 译文：另外一项跟踪研究表明，和那些一直在安静学校上学的孩子相比，即使喧闹学校的孩子们搬到安静一些的学校待上一年以后，他们还是难以集中注意力。至此，36题中关键词在D选项研究者的研究结果中全部出现，且含义一致, 故答案为D。\n\n题号：37\n\n定位词：make it stop\n\n题目译文：如果实验对象知道他们能够使噪音停止的话，由于处在噪音中而产生的问题就不会发生。此题的定位顺序应该排在第七(之前定位了BC各一处、两处D以及两处A，其中第二处A位于第三段且无信息可对应题目)，为第三次定位A选项Grass and Singer。定位于第五段第二行：If the individual knows that ...译文:如果一个人知道自己可以控制噪音的话,这一点似乎可以消除当时噪音的消极影响和副作用。定位处关键词control与第35题中make it stop对应，故答案为A。\n\n题号：38\n\n定位词：high-pitched, low-pitched\n\n题目译文：处在高分贝的噪音中比处在低分贝的噪音中能使人犯更多的错误。在解此题之前，通过定位ABCD四个选项已经将其余各题完成，且文中对应处均未提及噪音分贝高低问题，故此题通过排除法只能选择E。\n\n题号：39\n\n定位词：three tasks\n\n题目译文：当处于噪音环境时，实验对象很难同时做三项工作。此题的定位顺序应该排在第一(详见解题方法2)，为定位选项B选项Broadbent，定位于第二段第二行：For example, high noise levels interfered with the performance of subjects who were...译文：例如，如果每个试验对象需要同时监视三个刻度盘，那么高分贝噪音就会严重干扰他们完成工作。定位处monitor three dials at a time与第39题中perform three tasks at the same time相对应。故答案为B。\n\n题号：40\n\n定位词：repeat numbers, another task\n\n题目译文：当实验对象在做另一项工作时，噪音会影响其重复数字的能力。定位于第二段倒数第一行：…but it did interfere with the subject's ability to repeat numbers while tracking.译文：但如果让实验对象在追踪的同时重复数字,那么噪音对他们的影响就很大了。定位处tracking对应第40题中carrying out another task。故答案为C。",
+          "promptHtml": "[38] ______ Exposure to high-pitched noise results in more errors than exposure to low-pitched noise."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "[39] ______ Subjects find it difficult to perform three tasks at the same time when exposed to noise.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6998_357432",
+          "explanation": "题号：35\n\n定位词：difficult at first\n\n题目译文：起初，处于噪音中的实验对象很难集中精力来解决问题。此题的定位顺序应该排在第五(之前定位了BC各一处和两处D)，为第一次定位A选项Grass and Singer。定位于第一段倒数第四行：The noise was quite disruptive at first, …译文：起初，噪音让人心烦意乱。在文中对应点扫描到定位词disruptive at first，与第35题相符。故答案为A。\n\n题号：36\n\n定位词：long-term exposure, changes\n\n题目译文：长期处在噪音中能产生行为变化。这种变化在一年后仍能波观察到。此题的定位顺序应该排在第三和第四(之前定位了BC各一处)，为定位D选项Cohen et al.。首先定位处为未段第三行：One study, suggesting that this worry is a realistic one... 此句中出现指代词this worry，按照“遇指代，向前看一句\"原则，得到最终定位句为末段第二行：But the major worry about noisy environments is that... 译文：但是噪音环境所引起的主要忧虑是，日复一日地长期生活在噪音环境中可能会产生严重.持久的影响。通过扫描题干关键词初步判定为36题，但是其中关键词a year later仍未出现，于是进行二次定位D选项。末段倒数第五行：A follow-up study showed that ... 译文：另外一项跟踪研究表明，和那些一直在安静学校上学的孩子相比，即使喧闹学校的孩子们搬到安静一些的学校待上一年以后，他们还是难以集中注意力。至此，36题中关键词在D选项研究者的研究结果中全部出现，且含义一致, 故答案为D。\n\n题号：37\n\n定位词：make it stop\n\n题目译文：如果实验对象知道他们能够使噪音停止的话，由于处在噪音中而产生的问题就不会发生。此题的定位顺序应该排在第七(之前定位了BC各一处、两处D以及两处A，其中第二处A位于第三段且无信息可对应题目)，为第三次定位A选项Grass and Singer。定位于第五段第二行：If the individual knows that ...译文:如果一个人知道自己可以控制噪音的话,这一点似乎可以消除当时噪音的消极影响和副作用。定位处关键词control与第35题中make it stop对应，故答案为A。\n\n题号：38\n\n定位词：high-pitched, low-pitched\n\n题目译文：处在高分贝的噪音中比处在低分贝的噪音中能使人犯更多的错误。在解此题之前，通过定位ABCD四个选项已经将其余各题完成，且文中对应处均未提及噪音分贝高低问题，故此题通过排除法只能选择E。\n\n题号：39\n\n定位词：three tasks\n\n题目译文：当处于噪音环境时，实验对象很难同时做三项工作。此题的定位顺序应该排在第一(详见解题方法2)，为定位选项B选项Broadbent，定位于第二段第二行：For example, high noise levels interfered with the performance of subjects who were...译文：例如，如果每个试验对象需要同时监视三个刻度盘，那么高分贝噪音就会严重干扰他们完成工作。定位处monitor three dials at a time与第39题中perform three tasks at the same time相对应。故答案为B。\n\n题号：40\n\n定位词：repeat numbers, another task\n\n题目译文：当实验对象在做另一项工作时，噪音会影响其重复数字的能力。定位于第二段倒数第一行：…but it did interfere with the subject's ability to repeat numbers while tracking.译文：但如果让实验对象在追踪的同时重复数字,那么噪音对他们的影响就很大了。定位处tracking对应第40题中carrying out another task。故答案为C。",
+          "promptHtml": "[39] ______ Subjects find it difficult to perform three tasks at the same time when exposed to noise."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "[40] ______ Noise affects a subject's capacity to repeat numbers while carrying out another task.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6998_409950",
+          "explanation": "题号：35\n\n定位词：difficult at first\n\n题目译文：起初，处于噪音中的实验对象很难集中精力来解决问题。此题的定位顺序应该排在第五(之前定位了BC各一处和两处D)，为第一次定位A选项Grass and Singer。定位于第一段倒数第四行：The noise was quite disruptive at first, …译文：起初，噪音让人心烦意乱。在文中对应点扫描到定位词disruptive at first，与第35题相符。故答案为A。\n\n题号：36\n\n定位词：long-term exposure, changes\n\n题目译文：长期处在噪音中能产生行为变化。这种变化在一年后仍能波观察到。此题的定位顺序应该排在第三和第四(之前定位了BC各一处)，为定位D选项Cohen et al.。首先定位处为未段第三行：One study, suggesting that this worry is a realistic one... 此句中出现指代词this worry，按照“遇指代，向前看一句\"原则，得到最终定位句为末段第二行：But the major worry about noisy environments is that... 译文：但是噪音环境所引起的主要忧虑是，日复一日地长期生活在噪音环境中可能会产生严重.持久的影响。通过扫描题干关键词初步判定为36题，但是其中关键词a year later仍未出现，于是进行二次定位D选项。末段倒数第五行：A follow-up study showed that ... 译文：另外一项跟踪研究表明，和那些一直在安静学校上学的孩子相比，即使喧闹学校的孩子们搬到安静一些的学校待上一年以后，他们还是难以集中注意力。至此，36题中关键词在D选项研究者的研究结果中全部出现，且含义一致, 故答案为D。\n\n题号：37\n\n定位词：make it stop\n\n题目译文：如果实验对象知道他们能够使噪音停止的话，由于处在噪音中而产生的问题就不会发生。此题的定位顺序应该排在第七(之前定位了BC各一处、两处D以及两处A，其中第二处A位于第三段且无信息可对应题目)，为第三次定位A选项Grass and Singer。定位于第五段第二行：If the individual knows that ...译文:如果一个人知道自己可以控制噪音的话,这一点似乎可以消除当时噪音的消极影响和副作用。定位处关键词control与第35题中make it stop对应，故答案为A。\n\n题号：38\n\n定位词：high-pitched, low-pitched\n\n题目译文：处在高分贝的噪音中比处在低分贝的噪音中能使人犯更多的错误。在解此题之前，通过定位ABCD四个选项已经将其余各题完成，且文中对应处均未提及噪音分贝高低问题，故此题通过排除法只能选择E。\n\n题号：39\n\n定位词：three tasks\n\n题目译文：当处于噪音环境时，实验对象很难同时做三项工作。此题的定位顺序应该排在第一(详见解题方法2)，为定位选项B选项Broadbent，定位于第二段第二行：For example, high noise levels interfered with the performance of subjects who were...译文：例如，如果每个试验对象需要同时监视三个刻度盘，那么高分贝噪音就会严重干扰他们完成工作。定位处monitor three dials at a time与第39题中perform three tasks at the same time相对应。故答案为B。\n\n题号：40\n\n定位词：repeat numbers, another task\n\n题目译文：当实验对象在做另一项工作时，噪音会影响其重复数字的能力。定位于第二段倒数第一行：…but it did interfere with the subject's ability to repeat numbers while tracking.译文：但如果让实验对象在追踪的同时重复数字,那么噪音对他们的影响就很大了。定位处tracking对应第40题中carrying out another task。故答案为C。",
+          "promptHtml": "[40] ______ Noise affects a subject&#x27;s capacity to repeat numbers while carrying out another task."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Glass and Singer"
+        },
+        {
+          "value": "B",
+          "text": "Broadbent"
+        },
+        {
+          "value": "C",
+          "text": "Finkelman and Glass"
+        },
+        {
+          "value": "D",
+          "text": "Cohen et al."
+        },
+        {
+          "value": "E",
+          "text": "None of the above"
+        }
+      ],
+      "contextHtml": "<p><strong>[35] ______</strong> Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks.</p>\n\n<p><strong>[36] ______</strong> Long-term exposure to noise can produce changes in behaviour which can still be observed a year later.</p>\n\n<p><strong>[37] ______</strong> The problems associated with exposure to noise do not arise if the subject knows they can make it stop.</p>\n\n<p><strong>[38] ______</strong> Exposure to high-pitched noise results in more errors than exposure to low-pitched noise.  </p>\n\n<p><strong>[39] ______</strong> Subjects find it difficult to perform three tasks at the same time when exposed to noise.  </p>\n\n<p><strong>[40] ______</strong> Noise affects a subject&#x27;s capacity to repeat numbers while carrying out another task.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>EFFECTS OF NOISE</span></strong></p><p>In general, it is plausible to suppose that we should prefer peace and quiet to noise. And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially &#x27;too quiet&#x27;, an experience that suggests that humans are capable of adapting to a wide range of noise levels. Research supports this view. For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise. The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise. Their physiological arousal also declined quickly to the same levels as those of the control subjects.</p><p>But there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task. For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957). Similarly, noise did not affect a subject&#x27;s ability to track a moving line with a steering wheel, but it did interfere with the subject&#x27;s ability to repeat numbers while tracking (Finkelman and Glass, 1970).</p><p>Probably the most significant finding from research on noise is that its predictability is more important than how loud it is. We are much more able to &#x27;tune out&#x27; chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise. In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts. For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise). Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment. But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. As shown in Table 1 the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise.</p><table><tbody><tr><td><p> </p></td><td><p><strong>Unpredictable Noise</strong></p></td><td><p><strong>Predictable Noise</strong></p></td><td><p><strong>Average</strong></p></td></tr><tr><td><p>Loud noise</p></td><td><p>40.1</p></td><td><p>31.8</p></td><td><p>35.9</p></td></tr><tr><td><p>Soft noise</p></td><td><p>36.7</p></td><td><p>27.4</p></td><td><p>32.1</p></td></tr><tr><td><p>Average</p></td><td><p>38.4</p></td><td><p>29.6</p></td><td><p> </p></td></tr></tbody></table><p>Table 1: Proofreading Errors and Noise</p><p>Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance.</p><p>Predictability is not the only variable that reduces or eliminates the negative effects of noise. Another is control. If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects. This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972). Just the knowledge that one has control is sufficient.</p><p>The studies discussed so far exposed people to noise for only short periods and only transient effects were studied. But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects. One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles&#x27;s busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al., 1980). It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools. Moreover, there was no evidence of adaptability to the noise. In fact, the longer the children had attended the noisy schools, the more distractible they became. The effects also seem to be long lasting. A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981). It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class.</p>"
+}

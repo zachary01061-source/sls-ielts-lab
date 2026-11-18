@@ -1,0 +1,317 @@
+{
+  "id": "cambridge-11-test-1-reading-3",
+  "title": "Reducing the Effects of Climate Change",
+  "titleCn": "Reducing the Effects of Climate Change",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 11,
+    "test": 1
+  },
+  "sourceQuestionId": "6754",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6754",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Reducing the Effects of Climate Change"
+    },
+    {
+      "label": "2",
+      "text": "Mark Rowe reports on the increasingly ambitious geo-engineering projects being explored by scientists"
+    },
+    {
+      "label": "3",
+      "text": "A Such is our dependence on fossil fuels, and such is the volume of carbon dioxide already released into the atmosphere, that many experts agree that significant global warming is now inevitable. They believe that the best we can do is keep it at a reasonable level, and at present the only serious option for doing this is cutting back on our carbon emissions. But while a few countries are making major strides in this regard, the majority are having great difficulty even stemming the rate of increase, let alone reversing it. Consequently, an increasing number of scientists are beginning to explore the alternative of geo-engineering - a term which generally refers to the intentional large-scale manipulation of the environment. According to its proponents, geo-engineering is the equivalent of a backup generator: if Plan A - reducing our dependency on fossil fuels – fails, we require a Plan B, employing grand schemes to slow down or reverse the process of global warming."
+    },
+    {
+      "label": "4",
+      "text": "B Geo-engineering has been shown to work, at least on a small localised scale. For decades, May Day parades in Moscow have taken place under clear blue skies, aircraft having deposited dry ice, silver iodide and cement powder to disperse clouds. Many of the schemes now suggested look to do the opposite, and reduce the amount of sunlight reaching the planet. The most eye-catching idea of all is suggested by Professor Roger Angel of the University of Arizona. His scheme would employ up to 16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent."
+    },
+    {
+      "label": "5",
+      "text": "C The majority of geo-engineering projects so far carried out - which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae - have focused on achieving a general cooling of the Earth. But some look specifically at reversing the melting at the poles, particularly the Arctic. The reasoning is that if you replenish the ice sheets and frozen waters of the high latitudes, more light will be reflected back into space, so reducing the warming of the oceans and atmosphere."
+    },
+    {
+      "label": "6",
+      "text": "D The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming. The idea is modelled on historic volcanic explosions, such as that of Mount Pinatubo in the Philippines in 1991, which led to a short-term cooling of global temperatures by 0.5 °C. Scientists have also scrutinised whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea. Meanwhile in the Russian Arctic, geo-engineering plans include the planting of millions of birch trees. Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow. Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists."
+    },
+    {
+      "label": "7",
+      "text": "E But will such schemes ever be implemented? Generally speaking, those who are most cautious about geo-engineering are the scientists involved in the research. Angel says that his plan is 'no substitute for developing renewable energy: the only permanent solution'. And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering: 'I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to its pre-engineered condition very rapidly, and probably within ten to twenty years. That's certainly something to worry about.'"
+    },
+    {
+      "label": "8",
+      "text": "F The US National Center for Atmospheric Research has already suggested that the proposal to inject sulphur into the atmosphere might affect rainfall patterns across the tropics and the Southern Ocean. 'Geo-engineering plans to inject stratospheric aerosols or to seed clouds would act to cool the planet, and act to increase the extent of sea ice,' says Rasch. 'But all the models suggest some impact on the distribution of precipitation.'"
+    },
+    {
+      "label": "9",
+      "text": "G 'A further risk with geo-engineering projects is that you can \"overshoot\",' says Dr Dan Lunt, from the University of Bristol's School of Geophysical Sciences, who has studied the likely impacts of the sunshade and aerosol schemes on the climate. `You may bring global temperatures back to pre-industrial levels, but the risk is that the poles will still be warmer than they should be and the tropics will be cooler than before industrialisation. 'To avoid such a scenario, Lunt says Angel's project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether."
+    },
+    {
+      "label": "10",
+      "text": "H The main reason why geo-engineering is supported by many in the scientific community is that most researchers have little faith in the ability of politicians to agree - and then bring in - the necessary carbon cuts. Even leading conservation organisations see the value of investigating the potential of geo-engineering. According to Dr Martin Sommerkorn, climate change advisor for the World Wildlife Fund's International Arctic Programme, 'Human-induced climate change has brought humanity to a position where we shouldn't exclude thinking thoroughly about this topic and its possibilities.'"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 27-29\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "mention of a geo-engineering project based on an earlier natural phenomenon",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6754_580843-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "an example of a successful use of geo-engineering",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6754_580843-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "a common definition of geo-engineering",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6754_580843-3"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 30-36\n\nComplete the table below.\n\nWrite ONE WORD from the text in each gap.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "to create a [30] ______that would reduce the amount of light reaching Earth",
+          "answers": [
+            "sunshade"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6754_555904",
+          "explanation": "题号：30\n\n定位词：tiny spacecraft, reduce the amount of light reaching Earth\n\nB段第五、六句：His scheme would employ up to16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.\n\n题目中的a large number of tiny spacecraft出现在文章B段第五句，其中a large number of相当于16 trillion, tiny spacecraft相当于minute spacecraft,之后题目在Aim中提到减少到达地球的太阳光，这与B段第六句的reduce the amount of light reaching the Earth by two percent一致，题目中的create相当于原文中的form。这组题目要求填人一个单词，因此本题答案为sunshade。\n\n题号：31\n\n定位词：in the sea\n\nC段第一句：The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n题目中in the sea在原文C段第一句中出现，即depositing iron in the ocean,可见depositing之后的名词与place之后的名词即31题所填内容对应，因此本题答案为iron。\n\n题号：32\n\n定位词：encourage, to form\n\nC段第一句: The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n从C段第一句中可知，depositing iron in the ocean的目的是to stimulate the growth of algae,这部分内容与题目中to encourage____ to from一致，因此本题答案为algae。\n\n题号：33\n\n定位词：aerosol sprays\n\nD段第一、二句：The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.\n\n本题说到释放aerosol sprays,这一信息出现在文章D段第一句,而题目问的是这样做是为了产生什么，33题空前的create与D段第二句中的form对应，因此本题答案为clouds。\n\n题号：34\n\n定位词：strong, Greenland\n\nD段第四句：Scientists have also scrutinized whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.\n\n本题可以根据Greenland定位到D段第四句，题目中的strong与句中的reinforced对应，可见对应的内容为reinforced high-tension cables,再根据题目的字数要求将其中的名词填人即可，因此本题答案为cables。\n\n题号：35\n\n定位词：Russian Arctic, reflect radiation\n\nD段第六句：Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.\n\nRussian Arctic 在文中D段第五句中出现, 而本题中提到的reflect radiation在D段第六句中出现，通过分析enabling radiation to be reflected by the snow,可以看到其中名词snow符合题目要求，因此本题答案为snow。\n\n题号：36\n\n定位词：change the direction of\n\nD段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.\n\n本题说到改变方向，而D段第七句说到Re-routing Russian rivers,可见是河流的方向被改变，因此本题答案为rivers。",
+          "promptHtml": "to create a [30] ______that would reduce the amount of light reaching Earth"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "place [31] ______in the sea",
+          "answers": [
+            "iron"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6754_518615",
+          "explanation": "题号：30\n\n定位词：tiny spacecraft, reduce the amount of light reaching Earth\n\nB段第五、六句：His scheme would employ up to16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.\n\n题目中的a large number of tiny spacecraft出现在文章B段第五句，其中a large number of相当于16 trillion, tiny spacecraft相当于minute spacecraft,之后题目在Aim中提到减少到达地球的太阳光，这与B段第六句的reduce the amount of light reaching the Earth by two percent一致，题目中的create相当于原文中的form。这组题目要求填人一个单词，因此本题答案为sunshade。\n\n题号：31\n\n定位词：in the sea\n\nC段第一句：The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n题目中in the sea在原文C段第一句中出现，即depositing iron in the ocean,可见depositing之后的名词与place之后的名词即31题所填内容对应，因此本题答案为iron。\n\n题号：32\n\n定位词：encourage, to form\n\nC段第一句: The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n从C段第一句中可知，depositing iron in the ocean的目的是to stimulate the growth of algae,这部分内容与题目中to encourage____ to from一致，因此本题答案为algae。\n\n题号：33\n\n定位词：aerosol sprays\n\nD段第一、二句：The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.\n\n本题说到释放aerosol sprays,这一信息出现在文章D段第一句,而题目问的是这样做是为了产生什么，33题空前的create与D段第二句中的form对应，因此本题答案为clouds。\n\n题号：34\n\n定位词：strong, Greenland\n\nD段第四句：Scientists have also scrutinized whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.\n\n本题可以根据Greenland定位到D段第四句，题目中的strong与句中的reinforced对应，可见对应的内容为reinforced high-tension cables,再根据题目的字数要求将其中的名词填人即可，因此本题答案为cables。\n\n题号：35\n\n定位词：Russian Arctic, reflect radiation\n\nD段第六句：Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.\n\nRussian Arctic 在文中D段第五句中出现, 而本题中提到的reflect radiation在D段第六句中出现，通过分析enabling radiation to be reflected by the snow,可以看到其中名词snow符合题目要求，因此本题答案为snow。\n\n题号：36\n\n定位词：change the direction of\n\nD段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.\n\n本题说到改变方向，而D段第七句说到Re-routing Russian rivers,可见是河流的方向被改变，因此本题答案为rivers。",
+          "promptHtml": "place [31] ______in the sea"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "to encourage [32] ______ to form",
+          "answers": [
+            "algae"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6754_998343",
+          "explanation": "题号：30\n\n定位词：tiny spacecraft, reduce the amount of light reaching Earth\n\nB段第五、六句：His scheme would employ up to16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.\n\n题目中的a large number of tiny spacecraft出现在文章B段第五句，其中a large number of相当于16 trillion, tiny spacecraft相当于minute spacecraft,之后题目在Aim中提到减少到达地球的太阳光，这与B段第六句的reduce the amount of light reaching the Earth by two percent一致，题目中的create相当于原文中的form。这组题目要求填人一个单词，因此本题答案为sunshade。\n\n题号：31\n\n定位词：in the sea\n\nC段第一句：The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n题目中in the sea在原文C段第一句中出现，即depositing iron in the ocean,可见depositing之后的名词与place之后的名词即31题所填内容对应，因此本题答案为iron。\n\n题号：32\n\n定位词：encourage, to form\n\nC段第一句: The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n从C段第一句中可知，depositing iron in the ocean的目的是to stimulate the growth of algae,这部分内容与题目中to encourage____ to from一致，因此本题答案为algae。\n\n题号：33\n\n定位词：aerosol sprays\n\nD段第一、二句：The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.\n\n本题说到释放aerosol sprays,这一信息出现在文章D段第一句,而题目问的是这样做是为了产生什么，33题空前的create与D段第二句中的form对应，因此本题答案为clouds。\n\n题号：34\n\n定位词：strong, Greenland\n\nD段第四句：Scientists have also scrutinized whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.\n\n本题可以根据Greenland定位到D段第四句，题目中的strong与句中的reinforced对应，可见对应的内容为reinforced high-tension cables,再根据题目的字数要求将其中的名词填人即可，因此本题答案为cables。\n\n题号：35\n\n定位词：Russian Arctic, reflect radiation\n\nD段第六句：Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.\n\nRussian Arctic 在文中D段第五句中出现, 而本题中提到的reflect radiation在D段第六句中出现，通过分析enabling radiation to be reflected by the snow,可以看到其中名词snow符合题目要求，因此本题答案为snow。\n\n题号：36\n\n定位词：change the direction of\n\nD段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.\n\n本题说到改变方向，而D段第七句说到Re-routing Russian rivers,可见是河流的方向被改变，因此本题答案为rivers。",
+          "promptHtml": "to encourage [32] ______ to form"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "to create [33] ______that would reduce the amount of light reaching Earth",
+          "answers": [
+            "clouds"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6754_290780",
+          "explanation": "题号：30\n\n定位词：tiny spacecraft, reduce the amount of light reaching Earth\n\nB段第五、六句：His scheme would employ up to16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.\n\n题目中的a large number of tiny spacecraft出现在文章B段第五句，其中a large number of相当于16 trillion, tiny spacecraft相当于minute spacecraft,之后题目在Aim中提到减少到达地球的太阳光，这与B段第六句的reduce the amount of light reaching the Earth by two percent一致，题目中的create相当于原文中的form。这组题目要求填人一个单词，因此本题答案为sunshade。\n\n题号：31\n\n定位词：in the sea\n\nC段第一句：The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n题目中in the sea在原文C段第一句中出现，即depositing iron in the ocean,可见depositing之后的名词与place之后的名词即31题所填内容对应，因此本题答案为iron。\n\n题号：32\n\n定位词：encourage, to form\n\nC段第一句: The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n从C段第一句中可知，depositing iron in the ocean的目的是to stimulate the growth of algae,这部分内容与题目中to encourage____ to from一致，因此本题答案为algae。\n\n题号：33\n\n定位词：aerosol sprays\n\nD段第一、二句：The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.\n\n本题说到释放aerosol sprays,这一信息出现在文章D段第一句,而题目问的是这样做是为了产生什么，33题空前的create与D段第二句中的form对应，因此本题答案为clouds。\n\n题号：34\n\n定位词：strong, Greenland\n\nD段第四句：Scientists have also scrutinized whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.\n\n本题可以根据Greenland定位到D段第四句，题目中的strong与句中的reinforced对应，可见对应的内容为reinforced high-tension cables,再根据题目的字数要求将其中的名词填人即可，因此本题答案为cables。\n\n题号：35\n\n定位词：Russian Arctic, reflect radiation\n\nD段第六句：Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.\n\nRussian Arctic 在文中D段第五句中出现, 而本题中提到的reflect radiation在D段第六句中出现，通过分析enabling radiation to be reflected by the snow,可以看到其中名词snow符合题目要求，因此本题答案为snow。\n\n题号：36\n\n定位词：change the direction of\n\nD段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.\n\n本题说到改变方向，而D段第七句说到Re-routing Russian rivers,可见是河流的方向被改变，因此本题答案为rivers。",
+          "promptHtml": "to create [33] ______that would reduce the amount of light reaching Earth"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "fix strong [34] ______to Greenland ice sheets",
+          "answers": [
+            "cables"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6754_890595",
+          "explanation": "题号：30\n\n定位词：tiny spacecraft, reduce the amount of light reaching Earth\n\nB段第五、六句：His scheme would employ up to16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.\n\n题目中的a large number of tiny spacecraft出现在文章B段第五句，其中a large number of相当于16 trillion, tiny spacecraft相当于minute spacecraft,之后题目在Aim中提到减少到达地球的太阳光，这与B段第六句的reduce the amount of light reaching the Earth by two percent一致，题目中的create相当于原文中的form。这组题目要求填人一个单词，因此本题答案为sunshade。\n\n题号：31\n\n定位词：in the sea\n\nC段第一句：The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n题目中in the sea在原文C段第一句中出现，即depositing iron in the ocean,可见depositing之后的名词与place之后的名词即31题所填内容对应，因此本题答案为iron。\n\n题号：32\n\n定位词：encourage, to form\n\nC段第一句: The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n从C段第一句中可知，depositing iron in the ocean的目的是to stimulate the growth of algae,这部分内容与题目中to encourage____ to from一致，因此本题答案为algae。\n\n题号：33\n\n定位词：aerosol sprays\n\nD段第一、二句：The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.\n\n本题说到释放aerosol sprays,这一信息出现在文章D段第一句,而题目问的是这样做是为了产生什么，33题空前的create与D段第二句中的form对应，因此本题答案为clouds。\n\n题号：34\n\n定位词：strong, Greenland\n\nD段第四句：Scientists have also scrutinized whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.\n\n本题可以根据Greenland定位到D段第四句，题目中的strong与句中的reinforced对应，可见对应的内容为reinforced high-tension cables,再根据题目的字数要求将其中的名词填人即可，因此本题答案为cables。\n\n题号：35\n\n定位词：Russian Arctic, reflect radiation\n\nD段第六句：Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.\n\nRussian Arctic 在文中D段第五句中出现, 而本题中提到的reflect radiation在D段第六句中出现，通过分析enabling radiation to be reflected by the snow,可以看到其中名词snow符合题目要求，因此本题答案为snow。\n\n题号：36\n\n定位词：change the direction of\n\nD段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.\n\n本题说到改变方向，而D段第七句说到Re-routing Russian rivers,可见是河流的方向被改变，因此本题答案为rivers。",
+          "promptHtml": "fix strong [34] ______to Greenland ice sheets"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "to allow the [35] ______to reflect radiation",
+          "answers": [
+            "snow"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6754_739619",
+          "explanation": "题号：30\n\n定位词：tiny spacecraft, reduce the amount of light reaching Earth\n\nB段第五、六句：His scheme would employ up to16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.\n\n题目中的a large number of tiny spacecraft出现在文章B段第五句，其中a large number of相当于16 trillion, tiny spacecraft相当于minute spacecraft,之后题目在Aim中提到减少到达地球的太阳光，这与B段第六句的reduce the amount of light reaching the Earth by two percent一致，题目中的create相当于原文中的form。这组题目要求填人一个单词，因此本题答案为sunshade。\n\n题号：31\n\n定位词：in the sea\n\nC段第一句：The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n题目中in the sea在原文C段第一句中出现，即depositing iron in the ocean,可见depositing之后的名词与place之后的名词即31题所填内容对应，因此本题答案为iron。\n\n题号：32\n\n定位词：encourage, to form\n\nC段第一句: The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n从C段第一句中可知，depositing iron in the ocean的目的是to stimulate the growth of algae,这部分内容与题目中to encourage____ to from一致，因此本题答案为algae。\n\n题号：33\n\n定位词：aerosol sprays\n\nD段第一、二句：The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.\n\n本题说到释放aerosol sprays,这一信息出现在文章D段第一句,而题目问的是这样做是为了产生什么，33题空前的create与D段第二句中的form对应，因此本题答案为clouds。\n\n题号：34\n\n定位词：strong, Greenland\n\nD段第四句：Scientists have also scrutinized whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.\n\n本题可以根据Greenland定位到D段第四句，题目中的strong与句中的reinforced对应，可见对应的内容为reinforced high-tension cables,再根据题目的字数要求将其中的名词填人即可，因此本题答案为cables。\n\n题号：35\n\n定位词：Russian Arctic, reflect radiation\n\nD段第六句：Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.\n\nRussian Arctic 在文中D段第五句中出现, 而本题中提到的reflect radiation在D段第六句中出现，通过分析enabling radiation to be reflected by the snow,可以看到其中名词snow符合题目要求，因此本题答案为snow。\n\n题号：36\n\n定位词：change the direction of\n\nD段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.\n\n本题说到改变方向，而D段第七句说到Re-routing Russian rivers,可见是河流的方向被改变，因此本题答案为rivers。",
+          "promptHtml": "to allow the [35] ______to reflect radiation"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "change the direction of [36] ______",
+          "answers": [
+            "rivers"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6754_739409",
+          "explanation": "题号：30\n\n定位词：tiny spacecraft, reduce the amount of light reaching Earth\n\nB段第五、六句：His scheme would employ up to16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.\n\n题目中的a large number of tiny spacecraft出现在文章B段第五句，其中a large number of相当于16 trillion, tiny spacecraft相当于minute spacecraft,之后题目在Aim中提到减少到达地球的太阳光，这与B段第六句的reduce the amount of light reaching the Earth by two percent一致，题目中的create相当于原文中的form。这组题目要求填人一个单词，因此本题答案为sunshade。\n\n题号：31\n\n定位词：in the sea\n\nC段第一句：The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n题目中in the sea在原文C段第一句中出现，即depositing iron in the ocean,可见depositing之后的名词与place之后的名词即31题所填内容对应，因此本题答案为iron。\n\n题号：32\n\n定位词：encourage, to form\n\nC段第一句: The majority of geo-engineering projects so far carried out which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae have focused on achieving a general cooling of the Earth.\n\n从C段第一句中可知，depositing iron in the ocean的目的是to stimulate the growth of algae,这部分内容与题目中to encourage____ to from一致，因此本题答案为algae。\n\n题号：33\n\n定位词：aerosol sprays\n\nD段第一、二句：The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.\n\n本题说到释放aerosol sprays,这一信息出现在文章D段第一句,而题目问的是这样做是为了产生什么，33题空前的create与D段第二句中的form对应，因此本题答案为clouds。\n\n题号：34\n\n定位词：strong, Greenland\n\nD段第四句：Scientists have also scrutinized whether it's possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.\n\n本题可以根据Greenland定位到D段第四句，题目中的strong与句中的reinforced对应，可见对应的内容为reinforced high-tension cables,再根据题目的字数要求将其中的名词填人即可，因此本题答案为cables。\n\n题号：35\n\n定位词：Russian Arctic, reflect radiation\n\nD段第六句：Whereas the region's native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.\n\nRussian Arctic 在文中D段第五句中出现, 而本题中提到的reflect radiation在D段第六句中出现，通过分析enabling radiation to be reflected by the snow,可以看到其中名词snow符合题目要求，因此本题答案为snow。\n\n题号：36\n\n定位词：change the direction of\n\nD段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.\n\n本题说到改变方向，而D段第七句说到Re-routing Russian rivers,可见是河流的方向被改变，因此本题答案为rivers。",
+          "promptHtml": "change the direction of [36] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>GEO-ENGINEERING PROJECTS</strong></span></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Procedure</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Aim</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>put a large number of tiny spacecraft into orbit far above Earth</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>to create a <strong>[30] ______</strong>that would reduce the amount of light reaching Earth</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>place <strong>[31] ______</strong>in the sea</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>to encourage <strong>[32] ______</strong> to form</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>release aerosol sprays into the stratosphere</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>to create <strong>[33] ______</strong>that would reduce the amount of light reaching Earth</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>fix strong <strong>[34] ______</strong>to Greenland ice sheets</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>to prevent icebergs moving into the sea</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>plant trees in Russian Arctic that would lose their leaves in winter</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>to allow the <strong>[35] ______</strong>to reflect radiation</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>change the direction of <strong>[36] ______</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>to bring more cold water into ice-forming areas</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 37-40\n\nLook at the following statements (Questions 37-40) and the list of scientists below.\n\nMatch each statement with the correct scientist, A-D.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "[37] ______ The effects of geo-engineering may not be long-lasting.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6754_942485",
+          "explanation": "题号：37\n\n译文：地球工程的效果可能不会持续很久。\n\n本题对应的内容在文章E段出现，即And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering:\" I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to is pre-engineered condition very rapidly, and probably within ten to twenty years. That's certainly something to worry about.\" 一旦停止地球工程，地球将很快回到之前的状态，这说明地球工程的效果不会long-lasting,而这一观点是Phil Pasch表达的，因此本题答案为B。\n\n题号：38\n\n译文：地球工程是一个值得探索的话题。\n\n本题所表达的观点对应文章H段，Human-induced climate change has brought humanity to a position where we shouldn't exclude thinking thoroughly about this topic and its possibilities,其中提到thinking thoroughly about this topic and its possibilities,即需要对这一话题进行研究，这与题目表达一致， 而这是Marin Sommerkorn提出的观点，因此本题答案为D。\n\n题号：39\n\n译文：有必要限制地球工程项目的效果。\n\n本题所表达的观点对应文章G段，To avoid such a scenario, Lunt says Angle's project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether ,其中说到operate at half strength ,这与题目中limit the effectiveness一致,而这是Dan Lunt的观点，因此本题答案为C。\n\n题号：40\n\n译文：地球工程无法取代非化石原料的研究。\n\n本题所表述的观点出现在文章E段，Angel says that his plan is 'no substitute for developing renewable energy: the only permanent solution' ,其中no substitute与题目中cannot be replaced对应，而renewable energy与题目中non-fossil-based fuels对应，这一观点是Roger Angle表达的，因此本题答案为A。",
+          "promptHtml": "[37] ______ The effects of geo-engineering may not be long-lasting."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "[38] ______ Geo-engineering is a topic worth exploring.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6754_788962",
+          "explanation": "题号：37\n\n译文：地球工程的效果可能不会持续很久。\n\n本题对应的内容在文章E段出现，即And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering:\" I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to is pre-engineered condition very rapidly, and probably within ten to twenty years. That's certainly something to worry about.\" 一旦停止地球工程，地球将很快回到之前的状态，这说明地球工程的效果不会long-lasting,而这一观点是Phil Pasch表达的，因此本题答案为B。\n\n题号：38\n\n译文：地球工程是一个值得探索的话题。\n\n本题所表达的观点对应文章H段，Human-induced climate change has brought humanity to a position where we shouldn't exclude thinking thoroughly about this topic and its possibilities,其中提到thinking thoroughly about this topic and its possibilities,即需要对这一话题进行研究，这与题目表达一致， 而这是Marin Sommerkorn提出的观点，因此本题答案为D。\n\n题号：39\n\n译文：有必要限制地球工程项目的效果。\n\n本题所表达的观点对应文章G段，To avoid such a scenario, Lunt says Angle's project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether ,其中说到operate at half strength ,这与题目中limit the effectiveness一致,而这是Dan Lunt的观点，因此本题答案为C。\n\n题号：40\n\n译文：地球工程无法取代非化石原料的研究。\n\n本题所表述的观点出现在文章E段，Angel says that his plan is 'no substitute for developing renewable energy: the only permanent solution' ,其中no substitute与题目中cannot be replaced对应，而renewable energy与题目中non-fossil-based fuels对应，这一观点是Roger Angle表达的，因此本题答案为A。",
+          "promptHtml": "[38] ______ Geo-engineering is a topic worth exploring."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "[39] ______ It may be necessary to limit the effectiveness of geo-engineering projects.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6754_710640",
+          "explanation": "题号：37\n\n译文：地球工程的效果可能不会持续很久。\n\n本题对应的内容在文章E段出现，即And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering:\" I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to is pre-engineered condition very rapidly, and probably within ten to twenty years. That's certainly something to worry about.\" 一旦停止地球工程，地球将很快回到之前的状态，这说明地球工程的效果不会long-lasting,而这一观点是Phil Pasch表达的，因此本题答案为B。\n\n题号：38\n\n译文：地球工程是一个值得探索的话题。\n\n本题所表达的观点对应文章H段，Human-induced climate change has brought humanity to a position where we shouldn't exclude thinking thoroughly about this topic and its possibilities,其中提到thinking thoroughly about this topic and its possibilities,即需要对这一话题进行研究，这与题目表达一致， 而这是Marin Sommerkorn提出的观点，因此本题答案为D。\n\n题号：39\n\n译文：有必要限制地球工程项目的效果。\n\n本题所表达的观点对应文章G段，To avoid such a scenario, Lunt says Angle's project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether ,其中说到operate at half strength ,这与题目中limit the effectiveness一致,而这是Dan Lunt的观点，因此本题答案为C。\n\n题号：40\n\n译文：地球工程无法取代非化石原料的研究。\n\n本题所表述的观点出现在文章E段，Angel says that his plan is 'no substitute for developing renewable energy: the only permanent solution' ,其中no substitute与题目中cannot be replaced对应，而renewable energy与题目中non-fossil-based fuels对应，这一观点是Roger Angle表达的，因此本题答案为A。",
+          "promptHtml": "[39] ______ It may be necessary to limit the effectiveness of geo-engineering projects."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "[40] ______ Research into non-fossil-based fuels cannot be replaced by geo-engineering.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6754_622766",
+          "explanation": "题号：37\n\n译文：地球工程的效果可能不会持续很久。\n\n本题对应的内容在文章E段出现，即And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering:\" I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to is pre-engineered condition very rapidly, and probably within ten to twenty years. That's certainly something to worry about.\" 一旦停止地球工程，地球将很快回到之前的状态，这说明地球工程的效果不会long-lasting,而这一观点是Phil Pasch表达的，因此本题答案为B。\n\n题号：38\n\n译文：地球工程是一个值得探索的话题。\n\n本题所表达的观点对应文章H段，Human-induced climate change has brought humanity to a position where we shouldn't exclude thinking thoroughly about this topic and its possibilities,其中提到thinking thoroughly about this topic and its possibilities,即需要对这一话题进行研究，这与题目表达一致， 而这是Marin Sommerkorn提出的观点，因此本题答案为D。\n\n题号：39\n\n译文：有必要限制地球工程项目的效果。\n\n本题所表达的观点对应文章G段，To avoid such a scenario, Lunt says Angle's project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether ,其中说到operate at half strength ,这与题目中limit the effectiveness一致,而这是Dan Lunt的观点，因此本题答案为C。\n\n题号：40\n\n译文：地球工程无法取代非化石原料的研究。\n\n本题所表述的观点出现在文章E段，Angel says that his plan is 'no substitute for developing renewable energy: the only permanent solution' ,其中no substitute与题目中cannot be replaced对应，而renewable energy与题目中non-fossil-based fuels对应，这一观点是Roger Angle表达的，因此本题答案为A。",
+          "promptHtml": "[40] ______ Research into non-fossil-based fuels cannot be replaced by geo-engineering."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Roger Angel"
+        },
+        {
+          "value": "B",
+          "text": "Phil Rasch"
+        },
+        {
+          "value": "C",
+          "text": "Dan Lunt"
+        },
+        {
+          "value": "D",
+          "text": "Martin Sommerkorn"
+        }
+      ],
+      "contextHtml": "<p><strong>[37] ______</strong> The effects of geo-engineering may not be long-lasting.</p>\n\n<p><strong>[38] ______</strong> Geo-engineering is a topic worth exploring.</p>\n\n<p><strong>[39] ______</strong> It may be necessary to limit the effectiveness of geo-engineering projects.</p>\n\n<p><strong>[40] ______</strong> Research into non-fossil-based fuels cannot be replaced by geo-engineering.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Reducing the Effects of Climate Change</span></strong></p><p><span><em>Mark Rowe reports on the increasingly ambitious geo-engineering projects being explored by scientists</em></span></p><p><strong>A</strong>    Such is our dependence on fossil fuels, and such is the volume of carbon dioxide already released into the atmosphere, that many experts agree that significant global warming is now inevitable. They believe that the best we can do is keep it at a reasonable level, and at present the only serious option for doing this is cutting back on our carbon emissions. But while a few countries are making major strides in this regard, the majority are having great difficulty even stemming the rate of increase, let alone reversing it. Consequently, an increasing number of scientists are beginning to explore the alternative of geo-engineering - a term which generally refers to the intentional large-scale manipulation of the environment. According to its proponents, geo-engineering is the equivalent of a backup generator: if Plan A - reducing our dependency on fossil fuels – fails, we require a Plan B, employing grand schemes to slow down or reverse the process of global warming.</p><p><strong>B    </strong>Geo-engineering has been shown to work, at least on a small localised scale. For decades, May Day parades in Moscow have taken place under clear blue skies, aircraft having deposited dry ice, silver iodide and cement powder to disperse clouds. Many of the schemes now suggested look to do the opposite, and reduce the amount of sunlight reaching the planet. The most eye-catching idea of all is suggested by Professor Roger Angel of the University of Arizona. His scheme would employ up to 16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.</p><p><strong>C    </strong>The majority of geo-engineering projects so far carried out - which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae - have focused on achieving a general cooling of the Earth. But some look specifically at reversing the melting at the poles, particularly the Arctic. The reasoning is that if you replenish the ice sheets and frozen waters of the high latitudes, more light will be reflected back into space, so reducing the warming of the oceans and atmosphere.</p><p><strong>D</strong>    The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming. The idea is modelled on historic volcanic explosions, such as that of Mount Pinatubo in the Philippines in 1991, which led to a short-term cooling of global temperatures by 0.5 °C. Scientists have also scrutinised whether it&#x27;s possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea. Meanwhile in the Russian Arctic, geo-engineering plans include the planting of millions of birch trees. Whereas the region&#x27;s native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow. Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.</p><p><strong>E </strong>   But will such schemes ever be implemented? Generally speaking, those who are most cautious about geo-engineering are the scientists involved in the research. Angel says that his plan is &#x27;no substitute for developing renewable energy: the only permanent solution&#x27;. And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering: &#x27;I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to its pre-engineered condition very rapidly, and probably within ten to twenty years. That&#x27;s certainly something to worry about.&#x27;</p><p><strong>F</strong>    The US National Center for Atmospheric Research has already suggested that the proposal to inject sulphur into the atmosphere might affect rainfall patterns across the tropics and the Southern Ocean. &#x27;Geo-engineering plans to inject stratospheric aerosols or to seed clouds would act to cool the planet, and act to increase the extent of sea ice,&#x27; says Rasch. &#x27;But all the models suggest some impact on the distribution of precipitation.&#x27;</p><p><strong>G </strong>   &#x27;A further risk with geo-engineering projects is that you can &quot;overshoot&quot;,&#x27; says Dr Dan Lunt, from the University of Bristol&#x27;s School of Geophysical Sciences, who has studied the likely impacts of the sunshade and aerosol schemes on the climate. `You may bring global temperatures back to pre-industrial levels, but the risk is that the poles will still be warmer than they should be and the tropics will be cooler than before industrialisation. &#x27;To avoid such a scenario, Lunt says Angel&#x27;s project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether.</p><p><strong>H</strong>    The main reason why geo-engineering is supported by many in the scientific community is that most researchers have little faith in the ability of politicians to agree - and then bring in - the necessary carbon cuts. Even leading conservation organisations see the value of investigating the potential of geo-engineering. According to Dr Martin Sommerkorn, climate change advisor for the World Wildlife Fund&#x27;s International Arctic Programme, &#x27;Human-induced climate change has brought humanity to a position where we shouldn&#x27;t exclude thinking thoroughly about this topic and its possibilities.&#x27;</p>"
+}

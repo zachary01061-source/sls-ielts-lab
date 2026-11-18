@@ -1,0 +1,403 @@
+{
+  "id": "30c5c371-6626-4f8c-b8f8-9cbe2e4ee9b4",
+  "title": "Laughter",
+  "titleCn": "雅思听力Part4：笑的研究",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/30c5c371-6626-4f8c-b8f8-9cbe2e4ee9b4",
+  "duration": 389,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,080"
+    },
+    {
+      "label": "2",
+      "text": "Of all, I'll start by looking at the actual nature of laughter. Well, when someone laughs, you've got movement of the muscles of the face and the chest, and you've got sound formed when the air is forced out of the body as part of this process. So we're talking about a physical activity, but obviously other things are involved as well, and this is where it gets more complicated. Laughing isn't something that you normally decide to do, so it's not voluntary behavior like ordinary speech. Instead, it's regulated by our instincts, rather like the singing of a bird or the roaring of a lion. And once you start to laugh, it can be quite hard to stop. [chuckles] That's not always under your conscious control either."
+    },
+    {
+      "label": "3",
+      "text": "00:00:46,340"
+    },
+    {
+      "label": "4",
+      "text": "But why do we laugh? Because we find something funny, most of us would say. But in fact, it appears that laughter has little to do with jokes or funny stories. Only about ten percent of laughter is caused by things like that."
+    },
+    {
+      "label": "5",
+      "text": "00:01:02,560"
+    },
+    {
+      "label": "6",
+      "text": "One suggestion is that human laughter may have originally started out as a shared response to signal relief at the passing of danger. And it's true that even these days, laughter is rarely an activity carried out by an individual on his or her own. In fact, people are thirty times more likely to laugh when they're with other people than when they're completely alone."
+    },
+    {
+      "label": "7",
+      "text": "00:01:26,280"
+    },
+    {
+      "label": "8",
+      "text": "Laughter still seems to be a kind of social signal. It occurs when people are in a group, and they're comfortable with one another. And it seems likely that laughter can result in the creation of bonds between the people in the group. And it's precisely because of this social aspect of laughter that people like public speakers and politicians often try to get their audience to laugh. It encourages their listeners to trust them and to connect with them. But this kind of thing, controlling the laughter of a group that is, indicates that there's a link between laughter and power. And this is supported by several studies that indicate that bosses use humor more than their employees. And research has also shown that female listeners are likely to laugh much more if the speaker is male. So it appears that there are gender issues associated with how much we laugh."
+    },
+    {
+      "label": "9",
+      "text": "00:02:21,500"
+    },
+    {
+      "label": "10",
+      "text": "I should also point out that laughter can be used as a negative signal as well as a positive one. I think we've all probably seen evidence of a group using laughter to exclude someone, to emphasize that they are not accepted. So it's not always a positive type of behavior either."
+    },
+    {
+      "label": "11",
+      "text": "00:02:39,560"
+    },
+    {
+      "label": "12",
+      "text": "So what all this goes to show is that laughter is a very, very complex issue."
+    },
+    {
+      "label": "13",
+      "text": "00:02:49,380"
+    },
+    {
+      "label": "14",
+      "text": "It does appear, however, that laughter has definite benefits. If we look first at the psychological aspects, we know that people often tend to store negative emotions such as anger, sadness, and fear, rather than expressing them. And it seems that laughter provides a harmless way for the release of these emotions. But there are also clear physical effects that have been monitored, too. For example, laughter is good aerobic exercise. It speeds up heart rate and respiration and raises blood pressure. One researcher suggests that a hundred laughs a day is the equivalent of ten minutes jogging."
+    },
+    {
+      "label": "15",
+      "text": "00:03:30,280"
+    },
+    {
+      "label": "16",
+      "text": "Laughter also helps prevent the stress that so many people suffer from today, which results from the faster pace of life and all that goes with it. It does this by reducing the levels of hormones in the blood, which are caused by stress. And in addition, it is known to increase the levels of chemicals that protect the body from infection or pain. And so it helps to boost the immune system."
+    },
+    {
+      "label": "17",
+      "text": "00:03:55,220"
+    },
+    {
+      "label": "18",
+      "text": "One interesting study showed that people who had had surgical operations asked for fewer painkillers if they'd been viewing comic films."
+    },
+    {
+      "label": "19",
+      "text": "00:04:04,900"
+    },
+    {
+      "label": "20",
+      "text": "In fact, research has even shown that the quality of dreams can be positively affected by laughter. A good laugh ten minutes before going to sleep can prevent you from having bad dreams and give a much more pleasant and restorative night's sleep."
+    },
+    {
+      "label": "21",
+      "text": "00:04:19,800"
+    },
+    {
+      "label": "22",
+      "text": "So there's now little argument that finding things funny and enjoying a good laugh is extremely beneficial to us all"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **NO MORE THAN THREE WORDS** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "f89af9bf-b9ce-429b-bad7-db63bdc39ebc",
+          "prompt": "**The nature of laughter**\n·**31** Laughter is a _____ process - involves movement and sound",
+          "answers": [
+            "physical"
+          ],
+          "rawAnswer": "physical",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So we're talking about a physical activity, but obviously other things are involved as well"
+          },
+          "keywordPairs": [
+            {
+              "question": "process",
+              "article": "activity"
+            },
+            {
+              "question": "involves movement and sound",
+              "article": "movement of the muscles;sound formed"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31",
+          "rawSourceNumber": "1"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "5f217a2c-4a68-48ee-abd9-0c8f631dc7e2",
+          "prompt": "·**32** It is controlled by our _____",
+          "answers": [
+            "instincts"
+          ],
+          "rawAnswer": "instincts",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Instead, it's regulated by our instincts, rather like the singing of a bird or the roaring of a lion"
+          },
+          "keywordPairs": [
+            {
+              "question": "controlled",
+              "article": "regulated"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "a9d20e0c-6842-42ee-87bb-7735e6490183",
+          "prompt": "**Reasons for laughter**\n·Only 10% of laughter is caused by jokes or funny stories\n·**33** May have begun as sign of _____ after a dangerous situation",
+          "answers": [
+            "relief"
+          ],
+          "rawAnswer": "relief",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One suggestion is that human laughter may have originally started out as a shared response to signal relief at the passing of danger"
+          },
+          "keywordPairs": [
+            {
+              "question": "begun",
+              "article": "originally started out"
+            },
+            {
+              "question": "sign of",
+              "article": "signal"
+            },
+            {
+              "question": "after a dangerous situation",
+              "article": "at the passing of danger"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "77d3e56f-8c45-4aaf-b497-8db79f2ab6a3",
+          "prompt": "·**34** Nowadays may help develop _____ within a group",
+          "answers": [
+            "bonds"
+          ],
+          "rawAnswer": "bonds",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It seems likely that laughter can result in the creation of bonds between the people in the group"
+          },
+          "keywordPairs": [
+            {
+              "question": "help develop",
+              "article": "result in the creation of"
+            },
+            {
+              "question": "within",
+              "article": "between the people in"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "3a93664a-be73-40dc-a57e-f14f40e9b13b",
+          "prompt": "·**35** Connected to _____ (e.g. use of humor by policians or bosses)",
+          "answers": [
+            "power"
+          ],
+          "rawAnswer": "power",
+          "evidence": {
+            "paragraph": "",
+            "quote": "indicates that there's a link between laughter and power"
+          },
+          "keywordPairs": [
+            {
+              "question": "connected to",
+              "article": "link between"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "3e8b1894-379c-4313-a7e6-8b5d5386677b",
+          "prompt": "·May be related to male/female differences(e.g.women laugh more at male speakers)\n·**36** May be used in a _____ way to keep someone out of a group",
+          "answers": [
+            "hostile"
+          ],
+          "rawAnswer": "hostile",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I should also point out that laughter can be used as a negative signal as well as a positive one;a group using laughter to exclude someone"
+          },
+          "keywordPairs": [
+            {
+              "question": "keep someone out of a group",
+              "article": "exclude someone"
+            },
+            {
+              "question": "used in a;way",
+              "article": "used as a;signal\t"
+            },
+            {
+              "question": "hostile",
+              "article": "negative"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "94af6998-680e-44af-b605-4909833bcf9d",
+          "prompt": "**Benefits of laughter**\n·**37** Safe method for the _____ of emotions such as anger and sadness",
+          "answers": [
+            "release"
+          ],
+          "rawAnswer": "release",
+          "evidence": {
+            "paragraph": "",
+            "quote": "laughter provides a harmless way for the release of these emotions"
+          },
+          "keywordPairs": [
+            {
+              "question": "safe method",
+              "article": "harmless way"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "dde0ca02-e8b6-432a-9e47-c62c7eb5b13e",
+          "prompt": "·Provides good aerobic exercise \n·**38** Leads to drop in levels of stress-related _____",
+          "answers": [
+            "hormones"
+          ],
+          "rawAnswer": "hormones",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It does this by reducing the levels of hormones in the blood, which are caused by stress"
+          },
+          "keywordPairs": [
+            {
+              "question": "leads to drop in",
+              "article": "reducing the levels of"
+            },
+            {
+              "question": "stress-related",
+              "article": "caused by stress"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "c938d2b6-3d2d-48e6-8322-1d71c95a219d",
+          "prompt": "·**39** Improved the _____",
+          "answers": [
+            "immune system"
+          ],
+          "rawAnswer": "immune system",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And so it helps to boost the immune system"
+          },
+          "keywordPairs": [
+            {
+              "question": "improved",
+              "article": "boost"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "ead1c211-4c92-4e74-ad44-b9666a76bf30",
+          "prompt": "·**40** Can stop _____ and improve sleep",
+          "answers": [
+            "bad dreams"
+          ],
+          "rawAnswer": "bad dreams",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A good laugh ten minutes before going to sleep can prevent you from having bad dreams and give a much more pleasant and restorative night's sleep"
+          },
+          "keywordPairs": [
+            {
+              "question": "can stop",
+              "article": "prevent you from having"
+            },
+            {
+              "question": "improve",
+              "article": "give a much more pleasant"
+            }
+          ],
+          "maxWords": 3,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,080</p><p>Of all, I'll start by looking at the actual nature of laughter. Well, when someone laughs, you've got movement of the muscles of the face and the chest, and you've got sound formed when the air is forced out of the body as part of this process. So we're talking about a physical activity, but obviously other things are involved as well, and this is where it gets more complicated. Laughing isn't something that you normally decide to do, so it's not voluntary behavior like ordinary speech. Instead, it's regulated by our instincts, rather like the singing of a bird or the roaring of a lion. And once you start to laugh, it can be quite hard to stop. [chuckles] That's not always under your conscious control either. </p><p>00:00:46,340</p><p>But why do we laugh? Because we find something funny, most of us would say. But in fact, it appears that laughter has little to do with jokes or funny stories. Only about ten percent of laughter is caused by things like that. </p><p>00:01:02,560</p><p>One suggestion is that human laughter may have originally started out as a shared response to signal relief at the passing of danger. And it's true that even these days, laughter is rarely an activity carried out by an individual on his or her own. In fact, people are thirty times more likely to laugh when they're with other people than when they're completely alone. </p><p>00:01:26,280</p><p>Laughter still seems to be a kind of social signal. It occurs when people are in a group, and they're comfortable with one another. And it seems likely that laughter can result in the creation of bonds between the people in the group. And it's precisely because of this social aspect of laughter that people like public speakers and politicians often try to get their audience to laugh. It encourages their listeners to trust them and to connect with them. But this kind of thing, controlling the laughter of a group that is, indicates that there's a link between laughter and power. And this is supported by several studies that indicate that bosses use humor more than their employees. And research has also shown that female listeners are likely to laugh much more if the speaker is male. So it appears that there are gender issues associated with how much we laugh. </p><p>00:02:21,500</p><p>I should also point out that laughter can be used as a negative signal as well as a positive one. I think we've all probably seen evidence of a group using laughter to exclude someone, to emphasize that they are not accepted. So it's not always a positive type of behavior either. </p><p>00:02:39,560</p><p>So what all this goes to show is that laughter is a very, very complex issue. </p><p>00:02:49,380</p><p>It does appear, however, that laughter has definite benefits. If we look first at the psychological aspects, we know that people often tend to store negative emotions such as anger, sadness, and fear, rather than expressing them. And it seems that laughter provides a harmless way for the release of these emotions. But there are also clear physical effects that have been monitored, too. For example, laughter is good aerobic exercise. It speeds up heart rate and respiration and raises blood pressure. One researcher suggests that a hundred laughs a day is the equivalent of ten minutes jogging. </p><p>00:03:30,280</p><p>Laughter also helps prevent the stress that so many people suffer from today, which results from the faster pace of life and all that goes with it. It does this by reducing the levels of hormones in the blood, which are caused by stress. And in addition, it is known to increase the levels of chemicals that protect the body from infection or pain. And so it helps to boost the immune system. </p><p>00:03:55,220</p><p>One interesting study showed that people who had had surgical operations asked for fewer painkillers if they'd been viewing comic films. </p><p>00:04:04,900</p><p>In fact, research has even shown that the quality of dreams can be positively affected by laughter. A good laugh ten minutes before going to sleep can prevent you from having bad dreams and give a much more pleasant and restorative night's sleep. </p><p>00:04:19,800</p><p>So there's now little argument that finding things funny and enjoying a good laugh is extremely beneficial to us all<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/30c5c371-6626-4f8c-b8f8-9cbe2e4ee9b4.mp3",
+    "durationSeconds": 268.032,
+    "sizeBytes": 4289043,
+    "sha256": "70199af5822cc9a5858a39db534078d31f6b22dbdc0f7cce8867f812762d8a5b",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:27Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1774446761616_shhl0q_ede37ae6_ff61ac14.mp3",
+  "migrationNotes": [
+    {
+      "code": "question_range_recovered_from_prompt",
+      "severity": "info",
+      "questionId": "f89af9bf-b9ce-429b-bad7-db63bdc39ebc",
+      "detail": {
+        "original": "1",
+        "expanded": "31"
+      }
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "id": "8a63bac6-f3c0-4e8e-b11e-26ec773ee62d",
+  "title": "Working as a patent attorney",
+  "titleCn": "专利律师职业介绍",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/8a63bac6-f3c0-4e8e-b11e-26ec773ee62d",
+  "duration": 311,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,140"
+    },
+    {
+      "label": "2",
+      "text": "I'm a past student of this university. I'm joining some others on this career day to tell you about my job, as it may be something you've never thought of doing. I'm a patent attorney. Some of you probably know what that is, but for those of you that don't, I'll explain. If someone has a new idea or invention, they can ask for a patent. It gives the owner the right to stop other people from using that invention. A patent is granted by the government to inventors, or more usually these days, to a company. It is for a certain time period, usually a maximum of twenty years. So during that period, that idea or invention cannot be claimed to have been invented by someone else. The likelihood of getting a patent is dependent on whether the invention is original or not. This is the crucial factor. It will be looked at by a patent examiner, and my job is to convince the examiner that the invention is not just an adjustment to something which already exists. In order to get the patent, we need to produce a full description of the invention. It's really important to get the details right. Most of you are scientists, and the basic requirement of the job is a solid academic background. Often, people have studied chemistry or alternatively, engineering. Because of the nature of the work, this is a crucial starting. You need to be able to understand how the inventions have come about. On top of that, employers are looking for particular kinds of people. They want employees who have excellent communication skills. So you can talk to inventors in terms that they can understand and also ask the right questions. These aren't necessarily skills you're taught at university. This is an international business, as are most nowadays, and it's very convenient to be able to read documents without having to call for translations. So if you can understand a foreign language, that's a great asset. You might think it sounds a bit boring from what I've said, but it really isn't. There are lots of advantages to the job. It's extremely interesting for a start. For example, I feel I use a range of expertise. I'm not just a scientist, not just a lawyer, but a mixture of the two. Although it takes quite a long time to qualify as a patent attorney, anything from four to six years, after that, you can earn a high salary which compares very well with other similar professions. There are some disadvantages, of course. It can be rather lonely, as you tend to sit in front of a computer for most of the day. Even if you have colleagues, you will all be working separately, and there isn't very much flexibility with location. Almost all vacancies for trainees are city-based, so if that doesn't appeal to you, you might want to think again. You do get to travel a bit to meetings with clients, and there are also visits to court. So what kind of organization might you end up working in? Well, many people work in industrial companies. The big ones have their own patent departments. The kind of product you might work with will range from food to heavy equipment, from biotechnology to the car industry. Basically, any organization where significant time and money is put into research and development to get ahead of the market. There are also many private practices, and some of these will have areas of special interest. Finally, it's possible to get a job in various government offices. In those departments, you'll probably be looking at applications for patents and making decisions about them. I really love my job, so I hope I persuaded a few of you that it's worth thinking about. If anyone wants to come and ask questions, I'm happy to answer them."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nWrite **NO MORE THAN TWO WORDS** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "8b647514-2ba9-4e01-b1df-73343a9a3964",
+          "prompt": "**Getting a patent**\n· Nowadays most patents are applied for by a **31**_____ .",
+          "answers": [
+            "company"
+          ],
+          "rawAnswer": "company",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A patent is granted by the government to inventors, or more usually these days, to a company"
+          },
+          "keywordPairs": [
+            {
+              "question": "Nowadays",
+              "article": "these days"
+            },
+            {
+              "question": "most",
+              "article": "more usually"
+            },
+            {
+              "question": "applied for by",
+              "article": "granted by"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "308e92e8-481a-4505-894b-cce80e52c45d",
+          "prompt": "· The invention has to be **32**_____ in order to be patented.",
+          "answers": [
+            "original"
+          ],
+          "rawAnswer": "original",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The likelihood of getting a patent is dependent on whether the invention is original or not. This is the crucial factor"
+          },
+          "maxWords": 2,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "50f0e66f-5d99-4ab1-88e7-c60e44cdda2c",
+          "prompt": "· A detailed **33**_____ of the invention is required.",
+          "answers": [
+            "description"
+          ],
+          "rawAnswer": "description",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In order to get the patent, we need to produce a full description of the invention"
+          },
+          "keywordPairs": [
+            {
+              "question": "detailed",
+              "article": "full"
+            },
+            {
+              "question": "required",
+              "article": "need to"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "e9b0f93c-8cc3-4ec3-9c50-ed9462a20718",
+          "prompt": "**Requirements**\n· Academic qualifications e.g. Chemistry or **34**_____ .",
+          "answers": [
+            "engineering"
+          ],
+          "rawAnswer": "engineering",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Often, people have studied chemistry or alternatively, engineering"
+          },
+          "keywordPairs": [
+            {
+              "question": "Academic qualifications",
+              "article": "studied"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "e6fc93ea-740d-4333-8121-3e3d7fbc5058",
+          "prompt": "· People with very good **35**_____ .",
+          "answers": [
+            "communication skills"
+          ],
+          "rawAnswer": "communication skills",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They want employees who have excellent communication skills"
+          },
+          "keywordPairs": [
+            {
+              "question": "very good",
+              "article": "excellent"
+            },
+            {
+              "question": "People",
+              "article": "employees"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "49e93ca8-e463-458a-a2b5-41f96316ce69",
+          "prompt": "· Knowledge of a different **36**_____ (desirable).",
+          "answers": [
+            "foreign language"
+          ],
+          "rawAnswer": "foreign language",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So if you can understand a foreign language, that's a great asset"
+          },
+          "keywordPairs": [
+            {
+              "question": "different",
+              "article": "foreign"
+            },
+            {
+              "question": "desirable",
+              "article": "a great asset"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "4293d527-2bd5-4449-a496-c6f92b53e481",
+          "prompt": "**Advantages of the job**\n· Interesting - uses range of expertise\n· Good **37**_____",
+          "answers": [
+            "salary"
+          ],
+          "rawAnswer": "salary",
+          "evidence": {
+            "paragraph": "",
+            "quote": "after that, you can earn a high salary which compares very well with other similar professions"
+          },
+          "keywordPairs": [
+            {
+              "question": "Good",
+              "article": "high"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "effa13a6-74b2-4d23-b9f6-3a013351d311",
+          "prompt": "**Disadvantages of the job**\n· Sometimes quite **38**_____\n· Location is inflexible",
+          "answers": [
+            "lonely"
+          ],
+          "rawAnswer": "lonely",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It can be rather lonely, as you tend to sit in front of a computer for most of the day"
+          },
+          "keywordPairs": [
+            {
+              "question": "quite",
+              "article": "rather"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "ffa2f7d8-43b6-47bd-98eb-d1159cc2b745",
+          "prompt": "**Possible places of work**\n· Large **39**_____ organisations",
+          "answers": [
+            "industrial"
+          ],
+          "rawAnswer": "industrial",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Many people work in industrial companies. The big ones have their own patent departments"
+          },
+          "keywordPairs": [
+            {
+              "question": "Large",
+              "article": "big"
+            },
+            {
+              "question": "organisations",
+              "article": "companies"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "a38d025f-85fa-4b7b-a8b6-ff8e02d079da",
+          "prompt": "· Private practices\n· **40**_____ departments",
+          "answers": [
+            "government"
+          ],
+          "rawAnswer": "government",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, it's possible to get a job in various government offices. In those departments, you'll probably be looking at applications for patents and making decisions about them"
+          },
+          "keywordPairs": [
+            {
+              "question": "departments",
+              "article": "offices"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,140</p><p>I'm a past student of this university. I'm joining some others on this career day to tell you about my job, as it may be something you've never thought of doing. I'm a patent attorney. Some of you probably know what that is, but for those of you that don't, I'll explain. If someone has a new idea or invention, they can ask for a patent. It gives the owner the right to stop other people from using that invention. A patent is granted by the government to inventors, or more usually these days, to a company. It is for a certain time period, usually a maximum of twenty years. So during that period, that idea or invention cannot be claimed to have been invented by someone else. The likelihood of getting a patent is dependent on whether the invention is original or not. This is the crucial factor. It will be looked at by a patent examiner, and my job is to convince the examiner that the invention is not just an adjustment to something which already exists. In order to get the patent, we need to produce a full description of the invention. It's really important to get the details right. Most of you are scientists, and the basic requirement of the job is a solid academic background. Often, people have studied chemistry or alternatively, engineering. Because of the nature of the work, this is a crucial starting. You need to be able to understand how the inventions have come about. On top of that, employers are looking for particular kinds of people. They want employees who have excellent communication skills. So you can talk to inventors in terms that they can understand and also ask the right questions. These aren't necessarily skills you're taught at university. This is an international business, as are most nowadays, and it's very convenient to be able to read documents without having to call for translations. So if you can understand a foreign language, that's a great asset. You might think it sounds a bit boring from what I've said, but it really isn't. There are lots of advantages to the job. It's extremely interesting for a start. For example, I feel I use a range of expertise. I'm not just a scientist, not just a lawyer, but a mixture of the two. Although it takes quite a long time to qualify as a patent attorney, anything from four to six years, after that, you can earn a high salary which compares very well with other similar professions. There are some disadvantages, of course. It can be rather lonely, as you tend to sit in front of a computer for most of the day. Even if you have colleagues, you will all be working separately, and there isn't very much flexibility with location. Almost all vacancies for trainees are city-based, so if that doesn't appeal to you, you might want to think again. You do get to travel a bit to meetings with clients, and there are also visits to court. So what kind of organization might you end up working in? Well, many people work in industrial companies. The big ones have their own patent departments. The kind of product you might work with will range from food to heavy equipment, from biotechnology to the car industry. Basically, any organization where significant time and money is put into research and development to get ahead of the market. There are also many private practices, and some of these will have areas of special interest. Finally, it's possible to get a job in various government offices. In those departments, you'll probably be looking at applications for patents and making decisions about them. I really love my job, so I hope I persuaded a few of you that it's worth thinking about. If anyone wants to come and ask questions, I'm happy to answer them.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/8a63bac6-f3c0-4e8e-b11e-26ec773ee62d.mp3",
+    "durationSeconds": 190.171429,
+    "sizeBytes": 3043203,
+    "sha256": "6fa859743dd2fc099cdf52b80b2790c092ae70a88abb9e96fea61a20dc2c4e8a",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:33:48Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786348382862_x0t9ra_75aa9279.mp3"
+}

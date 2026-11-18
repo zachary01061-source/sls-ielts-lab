@@ -1,0 +1,245 @@
+{
+  "id": "cambridge-17-test-3-reading-1",
+  "title": "The thylacine",
+  "titleCn": "The thylacine",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 3
+  },
+  "sourceQuestionId": "8385",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8385",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The thylacine"
+    },
+    {
+      "label": "2",
+      "text": "The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to a dog. Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of the body and extending onto the tail. The thylacine’s average noseto- tail length for adult males was 162.6 cm, compared to 153.7 cm for females."
+    },
+    {
+      "label": "3",
+      "text": "The thylacine appeared to occupy most types of terrain except dense rainforest, with open eucalyptus forest thought to be its prime habitat. In terms of feeding, it was exclusively carnivorous, and its stomach was muscular with an ability to distend so that it could eat large amounts of food at one time, probably an adaptation to compensate for long periods when hunting was unsuccessful and food scarce. The thylacine was not a fast runner and probably caught its prey by exhausting it during a long pursuit. During long-distance chases, thylacines were likely to have relied more on scent than any other sense. They emerged to hunt during the evening, night and early morning and tended to retreat to the hills and forest for shelter during the day. Despite the common name ‘tiger’, the thylacine had a shy, nervous temperament. Although mainly nocturnal, it was sighted moving during the day and some individuals were even recorded basking in the sun."
+    },
+    {
+      "label": "4",
+      "text": "The thylacine had an extended breeding season from winter to spring, with indications that some breeding took place throughout the year. The thylacine, like all marsupials, was tiny and hairless when born. Newborns crawled into the pouch on the belly of their mother, and attached themselves to one of the four teats, remaining there for up to three months. When old enough to leave the pouch, the young stayed in a lair such as a deep rocky cave, well-hidden nest or hollow log, whilst the mother hunted."
+    },
+    {
+      "label": "5",
+      "text": "Approximately 4,000 years ago, the thylacine was widespread throughout New Guinea and most of mainland Australia, as well as the island of Tasmania. The most recent, well-dated occurrence of a thylacine on the mainland is a carbon-dated fossil from Murray Cave in Western Australia, which is around 3,100 years old. Its extinction coincided closely with the arrival of wild dogs called dingoes in Australia and a similar predator in New Guinea. Dingoes never reached Tasmania, and most scientists see this as the main reason for the thylacine’s survival there."
+    },
+    {
+      "label": "6",
+      "text": "The dramatic decline of the thylacine in Tasmania, which began in the 1830s and continued for a century, is generally attributed to the relentless efforts of sheep farmers and bounty hunters** with shotguns. While this determined campaign undoubtedly played a large part, it is likely that various other factors also contributed to the decline and eventual extinction of the species. These include competition with wild dogs introduced by European settlers, loss of habitat along with the disappearance of prey species, and a distemper-like disease which may also have affected the thylacine."
+    },
+    {
+      "label": "7",
+      "text": "There was only one successful attempt to breed a thylacine in captivity, at Melbourne Zoo in 1899. This was despite the large numbers that went through some zoos, particularly London Zoo and Tasmania’s Hobart Zoo. The famous naturalist John Gould foresaw the thylacine’s demise when he published his Mammals of Australia between 1848 and 1863, writing, ‘The numbers of this singular animal will speedily diminish, extermination will have its full sway, and it will then, like the wolf of England and Scotland, be recorded as an animal of the past.’"
+    },
+    {
+      "label": "8",
+      "text": "However, there seems to have been little public pressure to preserve the thylacine, nor was much concern expressed by scientists at the decline of this species in the decades that followed. A notable exception was T.T. Flynn, Professor of Biology at the University of Tasmania. In 1914, he was sufficiently concerned about the scarcity of the thylacine to suggest that some should be captured and placed on a small island. But it was not until 1929, with the species on the very edge of extinction, that Tasmania’s Animals and Birds Protection Board passed a motion protecting thylacines only for the month of December, which was thought to be their prime breeding season. The last known wild thylacine to be killed was shot by a farmer in the north-east of Tasmania in 1930, leaving just captive specimens. Official protection of the species by the Tasmanian government was introduced in July 1936, 59 days before the last known individual died in Hobart Zoo on 7th September, 1936."
+    },
+    {
+      "label": "9",
+      "text": "There have been numerous expeditions and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist. The species was declared extinct by the Tasmanian government in 1986."
+    },
+    {
+      "label": "10",
+      "text": "* marsupial: a mammal, such as a kangaroo, whose young are born incompletely developed and are typically carried and suckled in a"
+    },
+    {
+      "label": "11",
+      "text": "pouch on the mother’s belly"
+    },
+    {
+      "label": "12",
+      "text": "** bounty hunters: people who are paid a reward for killing a wild animal"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–5\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "• ate an entirely [1] ______ diet",
+          "answers": [
+            "carnivorous"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8385_219286",
+          "explanation": "1. 本题虽然题干中表达意思的单词回到对应原文中全部出现了替换现象，但无论题干中的ate / entirely / diet，还是原文中的feeding / exclusively，都是多次在雅思阅读文章中出镜、考生理应再熟悉不过的基础词汇了，看出二者之间的对应关系来应当并不困难，进而通过分析句式结构，即使不认识答案词本身，其实也可得出答案应为：carnivorous。\n\n2. 本题与上一题定位处接近，考生在锁定了上题答案后阅读下一句时，即可看出虽然接下来的两句并没有像第二句中那样出现hunting原词，但却也都是在讲捕猎无疑。至于最精准的定位提示，则来自于题干depended on和原文relied on这一对万年CP。这两个词组在雅思阅读考试中的携手出镜率之高、与答案定位关联之紧密，恐怕没有其它对应同义替换的词组能出其右。看懂了它们，也就能顺利得出本题答案：scent。\n\n3. 本题虽然距离上一道题略有距离，但由于题干中的几个定位词都原词重现在了原文里，因此依然不难寻找。不过，定位到具体句子后，本题中包含着一个混淆信息：与mother相关的有两个内容，一个是pouch，一个是belly，究竟哪一个才是幼崽会处身其中的位置呢？此时需要考生进行细读和分析，然后可得正确答案应为：pouch。\n\n4. 本题仅凭3100这个数字的一己之力即可顺利定位到原文出题句，再简单分析一下句子，看出数字所在的这个从句里的which向前指代的是谁，即可得出答案应为：fossil。\n\n5. 本题的定位略费事，原因之一是答案出处距离上一题略远，阅读寻找的过程比较考验考生的耐心；原因之二则是由于答案出处所在的句子里列举了三组因素，需要考生细心比对，从而锁定与“食物减少”这个信息并列出现的另外一种资源的减少，进而顺利锁定正确答案应为：habitat。",
+          "promptHtml": "• ate an entirely [1] ______ diet"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "• probably depended mainly on [2] ______ when hunting",
+          "answers": [
+            "scent"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8385_608326",
+          "explanation": "1. 本题虽然题干中表达意思的单词回到对应原文中全部出现了替换现象，但无论题干中的ate / entirely / diet，还是原文中的feeding / exclusively，都是多次在雅思阅读文章中出镜、考生理应再熟悉不过的基础词汇了，看出二者之间的对应关系来应当并不困难，进而通过分析句式结构，即使不认识答案词本身，其实也可得出答案应为：carnivorous。\n\n2. 本题与上一题定位处接近，考生在锁定了上题答案后阅读下一句时，即可看出虽然接下来的两句并没有像第二句中那样出现hunting原词，但却也都是在讲捕猎无疑。至于最精准的定位提示，则来自于题干depended on和原文relied on这一对万年CP。这两个词组在雅思阅读考试中的携手出镜率之高、与答案定位关联之紧密，恐怕没有其它对应同义替换的词组能出其右。看懂了它们，也就能顺利得出本题答案：scent。\n\n3. 本题虽然距离上一道题略有距离，但由于题干中的几个定位词都原词重现在了原文里，因此依然不难寻找。不过，定位到具体句子后，本题中包含着一个混淆信息：与mother相关的有两个内容，一个是pouch，一个是belly，究竟哪一个才是幼崽会处身其中的位置呢？此时需要考生进行细读和分析，然后可得正确答案应为：pouch。\n\n4. 本题仅凭3100这个数字的一己之力即可顺利定位到原文出题句，再简单分析一下句子，看出数字所在的这个从句里的which向前指代的是谁，即可得出答案应为：fossil。\n\n5. 本题的定位略费事，原因之一是答案出处距离上一题略远，阅读寻找的过程比较考验考生的耐心；原因之二则是由于答案出处所在的句子里列举了三组因素，需要考生细心比对，从而锁定与“食物减少”这个信息并列出现的另外一种资源的减少，进而顺利锁定正确答案应为：habitat。",
+          "promptHtml": "• probably depended mainly on [2] ______ when hunting"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "• young spent first months of life inside its mother’s [3] ______",
+          "answers": [
+            "pouch"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8385_812378",
+          "explanation": "1. 本题虽然题干中表达意思的单词回到对应原文中全部出现了替换现象，但无论题干中的ate / entirely / diet，还是原文中的feeding / exclusively，都是多次在雅思阅读文章中出镜、考生理应再熟悉不过的基础词汇了，看出二者之间的对应关系来应当并不困难，进而通过分析句式结构，即使不认识答案词本身，其实也可得出答案应为：carnivorous。\n\n2. 本题与上一题定位处接近，考生在锁定了上题答案后阅读下一句时，即可看出虽然接下来的两句并没有像第二句中那样出现hunting原词，但却也都是在讲捕猎无疑。至于最精准的定位提示，则来自于题干depended on和原文relied on这一对万年CP。这两个词组在雅思阅读考试中的携手出镜率之高、与答案定位关联之紧密，恐怕没有其它对应同义替换的词组能出其右。看懂了它们，也就能顺利得出本题答案：scent。\n\n3. 本题虽然距离上一道题略有距离，但由于题干中的几个定位词都原词重现在了原文里，因此依然不难寻找。不过，定位到具体句子后，本题中包含着一个混淆信息：与mother相关的有两个内容，一个是pouch，一个是belly，究竟哪一个才是幼崽会处身其中的位置呢？此时需要考生进行细读和分析，然后可得正确答案应为：pouch。\n\n4. 本题仅凭3100这个数字的一己之力即可顺利定位到原文出题句，再简单分析一下句子，看出数字所在的这个从句里的which向前指代的是谁，即可得出答案应为：fossil。\n\n5. 本题的定位略费事，原因之一是答案出处距离上一题略远，阅读寻找的过程比较考验考生的耐心；原因之二则是由于答案出处所在的句子里列举了三组因素，需要考生细心比对，从而锁定与“食物减少”这个信息并列出现的另外一种资源的减少，进而顺利锁定正确答案应为：habitat。",
+          "promptHtml": "• young spent first months of life inside its mother’s [3] ______"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "• last evidence in mainland Australia is a 3,100-year-old [4] ______",
+          "answers": [
+            "fossil"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8385_948037",
+          "explanation": "1. 本题虽然题干中表达意思的单词回到对应原文中全部出现了替换现象，但无论题干中的ate / entirely / diet，还是原文中的feeding / exclusively，都是多次在雅思阅读文章中出镜、考生理应再熟悉不过的基础词汇了，看出二者之间的对应关系来应当并不困难，进而通过分析句式结构，即使不认识答案词本身，其实也可得出答案应为：carnivorous。\n\n2. 本题与上一题定位处接近，考生在锁定了上题答案后阅读下一句时，即可看出虽然接下来的两句并没有像第二句中那样出现hunting原词，但却也都是在讲捕猎无疑。至于最精准的定位提示，则来自于题干depended on和原文relied on这一对万年CP。这两个词组在雅思阅读考试中的携手出镜率之高、与答案定位关联之紧密，恐怕没有其它对应同义替换的词组能出其右。看懂了它们，也就能顺利得出本题答案：scent。\n\n3. 本题虽然距离上一道题略有距离，但由于题干中的几个定位词都原词重现在了原文里，因此依然不难寻找。不过，定位到具体句子后，本题中包含着一个混淆信息：与mother相关的有两个内容，一个是pouch，一个是belly，究竟哪一个才是幼崽会处身其中的位置呢？此时需要考生进行细读和分析，然后可得正确答案应为：pouch。\n\n4. 本题仅凭3100这个数字的一己之力即可顺利定位到原文出题句，再简单分析一下句子，看出数字所在的这个从句里的which向前指代的是谁，即可得出答案应为：fossil。\n\n5. 本题的定位略费事，原因之一是答案出处距离上一题略远，阅读寻找的过程比较考验考生的耐心；原因之二则是由于答案出处所在的句子里列举了三组因素，需要考生细心比对，从而锁定与“食物减少”这个信息并列出现的另外一种资源的减少，进而顺利锁定正确答案应为：habitat。",
+          "promptHtml": "• last evidence in mainland Australia is a 3,100-year-old [4] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "• reduction in [5] ______ and available sources of food were partly responsible for decline in Tasmania",
+          "answers": [
+            "habitat"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8385_399241",
+          "explanation": "1. 本题虽然题干中表达意思的单词回到对应原文中全部出现了替换现象，但无论题干中的ate / entirely / diet，还是原文中的feeding / exclusively，都是多次在雅思阅读文章中出镜、考生理应再熟悉不过的基础词汇了，看出二者之间的对应关系来应当并不困难，进而通过分析句式结构，即使不认识答案词本身，其实也可得出答案应为：carnivorous。\n\n2. 本题与上一题定位处接近，考生在锁定了上题答案后阅读下一句时，即可看出虽然接下来的两句并没有像第二句中那样出现hunting原词，但却也都是在讲捕猎无疑。至于最精准的定位提示，则来自于题干depended on和原文relied on这一对万年CP。这两个词组在雅思阅读考试中的携手出镜率之高、与答案定位关联之紧密，恐怕没有其它对应同义替换的词组能出其右。看懂了它们，也就能顺利得出本题答案：scent。\n\n3. 本题虽然距离上一道题略有距离，但由于题干中的几个定位词都原词重现在了原文里，因此依然不难寻找。不过，定位到具体句子后，本题中包含着一个混淆信息：与mother相关的有两个内容，一个是pouch，一个是belly，究竟哪一个才是幼崽会处身其中的位置呢？此时需要考生进行细读和分析，然后可得正确答案应为：pouch。\n\n4. 本题仅凭3100这个数字的一己之力即可顺利定位到原文出题句，再简单分析一下句子，看出数字所在的这个从句里的which向前指代的是谁，即可得出答案应为：fossil。\n\n5. 本题的定位略费事，原因之一是答案出处距离上一题略远，阅读寻找的过程比较考验考生的耐心；原因之二则是由于答案出处所在的句子里列举了三组因素，需要考生细心比对，从而锁定与“食物减少”这个信息并列出现的另外一种资源的减少，进而顺利锁定正确答案应为：habitat。",
+          "promptHtml": "• reduction in [5] ______ and available sources of food were partly responsible for decline in Tasmania"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>                                     The thylacine</strong><br>\n<strong>Appearance and behaviour</strong><br>\n• looked rather like a dog<br>\n• had a series of stripes along its body and tail<br>\n• ate an entirely </span><strong>[1] ______</strong><span> diet<br>\n• probably depended mainly on </span><strong>[2] ______</strong><span> when hunting<br>\n• young spent first months of life inside its mother’s </span><strong>[3] ______</strong></p>\n\n<p><span><strong>Decline and extinction</strong><br>\n• last evidence in mainland Australia is a 3,100-year-old </span><strong>[4] ______</strong><br>\n<span>• probably went extinct in mainland Australia due to animals known as dingoes<br>\n• reduction in </span><strong>[5] ______</strong><span> and available sources of food were partly responsible for decline in Tasmania</span></p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 6–13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Significant numbers of thylacines were killed by humans from the 1830s onwards.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8385_843748",
+          "explanation": "本题对考生相当友好：定位简单，纯凭1830s这个数字即可顺利找到对应原文句；再分析读懂句意，即可顺利得出正确答案为：TRUE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Several thylacines were born in zoos during the late 1800s.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8385_459861",
+          "explanation": "虽然题干中的late 1800s在原文里换成了更为具体的1899年，但这种形式的替换对于进行过以往雅思阅读文章真题分析的考生来说应该是司空见惯、毫不困难的。原文中用了非常明确的only一词来表明只有一例人工养殖的成功出生案例，这与题干形成了非常明确的矛盾抵触，因此答案应为：FALSE。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "John Gould’s prediction about the thylacine surprised some biologists.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8385_843397",
+          "explanation": "本题的定位不算难，因为有大写人名帮助考生直接定位；但是无论定位句本身，还是下文直到本段结束，都只是陈述了John Gould本人的看法观点，并未涉及其他生物学家对其观点和预判的感受。当然，追求高分的考生还可以更谨慎一些，继续阅读下一段的内容，直至遇到下一题的相关信息而仍然没有与本题解题相关的内容时，可以基本确认本题答案应为： NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "In the early 1900s, many scientists became worried about the possible extinction of the thylacine.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8385_188552",
+          "explanation": "本题虽然像前几题一样，也包含了一个非常明显的数字时间信息，但考生若是死守这一个定位信息在原文中寻找，反而可能遭遇困难。本篇解答到此处，所剩原文已经不多，只有最后两段了，最稳妥的方法莫过于秉持平行阅读、耐心逐句阅读每句大意，反而能更精准地在并不包含年代信息的第七段开头句里看出科学家的态度来。原文用了否定方式来说明科学家其实并未对这个物种数量的下降表现出担忧，这与题干信息形成矛盾抵触，正确答案应为：FALSE。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "T. T. Flynn’s proposal to rehome captive thylacines on an island proved to be impractical.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8385_869661",
+          "explanation": "本题的定位和出题方式与第8题很类似：考生可轻易依靠人名定位到相应句子，然而无论定位句本身还是随后几句话，都只是提及这位教授给出了一个保护袋狼免于灭绝的方案，并未说到任何对这个方案的评价，从而答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "There were still reasonable numbers of thylacines in existence when a piece of legislation protecting the species during their breeding season was passed.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8385_610002",
+          "explanation": "本题的定位不难，因为题干提供的可帮助定位信息足够多，且breeding season这个词组还原词重现在了原文句中；但本题的解题难度可能主要来自于无论是题干句还是原文句都长而复杂，需要考生耐心分析看懂。题干句本身的主干是there be句型，表明“袋狼的现存种群数量仍算合理”；when引导的时间状语则给出限定细节，指出是在“通过了一项法律保护它们的繁殖季”这个时候仍有这些数量。而在对应原文中，则通过一个强调句结构，强调了是在这个物种“已经处在了灭绝边缘的时候”才通过了这个动议motion。二者的信息相互矛盾抵触，答案应为FALSE。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "From 1930 to 1936, the only known living thylacines were all in captivity.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8385_936914",
+          "explanation": "本题从定位到解答都不困难。利用1930这个数字信息即可找到对应原文句，这句明确说到了最后一只野生袋狼是在这一年死于农夫射杀，因此这之后的所有已知存活的袋狼当然都不是野生的，考生可轻松得出答案应为：TRUE。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Attempts to find living thylacines are now rarely made.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8385_356483",
+          "explanation": "本题是全文中一个难度较高的题目，很好地体现了“魔鬼在细节中”这个特点。原本题干和对应原文的句子大意其实都不难读懂，但如若考生对句子意思表达的细节关注不够，则很有可能出现误差、导致做错。题干中的now明确指出是“现如今”对袋狼的搜寻寥寥无几了；如果考生对最后一段第一句话只是囫囵吞枣地阅读大意，就会得到“有许多搜寻努力”这个印象，从而可能据此得出“题干与原文相反、此题应为FALSE”这个错误结论。实则，原文句使用的是have been这个现在完成时态，表达的是“从过去某个时间开始延续到目前”这个情况。原本如果文章就此结束，倒是也勉强可以和“now”这个时间概念沾上边；然而在这句话之后还有一句总结结论，说澳洲政府正式官宣这个物种灭绝。于是在尘埃落定之后的现如今，是否还有人在寻找袋狼的身影，原文确实没有说到，我们也不得而知， 本题答案实际应为：NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong><span>The thylacine</span></strong></span></p><p><br><span>The extinct thylacine, also known as the Tasmanian tiger, was a marsupial* that bore a superficial resemblance to a dog. Its most distinguishing feature was the 13–19 dark brown stripes over its back, beginning at the rear of the body and extending onto the tail. The thylacine’s average noseto- tail length for adult males was 162.6 cm, compared to 153.7 cm for females. </span></p><p><br><span>The thylacine appeared to occupy most types of terrain except dense rainforest, with open eucalyptus forest thought to be its prime habitat. In terms of feeding, it was exclusively carnivorous, and its stomach was muscular with an ability to distend so that it could eat large amounts of food at one time, probably an adaptation to compensate for long periods when hunting was unsuccessful and food scarce. The thylacine was not a fast runner and probably caught its prey by exhausting it during a long pursuit. During long-distance chases, thylacines were likely to have relied more on scent than any other sense. They emerged to hunt during the evening, night and early morning and tended to retreat to the hills and forest for shelter during the day. Despite the common name ‘tiger’, the thylacine had a shy, nervous temperament. Although mainly nocturnal, it was sighted moving during the day and some individuals were even recorded basking in the sun. </span></p><p><br><span>The thylacine had an extended breeding season from winter to spring, with indications that some breeding took place throughout the year. The thylacine, like all marsupials, was tiny and hairless when born. Newborns crawled into the pouch on the belly of their mother, and attached themselves to one of the four teats, remaining there for up to three months. When old enough to leave the pouch, the young stayed in a lair such as a deep rocky cave, well-hidden nest or hollow log, whilst the mother hunted. </span></p><p><br><span>Approximately 4,000 years ago, the thylacine was widespread throughout New Guinea and most of mainland Australia, as well as the island of Tasmania. The most recent, well-dated occurrence of a thylacine on the mainland is a carbon-dated fossil from Murray Cave in Western Australia, which is around 3,100 years old. Its extinction coincided closely with the arrival of wild dogs called dingoes in Australia and a similar predator in New Guinea. Dingoes never reached Tasmania, and most scientists see this as the main reason for the thylacine’s survival there. </span></p><p><br><span>The dramatic decline of the thylacine in Tasmania, which began in the 1830s and continued for a century, is generally attributed to the relentless efforts of sheep farmers and bounty hunters** with shotguns. While this determined campaign undoubtedly played a large part, it is likely that various other factors also contributed to the decline and eventual extinction of the species. These include competition with wild dogs introduced by European settlers, loss of habitat along with the disappearance of prey species, and a distemper-like disease which may also have affected the thylacine. </span></p><p><br><span>There was only one successful attempt to breed a thylacine in captivity, at Melbourne Zoo in 1899. This was despite the large numbers that went through some zoos, particularly London Zoo and Tasmania’s Hobart Zoo. The famous naturalist John Gould foresaw the thylacine’s demise when he published his Mammals of Australia between 1848 and 1863, writing, ‘The numbers of this singular animal will speedily diminish, extermination will have its full sway, and it will then, like the wolf of England and Scotland, be recorded as an animal of the past.’ </span></p><p><br><span>However, there seems to have been little public pressure to preserve the thylacine, nor was much concern expressed by scientists at the decline of this species in the decades that followed. A notable exception was T.T. Flynn, Professor of Biology at the University of Tasmania. In 1914, he was sufficiently concerned about the scarcity of the thylacine to suggest that some should be captured and placed on a small island. But it was not until 1929, with the species on the very edge of extinction, that Tasmania’s Animals and Birds Protection Board passed a motion protecting thylacines only for the month of December, which was thought to be their prime breeding season. The last known wild thylacine to be killed was shot by a farmer in the north-east of Tasmania in 1930, leaving just captive specimens. Official protection of the species by the Tasmanian government was introduced in July 1936, 59 days before the last known individual died in Hobart Zoo on 7th September, 1936. </span></p><p><br><span>There have been numerous expeditions and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist. The species was declared extinct by the Tasmanian government in 1986. </span></p><p><span>* marsupial: a mammal, such as a kangaroo, whose young are born incompletely developed and are typically carried and suckled in a<br>pouch on the mother’s belly<br>** bounty hunters: people who are paid a reward for killing a wild animal</span><br> </p>"
+}

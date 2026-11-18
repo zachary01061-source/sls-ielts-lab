@@ -1,0 +1,2219 @@
+{
+  "createdAt": "2026-10-30T01:38:04.809633+00:00",
+  "sourceTypeMapping": {
+    "tfng": {
+      "defaultType": "tfng",
+      "label": "判断题"
+    },
+    "summary_fill": {
+      "defaultType": "text",
+      "label": "Summary填空题"
+    },
+    "sentence_fill": {
+      "defaultType": "text",
+      "label": "句子填空题"
+    },
+    "short_answer": {
+      "defaultType": "text",
+      "label": "简答题"
+    },
+    "table_fill": {
+      "defaultType": "text",
+      "label": "图表流程填空题"
+    },
+    "choice_single_multi": {
+      "defaultType": "choice",
+      "label": "单/多选题"
+    },
+    "article_title": {
+      "defaultType": "choice",
+      "label": "文章标题题"
+    },
+    "paragraph_info": {
+      "defaultType": "matching",
+      "label": "段落信息包含题"
+    },
+    "paragraph_main": {
+      "defaultType": "matching",
+      "label": "段落大意题"
+    },
+    "name_match": {
+      "defaultType": "matching",
+      "label": "人名匹配题"
+    },
+    "info_match": {
+      "defaultType": "matching",
+      "label": "事物信息匹配题"
+    },
+    "sentence_match": {
+      "defaultType": "matching",
+      "label": "句子匹配题"
+    },
+    "summary_word": {
+      "defaultType": "matching",
+      "label": "Summary选词填空题"
+    }
+  },
+  "sourceTypeRows": {
+    "sentence_fill": 653,
+    "tfng": 1199,
+    "name_match": 318,
+    "summary_fill": 461,
+    "article_title": 19,
+    "choice_single_multi": 499,
+    "sentence_match": 128,
+    "paragraph_info": 513,
+    "summary_word": 195,
+    "paragraph_main": 358,
+    "short_answer": 53,
+    "table_fill": 98,
+    "info_match": 115
+  },
+  "inferredControlRows": {},
+  "effectiveTypeRows": {
+    "text": 1284,
+    "tfng": 853,
+    "matching": 1626,
+    "choice": 462,
+    "ynng": 316,
+    "multi": 68
+  },
+  "unscorableQuestions": 20,
+  "issues": [
+    {
+      "id": "1773485843662",
+      "title": "How do plants talk to each other?",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "fc8081a4-496a-4ab9-8a90-2aff5dae65d1",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "d39c5b1f-ceb6-4265-9aa0-731b266281a9",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "8d47f99a-f034-4158-a39d-76ce7d88ee72",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "5fc6a4d0-aeaa-440c-b272-371c0f921cec",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "5c75cac0-877d-43c1-a6e4-3a1455a3c7b4",
+          "sourceNumber": "19"
+        }
+      ]
+    },
+    {
+      "id": "de259bc1-9107-4392-85d8-be042279ce5a",
+      "title": "Science and filmmaking",
+      "issues": [
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "668dc372-7f56-482b-9e88-59ffc5babc15",
+          "sourceNumber": "40",
+          "detail": {
+            "answers": [
+              "specular and diffuse reflection"
+            ],
+            "maxWords": 2,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "edce07fb-8486-488e-87c9-910213962c9a",
+      "title": "What are the 1,000 foods to eat before you die?",
+      "issues": [
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "1230b993-0112-4e40-9ffa-fd4afd6bd565",
+          "sourceNumber": "40",
+          "detail": {
+            "answers": [
+              "culinary comfort zone"
+            ],
+            "maxWords": 2,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "4cb99c97-d973-4f96-bf8f-1a9648f08683",
+      "title": "Spider silk",
+      "issues": [
+        {
+          "code": "expanded_from_answer_slots",
+          "severity": "info",
+          "questionId": "51a045c7-b507-426f-bf95-2c5c709089ec",
+          "sourceNumber": "19",
+          "detail": {
+            "sourceNumberSlots": 1,
+            "answerSlots": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "f1185ded-aab9-47d8-b053-c3d8e338f79c",
+      "title": "Lever brothers' sunlight soap: A revolution in hygiene and industry",
+      "issues": [
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "1a959284-45c9-46a5-bac2-772ada5f8281",
+          "sourceNumber": "7",
+          "detail": {
+            "answers": [
+              "James Darcy Lever"
+            ],
+            "maxWords": 2,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "c331d265-0ea9-483e-bcc5-7f5a9b88e82e",
+      "title": "Ahead of its time",
+      "issues": [
+        {
+          "code": "duplicate_source_number",
+          "severity": "warning",
+          "detail": {
+            "sourceNumber": "2",
+            "count": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "524b7d5c-b64b-4401-8235-34db636e8735",
+      "title": "The New Zealand writer Margaret Mahy",
+      "issues": [
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "39e646e4-61e1-4348-a98c-acbe30be4fc5",
+          "sourceNumber": "28"
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "301c3ea6-e9b4-415a-9c4b-3a385ee714f1",
+          "sourceNumber": "29"
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "1568e14f-2c36-40f3-98c4-a530fbbedc00",
+          "sourceNumber": "30"
+        }
+      ]
+    },
+    {
+      "id": "ab4a6e19-360d-4e07-bf0d-62f7cee8ff27",
+      "title": "Is graffiti art or crime",
+      "issues": [
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "19c9f259-dd95-424b-9f60-8382cd119e28",
+          "sourceNumber": "24",
+          "detail": {
+            "answers": [
+              "the social history"
+            ],
+            "maxWords": 2,
+            "allowNumber": false
+          }
+        },
+        {
+          "code": "alternative_exceeds_word_limit",
+          "severity": "warning",
+          "questionId": "969ced0c-6529-471b-9d47-8325a5514d86",
+          "sourceNumber": "27",
+          "detail": {
+            "answers": [
+              "water",
+              "low pressure water"
+            ],
+            "maxWords": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "3709b5d5-04b2-4adf-9663-b05491da461d",
+      "title": "Termite mounds",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "908285cb-ce87-468b-9c41-7bc15ec596d0",
+          "sourceNumber": "27"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "dfa9d7f7-7cb1-4da6-9054-08e44526f567",
+          "sourceNumber": "28"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "459657f6-4f4c-4c33-a919-63b9f28cdacc",
+          "sourceNumber": "29"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "892f57a5-a49b-4acb-93c0-ad8214a74848",
+          "sourceNumber": "30"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "16a65711-acfc-41a1-b068-64ecdf7cb46b",
+          "sourceNumber": "31"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "70294da4-48fc-4d4e-8bae-af6aace1e78f",
+          "sourceNumber": "32"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "25384d11-77b9-4843-a6f8-d281b9d85551",
+          "sourceNumber": "33"
+        }
+      ]
+    },
+    {
+      "id": "30aff6c9-598b-464e-b4eb-3b686e374454",
+      "title": "Does class size matter",
+      "issues": [
+        {
+          "code": "missing_question_prompt",
+          "severity": "error",
+          "questionId": "bdcbf611-5f60-49ff-b6a3-c5e59bd3e769",
+          "sourceNumber": "38"
+        }
+      ]
+    },
+    {
+      "id": "38e84b09-65a0-4640-907d-28845effabe4",
+      "title": "Detection of a meteorite lake",
+      "issues": [
+        {
+          "code": "diagram_unavailable_text_complete",
+          "severity": "warning",
+          "questionId": "9a3f6384-a82b-4b08-b568-f55cd30902df",
+          "sourceNumber": "19",
+          "detail": {
+            "urls": [
+              "https://www.yaquan.site/s3-static/1776484257380_cc6d1887_questions_1776484257379_dncfsn.png"
+            ],
+            "reason": "原站图示暂不可用；完整题干和空格已保留，可依据文字正常作答。"
+          }
+        },
+        {
+          "code": "diagram_unavailable_text_complete",
+          "severity": "warning",
+          "questionId": "bbbbb6b3-90ba-4d58-ac41-1a91f73f338d",
+          "sourceNumber": "20",
+          "detail": {
+            "urls": [
+              "https://www.yaquan.site/s3-static/1776484257380_cc6d1887_questions_1776484257379_dncfsn.png"
+            ],
+            "reason": "原站图示暂不可用；完整题干和空格已保留，可依据文字正常作答。"
+          }
+        },
+        {
+          "code": "diagram_unavailable_text_complete",
+          "severity": "warning",
+          "questionId": "a1490730-4004-4dca-8230-c340a9a7b405",
+          "sourceNumber": "21-22",
+          "detail": {
+            "urls": [
+              "https://www.yaquan.site/s3-static/1776484257380_cc6d1887_questions_1776484257379_dncfsn.png"
+            ],
+            "reason": "原站图示暂不可用；完整题干和空格已保留，可依据文字正常作答。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1773499645067",
+      "title": "On art and artists",
+      "issues": [
+        {
+          "code": "duplicate_prompt_prefix_merged",
+          "severity": "info",
+          "questionId": "5d0b7d2d-149e-4e36-9f5a-dd24719eb067",
+          "sourceNumber": "38",
+          "detail": {
+            "retainedQuestionId": "ba8abba3-e2ca-4118-b488-9f9c9a63c000"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7ec4e45d-493e-44bf-ab62-a97223df64f2",
+      "title": "The future of food packaging",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "d31ef8ec-d8ed-47d5-b2fc-21a0b135d8c6",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "db78b1d3-528b-4766-8241-0cc2fdd34c66",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "29f73e33-7202-422e-968c-d0e8adc6e78c",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "b114563f-cbe4-4d8e-a0a3-bbeaaa212949",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "77c5c9f9-e433-417d-b5fc-32993b09edb1",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "018e8849-0670-475b-8b00-63c5d1b13f38",
+          "sourceNumber": "19"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "3e0f04f4-a277-4289-805d-e08176f3b21a",
+          "sourceNumber": "20"
+        }
+      ]
+    },
+    {
+      "id": "894cf4f6-733b-4754-b403-18f0e257283c",
+      "title": "Travel accounts",
+      "issues": [
+        {
+          "code": "semicolon_answer_slots",
+          "severity": "info",
+          "questionId": "a2b1b32a-7050-40db-ada4-62d4e4f2eed0",
+          "sourceNumber": "28-35",
+          "detail": {
+            "slots": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "d840127a-bd28-4b9a-9366-293d6f2fd4a3",
+      "title": "Growing more for less",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "8e463f52-ad54-4091-8f99-860548cb0abc",
+          "sourceNumber": "21-22",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ebb92740-3a5d-4967-bcf3-0083068a0a3d",
+      "title": "Life on Mars？",
+      "issues": [
+        {
+          "code": "missing_question_prompt",
+          "severity": "error",
+          "questionId": "950e0393-053e-4b3b-a6cc-f5f55c60d52c",
+          "sourceNumber": "34"
+        },
+        {
+          "code": "missing_answer_placeholder",
+          "severity": "error",
+          "questionId": "950e0393-053e-4b3b-a6cc-f5f55c60d52c",
+          "sourceNumber": "34"
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "f634fb69-502d-4a66-a22f-570ded7797a1",
+          "sourceNumber": "36",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "choice"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "58798a38-bd43-425e-a82d-25d000ad988e",
+          "sourceNumber": "37",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "choice"
+          }
+        },
+        {
+          "code": "missing_question_prompt",
+          "severity": "error",
+          "questionId": "58798a38-bd43-425e-a82d-25d000ad988e",
+          "sourceNumber": "37"
+        },
+        {
+          "code": "missing_answer_placeholder",
+          "severity": "error",
+          "questionId": "58798a38-bd43-425e-a82d-25d000ad988e",
+          "sourceNumber": "37"
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "f847d2c7-c97a-4ba1-9d21-2d5e3c4a26b0",
+          "sourceNumber": "38"
+        }
+      ]
+    },
+    {
+      "id": "9fcdb098-522e-4274-ac53-d397e30815f7",
+      "title": "The 19th-century American circus",
+      "issues": [
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "787a81b0-bb0a-499a-8f8f-46df17cb23c1",
+          "sourceNumber": "26",
+          "detail": {
+            "answers": [
+              "last name"
+            ],
+            "maxWords": 1,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "e6f50cfc-5ef9-486e-aa65-cba12f5c089e",
+      "title": "The baobab tree",
+      "issues": [
+        {
+          "code": "exact_duplicate_removed",
+          "severity": "info",
+          "questionId": "dfabf7b3-9b33-49a2-9cd8-88f959d09c38",
+          "sourceNumber": "3",
+          "detail": {
+            "retainedQuestionId": "a1f20412-8d9f-49ef-b527-734289954b01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ffe86d4d-d9ae-4520-b1df-d6717571a904",
+      "title": "Save endangered language",
+      "issues": [
+        {
+          "code": "option_answer_unresolved",
+          "severity": "error",
+          "questionId": "3729207c-46ab-4014-b1c3-e568effda927",
+          "sourceNumber": "28",
+          "detail": "value of minority language to linguists"
+        }
+      ]
+    },
+    {
+      "id": "e14bb0c9-6a5a-4cac-a63e-5dad1a8f653b",
+      "title": "William Gilbert and magnetism",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "dbaa644e-a0d7-4f66-83f1-1bdb1816d729",
+          "sourceNumber": "2"
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "43bd754c-d73d-4341-b7ea-93f1cd5d90ea",
+          "sourceNumber": "11-13",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eb43c88b-dcc7-40df-93f0-fae75228d928",
+      "title": "The role of mothers in the origins of music",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "55169935-d9fb-46a0-be71-6818b3335b03",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "c505291e-ef2c-468c-ba38-7084932ff47a",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "c90aaf95-ee75-4330-ac1e-59da940f6cb9",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "58a5c52a-8d41-4e8c-8453-8b5c8a1934b6",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "c9390edf-b4f7-4324-b282-63010d8b0ee4",
+          "sourceNumber": "18"
+        }
+      ]
+    },
+    {
+      "id": "f85641ae-9573-4143-9c3e-2cf520ed8b9c",
+      "title": "Whale culture",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "93f25e10-3a71-41e6-9893-86dfa7645c7f",
+          "sourceNumber": "3",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "tfng"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "a6359932-ba96-4e2f-85e3-a9c75aea9532",
+          "sourceNumber": "33",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "f99780d4-2878-4ea8-813d-d32fb24566ea",
+          "sourceNumber": "34",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "fc473a3c-d23e-4ed6-9b6a-b6a7602390d0",
+          "sourceNumber": "35-37",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "5b2467b2-c1c8-4da6-abcc-b13e537769f4",
+          "sourceNumber": "38",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "331e7f39-15e6-4911-8a35-71b9abab9b8f",
+          "sourceNumber": "39",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "a5294c59-c42e-4a7a-b547-1bfdf68cf386",
+          "sourceNumber": "40",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        }
+      ]
+    },
+    {
+      "id": "757ad824-e05c-4b20-ad80-dcade7ae0fd5",
+      "title": "The slow food organization",
+      "issues": [
+        {
+          "code": "expanded_from_answer_slots",
+          "severity": "info",
+          "questionId": "b2fc6e9c-b6db-4457-8777-3974c7194885",
+          "sourceNumber": "7",
+          "detail": {
+            "sourceNumberSlots": 1,
+            "answerSlots": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "fd81c007-84c9-495b-af20-447918f9b082",
+      "title": "Corporate social responsibility",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "054aefe8-4708-47d2-9c07-c7da63fed474",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "2bf0b62b-b94a-4750-86d7-a2a0bbbf57a6",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "47f47b4b-071c-4724-b43e-86b2a7c07d83",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "9d4bf7fa-970c-4ab2-a2e2-726c3f7ccb3c",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "8d61c470-ea0b-45ec-ae5e-f0ac4ae835d0",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "991b9a8e-8fa8-4ad6-98cd-5e7aa8319f6e",
+          "sourceNumber": "19"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "9a391164-8f16-4552-a772-c14dd0057715",
+          "sourceNumber": "20"
+        }
+      ]
+    },
+    {
+      "id": "28ec99cd-08e0-48e7-a32d-9555d22f98c6",
+      "title": "Should we stop eating meat?",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "461050e2-747b-4c59-8ec3-6dc0eb7502b8",
+          "sourceNumber": "18",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5b978242-a838-4065-a6c4-bb2c1a923bfa",
+      "title": "Solving the problem of waste disposal",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "bc1ee6f1-032b-4894-a523-6bf0e4015310",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "3d01918c-7ebc-49d8-b837-ccf199391b6a",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "f0aa4dfd-97a2-403c-9b47-5b2442508d6b",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "50894dcf-8ae9-4f4a-b7f6-758436b9a5a4",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "6bf6e64b-62bd-432c-9bd1-6cb38b399350",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "6443bac4-04c4-4dd8-be7d-db22fa7bc6b5",
+          "sourceNumber": "19"
+        }
+      ]
+    },
+    {
+      "id": "8d9e0904-7bf2-423d-9a35-05f750af8a45",
+      "title": "The fashion industry",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "77bf7616-506b-4fef-b116-ff74f011283d",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "530bdc10-ef1f-4aef-ad65-865463422f84",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "d5fefd12-ecd1-40b3-be13-4951d7822207",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "23a18382-792e-4ece-b2d6-76f9bc03ca37",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "57a01ee0-2a38-41c1-a8d3-07222b421945",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "bef27585-0f54-4d65-96e2-a97f018f11d1",
+          "sourceNumber": "19"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "d0d3e761-fa43-4f8b-99e8-10da56e538c0",
+          "sourceNumber": "20"
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "fd84e9aa-bb74-4a8f-a40e-df39b74f07b5",
+          "sourceNumber": "25-26",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e61e0252-26d2-4e22-8949-493b892da354",
+      "title": "Hunting perfume in Madagascar",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "65a6a9fb-80d1-45cd-b481-9397da15091b",
+          "sourceNumber": "15",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "922220a5-8741-4772-a4ef-ae141ec503b9",
+          "sourceNumber": "17",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "8cd15233-e90d-4709-9266-8a036e4529cb",
+          "sourceNumber": "24",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "required_image_unavailable",
+          "severity": "error",
+          "questionId": "8cd15233-e90d-4709-9266-8a036e4529cb",
+          "sourceNumber": "24",
+          "detail": {
+            "urls": [
+              "https://coze-coding-project.tos.coze.site/coze_storage_7616401807618605075/questions/1774085379620_klh60o_eb7275d9.png?sign=1776677380-976dd6bd79-0-91feaf33d5f0d587fb7cda8a641f4be5b9f823c395576fd4200d42606cf3f2c4"
+            ],
+            "reason": "原站图示无法读取，关联题目暂不计分。"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "eae73205-0371-4a8b-acd4-a12ea2ef8e46",
+          "sourceNumber": "25",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "diagram_unavailable_text_complete",
+          "severity": "warning",
+          "questionId": "eae73205-0371-4a8b-acd4-a12ea2ef8e46",
+          "sourceNumber": "25",
+          "detail": {
+            "urls": [
+              "https://coze-coding-project.tos.coze.site/coze_storage_7616401807618605075/questions/1774085379620_klh60o_eb7275d9.png?sign=1776677380-976dd6bd79-0-91feaf33d5f0d587fb7cda8a641f4be5b9f823c395576fd4200d42606cf3f2c4"
+            ],
+            "reason": "原站图示暂不可用；完整题干和空格已保留，可依据文字正常作答。"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "705d1721-9390-451f-941c-0a3b8f8eb81d",
+          "sourceNumber": "26",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "diagram_unavailable_text_complete",
+          "severity": "warning",
+          "questionId": "705d1721-9390-451f-941c-0a3b8f8eb81d",
+          "sourceNumber": "26",
+          "detail": {
+            "urls": [
+              "https://coze-coding-project.tos.coze.site/coze_storage_7616401807618605075/questions/1774085379620_klh60o_eb7275d9.png?sign=1776677380-976dd6bd79-0-91feaf33d5f0d587fb7cda8a641f4be5b9f823c395576fd4200d42606cf3f2c4"
+            ],
+            "reason": "原站图示暂不可用；完整题干和空格已保留，可依据文字正常作答。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "56f4cc4c-51d0-4280-bda9-904e773d5528",
+      "title": "The strange world of sight",
+      "issues": [
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "629905f2-57ad-42e8-931a-e9062f7d7a21",
+          "sourceNumber": "35"
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "4bb2acdd-4a84-41c7-8df8-c64c032538f8",
+          "sourceNumber": "36"
+        }
+      ]
+    },
+    {
+      "id": "9b971991-7f22-4c71-a5b8-954249d39f86",
+      "title": "Tuatara",
+      "issues": [
+        {
+          "code": "conflicting_prompt_number_corrected",
+          "severity": "info",
+          "detail": {
+            "localId": 1,
+            "rawPromptNumber": 28,
+            "sourceNumber": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "79be0a61-275f-4e30-a2f2-9da0c34c2214",
+      "title": "We have star performers",
+      "issues": [
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "4b5ca1e9-6a74-4ddb-a88c-29bab720308e",
+          "sourceNumber": "22",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "analysts",
+              "star-stock analysts"
+            ]
+          }
+        },
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "d07003e1-4d2b-4567-a136-bebfdb3b08be",
+          "sourceNumber": "23",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "performance star",
+              "star",
+              "star performer"
+            ]
+          }
+        },
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "ee5bdc0f-11d4-450b-842b-d8432a726999",
+          "sourceNumber": "24",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "working environment",
+              "settings"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "f0c6fdad-699c-4127-b761-652ae26a61cb",
+      "title": "The myth of the eight-hour sleep",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "df0b273f-c45f-40d7-abca-0d64dec3b93c",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "9f9558d5-f9b2-4f3a-83ef-a4ee36f5f4bc",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "9e5df231-61d1-44c8-8b2a-c3db0f0d841e",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "fe7fb788-166c-4e04-833c-3bbaab665e7d",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "0198eec4-e2d9-4bb9-af61-a082a46de7e0",
+          "sourceNumber": "18"
+        }
+      ]
+    },
+    {
+      "id": "80296731-9fe3-492d-a1c2-73b1486e1854",
+      "title": "Keeping the water away",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "b107b0f1-5617-467c-885f-611abdcdccb8",
+          "sourceNumber": "14",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "cb90d9e6-9ba9-4b46-9e78-681e55242c19",
+          "sourceNumber": "15",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "34de4042-4ebf-47b8-8079-c24cadcbfc78",
+          "sourceNumber": "16",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "cc91233f-8811-40cb-85df-0f4c2c062968",
+          "sourceNumber": "17",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "625aba8c-78ff-4efd-9f9e-0847fb07892d",
+          "sourceNumber": "18",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "53518193-7138-45ed-bfd8-d83d937fbfb8",
+          "sourceNumber": "19",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "matching"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "8204761f-d3e5-4262-8bc7-3af954d238b3",
+          "sourceNumber": "20-21",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "3b492408-a170-49d1-adfc-f2ed87fa6446",
+          "sourceNumber": "23",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "2a3ddf3d-17dd-45a0-bb34-b8a62d1ce795",
+          "sourceNumber": "24",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "95a329e6-115b-4d14-a74f-405d44f5ad50",
+          "sourceNumber": "25",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "159e3586-ab88-4fb5-9367-d066a1a4182f",
+          "sourceNumber": "26",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d2f9039-4ffb-43fe-9b4e-4c90704eb895",
+      "title": "The history of the chicken",
+      "issues": [
+        {
+          "code": "duplicate_question_evidence_variant_removed",
+          "severity": "info",
+          "questionId": "fb6fabf0-2eee-4c1c-8238-567858c2cbf8",
+          "sourceNumber": "19",
+          "detail": {
+            "retainedQuestionId": "d6fb4b2b-58f1-49fc-a67e-0f03d61a5e7e"
+          }
+        },
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "c823b2f7-a819-4602-8578-1fa55b9cdea6",
+          "sourceNumber": "22",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "seeds",
+              "fruit"
+            ]
+          }
+        },
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "8d0db1c2-f0f4-4e86-bca0-28ddb98ff5b8",
+          "sourceNumber": "26",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "feed",
+              "grain"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "958942cb-a99b-4b1d-a1cc-b1354210e1a1",
+      "title": "Jellyfish - the dominant species",
+      "issues": [
+        {
+          "code": "multi_answer_unresolved",
+          "severity": "error",
+          "questionId": "9f289ee7-7aa1-4ec6-b7e7-60866f910511",
+          "sourceNumber": "20-21",
+          "detail": {
+            "answer": "a shortage of small fish in the oceans",
+            "expectedSlots": 2,
+            "mappedOptions": [
+              "A"
+            ]
+          }
+        },
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "dbabba74-6740-49ff-bff3-0422c766011a",
+          "sourceNumber": "23",
+          "detail": {
+            "answers": [
+              "monoculture of jellyfish"
+            ],
+            "maxWords": 2,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "e3f45a2e-dfc1-46fa-996c-e755c74f3de6",
+      "title": "Libraries",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "7bf2e04c-bc6e-4ec2-bb8a-6bfa23b0757e",
+          "sourceNumber": "19",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0ac16f67-1729-4195-8964-99146cdb2d4b",
+      "title": "The reconstruction of community in talbot park, Auckland",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "7fd17b04-0505-442d-8213-6038bdead8b0",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "fd483331-c6a8-44e2-925f-5a43374832c6",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "da0583b7-1c9c-4f11-ba80-ac0c9d062ec5",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "1132bb3d-68b5-4e65-9c2e-890fc0f811f5",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "921a61f7-b519-4361-af00-dbefba6345bf",
+          "sourceNumber": "19"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "0fbcc44b-cd5b-4284-bc63-91ae522ba7b0",
+          "sourceNumber": "20"
+        }
+      ]
+    },
+    {
+      "id": "1773500913798",
+      "title": "Neanderthal technology",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "24c3b15e-bdfa-4b66-9569-97d653225051",
+          "sourceNumber": "27"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "7042f09a-0b22-433b-a10e-512a2492d73a",
+          "sourceNumber": "28"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "7cb04db0-a7ce-4978-99f0-880508602781",
+          "sourceNumber": "29"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "8ca27966-b0b9-472f-9fb2-180f4e677df7",
+          "sourceNumber": "30"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "ba223964-46ae-45ce-971d-d6fe0671ea9a",
+          "sourceNumber": "31"
+        }
+      ]
+    },
+    {
+      "id": "edc01575-83d9-4ce0-8a4c-20b5d0e97c0f",
+      "title": "Understanding symbols",
+      "issues": [
+        {
+          "code": "duplicate_question_evidence_variant_removed",
+          "severity": "info",
+          "questionId": "ed152dc6-fd0f-4fb0-bd47-90d16dad6ac2",
+          "sourceNumber": "32",
+          "detail": {
+            "retainedQuestionId": "a819752b-4539-4c94-9adc-b95d5f9ec510"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f8706253-3c29-4324-9cf7-bc0e0ec6baa0",
+      "title": "Risk taking",
+      "issues": [
+        {
+          "code": "option_answer_unresolved",
+          "severity": "error",
+          "questionId": "b7d3985a-39c4-459a-a661-07951fbb47c3",
+          "sourceNumber": "40",
+          "detail": "B experts should be truthful about risk to the public"
+        }
+      ]
+    },
+    {
+      "id": "36b1e3ee-0f00-42ae-8f63-8a48bcd69d6b",
+      "title": "Images and places",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "d98bb549-639f-44d2-8c54-296a4d57caad",
+          "sourceNumber": "27"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "70494ccd-44b4-4ff0-8266-bbfd544dcff8",
+          "sourceNumber": "28"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "4be44bf6-9e8a-4e48-8498-0e4f2913e341",
+          "sourceNumber": "29"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "bea16b60-0db8-42da-9f42-f1e11a91ded8",
+          "sourceNumber": "30"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "d21bd21b-2ef6-42e5-8ac4-5e70f1f7e87f",
+          "sourceNumber": "31"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "5c324c11-0537-415d-911b-27e9fe8df409",
+          "sourceNumber": "32"
+        }
+      ]
+    },
+    {
+      "id": "fb0c718e-b660-40f8-afdb-1ce3521c4620",
+      "title": "Child’s play in medieval England",
+      "issues": [
+        {
+          "code": "exact_duplicate_removed",
+          "severity": "info",
+          "questionId": "e6d77001-ac68-4505-a185-a2e0fb639de0",
+          "sourceNumber": "30",
+          "detail": {
+            "retainedQuestionId": "23473e2e-1c37-49f8-9e0b-e9e0557f3cfd"
+          }
+        },
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "604ef326-c813-4252-be8f-875576e5dcc8",
+          "sourceNumber": "36",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "miniature adults",
+              "as miniature adults"
+            ]
+          }
+        },
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "9eaa6689-504f-4ed1-ac58-bee377e5ac95",
+          "sourceNumber": "37",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "industrialization",
+              "with the industrialization"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "618fdee9-34f4-47ab-868b-c16aa93e03c2",
+      "title": "War of the plants",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "934b3bb7-6980-4bdb-9d77-d13cc679a43a",
+          "sourceNumber": "23",
+          "detail": {
+            "sourceType": "paragraph_info",
+            "effectiveType": "tfng"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9cf14ac8-a23a-4a0e-a905-ca9c56398899",
+      "title": "The plan to bring an asteroid to earth",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "fbbad6b0-d5d7-4ace-bad4-ecc7bbafc42f",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "69e38604-14c3-4ae9-bcc0-be7c692345e9",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "0bc31e22-5534-4322-9298-1dd96e3c9b26",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "7ca8d44a-aa9d-47fb-99da-3f50f4c1913b",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "8bcc9c3a-28db-4cd3-9ad1-dceb8d803349",
+          "sourceNumber": "18"
+        }
+      ]
+    },
+    {
+      "id": "be443d53-6990-4295-92a4-30a7f0e16617",
+      "title": "Insect decision-making",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "68e13605-f64c-49c1-b581-17e2bca66dae",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "50248dde-6f02-4002-a641-c3ba8115cc39",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "08fd9480-4b22-4718-a6e1-f23221060c5a",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "aa633b62-fa6c-46ee-82eb-9f6c0366f0a8",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "db2bc589-ee0d-4039-ab16-f67082b643cd",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "1198243a-7887-43ab-a251-0e1cc7e1cdd7",
+          "sourceNumber": "19"
+        }
+      ]
+    },
+    {
+      "id": "0caf3db4-0dce-4860-bbf5-6cd11f42a8d9",
+      "title": "build a medieval castle",
+      "issues": [
+        {
+          "code": "question_prompt_recovered_from_instruction",
+          "severity": "info",
+          "questionId": "b2337a1b-37ff-4c74-8b86-11fa4e20f9d0",
+          "sourceNumber": "11-13"
+        }
+      ]
+    },
+    {
+      "id": "e623cea5-99c7-4725-a958-3c9698d7e291",
+      "title": "Coastal archaeology of Britain",
+      "issues": [
+        {
+          "code": "question_range_recovered_from_instruction",
+          "severity": "info",
+          "questionId": "eb12c9b1-b195-4d58-b929-635453478d8c",
+          "sourceNumber": "24",
+          "detail": {
+            "numbers": [
+              24,
+              25,
+              26
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ed7e53eb-d275-47c0-b4a0-e966f72431c5",
+      "title": "Back to wild",
+      "issues": [
+        {
+          "code": "duplicate_wording_variant_merged",
+          "severity": "info",
+          "questionId": "b3d2ea4f-83a7-426c-a730-5183a09e2442",
+          "sourceNumber": "5",
+          "detail": {
+            "retainedQuestionId": "c96c4ab7-3265-47ec-bd7a-cae3db2ad505"
+          }
+        },
+        {
+          "code": "duplicate_question_evidence_variant_removed",
+          "severity": "info",
+          "questionId": "e10e0915-bd3c-4f02-89d3-f306ee1f6cdd",
+          "sourceNumber": "10",
+          "detail": {
+            "retainedQuestionId": "6b1503ef-8967-4d4d-a5c9-595500eeb6cd"
+          }
+        },
+        {
+          "code": "duplicate_prompt_prefix_merged",
+          "severity": "info",
+          "questionId": "b2ad19d5-1c16-4a18-8e66-0e4464f9ece7",
+          "sourceNumber": "12",
+          "detail": {
+            "retainedQuestionId": "26beb99f-77c8-48a0-b9de-72a74d8d57ed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "92596896-0f5d-466a-a646-170c1f2328c5",
+      "title": "Nanotechnology: the science of the very small",
+      "issues": [
+        {
+          "code": "missing_question_prompt",
+          "severity": "error",
+          "questionId": "ba81f45e-efac-4f23-a1a1-c2d9fa92299f",
+          "sourceNumber": "9"
+        }
+      ]
+    },
+    {
+      "id": "be6eaa5c-dd55-4bc0-b831-a2548cd7eea8",
+      "title": "The history of barcodes",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "8e7fbbd7-a8f1-41e9-b81e-bd8a900e98d0",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "56acbd1e-1fe4-470b-b063-5cc4d8675a1d",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "1aabfab2-fa97-4e5d-8820-b7f76e4a82b1",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "f665a720-e895-45fe-b73d-62da53ac49c3",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "efab70ab-002e-467f-8c9a-f83c620e0843",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "a1c70aef-2dec-4913-9417-aa58a8ed46f4",
+          "sourceNumber": "19"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "81138091-aa5d-4e6d-9568-737dca3266b4",
+          "sourceNumber": "20"
+        }
+      ]
+    },
+    {
+      "id": "bc956bd1-04d3-4a86-a882-0326a25a555e",
+      "title": "The spread of news on social networks",
+      "issues": [
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "0ebc5456-3435-40e1-8294-7d4b21b7d61c",
+          "sourceNumber": "8",
+          "detail": {
+            "answers": [
+              "ratings and circulation figures"
+            ],
+            "maxWords": 3,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "50d689e1-60c9-4d48-8ee7-92a119302837",
+      "title": "Creative problem-solving",
+      "issues": [
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "fbb28f92-fa51-4018-b3b3-6fdc059a831c",
+          "sourceNumber": "24",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3866fbea-7b62-495f-910a-a4ba53ed04fd",
+      "title": "Learning by examples",
+      "issues": [
+        {
+          "code": "conflicting_source_answer_keys",
+          "severity": "error",
+          "questionId": "87bbdb74-4164-4944-83cc-5de48c351e80",
+          "sourceNumber": "11",
+          "detail": {
+            "answers": [
+              "watched",
+              "observer"
+            ],
+            "rows": 2
+          }
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "ff00d52b-16e9-4afc-a9e9-c7f351608f34",
+          "sourceNumber": "5"
+        }
+      ]
+    },
+    {
+      "id": "7c65f54f-7e91-453a-89c3-1df261b5c367",
+      "title": "Viking Ireland",
+      "issues": [
+        {
+          "code": "exact_duplicate_removed",
+          "severity": "info",
+          "questionId": "4f5c9538-752f-4b32-877a-a2ccc765af4d",
+          "sourceNumber": "17",
+          "detail": {
+            "retainedQuestionId": "161e33b7-0054-4d82-ba2b-f082f7b0122a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d65f65c8-c820-4723-b71c-f7815a0e571a",
+      "title": "Andrea Palladio:Italian Architect",
+      "issues": [
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "782357cc-eb26-4e01-9e67-1fd8dde33c55",
+          "sourceNumber": "12",
+          "detail": {
+            "answers": [
+              "Quattro Libri dell’ Architettura"
+            ],
+            "maxWords": 3,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "ba1bc9f1-c12c-48a2-af4b-7111694b0b4b",
+      "title": "The oldest leather shoe",
+      "issues": [
+        {
+          "code": "semicolon_answer_alternatives",
+          "severity": "info",
+          "questionId": "45f25ca6-ed2f-49c9-b3a2-0ed39350bbbd",
+          "sourceNumber": "9",
+          "detail": {
+            "position": 0,
+            "answers": [
+              "5,500",
+              "5500"
+            ]
+          }
+        },
+        {
+          "code": "key_exceeds_word_limit",
+          "severity": "error",
+          "questionId": "cddc66a8-631b-4928-b32d-d9a87f991307",
+          "sourceNumber": "12",
+          "detail": {
+            "answers": [
+              "600 to 700"
+            ],
+            "maxWords": 2,
+            "allowNumber": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "c4090dbe-d0ad-4abd-bfa3-36eb7d17c384",
+      "title": "The history of colours and the meanings people have given them",
+      "issues": [
+        {
+          "code": "mixed_judgement_labels",
+          "severity": "warning",
+          "questionId": "ff997e58-b641-4f7f-95ba-6d5d0c7eab22",
+          "sourceNumber": "3",
+          "detail": {
+            "options": [
+              "TRUE",
+              "NO",
+              "NOT GIVEN"
+            ],
+            "normalizedType": "tfng"
+          }
+        }
+      ]
+    },
+    {
+      "id": "da199bbe-2adf-459d-bbe6-01b203837d06",
+      "title": "A study of introvert and extrovert characters",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "3a577ea4-caef-4223-8f61-2a1d6dc35fd8",
+          "sourceNumber": "14"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "cfbdc769-b74c-4dbc-bd10-e15c1ceb6152",
+          "sourceNumber": "15"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "001638e1-5de7-4378-8877-99e21f429564",
+          "sourceNumber": "16"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "2c113e5c-33ef-47e5-904f-e19b2571e866",
+          "sourceNumber": "17"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "2da27e66-0c63-41d1-b401-2cff94ad4b69",
+          "sourceNumber": "18"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "d31d79cf-c8ab-4aa6-b60f-9be2130c8484",
+          "sourceNumber": "19"
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "f2e21af6-0cf2-4cc9-bd20-450d2a32bd45",
+          "sourceNumber": "21-22",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "56e31cb1-d435-41a0-a8dc-d1f333f90909",
+      "title": "The global effect of food systems",
+      "issues": [
+        {
+          "code": "exact_duplicate_removed",
+          "severity": "info",
+          "questionId": "a49a2dbb-92a5-4356-85e6-68c89f7219a5",
+          "sourceNumber": "16",
+          "detail": {
+            "retainedQuestionId": "7200c373-035a-43db-ac88-28080a42bf2a"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "241af043-6b19-43bc-b997-1cf4298ddf35",
+          "sourceNumber": "23-24",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "a017a822-dbc5-490c-a52b-dad0920fab1f",
+          "sourceNumber": "25-26",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "multi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "493931b8-9012-41e2-ac96-ef4a0452ae0e",
+      "title": "Mapping the mind",
+      "issues": [
+        {
+          "code": "duplicate_question_evidence_variant_removed",
+          "severity": "info",
+          "questionId": "5478bd2d-0219-4a1f-b31c-68775be4cbea",
+          "sourceNumber": "34",
+          "detail": {
+            "retainedQuestionId": "0f933c51-16c1-418a-8c1e-e0221f475426"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "85880890-125f-437d-adda-e86ac09c8042",
+          "sourceNumber": "37",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "choice"
+          }
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "f7da9c33-4554-467f-a2b2-7b2bc25ee72e",
+          "sourceNumber": "39"
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "58621f81-479f-457b-b658-a3ce64ea3ae7",
+          "sourceNumber": "40",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "choice"
+          }
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "58621f81-479f-457b-b658-a3ce64ea3ae7",
+          "sourceNumber": "40"
+        },
+        {
+          "code": "duplicate_source_number",
+          "severity": "warning",
+          "detail": {
+            "sourceNumber": "37",
+            "count": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "1b51e44a-2938-4412-8c06-754265d9129b",
+      "title": "The Pirahã people of Brazil",
+      "issues": [
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "aab6a2ef-2645-44cc-9d39-04988509f4dd",
+          "sourceNumber": "27"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "bfe70595-bd1a-4cad-9004-403de488d5fd",
+          "sourceNumber": "28"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "4f2f642d-e9a7-47df-b2f6-cc5efabd366a",
+          "sourceNumber": "29"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "c5f7b796-2428-4e6c-bc74-658c57edc1b5",
+          "sourceNumber": "30"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "3ac0a2a4-17fa-45be-b4bf-b33f5a4db130",
+          "sourceNumber": "31"
+        },
+        {
+          "code": "heading_prompt_from_paragraph",
+          "severity": "info",
+          "questionId": "37672a12-66aa-40b5-93bc-0e50063a7a30",
+          "sourceNumber": "32"
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "59490394-f1b5-41e1-bc74-6c55090454bc",
+          "sourceNumber": "38"
+        }
+      ]
+    },
+    {
+      "id": "75d0bc9b-5286-4763-aead-3c1b952ac64f",
+      "title": "Caral: an ancient South American city",
+      "issues": [
+        {
+          "code": "conflicting_source_answer_keys",
+          "severity": "error",
+          "questionId": "11c31aec-33c9-45fb-948c-7dee95ae4d98",
+          "sourceNumber": "2",
+          "detail": {
+            "answers": [
+              "TRUE",
+              "FALSE"
+            ],
+            "rows": 3
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "11c31aec-33c9-45fb-948c-7dee95ae4d98",
+          "sourceNumber": "2",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "tfng"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "4e81c573-8bcc-463b-b1b7-ab103c68938f",
+          "sourceNumber": "3",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "tfng"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "88a90e5e-69b1-451a-8d29-ce4a3117c30a",
+          "sourceNumber": "4",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "tfng"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "e673e1a1-f91b-43b6-8937-aeaf36a9c189",
+          "sourceNumber": "5",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "tfng"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "de2c5124-1340-46c9-a377-712b3bae1e78",
+          "sourceNumber": "6",
+          "detail": {
+            "sourceType": "name_match",
+            "effectiveType": "tfng"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "d3098819-38e0-4274-a157-ab4c466cb8ed",
+          "sourceNumber": "7",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "instruction_fallback",
+          "severity": "info",
+          "questionId": "d3098819-38e0-4274-a157-ab4c466cb8ed",
+          "sourceNumber": "7"
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "6cf77575-c6f1-4f28-a197-b98bff0a4423",
+          "sourceNumber": "8",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "b2efe677-6675-426e-9b05-9253157e67aa",
+          "sourceNumber": "9",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "afba6ae3-85da-4988-9b07-d20af20180e2",
+          "sourceNumber": "10",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "57361d4f-5966-48b0-bb4d-7243ad3baa90",
+          "sourceNumber": "11",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "a3058348-e92c-4c23-becf-7a9bb670527e",
+          "sourceNumber": "12",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        },
+        {
+          "code": "source_type_overridden_by_logic",
+          "severity": "info",
+          "questionId": "8e7a8359-224c-450c-ac23-7fef585c8e51",
+          "sourceNumber": "13",
+          "detail": {
+            "sourceType": "tfng",
+            "effectiveType": "text"
+          }
+        }
+      ]
+    }
+  ],
+  "readErrors": [],
+  "passageCount": 355,
+  "questionCount": 4735,
+  "statusCounts": {
+    "ready": 338,
+    "review": 17
+  },
+  "sourceFormatCounts": {
+    "api": 355
+  },
+  "sourceInstructionMissingCount": 0,
+  "issueCounts": {
+    "heading_prompt_from_paragraph": 97,
+    "key_exceeds_word_limit": 9,
+    "expanded_from_answer_slots": 2,
+    "duplicate_source_number": 2,
+    "instruction_fallback": 11,
+    "alternative_exceeds_word_limit": 1,
+    "missing_question_prompt": 4,
+    "diagram_unavailable_text_complete": 5,
+    "duplicate_prompt_prefix_merged": 2,
+    "semicolon_answer_slots": 1,
+    "source_type_overridden_by_logic": 49,
+    "missing_answer_placeholder": 2,
+    "exact_duplicate_removed": 4,
+    "option_answer_unresolved": 2,
+    "required_image_unavailable": 1,
+    "conflicting_prompt_number_corrected": 1,
+    "semicolon_answer_alternatives": 8,
+    "duplicate_question_evidence_variant_removed": 4,
+    "multi_answer_unresolved": 1,
+    "question_prompt_recovered_from_instruction": 1,
+    "question_range_recovered_from_instruction": 1,
+    "duplicate_wording_variant_merged": 1,
+    "conflicting_source_answer_keys": 2,
+    "mixed_judgement_labels": 1
+  },
+  "catalogCount": 355,
+  "importedCount": 355,
+  "pendingCount": 0,
+  "reason": "全部目录文章已导入。",
+  "generatedAt": "2026-10-30T01:40:02.380921+00:00",
+  "pending": []
+}

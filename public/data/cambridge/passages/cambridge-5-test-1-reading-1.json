@@ -1,0 +1,395 @@
+{
+  "id": "cambridge-5-test-1-reading-1",
+  "title": "Johnson's Dictionary",
+  "titleCn": "Johnson's Dictionary",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 5,
+    "test": 1
+  },
+  "sourceQuestionId": "6958",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6958",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Johnson's Dictionary"
+    },
+    {
+      "label": "2",
+      "text": "For the century before Johnson's Dictionary was published in 1775, there had been concern about the state of the English language. There was no standard way of speaking or writing and no agreement as to the best way of bringing some order to the chaos of English spelling. Dr Johnson provided the solution."
+    },
+    {
+      "label": "3",
+      "text": "There had, of course, been dictionaries in the past, the first of these being a little book of some 120 pages, compiled by a certain Robert Cawdray, published in 1604 under the title A Table Alphabeticall 'of hard usuall English wordes'. Like the various dictionaries that came after it during the seventeenth century, Cawdray's tended to concentrate on 'scholarly' words; one function of the dictionary was to enable its student to convey an impression of fine learning."
+    },
+    {
+      "label": "4",
+      "text": "Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer- lexical as well as social and commercial. It is highly appropriate that Dr Samuel Johnson, the very model of an eighteenth-century literary man, as famous in his own time as in ours, should have published his Dictionary at the very beginning of the heyday of the middle class."
+    },
+    {
+      "label": "5",
+      "text": "Johnson was a poet and critic who raised common sense to the heights of genius. His approach to the problems that had worried writers throughout the late seventeenth and early eighteenth centuries was intensely practical. Up until his time, the task of producing a dictionary on such a large scale had seemed impossible without the establishment of an academy to make decisions about right and wrong usage. Johnson decided he did not need an academy to settle arguments about language; he would write a dictionary himself; and he would do it single-handed. Johnson signed the contract for the Dictionary with the bookseller Robert Dosley at a breakfast held at the Golden Anchor Inn near Holborn Bar on 18 June 1764. He was to be paid ￡1,575 in instalments, and from this he took money to rent 17 Gough Square, in which he set up his 'dictionary workshop'."
+    },
+    {
+      "label": "6",
+      "text": "James Boswell, his biographer, described the garret where Johnson worked as 'fitted up like a counting house' with a long desk running down the middle at which the copying clerks would work standing up. Johnson himself was stationed on a rickety chair at an 'old crazy deal table' surrounded by a chaos of borrowed books. He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation."
+    },
+    {
+      "label": "7",
+      "text": "The work was immense; filling about eighty large notebooks (and without a library to hand), Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time. He did not expect to achieve complete originality. Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis. In fact, it was very much more. Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning. He adopted his definitions on the principle of English common law-according to precedent. After its publication, his Dictionary was not seriously rivalled for over a century."
+    },
+    {
+      "label": "8",
+      "text": "After many vicissitudes the Dictionary was finally published on 15 April 1775. It was instantly recognised as a landmark throughout Europe. 'This very noble work,' wrote the leading Italian lexicographer, 'will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.' The fact that Johnson had taken on the Academies of Europe and matched them (everyone knew that forty French academics had taken forty years to produce the first French national dictionary) was cause for much English celebration."
+    },
+    {
+      "label": "9",
+      "text": "Johnson had worked for nine years, 'with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow'. For all its faults and eccentricities his two-volume work is a masterpiece and a landmark in his own words, 'setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words'. It is the cornerstone of Standard English, an achievement which, in James Boswell's words, 'conferred stability on the language of his country'."
+    },
+    {
+      "label": "10",
+      "text": "The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George Ⅲ to offer him a pension. From then on, he was to become the Johnson of folklore."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "multi",
+      "instruction": "Questions 1-3\n\nChoose THREE correct answers.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Which THREE of the following statements are true of Johnson's Dictionary?",
+          "answers": [
+            "D",
+            "E",
+            "G"
+          ],
+          "sourceCode": "Q6958_335963",
+          "options": [
+            {
+              "value": "A",
+              "text": "It avoided all scholarly words."
+            },
+            {
+              "value": "B",
+              "text": "It was the only English dictionary in general use for 200 years."
+            },
+            {
+              "value": "C",
+              "text": "It was famous because of the large number of people involved."
+            },
+            {
+              "value": "D",
+              "text": "It focused mainly on language from contemporary texts."
+            },
+            {
+              "value": "E",
+              "text": "There was a time limit for its completion."
+            },
+            {
+              "value": "F",
+              "text": "It ignored work done by previous dictionary writers."
+            },
+            {
+              "value": "G",
+              "text": "It took into account subtleties of meaning."
+            },
+            {
+              "value": "H",
+              "text": "Its definitions were famous for their originality."
+            }
+          ],
+          "explanation": "A：约翰逊的字典不开了所有学术词汇。\n\nall太绝对，所以不选\n\nB：约翰逊的字典是唯一一本被广泛使用了二百年的字典。\n\nonly太绝对，不会入选\n\nC：约翰逊的字典之所以出名是因为参与编纂的人员众多。\n\n第四段：Johnson decided he did not need an academy to settle arguments…一句证明约翰逊并未招聘很多人员\n\nD：约翰逊字典主要集中于当代文本中的语言。\n\n第六段：…and illustrated their many meanings with some 114,000 quotations drawn from the Elizabethans to his own time.\n\nE：字典完工有时限。\n\n第六段：Working to a deadline, ...\n\nF：约翰逊字典忽略了以前字典编纂者的工作。\n\n第六段：... he had to draw on the best of all previous\n\ndictionaries.与原文矛盾，故不选\n\nG：约翰逊字典讲述了词义的细微差别。\n\nUnlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning.\n\nH：约翰逊字典的解释以原创性著称。\n\n第六段：He did not expect to achieve complete originality.与原文矛盾，故不选",
+          "setId": "Q6958_335963",
+          "blockId": "Q6958_335963"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Which THREE of the following statements are true of Johnson's Dictionary?",
+          "answers": [
+            "D",
+            "E",
+            "G"
+          ],
+          "sourceCode": "Q6958_335963",
+          "options": [
+            {
+              "value": "A",
+              "text": "It avoided all scholarly words."
+            },
+            {
+              "value": "B",
+              "text": "It was the only English dictionary in general use for 200 years."
+            },
+            {
+              "value": "C",
+              "text": "It was famous because of the large number of people involved."
+            },
+            {
+              "value": "D",
+              "text": "It focused mainly on language from contemporary texts."
+            },
+            {
+              "value": "E",
+              "text": "There was a time limit for its completion."
+            },
+            {
+              "value": "F",
+              "text": "It ignored work done by previous dictionary writers."
+            },
+            {
+              "value": "G",
+              "text": "It took into account subtleties of meaning."
+            },
+            {
+              "value": "H",
+              "text": "Its definitions were famous for their originality."
+            }
+          ],
+          "explanation": "A：约翰逊的字典不开了所有学术词汇。\n\nall太绝对，所以不选\n\nB：约翰逊的字典是唯一一本被广泛使用了二百年的字典。\n\nonly太绝对，不会入选\n\nC：约翰逊的字典之所以出名是因为参与编纂的人员众多。\n\n第四段：Johnson decided he did not need an academy to settle arguments…一句证明约翰逊并未招聘很多人员\n\nD：约翰逊字典主要集中于当代文本中的语言。\n\n第六段：…and illustrated their many meanings with some 114,000 quotations drawn from the Elizabethans to his own time.\n\nE：字典完工有时限。\n\n第六段：Working to a deadline, ...\n\nF：约翰逊字典忽略了以前字典编纂者的工作。\n\n第六段：... he had to draw on the best of all previous\n\ndictionaries.与原文矛盾，故不选\n\nG：约翰逊字典讲述了词义的细微差别。\n\nUnlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning.\n\nH：约翰逊字典的解释以原创性著称。\n\n第六段：He did not expect to achieve complete originality.与原文矛盾，故不选",
+          "setId": "Q6958_335963",
+          "blockId": "Q6958_335963"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Which THREE of the following statements are true of Johnson's Dictionary?",
+          "answers": [
+            "D",
+            "E",
+            "G"
+          ],
+          "sourceCode": "Q6958_335963",
+          "options": [
+            {
+              "value": "A",
+              "text": "It avoided all scholarly words."
+            },
+            {
+              "value": "B",
+              "text": "It was the only English dictionary in general use for 200 years."
+            },
+            {
+              "value": "C",
+              "text": "It was famous because of the large number of people involved."
+            },
+            {
+              "value": "D",
+              "text": "It focused mainly on language from contemporary texts."
+            },
+            {
+              "value": "E",
+              "text": "There was a time limit for its completion."
+            },
+            {
+              "value": "F",
+              "text": "It ignored work done by previous dictionary writers."
+            },
+            {
+              "value": "G",
+              "text": "It took into account subtleties of meaning."
+            },
+            {
+              "value": "H",
+              "text": "Its definitions were famous for their originality."
+            }
+          ],
+          "explanation": "A：约翰逊的字典不开了所有学术词汇。\n\nall太绝对，所以不选\n\nB：约翰逊的字典是唯一一本被广泛使用了二百年的字典。\n\nonly太绝对，不会入选\n\nC：约翰逊的字典之所以出名是因为参与编纂的人员众多。\n\n第四段：Johnson decided he did not need an academy to settle arguments…一句证明约翰逊并未招聘很多人员\n\nD：约翰逊字典主要集中于当代文本中的语言。\n\n第六段：…and illustrated their many meanings with some 114,000 quotations drawn from the Elizabethans to his own time.\n\nE：字典完工有时限。\n\n第六段：Working to a deadline, ...\n\nF：约翰逊字典忽略了以前字典编纂者的工作。\n\n第六段：... he had to draw on the best of all previous\n\ndictionaries.与原文矛盾，故不选\n\nG：约翰逊字典讲述了词义的细微差别。\n\nUnlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning.\n\nH：约翰逊字典的解释以原创性著称。\n\n第六段：He did not expect to achieve complete originality.与原文矛盾，故不选",
+          "setId": "Q6958_335963",
+          "blockId": "Q6958_335963"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "It avoided all scholarly words."
+        },
+        {
+          "value": "B",
+          "text": "It was the only English dictionary in general use for 200 years."
+        },
+        {
+          "value": "C",
+          "text": "It was famous because of the large number of people involved."
+        },
+        {
+          "value": "D",
+          "text": "It focused mainly on language from contemporary texts."
+        },
+        {
+          "value": "E",
+          "text": "There was a time limit for its completion."
+        },
+        {
+          "value": "F",
+          "text": "It ignored work done by previous dictionary writers."
+        },
+        {
+          "value": "G",
+          "text": "It took into account subtleties of meaning."
+        },
+        {
+          "value": "H",
+          "text": "Its definitions were famous for their originality."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 4-7\n\nComplete the summary below.\n\nWrite NO MORE THAN TWO WORDS in each gap.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Answer for gap 4.",
+          "answers": [
+            "clerks",
+            "copying clerks"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6958_177392",
+          "explanation": "题号：4\n\n定位词：1764, a number of, who stood at\n\n在第四段中先找到1764，然后找到第五段-a number of要求其后填名词复数形式，而此空后面的非限制性定语从句who又限定要填一个关于人的名词。故对应第五段中:...with a long desk running down the middle at which the copying clerks would work standing up. 一句正确答案是copying clerks或clerks\n\n题号：5\n\n定位词：did not have a, 40,000\n\n第六段：40,000前后，数字40 ,000是一个很好的定位词。随后找到：The work was immense: filling about eighty large note-books (and without a library to hand), Johnson wrote the definitions of over 40,000 word...\n\n正确答案是library\n\n题号：6\n\n定位词：James Boswell\n\n第八段：in James Boswell's words…\n\n此考点与上一考点隔得较远，不过好在有James Boswell的名字可以帮忙定位。\n\nIt is the cornerstone of Standard English, an achievement which, in James Boswell' s words,' conferred stability on the language of his country\".\n\n正确答案是stability\n\n题号：7\n\n定位词：King\n\n最后一段：King George III-第九段：The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George II to offer him a pension.\n\n故正确答案是pension",
+          "promptHtml": "Answer for gap 4."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Answer for gap 5.",
+          "answers": [
+            "library"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6958_681779",
+          "explanation": "题号：4\n\n定位词：1764, a number of, who stood at\n\n在第四段中先找到1764，然后找到第五段-a number of要求其后填名词复数形式，而此空后面的非限制性定语从句who又限定要填一个关于人的名词。故对应第五段中:...with a long desk running down the middle at which the copying clerks would work standing up. 一句正确答案是copying clerks或clerks\n\n题号：5\n\n定位词：did not have a, 40,000\n\n第六段：40,000前后，数字40 ,000是一个很好的定位词。随后找到：The work was immense: filling about eighty large note-books (and without a library to hand), Johnson wrote the definitions of over 40,000 word...\n\n正确答案是library\n\n题号：6\n\n定位词：James Boswell\n\n第八段：in James Boswell's words…\n\n此考点与上一考点隔得较远，不过好在有James Boswell的名字可以帮忙定位。\n\nIt is the cornerstone of Standard English, an achievement which, in James Boswell' s words,' conferred stability on the language of his country\".\n\n正确答案是stability\n\n题号：7\n\n定位词：King\n\n最后一段：King George III-第九段：The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George II to offer him a pension.\n\n故正确答案是pension",
+          "promptHtml": "Answer for gap 5."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Answer for gap 6.",
+          "answers": [
+            "stability"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6958_293958",
+          "explanation": "题号：4\n\n定位词：1764, a number of, who stood at\n\n在第四段中先找到1764，然后找到第五段-a number of要求其后填名词复数形式，而此空后面的非限制性定语从句who又限定要填一个关于人的名词。故对应第五段中:...with a long desk running down the middle at which the copying clerks would work standing up. 一句正确答案是copying clerks或clerks\n\n题号：5\n\n定位词：did not have a, 40,000\n\n第六段：40,000前后，数字40 ,000是一个很好的定位词。随后找到：The work was immense: filling about eighty large note-books (and without a library to hand), Johnson wrote the definitions of over 40,000 word...\n\n正确答案是library\n\n题号：6\n\n定位词：James Boswell\n\n第八段：in James Boswell's words…\n\n此考点与上一考点隔得较远，不过好在有James Boswell的名字可以帮忙定位。\n\nIt is the cornerstone of Standard English, an achievement which, in James Boswell' s words,' conferred stability on the language of his country\".\n\n正确答案是stability\n\n题号：7\n\n定位词：King\n\n最后一段：King George III-第九段：The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George II to offer him a pension.\n\n故正确答案是pension",
+          "promptHtml": "Answer for gap 6."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Answer for gap 7.",
+          "answers": [
+            "pension"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6958_437519",
+          "explanation": "题号：4\n\n定位词：1764, a number of, who stood at\n\n在第四段中先找到1764，然后找到第五段-a number of要求其后填名词复数形式，而此空后面的非限制性定语从句who又限定要填一个关于人的名词。故对应第五段中:...with a long desk running down the middle at which the copying clerks would work standing up. 一句正确答案是copying clerks或clerks\n\n题号：5\n\n定位词：did not have a, 40,000\n\n第六段：40,000前后，数字40 ,000是一个很好的定位词。随后找到：The work was immense: filling about eighty large note-books (and without a library to hand), Johnson wrote the definitions of over 40,000 word...\n\n正确答案是library\n\n题号：6\n\n定位词：James Boswell\n\n第八段：in James Boswell's words…\n\n此考点与上一考点隔得较远，不过好在有James Boswell的名字可以帮忙定位。\n\nIt is the cornerstone of Standard English, an achievement which, in James Boswell' s words,' conferred stability on the language of his country\".\n\n正确答案是stability\n\n题号：7\n\n定位词：King\n\n最后一段：King George III-第九段：The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George II to offer him a pension.\n\n故正确答案是pension",
+          "promptHtml": "Answer for gap 7."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>In 1764 Dr Johnson accepted the contract to produce a dictionary. Having rented a garret, he took on a number of <strong>[4] ______</strong> , who stood at a long central desk. Johnson did not have a <strong>[5] ______</strong> available to him, but eventually produced definitions of in excess of 40,000 words written down in 80 large notebooks. On publication, the Dictionary was immediately hailed in many European countries as a landmark. According to his biographer, James Boswell, Johnson&#x27;s principal achievement was to bring <strong>[6] ______</strong>to the English language. As a reward for his hard work, he was granted a <strong>[7] ______</strong>by the king.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "instruction": "Questions 8-13\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "The growing importance of the middle classes led to an increased demand for dictionaries.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6958_685932",
+          "explanation": "参考译文：中产阶级渐渐崛起引发了对字典日渐增长的需求。\n\n定位词：middle classes\n\n解题关键词：led to, increased demand\n\n文中对应第三段：It is highly appropriate that Dr Samuel Johnson ... published his Dictionary at the very beginning of the heyday of the middle class.\n\nheyday一词是理解本题的关键，意思是全盛时期。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Johnson has become more well known since his death.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6958_978795",
+          "explanation": "参考译文：约翰逊过世后更加声名鹊起。\n\n定位词：Johnson, death\n\n解题关键词：more\n\n文中对应第三段：... famous in his own time as in ours…\n\n文中已经明确提到约翰逊爵士在当时和现代都享有盛誉,而题目却说他过世后更加出名，这显然与文章是矛盾的。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Johnson had been planning to write a dictionary for several years.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6958_111840",
+          "explanation": "参考译文：约翰逊写字典的打算由来已久。\n\n定位词：several years\n\n解题关键词：several years\n\n文中对应按照TRUE/FALSE/NOT GIVEN出题顺序原则，本题的答案应该在第四段，然而在这一段，我们却找不到任何有关这句话的信息，故应选NOT GIVEN。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Johnson set up an academy to help with the writing of his Dictionary.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6958_836373",
+          "explanation": "参考译文：为编字典，约翰逊建起了研究院。\n\n定位词：academy\n\n解题关键词：set up\n\n文中对应第四段：Johnson decided he did not need an academy to settle arguments about language.这句话正说明约翰逊并未建立研究院来协助他完成字典的编算。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Johnson only received payment for his Dictionary on its completion.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6958_541571",
+          "explanation": "参考译文：约翰逊在字典完工后才拿到报酬。\n\n定位词：payment\n\n解题关键词：only\n\n文中对应第四段：He was to be paid £ 1,575 in instalments, ...\n\n文中明确提到约翰逊得到了总价值1575英镑的分期付款，这与题目恰好是矛盾的。\n\nTIPS：带有only一词的题目，一般选FALSE。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Not all of the assistants survived to see the publication of the Dictionary.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6958_935950",
+          "explanation": "参考译文：不是所有助手都能活着看到字典付梓。\n\n定位词：assistants, publication\n\n解题关键词：not all\n\n文中对应第五段：He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation.\n\nTIPS：带有not all, not always这样部分否定结构的题目一般选TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Johnson&#x27;s Dictionary</strong></span></p><p>For the century before Johnson&#x27;s Dictionary was published in 1775, there had been concern about the state of the English language. There was no standard way of speaking or writing and no agreement as to the best way of bringing some order to the chaos of English spelling. Dr Johnson provided the solution.</p><p>There had, of course, been dictionaries in the past, the first of these being a little book of some 120 pages, compiled by a certain Robert Cawdray, published in 1604 under the title A Table Alphabeticall &#x27;of hard usuall English wordes&#x27;. Like the various dictionaries that came after it during the seventeenth century, Cawdray&#x27;s tended to concentrate on &#x27;scholarly&#x27; words; one function of the dictionary was to enable its student to convey an impression of fine learning.</p><p>Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer- lexical as well as social and commercial. It is highly appropriate that Dr Samuel Johnson, the very model of an eighteenth-century literary man, as famous in his own time as in ours, should have published his Dictionary at the very beginning of the heyday of the middle class.</p><p>Johnson was a poet and critic who raised common sense to the heights of genius. His approach to the problems that had worried writers throughout the late seventeenth and early eighteenth centuries was intensely practical. Up until his time, the task of producing a dictionary on such a large scale had seemed impossible without the establishment of an academy to make decisions about right and wrong usage. Johnson decided he did not need an academy to settle arguments about language; he would write a dictionary himself; and he would do it single-handed. Johnson signed the contract for the Dictionary with the bookseller Robert Dosley at a breakfast held at the Golden Anchor Inn near Holborn Bar on 18 June 1764. He was to be paid ￡1,575 in instalments, and from this he took money to rent 17 Gough Square, in which he set up his &#x27;dictionary workshop&#x27;.</p><p>James Boswell, his biographer, described the garret where Johnson worked as &#x27;fitted up like a counting house&#x27; with a long desk running down the middle at which the copying clerks would work standing up. Johnson himself was stationed on a rickety chair at an &#x27;old crazy deal table&#x27; surrounded by a chaos of borrowed books. He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation.</p><p>The work was immense; filling about eighty large notebooks (and without a library to hand), Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time. He did not expect to achieve complete originality. Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis. In fact, it was very much more. Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning. He adopted his definitions on the principle of English common law-according to precedent. After its publication, his Dictionary was not seriously rivalled for over a century.</p><p>After many vicissitudes the Dictionary was finally published on 15 April 1775. It was instantly recognised as a landmark throughout Europe. &#x27;This very noble work,&#x27; wrote the leading Italian lexicographer, &#x27;will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.&#x27; The fact that Johnson had taken on the Academies of Europe and matched them (everyone knew that forty French academics had taken forty years to produce the first French national dictionary) was cause for much English celebration.</p><p>Johnson had worked for nine years, &#x27;with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow&#x27;. For all its faults and eccentricities his two-volume work is a masterpiece and a landmark in his own words, &#x27;setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words&#x27;. It is the cornerstone of Standard English, an achievement which, in James Boswell&#x27;s words, &#x27;conferred stability on the language of his country&#x27;.</p><p>The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George Ⅲ to offer him a pension. From then on, he was to become the Johnson of folklore.</p>"
+}

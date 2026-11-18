@@ -1,0 +1,360 @@
+{
+  "id": "62355d2b-83e2-451d-8ab5-9d3a5fc20d09",
+  "title": "Surveys and reform in hospital",
+  "titleCn": "医院服务调查与改革",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/62355d2b-83e2-451d-8ab5-9d3a5fc20d09",
+  "duration": 346,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,900"
+    },
+    {
+      "label": "2",
+      "text": "So that brings me now to my key concluding points. I'll begin with one section of feedback from my questionnaire. As I said, I asked two hundred local people several questions about the hospital and its services. Amongst other questions, I asked which things would influence their choice of which hospital they would want to be treated in. The results were quite surprising in some cases. For instance, people felt it was really important, not the distance the hospital was from their homes, but how easy it was to get transport there. But this might be reflective of the advanced age of many of the people who took part in my survey. How modern and safe the hospital building was, was something that some people were concerned about, but this wasn't quoted often enough to make it significant. How clean it was, however, certainly was. One in two people surveyed listed this as a major concern."
+    },
+    {
+      "label": "3",
+      "text": "00:00:58,160"
+    },
+    {
+      "label": "4",
+      "text": "People also said it was important for them to know that a member of the hospital staff would be prepared to give them information they needed about their treatment before they had it too."
+    },
+    {
+      "label": "5",
+      "text": "00:01:08,340"
+    },
+    {
+      "label": "6",
+      "text": "I think the hospital should make every effort to address these issues, and I've agreed to report them to the hospital authorities."
+    },
+    {
+      "label": "7",
+      "text": "00:01:15,600"
+    },
+    {
+      "label": "8",
+      "text": "Okay, now for some changes that are going to take place over the next twelve months. I interviewed two key hospital management staff, and they said that there is a plan to add to the existing hospital website to advise doctors who practice in the area as well as on-site staff of changes and developments in hospital services. They also said that a scheme to celebrate success and recognize effort for particular staff is being introduced. I thought this was a really good idea. It hasn't been decided yet what form this will take, but it's likely to be a bonus of some kind, I think. Wage rises for all are always welcome too, of course."
+    },
+    {
+      "label": "9",
+      "text": "00:01:56,860"
+    },
+    {
+      "label": "10",
+      "text": "Another idea that the hospital management want to introduce is to find a way to assess the views of visitors to the hospital, people coming in to see their friends or relatives who are patients there."
+    },
+    {
+      "label": "11",
+      "text": "00:02:08,240"
+    },
+    {
+      "label": "12",
+      "text": "They'll be asked to comment on all kinds of topics from the layout of the hospital to the friendliness of staff. So in theory, at least, the hospital is listening, and the hospital will be looking at how good the communication is between managers and staff, and in turn, that between staff and patients."
+    },
+    {
+      "label": "13",
+      "text": "00:02:27,470"
+    },
+    {
+      "label": "14",
+      "text": "Necessary actions will be fed into future development plans."
+    },
+    {
+      "label": "15",
+      "text": "00:02:31,920"
+    },
+    {
+      "label": "16",
+      "text": "I thought this was really good practice, too. If you can't take proper professional care of your staff, how can they take proper professional care of the patients?"
+    },
+    {
+      "label": "17",
+      "text": "00:02:42,680"
+    },
+    {
+      "label": "18",
+      "text": "So after analyzing the completed questionnaires and talking to hospital staff members, I'd like to end my presentation with the following recommendations."
+    },
+    {
+      "label": "19",
+      "text": "00:02:52,860"
+    },
+    {
+      "label": "20",
+      "text": "At the moment, people have to travel to another hospital that's sixty miles away for treatment of illnesses associated with interrupted sleep. So a unit to support that would be really useful, I think."
+    },
+    {
+      "label": "21",
+      "text": "00:03:05,660"
+    },
+    {
+      "label": "22",
+      "text": "I'd also suggest investigating the possibility of funding a new plastic surgery unit because that's another service that patients cannot receive locally."
+    },
+    {
+      "label": "23",
+      "text": "00:03:15,240"
+    },
+    {
+      "label": "24",
+      "text": "There is already a new eye unit, which staff told me is very welcome in the community. And lastly, the hospital is adequately equipped with operating theaters in ratio to the number of patients treated there. So equipment and space isn't a problem, but many of them are empty for long periods of time. If better planning was implemented, these and other facilities could be in use twenty-four hours a day. Right. If anyone wants to ask me a question, I'll try to..."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "ba224dbf-5188-4f80-9992-1cbb51afc5ad",
+          "prompt": "**Major factors for people to consider when they choose a hospital**\nFirst: **31**_____ is convenient",
+          "answers": [
+            "transport"
+          ],
+          "rawAnswer": "transport",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For instance, people felt it was really important, not the distance the hospital was from their homes, but how easy it was to get transport there"
+          },
+          "keywordPairs": [
+            {
+              "question": "convenient",
+              "article": "easy"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "bfe644f1-3bc5-4f27-ad1e-5349cf232ab1",
+          "prompt": "Second: Some people consider the building should be modern, while more people agree that the hospital building should be **32**_____",
+          "answers": [
+            "clean"
+          ],
+          "rawAnswer": "clean",
+          "evidence": {
+            "paragraph": "",
+            "quote": "How modern and safe the hospital building was, was something that some people were concerned about, but this wasn't quoted often enough to make it significant. How clean it was, however, certainly was"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "1017c75e-58cf-4361-a3cf-a182ed3f5a74",
+          "prompt": "Hospitals should provide **33**_____ to patients prior to treatment.",
+          "answers": [
+            "information"
+          ],
+          "rawAnswer": "information",
+          "evidence": {
+            "paragraph": "",
+            "quote": "People also said it was important for them to know that a member of the hospital staff would be prepared to give them information they needed about their treatment before they had it too"
+          },
+          "keywordPairs": [
+            {
+              "question": "provide",
+              "article": "give"
+            },
+            {
+              "question": "prior to",
+              "article": "before"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "e5097061-1b22-4629-a5ac-7c2208d8fc06",
+          "prompt": "**Future plan for hospitals**\nTo build up new web pages for doctors and **34**_____",
+          "answers": [
+            "medical staff"
+          ],
+          "rawAnswer": "medical staff",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I interviewed two key hospital management staff, and they said that there is a plan to add to the existing hospital website to advise doctors who practice in the area as well as on-site staff of changes and developments in hospital services"
+          },
+          "keywordPairs": [
+            {
+              "question": "build up",
+              "article": "add to"
+            },
+            {
+              "question": "and",
+              "article": "as well as"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "44407495-dd51-4a64-871d-a444f871c0ac",
+          "prompt": "To award staff with effective **35**_____",
+          "answers": [
+            "bonus"
+          ],
+          "rawAnswer": "bonus",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It hasn't been decided yet what form this will take, but it's likely to be a bonus of some kind, I think"
+          },
+          "keywordPairs": [],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "2844cb41-d5f3-4008-b37f-49374433bb2c",
+          "prompt": "To set up an opinion scheme help **36**_____ assess the hospital",
+          "answers": [
+            "visitors"
+          ],
+          "rawAnswer": "visitors",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another idea that the hospital management want to introduce is to find a way to assess the views of visitors to the hospital, people coming in to see their friends or relatives who are patients there"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "39d74bdc-1db8-40fb-a898-b193eb231d33",
+          "prompt": "To improve **37**_____ from all levels",
+          "answers": [
+            "communication"
+          ],
+          "rawAnswer": "communication",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So in theory, at least, the hospital is listening, and the hospital will be looking at how good the communication is between managers and staff, and in turn, that between staff and patients"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "cc3dd697-fd28-4a54-b5e1-b1cd0116a8be",
+          "prompt": "**A new unit will be built soon**\nTo help patients who have **38**_____",
+          "answers": [
+            "sleep disturbance"
+          ],
+          "rawAnswer": "sleep disturbance",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At the moment, people have to travel to another hospital that's sixty miles away for treatment of illnesses associated with interrupted sleep"
+          },
+          "keywordPairs": [
+            {
+              "question": "disturbance",
+              "article": "interrupted"
+            },
+            {
+              "question": "have",
+              "article": "associated with"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "b9f27d2d-f6c5-4de2-9ef1-6ac9db19842c",
+          "prompt": "And to help those who want to do **39**_____",
+          "answers": [
+            "plastic surgery"
+          ],
+          "rawAnswer": "plastic surgery",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I'd also suggest investigating the possibility of funding a new plastic surgery unit because that's another service that patients cannot receive locally"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "a2066883-e171-486d-bc01-74917a9843ef",
+          "prompt": "**Improvement suggestions**\nThe hospital has much equipment, the **40**_____ and appointment system for the surgery should be improved.",
+          "answers": [
+            "planning"
+          ],
+          "rawAnswer": "planning",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If better planning was implemented, these and other facilities could be in use twenty-four hours a day"
+          },
+          "keywordPairs": [
+            {
+              "question": "equipment",
+              "article": "facilities"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,900</p><p>So that brings me now to my key concluding points. I'll begin with one section of feedback from my questionnaire. As I said, I asked two hundred local people several questions about the hospital and its services. Amongst other questions, I asked which things would influence their choice of which hospital they would want to be treated in. The results were quite surprising in some cases. For instance, people felt it was really important, not the distance the hospital was from their homes, but how easy it was to get transport there. But this might be reflective of the advanced age of many of the people who took part in my survey. How modern and safe the hospital building was, was something that some people were concerned about, but this wasn't quoted often enough to make it significant. How clean it was, however, certainly was. One in two people surveyed listed this as a major concern. </p><p>00:00:58,160</p><p>People also said it was important for them to know that a member of the hospital staff would be prepared to give them information they needed about their treatment before they had it too. </p><p>00:01:08,340</p><p>I think the hospital should make every effort to address these issues, and I've agreed to report them to the hospital authorities. </p><p>00:01:15,600</p><p>Okay, now for some changes that are going to take place over the next twelve months. I interviewed two key hospital management staff, and they said that there is a plan to add to the existing hospital website to advise doctors who practice in the area as well as on-site staff of changes and developments in hospital services. They also said that a scheme to celebrate success and recognize effort for particular staff is being introduced. I thought this was a really good idea. It hasn't been decided yet what form this will take, but it's likely to be a bonus of some kind, I think. Wage rises for all are always welcome too, of course. </p><p>00:01:56,860</p><p>Another idea that the hospital management want to introduce is to find a way to assess the views of visitors to the hospital, people coming in to see their friends or relatives who are patients there. </p><p>00:02:08,240</p><p>They'll be asked to comment on all kinds of topics from the layout of the hospital to the friendliness of staff. So in theory, at least, the hospital is listening, and the hospital will be looking at how good the communication is between managers and staff, and in turn, that between staff and patients. </p><p>00:02:27,470</p><p>Necessary actions will be fed into future development plans. </p><p>00:02:31,920</p><p>I thought this was really good practice, too. If you can't take proper professional care of your staff, how can they take proper professional care of the patients? </p><p>00:02:42,680</p><p>So after analyzing the completed questionnaires and talking to hospital staff members, I'd like to end my presentation with the following recommendations. </p><p>00:02:52,860</p><p>At the moment, people have to travel to another hospital that's sixty miles away for treatment of illnesses associated with interrupted sleep. So a unit to support that would be really useful, I think. </p><p>00:03:05,660</p><p>I'd also suggest investigating the possibility of funding a new plastic surgery unit because that's another service that patients cannot receive locally. </p><p>00:03:15,240</p>There is already a new eye unit, which staff told me is very welcome in the community. And lastly, the hospital is adequately equipped with operating theaters in ratio to the number of patients treated there. So equipment and space isn't a problem, but many of them are empty for long periods of time. If better planning was implemented, these and other facilities could be in use twenty-four hours a day. Right. If anyone wants to ask me a question, I'll try to...",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/62355d2b-83e2-451d-8ab5-9d3a5fc20d09.mp3",
+    "durationSeconds": 225.984,
+    "sizeBytes": 3616275,
+    "sha256": "43ddc5255193cb124eb49c1623cdc388891e2f03b5c2de66efbefdc24f4d6b6c",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:24Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1781327610060_9klrtu_ea9cd932.mp3"
+}

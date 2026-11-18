@@ -1,0 +1,270 @@
+{
+  "id": "cambridge-16-test-1-listening-2",
+  "title": "Stevenson's site",
+  "titleCn": "Stevenson's site",
+  "subject": "listening",
+  "part": 2,
+  "duration": 417,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 1
+  },
+  "sourceQuestionId": "8352",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8352",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Good morning, everyone, and welcome to Stevenson’s, one of the country’s major manufacturers of metal goods. Thank you for choosing us for your two weeks of work experience. My name is Julia Simmons, and since the beginning of this year I’ve been the managing director."
+    },
+    {
+      "label": "2",
+      "text": "Stevenson’s is quite an old company. Like me, the founder, Ronald Stevenson, went into the steel industry when he left school – that was in 1923. He set up this company when he finished his apprenticeship, in 1926, although he actually started making plans two years earlier, in 1924. He was a very determined young man!"
+    },
+    {
+      "label": "3",
+      "text": "Stevenson’s long-term plan was to manufacture components for the machine tools industry – although in fact that never came about – and for the automotive industry, that is, cars and lorries. However, there was a delay of five years before that happened, because shortly before the company went into production, Stevenson was given the opportunity to make goods for hospitals and other players in the healthcare industry, so that’s what we did for the first five years."
+    },
+    {
+      "label": "4",
+      "text": "Over the years, we’ve expanded the premises considerably – we were lucky that the site is big enough, so moving to a new location has never been necessary. However, the layout is far from ideal for modern machinery and production methods, so we intend to carry out major refurbishment of this site over the next five years."
+    },
+    {
+      "label": "5",
+      "text": "I’d better give you some idea of what you’ll be doing during your two weeks with us, so you know what to expect. Most mornings you’ll have a presentation from one of the managers, to learn about their department, starting this morning with research and development. And you’ll all spend some time in each department, observing what’s going on and talking to people – as long as you don’t stop them from doing their work altogether! In the past, a teacher from your school has come in at the end of each week to find out how the group were getting on, but your school isn’t able to arrange that this year."
+    },
+    {
+      "label": "6",
+      "text": "OK, now I’ll briefly help you to orientate yourselves around the site. As you can see, we’re in the reception area, which we try to make attractive and welcoming to visitors. There’s a corridor running left from here, and if you go along that, the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, and that’ll be where you meet each morning."
+    },
+    {
+      "label": "7",
+      "text": "The factory is the very big room on the far side of the site. Next to it is the warehouse, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right."
+    },
+    {
+      "label": "8",
+      "text": "Somewhere you’ll be keen to find is the staff canteen. This is right next to reception. I can confidently say that the food’s very good, but the view isn’t. The windows on one side look onto a corridor and courtyard, which aren’t very attractive at all, and on the other onto the access road, which isn’t much better."
+    },
+    {
+      "label": "9",
+      "text": "You’ll be using the meeting room quite often, and you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, and I’m afraid there’s no natural daylight in the room."
+    },
+    {
+      "label": "10",
+      "text": "Then you’ll need to know where some of the offices are. The human resources department is at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the mainroad."
+    },
+    {
+      "label": "11",
+      "text": "And finally, the boardroom, where you’ll be meeting sometimes. That has quite a pleasant view, as it looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory."
+    },
+    {
+      "label": "12",
+      "text": "OK, now are there any questions before we …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "PART 2 Questions 11–20\n\nQuestions 11–14\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Stevenson’s was founded in",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8352_304030",
+          "options": [
+            {
+              "value": "A",
+              "text": "1923."
+            },
+            {
+              "value": "B",
+              "text": "1924."
+            },
+            {
+              "value": "C",
+              "text": "1926."
+            }
+          ],
+          "explanation": "11. 本题考查年份信息，错误选项易被设置为干扰项。根据题干中的founded可知需要选出公司建立的年份。原文首先出现A选项1923年，但这是创建者Ronald结束学生时代并开始在钢铁工业工作的年份。接着原文中出现了题干中founded的同义替换set up，提示答案即将出现，注意不要被长难词apprenticeship分散注意力，要注意听年份，可得出答案为C选项。最后出现的1924年为开始计划创建公司的时间，与题意不符。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Originally, Stevenson’s manufactured goods for",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8352_969241",
+          "options": [
+            {
+              "value": "A",
+              "text": "the healthcare industry."
+            },
+            {
+              "value": "B",
+              "text": "the automotive industry."
+            },
+            {
+              "value": "C",
+              "text": "the machine tools industry."
+            }
+          ],
+          "explanation": "12. 通过题干中的originally以及选项的对比，提示考生选择公司最初生产的产品领域。C选项中的machine tools最先在原文中出现，但立即通过although…never came about进行了否定。接着出现了B选项中的automotive industry，但后文出现了转折词however提示考生注意后续内容。随即出现a delay of five years提示很有可能automotive industry并不是公司最初进驻的产品领域。最后通过解释delay的原因，提到公司在为汽车领域制造产品前，曾为医疗领域生产产品，最后的that’s what we did for the first five years也能帮助再次确认答案。该题对应的原文内容较长，需要考生专心排除干扰项。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "What does the speaker say about the company premises?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8352_306547",
+          "options": [
+            {
+              "value": "A",
+              "text": "The company has recently moved."
+            },
+            {
+              "value": "B",
+              "text": "The company has no plans to move."
+            },
+            {
+              "value": "C",
+              "text": "The company is going to move shortly."
+            }
+          ],
+          "explanation": "13. 通过题干中的premises一词定位。对比选项可知需要听关于公司迁址的描述。题干premises原词重现，后文明确指出公司场地足够大，并不需要迁址，可直接选出B选项。however后提到公司布局需要改善，因此需要重新整修，但与迁址无关。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "The programme for the work experience group includes",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8352_366392",
+          "options": [
+            {
+              "value": "A",
+              "text": "time to do research."
+            },
+            {
+              "value": "B",
+              "text": "meetings with a teacher."
+            },
+            {
+              "value": "C",
+              "text": "talks by staff."
+            }
+          ],
+          "explanation": "14. 通过题干中的work experience group并对比选项可知，本题需要选出实习的学生，即此段独白的听众，在公司将要做的事情。原文中首先提到了上午往往会听不同部门的经理做陈述报告，C选项中的talks替换了原文中的presentation，staff替换了manager。后文出现了A选项中的research，但research and development指的是“研发部门”，即学生们今天早上将会听到研发部门的经理做报告，和A选项意思不符。原文中in the past后提到了B选项的meetings with a teacher，但but后的内容否定了这一选项。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 15–20\n\nLabel the map below.\n\nWrite the correct letter, A–J, next to Questions 15–20.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "coffee room [15] ______",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8352_692213",
+          "explanation": "15 coffee room 原文: …if you go along that the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, …\n\n16 warehouse 原文: …, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.\n\n17 staff canteen 原文: This is right next to reception. …The windows on one side look onto a corridor and courtyard, …and on the other onto the access road, …\n\n18 meeting room 原文: …you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, …there’s no natural daylight in the room.\n\n19 human resources 原文: …at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the main road.\n\n20 boardroom 原文: …looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.",
+          "promptHtml": "coffee room [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "warehouse [16] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8352_720281",
+          "explanation": "15 coffee room 原文: …if you go along that the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, …\n\n16 warehouse 原文: …, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.\n\n17 staff canteen 原文: This is right next to reception. …The windows on one side look onto a corridor and courtyard, …and on the other onto the access road, …\n\n18 meeting room 原文: …you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, …there’s no natural daylight in the room.\n\n19 human resources 原文: …at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the main road.\n\n20 boardroom 原文: …looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.",
+          "promptHtml": "warehouse [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "staff canteen [17] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8352_382186",
+          "explanation": "15 coffee room 原文: …if you go along that the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, …\n\n16 warehouse 原文: …, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.\n\n17 staff canteen 原文: This is right next to reception. …The windows on one side look onto a corridor and courtyard, …and on the other onto the access road, …\n\n18 meeting room 原文: …you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, …there’s no natural daylight in the room.\n\n19 human resources 原文: …at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the main road.\n\n20 boardroom 原文: …looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.",
+          "promptHtml": "staff canteen [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "meeting room [18] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8352_173421",
+          "explanation": "15 coffee room 原文: …if you go along that the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, …\n\n16 warehouse 原文: …, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.\n\n17 staff canteen 原文: This is right next to reception. …The windows on one side look onto a corridor and courtyard, …and on the other onto the access road, …\n\n18 meeting room 原文: …you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, …there’s no natural daylight in the room.\n\n19 human resources 原文: …at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the main road.\n\n20 boardroom 原文: …looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.",
+          "promptHtml": "meeting room [18] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "human resources [19] ______",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q8352_407435",
+          "explanation": "15 coffee room 原文: …if you go along that the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, …\n\n16 warehouse 原文: …, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.\n\n17 staff canteen 原文: This is right next to reception. …The windows on one side look onto a corridor and courtyard, …and on the other onto the access road, …\n\n18 meeting room 原文: …you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, …there’s no natural daylight in the room.\n\n19 human resources 原文: …at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the main road.\n\n20 boardroom 原文: …looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.",
+          "promptHtml": "human resources [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "boardroom [20] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8352_941575",
+          "explanation": "15 coffee room 原文: …if you go along that the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, …\n\n16 warehouse 原文: …, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.\n\n17 staff canteen 原文: This is right next to reception. …The windows on one side look onto a corridor and courtyard, …and on the other onto the access road, …\n\n18 meeting room 原文: …you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, …there’s no natural daylight in the room.\n\n19 human resources 原文: …at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the main road.\n\n20 boardroom 原文: …looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.",
+          "promptHtml": "boardroom [20] ______"
+        }
+      ],
+      "sourceType": "map",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/5cebd879ff01d46b9adf38d5a6f5bf78.png\" alt=\"原题配图\"></p>\n\n<p>coffee room <strong>[15] ______</strong></p>\n\n<p>warehouse <strong>[16] ______</strong></p>\n\n<p>staff canteen <strong>[17] ______</strong></p>\n\n<p>meeting room <strong>[18] ______</strong></p>\n\n<p>human resources <strong>[19] ______</strong></p>\n\n<p>boardroom <strong>[20] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Good morning, everyone, and welcome to Stevenson’s, one of the country’s major manufacturers of metal goods. Thank you for choosing us for your two weeks of work experience. My name is Julia Simmons, and since the beginning of this year I’ve been the managing director.</p>\n\n<p>Stevenson’s is quite an old company. Like me, the founder, Ronald Stevenson, went into the steel industry when he left school – that was in 1923. He set up this company when he finished his apprenticeship, in 1926, although he actually started making plans two years earlier, in 1924. He was a very determined young man!</p>\n\n<p>Stevenson’s long-term plan was to manufacture components for the machine tools industry – although in fact that never came about – and for the automotive industry, that is, cars and lorries. However, there was a delay of five years before that happened, because shortly before the company went into production, Stevenson was given the opportunity to make goods for hospitals and other players in the healthcare industry, so that’s what we did for the first five years.</p>\n\n<p>Over the years, we’ve expanded the premises considerably – we were lucky that the site is big enough, so moving to a new location has never been necessary. However, the layout is far from ideal for modern machinery and production methods, so we intend to carry out major refurbishment of this site over the next five years.</p>\n\n<p>I’d better give you some idea of what you’ll be doing during your two weeks with us, so you know what to expect. Most mornings you’ll have a presentation from one of the managers, to learn about their department, starting this morning with research and development. And you’ll all spend some time in each department, observing what’s going on and talking to people – as long as you don’t stop them from doing their work altogether! In the past, a teacher from your school has come in at the end of each week to find out how the group were getting on, but your school isn’t able to arrange that this year.</p>\n\n<p>OK, now I’ll briefly help you to orientate yourselves around the site. As you can see, we’re in the reception area, which we try to make attractive and welcoming to visitors. There’s a corridor running left from here, and if you go along that, the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, and that’ll be where you meet each morning.</p>\n\n<p>The factory is the very big room on the far side of the site. Next to it is the warehouse, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.</p>\n\n<p>Somewhere you’ll be keen to find is the staff canteen. This is right next to reception. I can confidently say that the food’s very good, but the view isn’t. The windows on one side look onto a corridor and courtyard, which aren’t very attractive at all, and on the other onto the access road, which isn’t much better.</p>\n\n<p>You’ll be using the meeting room quite often, and you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, and I’m afraid there’s no natural daylight in the room.</p>\n\n<p>Then you’ll need to know where some of the offices are. The human resources department is at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to. It looks out onto the mainroad.</p>\n\n<p>And finally, the boardroom, where you’ll be meeting sometimes. That has quite a pleasant view, as it looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.</p>\n\n<p>OK, now are there any questions before we …</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8352.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 417.384
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "62cd9514-5928-4cb5-b254-3412acef5541",
+  "title": "Providing IT support for university teachers",
+  "titleCn": "大学教师IT技术支持讲座",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/62cd9514-5928-4cb5-b254-3412acef5541",
+  "duration": 394,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,120"
+    },
+    {
+      "label": "2",
+      "text": "You will hear part of a lecture related to how technology contributes to education. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:48,980"
+    },
+    {
+      "label": "4",
+      "text": "Hello and welcome to today’s seminar about education. Education is a lifelong process. There is no limit on when to start and stop, and we have been using technology so much these days in each and every sector of our lives, including education. Have we ever taken out a second to wonder if it’s leaving a positive impact on our work, or it’s just that we have been relying on it so much that we’ve become used to it? Yes, there used to be some problems here."
+    },
+    {
+      "label": "5",
+      "text": "00:01:20,620"
+    },
+    {
+      "label": "6",
+      "text": "Earlier, there was a lot of debate about technology and education amongst the faculty at our school. Everyone had their own views. At first, some believed that the use of email made students and teachers interact with each other rather less, and this was not a good thing. In terms of characteristics to consider when seeking mentors, this practice involves a kind of software which allows students as well as teachers to talk and discuss with each other more easily, and they said they enjoy this way of communication. But gradually, as technology was embraced by more educational institutes, they realized the importance of technology in education. The main benefit is that there is a strong relationship with the local economy when it comes to the effectiveness of the use of IT in education. In the more developed areas, the schools and institutions have better access to more advanced technology, and the teachers are better trained to use the technology to improve the quality of their classes. In contrast, in some less developed regions and remote areas where technology is not so common, the effectiveness can’t be guaranteed."
+    },
+    {
+      "label": "7",
+      "text": "00:02:35,840"
+    },
+    {
+      "label": "8",
+      "text": "However, wherever they are, the most common example for teachers using technology in education is the usage of computers in their methods of incorporating computers into teaching. In most classrooms, the mode offers students a channel to post any work that they are proud of, whether it’s a nice photograph that they take, a case study they do, a song they record, or even just a great idea they have, so it gives them a chance to showcase their strength and build up their confidence. Many students use this feature to show the best of themselves. It also provides students an opportunity to choose what they learn on the Internet, so they no longer have to sit in the classroom listening to something they aren’t bored with, and they don’t have to wait all night trying to register for their favorite elective courses. Compared with the traditional platform, it is more flexible. The open source which the new mode provides is free for students to use when they are trying to look up online for their papers or researches, and the data will not easily be found on the Internet because only registered users have access to the database. By the way, all the materials are original works of teachers or scholars, so there is no need to worry about the quality of the content, and with the overwhelming amount of unwanted information on the Internet, this mode gives students a new search engine they can use on campus, so information like advertisements and skeptical sources will be filtered easily. This is a perfect example that can offer some hope of reducing problems. Apart from that, students can arrange their daily activities and improve their time management skills by simply ticking the boxes in the timetable online. They can set up their own starting time and their deadline for each assignment."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "3562cac7-40ce-492e-a104-d74eeb44e44d",
+          "prompt": "**Problems**\n· In the past, some people believed that the use of **31**_____ failed to help students interacts with teachers.",
+          "answers": [
+            "email"
+          ],
+          "rawAnswer": "email",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At first, some believed that the use of email made students and teachers interact with each other rather less, and this was not a good thing"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "6a108f5b-a41a-4580-bc63-ad1cf204d51b",
+          "prompt": "**Qualities of looking for mentors**\n· Students enjoy the **32**_____ with teachers.",
+          "answers": [
+            "communication"
+          ],
+          "rawAnswer": "communication",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In terms of characteristics to consider when seeking mentors, this practice involves a kind of software which allows students as well as teachers to talk and discuss with each other more easily, and they said they enjoy this way of communication"
+          },
+          "keywordPairs": [
+            {
+              "question": "Qualities of looking for",
+              "article": "characteristics to consider when seeking"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "e187f957-3381-4667-8ed1-5dec29d6087e",
+          "prompt": "**Advantages**:\n· IT in education develops a tight **33**_____ with local economy.",
+          "answers": [
+            "relationship"
+          ],
+          "rawAnswer": "relationship",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The main benefit is that there is a strong relationship with the local economy when it comes to the effectiveness of the use of IT in education"
+          },
+          "keywordPairs": [
+            {
+              "question": "Advantages",
+              "article": "The main benefit"
+            },
+            {
+              "question": "tight",
+              "article": "strong"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "5e998797-3f66-46ba-8055-03a2c7b755ba",
+          "prompt": "**For teachers**:\n· Computers are commonly to develop teaching **34**_____ .",
+          "answers": [
+            "methods"
+          ],
+          "rawAnswer": "methods",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, wherever they are, the most common example for teachers using technology in education is the usage of computers in their methods of incorporating computers into teaching"
+          },
+          "keywordPairs": [
+            {
+              "question": "develop teaching",
+              "article": "incorporating computers into teaching"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "11935a10-20ab-442d-9c6c-0afac017e8af",
+          "prompt": "· New technology builds up greater **35**_____ for students.",
+          "answers": [
+            "confidence"
+          ],
+          "rawAnswer": "confidence",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In most classrooms, the mode offers students a channel to post any work that they are proud of;so it gives them a chance to showcase their strength and build up their confidence"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "148450fb-c287-4568-8d0f-f340285e309c",
+          "prompt": "· Compared with traditional teaching, the new way is more **36**_____ .",
+          "answers": [
+            "flexible"
+          ],
+          "rawAnswer": "flexible",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Compared with the traditional platform, it is more flexible"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "34f04e9a-e3c7-44fc-ae4c-8c24fcba09f1",
+          "prompt": "· It offers students quality **37**_____ .",
+          "answers": [
+            "materials"
+          ],
+          "rawAnswer": "materials",
+          "evidence": {
+            "paragraph": "",
+            "quote": "By the way, all the materials are original works of teachers or scholars, so there is no need to worry about the quality of the content;this mode gives students a new search engine they can use on campus"
+          },
+          "keywordPairs": [
+            {
+              "question": "offers",
+              "article": "gives"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "3564042b-41bb-482e-a995-5a0cef52feb9",
+          "prompt": "**For students**:\n· It is seen as new solutions to new **38**_____ .",
+          "answers": [
+            "problems"
+          ],
+          "rawAnswer": "problems",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This is a perfect example that can offer some hope of reducing problems"
+          },
+          "keywordPairs": [
+            {
+              "question": "is seen as new solutions to",
+              "article": "offer some hope of reducing"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "825f63bc-7349-4710-bf57-b5d1032482e8",
+          "prompt": "· It nurtures **39**_____ management skills\n(Question 40 is missing)",
+          "answers": [
+            "time"
+          ],
+          "rawAnswer": "time",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Apart from that, students can arrange their daily activities and improve their time management skills by simply ticking the boxes in the timetable online"
+          },
+          "keywordPairs": [
+            {
+              "question": "nurtures",
+              "article": "improve"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        }
+      ]
+    }
+  ],
+  "questionCount": 9,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,120</p><p>You will hear part of a lecture related to how technology contributes to education. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:48,980</p><p>Hello and welcome to today’s seminar about education. Education is a lifelong process. There is no limit on when to start and stop, and we have been using technology so much these days in each and every sector of our lives, including education. Have we ever taken out a second to wonder if it’s leaving a positive impact on our work, or it’s just that we have been relying on it so much that we’ve become used to it? Yes, there used to be some problems here. </p><p>00:01:20,620</p><p>Earlier, there was a lot of debate about technology and education amongst the faculty at our school. Everyone had their own views. At first, some believed that the use of email made students and teachers interact with each other rather less, and this was not a good thing. In terms of characteristics to consider when seeking mentors, this practice involves a kind of software which allows students as well as teachers to talk and discuss with each other more easily, and they said they enjoy this way of communication. But gradually, as technology was embraced by more educational institutes, they realized the importance of technology in education. The main benefit is that there is a strong relationship with the local economy when it comes to the effectiveness of the use of IT in education. In the more developed areas, the schools and institutions have better access to more advanced technology, and the teachers are better trained to use the technology to improve the quality of their classes. In contrast, in some less developed regions and remote areas where technology is not so common, the effectiveness can’t be guaranteed. </p><p>00:02:35,840</p><p>However, wherever they are, the most common example for teachers using technology in education is the usage of computers in their methods of incorporating computers into teaching. In most classrooms, the mode offers students a channel to post any work that they are proud of, whether it’s a nice photograph that they take, a case study they do, a song they record, or even just a great idea they have, so it gives them a chance to showcase their strength and build up their confidence. Many students use this feature to show the best of themselves. It also provides students an opportunity to choose what they learn on the Internet, so they no longer have to sit in the classroom listening to something they aren’t bored with, and they don’t have to wait all night trying to register for their favorite elective courses. Compared with the traditional platform, it is more flexible. The open source which the new mode provides is free for students to use when they are trying to look up online for their papers or researches, and the data will not easily be found on the Internet because only registered users have access to the database. By the way, all the materials are original works of teachers or scholars, so there is no need to worry about the quality of the content, and with the overwhelming amount of unwanted information on the Internet, this mode gives students a new search engine they can use on campus, so information like advertisements and skeptical sources will be filtered easily. This is a perfect example that can offer some hope of reducing problems. Apart from that, students can arrange their daily activities and improve their time management skills by simply ticking the boxes in the timetable online. They can set up their own starting time and their deadline for each assignment.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/62cd9514-5928-4cb5-b254-3412acef5541.mp3",
+    "durationSeconds": 273.408,
+    "sizeBytes": 4375059,
+    "sha256": "a62c96bd54541a22f12412fcbfbea3e629ac6fc2240925cbb6b6815452ae107e",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:52:55Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775489894801_drgoly_7de3c068_f337be02.mp3"
+}

@@ -1,0 +1,277 @@
+{
+  "id": "cambridge-11-test-2-reading-1",
+  "title": "Raising the Mary Rose",
+  "titleCn": "Raising the Mary Rose",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 11,
+    "test": 2
+  },
+  "sourceQuestionId": "6785",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6785",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Raising the Mary Rose"
+    },
+    {
+      "label": "2",
+      "text": "How a sixteenth-century warship was recovered from the seabed"
+    },
+    {
+      "label": "3",
+      "text": "On 19 July 1545, English and French fleets were engaged in a sea battle off the coast of southern England in the area of water called the Solent, between Portsmouth and the Isle of Wight. Among the English vessels was a warship by the name of Mary rose. Built in Portsmouth some 35 years earlier, she had had a long and successful fighting career, and was a favourite of King Henry VIII. Accounts of what happened to the ship vary: while witnesses agree that she was not hit by the French, some maintain that she was outdated, overladen and sailing too low in the water, others that she was mishandled by undisciplined crew. What is undisputed, however, is that the Mary rose sank into the Solent that day, taking at least 500 men with her. After the battle, attempts were made to recover the ship, but these failed."
+    },
+    {
+      "label": "4",
+      "text": "The Mary rose came to rest on the seabed, lying on her starboard (right) side at an angle of approximately 60 degrees. The hull (the body of the ship) acted as a trap for the sand and mud carried by Solent currents. As a result, the starboard side filled rapidly, leaving the exposed port (left) side to be eroded by marine organisms and mechanical degradation. Because of the way the ship sank, nearly all of the starboard half survived intact. During the seventeenth and eighteenth centuries, the entire site became covered with a layer of hard grey clay, which minimised further erosion."
+    },
+    {
+      "label": "5",
+      "text": "Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear. Deane dived down, and found the equipment caught on a timber protruding slightly from the seabed. Exploring further, he uncovered several other timbers and a bronze gun. Deane continued diving on the site intermittently until 1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds."
+    },
+    {
+      "label": "6",
+      "text": "The Mary rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Club, initiated a project called 'Solent Ships'. While on paper this was a plan to examine a number of known wrecks in the Solent, what McKee really hoped for was to find the Mary rose. Ordinary search techniques proved unsatisfactory, so McKee entered into collaboration with Harold E. Edgerton, professor of electrical engineering at the Massachusetts Institute of Technology. In 1967, Edgerton's side-scan sonar systems revealed a large, unusually shaped object, which McKee believed was the Mary rose."
+    },
+    {
+      "label": "7",
+      "text": "Further excavations revealed stray pieces of timber and an iron gun. But the climax to the operation came when, on 5 May 1971, part of the ship's frame was uncovered. McKee and his team now knew for certain that they had found the wreck, but were as yet unaware that it also housed a treasure trove of beautifully preserved artefacts. Interest in the project grew, and in 1979, The Mary rose Trust was formed, with Prince Charles as its President and Dr Margaret Rule its Archaeological Director. The decision whether or not to salvage the wreck was not an easy one, although an excavation in 1978 had shown that it might be possible to raise the hull. While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available."
+    },
+    {
+      "label": "8",
+      "text": "An important factor in trying to salvage the Mary rose was that the remaining hull was an open shell. This led to an important decision being taken: namely to carry out the lifting operation in three very distinct stages. The hull was attached to a lifting frame via a network of bolts and lifting wires. The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks. These raised it a few centimetres over a period of several days, as the lifting frame rose slowly up its four legs. It was only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage. In this stage, the lifting frame was fixed to a hook attached to a crane, and the hull was lifted completely clear of the seabed and transferred underwater into the lifting cradle. This required precise positioning to locate the legs into the 'stabbing guides' of the lifting cradle. The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework. The third and final stage was to lift the entire structure into the air, by which time the hull was also supported from below. Finally, on 11 October 1982, millions of people around the world held their breath as the timber skeleton of the Mary rose was lifted clear of the water, ready to be returned home to Portsmouth."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-4\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "There is some doubt about what caused the Mary Rose to sink.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6785_491546",
+          "explanation": "参考译文：对于玛丽玫瑰号为何沉没存在一些争议。\n\n定位词：Mary Rose, sink\n\n文中对应第一段第四句：Accounts of what happened to the ship vary: while witnesses agree that she was not hit by the French, some maintain that she was outdated, overladen and sailing too low in the water, others that she was mishandled by undisciplined crew.\n\n本题说到关于玛丽玫瑰号沉没的原因,在第一段第四句中出现了关于这个内容的描述，其中可以看到while witnesses agree that... some maintain that… others that…这一结构，说明人们对于其沉没原因并没有达成共识，这与题目的描述一致，因此本题答案为TRUE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "The Mary Rose was the only ship to sink in the battle of 19 July 1545.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6785_577044",
+          "explanation": "参考译文：玛丽玫瑰号是1545年7月19日的战斗中唯一沉没的船只。\n\n定位词：19 July 1545, sink\n\n文中对应第一段第五句：What is undisputed, however, is that the Mary Rose sank into the Solent that day, taking at least 500 men with her.\n\n本题中出现的时间在原文第一段第一句中出现，而关于玛丽玫瑰号沉没的信息出现在本段第五句，上一题出题位置之后。文中只提到战舰沉没，关于“是否是唯一”这一点并没有提及，因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Most of one side of the Mary Rose lay undamaged under the sea.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6785_491961",
+          "explanation": "参考译文：玛丽玫瑰号的一侧大部分在海中没有受到破坏。\n\n定位词：one side the Mary Rose\n\n文中对应第二段第四句：Because of the way the ship sank, nearly all of the starboard half survived intact.\n\n文章第二段对玛丽玫瑰号在海底的情况进行了描述，其中第四句说到右舷一侧几乎被完整地保留了下来，这与题目中的表述一致，因此本题答案为TRUE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Alexander McKee knew that the wreck would contain many valuable historical objects.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6785_986871",
+          "explanation": "参考译文：Alexander McKee知道沉船中会有许多有价值的历史遗物。\n\n定位词：historical objects\n\n文中对应第五段第三句：McKee and his team now knew for certain that they had found the wreck, but were as yet unaware that it also housed a treasure trove of beautifully reserved artefacts.\n\n本题说McKee知道沉船中会有许多historical objects，而根据第五段第三句的描述，McKee和他的团队unaware that it also housed a treasure trove of beautifully reserved artefacts，说明他们并不知道这一情况，因此题目表述与原文相反，本题答案为FALSE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 5-8\n\nLook at the following statements (Questions 5-8) and the list of dates below.\n\nMatch each statement with the correct date, A-G.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "[5] ______ A search for the Mary Rose was launched.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6785_311623",
+          "explanation": "题号：5\n\n译文：对玛丽玫瑰号的搜索行动启动。\n\n定位词：launched\n\n文中对应第四段前两句: The Mary Rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Chub, initiated a project called 'Solent Ships'.\n\n原文中提到，1965 年，名为“索伦特海峡的船只”的项目被发起，第四段中的initiated与题目中的launched为同义替换，因此本题答案为C。\n\n题号：6\n\n译文：一个人对玛丽玫瑰号的搜索停止。\n\n定位词：stopped\n\n文中对应第三段最后一句: Deane continued diving on the site intermittently until1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds. 第四段第一句:The Mary Rose then faded into obscurity for another hundred years.\n\n文章第三段中说到John Deane在玛丽玫瑰号所在的海域进行了搜索并且发现了一系列物品，其后在第四段第一句说到之后的几百年都没有再进行这样的行为，说明Dcanc的搜索行为stopped,这与题目表述一致，时间为1840年，因此本题答案为B。\n\n题号：7\n\n译文:玛丽玫瑰号的船体打捞得到同意。\n\n定位词：Agreed\n\n文中对应第五段最后一句: While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available.\n\n根据文章第五段的描述，直到1982年1月，打捞玛丽玫瑰号船体的计划才得到许可，因此本题答案为G。\n\n题号：8\n\n译文:玛丽玫瑰号所在的地方被偶然发现。\n\n定位词：Found by chance\n\n文中对应第三段前两句: Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary Rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear.\n\n本题所说的偶然发现玛丽玫瑰号的所在地在文章第三段出现，渔民们的船只偶然发现了玛丽玫瑰号，而恰好John Deane在附近，这都与题目的表述一致，这件事情发生在1836年，因此本题答案为A。",
+          "promptHtml": "[5] ______ A search for the Mary Rose was launched."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "[6] ______ One person's exploration of the Mary Rose site stopped.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6785_831897",
+          "explanation": "题号：5\n\n译文：对玛丽玫瑰号的搜索行动启动。\n\n定位词：launched\n\n文中对应第四段前两句: The Mary Rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Chub, initiated a project called 'Solent Ships'.\n\n原文中提到，1965 年，名为“索伦特海峡的船只”的项目被发起，第四段中的initiated与题目中的launched为同义替换，因此本题答案为C。\n\n题号：6\n\n译文：一个人对玛丽玫瑰号的搜索停止。\n\n定位词：stopped\n\n文中对应第三段最后一句: Deane continued diving on the site intermittently until1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds. 第四段第一句:The Mary Rose then faded into obscurity for another hundred years.\n\n文章第三段中说到John Deane在玛丽玫瑰号所在的海域进行了搜索并且发现了一系列物品，其后在第四段第一句说到之后的几百年都没有再进行这样的行为，说明Dcanc的搜索行为stopped,这与题目表述一致，时间为1840年，因此本题答案为B。\n\n题号：7\n\n译文:玛丽玫瑰号的船体打捞得到同意。\n\n定位词：Agreed\n\n文中对应第五段最后一句: While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available.\n\n根据文章第五段的描述，直到1982年1月，打捞玛丽玫瑰号船体的计划才得到许可，因此本题答案为G。\n\n题号：8\n\n译文:玛丽玫瑰号所在的地方被偶然发现。\n\n定位词：Found by chance\n\n文中对应第三段前两句: Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary Rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear.\n\n本题所说的偶然发现玛丽玫瑰号的所在地在文章第三段出现，渔民们的船只偶然发现了玛丽玫瑰号，而恰好John Deane在附近，这都与题目的表述一致，这件事情发生在1836年，因此本题答案为A。",
+          "promptHtml": "[6] ______ One person&#x27;s exploration of the Mary Rose site stopped."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "[7] ______ It was agreed that the hull of the Mary Rose should be raised.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6785_572250",
+          "explanation": "题号：5\n\n译文：对玛丽玫瑰号的搜索行动启动。\n\n定位词：launched\n\n文中对应第四段前两句: The Mary Rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Chub, initiated a project called 'Solent Ships'.\n\n原文中提到，1965 年，名为“索伦特海峡的船只”的项目被发起，第四段中的initiated与题目中的launched为同义替换，因此本题答案为C。\n\n题号：6\n\n译文：一个人对玛丽玫瑰号的搜索停止。\n\n定位词：stopped\n\n文中对应第三段最后一句: Deane continued diving on the site intermittently until1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds. 第四段第一句:The Mary Rose then faded into obscurity for another hundred years.\n\n文章第三段中说到John Deane在玛丽玫瑰号所在的海域进行了搜索并且发现了一系列物品，其后在第四段第一句说到之后的几百年都没有再进行这样的行为，说明Dcanc的搜索行为stopped,这与题目表述一致，时间为1840年，因此本题答案为B。\n\n题号：7\n\n译文:玛丽玫瑰号的船体打捞得到同意。\n\n定位词：Agreed\n\n文中对应第五段最后一句: While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available.\n\n根据文章第五段的描述，直到1982年1月，打捞玛丽玫瑰号船体的计划才得到许可，因此本题答案为G。\n\n题号：8\n\n译文:玛丽玫瑰号所在的地方被偶然发现。\n\n定位词：Found by chance\n\n文中对应第三段前两句: Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary Rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear.\n\n本题所说的偶然发现玛丽玫瑰号的所在地在文章第三段出现，渔民们的船只偶然发现了玛丽玫瑰号，而恰好John Deane在附近，这都与题目的表述一致，这件事情发生在1836年，因此本题答案为A。",
+          "promptHtml": "[7] ______ It was agreed that the hull of the Mary Rose should be raised."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______ The site of the Mary Rose was found by chance.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6785_712618",
+          "explanation": "题号：5\n\n译文：对玛丽玫瑰号的搜索行动启动。\n\n定位词：launched\n\n文中对应第四段前两句: The Mary Rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Chub, initiated a project called 'Solent Ships'.\n\n原文中提到，1965 年，名为“索伦特海峡的船只”的项目被发起，第四段中的initiated与题目中的launched为同义替换，因此本题答案为C。\n\n题号：6\n\n译文：一个人对玛丽玫瑰号的搜索停止。\n\n定位词：stopped\n\n文中对应第三段最后一句: Deane continued diving on the site intermittently until1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds. 第四段第一句:The Mary Rose then faded into obscurity for another hundred years.\n\n文章第三段中说到John Deane在玛丽玫瑰号所在的海域进行了搜索并且发现了一系列物品，其后在第四段第一句说到之后的几百年都没有再进行这样的行为，说明Dcanc的搜索行为stopped,这与题目表述一致，时间为1840年，因此本题答案为B。\n\n题号：7\n\n译文:玛丽玫瑰号的船体打捞得到同意。\n\n定位词：Agreed\n\n文中对应第五段最后一句: While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available.\n\n根据文章第五段的描述，直到1982年1月，打捞玛丽玫瑰号船体的计划才得到许可，因此本题答案为G。\n\n题号：8\n\n译文:玛丽玫瑰号所在的地方被偶然发现。\n\n定位词：Found by chance\n\n文中对应第三段前两句: Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary Rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear.\n\n本题所说的偶然发现玛丽玫瑰号的所在地在文章第三段出现，渔民们的船只偶然发现了玛丽玫瑰号，而恰好John Deane在附近，这都与题目的表述一致，这件事情发生在1836年，因此本题答案为A。",
+          "promptHtml": "[8] ______ The site of the Mary Rose was found by chance."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "1836"
+        },
+        {
+          "value": "B",
+          "text": "1840"
+        },
+        {
+          "value": "C",
+          "text": "1965"
+        },
+        {
+          "value": "D",
+          "text": "1967"
+        },
+        {
+          "value": "E",
+          "text": "1971"
+        },
+        {
+          "value": "F",
+          "text": "1979"
+        },
+        {
+          "value": "G",
+          "text": "1982"
+        }
+      ],
+      "contextHtml": "<p><strong>[5] ______</strong> A search for the <em>Mary Rose</em> was launched.<br>\n<strong>[6] ______</strong> One person&#x27;s exploration of the <em>Mary Rose</em> site stopped.<br>\n<strong>[7] ______</strong> It was agreed that the hull of the <em>Mary Rose </em>should be raised.<br>\n<strong>[8] ______</strong> The site of the <em>Mary Rose </em>was found by chance.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 9-13\n\nLabel the diagram below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nWrite your answers in each gap.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "[9] ______",
+          "answers": [
+            "frame",
+            "lifting frame"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6785_895397",
+          "explanation": "题号：9\n\n定位词：attached, by wires\n\n文中对应第六段第三句：The hull was attached to a lifting frame via a network of bolts and lifting wires\n\n本题对应的是打捞船体的第一个阶段，其中定位词出现在文章第六段第三句，the hull was attached to a lifting frame与题目中attached to hull一致，而之后的wires也属于原词重现，考虑到题目的字数要求，答案为(lifting) frame。\n\n题号：10\n\n定位词：sucked into mud\n\n文中对应第六段第四句：The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks.\n\n关于被吸回泥土中的问题，在文章第六段第四句中有提及，即the problem of the hull being sucked back,这与题目对应，而关于解决这一问题的表达为wasovercomebyusing12 hydraulic jacks，因此本题答案为hydraulic jacks。\n\n题号：11\n\n定位词：legs\n\n文中对应第六段第八句：This required precise positioning to locate the legs into the stabbing guides of the lifting cradle.\n\n本题问的是legs被placed into什么地方，原文第六段第八句中的locate the legs into与题目中的legs are placed into对应，因此之后的名词结构即为应当填入的词汇，因此本题答案为stabbing guides。\n\n题号：12\n\n定位词：lowered into\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n本题说到的船体lower into与第六段第九句相对应，其中提到the lifting cradle was designed to fit the hull，通过分析这一表达来找到应当填入的名词，因此本题答案为(lifting) cradle。\n\n题号：13\n\n定位词：extra protection\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n题目中的extra protection与文章第六段第九句中的additional cushioning对应，而提供这种额外保护的是airbags，因此本题答案为airbags。",
+          "promptHtml": "[9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "[10] ______",
+          "answers": [
+            "hydraulic jacks"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6785_575899",
+          "explanation": "题号：9\n\n定位词：attached, by wires\n\n文中对应第六段第三句：The hull was attached to a lifting frame via a network of bolts and lifting wires\n\n本题对应的是打捞船体的第一个阶段，其中定位词出现在文章第六段第三句，the hull was attached to a lifting frame与题目中attached to hull一致，而之后的wires也属于原词重现，考虑到题目的字数要求，答案为(lifting) frame。\n\n题号：10\n\n定位词：sucked into mud\n\n文中对应第六段第四句：The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks.\n\n关于被吸回泥土中的问题，在文章第六段第四句中有提及，即the problem of the hull being sucked back,这与题目对应，而关于解决这一问题的表达为wasovercomebyusing12 hydraulic jacks，因此本题答案为hydraulic jacks。\n\n题号：11\n\n定位词：legs\n\n文中对应第六段第八句：This required precise positioning to locate the legs into the stabbing guides of the lifting cradle.\n\n本题问的是legs被placed into什么地方，原文第六段第八句中的locate the legs into与题目中的legs are placed into对应，因此之后的名词结构即为应当填入的词汇，因此本题答案为stabbing guides。\n\n题号：12\n\n定位词：lowered into\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n本题说到的船体lower into与第六段第九句相对应，其中提到the lifting cradle was designed to fit the hull，通过分析这一表达来找到应当填入的名词，因此本题答案为(lifting) cradle。\n\n题号：13\n\n定位词：extra protection\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n题目中的extra protection与文章第六段第九句中的additional cushioning对应，而提供这种额外保护的是airbags，因此本题答案为airbags。",
+          "promptHtml": "[10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "[11] ______",
+          "answers": [
+            "stabbing guides"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6785_433603",
+          "explanation": "题号：9\n\n定位词：attached, by wires\n\n文中对应第六段第三句：The hull was attached to a lifting frame via a network of bolts and lifting wires\n\n本题对应的是打捞船体的第一个阶段，其中定位词出现在文章第六段第三句，the hull was attached to a lifting frame与题目中attached to hull一致，而之后的wires也属于原词重现，考虑到题目的字数要求，答案为(lifting) frame。\n\n题号：10\n\n定位词：sucked into mud\n\n文中对应第六段第四句：The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks.\n\n关于被吸回泥土中的问题，在文章第六段第四句中有提及，即the problem of the hull being sucked back,这与题目对应，而关于解决这一问题的表达为wasovercomebyusing12 hydraulic jacks，因此本题答案为hydraulic jacks。\n\n题号：11\n\n定位词：legs\n\n文中对应第六段第八句：This required precise positioning to locate the legs into the stabbing guides of the lifting cradle.\n\n本题问的是legs被placed into什么地方，原文第六段第八句中的locate the legs into与题目中的legs are placed into对应，因此之后的名词结构即为应当填入的词汇，因此本题答案为stabbing guides。\n\n题号：12\n\n定位词：lowered into\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n本题说到的船体lower into与第六段第九句相对应，其中提到the lifting cradle was designed to fit the hull，通过分析这一表达来找到应当填入的名词，因此本题答案为(lifting) cradle。\n\n题号：13\n\n定位词：extra protection\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n题目中的extra protection与文章第六段第九句中的additional cushioning对应，而提供这种额外保护的是airbags，因此本题答案为airbags。",
+          "promptHtml": "[11] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "[12] ______",
+          "answers": [
+            "cradle",
+            "lifting cradle"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6785_214576",
+          "explanation": "题号：9\n\n定位词：attached, by wires\n\n文中对应第六段第三句：The hull was attached to a lifting frame via a network of bolts and lifting wires\n\n本题对应的是打捞船体的第一个阶段，其中定位词出现在文章第六段第三句，the hull was attached to a lifting frame与题目中attached to hull一致，而之后的wires也属于原词重现，考虑到题目的字数要求，答案为(lifting) frame。\n\n题号：10\n\n定位词：sucked into mud\n\n文中对应第六段第四句：The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks.\n\n关于被吸回泥土中的问题，在文章第六段第四句中有提及，即the problem of the hull being sucked back,这与题目对应，而关于解决这一问题的表达为wasovercomebyusing12 hydraulic jacks，因此本题答案为hydraulic jacks。\n\n题号：11\n\n定位词：legs\n\n文中对应第六段第八句：This required precise positioning to locate the legs into the stabbing guides of the lifting cradle.\n\n本题问的是legs被placed into什么地方，原文第六段第八句中的locate the legs into与题目中的legs are placed into对应，因此之后的名词结构即为应当填入的词汇，因此本题答案为stabbing guides。\n\n题号：12\n\n定位词：lowered into\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n本题说到的船体lower into与第六段第九句相对应，其中提到the lifting cradle was designed to fit the hull，通过分析这一表达来找到应当填入的名词，因此本题答案为(lifting) cradle。\n\n题号：13\n\n定位词：extra protection\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n题目中的extra protection与文章第六段第九句中的additional cushioning对应，而提供这种额外保护的是airbags，因此本题答案为airbags。",
+          "promptHtml": "[12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "[13] ______",
+          "answers": [
+            "air bags"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6785_164655",
+          "explanation": "题号：9\n\n定位词：attached, by wires\n\n文中对应第六段第三句：The hull was attached to a lifting frame via a network of bolts and lifting wires\n\n本题对应的是打捞船体的第一个阶段，其中定位词出现在文章第六段第三句，the hull was attached to a lifting frame与题目中attached to hull一致，而之后的wires也属于原词重现，考虑到题目的字数要求，答案为(lifting) frame。\n\n题号：10\n\n定位词：sucked into mud\n\n文中对应第六段第四句：The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks.\n\n关于被吸回泥土中的问题，在文章第六段第四句中有提及，即the problem of the hull being sucked back,这与题目对应，而关于解决这一问题的表达为wasovercomebyusing12 hydraulic jacks，因此本题答案为hydraulic jacks。\n\n题号：11\n\n定位词：legs\n\n文中对应第六段第八句：This required precise positioning to locate the legs into the stabbing guides of the lifting cradle.\n\n本题问的是legs被placed into什么地方，原文第六段第八句中的locate the legs into与题目中的legs are placed into对应，因此之后的名词结构即为应当填入的词汇，因此本题答案为stabbing guides。\n\n题号：12\n\n定位词：lowered into\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n本题说到的船体lower into与第六段第九句相对应，其中提到the lifting cradle was designed to fit the hull，通过分析这一表达来找到应当填入的名词，因此本题答案为(lifting) cradle。\n\n题号：13\n\n定位词：extra protection\n\n文中对应第六段第九句：The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework.\n\n题目中的extra protection与文章第六段第九句中的additional cushioning对应，而提供这种额外保护的是airbags，因此本题答案为airbags。",
+          "promptHtml": "[13] ______"
+        }
+      ],
+      "contextHtml": "<p><em><strong>Questions 9-13</strong><br>\nLabel the diagram below.<br>\nChoose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.<br>\nWrite your answers in each gap.</em></p>\n\n<p><em><img src=\"/api/guest/cambridge/media/images/299f27a871cbd65ae837483974a36b83.jpg\" alt=\"\"></em></p>\n<p><strong>[9] ______</strong></p>\n\n<p><strong>[10] ______</strong></p>\n\n<p><strong>[11] ______</strong></p>\n\n<p><strong>[12] ______</strong></p>\n\n<p><strong>[13] ______</strong></p>\n",
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Raising the <em>Mary Rose</em></strong></span><br>How a sixteenth-century warship was recovered from the seabed</p><p>On 19 July 1545, English and French fleets were engaged in a sea battle off the coast of southern England in the area of water called the Solent, between Portsmouth and the Isle of Wight. Among the English vessels was a warship by the name of Mary rose. Built in Portsmouth some 35 years earlier, she had had a long and successful fighting career, and was a favourite of King Henry VIII. Accounts of what happened to the ship vary: while witnesses agree that she was not hit by the French, some maintain that she was outdated, overladen and sailing too low in the water, others that she was mishandled by undisciplined crew. What is undisputed, however, is that the Mary rose sank into the Solent that day, taking at least 500 men with her. After the battle, attempts were made to recover the ship, but these failed.</p><p>The Mary rose came to rest on the seabed, lying on her starboard (right) side at an angle of approximately 60 degrees. The hull (the body of the ship) acted as a trap for the sand and mud carried by Solent currents. As a result, the starboard side filled rapidly, leaving the exposed port (left) side to be eroded by marine organisms and mechanical degradation. Because of the way the ship sank, nearly all of the starboard half survived intact. During the seventeenth and eighteenth centuries, the entire site became covered with a layer of hard grey clay, which minimised further erosion.</p><p><br>Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear. Deane dived down, and found the equipment caught on a timber protruding slightly from the seabed. Exploring further, he uncovered several other timbers and a bronze gun. Deane continued diving on the site intermittently until 1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds.</p><p><br>The Mary rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Club, initiated a project called &#x27;Solent Ships&#x27;. While on paper this was a plan to examine a number of known wrecks in the Solent, what McKee really hoped for was to find the Mary rose. Ordinary search techniques proved unsatisfactory, so McKee entered into collaboration with Harold E. Edgerton, professor of electrical engineering at the Massachusetts Institute of Technology. In 1967, Edgerton&#x27;s side-scan sonar systems revealed a large, unusually shaped object, which McKee believed was the Mary rose.</p><p><br>Further excavations revealed stray pieces of timber and an iron gun. But the climax to the operation came when, on 5 May 1971, part of the ship&#x27;s frame was uncovered. McKee and his team now knew for certain that they had found the wreck, but were as yet unaware that it also housed a treasure trove of beautifully preserved artefacts. Interest in the project grew, and in 1979, The Mary rose Trust was formed, with Prince Charles as its President and Dr Margaret Rule its Archaeological Director. The decision whether or not to salvage the wreck was not an easy one, although an excavation in 1978 had shown that it might be possible to raise the hull. While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available.</p><p><br>An important factor in trying to salvage the Mary rose was that the remaining hull was an open shell. This led to an important decision being taken: namely to carry out the lifting operation in three very distinct stages. The hull was attached to a lifting frame via a network of bolts and lifting wires. The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks. These raised it a few centimetres over a period of several days, as the lifting frame rose slowly up its four legs. It was only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage. In this stage, the lifting frame was fixed to a hook attached to a crane, and the hull was lifted completely clear of the seabed and transferred underwater into the lifting cradle. This required precise positioning to locate the legs into the &#x27;stabbing guides&#x27; of the lifting cradle. The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull&#x27;s delicate timber framework. The third and final stage was to lift the entire structure into the air, by which time the hull was also supported from below. Finally, on 11 October 1982, millions of people around the world held their breath as the timber skeleton of the Mary rose was lifted clear of the water, ready to be returned home to Portsmouth.</p>"
+}

@@ -1,0 +1,411 @@
+{
+  "id": "cambridge-19-test-2-reading-2",
+  "title": "Athletes and stress",
+  "titleCn": "Athletes and stress",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 2
+  },
+  "sourceQuestionId": "8511",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8511",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Athletes and stress"
+    },
+    {
+      "label": "2",
+      "text": "A. It isn’t easy being a professional athlete. Not only are the physical demands greater than most people could handle, athletes also face intense psychological pressure during competition. This is something that British tennis player Emma Raducanu wrote about on social media following her withdrawal from the 2021 Wimbledon tournament. Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to ‘the accumulation of the excitement and the buzz’."
+    },
+    {
+      "label": "3",
+      "text": "B. For athletes, some level of performance stress is almost unavoidable. But there are many different factors that dictate just how people’s minds and bodies respond to stressful events. Typically, stress is the result of an exchange between two factors: demands and resources. An athlete may feel stressed about an event if they feel the demands on them are greater than they can handle. These demands include the high level of physical and mental effort required to succeed, and also the athlete’s concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury. Resources, on the other hand, are a person’s ability to cope with these demands. These include factors such as the competitor’s degree of confidence, how much they believe they can control the situation’s outcome, and whether they’re looking forward to the event or not."
+    },
+    {
+      "label": "4",
+      "text": "C. Each new demand or change in circumstances affects whether a person responds positively or negatively to stress. Typically, the more resources a person feels they have in handling the situation, the more positive their stress response. This positive stress response is called a challenge state. But should the person feel there are too many demands placed on them, the more likely they are to experience a negative stress response – known as a threat state. Research shows that the challenge states lead to good performance, while threat states lead to poorer performance. So, in Emma Raducanu’s case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon – but she didn’t have the resources to tackle them. This led to her experiencing a threat response."
+    },
+    {
+      "label": "5",
+      "text": "D. Our challenge and threat responses essentially influence how our body responds to stressful situations, as both affect the production of adrenaline and cortisol – also known as ‘stress hormones’. During a challenge state, adrenaline increases the amount of blood pumped from the heart and expands the blood vessels, which allows more energy to be delivered to the muscles and brain. This increase of blood and decrease of pressure in the blood vessels has been consistently related to superior sport performance in everything from cricket batting, to golf putting and football penalty taking. But during a threat state, cortisol inhibits the positive effect of adrenaline, resulting in tighter blood vessels, higher blood pressure, slower psychological responses, and a faster heart rate. In short, a threat state makes people more anxious – they make worse decisions and perform more poorly. In tennis players, cortisol has been associated with more unsuccessful serves and greater anxiety."
+    },
+    {
+      "label": "6",
+      "text": "E. That said, anxiety is also a common experience for athletes when they’re under pressure. Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath, as well as headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases. Anxiety can also reduce concentration and self-control and cause overthinking. The intensity with which a person experiences anxiety depends on the demands and resources they have. Anxiety may also manifest itself in the form of excitement or nervousness depending on the stress response. Negative stress responses can be damaging to both physical and mental health – and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression."
+    },
+    {
+      "label": "7",
+      "text": "F. But there are many ways athletes can ensure they respond positively under pressure. Positive stress responses can be promoted through the language that they and others – such as coaches or parents – use. Psychologists can also help athletes change how they see their physiological responses – such as helping them see a higher heart rate as excitement, rather than nerves. Developing psychological skills, such as visualisation, can also help decrease physiological responses to threat. Visualisation may involve the athlete recreating a mental picture of a time when they performed well, or picturing themselves doing well in the future. This can help create a feeling of control over the stressful event. Recreating competitive pressure during training can also help athletes learn how to deal with stress. An example of this might be scoring athletes against their peers to create a sense of competition. This would increase the demands which players experience compared to a normal training session, while still allowing them to practise coping with stress."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–18\n\nReading Passage 2 has six paragraphs, A–F.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A–F, in boxes 14–18 on your answer sheet.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "reference to two chemical compounds which impact on performance",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8511_596083-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "examples of strategies for minimising the effects of stress",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8511_596083-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "how a sportsperson accounted for their own experience of stress",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8511_596083-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "study results indicating links between stress responses and performance",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8511_596083-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "mention of people who can influence how athletes perceive their stress responses",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8511_596083-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 19 –22\n\nComplete the sentences below.\n\nChoose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 19–22 on your answer sheet.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Performance stress involves many demands on the athlete, for example, coping with the possible risk of [19] ______ .",
+          "answers": [
+            "injury"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8511_201238",
+          "explanation": "19. 译文：比赛压力包含对运动员的许多要求，例如，要应对可能的______风险。\n\n本题虽然没有给出数字、大写这类显眼关键词，但题干中的demands一模一样地出现在了B段里，不算难找。当然，它第一次出现的位置在B段第三句话，而考生需要耐心读到第五句才能遇到真正的答案出处；不过，紧邻空格的两个提示词possible和risk，在原文中都使用了非常基础且高频的同义替换词potential和danger，看到这里的考生应当不难确认答案就是potential dangers such as之后的injury。\n\n20. 译文：皮质醇有可能导致网球选手给出更少的优质______。\n\n本题的定位有些麻烦。虽然cortisol这个生僻词在原文中未改分毫，然而它却从D段的第一句话中就开始露脸，并高频地贯穿这一段始终。考生需要注意至少利用两组题干关键词来多点对应，才有可能更高效地利用另外一组定位词tennis player来有效定位，进而看出最后一句话里的more unsuccessful就是题干中fewer good的同义替换，由此可得空格内答案应为serves。\n\n21. 译文：心理学家可以帮助运动员将自己的生理反应视作一种积极感受产生的效果，例如______。\n\n本题距离上一题的位置较远，考生宜采用平行阅读的策略，依次阅读段意而同时兼顾三种题型的解答，在完成20题之后，虽然在接下来的整个E段中都无法找到21题的答案，却能顺利选出25~26这组多选题中的两个正确选项，以及利用F段的前两句话顺利匹配到15题和18题，然后才在本段第三句话里看到psychologists这个原词重现的题干定位词。读懂本句就不难看出，对应题干中physiological responses的就是原文中的下义描述a higher heart rate，因而空格内的答案就应当是as后面的excitement。\n\n关于本题出处句的详细分析，可以参见前文“佳句赏析”中的第五句。\n\n22. 译文：______是心理学技巧之一，可以减少运动员的压力反应。\n\n本题的定位紧邻上一题，且全文所剩篇幅不多，考生只要还有足够的阅读时间，解答这道题就会比较从容。首先，题干中的psychological technique与原文中的psychological skills之间的对应十分明显；其次，原文中的such as与题干中的example也是明显的同义替换。由此可知，跟在这个举例信号后面的具体信息，当然就是本题的答案：Visualisation。",
+          "promptHtml": "Performance stress involves many demands on the athlete, for example, coping with the possible risk of [19] ______ ."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Cortisol can cause tennis players to produce fewer good[20] ______.",
+          "answers": [
+            "serves"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8511_138000",
+          "explanation": "19. 译文：比赛压力包含对运动员的许多要求，例如，要应对可能的______风险。\n\n本题虽然没有给出数字、大写这类显眼关键词，但题干中的demands一模一样地出现在了B段里，不算难找。当然，它第一次出现的位置在B段第三句话，而考生需要耐心读到第五句才能遇到真正的答案出处；不过，紧邻空格的两个提示词possible和risk，在原文中都使用了非常基础且高频的同义替换词potential和danger，看到这里的考生应当不难确认答案就是potential dangers such as之后的injury。\n\n20. 译文：皮质醇有可能导致网球选手给出更少的优质______。\n\n本题的定位有些麻烦。虽然cortisol这个生僻词在原文中未改分毫，然而它却从D段的第一句话中就开始露脸，并高频地贯穿这一段始终。考生需要注意至少利用两组题干关键词来多点对应，才有可能更高效地利用另外一组定位词tennis player来有效定位，进而看出最后一句话里的more unsuccessful就是题干中fewer good的同义替换，由此可得空格内答案应为serves。\n\n21. 译文：心理学家可以帮助运动员将自己的生理反应视作一种积极感受产生的效果，例如______。\n\n本题距离上一题的位置较远，考生宜采用平行阅读的策略，依次阅读段意而同时兼顾三种题型的解答，在完成20题之后，虽然在接下来的整个E段中都无法找到21题的答案，却能顺利选出25~26这组多选题中的两个正确选项，以及利用F段的前两句话顺利匹配到15题和18题，然后才在本段第三句话里看到psychologists这个原词重现的题干定位词。读懂本句就不难看出，对应题干中physiological responses的就是原文中的下义描述a higher heart rate，因而空格内的答案就应当是as后面的excitement。\n\n关于本题出处句的详细分析，可以参见前文“佳句赏析”中的第五句。\n\n22. 译文：______是心理学技巧之一，可以减少运动员的压力反应。\n\n本题的定位紧邻上一题，且全文所剩篇幅不多，考生只要还有足够的阅读时间，解答这道题就会比较从容。首先，题干中的psychological technique与原文中的psychological skills之间的对应十分明显；其次，原文中的such as与题干中的example也是明显的同义替换。由此可知，跟在这个举例信号后面的具体信息，当然就是本题的答案：Visualisation。",
+          "promptHtml": "Cortisol can cause tennis players to produce fewer good[20] ______."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Psychologists can help athletes to view their physiological responses as the effect of a positive feeling such as[21] ______.",
+          "answers": [
+            "excitement"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8511_529777",
+          "explanation": "19. 译文：比赛压力包含对运动员的许多要求，例如，要应对可能的______风险。\n\n本题虽然没有给出数字、大写这类显眼关键词，但题干中的demands一模一样地出现在了B段里，不算难找。当然，它第一次出现的位置在B段第三句话，而考生需要耐心读到第五句才能遇到真正的答案出处；不过，紧邻空格的两个提示词possible和risk，在原文中都使用了非常基础且高频的同义替换词potential和danger，看到这里的考生应当不难确认答案就是potential dangers such as之后的injury。\n\n20. 译文：皮质醇有可能导致网球选手给出更少的优质______。\n\n本题的定位有些麻烦。虽然cortisol这个生僻词在原文中未改分毫，然而它却从D段的第一句话中就开始露脸，并高频地贯穿这一段始终。考生需要注意至少利用两组题干关键词来多点对应，才有可能更高效地利用另外一组定位词tennis player来有效定位，进而看出最后一句话里的more unsuccessful就是题干中fewer good的同义替换，由此可得空格内答案应为serves。\n\n21. 译文：心理学家可以帮助运动员将自己的生理反应视作一种积极感受产生的效果，例如______。\n\n本题距离上一题的位置较远，考生宜采用平行阅读的策略，依次阅读段意而同时兼顾三种题型的解答，在完成20题之后，虽然在接下来的整个E段中都无法找到21题的答案，却能顺利选出25~26这组多选题中的两个正确选项，以及利用F段的前两句话顺利匹配到15题和18题，然后才在本段第三句话里看到psychologists这个原词重现的题干定位词。读懂本句就不难看出，对应题干中physiological responses的就是原文中的下义描述a higher heart rate，因而空格内的答案就应当是as后面的excitement。\n\n关于本题出处句的详细分析，可以参见前文“佳句赏析”中的第五句。\n\n22. 译文：______是心理学技巧之一，可以减少运动员的压力反应。\n\n本题的定位紧邻上一题，且全文所剩篇幅不多，考生只要还有足够的阅读时间，解答这道题就会比较从容。首先，题干中的psychological technique与原文中的psychological skills之间的对应十分明显；其次，原文中的such as与题干中的example也是明显的同义替换。由此可知，跟在这个举例信号后面的具体信息，当然就是本题的答案：Visualisation。",
+          "promptHtml": "Psychologists can help athletes to view their physiological responses as the effect of a positive feeling such as[21] ______."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "[22] ______is an example of a psychological technique which can reduce an athlete’s stress responses.",
+          "answers": [
+            "visualisation",
+            "visualization"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8511_932743",
+          "explanation": "19. 译文：比赛压力包含对运动员的许多要求，例如，要应对可能的______风险。\n\n本题虽然没有给出数字、大写这类显眼关键词，但题干中的demands一模一样地出现在了B段里，不算难找。当然，它第一次出现的位置在B段第三句话，而考生需要耐心读到第五句才能遇到真正的答案出处；不过，紧邻空格的两个提示词possible和risk，在原文中都使用了非常基础且高频的同义替换词potential和danger，看到这里的考生应当不难确认答案就是potential dangers such as之后的injury。\n\n20. 译文：皮质醇有可能导致网球选手给出更少的优质______。\n\n本题的定位有些麻烦。虽然cortisol这个生僻词在原文中未改分毫，然而它却从D段的第一句话中就开始露脸，并高频地贯穿这一段始终。考生需要注意至少利用两组题干关键词来多点对应，才有可能更高效地利用另外一组定位词tennis player来有效定位，进而看出最后一句话里的more unsuccessful就是题干中fewer good的同义替换，由此可得空格内答案应为serves。\n\n21. 译文：心理学家可以帮助运动员将自己的生理反应视作一种积极感受产生的效果，例如______。\n\n本题距离上一题的位置较远，考生宜采用平行阅读的策略，依次阅读段意而同时兼顾三种题型的解答，在完成20题之后，虽然在接下来的整个E段中都无法找到21题的答案，却能顺利选出25~26这组多选题中的两个正确选项，以及利用F段的前两句话顺利匹配到15题和18题，然后才在本段第三句话里看到psychologists这个原词重现的题干定位词。读懂本句就不难看出，对应题干中physiological responses的就是原文中的下义描述a higher heart rate，因而空格内的答案就应当是as后面的excitement。\n\n关于本题出处句的详细分析，可以参见前文“佳句赏析”中的第五句。\n\n22. 译文：______是心理学技巧之一，可以减少运动员的压力反应。\n\n本题的定位紧邻上一题，且全文所剩篇幅不多，考生只要还有足够的阅读时间，解答这道题就会比较从容。首先，题干中的psychological technique与原文中的psychological skills之间的对应十分明显；其次，原文中的such as与题干中的example也是明显的同义替换。由此可知，跟在这个举例信号后面的具体信息，当然就是本题的答案：Visualisation。",
+          "promptHtml": "[22] ______is an example of a psychological technique which can reduce an athlete’s stress responses."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Performance stress involves many demands on the athlete, for example, coping with the possible risk of <strong>[19] ______</strong> .</p>\n\n<p>Cortisol can cause tennis players to produce fewer good<strong>[20] ______</strong>.</p>\n\n<p>Psychologists can help athletes to view their physiological responses as the effect of a positive feeling such as<strong>[21] ______</strong>.</p>\n\n<p><strong>[22] ______</strong>is an example of a psychological technique which can reduce an athlete’s stress responses.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 23 and 24\n\nChoose TWO letters, A–E.\n\nWrite the correct letters in boxes 23 and 24 on your answer sheet.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Which TWO facts about Emma Raducanu’s withdrawal from the Wimbledon tournament are mentioned in the text?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8511_738035",
+          "options": [
+            {
+              "value": "A",
+              "text": "the stage at which she dropped out of the tournament"
+            },
+            {
+              "value": "B",
+              "text": "symptoms of her performance stress at the tournament"
+            },
+            {
+              "value": "C",
+              "text": "measures which she had taken to manage her stress levels"
+            },
+            {
+              "value": "D",
+              "text": "aspects of the Wimbledon tournament which increased her stress levels"
+            },
+            {
+              "value": "E",
+              "text": "reactions to her social media posts about her experience at Wimbledon"
+            }
+          ],
+          "explanation": "译文：关于Emma Raducanu从温布尔登网球锦标赛中退赛这件事文中提到了哪两点？\n\n选项A：the stage at which she dropped out of the tournament（她退出锦标赛的具体阶段）这个选项具有一定的迷惑性，因为考生如果没有仔细读懂题干的表述、明白自己要寻找的是“这位选手到底走到了锦标赛的哪一步时退赛”这个具体细节，就可能会误以为A段最后一句话里说“虽然她在锦标赛中先前表现不错，但经历了呼吸和心跳紊乱导致退赛”就能与本项对应。实则，文中并没有给出具体是在赛程的哪个阶段里这位运动员选择了退出，因而本项并不是真正的答案。\n\n选项B：symptoms of her performance stress at the tournament（她在锦标赛中承受竞技压力的具体症状）本项正是A段最后一句里having difficulty regulating her breathing and heart rate的对应描述，因此是本组多选题的正确选项之一。\n\n选项C：measures which she had taken to manage her stress levels（她用以管理自己压力水平的若干措施）本项的内容在文章前三段里都完全不曾被提及过，是一个较容易排除掉的干扰选项。\n\n选项D：aspects of the Wimbledon tournament which increased her stress levels（温布尔登锦标赛的哪些方面增加了她的压力级别）本项对应的正是C段最后一句话所给出的描述：观众人多、期待甚高和对手强劲都令选手感到难以应对，由此考生应当可以顺利选中此项作为第二个正确答案。\n\n选项E：reactions to her social media posts about her experience at Wimbledon（对于她自己发表在社交媒体上的温布尔登参赛体验的回应）本项与C项类似，也是一条完全未在文中提及过的、子虚乌有的内容。",
+          "setId": "Q8511_738035",
+          "blockId": "Q8511_738035"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Which TWO facts about Emma Raducanu’s withdrawal from the Wimbledon tournament are mentioned in the text?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8511_738035",
+          "options": [
+            {
+              "value": "A",
+              "text": "the stage at which she dropped out of the tournament"
+            },
+            {
+              "value": "B",
+              "text": "symptoms of her performance stress at the tournament"
+            },
+            {
+              "value": "C",
+              "text": "measures which she had taken to manage her stress levels"
+            },
+            {
+              "value": "D",
+              "text": "aspects of the Wimbledon tournament which increased her stress levels"
+            },
+            {
+              "value": "E",
+              "text": "reactions to her social media posts about her experience at Wimbledon"
+            }
+          ],
+          "explanation": "译文：关于Emma Raducanu从温布尔登网球锦标赛中退赛这件事文中提到了哪两点？\n\n选项A：the stage at which she dropped out of the tournament（她退出锦标赛的具体阶段）这个选项具有一定的迷惑性，因为考生如果没有仔细读懂题干的表述、明白自己要寻找的是“这位选手到底走到了锦标赛的哪一步时退赛”这个具体细节，就可能会误以为A段最后一句话里说“虽然她在锦标赛中先前表现不错，但经历了呼吸和心跳紊乱导致退赛”就能与本项对应。实则，文中并没有给出具体是在赛程的哪个阶段里这位运动员选择了退出，因而本项并不是真正的答案。\n\n选项B：symptoms of her performance stress at the tournament（她在锦标赛中承受竞技压力的具体症状）本项正是A段最后一句里having difficulty regulating her breathing and heart rate的对应描述，因此是本组多选题的正确选项之一。\n\n选项C：measures which she had taken to manage her stress levels（她用以管理自己压力水平的若干措施）本项的内容在文章前三段里都完全不曾被提及过，是一个较容易排除掉的干扰选项。\n\n选项D：aspects of the Wimbledon tournament which increased her stress levels（温布尔登锦标赛的哪些方面增加了她的压力级别）本项对应的正是C段最后一句话所给出的描述：观众人多、期待甚高和对手强劲都令选手感到难以应对，由此考生应当可以顺利选中此项作为第二个正确答案。\n\n选项E：reactions to her social media posts about her experience at Wimbledon（对于她自己发表在社交媒体上的温布尔登参赛体验的回应）本项与C项类似，也是一条完全未在文中提及过的、子虚乌有的内容。",
+          "setId": "Q8511_738035",
+          "blockId": "Q8511_738035"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the stage at which she dropped out of the tournament"
+        },
+        {
+          "value": "B",
+          "text": "symptoms of her performance stress at the tournament"
+        },
+        {
+          "value": "C",
+          "text": "measures which she had taken to manage her stress levels"
+        },
+        {
+          "value": "D",
+          "text": "aspects of the Wimbledon tournament which increased her stress levels"
+        },
+        {
+          "value": "E",
+          "text": "reactions to her social media posts about her experience at Wimbledon"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO letters, A–E.\n\nWrite the correct letters in boxes 25 and 26 on your answer sheet.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO facts about anxiety are mentioned in Paragraph E of the text?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8511_991035",
+          "options": [
+            {
+              "value": "A",
+              "text": "the factors which determine how severe it may be"
+            },
+            {
+              "value": "B",
+              "text": "how long it takes for its effects to become apparent"
+            },
+            {
+              "value": "C",
+              "text": "which of its symptoms is most frequently encountered"
+            },
+            {
+              "value": "D",
+              "text": "the types of athletes who are most likely to suffer from it"
+            },
+            {
+              "value": "E",
+              "text": "the harm that can result if athletes experience it too often"
+            }
+          ],
+          "explanation": "译文：文章E段中提到了哪两个关于焦虑的事实？\n\n本题的指令非常明确：直接告知考生根据E段内容来作答。因此，只要足够耐心看懂原文和对比选项，考生就不难锁定两个正确选项。\n\n选项A：the factors which determine how severe it may be（决定了其程度有多严重的若干因素）本项略考查考生的词汇水平，选项中的severe在对应原文中使用了intensity；而factors在原文中也变成了两个具体的下义词demands和resources。能看出这些对应的考生，也就不难确认本项正是符合题干要求的正确选项之一。\n\n选项B：how long it takes for its effects to become apparent（它的效果需要花多久来显现）看遍E段全部内容也找不到与how long这个信息相关的表述，因此本项的干扰作用其实并不强。\n\n选项C：which of its symptoms is most frequently encountered（它的哪个症状最为高频出现）本项与上一项类似，属于子虚乌有、凭空捏造的表述。\n\n选项D：the types of athletes who are most likely to suffer from it（最容易遭受其苦的运动员类型）本题之所以难度较低，除了答案位置比较集中外，大概就是因为错误选项的干扰性都比较弱。本项与B项和C项类似，也完全不曾在原文中出现过。\n\n选项E：the harm that can result if athletes experience it too often（如果运动员频繁遭遇它将可能导致的伤害）这个选项对应的正是E段最后一句话的表述，其中too often在原文中的替换表达是repeated episodes，harm在原文中则被risk of heart disease and depression同义替换。看懂本句即可确认本项正是另一个正确答案。",
+          "setId": "Q8511_991035",
+          "blockId": "Q8511_991035"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO facts about anxiety are mentioned in Paragraph E of the text?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8511_991035",
+          "options": [
+            {
+              "value": "A",
+              "text": "the factors which determine how severe it may be"
+            },
+            {
+              "value": "B",
+              "text": "how long it takes for its effects to become apparent"
+            },
+            {
+              "value": "C",
+              "text": "which of its symptoms is most frequently encountered"
+            },
+            {
+              "value": "D",
+              "text": "the types of athletes who are most likely to suffer from it"
+            },
+            {
+              "value": "E",
+              "text": "the harm that can result if athletes experience it too often"
+            }
+          ],
+          "explanation": "译文：文章E段中提到了哪两个关于焦虑的事实？\n\n本题的指令非常明确：直接告知考生根据E段内容来作答。因此，只要足够耐心看懂原文和对比选项，考生就不难锁定两个正确选项。\n\n选项A：the factors which determine how severe it may be（决定了其程度有多严重的若干因素）本项略考查考生的词汇水平，选项中的severe在对应原文中使用了intensity；而factors在原文中也变成了两个具体的下义词demands和resources。能看出这些对应的考生，也就不难确认本项正是符合题干要求的正确选项之一。\n\n选项B：how long it takes for its effects to become apparent（它的效果需要花多久来显现）看遍E段全部内容也找不到与how long这个信息相关的表述，因此本项的干扰作用其实并不强。\n\n选项C：which of its symptoms is most frequently encountered（它的哪个症状最为高频出现）本项与上一项类似，属于子虚乌有、凭空捏造的表述。\n\n选项D：the types of athletes who are most likely to suffer from it（最容易遭受其苦的运动员类型）本题之所以难度较低，除了答案位置比较集中外，大概就是因为错误选项的干扰性都比较弱。本项与B项和C项类似，也完全不曾在原文中出现过。\n\n选项E：the harm that can result if athletes experience it too often（如果运动员频繁遭遇它将可能导致的伤害）这个选项对应的正是E段最后一句话的表述，其中too often在原文中的替换表达是repeated episodes，harm在原文中则被risk of heart disease and depression同义替换。看懂本句即可确认本项正是另一个正确答案。",
+          "setId": "Q8511_991035",
+          "blockId": "Q8511_991035"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the factors which determine how severe it may be"
+        },
+        {
+          "value": "B",
+          "text": "how long it takes for its effects to become apparent"
+        },
+        {
+          "value": "C",
+          "text": "which of its symptoms is most frequently encountered"
+        },
+        {
+          "value": "D",
+          "text": "the types of athletes who are most likely to suffer from it"
+        },
+        {
+          "value": "E",
+          "text": "the harm that can result if athletes experience it too often"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><b>Athletes and stress</b></span></span></p><p> </p><p><span><span>A.  It isn’t easy being a professional athlete. Not only are the physical demands greater than most people could handle, athletes also face intense psychological pressure during competition. This is something that British tennis player Emma Raducanu wrote about on social media following her withdrawal from the 2021 Wimbledon tournament. Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to ‘the accumulation of the excitement and the buzz’.</span></span></p><p> </p><p><span><span>B.  For athletes, some level of performance stress is almost unavoidable. But there are many different factors that dictate just how people’s minds and bodies respond to stressful events. Typically, stress is the result of an exchange between two factors: demands and resources. An athlete may feel stressed about an event if they feel the demands on them are greater than they can handle. These demands include the high level of physical and mental effort required to succeed, and also the athlete’s concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury. Resources, on the other hand, are a person’s ability to cope with these demands. These include factors such as the competitor’s degree of confidence, how much they believe they can control the situation’s outcome, and whether they’re looking forward to the event or not.</span></span></p><p> </p><p><span><span>C.  Each new demand or change in circumstances affects whether a person responds positively or negatively to stress. Typically, the more resources a person feels they have in handling the situation, the more positive their stress response. This positive stress response is called a challenge state. But should the person feel there are too many demands placed on them, the more likely they are to experience a negative stress response – known as a threat state. Research shows that the challenge states lead to good performance, while threat states lead to poorer performance. So, in Emma Raducanu’s case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon – but she didn’t have the resources to tackle them. This led to her experiencing a threat response.</span></span></p><p> </p><p><span><span>D.  Our challenge and threat responses essentially influence how our body responds to stressful situations, as both affect the production of adrenaline and cortisol – also known as ‘stress hormones’. During a challenge state, adrenaline increases the amount of blood pumped from the heart and expands the blood vessels, which allows more energy to be delivered to the muscles and brain. This increase of blood and decrease of pressure in the blood vessels has been consistently related to superior sport performance in everything from cricket batting, to golf putting and football penalty taking. But during a threat state, cortisol inhibits the positive effect of adrenaline, resulting in tighter blood vessels, higher blood pressure, slower psychological responses, and a faster heart rate. In short, a threat state makes people more anxious – they make worse decisions and perform more poorly. In tennis players, cortisol has been associated with more unsuccessful serves and greater anxiety.</span></span></p><p> </p><p><span><span>E.  That said, anxiety is also a common experience for athletes when they’re under pressure. Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath, as well as headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases. Anxiety can also reduce concentration and self-control and cause overthinking. The intensity with which a person experiences anxiety depends on the demands and resources they have. Anxiety may also manifest itself in the form of excitement or nervousness depending on the stress response. Negative stress responses can be damaging to both physical and mental health – and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.</span></span></p><p> </p><p><span><span>F.  But there are many ways athletes can ensure they respond positively under pressure. Positive stress responses can be promoted through the language that they and others – such as coaches or parents – use. Psychologists can also help athletes change how they see their physiological responses – such as helping them see a higher heart rate as excitement, rather than nerves. Developing psychological skills, such as visualisation, can also help decrease physiological responses to threat. Visualisation may involve the athlete recreating a mental picture of a time when they performed well, or picturing themselves doing well in the future. This can help create a feeling of control over the stressful event. Recreating competitive pressure during training can also help athletes learn how to deal with stress. An example of this might be scoring athletes against their peers to create a sense of competition. This would increase the demands which players experience compared to a normal training session, while still allowing them to practise coping with stress.</span></span></p>"
+}

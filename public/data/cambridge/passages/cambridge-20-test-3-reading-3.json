@@ -1,0 +1,388 @@
+{
+  "id": "cambridge-20-test-3-reading-3",
+  "title": "Robots and us",
+  "titleCn": "Robots and us",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 3
+  },
+  "sourceQuestionId": "8560",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8560",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Robots and us"
+    },
+    {
+      "label": "2",
+      "text": "Three leaders in their fields answer questions about our relationships with robot"
+    },
+    {
+      "label": "3",
+      "text": "When asked ‘Should robots be used to colonise other planets?’, cosmology and astrophysics Professor Martin Rees said he believed the solar system would be mapped by robotic craft by the end of the century. ‘The next step would be mining of asteroids, enabling fabrication of large structures in space without having to bring all the raw materials from Earth. … I think this is more realistic and benign than the … “terraforming”* of planets.’ He maintains that colonised planets ‘should be preserved with a status that is analogous to Antarctica here on Earth.’"
+    },
+    {
+      "label": "4",
+      "text": "On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied, ‘I don’t see a pressing need to colonise other planets unless we can bring [these] resources back to Earth. The vast majority of Earth is currently inaccessible to us. Using robots to gather resources nearer to home would seem to be a better use of our robotic tools.’"
+    },
+    {
+      "label": "5",
+      "text": "Meanwhile, for anthropology Professor Kathleen Richardson, the idea of ‘colonisation’ of other planets seemed morally dubious: ‘I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in “the Other”, not to impose a particular model, but to meet “the Other”.’"
+    },
+    {
+      "label": "6",
+      "text": "In response to the second question, ‘How soon will machine intelligence outstrip human intelligence?’, Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, ‘Robots are still limited in their ability to sense their environment: they can’t yet recognise and move the pieces on a real chessboard as cleverly as a child can. Later this century, however, their more advanced successors may relate to their surroundings, and to people, as adeptly as we do. Moral questions then arise. … Should we feel guilty about exploiting [sophisticated robots]? Should we fret if they are underemployed, frustrated, or bored?’"
+    },
+    {
+      "label": "7",
+      "text": "Wolpert’s response to the question about machine intelligence outstripping human intelligence was this: ‘In a limited sense it already has. Machines can already navigate, remember and search for items with an ability that far outstrips humans. However, there is no machine that can identify visual objects or speech with the reliability and flexibility of humans. … Expecting a machine close to the creative intelligence of a human within the next 50 years would be highly ambitious.’"
+    },
+    {
+      "label": "8",
+      "text": "Richardson believes that our fear of machines becoming too advanced has more to do with human nature than anything intrinsic to the machines themselves. In her view, it stems from humans’ tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat. ‘One of the consequences of thinking that the problem lies with machines is that … we tend to imagine they are greater and more powerful than they really are and subsequently they become so.’"
+    },
+    {
+      "label": "9",
+      "text": "This led on to the third question, ‘Should we be scared by advances in artificial intelligence?’ To this question, Rees replied, ‘Those who should be worried are the futurologists who believe in the so-called “singularity”.** … And another worry is that we are increasingly dependent on computer networks, and that these could behave like a single “brain” with a mind of its own, and with goals that may be contrary to human welfare. I think we should ensure that robots remain as no more than “idiot savants” lacking the capacity to outwit us, even though they may greatly surpass us in the ability to calculate and process information.’"
+    },
+    {
+      "label": "10",
+      "text": "Wolpert’s response was to say that we have already seen the damaging effects of artificial intelligence in the form of computer viruses. ‘But in this case,’ he says, ‘the real intelligence is the malicious designer. Critically, the benefits of computers outweigh the damage that computer viruses cause. Similarly, while there may be misuses of robotics in the near future, the benefits that they will bring are likely to outweigh these negative aspects.’"
+    },
+    {
+      "label": "11",
+      "text": "Richardson’s response to this question was this: ‘We need to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.’ She believes that as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will. In fact, she went on, ‘Not all fear [robots]; many people welcome machine intelligence.’"
+    },
+    {
+      "label": "12",
+      "text": "In answer to the fourth question, ‘What can science fiction tell us about robotics?’, Rees replied, ‘I sometimes advise students that it’s better to read first-rate science fiction than second-rate science – more stimulating, and perhaps no more likely to be wrong.’"
+    },
+    {
+      "label": "13",
+      "text": "As his response, Wolpert commented, ‘Science fiction has often been remarkable at predicting the future. … Science fiction has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies. Interestingly, almost no science fiction envisages a future without robots.’"
+    },
+    {
+      "label": "14",
+      "text": "Finally, on the question of science fiction, Richardson pointed out that in modern society, people tend to think there is reality on the one hand, and fiction and fantasy on the other. She then explained that the division did not always exist, and that scientists and technologists made this separation because they wanted to carve out the sphere of their work. ‘But the divide is not so clear cut, and that is why the worlds seem to collide at times,’ she said. ‘In some cases, we need to bring these different understandings together to get a whole perspective. Perhaps then, we won’t be so frightened that something we create as a copy of ourselves will be a [threat] to us.’"
+    },
+    {
+      "label": "15",
+      "text": "* terraforming: modifying a planet’s atmosphere to suit human needs"
+    },
+    {
+      "label": "16",
+      "text": "** singularity: the point when robots will be able to start creating ever more sophisticated versions of themselves"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Look at the following statements (Questions 27–33) and the list of experts below.\n\nMatch each statement with the correct expert, A, B or C.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "27. For our own safety, humans will need to restrict the abilities of robots.[27] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8560_620767",
+          "explanation": "27. 译文：为了我们自身的安全，人类将需要限制机器人的能力。\n\n题目中的观点出现在文章第七段，其中在第三四句收到了Rees认为应当确保robots remain as no more than “idiot savants” lacking the capacity to outwit us，这与题目中humans will need to restrict the abilities of robots的表述是一致的。\n\n因此本题答案为A。\n\n28. 译文：机器人伤害人类的风险没有人们想象的那么严重。\n\n关于机器人对人类的威胁，Richardson在第九段说到，机器人并没有真正risen up并且challenged human supremacy，并且她认为as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will，这与题目中表述的观点是一致的。\n\n因此本题答案为C。\n\n29. 关于machine intelligence outstrip human intelligence的问题，是本文讨论的第二个问题，在第五段中，Wolpert表达了自己的观点，并在本段最后一句表示，期待机器能在未来50年时间内接近人类的创造力是highly ambitious的，这与题目中的观点一致。\n\n因此本题答案为B。\n\n30. 译文：我们可能需要开始考虑是否在公平地对待机器人。\n\n本文第四段中，Rees提到目前机器人在一些方面相比人类更有优势，一些方面还不够先进，但随着机器人的发展，这些方面也会进步到adeptly as we do的程度，之后就会出现Moral questions，人们需要考虑是否we feel guilty about exploiting sophisticated robots，这一观点与题目中的观点一致。\n\n因此本题答案为A。\n\n31. 译文：机器人在地球上对我们的帮助可能比在太空中更大。\n\n题目中说的是与Earth和space相关的话题，由此判断对应的是原文中讨论的第一个问题，因此在前三段中进行定位，可以看到，文中第二段Wolpert的观点是并不认为我们需要colonise other planets，除非可以bring [these] resources back to Earth，并且认为gather resources nearer to home更有价值，这与题目中的观点是一致的。\n\n因此本题答案为B。\n\n32. 译文：高质量科幻作品中的想法可能会被证明与一般科学家提出的观点一样准确。\n\n题目说的是与science fiction相关的话题，因此可以在文章中对最后一个问题进行讨论的部分进行定位，其中第十段提到，first-rate science fiction的特点是more stimulating, and perhaps no more likely to be wrong，也就是说与实际发生的情况是一致的，这与题目中的观点一致。\n\n因此本题答案为A。\n\n33. 译文：有些人期待着机器人发展出更高的智能。\n\n题目中的观点出现在文章第六段第三句，其中说到we tend to imagine they are greater and more powerful than they really are，这与题目中those who look forward to robots developing greater intelligence的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "27. For our own safety, humans will need to restrict the abilities of robots.[27] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "28. The risk of robots harming us is less serious than humans believe it to be.[28] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8560_798368",
+          "explanation": "27. 译文：为了我们自身的安全，人类将需要限制机器人的能力。\n\n题目中的观点出现在文章第七段，其中在第三四句收到了Rees认为应当确保robots remain as no more than “idiot savants” lacking the capacity to outwit us，这与题目中humans will need to restrict the abilities of robots的表述是一致的。\n\n因此本题答案为A。\n\n28. 译文：机器人伤害人类的风险没有人们想象的那么严重。\n\n关于机器人对人类的威胁，Richardson在第九段说到，机器人并没有真正risen up并且challenged human supremacy，并且她认为as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will，这与题目中表述的观点是一致的。\n\n因此本题答案为C。\n\n29. 关于machine intelligence outstrip human intelligence的问题，是本文讨论的第二个问题，在第五段中，Wolpert表达了自己的观点，并在本段最后一句表示，期待机器能在未来50年时间内接近人类的创造力是highly ambitious的，这与题目中的观点一致。\n\n因此本题答案为B。\n\n30. 译文：我们可能需要开始考虑是否在公平地对待机器人。\n\n本文第四段中，Rees提到目前机器人在一些方面相比人类更有优势，一些方面还不够先进，但随着机器人的发展，这些方面也会进步到adeptly as we do的程度，之后就会出现Moral questions，人们需要考虑是否we feel guilty about exploiting sophisticated robots，这一观点与题目中的观点一致。\n\n因此本题答案为A。\n\n31. 译文：机器人在地球上对我们的帮助可能比在太空中更大。\n\n题目中说的是与Earth和space相关的话题，由此判断对应的是原文中讨论的第一个问题，因此在前三段中进行定位，可以看到，文中第二段Wolpert的观点是并不认为我们需要colonise other planets，除非可以bring [these] resources back to Earth，并且认为gather resources nearer to home更有价值，这与题目中的观点是一致的。\n\n因此本题答案为B。\n\n32. 译文：高质量科幻作品中的想法可能会被证明与一般科学家提出的观点一样准确。\n\n题目说的是与science fiction相关的话题，因此可以在文章中对最后一个问题进行讨论的部分进行定位，其中第十段提到，first-rate science fiction的特点是more stimulating, and perhaps no more likely to be wrong，也就是说与实际发生的情况是一致的，这与题目中的观点一致。\n\n因此本题答案为A。\n\n33. 译文：有些人期待着机器人发展出更高的智能。\n\n题目中的观点出现在文章第六段第三句，其中说到we tend to imagine they are greater and more powerful than they really are，这与题目中those who look forward to robots developing greater intelligence的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "28. The risk of robots harming us is less serious than humans believe it to be.[28] ______"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "29. It will take many decades for robot intelligence to be as imaginative as human intelligence.[29] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8560_755338",
+          "explanation": "27. 译文：为了我们自身的安全，人类将需要限制机器人的能力。\n\n题目中的观点出现在文章第七段，其中在第三四句收到了Rees认为应当确保robots remain as no more than “idiot savants” lacking the capacity to outwit us，这与题目中humans will need to restrict the abilities of robots的表述是一致的。\n\n因此本题答案为A。\n\n28. 译文：机器人伤害人类的风险没有人们想象的那么严重。\n\n关于机器人对人类的威胁，Richardson在第九段说到，机器人并没有真正risen up并且challenged human supremacy，并且她认为as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will，这与题目中表述的观点是一致的。\n\n因此本题答案为C。\n\n29. 关于machine intelligence outstrip human intelligence的问题，是本文讨论的第二个问题，在第五段中，Wolpert表达了自己的观点，并在本段最后一句表示，期待机器能在未来50年时间内接近人类的创造力是highly ambitious的，这与题目中的观点一致。\n\n因此本题答案为B。\n\n30. 译文：我们可能需要开始考虑是否在公平地对待机器人。\n\n本文第四段中，Rees提到目前机器人在一些方面相比人类更有优势，一些方面还不够先进，但随着机器人的发展，这些方面也会进步到adeptly as we do的程度，之后就会出现Moral questions，人们需要考虑是否we feel guilty about exploiting sophisticated robots，这一观点与题目中的观点一致。\n\n因此本题答案为A。\n\n31. 译文：机器人在地球上对我们的帮助可能比在太空中更大。\n\n题目中说的是与Earth和space相关的话题，由此判断对应的是原文中讨论的第一个问题，因此在前三段中进行定位，可以看到，文中第二段Wolpert的观点是并不认为我们需要colonise other planets，除非可以bring [these] resources back to Earth，并且认为gather resources nearer to home更有价值，这与题目中的观点是一致的。\n\n因此本题答案为B。\n\n32. 译文：高质量科幻作品中的想法可能会被证明与一般科学家提出的观点一样准确。\n\n题目说的是与science fiction相关的话题，因此可以在文章中对最后一个问题进行讨论的部分进行定位，其中第十段提到，first-rate science fiction的特点是more stimulating, and perhaps no more likely to be wrong，也就是说与实际发生的情况是一致的，这与题目中的观点一致。\n\n因此本题答案为A。\n\n33. 译文：有些人期待着机器人发展出更高的智能。\n\n题目中的观点出现在文章第六段第三句，其中说到we tend to imagine they are greater and more powerful than they really are，这与题目中those who look forward to robots developing greater intelligence的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "29. It will take many decades for robot intelligence to be as imaginative as human intelligence.[29] ______"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "30. We may have to start considering whether we are treating robots fairly.[30] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8560_272031",
+          "explanation": "27. 译文：为了我们自身的安全，人类将需要限制机器人的能力。\n\n题目中的观点出现在文章第七段，其中在第三四句收到了Rees认为应当确保robots remain as no more than “idiot savants” lacking the capacity to outwit us，这与题目中humans will need to restrict the abilities of robots的表述是一致的。\n\n因此本题答案为A。\n\n28. 译文：机器人伤害人类的风险没有人们想象的那么严重。\n\n关于机器人对人类的威胁，Richardson在第九段说到，机器人并没有真正risen up并且challenged human supremacy，并且她认为as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will，这与题目中表述的观点是一致的。\n\n因此本题答案为C。\n\n29. 关于machine intelligence outstrip human intelligence的问题，是本文讨论的第二个问题，在第五段中，Wolpert表达了自己的观点，并在本段最后一句表示，期待机器能在未来50年时间内接近人类的创造力是highly ambitious的，这与题目中的观点一致。\n\n因此本题答案为B。\n\n30. 译文：我们可能需要开始考虑是否在公平地对待机器人。\n\n本文第四段中，Rees提到目前机器人在一些方面相比人类更有优势，一些方面还不够先进，但随着机器人的发展，这些方面也会进步到adeptly as we do的程度，之后就会出现Moral questions，人们需要考虑是否we feel guilty about exploiting sophisticated robots，这一观点与题目中的观点一致。\n\n因此本题答案为A。\n\n31. 译文：机器人在地球上对我们的帮助可能比在太空中更大。\n\n题目中说的是与Earth和space相关的话题，由此判断对应的是原文中讨论的第一个问题，因此在前三段中进行定位，可以看到，文中第二段Wolpert的观点是并不认为我们需要colonise other planets，除非可以bring [these] resources back to Earth，并且认为gather resources nearer to home更有价值，这与题目中的观点是一致的。\n\n因此本题答案为B。\n\n32. 译文：高质量科幻作品中的想法可能会被证明与一般科学家提出的观点一样准确。\n\n题目说的是与science fiction相关的话题，因此可以在文章中对最后一个问题进行讨论的部分进行定位，其中第十段提到，first-rate science fiction的特点是more stimulating, and perhaps no more likely to be wrong，也就是说与实际发生的情况是一致的，这与题目中的观点一致。\n\n因此本题答案为A。\n\n33. 译文：有些人期待着机器人发展出更高的智能。\n\n题目中的观点出现在文章第六段第三句，其中说到we tend to imagine they are greater and more powerful than they really are，这与题目中those who look forward to robots developing greater intelligence的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "30. We may have to start considering whether we are treating robots fairly.[30] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "31. Robots are probably of more help to us on Earth than in space.[31] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8560_147897",
+          "explanation": "27. 译文：为了我们自身的安全，人类将需要限制机器人的能力。\n\n题目中的观点出现在文章第七段，其中在第三四句收到了Rees认为应当确保robots remain as no more than “idiot savants” lacking the capacity to outwit us，这与题目中humans will need to restrict the abilities of robots的表述是一致的。\n\n因此本题答案为A。\n\n28. 译文：机器人伤害人类的风险没有人们想象的那么严重。\n\n关于机器人对人类的威胁，Richardson在第九段说到，机器人并没有真正risen up并且challenged human supremacy，并且她认为as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will，这与题目中表述的观点是一致的。\n\n因此本题答案为C。\n\n29. 关于machine intelligence outstrip human intelligence的问题，是本文讨论的第二个问题，在第五段中，Wolpert表达了自己的观点，并在本段最后一句表示，期待机器能在未来50年时间内接近人类的创造力是highly ambitious的，这与题目中的观点一致。\n\n因此本题答案为B。\n\n30. 译文：我们可能需要开始考虑是否在公平地对待机器人。\n\n本文第四段中，Rees提到目前机器人在一些方面相比人类更有优势，一些方面还不够先进，但随着机器人的发展，这些方面也会进步到adeptly as we do的程度，之后就会出现Moral questions，人们需要考虑是否we feel guilty about exploiting sophisticated robots，这一观点与题目中的观点一致。\n\n因此本题答案为A。\n\n31. 译文：机器人在地球上对我们的帮助可能比在太空中更大。\n\n题目中说的是与Earth和space相关的话题，由此判断对应的是原文中讨论的第一个问题，因此在前三段中进行定位，可以看到，文中第二段Wolpert的观点是并不认为我们需要colonise other planets，除非可以bring [these] resources back to Earth，并且认为gather resources nearer to home更有价值，这与题目中的观点是一致的。\n\n因此本题答案为B。\n\n32. 译文：高质量科幻作品中的想法可能会被证明与一般科学家提出的观点一样准确。\n\n题目说的是与science fiction相关的话题，因此可以在文章中对最后一个问题进行讨论的部分进行定位，其中第十段提到，first-rate science fiction的特点是more stimulating, and perhaps no more likely to be wrong，也就是说与实际发生的情况是一致的，这与题目中的观点一致。\n\n因此本题答案为A。\n\n33. 译文：有些人期待着机器人发展出更高的智能。\n\n题目中的观点出现在文章第六段第三句，其中说到we tend to imagine they are greater and more powerful than they really are，这与题目中those who look forward to robots developing greater intelligence的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "31. Robots are probably of more help to us on Earth than in space.[31] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "32. The ideas in high-quality science fiction may prove to be just as accurate as those found in the work of mediocre scientists.[32] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8560_107767",
+          "explanation": "27. 译文：为了我们自身的安全，人类将需要限制机器人的能力。\n\n题目中的观点出现在文章第七段，其中在第三四句收到了Rees认为应当确保robots remain as no more than “idiot savants” lacking the capacity to outwit us，这与题目中humans will need to restrict the abilities of robots的表述是一致的。\n\n因此本题答案为A。\n\n28. 译文：机器人伤害人类的风险没有人们想象的那么严重。\n\n关于机器人对人类的威胁，Richardson在第九段说到，机器人并没有真正risen up并且challenged human supremacy，并且她认为as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will，这与题目中表述的观点是一致的。\n\n因此本题答案为C。\n\n29. 关于machine intelligence outstrip human intelligence的问题，是本文讨论的第二个问题，在第五段中，Wolpert表达了自己的观点，并在本段最后一句表示，期待机器能在未来50年时间内接近人类的创造力是highly ambitious的，这与题目中的观点一致。\n\n因此本题答案为B。\n\n30. 译文：我们可能需要开始考虑是否在公平地对待机器人。\n\n本文第四段中，Rees提到目前机器人在一些方面相比人类更有优势，一些方面还不够先进，但随着机器人的发展，这些方面也会进步到adeptly as we do的程度，之后就会出现Moral questions，人们需要考虑是否we feel guilty about exploiting sophisticated robots，这一观点与题目中的观点一致。\n\n因此本题答案为A。\n\n31. 译文：机器人在地球上对我们的帮助可能比在太空中更大。\n\n题目中说的是与Earth和space相关的话题，由此判断对应的是原文中讨论的第一个问题，因此在前三段中进行定位，可以看到，文中第二段Wolpert的观点是并不认为我们需要colonise other planets，除非可以bring [these] resources back to Earth，并且认为gather resources nearer to home更有价值，这与题目中的观点是一致的。\n\n因此本题答案为B。\n\n32. 译文：高质量科幻作品中的想法可能会被证明与一般科学家提出的观点一样准确。\n\n题目说的是与science fiction相关的话题，因此可以在文章中对最后一个问题进行讨论的部分进行定位，其中第十段提到，first-rate science fiction的特点是more stimulating, and perhaps no more likely to be wrong，也就是说与实际发生的情况是一致的，这与题目中的观点一致。\n\n因此本题答案为A。\n\n33. 译文：有些人期待着机器人发展出更高的智能。\n\n题目中的观点出现在文章第六段第三句，其中说到we tend to imagine they are greater and more powerful than they really are，这与题目中those who look forward to robots developing greater intelligence的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "32. The ideas in high-quality science fiction may prove to be just as accurate as those found in the work of mediocre scientists.[32] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "33. There are those who look forward to robots developing greater intelligence.[33] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8560_287541",
+          "explanation": "27. 译文：为了我们自身的安全，人类将需要限制机器人的能力。\n\n题目中的观点出现在文章第七段，其中在第三四句收到了Rees认为应当确保robots remain as no more than “idiot savants” lacking the capacity to outwit us，这与题目中humans will need to restrict the abilities of robots的表述是一致的。\n\n因此本题答案为A。\n\n28. 译文：机器人伤害人类的风险没有人们想象的那么严重。\n\n关于机器人对人类的威胁，Richardson在第九段说到，机器人并没有真正risen up并且challenged human supremacy，并且她认为as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will，这与题目中表述的观点是一致的。\n\n因此本题答案为C。\n\n29. 关于machine intelligence outstrip human intelligence的问题，是本文讨论的第二个问题，在第五段中，Wolpert表达了自己的观点，并在本段最后一句表示，期待机器能在未来50年时间内接近人类的创造力是highly ambitious的，这与题目中的观点一致。\n\n因此本题答案为B。\n\n30. 译文：我们可能需要开始考虑是否在公平地对待机器人。\n\n本文第四段中，Rees提到目前机器人在一些方面相比人类更有优势，一些方面还不够先进，但随着机器人的发展，这些方面也会进步到adeptly as we do的程度，之后就会出现Moral questions，人们需要考虑是否we feel guilty about exploiting sophisticated robots，这一观点与题目中的观点一致。\n\n因此本题答案为A。\n\n31. 译文：机器人在地球上对我们的帮助可能比在太空中更大。\n\n题目中说的是与Earth和space相关的话题，由此判断对应的是原文中讨论的第一个问题，因此在前三段中进行定位，可以看到，文中第二段Wolpert的观点是并不认为我们需要colonise other planets，除非可以bring [these] resources back to Earth，并且认为gather resources nearer to home更有价值，这与题目中的观点是一致的。\n\n因此本题答案为B。\n\n32. 译文：高质量科幻作品中的想法可能会被证明与一般科学家提出的观点一样准确。\n\n题目说的是与science fiction相关的话题，因此可以在文章中对最后一个问题进行讨论的部分进行定位，其中第十段提到，first-rate science fiction的特点是more stimulating, and perhaps no more likely to be wrong，也就是说与实际发生的情况是一致的，这与题目中的观点一致。\n\n因此本题答案为A。\n\n33. 译文：有些人期待着机器人发展出更高的智能。\n\n题目中的观点出现在文章第六段第三句，其中说到we tend to imagine they are greater and more powerful than they really are，这与题目中those who look forward to robots developing greater intelligence的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "33. There are those who look forward to robots developing greater intelligence.[33] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Martin Rees"
+        },
+        {
+          "value": "B",
+          "text": "Daniel Wolpert"
+        },
+        {
+          "value": "C",
+          "text": "Kathleen Richardson"
+        }
+      ],
+      "contextHtml": "<p>27. For our own safety, humans will need to restrict the abilities of robots.<strong>[27] ______</strong> </p>\n\n<p>28. The risk of robots harming us is less serious than humans believe it to be.<strong>[28] ______</strong> </p>\n\n<p>29. It will take many decades for robot intelligence to be as imaginative as human intelligence.<strong>[29] ______</strong> </p>\n\n<p>30. We may have to start considering whether we are treating robots fairly.<strong>[30] ______</strong> </p>\n\n<p>31. Robots are probably of more help to us on Earth than in space.<strong>[31] ______</strong> </p>\n\n<p>32. The ideas in high-quality science fiction may prove to be just as accurate as those found in the work of mediocre scientists.<strong>[32] ______</strong> </p>\n\n<p>33. There are those who look forward to robots developing greater intelligence.<strong>[33] ______</strong> </p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Complete each sentence with the correct ending, A–D, below.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "34. Richardson and Rees express similar views regarding the ethical aspect of[34] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8560_446627",
+          "explanation": "34. Richardson和Rees在有关______的伦理方面表达了相似的观点。\n\n定位词: Richardson and Rees, the ethical aspect\n\n选项\n\n本题考到了不同专家之间的观点，由于Matching Sentence Endings按照文章顺序进行出题，因此从第一个question看起即可。文章前三段讨论的是关于机器人是否应当用于colonise other planets的问题，其中Rees认为不应当bring all the raw materials from Earth，她认为应当采用更加realistic and benign的方式，并且给与colonised planets一种类似地球上南极洲的status。Richardson认为the idea of ‘colonisation’ of other planets seemed morally dubious，并随后解释道应当always do it in the spirit of a genuine interest in “the Other”，可见二人都会考虑到这件事的ethical aspect，而非只是以获得更多资源的角度来思考问题，由此可以在选项中确认C选项内容与二人观点是匹配的。\n\n因此本题答案为C。\n\n35. Rees和Wolpert在______的程度方面观点一致。\n\n定位词: Rees and Wolpert, share an opinion, the extent of\n\n选项\n\n本文讨论的第二个问题是关于machine intelligence的问题，其中Rees认为虽然机器人在一些情境下能力已经能足够强，但是其能力still limited in their ability to sense their environment，虽然进行了具体的解释，并认为随着它们的能力突破，moral questions then arise。Wolpert认为in a limited sense机器人能力已经超过人类，但是依然有很多领域是机器人无法发挥优势的，可见二人对于当前机器人智能水平的现状是有共识的，这与B选项的内容一致。\n\n因此本题答案为B。\n\n36. Wolpert在关于______的问题上不同意Richardson的观点。\n\n定位词: Wolpert disagrees with Richardson\n\n选项\n\n在第三个问题上，Wolpert和Richardson表达了不同的观点，Wolpert认为，我们已经看到了the damaging effects of artificial intelligence，而Richardson认为robots have never shown themselves to be a threat to humans，因此他们在关于机器人已经产生的危害方面持有不同的观点。这与D选项的表述是一致的。\n\n因此本题答案为D。",
+          "promptHtml": "34. Richardson and Rees express similar views regarding the ethical aspect of[34] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "35. Rees and Wolpert share an opinion about the extent of[35] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8560_619772",
+          "explanation": "34. Richardson和Rees在有关______的伦理方面表达了相似的观点。\n\n定位词: Richardson and Rees, the ethical aspect\n\n选项\n\n本题考到了不同专家之间的观点，由于Matching Sentence Endings按照文章顺序进行出题，因此从第一个question看起即可。文章前三段讨论的是关于机器人是否应当用于colonise other planets的问题，其中Rees认为不应当bring all the raw materials from Earth，她认为应当采用更加realistic and benign的方式，并且给与colonised planets一种类似地球上南极洲的status。Richardson认为the idea of ‘colonisation’ of other planets seemed morally dubious，并随后解释道应当always do it in the spirit of a genuine interest in “the Other”，可见二人都会考虑到这件事的ethical aspect，而非只是以获得更多资源的角度来思考问题，由此可以在选项中确认C选项内容与二人观点是匹配的。\n\n因此本题答案为C。\n\n35. Rees和Wolpert在______的程度方面观点一致。\n\n定位词: Rees and Wolpert, share an opinion, the extent of\n\n选项\n\n本文讨论的第二个问题是关于machine intelligence的问题，其中Rees认为虽然机器人在一些情境下能力已经能足够强，但是其能力still limited in their ability to sense their environment，虽然进行了具体的解释，并认为随着它们的能力突破，moral questions then arise。Wolpert认为in a limited sense机器人能力已经超过人类，但是依然有很多领域是机器人无法发挥优势的，可见二人对于当前机器人智能水平的现状是有共识的，这与B选项的内容一致。\n\n因此本题答案为B。\n\n36. Wolpert在关于______的问题上不同意Richardson的观点。\n\n定位词: Wolpert disagrees with Richardson\n\n选项\n\n在第三个问题上，Wolpert和Richardson表达了不同的观点，Wolpert认为，我们已经看到了the damaging effects of artificial intelligence，而Richardson认为robots have never shown themselves to be a threat to humans，因此他们在关于机器人已经产生的危害方面持有不同的观点。这与D选项的表述是一致的。\n\n因此本题答案为D。",
+          "promptHtml": "35. Rees and Wolpert share an opinion about the extent of[35] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "36. Wolpert disagrees with Richardson on the question of[36] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8560_754105",
+          "explanation": "34. Richardson和Rees在有关______的伦理方面表达了相似的观点。\n\n定位词: Richardson and Rees, the ethical aspect\n\n选项\n\n本题考到了不同专家之间的观点，由于Matching Sentence Endings按照文章顺序进行出题，因此从第一个question看起即可。文章前三段讨论的是关于机器人是否应当用于colonise other planets的问题，其中Rees认为不应当bring all the raw materials from Earth，她认为应当采用更加realistic and benign的方式，并且给与colonised planets一种类似地球上南极洲的status。Richardson认为the idea of ‘colonisation’ of other planets seemed morally dubious，并随后解释道应当always do it in the spirit of a genuine interest in “the Other”，可见二人都会考虑到这件事的ethical aspect，而非只是以获得更多资源的角度来思考问题，由此可以在选项中确认C选项内容与二人观点是匹配的。\n\n因此本题答案为C。\n\n35. Rees和Wolpert在______的程度方面观点一致。\n\n定位词: Rees and Wolpert, share an opinion, the extent of\n\n选项\n\n本文讨论的第二个问题是关于machine intelligence的问题，其中Rees认为虽然机器人在一些情境下能力已经能足够强，但是其能力still limited in their ability to sense their environment，虽然进行了具体的解释，并认为随着它们的能力突破，moral questions then arise。Wolpert认为in a limited sense机器人能力已经超过人类，但是依然有很多领域是机器人无法发挥优势的，可见二人对于当前机器人智能水平的现状是有共识的，这与B选项的内容一致。\n\n因此本题答案为B。\n\n36. Wolpert在关于______的问题上不同意Richardson的观点。\n\n定位词: Wolpert disagrees with Richardson\n\n选项\n\n在第三个问题上，Wolpert和Richardson表达了不同的观点，Wolpert认为，我们已经看到了the damaging effects of artificial intelligence，而Richardson认为robots have never shown themselves to be a threat to humans，因此他们在关于机器人已经产生的危害方面持有不同的观点。这与D选项的表述是一致的。\n\n因此本题答案为D。",
+          "promptHtml": "36. Wolpert disagrees with Richardson on the question of[36] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "robots to explore outer space."
+        },
+        {
+          "value": "B",
+          "text": "advances made in machine intelligence so far."
+        },
+        {
+          "value": "C",
+          "text": "changes made to other planets for our own benefit."
+        },
+        {
+          "value": "D",
+          "text": "the harm already done by artificial intelligence."
+        }
+      ],
+      "contextHtml": "<p>34. Richardson and Rees express similar views regarding the ethical aspect of<strong>[34] ______</strong> </p>\n\n<p>35. Rees and Wolpert share an opinion about the extent of<strong>[35] ______</strong> </p>\n\n<p>36. Wolpert disagrees with Richardson on the question of<strong>[36] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "choice",
+      "instruction": "Questions 37–40\n\nChoose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "What point does Richardson make about fear of machines?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8560_910932",
+          "options": [
+            {
+              "value": "A",
+              "text": "It has grown alongside the development of ever more advanced robots."
+            },
+            {
+              "value": "B",
+              "text": "It is the result of our inclination to attribute human characteristics to non-human entities."
+            },
+            {
+              "value": "C",
+              "text": "It has its origins in basic misunderstandings about how inanimate objects function."
+            },
+            {
+              "value": "D",
+              "text": "It demonstrates a key difference between human intelligence and machine intelligence."
+            }
+          ],
+          "explanation": "题目：Richardson对机器恐惧提出了什么观点？\n\nA. 它随着越来越先进的机器人的发展而增长\n\nB. 这是我们倾向于将人类特征赋予非人类实体的结果\n\nC. 它源于对无生命物体运作方式的基本误解\n\nD. 它展示了人类智能与机器智能之间的关键差异\n\n文章第六段首句即提到了Richardson 和our fear of machines，并说道这主要与human nature有关，并在之后写道，it stems from humans’ tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat，结合整段的观点论述，可以看出Richardson认为fear of machines的主要原因是人们倾向于按照自身的观念去看待机器，这与B选项的表述是一致的。\n\n因此本题答案为B。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "What potential advance does Rees see as a cause for concern?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8560_581376",
+          "options": [
+            {
+              "value": "A",
+              "text": "robots outnumbering people"
+            },
+            {
+              "value": "B",
+              "text": "robots having abilities which humans do not"
+            },
+            {
+              "value": "C",
+              "text": "artificial intelligence developing independent thought"
+            },
+            {
+              "value": "D",
+              "text": "artificial intelligence taking over every aspect of our lives"
+            }
+          ],
+          "explanation": "题目：Rees将哪种潜在进展视为令人担忧的原因？\n\nA. 机器人数量超过人类\n\nB. 机器人拥有人类不具备的能力\n\nC. 人工智能发展出独立思考\n\nD. 人工智能接管我们生活的方方面面\n\n本题内容对应文章第七段，本段开头便出现了问题ould we be scared by advances in artificial intelligence？并在随后说道To this question, Rees replied。因此后面Rees的观点表达即为答题区域，从其观点表达来看Rees认为可能令人担心的是these could behave like a single “brain” with a mind of its own，以及with goals that may be contrary to human welfare，而对于机器处于idiot savants状态，且不具备the capacity to outwit us ，只是在ability to calculate and process information方面超过人类是无需担心的，总结本段表述，Rees对于机器自主思考和行动并比人类更智能表示担心，对机器只作为人类附属进行计算和信息处理等工作不担心。与此观点最一致的事C选项artificial intelligence developing independent thought\n\n因此本题答案为C。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "What does Wolpert emphasise in his response to the question about science fiction?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8560_487752",
+          "options": [
+            {
+              "value": "A",
+              "text": "how science fiction influences our attitudes to robots"
+            },
+            {
+              "value": "B",
+              "text": "how fundamental robots are to the science fiction genre"
+            },
+            {
+              "value": "C",
+              "text": "how the image of robots in science fiction has changed over time"
+            },
+            {
+              "value": "D",
+              "text": "how reactions to similar portrayals of robots in science fiction may vary"
+            }
+          ],
+          "explanation": "题目：Wolpert在回应关于科幻小说的问题时强调了什么？\n\nA. 科幻小说如何影响我们对机器人的态度\n\nB. 机器人对科幻类型作品必不可少的作用\n\nC. 科幻小说中机器人形象如何随时间变化\n\nD. 对科幻小说中类似机器人描写的反应可能如何不同\n\n文章第十一段主要写了Wolpert对于science fiction的看法，他认为science fiction在predicting the future方面非常出色，并且almost no science fiction envisages a future without robots，也就是说他认为对于在一science fiction当中，robots是必不可少的组成部分，这与C选项的表述最为一致。\n\n因此本题答案为B。"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "What is Richardson doing in her comment about reality and fantasy?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8560_302345",
+          "options": [
+            {
+              "value": "A",
+              "text": "warning people not to confuse one with the other"
+            },
+            {
+              "value": "B",
+              "text": "outlining ways in which one has impacted on the other"
+            },
+            {
+              "value": "C",
+              "text": "recommending a change of approach in how people view them"
+            },
+            {
+              "value": "D",
+              "text": "explaining why scientists have a different perspective on them from other people"
+            }
+          ],
+          "explanation": "题目：Richardson在评论现实与幻想时在做什么？\n\nA. 警告人们不要将两者混淆\n\nB. 概述一方影响另一方的各种方式\n\nC. 建议改变人们看待它们的方法\n\nD. 解释为什么科学家对它们的视角与其他人不同\n\n关于Richardson对于reality and fantasy的内容出现在文中第十二段，其中她提到人们往往认为there is reality on the one hand, and fiction and fantasy on the other，但实际上the division did not always exist，之所以人们制造了这种separation是因为they wanted to carve out the sphere of their work，而Richardson是不认可这种观念的，她认为应当bring these different understandings together to get a whole perspective。综合本段的观点表述，C选项与原文观点一致。\n\n因此本题答案为C。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>Robots and us</b></span></p><p><em>Three leaders in their fields answer questions about our relationships with robot</em></p><p>When asked ‘Should robots be used to colonise other planets?’, cosmology and astrophysics Professor Martin Rees said he believed the solar system would be mapped by robotic craft by the end of the century. ‘The next step would be mining of asteroids, enabling fabrication of large structures in space without having to bring all the raw materials from Earth. … I think this is more realistic and benign than the … “terraforming”* of planets.’ He maintains that colonised planets ‘should be preserved with a status that is analogous to Antarctica here on Earth.’</p><p>On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied, ‘I don’t see a pressing need to colonise other planets unless we can bring [these] resources back to Earth. The vast majority of Earth is currently inaccessible to us. Using robots to gather resources nearer to home would seem to be a better use of our robotic tools.’</p><p>Meanwhile, for anthropology Professor Kathleen Richardson, the idea of ‘colonisation’ of other planets seemed morally dubious: ‘I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in “the Other”, not to impose a particular model, but to meet “the Other”.’</p><p>In response to the second question, ‘How soon will machine intelligence outstrip human intelligence?’, Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, ‘Robots are still limited in their ability to sense their environment: they can’t yet recognise and move the pieces on a real chessboard as cleverly as a child can. Later this century, however, their more advanced successors may relate to their surroundings, and to people, as adeptly as we do. Moral questions then arise. … Should we feel guilty about exploiting [sophisticated robots]? Should we fret if they are underemployed, frustrated, or bored?’</p><p>Wolpert’s response to the question about machine intelligence outstripping human intelligence was this: ‘In a limited sense it already has. Machines can already navigate, remember and search for items with an ability that far outstrips humans. However, there is no machine that can identify visual objects or speech with the reliability and flexibility of humans. … Expecting a machine close to the creative intelligence of a human within the next 50 years would be highly ambitious.’</p><p>Richardson believes that our fear of machines becoming too advanced has more to do with human nature than anything intrinsic to the machines themselves. In her view, it stems from humans’ tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat. ‘One of the consequences of thinking that the problem lies with machines is that … we tend to imagine they are greater and more powerful than they really are and subsequently they become so.’</p><p>This led on to the third question, ‘Should we be scared by advances in artificial intelligence?’ To this question, Rees replied, ‘Those who should be worried are the futurologists who believe in the so-called “singularity”.** … And another worry is that we are increasingly dependent on computer networks, and that these could behave like a single “brain” with a mind of its own, and with goals that may be contrary to human welfare. I think we should ensure that robots remain as no more than “idiot savants” lacking the capacity to outwit us, even though they may greatly surpass us in the ability to calculate and process information.’</p><p>Wolpert’s response was to say that we have already seen the damaging effects of artificial intelligence in the form of computer viruses. ‘But in this case,’ he says, ‘the real intelligence is the malicious designer. Critically, the benefits of computers outweigh the damage that computer viruses cause. Similarly, while there may be misuses of robotics in the near future, the benefits that they will bring are likely to outweigh these negative aspects.’</p><p>Richardson’s response to this question was this: ‘We need to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.’ She believes that as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will. In fact, she went on, ‘Not all fear [robots]; many people welcome machine intelligence.’</p><p>In answer to the fourth question, ‘What can science fiction tell us about robotics?’, Rees replied, ‘I sometimes advise students that it’s better to read first-rate science fiction than second-rate science – more stimulating, and perhaps no more likely to be wrong.’</p><p>As his response, Wolpert commented, ‘Science fiction has often been remarkable at predicting the future. … Science fiction has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies. Interestingly, almost no science fiction envisages a future without robots.’</p><p>Finally, on the question of science fiction, Richardson pointed out that in modern society, people tend to think there is reality on the one hand, and fiction and fantasy on the other. She then explained that the division did not always exist, and that scientists and technologists made this separation because they wanted to carve out the sphere of their work. ‘But the divide is not so clear cut, and that is why the worlds seem to collide at times,’ she said. ‘In some cases, we need to bring these different understandings together to get a whole perspective. Perhaps then, we won’t be so frightened that something we create as a copy of ourselves will be a [threat] to us.’</p><p><span>* terraforming: modifying a planet’s atmosphere to suit human needs</span></p><p><span>** singularity: the point when robots will be able to start creating ever more sophisticated versions of themselves</span></p>"
+}

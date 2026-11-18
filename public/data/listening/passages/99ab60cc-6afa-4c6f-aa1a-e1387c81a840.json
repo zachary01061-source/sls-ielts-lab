@@ -1,0 +1,353 @@
+{
+  "id": "99ab60cc-6afa-4c6f-aa1a-e1387c81a840",
+  "title": "Adwaita turtles",
+  "titleCn": "阿德维塔龟：脆弱龟壳与生存危机",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/99ab60cc-6afa-4c6f-aa1a-e1387c81a840",
+  "duration": 362,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:03,460"
+    },
+    {
+      "label": "2",
+      "text": "Today, we will discuss the Adwaita turtle, a species that has drawn significant attention due to its unique characteristics and conservation challenges. These turtles are typically found in streams of freshwater, where they thrive in slow-moving water. Their preferred environment consists of shallow areas with abundant vegetation, offering both food and shelter. Unlike some other turtles, they are not well adapted to deep or fast-moving rivers."
+    },
+    {
+      "label": "3",
+      "text": "00:00:35,200"
+    },
+    {
+      "label": "4",
+      "text": "One of the most distinguishing features of the Adwaita turtle is its shell. Unlike species with tough, protective outer layers, this turtle's shell is unusually fragile. This makes it highly vulnerable to predators and environmental damage. As a result, they tend to stay hidden for long periods, avoiding direct threats whenever possible. Another key characteristic is their strong claws, which serve multiple purposes. These turtles use their claws for digging burrows in soft riverbeds, allowing them to rest safely out of sight. Additionally, their claws help them in foraging as they scrape through mud and vegetation to uncover food sources. Speaking of diet, Adwaita turtles are omnivorous, meaning they consume both plant and animal matter."
+    },
+    {
+      "label": "5",
+      "text": "00:01:30,280"
+    },
+    {
+      "label": "6",
+      "text": "While they often feed on insects and aquatic plants, they are also known to eat mushrooms that grow near the water's edge."
+    },
+    {
+      "label": "7",
+      "text": "00:01:37,700"
+    },
+    {
+      "label": "8",
+      "text": "These fungi provide essential nutrients that contribute to their growth and overall health. Despite their adaptability, Adwaita turtles face significant risks. Their population is currently under a critical threat due to several environmental challenges. Deforestation and water pollution have destroyed many of their natural habitats, making it increasingly difficult for them to find safe nesting areas."
+    },
+    {
+      "label": "9",
+      "text": "00:02:06,940"
+    },
+    {
+      "label": "10",
+      "text": "One of the greatest dangers they face comes from domestic dogs. These animals often disturb nesting sites, preying on young turtles before they have a chance to develop properly."
+    },
+    {
+      "label": "11",
+      "text": "00:02:19,280"
+    },
+    {
+      "label": "12",
+      "text": "Conservation efforts have attempted to reduce these attacks by setting up protective barriers around known nesting areas."
+    },
+    {
+      "label": "13",
+      "text": "00:02:27,450"
+    },
+    {
+      "label": "14",
+      "text": "Another issue impacting their survival is climate change. Rising temperatures and deforestation have led to a loss of moisture in many of their traditional habitats. As a result, some areas that once supported these turtles have now become dry, forcing them to migrate in search of better conditions."
+    },
+    {
+      "label": "15",
+      "text": "00:02:49,220"
+    },
+    {
+      "label": "16",
+      "text": "Unfortunately, many turtles do not survive these long journeys."
+    },
+    {
+      "label": "17",
+      "text": "00:02:54,320"
+    },
+    {
+      "label": "18",
+      "text": "To combat these challenges, conservationists have implemented species relocation programs."
+    },
+    {
+      "label": "19",
+      "text": "00:03:00,980"
+    },
+    {
+      "label": "20",
+      "text": "These initiatives involve moving turtles from high-risk zones to safer, protected areas where they can thrive without external threats. In some cases, relocating turtles has required creative solutions. Due to the difficult terrain in certain regions, researchers have used an elephant to help transport turtles across long distances. This has proven to be an effective method for ensuring their safe relocation."
+    },
+    {
+      "label": "21",
+      "text": "00:03:30,380"
+    },
+    {
+      "label": "22",
+      "text": "Finally, community involvement plays a crucial role in conservation efforts. Local populations are now receiving specialized training on how to protect Adwaita turtles and their habitats. By educating people on the importance of these turtles, conservationists hope to create long-term solutions that will secure their future."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "5558765d-03f0-477e-aa8d-9168f64510f4",
+          "prompt": "**Habitat and Characteristics**\n· Adwaita turtles primarily live in freshwater **31**_____ .",
+          "answers": [
+            "streams"
+          ],
+          "rawAnswer": "streams",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These turtles are typically found in streams of freshwater, where they thrive in slow-moving water"
+          },
+          "keywordPairs": [
+            {
+              "question": "primarily live in",
+              "article": "typically found in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "9fb6dfd9-870e-4ed4-8308-9931cc1da9a2",
+          "prompt": "· Their shells are extremely **32**_____ , making them vulnerable to predators.",
+          "answers": [
+            "fragile"
+          ],
+          "rawAnswer": "fragile",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Unlike species with tough, protective outer layers, this turtle's shell is unusually fragile. This makes it highly vulnerable to predators and environmental damage"
+          },
+          "keywordPairs": [
+            {
+              "question": "extremely",
+              "article": "unusually"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "a0605f24-58f4-4505-bfac-73cd51167979",
+          "prompt": "· They use their **33**_____ to dig into soft riverbeds and search for food.",
+          "answers": [
+            "claws"
+          ],
+          "rawAnswer": "claws",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another key characteristic is their strong claws, which serve multiple purposes. These turtles use their claws for digging burrows in soft riverbeds, allowing them to rest safely out of sight. Additionally, their claws help them in foraging as they scrape through mud and vegetation to uncover food sources"
+          },
+          "keywordPairs": [
+            {
+              "question": "search for",
+              "article": "foraging"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "a5ec5912-bb13-4a02-8497-64107b7c4307",
+          "prompt": "· One of the foods in their diet includes **34**_____ that grow near water.",
+          "answers": [
+            "mushrooms"
+          ],
+          "rawAnswer": "mushrooms",
+          "evidence": {
+            "paragraph": "",
+            "quote": "While they often feed on insects and aquatic plants, they are also known to eat mushrooms that grow near the water's edge"
+          },
+          "keywordPairs": [
+            {
+              "question": "diet",
+              "article": "eat"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "61ccd3e5-d2e9-4c5c-9184-d28cc5baa68b",
+          "prompt": "**Threats and Conservation Status**\n· The survival of Adwaita turtles is under a **35**_____ threat due to environmental changes.",
+          "answers": [
+            "critical"
+          ],
+          "rawAnswer": "critical",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Their population is currently under a critical threat due to several environmental challenges"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "8585d241-62fb-4c2e-a021-1ae32dcbc931",
+          "prompt": "· One of the biggest threats to Adwaita turtles comes from **36**_____ , which prey on them.",
+          "answers": [
+            "dogs"
+          ],
+          "rawAnswer": "dogs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the greatest dangers they face comes from domestic dogs. These animals often disturb nesting sites, preying on young turtles before they have a chance to develop properly"
+          },
+          "keywordPairs": [
+            {
+              "question": "biggest threats",
+              "article": "greatest dangers"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "bfedde31-d5cc-4b3e-876d-892e2a96306f",
+          "prompt": "· Their habitat is becoming **37**_____ due to climate change, making it harder for them to nest.",
+          "answers": [
+            "dry"
+          ],
+          "rawAnswer": "dry",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another issue impacting their survival is climate change. Rising temperatures and deforestation have led to a loss of moisture in many of their traditional habitats. As a result, some areas that once supported these turtles have now become dry"
+          },
+          "keywordPairs": [
+            {
+              "question": "habitat",
+              "article": "areas that once supported these turtles"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "085ed2d6-a3b7-4afe-b593-31d52fe9ed93",
+          "prompt": "**Conservation Efforts and Future Plans**\n· Conservationists are using species **38**_____ programs to move turtles to safer locations.",
+          "answers": [
+            "relocation"
+          ],
+          "rawAnswer": "relocation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To combat these challenges, conservationists have implemented species relocation programs"
+          },
+          "keywordPairs": [
+            {
+              "question": "using",
+              "article": "implemented"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "8f03c5aa-6aa3-47ab-afa3-08363e919dc4",
+          "prompt": "· In some cases, turtles are transported with the help of an **39**_____ .",
+          "answers": [
+            "elephant"
+          ],
+          "rawAnswer": "elephant",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Due to the difficult terrain in certain regions, researchers have used an elephant to help transport turtles across long distances"
+          },
+          "keywordPairs": [
+            {
+              "question": "In some cases",
+              "article": "Due to the difficult terrain in certain regions"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "675f57db-3272-4ed5-aa21-8788ef9ebf26",
+          "prompt": "· Local communities are receiving **40**_____ to help protect the turtles and their habitat.",
+          "answers": [
+            "training"
+          ],
+          "rawAnswer": "training",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Local populations are now receiving specialized training on how to protect Adwaita turtles and their habitats"
+          },
+          "keywordPairs": [
+            {
+              "question": "communities",
+              "article": "populations"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:03,460</p><p>Today, we will discuss the Adwaita turtle, a species that has drawn significant attention due to its unique characteristics and conservation challenges. These turtles are typically found in streams of freshwater, where they thrive in slow-moving water. Their preferred environment consists of shallow areas with abundant vegetation, offering both food and shelter. Unlike some other turtles, they are not well adapted to deep or fast-moving rivers. </p><p>00:00:35,200</p><p>One of the most distinguishing features of the Adwaita turtle is its shell. Unlike species with tough, protective outer layers, this turtle's shell is unusually fragile. This makes it highly vulnerable to predators and environmental damage. As a result, they tend to stay hidden for long periods, avoiding direct threats whenever possible. Another key characteristic is their strong claws, which serve multiple purposes. These turtles use their claws for digging burrows in soft riverbeds, allowing them to rest safely out of sight. Additionally, their claws help them in foraging as they scrape through mud and vegetation to uncover food sources. Speaking of diet, Adwaita turtles are omnivorous, meaning they consume both plant and animal matter. </p><p>00:01:30,280</p><p>While they often feed on insects and aquatic plants, they are also known to eat mushrooms that grow near the water's edge. </p><p>00:01:37,700</p><p>These fungi provide essential nutrients that contribute to their growth and overall health. Despite their adaptability, Adwaita turtles face significant risks. Their population is currently under a critical threat due to several environmental challenges. Deforestation and water pollution have destroyed many of their natural habitats, making it increasingly difficult for them to find safe nesting areas. </p><p>00:02:06,940</p><p>One of the greatest dangers they face comes from domestic dogs. These animals often disturb nesting sites, preying on young turtles before they have a chance to develop properly. </p><p>00:02:19,280</p><p>Conservation efforts have attempted to reduce these attacks by setting up protective barriers around known nesting areas. </p><p>00:02:27,450</p><p>Another issue impacting their survival is climate change. Rising temperatures and deforestation have led to a loss of moisture in many of their traditional habitats. As a result, some areas that once supported these turtles have now become dry, forcing them to migrate in search of better conditions. </p><p>00:02:49,220</p><p>Unfortunately, many turtles do not survive these long journeys. </p><p>00:02:54,320</p><p>To combat these challenges, conservationists have implemented species relocation programs. </p><p>00:03:00,980</p><p>These initiatives involve moving turtles from high-risk zones to safer, protected areas where they can thrive without external threats. In some cases, relocating turtles has required creative solutions. Due to the difficult terrain in certain regions, researchers have used an elephant to help transport turtles across long distances. This has proven to be an effective method for ensuring their safe relocation. </p><p>00:03:30,380</p><p>Finally, community involvement plays a crucial role in conservation efforts. Local populations are now receiving specialized training on how to protect Adwaita turtles and their habitats. By educating people on the importance of these turtles, conservationists hope to create long-term solutions that will secure their future.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/99ab60cc-6afa-4c6f-aa1a-e1387c81a840.mp3",
+    "durationSeconds": 241.224,
+    "sizeBytes": 3860115,
+    "sha256": "b7e766643aae47368e2d2f7002a89124c100f914625e5768ad4344b71119980f",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:31Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775447065899_c5ko32_9a2df02c_acbd357a.mp3"
+}

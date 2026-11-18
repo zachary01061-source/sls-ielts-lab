@@ -1,0 +1,423 @@
+{
+  "id": "cambridge-19-test-1-reading-2",
+  "title": "The pirates of the ancient Mediterranean",
+  "titleCn": "The pirates of the ancient Mediterranean",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 1
+  },
+  "sourceQuestionId": "8503",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8503",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The pirates of the ancient Mediterranean"
+    },
+    {
+      "label": "2",
+      "text": "In the first and second millennia BCE, pirates sailed around the Mediterranean, attacking ships and avoiding pursuers"
+    },
+    {
+      "label": "3",
+      "text": "A When one mentions pirates, an image springs to most people’s minds of a crew of misfits, daredevils and adventurers in command of a tall sailing ship in the Caribbean Sea. Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes. However, despite all efforts and the might of various ancient states, piracy could not be stopped. The situation remained unchanged for thousands of years. Only when the pirates directly threatened the interests of ancient Rome did the Roman Republic organise a massive fleet to eliminate piracy. Under the command of the Roman general Pompey, Rome eradicated piracy, transforming the Mediterranean into ‘Mare Nostrum’ (Our Sea)."
+    },
+    {
+      "label": "4",
+      "text": "B Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of Pharaoh Amenhotep III (c 1390–1353 BCE), it is reasonable to assume it predated this powerful civilisation. This is partly due to the great importance the Mediterranean held at this time, and partly due to its geography. While the Mediterranean region is predominantly fertile, some parts are rugged and hilly, even mountainous. In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt. Most had their own boats, possessed good seafaring skills, and unsurpassed knowledge of the local coastline and sailing routes. Thus, it is not surprising that during hardships, these men turned to piracy. Geography itself further benefited the pirates, with the numerous coves along the coast providing places for them to hide their boats and strike undetected. Before the invention of ocean-going caravels* in the 15th century, ships could not easily cross long distances over open water. Thus, in the ancient world most were restricted to a few well-known navigable routes that followed the coastline. Caught in a trap, a slow merchant ship laden with goods had no other option but to surrender. In addition, knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived."
+    },
+    {
+      "label": "5",
+      "text": "C One should also add that it was not unknown in the first and second millennia BCE for governments to resort to pirates’ services, especially during wartime, employing their skills and numbers against their opponents. A pirate fleet would serve in the first wave of attack, preparing the way for the navy. Some of the regions were known for providing safe harbours to pirates, who, in return, boosted the local economy."
+    },
+    {
+      "label": "6",
+      "text": "D The first known record of a named group of Mediterranean pirates, made during the rule of ancient Egyptian Pharaoh Akhenaten (c 1353–1336 BCE), was in the Amarna Letters. These were extracts of diplomatic correspondence between the pharaoh and his allies, and covered many pressing issues, including piracy. It seems the pharaoh was troubled by two distinct pirate groups, the Lukka and the Sherden. Despite the Egyptian fleet’s best efforts, the pirates continued to cause substantial disruption to regional commerce. In the letters, the king of Alashiya (modern Cyprus) rejected Akhenaten’s claims of a connection with the Lukka (based in modern-day Turkey). The king assured Akhenaten he was prepared to punish any of his subjects involved in piracy."
+    },
+    {
+      "label": "7",
+      "text": "E The ancient Greek world’s experience of piracy was different from that of Egyptian rulers. While Egypt’s power was land-based, the ancient Greeks relied on the Mediterranean in almost all aspects of life, from trade to warfare. Interestingly, in his works the Iliad and the Odyssey, the ancient Greek writer Homer not only condones, but praises the lifestyle and actions of pirates. The opinion remained unchanged in the following centuries. The ancient Greek historian Thucydides, for instance, glorified pirates’ daring attacks on ships or even cities. For Greeks, piracy was a part of everyday life. Even high-ranking members of the state were not beyond engaging in such activities. According to the Greek orator Demosthenes, in 355 BCE, Athenian ambassadors made a detour from their official travel to capture a ship sailing from Egypt, taking the wealth found onboard for themselves! The Greeks’ liberal approach towards piracy does not mean they always tolerated it, but attempts to curtail piracy were hampered by the large number of pirates operating in the Mediterranean."
+    },
+    {
+      "label": "8",
+      "text": "F The rising power of ancient Rome required the Roman Republic to deal with piracy in the Mediterranean. While piracy was a serious issue for the Republic, Rome profited greatly from its existence. Pirate raids provided a steady source of slaves, essential for Rome’s agriculture and mining industries. But this arrangement could work only while the pirates left Roman interests alone. Pirate attacks on grain ships, which were essential to Roman citizens, led to angry voices in the Senate, demanding punishment of the culprits. Rome, however, did nothing, further encouraging piracy. By the 1st century BCE, emboldened pirates kidnapped prominent Roman dignitaries, asking for a large ransom to be paid. Their most famous hostage was none other than Julius Caesar, captured in 75 BCE."
+    },
+    {
+      "label": "9",
+      "text": "G By now, Rome was well aware that pirates had outlived their usefulness. The time had come for concerted action. In 67 BCE, a new law granted Pompey vast funds to combat the Mediterranean menace. Taking personal command, Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each. After cleansing one district of pirates, the fleet would join another in the next district. The process continued until the entire Mediterranean was free of pirates. Although thousands of pirates died at the hands of Pompey’s troops, as a long-term solution to the problem, many more were offered land in fertile areas located far from the sea. Instead of a maritime menace, Rome got productive farmers that further boosted its economy."
+    },
+    {
+      "label": "10",
+      "text": "* caravel: a small, highly manoeuvrable sailing ship developed by the Portuguese"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Reading Passage 2 has seven paragraphs, A–G.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A–G, in boxes 14–19 on your answer sheet.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a reference to a denial of involvement in piracy",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8503_778870-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "details of how a campaign to eradicate piracy was carried out",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8503_778870-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "a mention of the circumstances in which states in the ancient world would make use of pirates",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8503_778870-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "a reference to how people today commonly view pirates",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8503_778870-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "an explanation of how some people were encouraged not to return to piracy",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8503_778870-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "a mention of the need for many sailing vessels to stay relatively close to land",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8503_778870-6"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 20 and 21\n\nChoose TWO letters, A–E.\n\nWrite the correct letters in boxes 20 and 21 on your answer sheet.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Which TWO of the following statements does the writer make about inhabitants of the Mediterranean region in the ancient world?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8503_399143",
+          "options": [
+            {
+              "value": "A",
+              "text": "They often used stolen vessels to carry out pirate attacks."
+            },
+            {
+              "value": "B",
+              "text": "They managed to escape capture by the authorities because they knew the area so well."
+            },
+            {
+              "value": "C",
+              "text": "They paid for information about the routes merchant ships would take."
+            },
+            {
+              "value": "D",
+              "text": "They depended more on the sea for their livelihood than on farming."
+            },
+            {
+              "value": "E",
+              "text": "They stored many of the goods taken in pirate attacks in coves along the coastline."
+            }
+          ],
+          "explanation": "译文：关于古时候的地中海地区居民，作者提到了以下哪两点？\n\n选项A：They often used stolen vessels to carry out pirate attacks.（他们经常使用偷来的船开展海盗袭击。）B段第五句话中说到Most had their own boats，大多数人都有自家船只，可直接否定该选项。\n\n选项B：They managed to escape capture by the authorities because they knew the area so well.（他们能设法成功逃避官方抓捕，是因为他们对这个地区了如指掌。）B段最后一句话里明确说到knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived，这几乎就是在完美地同义替换本项的表述，因此B项是本题的正确答案之一。\n\n选项C：They paid for information about the routes merchant ships would take.（他们花钱购买关于商船将会采用航路的消息。）B段的倒数第三句提到，古代船只受航海技术和设备所限，大多数时候不得不在离岸较近的海域沿几条众所周知的航线来航行。换言之，商船会采用什么航线完全可以被预测到，根本无需花钱购买消息，可知此项并非答案。此外，如果考生采用了平行阅读法，就会发现原文这句话同时可以帮助解决上一个题型中的第19题，一举两得。\n\n选项D：They depended more on the sea for their livelihood than on farming.（他们的生计更加依赖海洋而不是农耕。）这个正确选项对应B段第四句，relied heavily on marine resources，就是在说他们谋生主要靠海洋资源。当然，如果考生按照平行阅读的原则顺次阅读文章内容，就会对此更加笃定，因为上一句话已经说到了地中海的一些地区崎岖多山，也就是土地贫瘠不适合农耕。前后两句话结合在一起，就是在充分表达这些居民无法靠土地而只能靠海洋的意思。\n\n选项E：They stored many of the goods taken in pirate attacks in coves along the coastline.（他们把从海盗打劫活动中获得的很多东西储存在海岸沿线的峡角里。）B段第七句话里确实出现了coves一词，考生即使并不认识这个单词，但只要耐心看懂全句就会知道，这些coves提供的是海盗隐藏自身、伺机出动打劫的隐蔽，而不是让他们事后隐匿财宝之用的。因此，本项的混淆性其实也不算强。",
+          "setId": "Q8503_399143",
+          "blockId": "Q8503_399143"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Which TWO of the following statements does the writer make about inhabitants of the Mediterranean region in the ancient world?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8503_399143",
+          "options": [
+            {
+              "value": "A",
+              "text": "They often used stolen vessels to carry out pirate attacks."
+            },
+            {
+              "value": "B",
+              "text": "They managed to escape capture by the authorities because they knew the area so well."
+            },
+            {
+              "value": "C",
+              "text": "They paid for information about the routes merchant ships would take."
+            },
+            {
+              "value": "D",
+              "text": "They depended more on the sea for their livelihood than on farming."
+            },
+            {
+              "value": "E",
+              "text": "They stored many of the goods taken in pirate attacks in coves along the coastline."
+            }
+          ],
+          "explanation": "译文：关于古时候的地中海地区居民，作者提到了以下哪两点？\n\n选项A：They often used stolen vessels to carry out pirate attacks.（他们经常使用偷来的船开展海盗袭击。）B段第五句话中说到Most had their own boats，大多数人都有自家船只，可直接否定该选项。\n\n选项B：They managed to escape capture by the authorities because they knew the area so well.（他们能设法成功逃避官方抓捕，是因为他们对这个地区了如指掌。）B段最后一句话里明确说到knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived，这几乎就是在完美地同义替换本项的表述，因此B项是本题的正确答案之一。\n\n选项C：They paid for information about the routes merchant ships would take.（他们花钱购买关于商船将会采用航路的消息。）B段的倒数第三句提到，古代船只受航海技术和设备所限，大多数时候不得不在离岸较近的海域沿几条众所周知的航线来航行。换言之，商船会采用什么航线完全可以被预测到，根本无需花钱购买消息，可知此项并非答案。此外，如果考生采用了平行阅读法，就会发现原文这句话同时可以帮助解决上一个题型中的第19题，一举两得。\n\n选项D：They depended more on the sea for their livelihood than on farming.（他们的生计更加依赖海洋而不是农耕。）这个正确选项对应B段第四句，relied heavily on marine resources，就是在说他们谋生主要靠海洋资源。当然，如果考生按照平行阅读的原则顺次阅读文章内容，就会对此更加笃定，因为上一句话已经说到了地中海的一些地区崎岖多山，也就是土地贫瘠不适合农耕。前后两句话结合在一起，就是在充分表达这些居民无法靠土地而只能靠海洋的意思。\n\n选项E：They stored many of the goods taken in pirate attacks in coves along the coastline.（他们把从海盗打劫活动中获得的很多东西储存在海岸沿线的峡角里。）B段第七句话里确实出现了coves一词，考生即使并不认识这个单词，但只要耐心看懂全句就会知道，这些coves提供的是海盗隐藏自身、伺机出动打劫的隐蔽，而不是让他们事后隐匿财宝之用的。因此，本项的混淆性其实也不算强。",
+          "setId": "Q8503_399143",
+          "blockId": "Q8503_399143"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "They often used stolen vessels to carry out pirate attacks."
+        },
+        {
+          "value": "B",
+          "text": "They managed to escape capture by the authorities because they knew the area so well."
+        },
+        {
+          "value": "C",
+          "text": "They paid for information about the routes merchant ships would take."
+        },
+        {
+          "value": "D",
+          "text": "They depended more on the sea for their livelihood than on farming."
+        },
+        {
+          "value": "E",
+          "text": "They stored many of the goods taken in pirate attacks in coves along the coastline."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 22 and 23\n\nChoose TWO letters, A–E.\n\nWrite the correct letters in boxes 22 and 23 on your answer sheet.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Which TWO of the following statements does the writer make about piracy and ancient Greece?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "sourceCode": "Q8503_246674",
+          "options": [
+            {
+              "value": "A",
+              "text": "The state estimated that very few people were involved in piracy."
+            },
+            {
+              "value": "B",
+              "text": "Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written."
+            },
+            {
+              "value": "C",
+              "text": "Important officials were known to occasionally take part in piracy."
+            },
+            {
+              "value": "D",
+              "text": "Every citizen regarded pirate attacks on cities as unacceptable."
+            },
+            {
+              "value": "E",
+              "text": "A favourable view of piracy is evident in certain ancient Greek texts."
+            }
+          ],
+          "explanation": "译文：关于海盗行为与古希腊，作者提到了哪两点？\n\n选项A：The state estimated that very few people were involved in piracy. （国家预计很少有人牵扯进海盗活动。）这算是一条子虚乌有的信息，因为E段里并没有提及官方出台过任何预估。\n\n选项B：Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written.（在《伊利亚特》和《奥德赛》成书后不久，人们看待海盗行为的态度就发生了改变。）E段提及这两部作品是为了指出，作者荷马看待海盗的态度是宽容甚至褒扬的；此后一句话还跟进描述了接下来的几个世纪里这种看法并没有发生什么改变。根据这两句，可以直接否定本项内容。\n\n选项C：Important officials were known to occasionally take part in piracy.（位高权重的官员也众所周知地偶尔从事海盗行为。）这是本组多选题的正确选项之一，对应的是E段倒数第二句话，由一位雄辩家讲述了一个故事，说的正是几位大使在公差途中居然绕道去打劫了一条埃及船并将财宝据为己有。本句话的语法结构略复杂，详细分析可以参见前文“佳句赏析”中的第三句。\n\n选项D：Every citizen regarded pirate attacks on cities as unacceptable.（每一位公民都认为海盗攻打城市的行为是不可接受的。）这个选项的表述在E段中完全没有被提及过。E段第五句话里确实出现了“海盗攻打城市”这几个字眼，但全句说的是历史学家修西得底斯赞美了海盗攻打船只和城市，这既不能代表“每位公民”的态度，也与选项所说没有直接关联。\n\n选项E：A favourable view of piracy is evident in certain Greek texts.（在一些希腊文学中很明显存在一种对海盗行为的正面看法。）前文中无论是荷马的作品，还是修西得底斯的表达，无疑都是在验证该项是本题的另一个正确答案。",
+          "setId": "Q8503_246674",
+          "blockId": "Q8503_246674"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Which TWO of the following statements does the writer make about piracy and ancient Greece?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "sourceCode": "Q8503_246674",
+          "options": [
+            {
+              "value": "A",
+              "text": "The state estimated that very few people were involved in piracy."
+            },
+            {
+              "value": "B",
+              "text": "Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written."
+            },
+            {
+              "value": "C",
+              "text": "Important officials were known to occasionally take part in piracy."
+            },
+            {
+              "value": "D",
+              "text": "Every citizen regarded pirate attacks on cities as unacceptable."
+            },
+            {
+              "value": "E",
+              "text": "A favourable view of piracy is evident in certain ancient Greek texts."
+            }
+          ],
+          "explanation": "译文：关于海盗行为与古希腊，作者提到了哪两点？\n\n选项A：The state estimated that very few people were involved in piracy. （国家预计很少有人牵扯进海盗活动。）这算是一条子虚乌有的信息，因为E段里并没有提及官方出台过任何预估。\n\n选项B：Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written.（在《伊利亚特》和《奥德赛》成书后不久，人们看待海盗行为的态度就发生了改变。）E段提及这两部作品是为了指出，作者荷马看待海盗的态度是宽容甚至褒扬的；此后一句话还跟进描述了接下来的几个世纪里这种看法并没有发生什么改变。根据这两句，可以直接否定本项内容。\n\n选项C：Important officials were known to occasionally take part in piracy.（位高权重的官员也众所周知地偶尔从事海盗行为。）这是本组多选题的正确选项之一，对应的是E段倒数第二句话，由一位雄辩家讲述了一个故事，说的正是几位大使在公差途中居然绕道去打劫了一条埃及船并将财宝据为己有。本句话的语法结构略复杂，详细分析可以参见前文“佳句赏析”中的第三句。\n\n选项D：Every citizen regarded pirate attacks on cities as unacceptable.（每一位公民都认为海盗攻打城市的行为是不可接受的。）这个选项的表述在E段中完全没有被提及过。E段第五句话里确实出现了“海盗攻打城市”这几个字眼，但全句说的是历史学家修西得底斯赞美了海盗攻打船只和城市，这既不能代表“每位公民”的态度，也与选项所说没有直接关联。\n\n选项E：A favourable view of piracy is evident in certain Greek texts.（在一些希腊文学中很明显存在一种对海盗行为的正面看法。）前文中无论是荷马的作品，还是修西得底斯的表达，无疑都是在验证该项是本题的另一个正确答案。",
+          "setId": "Q8503_246674",
+          "blockId": "Q8503_246674"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "The state estimated that very few people were involved in piracy."
+        },
+        {
+          "value": "B",
+          "text": "Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written."
+        },
+        {
+          "value": "C",
+          "text": "Important officials were known to occasionally take part in piracy."
+        },
+        {
+          "value": "D",
+          "text": "Every citizen regarded pirate attacks on cities as unacceptable."
+        },
+        {
+          "value": "E",
+          "text": "A favourable view of piracy is evident in certain ancient Greek texts."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "text",
+      "instruction": "Questions 24–26\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 24–26 on your answer sheet.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "grain"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8503_218040",
+          "explanation": "24-25. 译文：然而，对于向罗马运输______船只的袭击造成了人们大声疾呼要对肇事的海盗予以______。\n\n如果单看24题的题干，给出的信息并不多，考生如能遵循平行阅读的方法，按部就班地完整阅读这个摘要填空中前两句没有挖空的句子，就能更清楚地知道，海盗现象并非毫无用处，其实给罗马带来了稳定的奴隶来源；但如果触及了罗马利益，则另当别论。在原文中读过了与以上表述相对应的F段前四句话之后，考生就能更有把握地预知，接下来反转的内容，也就是该说海盗活动的坏处了。果不其然，接下来的第五句讲的就是这个内容，打劫罗马市民视为命脉的谷物运输船引发了愤怒的呼声，由此可知空格内的答案应为grain。\n\n25题与上一题的答案出自同一句话，只要看懂句意就能同时得出本题答案：punishment。\n\n关于本题出处句的详细分析，可以参见前文“佳句赏析”中的第五句。\n\n26. 译文：然而，海盗活动仍在持续，一些海盗甚至要求一笔______来交换被他们抓走的罗马官员。\n\n本题的定位距离前两题并不远，考生只需顺次阅读，就能看出由于罗马先前的置若罔闻不作为，海盗越来越猖獗，居然绑架高官索要赎金，由此可得出正确答案应为ransom。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "punishment"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8503_892928",
+          "explanation": "24-25. 译文：然而，对于向罗马运输______船只的袭击造成了人们大声疾呼要对肇事的海盗予以______。\n\n如果单看24题的题干，给出的信息并不多，考生如能遵循平行阅读的方法，按部就班地完整阅读这个摘要填空中前两句没有挖空的句子，就能更清楚地知道，海盗现象并非毫无用处，其实给罗马带来了稳定的奴隶来源；但如果触及了罗马利益，则另当别论。在原文中读过了与以上表述相对应的F段前四句话之后，考生就能更有把握地预知，接下来反转的内容，也就是该说海盗活动的坏处了。果不其然，接下来的第五句讲的就是这个内容，打劫罗马市民视为命脉的谷物运输船引发了愤怒的呼声，由此可知空格内的答案应为grain。\n\n25题与上一题的答案出自同一句话，只要看懂句意就能同时得出本题答案：punishment。\n\n关于本题出处句的详细分析，可以参见前文“佳句赏析”中的第五句。\n\n26. 译文：然而，海盗活动仍在持续，一些海盗甚至要求一笔______来交换被他们抓走的罗马官员。\n\n本题的定位距离前两题并不远，考生只需顺次阅读，就能看出由于罗马先前的置若罔闻不作为，海盗越来越猖獗，居然绑架高官索要赎金，由此可得出正确答案应为ransom。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "ransom"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8503_988459",
+          "explanation": "24-25. 译文：然而，对于向罗马运输______船只的袭击造成了人们大声疾呼要对肇事的海盗予以______。\n\n如果单看24题的题干，给出的信息并不多，考生如能遵循平行阅读的方法，按部就班地完整阅读这个摘要填空中前两句没有挖空的句子，就能更清楚地知道，海盗现象并非毫无用处，其实给罗马带来了稳定的奴隶来源；但如果触及了罗马利益，则另当别论。在原文中读过了与以上表述相对应的F段前四句话之后，考生就能更有把握地预知，接下来反转的内容，也就是该说海盗活动的坏处了。果不其然，接下来的第五句讲的就是这个内容，打劫罗马市民视为命脉的谷物运输船引发了愤怒的呼声，由此可知空格内的答案应为grain。\n\n25题与上一题的答案出自同一句话，只要看懂句意就能同时得出本题答案：punishment。\n\n关于本题出处句的详细分析，可以参见前文“佳句赏析”中的第五句。\n\n26. 译文：然而，海盗活动仍在持续，一些海盗甚至要求一笔______来交换被他们抓走的罗马官员。\n\n本题的定位距离前两题并不远，考生只需顺次阅读，就能看出由于罗马先前的置若罔闻不作为，海盗越来越猖獗，居然绑架高官索要赎金，由此可得出正确答案应为ransom。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><b>Ancient Rome and piracy</b></p>\n\n<p>Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting<strong>[24] ______</strong> to Rome resulted in calls for<strong>[25] ______</strong>for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a <strong>[26] ______</strong>for the return of the Roman officials they captured.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>The pirates of the ancient Mediterranean</b></p><p><i>In the first and second millennia BCE, pirates sailed around the Mediterranean, attacking ships and avoiding pursuers</i></p><p><b>A     </b>When one mentions pirates, an image springs to most people’s minds of a crew of misfits, daredevils and adventurers in command of a tall sailing ship in the Caribbean Sea. Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes. However, despite all efforts and the might of various ancient states, piracy could not be stopped. The situation remained unchanged for thousands of years. Only when the pirates directly threatened the interests of ancient Rome did the Roman Republic organise a massive fleet to eliminate piracy. Under the command of the Roman general Pompey, Rome eradicated piracy, transforming the Mediterranean into <i>‘Mare Nostrum’ </i>(Our Sea).</p><p><b>B     </b>Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of Pharaoh Amenhotep III (c 1390–1353 BCE), it is reasonable to assume it predated this powerful civilisation. This is partly due to the great importance the Mediterranean held at this time, and partly due to its geography. While the Mediterranean region is predominantly fertile, some parts are rugged and hilly, even mountainous. In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt. Most had their own boats, possessed good seafaring skills, and unsurpassed knowledge of the local coastline and sailing routes. Thus, it is not surprising that during hardships, these men turned to piracy. Geography itself further benefited the pirates, with the numerous coves along the coast providing places for them to hide their boats and strike undetected. Before   the invention of ocean-going caravels* in the 15th century, ships could not easily cross long distances over open water. Thus, in the ancient world most were restricted to a few well-known navigable routes that followed the coastline. Caught in a trap, a slow merchant ship laden with goods had no other option but to surrender. In addition, knowledge of the local  area helped the pirates to avoid retaliation once a state fleet arrived.</p><p><b>C     </b>One should also add that it was not unknown in the first and second millennia BCE for governments to resort to pirates’ services, especially during wartime, employing their skills and numbers against their opponents. A pirate fleet would serve in the first wave of attack, preparing the way for the navy. Some of the regions were known for providing safe harbours to pirates, who, in return, boosted the local economy.</p><p><b>D     </b>The first known record of a named group of Mediterranean pirates, made during the rule of ancient Egyptian Pharaoh Akhenaten (c 1353–1336 BCE), was in the Amarna Letters. These were extracts of diplomatic correspondence between the pharaoh and his allies, and covered  many pressing issues, including piracy. It seems the pharaoh was troubled by two distinct pirate groups, the Lukka and the Sherden. Despite the Egyptian fleet’s best efforts, the pirates continued to cause substantial disruption to regional commerce. In the letters, the king of Alashiya (modern Cyprus) rejected Akhenaten’s claims of a connection with the Lukka (based in modern-day Turkey). The king assured Akhenaten he was prepared to punish any of his subjects involved in piracy.</p><p><b>E     </b>The ancient Greek world’s experience of piracy was different from that of Egyptian rulers. While Egypt’s power was land-based, the ancient Greeks relied on the Mediterranean in almost all aspects of life, from trade to warfare. Interestingly, in his works the <i>Iliad </i>and the <i>Odyssey</i>, the ancient Greek writer Homer not only condones, but praises the lifestyle and actions of pirates. The opinion remained unchanged in the following centuries. The ancient Greek historian Thucydides, for instance, glorified pirates’ daring attacks on ships or even cities. For Greeks, piracy was a part of everyday life. Even high-ranking members of the state were not beyond engaging in such activities. According to the Greek orator Demosthenes, in 355 BCE, Athenian ambassadors made a detour from their official travel to capture a ship sailing from Egypt, taking the wealth found onboard for themselves! The Greeks’ liberal approach towards piracy does not mean they always tolerated it, but attempts to curtail piracy were hampered by the large number of pirates operating in the Mediterranean.</p><p><b>F     </b>The rising power of ancient Rome required the Roman Republic to deal with piracy in the Mediterranean. While piracy was a serious issue for the Republic, Rome profited greatly from its existence. Pirate raids provided a steady source of slaves, essential for Rome’s agriculture and mining industries. But this arrangement could work only while the pirates left Roman interests alone. Pirate attacks on grain ships, which were essential to Roman citizens,  led to angry voices in the Senate, demanding punishment of the culprits. Rome, however, did nothing, further encouraging piracy. By the 1st century BCE, emboldened pirates kidnapped   prominent Roman dignitaries, asking for a large ransom to be paid. Their most famous hostage was none other than Julius Caesar, captured in 75 BCE.</p><p><b>G     </b>By now, Rome was well aware that pirates had outlived their usefulness. The time had come for concerted action. In 67 BCE, a new law granted Pompey vast funds to combat the Mediterranean menace. Taking personal command, Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each. After cleansing one district of pirates, the fleet would join another in the next district. The process continued until the entire Mediterranean was free of pirates. Although thousands of pirates died at the hands of Pompey’s troops, as a long-term solution to the problem, many more were offered land in fertile areas located far from the sea. Instead of a maritime menace, Rome got productive farmers that further boosted its economy.</p><p><i>* </i>caravel: a small, highly manoeuvrable sailing ship developed by the Portuguese</p>"
+}

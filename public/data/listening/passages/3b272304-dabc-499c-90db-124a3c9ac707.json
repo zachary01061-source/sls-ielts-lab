@@ -1,0 +1,239 @@
+{
+  "id": "3b272304-dabc-499c-90db-124a3c9ac707",
+  "title": "The driver alert system(D.A.S)（机经听写）",
+  "titleCn": "司机警觉系统D.A.S：监测疲劳的智能帽子",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/3b272304-dabc-499c-90db-124a3c9ac707",
+  "duration": 241,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Driver Alert System was originally developed for the mining industry, where workers often operate heavy machinery in tiring and dangerous conditions."
+    },
+    {
+      "label": "2",
+      "text": "The main component of the system is a special cap, which looks similar to the headgear worn by baseball players."
+    },
+    {
+      "label": "3",
+      "text": "After the sensors measure the driver's brainwaves, the information is shown which indicates the level of tiredness.on a screen as a number ,which indicates the level of tiredness."
+    },
+    {
+      "label": "4",
+      "text": "If the driver takes off the cap while the vehicle is moving, a warning message immediately appears on the screen."
+    },
+    {
+      "label": "5",
+      "text": "Although earlier versions were not practical, the final cap was designed to be very easy to clean so different drivers could use it safety."
+    },
+    {
+      "label": "6",
+      "text": "The base unit is useful because it can store sensors and also charge them when they are not being used."
+    },
+    {
+      "label": "7",
+      "text": "Since the cap is light and carefully designed, it does not block the driver's vision while they are driving. University tests showed that the system would not cause any problems with drivers' health even if they used it regularly. In the future, the company hopes to introduce the system to other fields,including the shipping industry. The designers are also trying to fit the Driver Alert System into a helmet so it can be used more easily in different working environments."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below. \nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "2f72f9fd-a9ba-4207-85ff-46a094e6d49b",
+          "prompt": "**31** The Driver Alert System was originally developed for the _____ industry, where workers often operate heavy machinery in tiring and dangerous conditions.",
+          "answers": [
+            "mining"
+          ],
+          "rawAnswer": "mining",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The Driver Alert System was originally developed for the mining industry, where workers often operate heavy machinery in tiring and dangerous conditions."
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "78e3969d-569b-41aa-9ece-c0976ae1338b",
+          "prompt": "**32** The main component of the system is a special cap, which looks similar to the headgear worn by _____ players.",
+          "answers": [
+            "baseball"
+          ],
+          "rawAnswer": "baseball",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The main component of the system is a special cap, which looks similar to the headgear worn by baseball players."
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "5f7e4c4b-7aa8-4efc-ac86-858c120e189d",
+          "prompt": "**33** After the sensors measure the driver's brainwaves, the information is shown on a screen as a _____ ,which indicates the level of tiredness.",
+          "answers": [
+            "number"
+          ],
+          "rawAnswer": "number",
+          "evidence": {
+            "paragraph": "",
+            "quote": "After the sensors measure the driver's brainwaves, the information is shown which indicates the level of tiredness.on a screen as a number ,which indicates the level of tiredness."
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "60fb55ff-1f8b-4390-9148-e68bd89febbf",
+          "prompt": "**34** If the driver takes off the cap while the vehicle is moving, a warning _____ immediately appears on the screen.",
+          "answers": [
+            "message"
+          ],
+          "rawAnswer": "message",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If the driver takes off the cap while the vehicle is moving, a warning message immediately appears on the screen."
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "ad43a5ec-5b77-4705-879e-56ca974fce2e",
+          "prompt": "**35** Although earlier versions were not practical, the final cap was designed to be very easy to _____ so different drivers could use it safety.",
+          "answers": [
+            "clean"
+          ],
+          "rawAnswer": "clean",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Although earlier versions were not practical, the final cap was designed to be very easy to clean so different drivers could use it safety."
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "e6faa435-973b-4a4e-a758-d2076a204193",
+          "prompt": "**36** The base unit is useful because it can store sensors and also _____ them when they are not being used.",
+          "answers": [
+            "charge"
+          ],
+          "rawAnswer": "charge",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The base unit is useful because it can store sensors and also charge them when they are not being used."
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "3d614989-00f6-4aa3-8e9d-6f6242f965d3",
+          "prompt": "**37** Since the cap is light and carefully designed, it does not block the driver's _____ while they are driving.",
+          "answers": [
+            "vision"
+          ],
+          "rawAnswer": "vision",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Since the cap is light and carefully designed, it does not block the driver's vision while they are driving."
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "938fad10-053c-4e31-badc-80055178a914",
+          "prompt": "**38** University tests showed that the system would not cause any problems with drivers' _____ even if they used it regularly.",
+          "answers": [
+            "health"
+          ],
+          "rawAnswer": "health",
+          "evidence": {
+            "paragraph": "",
+            "quote": "University tests showed that the system would not cause any problems with drivers' health even if they used it regularly."
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "ffe684ba-3a0a-4702-8cd4-1f7836b63bd9",
+          "prompt": "**39** In the future, the company hopes to introduce the system to other fields,including the _____ industry.",
+          "answers": [
+            "shipping"
+          ],
+          "rawAnswer": "shipping",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the future, the company hopes to introduce the system to other fields,including the shipping industry."
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "310d9d72-9953-43c9-8ac4-2909556ee4ad",
+          "prompt": "**40** The designers are also trying to fit the Driver Alert System into a _____ so it can be used more easily in different working environments.",
+          "answers": [
+            "helmet"
+          ],
+          "rawAnswer": "helmet",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The designers are also trying to fit the Driver Alert System into a helmet so it can be used more easily in different working environments."
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>The Driver Alert System was originally developed for the mining industry, where workers often operate heavy machinery in tiring and dangerous conditions.</p><p>The main component of the system is a special cap, which looks similar to the headgear worn by baseball players.</p><p>After the sensors measure the driver's brainwaves, the information is shown which indicates the level of tiredness.on a screen as a number ,which indicates the level of tiredness.</p><p>If the driver takes off the cap while the vehicle is moving, a warning message immediately appears on the screen.</p><p>Although earlier versions were not practical, the final cap was designed to be very easy to clean so different drivers could use it safety.</p><p>The base unit is useful because it can store sensors and also charge them when they are not being used.</p>Since the cap is light and carefully designed, it does not block the driver's vision while they are driving.<br>University tests showed that the system would not cause any problems with drivers' health even if they used it regularly.<br>In the future, the company hopes to introduce the system to other fields,including the shipping industry.<br>The designers are also trying to fit the Driver Alert System into a helmet so it can be used more easily in different working environments.<span><br></span>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/3b272304-dabc-499c-90db-124a3c9ac707.mp3",
+    "durationSeconds": 120.168,
+    "sizeBytes": 481168,
+    "sha256": "25448db5db83924e6c593e41e57eea5651ec572547850db8f8286fa57a5e0bb9",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:59:57Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792741142245_ltmr73.mp3"
+}

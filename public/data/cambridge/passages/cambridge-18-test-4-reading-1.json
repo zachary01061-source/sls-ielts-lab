@@ -1,0 +1,422 @@
+{
+  "id": "cambridge-18-test-4-reading-1",
+  "title": "Green roofs",
+  "titleCn": "Green roofs",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 4
+  },
+  "sourceQuestionId": "8475",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8475",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Green roofs"
+    },
+    {
+      "label": "2",
+      "text": "A"
+    },
+    {
+      "label": "3",
+      "text": "Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight in many cities around the world. More and more private companies and city authorities are investing in green roofs, drawn to their wide-ranging benefits. Among the benefits are saving on energy costs, mitigating the risk of floods, making habitats for urban wildlife, tackling air pollution and even growing food. These increasingly radical urban designs can help cities adapt to the monumental problems they face, such as access to resources and a lack of green space due to development. But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success – as is research investigating different options to suit the variety of rooftop spaces found in cities. The UK is relatively new to developing green roofs, and local governments and institutions are playing a major role in spreading the practice. London is home to much of the UK’s green roof market, mainly due to forward-thinking policies such as the London Plan, which has paved the way to more than doubling the area of green roofs in the capital."
+    },
+    {
+      "label": "4",
+      "text": "B"
+    },
+    {
+      "label": "5",
+      "text": "Ongoing research is showcasing how green roofs in cities can integrate with ‘living walls’: environmentally friendly walls which are partially or completely covered with greenery, including a growing medium, such as soil or water. Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees, so that the water is managed better and the built environment is made more sustainable. There is also evidence to demonstrate the social value of green roofs. Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression. And research has found that access to even the most basic green spaces can provide a better quality of life for dementia sufferers and help people avoid obesity."
+    },
+    {
+      "label": "6",
+      "text": "C"
+    },
+    {
+      "label": "7",
+      "text": "In North America, green roofs have become mainstream, with a wide array of expansive, accessible and food-producing roofs installed in buildings. Again, city leaders and authorities have helped push the movement forward – only recently, San Francisco, USA, created a policy requiring new buildings to have green roofs. Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops. These countries also benefit from having newer buildings than in many parts of the world, which makes it easier to install green roofs. Being able to keep enough water at roof height and distribute it right across the rooftop is crucial to maintaining the plants on any green roof – especially on ‘edible roofs’ where fruit and vegetables are farmed. And it’s much easier to do this in newer buildings, which can typically hold greater weight, than to retro-fit old ones. Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper."
+    },
+    {
+      "label": "8",
+      "text": "D"
+    },
+    {
+      "label": "9",
+      "text": "For green roofs to become the norm for new developments, there needs to be support from public authorities and private investors. Those responsible for maintaining buildings may have to acquire new skills, such as landscaping, and in some cases, volunteers may be needed to help out. Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities in and around the buildings during installation. To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important. The term ‘natural capital’ has been developed to explain the economic value of nature; for example, measuring the money saved by installing natural solutions to protect against flood damage, adapt to climate change or help people lead healthier and happier lives."
+    },
+    {
+      "label": "10",
+      "text": "E"
+    },
+    {
+      "label": "11",
+      "text": "As the expertise about green roofs grows, official standards have been developed to ensure that they are designed, constructed and maintained properly, and function well. Improvements in the science and technology underpinning green roof development have also led to new variations in the concept. For example, ‘blue roofs’ enable buildings to hold water over longer periods of time, rather than draining it away quickly – crucial in times of heavier rainfall. There are also combinations of green roofs with solar panels, and ‘brown roofs’ which are wilder in nature and maximise biodiversity. If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy – alongside many other benefits. There are still barriers to overcome, but the evidence so far indicates that green roofs have the potential to transform cities and help them function sustainably long into the future. The success stories need to be studied and replicated elsewhere, to make green, blue, brown and food-producing roofs the norm in cities around the world."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1–5\n\nReading Passage 1 has five paragraphs, A–E.\n\nWhich paragraph contains the following information?\n\nTick the correct letter, A–E, for questions 1-5.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "mention of several challenges to be overcome before a green roof can be installed",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8475_173668-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "reference to a city where green roofs have been promoted for many years",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8475_173668-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "a belief that existing green roofs should be used as a model for new ones",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8475_173668-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "examples of how green roofs can work in combination with other green urban initiatives",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8475_173668-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "the need to make a persuasive argument for the financial benefits of green roofs",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8475_173668-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 6–9\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 6–9 on your answer sheet.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Answer for gap 6.",
+          "answers": [
+            "energy"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8475_315517",
+          "explanation": "6. 本题开篇就使用了指代词these，直白地告诉考生“还是要老老实实充分阅读题干为好”，否则就算刚才跳过了没有挖空的第一句话，现在看到these也还是得回去查看到底these指的是什么。好在第一句不长也不难，原来these指的是“屋顶一片绿”的诸般好处。题干中的advantages一词，很快就能在A段第三句话里找到对应的同义替换词benefits，于是考生只需耐心阅读对比，便可轻松在这句话所列举的众多好处中看到“节约能源花销”这个信息，进而锁定答案词应为energy。\n\n7. 本题与上一道题来自同一个原文句，这一点其实题干已经做了充分提示：无论是指代词they（这回指的是绿色屋顶）还是also，都在告诉考生此题空格内所需的答案还是与绿色屋顶的诸多好处有关。因此，足够耐心和细心的考生不难在对比之后，看出题干中的producing对应了原文中的growing，要生产的是食物，从而顺利得出答案应为food。\n\n8. 本题与前两道题比起来略难一点点，主要是因为题干和原文中所用词汇的认知难度比前两题略高。题干中的medical profession对应原文中的doctors；题干中的recommends对应原文中的prescribe；题干中的上义词词组mental health issues则对应原文中的两个具体下义词anxiety和depression。二者都是在说“医生会告诉有焦虑和抑郁类精神问题的病人进行园艺活动来改善自己的情况”。但要因此说本题不好做，却也不够公正，因为所有这些单词都是雅思阅读文章中的常客，虽非最基础的起步类词汇，但认知难度也绝对说不上很高。看懂了这些对应内容，考生也就应该锁定了正确答案应为gardening。\n\n9. 本题才算真正从某种程度上考查了难度词汇。阅读题干后不难看出：这里还是在讲绿色空间的好处，因此本题距离上一题必定不远；阅读原文内容后也不难看出：确实在接下来的一句里给出了相关信息。但是，B段最后一句话提到了两种不同的好处，一种是为dementia患者提供更好的生活质量，另一种是帮助人们避免obesity。如果考生词汇过关、认识dementia指的是“痴呆”或“精神错乱”这类精神类疾病，则可以通过题干中要求的是“身体类疾病”这个线索排除此项，得出结论。\n\n不过，即使并不认识这个难度较高的词汇，考生也不必慌张，因为很多时候题干会给出不止一条答题线索，并非一味考查考生的单词量积累情况，而是更要求考生全面关注句子的整体意思。在这里，题干要求找到的是帮人们prevent身体问题，因此空格中所需的必然是某种不好的东西，对比原文会发现这个不认识的dementia患者其实是得到了好的东西，也就是better quality of life；反之要avoid的对象则是不好的obesity。从这个褒贬感情色彩出发，对比题干和进行排除，也可以确认正确答案为obesity。",
+          "promptHtml": "Answer for gap 6."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Answer for gap 7.",
+          "answers": [
+            "food"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8475_537500",
+          "explanation": "6. 本题开篇就使用了指代词these，直白地告诉考生“还是要老老实实充分阅读题干为好”，否则就算刚才跳过了没有挖空的第一句话，现在看到these也还是得回去查看到底these指的是什么。好在第一句不长也不难，原来these指的是“屋顶一片绿”的诸般好处。题干中的advantages一词，很快就能在A段第三句话里找到对应的同义替换词benefits，于是考生只需耐心阅读对比，便可轻松在这句话所列举的众多好处中看到“节约能源花销”这个信息，进而锁定答案词应为energy。\n\n7. 本题与上一道题来自同一个原文句，这一点其实题干已经做了充分提示：无论是指代词they（这回指的是绿色屋顶）还是also，都在告诉考生此题空格内所需的答案还是与绿色屋顶的诸多好处有关。因此，足够耐心和细心的考生不难在对比之后，看出题干中的producing对应了原文中的growing，要生产的是食物，从而顺利得出答案应为food。\n\n8. 本题与前两道题比起来略难一点点，主要是因为题干和原文中所用词汇的认知难度比前两题略高。题干中的medical profession对应原文中的doctors；题干中的recommends对应原文中的prescribe；题干中的上义词词组mental health issues则对应原文中的两个具体下义词anxiety和depression。二者都是在说“医生会告诉有焦虑和抑郁类精神问题的病人进行园艺活动来改善自己的情况”。但要因此说本题不好做，却也不够公正，因为所有这些单词都是雅思阅读文章中的常客，虽非最基础的起步类词汇，但认知难度也绝对说不上很高。看懂了这些对应内容，考生也就应该锁定了正确答案应为gardening。\n\n9. 本题才算真正从某种程度上考查了难度词汇。阅读题干后不难看出：这里还是在讲绿色空间的好处，因此本题距离上一题必定不远；阅读原文内容后也不难看出：确实在接下来的一句里给出了相关信息。但是，B段最后一句话提到了两种不同的好处，一种是为dementia患者提供更好的生活质量，另一种是帮助人们避免obesity。如果考生词汇过关、认识dementia指的是“痴呆”或“精神错乱”这类精神类疾病，则可以通过题干中要求的是“身体类疾病”这个线索排除此项，得出结论。\n\n不过，即使并不认识这个难度较高的词汇，考生也不必慌张，因为很多时候题干会给出不止一条答题线索，并非一味考查考生的单词量积累情况，而是更要求考生全面关注句子的整体意思。在这里，题干要求找到的是帮人们prevent身体问题，因此空格中所需的必然是某种不好的东西，对比原文会发现这个不认识的dementia患者其实是得到了好的东西，也就是better quality of life；反之要avoid的对象则是不好的obesity。从这个褒贬感情色彩出发，对比题干和进行排除，也可以确认正确答案为obesity。",
+          "promptHtml": "Answer for gap 7."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Answer for gap 8.",
+          "answers": [
+            "gardening"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8475_434687",
+          "explanation": "6. 本题开篇就使用了指代词these，直白地告诉考生“还是要老老实实充分阅读题干为好”，否则就算刚才跳过了没有挖空的第一句话，现在看到these也还是得回去查看到底these指的是什么。好在第一句不长也不难，原来these指的是“屋顶一片绿”的诸般好处。题干中的advantages一词，很快就能在A段第三句话里找到对应的同义替换词benefits，于是考生只需耐心阅读对比，便可轻松在这句话所列举的众多好处中看到“节约能源花销”这个信息，进而锁定答案词应为energy。\n\n7. 本题与上一道题来自同一个原文句，这一点其实题干已经做了充分提示：无论是指代词they（这回指的是绿色屋顶）还是also，都在告诉考生此题空格内所需的答案还是与绿色屋顶的诸多好处有关。因此，足够耐心和细心的考生不难在对比之后，看出题干中的producing对应了原文中的growing，要生产的是食物，从而顺利得出答案应为food。\n\n8. 本题与前两道题比起来略难一点点，主要是因为题干和原文中所用词汇的认知难度比前两题略高。题干中的medical profession对应原文中的doctors；题干中的recommends对应原文中的prescribe；题干中的上义词词组mental health issues则对应原文中的两个具体下义词anxiety和depression。二者都是在说“医生会告诉有焦虑和抑郁类精神问题的病人进行园艺活动来改善自己的情况”。但要因此说本题不好做，却也不够公正，因为所有这些单词都是雅思阅读文章中的常客，虽非最基础的起步类词汇，但认知难度也绝对说不上很高。看懂了这些对应内容，考生也就应该锁定了正确答案应为gardening。\n\n9. 本题才算真正从某种程度上考查了难度词汇。阅读题干后不难看出：这里还是在讲绿色空间的好处，因此本题距离上一题必定不远；阅读原文内容后也不难看出：确实在接下来的一句里给出了相关信息。但是，B段最后一句话提到了两种不同的好处，一种是为dementia患者提供更好的生活质量，另一种是帮助人们避免obesity。如果考生词汇过关、认识dementia指的是“痴呆”或“精神错乱”这类精神类疾病，则可以通过题干中要求的是“身体类疾病”这个线索排除此项，得出结论。\n\n不过，即使并不认识这个难度较高的词汇，考生也不必慌张，因为很多时候题干会给出不止一条答题线索，并非一味考查考生的单词量积累情况，而是更要求考生全面关注句子的整体意思。在这里，题干要求找到的是帮人们prevent身体问题，因此空格中所需的必然是某种不好的东西，对比原文会发现这个不认识的dementia患者其实是得到了好的东西，也就是better quality of life；反之要avoid的对象则是不好的obesity。从这个褒贬感情色彩出发，对比题干和进行排除，也可以确认正确答案为obesity。",
+          "promptHtml": "Answer for gap 8."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "obesity"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8475_303521",
+          "explanation": "6. 本题开篇就使用了指代词these，直白地告诉考生“还是要老老实实充分阅读题干为好”，否则就算刚才跳过了没有挖空的第一句话，现在看到these也还是得回去查看到底these指的是什么。好在第一句不长也不难，原来these指的是“屋顶一片绿”的诸般好处。题干中的advantages一词，很快就能在A段第三句话里找到对应的同义替换词benefits，于是考生只需耐心阅读对比，便可轻松在这句话所列举的众多好处中看到“节约能源花销”这个信息，进而锁定答案词应为energy。\n\n7. 本题与上一道题来自同一个原文句，这一点其实题干已经做了充分提示：无论是指代词they（这回指的是绿色屋顶）还是also，都在告诉考生此题空格内所需的答案还是与绿色屋顶的诸多好处有关。因此，足够耐心和细心的考生不难在对比之后，看出题干中的producing对应了原文中的growing，要生产的是食物，从而顺利得出答案应为food。\n\n8. 本题与前两道题比起来略难一点点，主要是因为题干和原文中所用词汇的认知难度比前两题略高。题干中的medical profession对应原文中的doctors；题干中的recommends对应原文中的prescribe；题干中的上义词词组mental health issues则对应原文中的两个具体下义词anxiety和depression。二者都是在说“医生会告诉有焦虑和抑郁类精神问题的病人进行园艺活动来改善自己的情况”。但要因此说本题不好做，却也不够公正，因为所有这些单词都是雅思阅读文章中的常客，虽非最基础的起步类词汇，但认知难度也绝对说不上很高。看懂了这些对应内容，考生也就应该锁定了正确答案应为gardening。\n\n9. 本题才算真正从某种程度上考查了难度词汇。阅读题干后不难看出：这里还是在讲绿色空间的好处，因此本题距离上一题必定不远；阅读原文内容后也不难看出：确实在接下来的一句里给出了相关信息。但是，B段最后一句话提到了两种不同的好处，一种是为dementia患者提供更好的生活质量，另一种是帮助人们避免obesity。如果考生词汇过关、认识dementia指的是“痴呆”或“精神错乱”这类精神类疾病，则可以通过题干中要求的是“身体类疾病”这个线索排除此项，得出结论。\n\n不过，即使并不认识这个难度较高的词汇，考生也不必慌张，因为很多时候题干会给出不止一条答题线索，并非一味考查考生的单词量积累情况，而是更要求考生全面关注句子的整体意思。在这里，题干要求找到的是帮人们prevent身体问题，因此空格中所需的必然是某种不好的东西，对比原文会发现这个不认识的dementia患者其实是得到了好的东西，也就是better quality of life；反之要avoid的对象则是不好的obesity。从这个褒贬感情色彩出发，对比题干和进行排除，也可以确认正确答案为obesity。",
+          "promptHtml": "Answer for gap 9."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong><span>Advantages of green roofs</span></strong></span></p>\n\n<p><br>\n<span>City rooftops covered with greenery have many advantages. These include lessening the likelihood that floods will occur, reducing how much money is spent on </span><strong>[6] ______</strong><span> and creating environments that are suitable for wildlife. In many cases, they can also be used for producing </span><strong>[7] ______</strong><span> .<br>\nThere are also social benefits of green roofs. For example, the medical profession recommends </span><strong>[8] ______</strong><span> as an activity to help people cope with mental health issues. Studies have also shown that the availability of green spaces can prevent physical problems such as </span><strong>[9] ______</strong><span> .</span></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 10 and 11\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Which TWO advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q8475_965128",
+          "options": [
+            {
+              "value": "A",
+              "text": "a longer growing season for edible produce"
+            },
+            {
+              "value": "B",
+              "text": "more economical use of water"
+            },
+            {
+              "value": "C",
+              "text": "greater water-storage capacity"
+            },
+            {
+              "value": "D",
+              "text": "ability to cultivate more plant types"
+            },
+            {
+              "value": "E",
+              "text": "a large surface area for growing plants"
+            }
+          ],
+          "explanation": "选项A：a longer growing season for edible produce（可食用农产品的一个更长的生长期）如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。因为读遍了整个C段，也找不到对于这条信息的相关表述。读者在此倒是可以特别注意一下produce在此处的用法：指的是名词形式的“农产品”而非动词形式的“生产”。这个用法在雅思真题中被考查过不止一次，而且阅读和听力中都出现过它的身影，值得考生牢固掌握。\n\n选项B：more economical use of water（更能节约用水）C段里确实提到了water这个信息，然而仔细对比原文意思不难看出，新建筑与水有关的属性是有更强的蓄水能力，而非更节约地使用水源，因此本项的干扰作用并不强。\n\n选项C：greater water-storage capacity（更大的蓄水能力）这个选项直接对应了C段的倒数第三句话：“要能在屋顶高度储蓄足够的水并输送到屋顶各处去”，因此本项正是正确答案之一。对应原文句的语法结构略复杂，详细分析可以参见前文“佳句赏析”中的第四句。\n\n选项D：ability to cultivate more plant types（可以种植更多的作物品种）这个选项连同其对应的C段最后一句话，都简短易懂，原文句用来表述“更容易种植更多植物品类”的greater variety与选项中的more plant types，更是连词汇难度都算不上高。考生应当可以顺利选中此项作为第二个正确答案。\n\n选项E：a large surface area for growing plants（有更大的表面区域来种植作物）本项与A项类似，也是一条完全未在C段任何地方被提及过的、子虚乌有的内容。",
+          "setId": "Q8475_965128",
+          "blockId": "Q8475_965128"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Which TWO advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q8475_965128",
+          "options": [
+            {
+              "value": "A",
+              "text": "a longer growing season for edible produce"
+            },
+            {
+              "value": "B",
+              "text": "more economical use of water"
+            },
+            {
+              "value": "C",
+              "text": "greater water-storage capacity"
+            },
+            {
+              "value": "D",
+              "text": "ability to cultivate more plant types"
+            },
+            {
+              "value": "E",
+              "text": "a large surface area for growing plants"
+            }
+          ],
+          "explanation": "选项A：a longer growing season for edible produce（可食用农产品的一个更长的生长期）如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。因为读遍了整个C段，也找不到对于这条信息的相关表述。读者在此倒是可以特别注意一下produce在此处的用法：指的是名词形式的“农产品”而非动词形式的“生产”。这个用法在雅思真题中被考查过不止一次，而且阅读和听力中都出现过它的身影，值得考生牢固掌握。\n\n选项B：more economical use of water（更能节约用水）C段里确实提到了water这个信息，然而仔细对比原文意思不难看出，新建筑与水有关的属性是有更强的蓄水能力，而非更节约地使用水源，因此本项的干扰作用并不强。\n\n选项C：greater water-storage capacity（更大的蓄水能力）这个选项直接对应了C段的倒数第三句话：“要能在屋顶高度储蓄足够的水并输送到屋顶各处去”，因此本项正是正确答案之一。对应原文句的语法结构略复杂，详细分析可以参见前文“佳句赏析”中的第四句。\n\n选项D：ability to cultivate more plant types（可以种植更多的作物品种）这个选项连同其对应的C段最后一句话，都简短易懂，原文句用来表述“更容易种植更多植物品类”的greater variety与选项中的more plant types，更是连词汇难度都算不上高。考生应当可以顺利选中此项作为第二个正确答案。\n\n选项E：a large surface area for growing plants（有更大的表面区域来种植作物）本项与A项类似，也是一条完全未在C段任何地方被提及过的、子虚乌有的内容。",
+          "setId": "Q8475_965128",
+          "blockId": "Q8475_965128"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "a longer growing season for edible produce"
+        },
+        {
+          "value": "B",
+          "text": "more economical use of water"
+        },
+        {
+          "value": "C",
+          "text": "greater water-storage capacity"
+        },
+        {
+          "value": "D",
+          "text": "ability to cultivate more plant types"
+        },
+        {
+          "value": "E",
+          "text": "a large surface area for growing plants"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 12 and 13\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Which TWO aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?",
+          "answers": [
+            "A",
+            "D"
+          ],
+          "sourceCode": "Q8475_382682",
+          "options": [
+            {
+              "value": "A",
+              "text": "to provide habitats for a wide range of species"
+            },
+            {
+              "value": "B",
+              "text": "to grow plants successfully even in the wettest climates"
+            },
+            {
+              "value": "C",
+              "text": "to regulate the temperature of the immediate environment"
+            },
+            {
+              "value": "D",
+              "text": "to generate power from a sustainable source"
+            },
+            {
+              "value": "E",
+              "text": "to collect water to supply other buildings"
+            }
+          ],
+          "explanation": "本题的两个正确选项出处非常集中，来自原文同一句话；对考生词汇量的考查力度也算中等，像habitat、species、biodiversity、solar panel、generate power这些，虽不是最基础的词汇，但也绝对算不上生僻晦涩。考生只需拿出应有的耐心和细心来在E段中阅读寻找，应当就可以顺利解题。\n\n选项A：to provide habitats for a wide range of species（为许多物种提供栖息地）原文对应句为考生示范了如何精简地用两个单词来同义替换选项中从provide开始的一共8个词的内容：maximise biodiversity。所谓“生物多样性”，就是“数量尽可能众多的物种”；所谓“最大化”，就是“为它们提供生存条件以利于其繁衍生息”。两相对比，本项正是符合题干要求的正确答案之一。\n\n选项B：to grow plants successfully even in the wettest climates（在即使最潮湿的气候里也能成功种植作物）这个选项里虽然提到了“潮湿”，也就是间接地与E段原文中说到的water和rainfall有某些关联，然而完整意思却与文中所说的“能在下大雨时蓄水更长时间而不是很快排空”毫无关系，因此干扰作用并不强。\n\n选项C：to regulate the temperature of the immediate environment（调节周遭环境的温度）本项属于凭空捏造的一条信息，很好排除。不过读者倒是可以特别注意一下此处immediate这个词的用法，不是时间上的“立刻，马上”，而是空间上的“紧邻”。\n\n选项D：to generate power from a sustainable source（利用一种可持续发展的源头来发电）这个正确选项对应的是原文句中的solar panels。如前所说，只要考生的核心考点词汇认知能力达标，知道“太阳能发电板”的作用就是利用“太阳能”这种可持续资源来进行“发电”，就能准确锁定本项为第二个正确答案。\n\n选项E：to collect water to supply other buildings（收集水以供应其他建筑）这个选项与前面的B项有异曲同工之处，都属于虽然包含了water这个词、但总体意思却与原文表述风马牛不相及的情况，因此应该不会干扰考生作答。",
+          "setId": "Q8475_382682",
+          "blockId": "Q8475_382682"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Which TWO aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?",
+          "answers": [
+            "A",
+            "D"
+          ],
+          "sourceCode": "Q8475_382682",
+          "options": [
+            {
+              "value": "A",
+              "text": "to provide habitats for a wide range of species"
+            },
+            {
+              "value": "B",
+              "text": "to grow plants successfully even in the wettest climates"
+            },
+            {
+              "value": "C",
+              "text": "to regulate the temperature of the immediate environment"
+            },
+            {
+              "value": "D",
+              "text": "to generate power from a sustainable source"
+            },
+            {
+              "value": "E",
+              "text": "to collect water to supply other buildings"
+            }
+          ],
+          "explanation": "本题的两个正确选项出处非常集中，来自原文同一句话；对考生词汇量的考查力度也算中等，像habitat、species、biodiversity、solar panel、generate power这些，虽不是最基础的词汇，但也绝对算不上生僻晦涩。考生只需拿出应有的耐心和细心来在E段中阅读寻找，应当就可以顺利解题。\n\n选项A：to provide habitats for a wide range of species（为许多物种提供栖息地）原文对应句为考生示范了如何精简地用两个单词来同义替换选项中从provide开始的一共8个词的内容：maximise biodiversity。所谓“生物多样性”，就是“数量尽可能众多的物种”；所谓“最大化”，就是“为它们提供生存条件以利于其繁衍生息”。两相对比，本项正是符合题干要求的正确答案之一。\n\n选项B：to grow plants successfully even in the wettest climates（在即使最潮湿的气候里也能成功种植作物）这个选项里虽然提到了“潮湿”，也就是间接地与E段原文中说到的water和rainfall有某些关联，然而完整意思却与文中所说的“能在下大雨时蓄水更长时间而不是很快排空”毫无关系，因此干扰作用并不强。\n\n选项C：to regulate the temperature of the immediate environment（调节周遭环境的温度）本项属于凭空捏造的一条信息，很好排除。不过读者倒是可以特别注意一下此处immediate这个词的用法，不是时间上的“立刻，马上”，而是空间上的“紧邻”。\n\n选项D：to generate power from a sustainable source（利用一种可持续发展的源头来发电）这个正确选项对应的是原文句中的solar panels。如前所说，只要考生的核心考点词汇认知能力达标，知道“太阳能发电板”的作用就是利用“太阳能”这种可持续资源来进行“发电”，就能准确锁定本项为第二个正确答案。\n\n选项E：to collect water to supply other buildings（收集水以供应其他建筑）这个选项与前面的B项有异曲同工之处，都属于虽然包含了water这个词、但总体意思却与原文表述风马牛不相及的情况，因此应该不会干扰考生作答。",
+          "setId": "Q8475_382682",
+          "blockId": "Q8475_382682"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "to provide habitats for a wide range of species"
+        },
+        {
+          "value": "B",
+          "text": "to grow plants successfully even in the wettest climates"
+        },
+        {
+          "value": "C",
+          "text": "to regulate the temperature of the immediate environment"
+        },
+        {
+          "value": "D",
+          "text": "to generate power from a sustainable source"
+        },
+        {
+          "value": "E",
+          "text": "to collect water to supply other buildings"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><span><span>Green roofs</span></span></span></span></p><p><span>A<br>Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight in many cities around the world. More and more private companies and city authorities are investing in green roofs, drawn to their wide-ranging benefits. Among the benefits are saving on energy costs, mitigating the risk of floods, making habitats for urban wildlife, tackling air pollution and even growing food. These increasingly radical urban designs can help cities adapt to the monumental problems they face, such as access to resources and a lack of green space due to development. But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success – as is research investigating different options to suit the variety of rooftop spaces found in cities. The UK is relatively new to developing green roofs, and local governments and institutions are playing a major role in spreading the practice. London is home to much of the UK’s green roof market, mainly due to forward-thinking policies such as the London Plan, which has paved the way to more than doubling the area of green roofs in the capital.<br>B<br>Ongoing research is showcasing how green roofs in cities can integrate with ‘living walls’: environmentally friendly walls which are partially or completely covered with greenery, including a growing medium, such as soil or water. Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees, so that the water is managed better and the built environment is made more sustainable. There is also evidence to demonstrate the social value of green roofs. Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression. And research has found that access to even the most basic green spaces can provide a better quality of life for dementia sufferers and help people avoid obesity.<br>C <br>In North America, green roofs have become mainstream, with a wide array of expansive, accessible and food-producing roofs installed in buildings. Again, city leaders and authorities have helped push the movement forward – only recently, San Francisco, USA, created a policy requiring new buildings to have green roofs. Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops. These countries also benefit from having newer buildings than in many parts of the world, which makes it easier to install green roofs. Being able to keep enough water at roof height and distribute it right across the rooftop is crucial to maintaining the plants on any green roof – especially on ‘edible roofs’ where fruit and vegetables are farmed. And it’s much easier to do this in newer buildings, which can typically hold greater weight, than to retro-fit old ones. Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper.<br>D <br>For green roofs to become the norm for new developments, there needs to be support from public authorities and private investors. Those responsible for maintaining buildings may have to acquire new skills, such as landscaping, and in some cases, volunteers may be needed to help out. Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities in and around the buildings during installation. To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important. The term ‘natural capital’ has been developed to explain the economic value of nature; for example, measuring the money saved by installing natural solutions to protect against flood damage, adapt to climate change or help people lead healthier and happier lives.<br>E <br>As the expertise about green roofs grows, official standards have been developed to ensure that they are designed, constructed and maintained properly, and function well. Improvements in the science and technology underpinning green roof development have also led to new variations in the concept. For example, ‘blue roofs’ enable buildings to hold water over longer periods of time, rather than draining it away quickly – crucial in times of heavier rainfall. There are also combinations of green roofs with solar panels, and ‘brown roofs’ which are wilder in nature and maximise biodiversity. If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy – alongside many other benefits. There are still barriers to overcome, but the evidence so far indicates that green roofs have the potential to transform cities and help them function sustainably long into the future. The success stories need to be studied and replicated elsewhere, to make green, blue, brown and food-producing roofs the norm in cities around the world.</span></p>"
+}

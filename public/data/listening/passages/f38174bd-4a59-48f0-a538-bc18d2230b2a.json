@@ -1,0 +1,332 @@
+{
+  "id": "f38174bd-4a59-48f0-a538-bc18d2230b2a",
+  "title": "Cloud science",
+  "titleCn": "云的科学：云分类与人工降雨",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/f38174bd-4a59-48f0-a538-bc18d2230b2a",
+  "duration": 600,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,600"
+    },
+    {
+      "label": "2",
+      "text": "Today, we're exploring the fascinating history and implications of cloud science. This field has had a profound impact on meteorology, culture, and even human psychology. Let's start by going back to the early nineteenth century when the first major strides in cloud classification were made. A British scientist laid the foundation of modern cloud science by introducing a system to categorize clouds based on their shapes. He identified three main types. One of them, which he called cumulus, was noted for its towering vertical appearance and likened to a tower because of its cone-shaped form that stretches high into the atmosphere. Another type, in contrast, was more spread out and flat, resembling a sheet that blankets the sky."
+    },
+    {
+      "label": "3",
+      "text": "00:00:49,060"
+    },
+    {
+      "label": "4",
+      "text": "This innovative classification helped scientists understand atmospheric behavior, but it wasn't without criticism. Many scholars questioned the terminology he used as it mixed Latin and English. Some critics argued that his language choices were awkward and reflected his challenges as a non-native English speaker. Despite these initial hurdles, the scientist became widely celebrated for his work. He even turned to the arts, composing poetry that reflected his admiration for clouds, blending his scientific insights with a deep appreciation for their beauty."
+    },
+    {
+      "label": "5",
+      "text": "00:01:26,060"
+    },
+    {
+      "label": "6",
+      "text": "Moving beyond its scientific origins, the study of clouds began influencing cultural and artistic movements, especially in Britain. The newly established system of cloud classification had a significant impact on Romantic-era painters, who started incorporating intricate cloud formations into their landscapes. This was a powerful example of how scientific observation could inspire creativity. Meanwhile, scientists of the time sought practical applications for their newfound knowledge. They experimented with altering weather patterns, attempting to increase rainfall or even create fog in controlled environments. To achieve these goals, they employed innovative methods such as launching rockets filled with substances intended to influence atmospheric conditions."
+    },
+    {
+      "label": "7",
+      "text": "00:02:15,260"
+    },
+    {
+      "label": "8",
+      "text": "As we move into the twentieth century, cloud science continued to evolve, but not without challenges. One of the most notable experiments involved using silver iodide to seed clouds and encourage rainfall."
+    },
+    {
+      "label": "9",
+      "text": "00:02:28,740"
+    },
+    {
+      "label": "10",
+      "text": "However, this practice raised environmental concerns. For instance, in Australia, researchers discovered that a lake had been polluted as a direct result of these activities, sparking debates about the sustainability of weather modification."
+    },
+    {
+      "label": "11",
+      "text": "00:02:43,880"
+    },
+    {
+      "label": "12",
+      "text": "In response, scientists began exploring alternative approaches. One promising method involves using salt particles instead of chemicals, which poses less risk to ecosystems while achieving similar results."
+    },
+    {
+      "label": "13",
+      "text": "00:02:58,360"
+    },
+    {
+      "label": "14",
+      "text": "Lastly, cloud science has shed light on the relationship between weather and human behavior. Recent studies have revealed that changes in atmospheric conditions can significantly affect cognitive functions. For example, shifts in humidity or temperature have been shown to influence people's memory, either enhancing or impairing it depending on the circumstances. This underscores the interconnectedness of our environment, our minds, and"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "1b4ec8f6-b4f9-4bcb-8161-d6213928de83",
+          "prompt": "**Origins**\n· A British scientist classified clouds into three shapes, with the second type(Cumulus) resembling a cone-shaped **31**_____ .",
+          "answers": [
+            "tower"
+          ],
+          "rawAnswer": "tower",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of them, which he called cumulus, was noted for its towering vertical appearance and likened to a tower because of its cone-shaped form that stretches high into the atmosphere"
+          },
+          "keywordPairs": [
+            {
+              "question": "resembling",
+              "article": "likened to"
+            }
+          ],
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "2ae3f082-00d2-4d3f-999c-52166500ba79",
+          "prompt": "· The third type of cloud was compared to a flat **32**_____ .",
+          "answers": [
+            "sheet"
+          ],
+          "rawAnswer": "sheet",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another type, in contrast, was more spread out and flat, resembling a sheet that blankets the sky"
+          },
+          "keywordPairs": [
+            {
+              "question": "compared to",
+              "article": "resembling"
+            }
+          ],
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "ae645d8f-4d58-461f-8593-6d7e33fd7cc8",
+          "prompt": "· The scientist faced criticism for the **33**_____ used in naming clouds, as English was not his native language.",
+          "answers": [
+            "language"
+          ],
+          "rawAnswer": "language",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Many scholars questioned the terminology he used as it mixed Latin and English. Some critics argued that his language choices were awkward and reflected his challenges as a non-native English speaker"
+          },
+          "keywordPairs": [
+            {
+              "question": "criticism",
+              "article": "questioned"
+            },
+            {
+              "question": "used in naming clouds",
+              "article": "terminology he used"
+            },
+            {
+              "question": "English was not his native language",
+              "article": "non-native English speaker"
+            }
+          ],
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "63934848-1b50-4766-924f-595988b26e18",
+          "prompt": "· Despite the critiques, he gained fame as a scientific celebrity and even composed **34**_____ praising the beauty of clouds.",
+          "answers": [
+            "poetry"
+          ],
+          "rawAnswer": "poetry",
+          "evidence": {
+            "paragraph": "",
+            "quote": "He even turned to the arts, composing poetry that reflected his admiration for clouds, blending his scientific insights with a deep appreciation for their beauty"
+          },
+          "keywordPairs": [
+            {
+              "question": "praising the beauty of",
+              "article": "reflected his admiration for"
+            }
+          ],
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "ad98345a-4fa7-4004-bf15-847cd95cf291",
+          "prompt": "**Cultural and Artistic Impacts**\n· The **35**_____ influenced British art, inspiring artists to incorporate cloud depictions into their works.",
+          "answers": [
+            "art"
+          ],
+          "rawAnswer": "art",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Moving beyond its scientific origins, the study of clouds began influencing cultural and artistic movements, especially in Britain. The newly established system of cloud classification had a significant impact on Romantic-era painters, who started incorporating intricate cloud formations into their landscapes"
+          },
+          "keywordPairs": [
+            {
+              "question": "influenced",
+              "article": "had a significant impact on"
+            },
+            {
+              "question": "British art",
+              "article": "artistic movements"
+            }
+          ],
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "ba93cec7-736a-4936-b39a-8421931630b2",
+          "prompt": "· Scientists experimented with altering weather conditions, such as increasing or decreasing rainfall or **36**_____ .",
+          "answers": [
+            "fog"
+          ],
+          "rawAnswer": "fog",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They experimented with altering weather patterns, attempting to increase rainfall or even create fog in controlled environments"
+          },
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "187141c2-57f7-43a8-992e-be29da2206d8",
+          "prompt": "· **37**_____ were sometimes employed to deliver man-made materials for weather modification.",
+          "answers": [
+            "rocket"
+          ],
+          "rawAnswer": "rocket",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To achieve these goals, they employed innovative methods such as launching rockets filled with substances intended to influence atmospheric conditions"
+          },
+          "keywordPairs": [
+            {
+              "question": "deliver man-made materials",
+              "article": "filled with substances"
+            },
+            {
+              "question": "weather modification",
+              "article": "influence atmospheric conditions"
+            }
+          ],
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "61f7783a-ad7e-4566-a712-b8b3c33cd15f",
+          "prompt": "**Modern Weather Science**\n· The use of silver iodide in weather experiments led to water pollution, as observed in a **38**_____ in Australia.",
+          "answers": [
+            "lake"
+          ],
+          "rawAnswer": "lake",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For instance, in Australia, researchers discovered that a lake had been polluted as a direct result of these activities, sparking debates about the sustainability of weather modification"
+          },
+          "keywordPairs": [
+            {
+              "question": "observed in",
+              "article": "discovered"
+            }
+          ],
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "705c7ed5-3ea4-421d-a1c4-ec386e27d494",
+          "prompt": "· Today, some research focuses on using **39**_____ as a safer alternative for weather manipulation.",
+          "answers": [
+            "salt"
+          ],
+          "rawAnswer": "salt",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One promising method involves using salt particles instead of chemicals, which poses less risk to ecosystems while achieving similar results"
+          },
+          "keywordPairs": [
+            {
+              "question": "safer alternative",
+              "article": "poses less risk to ecosystems"
+            }
+          ],
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "0a49a63a-b5ae-42f1-975b-dd9b9813bb39",
+          "prompt": "· Research into the psychological effects of weather shows that weather changes can significantly impact people`s **40**_____ abilities.",
+          "answers": [
+            "memory"
+          ],
+          "rawAnswer": "memory",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Recent studies have revealed that changes in atmospheric conditions can significantly affect cognitive functions. For example, shifts in humidity or temperature have been shown to influence people's memory"
+          },
+          "keywordPairs": [
+            {
+              "question": "weather changes",
+              "article": "changes in atmospheric conditions"
+            },
+            {
+              "question": "impact",
+              "article": "affect"
+            },
+            {
+              "question": "abilities",
+              "article": "cognitive functions"
+            }
+          ],
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,600</p><p>Today, we're exploring the fascinating history and implications of cloud science. This field has had a profound impact on meteorology, culture, and even human psychology. Let's start by going back to the early nineteenth century when the first major strides in cloud classification were made. A British scientist laid the foundation of modern cloud science by introducing a system to categorize clouds based on their shapes. He identified three main types. One of them, which he called cumulus, was noted for its towering vertical appearance and likened to a tower because of its cone-shaped form that stretches high into the atmosphere. Another type, in contrast, was more spread out and flat, resembling a sheet that blankets the sky. </p><p>00:00:49,060</p><p>This innovative classification helped scientists understand atmospheric behavior, but it wasn't without criticism. Many scholars questioned the terminology he used as it mixed Latin and English. Some critics argued that his language choices were awkward and reflected his challenges as a non-native English speaker. Despite these initial hurdles, the scientist became widely celebrated for his work. He even turned to the arts, composing poetry that reflected his admiration for clouds, blending his scientific insights with a deep appreciation for their beauty. </p><p>00:01:26,060</p><p>Moving beyond its scientific origins, the study of clouds began influencing cultural and artistic movements, especially in Britain. The newly established system of cloud classification had a significant impact on Romantic-era painters, who started incorporating intricate cloud formations into their landscapes. This was a powerful example of how scientific observation could inspire creativity. Meanwhile, scientists of the time sought practical applications for their newfound knowledge. They experimented with altering weather patterns, attempting to increase rainfall or even create fog in controlled environments. To achieve these goals, they employed innovative methods such as launching rockets filled with substances intended to influence atmospheric conditions. </p><p>00:02:15,260</p><p>As we move into the twentieth century, cloud science continued to evolve, but not without challenges. One of the most notable experiments involved using silver iodide to seed clouds and encourage rainfall. </p><p>00:02:28,740</p><p>However, this practice raised environmental concerns. For instance, in Australia, researchers discovered that a lake had been polluted as a direct result of these activities, sparking debates about the sustainability of weather modification. </p><p>00:02:43,880</p><p>In response, scientists began exploring alternative approaches. One promising method involves using salt particles instead of chemicals, which poses less risk to ecosystems while achieving similar results. </p><p>00:02:58,360</p><p>Lastly, cloud science has shed light on the relationship between weather and human behavior. Recent studies have revealed that changes in atmospheric conditions can significantly affect cognitive functions. For example, shifts in humidity or temperature have been shown to influence people's memory, either enhancing or impairing it depending on the circumstances. This underscores the interconnectedness of our environment, our minds, and<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "pending",
+    "src": "",
+    "errorCode": "source_http_404",
+    "sourceUnavailable": true,
+    "sourceVerifiedAt": "2026-10-30T05:44:56Z"
+  },
+  "audioMissing": true,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346620076_rycb00_1f131ac5.mp3"
+}

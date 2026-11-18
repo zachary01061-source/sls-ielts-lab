@@ -1,0 +1,364 @@
+{
+  "id": "80749937-ac49-4aa2-98be-996ff7f3fc32",
+  "title": "Natural rubber production",
+  "titleCn": "天然橡胶的生产过程",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/80749937-ac49-4aa2-98be-996ff7f3fc32",
+  "duration": 366,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,380"
+    },
+    {
+      "label": "2",
+      "text": "Good morning. In this module, we've been looking at the production of some of the world's most important raw materials, and today it's the turn of rubber. Traditionally, natural rubber was produced on small holdings, and in case you're not familiar with the process, I'll just describe it briefly. The first stage in the process, known as tapping, involves making an incision in the rubber tree and removing a thin layer of bark. This procedure has to be done very carefully with a special knife, because if the incision is too deep, the tree will be damaged and a white liquid known as latex starts to ooze out. Next, the tapper attaches a cup to the tree made out of something simple like a coconut shell to collect it."
+    },
+    {
+      "label": "3",
+      "text": "00:00:47,520"
+    },
+    {
+      "label": "4",
+      "text": "Tapping is usually started in the early morning because the coolness encourages the latex to flow easily."
+    },
+    {
+      "label": "5",
+      "text": "00:00:55,260"
+    },
+    {
+      "label": "6",
+      "text": "Later in the day, the tapper goes back to each tree to get the latex and take it to what you might call the factory. Although the procedures that take place in it are relatively simple."
+    },
+    {
+      "label": "7",
+      "text": "00:01:07,740"
+    },
+    {
+      "label": "8",
+      "text": "Here, it is poured into a mould, and then formic acid is added to it, and the mixture is left for a few hours. The purpose of the formic acid is to thicken the liquid latex. So after some time, the latex is transformed into a solid block of rubber."
+    },
+    {
+      "label": "9",
+      "text": "00:01:26,880"
+    },
+    {
+      "label": "10",
+      "text": "This block of rubber is then pressed manually to turn it into a thin sheet. And then when it's thin enough, the rubber sheet is fed through a mangle. And I should point out that apart from this, no other machinery is used in the process. It's fairly simple. Just a frame with two rollers and a handle to turn them. The procedure is repeated several times to get rid of as much water as possible. And finally, these sheets are taken to a special smoke room where they are dried."
+    },
+    {
+      "label": "11",
+      "text": "00:02:01,580"
+    },
+    {
+      "label": "12",
+      "text": "And you're then left with what are by now sheets of brown rubber."
+    },
+    {
+      "label": "13",
+      "text": "00:02:06,450"
+    },
+    {
+      "label": "14",
+      "text": "These are then sold to traders who collect them from villages and sell them on in turn."
+    },
+    {
+      "label": "15",
+      "text": "00:02:17,580"
+    },
+    {
+      "label": "16",
+      "text": "Well, that's the process then. Now, just a little bit about the history of rubber. Rubber was in use in America long before it became commercially important. The rubber tree was a native of Brazil, and there's an account from as long ago as fifteen twenty-five of people in Mexico playing with rubber balls."
+    },
+    {
+      "label": "17",
+      "text": "00:02:39,740"
+    },
+    {
+      "label": "18",
+      "text": "But it wasn't until the nineteenth century that Europeans recognized the usefulness of the substance, chiefly for clothing."
+    },
+    {
+      "label": "19",
+      "text": "00:02:48,380"
+    },
+    {
+      "label": "20",
+      "text": "Various attempts were made to improve the properties of rubber. One of the key discoveries was of a process known as vulcanization, which involved heating the rubber and adding sulfur to it. And the result was a substance that had a lot more strength and was also more elastic, making it suitable for a variety of uses."
+    },
+    {
+      "label": "21",
+      "text": "00:03:11,240"
+    },
+    {
+      "label": "22",
+      "text": "But the thing that gave demand for rubber a real boost was the expanding automobile industry at the end of the nineteenth century and the invention of car tires."
+    },
+    {
+      "label": "23",
+      "text": "00:03:24,080"
+    },
+    {
+      "label": "24",
+      "text": "During the twentieth century, rubber became so important that there were various attempts to develop a synthetic version, but none of them resulted in a product that was able to compete with natural rubber until Germany developed a successful substitute when its supplies of the natural substance were cut off during the First World War. Later, this was accelerated when the American government built its own rubber factories."
+    },
+    {
+      "label": "25",
+      "text": "00:03:50,680"
+    },
+    {
+      "label": "26",
+      "text": "So, in economic terms, rubbers had an outstanding position in the global market for more than a hundred years."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "flow_chart",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "dd2b2ee3-af04-48ea-b86c-e49a779fa30d",
+          "prompt": "“tapping” - tree is cut and a layer of back is removed\n↓\ncup (e.g. made of a **31**_____ shell) is attached to collect latex",
+          "answers": [
+            "coconut"
+          ],
+          "rawAnswer": "coconut",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Next, the tapper attaches a cup to the tree made out of something simple like a coconut shell to collect it"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "baa7ea7f-aaa0-422a-adcb-c318d7860e04",
+          "prompt": "↓\nlatex is transferred to the “factory”\n↓\nLatex is poured into a **32**_____",
+          "answers": [
+            "mould"
+          ],
+          "rawAnswer": "mould",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Here, it is poured into a mould, and then formic acid is added to it, and the mixture is left for a few hours"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "9968b0e9-2a3d-4b4a-86b9-07d6fb995f93",
+          "prompt": "↓\nFormic acid is added to thicken the latex\n↓\nRubber is **33**_____ by hand, to make it into a thin sheet",
+          "answers": [
+            "pressed"
+          ],
+          "rawAnswer": "pressed",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This block of rubber is then pressed manually to turn it into a thin sheet"
+          },
+          "keywordPairs": [
+            {
+              "question": "by hand",
+              "article": "manually"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "b9326756-fa24-4e65-99e0-6cce2ac53efe",
+          "prompt": "↓\nRubber sheets is put through a mangle (N.B. the only **34**_____ in the process",
+          "answers": [
+            "machinery"
+          ],
+          "rawAnswer": "machinery",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And I should point out that apart from this, no other machinery is used in the process"
+          },
+          "keywordPairs": [
+            {
+              "question": "only",
+              "article": "no other"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "63d98585-2387-4abe-b899-fc0476d06fdb",
+          "prompt": "↓\nRubber sheets are taken to be **35**_____ in a special room",
+          "answers": [
+            "dried"
+          ],
+          "rawAnswer": "dried",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And finally, these sheets are taken to a special smoke room where they are dried"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "5a64c29c-ec9f-4afa-9db9-341387d80ba0",
+          "prompt": "↓\nRubber sheets are purchased by **36**_____",
+          "answers": [
+            "traders"
+          ],
+          "rawAnswer": "traders",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These are then sold to traders who collect them from villages and sell them on in turn"
+          },
+          "keywordPairs": [
+            {
+              "question": "purchased by",
+              "article": "sold to"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "c3afd3a7-ee21-4ec6-9f5a-12d071e0d88e",
+          "prompt": "**History of Rubber**\n\n**Earliest use**\nRubber tree - originally from Brazil\n1525 - rubber **37**_____ were used in Mexico",
+          "answers": [
+            "balls"
+          ],
+          "rawAnswer": "balls",
+          "evidence": {
+            "paragraph": "",
+            "quote": "there's an account from as long ago as fifteen twenty-five of people in Mexico playing with rubber balls"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "37753610-a049-464e-9746-57e2253f8923",
+          "prompt": "**19th century **\nEuropean interest in rubber\nKey discovery - “vulcanisation” made rubber stronger and **38**_____ .",
+          "answers": [
+            "elastic"
+          ],
+          "rawAnswer": "elastic",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And the result was a substance that had a lot more strength and was also more elastic, making it suitable for a variety of uses"
+          },
+          "keywordPairs": [
+            {
+              "question": "stronger",
+              "article": "a lot more strength"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "5bdfc53a-651f-43b9-8ce2-3ee251af7ae1",
+          "prompt": "Increase in demand when rubber **39**_____ were invented",
+          "answers": [
+            "car tires"
+          ],
+          "rawAnswer": "car tires",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But the thing that gave demand for rubber a real boost was the expanding automobile industry at the end of the nineteenth century and the invention of car tires"
+          },
+          "keywordPairs": [
+            {
+              "question": "Increase in",
+              "article": "a real boost"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "622dfb62-9d7a-48bb-a01a-b7d0ad9b98e5",
+          "prompt": "**20th century**\nSubstitute for natural rubber was first developed in **40**_____ during First World War",
+          "answers": [
+            "Germany"
+          ],
+          "rawAnswer": "Germany",
+          "evidence": {
+            "paragraph": "",
+            "quote": "but none of them resulted in a product that was able to compete with natural rubber until Germany developed a successful substitute when its supplies of the natural substance were cut off during the First World War"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "流程填图题",
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,380</p><p>Good morning. In this module, we've been looking at the production of some of the world's most important raw materials, and today it's the turn of rubber. Traditionally, natural rubber was produced on small holdings, and in case you're not familiar with the process, I'll just describe it briefly. The first stage in the process, known as tapping, involves making an incision in the rubber tree and removing a thin layer of bark. This procedure has to be done very carefully with a special knife, because if the incision is too deep, the tree will be damaged and a white liquid known as latex starts to ooze out. Next, the tapper attaches a cup to the tree made out of something simple like a coconut shell to collect it. </p><p>00:00:47,520</p><p>Tapping is usually started in the early morning because the coolness encourages the latex to flow easily. </p><p>00:00:55,260</p><p>Later in the day, the tapper goes back to each tree to get the latex and take it to what you might call the factory. Although the procedures that take place in it are relatively simple. </p><p>00:01:07,740</p><p>Here, it is poured into a mould, and then formic acid is added to it, and the mixture is left for a few hours. The purpose of the formic acid is to thicken the liquid latex. So after some time, the latex is transformed into a solid block of rubber. </p><p>00:01:26,880</p><p>This block of rubber is then pressed manually to turn it into a thin sheet. And then when it's thin enough, the rubber sheet is fed through a mangle. And I should point out that apart from this, no other machinery is used in the process. It's fairly simple. Just a frame with two rollers and a handle to turn them. The procedure is repeated several times to get rid of as much water as possible. And finally, these sheets are taken to a special smoke room where they are dried. </p><p>00:02:01,580</p><p>And you're then left with what are by now sheets of brown rubber. </p><p>00:02:06,450</p><p>These are then sold to traders who collect them from villages and sell them on in turn. </p><p>00:02:17,580</p><p>Well, that's the process then. Now, just a little bit about the history of rubber. Rubber was in use in America long before it became commercially important. The rubber tree was a native of Brazil, and there's an account from as long ago as fifteen twenty-five of people in Mexico playing with rubber balls. </p><p>00:02:39,740</p><p>But it wasn't until the nineteenth century that Europeans recognized the usefulness of the substance, chiefly for clothing. </p><p>00:02:48,380</p><p>Various attempts were made to improve the properties of rubber. One of the key discoveries was of a process known as vulcanization, which involved heating the rubber and adding sulfur to it. And the result was a substance that had a lot more strength and was also more elastic, making it suitable for a variety of uses. </p><p>00:03:11,240</p><p>But the thing that gave demand for rubber a real boost was the expanding automobile industry at the end of the nineteenth century and the invention of car tires. </p><p>00:03:24,080</p><p>During the twentieth century, rubber became so important that there were various attempts to develop a synthetic version, but none of them resulted in a product that was able to compete with natural rubber until Germany developed a successful substitute when its supplies of the natural substance were cut off during the First World War. Later, this was accelerated when the American government built its own rubber factories. </p><p>00:03:50,680</p><p>So, in economic terms, rubbers had an outstanding position in the global market for more than a hundred years.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/80749937-ac49-4aa2-98be-996ff7f3fc32.mp3",
+    "durationSeconds": 245.112,
+    "sizeBytes": 3922323,
+    "sha256": "1761f180560d7d288ec578b135ec6de439387f15194f5505357fd9fe557f3b39",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:23Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775482321449_c57yvf_67d4f37c_9a5e2e85.mp3"
+}

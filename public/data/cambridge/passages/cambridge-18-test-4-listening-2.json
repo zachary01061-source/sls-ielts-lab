@@ -1,0 +1,304 @@
+{
+  "id": "cambridge-18-test-4-listening-2",
+  "title": "C18T4L2",
+  "titleCn": "C18T4L2",
+  "subject": "listening",
+  "part": 2,
+  "duration": 436,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 4
+  },
+  "sourceQuestionId": "8472",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8472",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Good morning everyone, and welcome to the Museum of Farming Life. I understand it’s your first visit here, so I’d like to give you some background information about the museum and then explain a little about what you can see during your visit."
+    },
+    {
+      "label": "2",
+      "text": "So, where we’re standing at the moment is the entrance to a large building that was constructed in 1880 as the home of a local businessman, Alfred Palmer, of the Palmer biscuit factory. It was later sold and became a hall of residence for students in 1911, and a museum in 1951. In 2005, a modern extension was built to accommodate the museum’s collections."
+    },
+    {
+      "label": "3",
+      "text": "The museum’s owned by the university, and apart from two rooms that are our offices, the university uses the main part of the building. You may see students going into the building for lessons, but it’s not open to museum visitors, I’m afraid. It’s a shame because the interior architectural features are outstanding, especially the room that used to be the library."
+    },
+    {
+      "label": "4",
+      "text": "Luckily, we’ve managed to keep entry to the museum free. This includes access to all the galleries, outdoor areas and the rooms for special exhibitions. We run activities for children and students, such as the museum club, for which there’s no charge. We do have a donation box just over there so feel free to give whatever amount you consider appropriate."
+    },
+    {
+      "label": "5",
+      "text": "We do have a cloakroom, if you’d like to leave your coats and bags somewhere. Unlike other museums, photography is allowed here, so you might like to keep your cameras with you. You might be more comfortable not carrying around heavy rucksacks, though keep your coats and jackets on as it’s quite cold in the museum garden today."
+    },
+    {
+      "label": "6",
+      "text": "I’d like to tell you about the different areas of the museum."
+    },
+    {
+      "label": "7",
+      "text": "Just inside, and outside the main gallery, we have an area called Four Seasons. Here you can watch a four-minute animation of a woodland scene. It was designed especially for the museum by a group of young people on a film studies course, and it’s beautiful. Children absolutely love it, but then, so do adults."
+    },
+    {
+      "label": "8",
+      "text": "The main gallery’s called Town and Country. It includes a photographic collection of prizewinning sheep and shepherds. Leaving Town and Country, you enter Farmhouse Kitchen, which is … well, self-explanatory. Here we have the oldest collection of equipment for making butter and cheese in the country. And this morning, a specialist cheesemaker will be giving demonstrations of how it’s produced. You may even get to try some."
+    },
+    {
+      "label": "9",
+      "text": "After that, you can go in two directions. To the right is a staircase that takes you up to a landing from where you can look down on the galleries. To the left is a room called A Year on the Farm. There’s lots of seating here as sometimes we use the room for school visits, so it’s a good place to stop for a rest. If you’re feeling competitive, you can take our memory test in which you answer questions about things you’ve seen in the museum."
+    },
+    {
+      "label": "10",
+      "text": "The next area’s called Wagon Walk. This contains farm carts from nearly every part of the country. It’s surprising how much regional variation there was. Beside the carts are display boards with information about each one. The carts are old and fragile, so we ask you to keep your children close to you and ensure they don’t climb on the carts."
+    },
+    {
+      "label": "11",
+      "text": "From Wagon Walk, you can either make your way back to reception or go out into the garden – or even go back to take another look in the galleries. In the far corner of the garden is Bees are Magic, but we’re redeveloping this area so you can’t visit that at the moment. You can still buy our honey in the shop, though."
+    },
+    {
+      "label": "12",
+      "text": "Finally, there’s The Pond, which contains all kinds of interesting wildlife. There are baby ducks that are only a few days old, as well as tiny frogs. The Pond isn’t deep and there’s a fence around it, so it’s perfectly safe for children."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 11–14\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "The museum building was originally",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8472_576800",
+          "options": [
+            {
+              "value": "A",
+              "text": "a factory."
+            },
+            {
+              "value": "B",
+              "text": "a private home."
+            },
+            {
+              "value": "C",
+              "text": "a hall of residence."
+            }
+          ],
+          "explanation": "本题需要用题干中的关键词来排除干扰项。题干中的originally意为“起初，原来”，这类与时间相关的词容易伴随干扰信息。在原文中building原词重现，结合题干大致定位。was constructed…as…对应题干中的originally，之后提及的相关内容为home of a local businessman，对应B选项的private home。A选项的factory在原文中原词重现，但相关表述是说，这位商人是Palmer饼干工厂的Alfred Palmer，并不是在说博物馆建筑。C选项的a hall of residence在原文中也原词重现，但相关表述为was later sold，意为“后来被出售”，才成为了学生宿舍，不符合题干中的originally。因此本题答案为B。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "The university uses part of the museum building as",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8472_783067",
+          "options": [
+            {
+              "value": "A",
+              "text": "teaching rooms."
+            },
+            {
+              "value": "B",
+              "text": "a research library."
+            },
+            {
+              "value": "C",
+              "text": "administration offices."
+            }
+          ],
+          "explanation": "本题题干中的part在原文中原词重现，之后原文提及的lessons对应 A选项的teaching Tooms。B选项中的 library 在原文中原词重现，但相关表述 the toom that used to be the library，used to 意为“曾经”，用于描述过去持续或经常发生的事，因此排除B选项。本题答案为A。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "What does the guide say about the entrance fee?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8472_325605",
+          "options": [
+            {
+              "value": "A",
+              "text": "Visitors decide whether or not they wish to pay."
+            },
+            {
+              "value": "B",
+              "text": "Only children and students receive a discount."
+            },
+            {
+              "value": "C",
+              "text": "The museum charges extra for special exhibitions."
+            }
+          ],
+          "explanation": "本题审题时需要注意题干中的关键词entrance fee，意为“入场费”。原文中首先出现free，表示“免费”，紧接着提及这包括了画廊、室外区域以及特别展厅，因此C选项的special exhibitions虽然原词重现，但“免费”这一信息与选项中的charges extra不符，排除C选项。之后原文中children and students原词重现，但相关表述为no charge，与B选项中的discount不符，排除B选项。最后原文提及donation box，意为“捐款箱”，之后的feel free to give whatever amount…，对应A选项。因此本题答案为A。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What are visitors advised to leave in the cloakroom?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8472_480333",
+          "options": [
+            {
+              "value": "A",
+              "text": "cameras"
+            },
+            {
+              "value": "B",
+              "text": "coats"
+            },
+            {
+              "value": "C",
+              "text": "bags"
+            }
+          ],
+          "explanation": "本题题干中的cloakroom在原文中原词重现，之后cameras、coats和bags都是原词重现。关于cameras，原文表述为keep your cameras with you，因此排除A选项。之后提及not carrying，约等于对应题干中的leave in the cloakroom，相关物品是rucksacks，意为“背包”，同义替换C选项的bags。之后coats再次原词重现，但相关表述是keep your coats and jackets on，因此排除B选项。本题答案为C。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 15–20\n\nWhat information does the speaker give about each of the following areas of the museum?\n\nChoose SIX answers from the box and drag the correct letter, A–H, next to Questions 15–20.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Four Seasons [15] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8472_986474",
+          "explanation": "15. 本题题干Four Seasons在原文中原词重现，大致定位。接下来原文中提到animation of a woodland scene以及was designed especially…，对应选项F中的features something，这里的feature作动词，指“以……为特色”。原文中提到a group of young people on a film studies course，得出这些年轻人是学生，对应选项中的students。这里同时需要和D选项作区分，原文中说的是，这是由上电影研究课程的一群年轻人设计的，a group of指“一群”；而D选项说的是only for school groups，意为“仅适用于学校团体”，不符合原文。因此本题选F。\n\n16. 本题题干Farmhouse Kitchen在原文中原词重现，大致定位。之后的原文中，this morning对应G选项中的today，a specialist cheesemaker意为“专业的奶酪制造者（制造商）”或“奶酪制造专家”，对应选项中的expert。因此本题选G。\n\n17. 本题题干A Year on the Farm在原文中原词重现，大致定位。之后的原文中，memory test和answer questions对应E选项中的quiz。因此本题选E。\n\n18. 本题题干Wagon Walk在原文中原词重现，大致定位。之后原文中提及手推车陈旧且易损，结合原文your children判断这里的说话对象是家长，对应A选项中的Parents，children原词重现。本句中提及让孩子们close to you（you指的是家长），以及确保孩子们不要攀爬，对应选项中的supervise，意为“监督，管理”。因此本题选A。\n\n19. 本题题干Bees are Magic在原文中原词重现，大致定位。题干出现之后立即出现转折词but，紧接的内容中redeveloping表示“改造中”或“重新建设中”，原文的can’t visit对应选项C中的closed，原文的at the moment对应选项中的today。因此本题选C。\n\n20. 本题题干The Pond在原文中原词重现，大致定位。之后的原文中提到有baby ducks和tiny frogs，小鸭子们只有几天大，对应B选项中的new things。thing一词不仅可以表示“东西，物品”，在一些语境中还表示“生物，有生命的东西”。因此本题选B。",
+          "promptHtml": "Four Seasons [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Farmhouse Kitchen [16] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8472_630227",
+          "explanation": "15. 本题题干Four Seasons在原文中原词重现，大致定位。接下来原文中提到animation of a woodland scene以及was designed especially…，对应选项F中的features something，这里的feature作动词，指“以……为特色”。原文中提到a group of young people on a film studies course，得出这些年轻人是学生，对应选项中的students。这里同时需要和D选项作区分，原文中说的是，这是由上电影研究课程的一群年轻人设计的，a group of指“一群”；而D选项说的是only for school groups，意为“仅适用于学校团体”，不符合原文。因此本题选F。\n\n16. 本题题干Farmhouse Kitchen在原文中原词重现，大致定位。之后的原文中，this morning对应G选项中的today，a specialist cheesemaker意为“专业的奶酪制造者（制造商）”或“奶酪制造专家”，对应选项中的expert。因此本题选G。\n\n17. 本题题干A Year on the Farm在原文中原词重现，大致定位。之后的原文中，memory test和answer questions对应E选项中的quiz。因此本题选E。\n\n18. 本题题干Wagon Walk在原文中原词重现，大致定位。之后原文中提及手推车陈旧且易损，结合原文your children判断这里的说话对象是家长，对应A选项中的Parents，children原词重现。本句中提及让孩子们close to you（you指的是家长），以及确保孩子们不要攀爬，对应选项中的supervise，意为“监督，管理”。因此本题选A。\n\n19. 本题题干Bees are Magic在原文中原词重现，大致定位。题干出现之后立即出现转折词but，紧接的内容中redeveloping表示“改造中”或“重新建设中”，原文的can’t visit对应选项C中的closed，原文的at the moment对应选项中的today。因此本题选C。\n\n20. 本题题干The Pond在原文中原词重现，大致定位。之后的原文中提到有baby ducks和tiny frogs，小鸭子们只有几天大，对应B选项中的new things。thing一词不仅可以表示“东西，物品”，在一些语境中还表示“生物，有生命的东西”。因此本题选B。",
+          "promptHtml": "Farmhouse Kitchen [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "A Year on the Farm [17] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8472_187585",
+          "explanation": "15. 本题题干Four Seasons在原文中原词重现，大致定位。接下来原文中提到animation of a woodland scene以及was designed especially…，对应选项F中的features something，这里的feature作动词，指“以……为特色”。原文中提到a group of young people on a film studies course，得出这些年轻人是学生，对应选项中的students。这里同时需要和D选项作区分，原文中说的是，这是由上电影研究课程的一群年轻人设计的，a group of指“一群”；而D选项说的是only for school groups，意为“仅适用于学校团体”，不符合原文。因此本题选F。\n\n16. 本题题干Farmhouse Kitchen在原文中原词重现，大致定位。之后的原文中，this morning对应G选项中的today，a specialist cheesemaker意为“专业的奶酪制造者（制造商）”或“奶酪制造专家”，对应选项中的expert。因此本题选G。\n\n17. 本题题干A Year on the Farm在原文中原词重现，大致定位。之后的原文中，memory test和answer questions对应E选项中的quiz。因此本题选E。\n\n18. 本题题干Wagon Walk在原文中原词重现，大致定位。之后原文中提及手推车陈旧且易损，结合原文your children判断这里的说话对象是家长，对应A选项中的Parents，children原词重现。本句中提及让孩子们close to you（you指的是家长），以及确保孩子们不要攀爬，对应选项中的supervise，意为“监督，管理”。因此本题选A。\n\n19. 本题题干Bees are Magic在原文中原词重现，大致定位。题干出现之后立即出现转折词but，紧接的内容中redeveloping表示“改造中”或“重新建设中”，原文的can’t visit对应选项C中的closed，原文的at the moment对应选项中的today。因此本题选C。\n\n20. 本题题干The Pond在原文中原词重现，大致定位。之后的原文中提到有baby ducks和tiny frogs，小鸭子们只有几天大，对应B选项中的new things。thing一词不仅可以表示“东西，物品”，在一些语境中还表示“生物，有生命的东西”。因此本题选B。",
+          "promptHtml": "A Year on the Farm [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Wagon Walk [18] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8472_154017",
+          "explanation": "15. 本题题干Four Seasons在原文中原词重现，大致定位。接下来原文中提到animation of a woodland scene以及was designed especially…，对应选项F中的features something，这里的feature作动词，指“以……为特色”。原文中提到a group of young people on a film studies course，得出这些年轻人是学生，对应选项中的students。这里同时需要和D选项作区分，原文中说的是，这是由上电影研究课程的一群年轻人设计的，a group of指“一群”；而D选项说的是only for school groups，意为“仅适用于学校团体”，不符合原文。因此本题选F。\n\n16. 本题题干Farmhouse Kitchen在原文中原词重现，大致定位。之后的原文中，this morning对应G选项中的today，a specialist cheesemaker意为“专业的奶酪制造者（制造商）”或“奶酪制造专家”，对应选项中的expert。因此本题选G。\n\n17. 本题题干A Year on the Farm在原文中原词重现，大致定位。之后的原文中，memory test和answer questions对应E选项中的quiz。因此本题选E。\n\n18. 本题题干Wagon Walk在原文中原词重现，大致定位。之后原文中提及手推车陈旧且易损，结合原文your children判断这里的说话对象是家长，对应A选项中的Parents，children原词重现。本句中提及让孩子们close to you（you指的是家长），以及确保孩子们不要攀爬，对应选项中的supervise，意为“监督，管理”。因此本题选A。\n\n19. 本题题干Bees are Magic在原文中原词重现，大致定位。题干出现之后立即出现转折词but，紧接的内容中redeveloping表示“改造中”或“重新建设中”，原文的can’t visit对应选项C中的closed，原文的at the moment对应选项中的today。因此本题选C。\n\n20. 本题题干The Pond在原文中原词重现，大致定位。之后的原文中提到有baby ducks和tiny frogs，小鸭子们只有几天大，对应B选项中的new things。thing一词不仅可以表示“东西，物品”，在一些语境中还表示“生物，有生命的东西”。因此本题选B。",
+          "promptHtml": "Wagon Walk [18] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Bees are Magic [19] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8472_819335",
+          "explanation": "15. 本题题干Four Seasons在原文中原词重现，大致定位。接下来原文中提到animation of a woodland scene以及was designed especially…，对应选项F中的features something，这里的feature作动词，指“以……为特色”。原文中提到a group of young people on a film studies course，得出这些年轻人是学生，对应选项中的students。这里同时需要和D选项作区分，原文中说的是，这是由上电影研究课程的一群年轻人设计的，a group of指“一群”；而D选项说的是only for school groups，意为“仅适用于学校团体”，不符合原文。因此本题选F。\n\n16. 本题题干Farmhouse Kitchen在原文中原词重现，大致定位。之后的原文中，this morning对应G选项中的today，a specialist cheesemaker意为“专业的奶酪制造者（制造商）”或“奶酪制造专家”，对应选项中的expert。因此本题选G。\n\n17. 本题题干A Year on the Farm在原文中原词重现，大致定位。之后的原文中，memory test和answer questions对应E选项中的quiz。因此本题选E。\n\n18. 本题题干Wagon Walk在原文中原词重现，大致定位。之后原文中提及手推车陈旧且易损，结合原文your children判断这里的说话对象是家长，对应A选项中的Parents，children原词重现。本句中提及让孩子们close to you（you指的是家长），以及确保孩子们不要攀爬，对应选项中的supervise，意为“监督，管理”。因此本题选A。\n\n19. 本题题干Bees are Magic在原文中原词重现，大致定位。题干出现之后立即出现转折词but，紧接的内容中redeveloping表示“改造中”或“重新建设中”，原文的can’t visit对应选项C中的closed，原文的at the moment对应选项中的today。因此本题选C。\n\n20. 本题题干The Pond在原文中原词重现，大致定位。之后的原文中提到有baby ducks和tiny frogs，小鸭子们只有几天大，对应B选项中的new things。thing一词不仅可以表示“东西，物品”，在一些语境中还表示“生物，有生命的东西”。因此本题选B。",
+          "promptHtml": "Bees are Magic [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "The Pond [20] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8472_405130",
+          "explanation": "15. 本题题干Four Seasons在原文中原词重现，大致定位。接下来原文中提到animation of a woodland scene以及was designed especially…，对应选项F中的features something，这里的feature作动词，指“以……为特色”。原文中提到a group of young people on a film studies course，得出这些年轻人是学生，对应选项中的students。这里同时需要和D选项作区分，原文中说的是，这是由上电影研究课程的一群年轻人设计的，a group of指“一群”；而D选项说的是only for school groups，意为“仅适用于学校团体”，不符合原文。因此本题选F。\n\n16. 本题题干Farmhouse Kitchen在原文中原词重现，大致定位。之后的原文中，this morning对应G选项中的today，a specialist cheesemaker意为“专业的奶酪制造者（制造商）”或“奶酪制造专家”，对应选项中的expert。因此本题选G。\n\n17. 本题题干A Year on the Farm在原文中原词重现，大致定位。之后的原文中，memory test和answer questions对应E选项中的quiz。因此本题选E。\n\n18. 本题题干Wagon Walk在原文中原词重现，大致定位。之后原文中提及手推车陈旧且易损，结合原文your children判断这里的说话对象是家长，对应A选项中的Parents，children原词重现。本句中提及让孩子们close to you（you指的是家长），以及确保孩子们不要攀爬，对应选项中的supervise，意为“监督，管理”。因此本题选A。\n\n19. 本题题干Bees are Magic在原文中原词重现，大致定位。题干出现之后立即出现转折词but，紧接的内容中redeveloping表示“改造中”或“重新建设中”，原文的can’t visit对应选项C中的closed，原文的at the moment对应选项中的today。因此本题选C。\n\n20. 本题题干The Pond在原文中原词重现，大致定位。之后的原文中提到有baby ducks和tiny frogs，小鸭子们只有几天大，对应B选项中的new things。thing一词不仅可以表示“东西，物品”，在一些语境中还表示“生物，有生命的东西”。因此本题选B。",
+          "promptHtml": "The Pond [20] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Parents must supervise their children."
+        },
+        {
+          "value": "B",
+          "text": "There are new things to see."
+        },
+        {
+          "value": "C",
+          "text": "It is closed today."
+        },
+        {
+          "value": "D",
+          "text": "This is only for school groups."
+        },
+        {
+          "value": "E",
+          "text": "There is a quiz for visitors."
+        },
+        {
+          "value": "F",
+          "text": "It features something created by students."
+        },
+        {
+          "value": "G",
+          "text": "An expert is here today."
+        },
+        {
+          "value": "H",
+          "text": "There is a one-way system."
+        }
+      ],
+      "contextHtml": "<p><span><strong>Areas of museum</strong><br>\nFour Seasons </span><strong>[15] ______</strong> <br>\n<span>Farmhouse Kitchen </span><strong>[16] ______</strong> <br>\n<span>A Year on the Farm </span><strong>[17] ______</strong> <br>\n<span>Wagon Walk </span><strong>[18] ______</strong> <br>\n<span>Bees are Magic </span><strong>[19] ______</strong> <br>\n<span>The Pond </span><strong>[20] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span>Good morning everyone, and welcome to the Museum of Farming Life. I understand it’s your first visit here, so I’d like to give you some background information about the museum and then explain a little about what you can see during your visit.<br>\nSo, where we’re standing at the moment is the entrance to a large building that was constructed in 1880 as the home of a local businessman, Alfred Palmer, of the Palmer biscuit factory. It was later sold and became a hall of residence for students in 1911, and a museum in 1951. In 2005, a modern extension was built to accommodate the museum’s collections.<br>\nThe museum’s owned by the university, and apart from two rooms that are our offices, the university uses the main part of the building. You may see students going into the building for lessons, but it’s not open to museum visitors, I’m afraid. It’s a shame because the interior architectural features are outstanding, especially the room that used to be the library.<br>\nLuckily, we’ve managed to keep entry to the museum free. This includes access to all the galleries, outdoor areas and the rooms for special exhibitions. We run activities for children and students, such as the museum club, for which there’s no charge. We do have a donation box just over there so feel free to give whatever amount you consider appropriate.<br>\nWe do have a cloakroom, if you’d like to leave your coats and bags somewhere. Unlike other museums, photography is allowed here, so you might like to keep your cameras with you. You might be more comfortable not carrying around heavy rucksacks, though keep your coats and jackets on as it’s quite cold in the museum garden today.<br>\nI’d like to tell you about the different areas of the museum. <br>\nJust inside, and outside the main gallery, we have an area called Four Seasons. Here you can watch a four-minute animation of a woodland scene. It was designed especially for the museum by a group of young people on a film studies course, and it’s beautiful. Children absolutely love it, but then, so do adults.<br>\nThe main gallery’s called Town and Country. It includes a photographic collection of prizewinning sheep and shepherds. Leaving Town and Country, you enter Farmhouse Kitchen, which is … well, self-explanatory. Here we have the oldest collection of equipment for making butter and cheese in the country. And this morning, a specialist cheesemaker will be giving demonstrations of how it’s produced. You may even get to try some.<br>\nAfter that, you can go in two directions. To the right is a staircase that takes you up to a landing from where you can look down on the galleries. To the left is a room called A Year on the Farm. There’s lots of seating here as sometimes we use the room for school visits, so it’s a good place to stop for a rest. If you’re feeling competitive, you can take our memory test in which you answer questions about things you’ve seen in the museum.<br>\nThe next area’s called Wagon Walk. This contains farm carts from nearly every part of the country. It’s surprising how much regional variation there was. Beside the carts are display boards with information about each one. The carts are old and fragile, so we ask you to keep your children close to you and ensure they don’t climb on the carts.<br>\nFrom Wagon Walk, you can either make your way back to reception or go out into the garden – or even go back to take another look in the galleries. In the far corner of the garden is Bees are Magic, but we’re redeveloping this area so you can’t visit that at the moment. You can still buy our honey in the shop, though.<br>\nFinally, there’s The Pond, which contains all kinds of interesting wildlife. There are baby ducks that are only a few days old, as well as tiny frogs. The Pond isn’t deep and there’s a fence around it, so it’s perfectly safe for children.</span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8472.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 436.122
+  }
+}

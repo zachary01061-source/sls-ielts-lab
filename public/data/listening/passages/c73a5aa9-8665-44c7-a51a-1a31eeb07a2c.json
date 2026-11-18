@@ -1,0 +1,357 @@
+{
+  "id": "c73a5aa9-8665-44c7-a51a-1a31eeb07a2c",
+  "title": "Office space design",
+  "titleCn": "办公室空间设计对员工的影响",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/c73a5aa9-8665-44c7-a51a-1a31eeb07a2c",
+  "duration": 433,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,600"
+    },
+    {
+      "label": "2",
+      "text": "Part four."
+    },
+    {
+      "label": "3",
+      "text": "00:00:03,740"
+    },
+    {
+      "label": "4",
+      "text": "You will hear part of a talk about recent research into the design of workplaces."
+    },
+    {
+      "label": "5",
+      "text": "00:00:11,500"
+    },
+    {
+      "label": "6",
+      "text": "First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "7",
+      "text": "00:00:21,220"
+    },
+    {
+      "label": "8",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "9",
+      "text": "00:01:15,120"
+    },
+    {
+      "label": "10",
+      "text": "Hello, everyone. I recently completed some important research into the way office space is designed and its impact on employees. The open plan office had been the norm for offices around the world. I'm sure you can picture one, a big room with maybe fifty or a hundred workers sitting at their workstations. You might think open plan designs are a recent phenomenon, but they actually came about in the early twentieth century when businesses needed large numbers of people to do typing."
+    },
+    {
+      "label": "11",
+      "text": "00:01:51,030"
+    },
+    {
+      "label": "12",
+      "text": "These employees, usually women, used to have to sit in rows, working away at their typewriters under the watchful eye of their supervisor. Over the years, designers have come up with several variations on the open theme. In particular, this has been achieved through furnishings. The early designs featured separate desks. A subsequent design introduced the concept of the cubicle. These can have either high screens that workers can't see over or a screen just low enough to keep a lookout for the manager."
+    },
+    {
+      "label": "13",
+      "text": "00:02:28,170"
+    },
+    {
+      "label": "14",
+      "text": "[laughs] And nowadays, with the increase in large call centers, a phenomenon known as hot desking is common. In this system, employees working on different shifts are asked to share the same workstation. As you can imagine, this is not very popular with staff as there is little opportunity to personalize your workspace."
+    },
+    {
+      "label": "15",
+      "text": "00:02:55,800"
+    },
+    {
+      "label": "16",
+      "text": "In fact, my research shows that employees in general dislike the open plan design. As a part of my research, I conducted a survey of the staff in several large companies with open plan offices. The employees all voiced similar concerns about the design. Firstly, they felt that the open plan took away their privacy, but many also felt the need to carry their valuables with them at all times. So to some extent, they also felt there was less security with these designs."
+    },
+    {
+      "label": "17",
+      "text": "00:03:30,410"
+    },
+    {
+      "label": "18",
+      "text": "Another common complaint may be something for employers to consider when choosing this type of design, and this was that these types of office space are bad for the health. I was intrigued by this possibility, but looking at staff records, it does seem to be borne out."
+    },
+    {
+      "label": "19",
+      "text": "00:03:49,300"
+    },
+    {
+      "label": "20",
+      "text": "So if this design is so unpopular, why is it so commonplace? Well, the answer to that is in the benefits that the employers feel this type of design has. Of course, there is the obvious benefit that this design significantly reduces costs, both in terms of rent and even in terms of energy use. Employers also argue that an open plan design leads to better teamwork and communication. They also feel that new staff can learn from observing other workers, so this design can actually help in training staff. However, the complaints voiced by employees seem to suggest that the disadvantages far outweigh the advantages. The reality is that unhappy workers are unlikely to work well together, and there is plenty of evidence to suggest workers are frequently distracted from their work by the noise that is all around them."
+    },
+    {
+      "label": "21",
+      "text": "00:04:51,040"
+    },
+    {
+      "label": "22",
+      "text": "What is clear is that as designers, we need to think carefully about the impact that our design has both on the staff involved and the work that they do."
+    },
+    {
+      "label": "23",
+      "text": "00:05:04,780"
+    },
+    {
+      "label": "24",
+      "text": "That is the end of part four. You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "9c8d2926-0ba9-4d82-9fe9-860855d38078",
+          "prompt": "**Early 20th Century**\n- workers employed to do **31**_____ were arranged in rows",
+          "answers": [
+            "typing"
+          ],
+          "rawAnswer": "typing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You might think open plan designs are a recent phenomenon, but they actually came about in the early twentieth century when businesses needed large numbers of people to do typing;These employees, usually women, used to have to sit in rows, working away at their typewriters under the watchful eye of their supervisor"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "652895cc-0d26-4eb7-9c64-9d25b8892c84",
+          "prompt": "**1960s to present**\nVariations in design of open-plan offices:\n- first, workers had individual **32**_____",
+          "answers": [
+            "desks"
+          ],
+          "rawAnswer": "desks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The early designs featured separate desks"
+          },
+          "keywordPairs": [
+            {
+              "question": "first",
+              "article": "The early"
+            },
+            {
+              "question": "individual",
+              "article": "separate"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "171a8372-cd4a-46d5-bfd6-6617ffb092fb",
+          "prompt": "- later, they had cubicles with high or low **33**_____ .",
+          "answers": [
+            "screens"
+          ],
+          "rawAnswer": "screens",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A subsequent design introduced the concept of the cubicle. These can have either high screens that workers can't see over or a screen just low enough to keep a lookout for the manager"
+          },
+          "keywordPairs": [
+            {
+              "question": "later",
+              "article": "subsequent"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "143d2bbf-967c-4fed-a37a-ef2442fa2389",
+          "prompt": "- nowadays, workers may have to **34**_____ a work area",
+          "answers": [
+            "share"
+          ],
+          "rawAnswer": "share",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And nowadays, with the increase in large call centers, a phenomenon known as hot desking is common. In this system, employees working on different shifts are asked to share the same workstation"
+          },
+          "keywordPairs": [
+            {
+              "question": "workers",
+              "article": "employees"
+            },
+            {
+              "question": "work area",
+              "article": "workstation"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "20c499e6-3f55-47c5-96f7-4cd4f53d1ae6",
+          "prompt": "**Survey results**\nAttitudes of employees to open-plan designs:\n- there is a lack of **35**_____",
+          "answers": [
+            "privacy"
+          ],
+          "rawAnswer": "privacy",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Firstly, they felt that the open plan took away their privacy, but many also felt the need to carry their valuables with them at all times"
+          },
+          "keywordPairs": [
+            {
+              "question": "Attitudes",
+              "article": "concerns"
+            },
+            {
+              "question": "a lack of",
+              "article": "took away"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "d5e6cec4-96ef-452b-bd34-49b191df2af0",
+          "prompt": "and **36**_____",
+          "answers": [
+            "security"
+          ],
+          "rawAnswer": "security",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Firstly, they felt that the open plan took away their privacy, but many also felt the need to carry their valuables with them at all times. So to some extent, they also felt there was less security with these designs"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "bcae639f-bdba-4f41-8380-4376e0c88cdd",
+          "prompt": "- they pose a risk to our **37**_____ (staff records support this)",
+          "answers": [
+            "health"
+          ],
+          "rawAnswer": "health",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another common complaint may be something for employers to consider when choosing this type of design, and this was that these types of office space are bad for the health. I was intrigued by this possibility, but looking at staff records, it does seem to be borne out"
+          },
+          "keywordPairs": [
+            {
+              "question": "pose a risk to",
+              "article": "bad for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "36426b9e-4374-48ce-a271-d3a0653affe6",
+          "prompt": "**Attitudes of employers to open-plan designs**:\n- they significantly reduce rent and **38**_____ costs",
+          "answers": [
+            "energy"
+          ],
+          "rawAnswer": "energy",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Of course, there is the obvious benefit that this design significantly reduces costs, both in terms of rent and even in terms of energy use"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "caeffad4-e7a2-45e5-bbd8-ee5ef7cd35e1",
+          "prompt": "- they improve teamwork and communication\n- they can make **39**_____ staff easier",
+          "answers": [
+            "training"
+          ],
+          "rawAnswer": "training",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They also feel that new staff can learn from observing other workers, so this design can actually help in training staff"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "a9a69801-89ab-4fe0-8ced-1aa534705512",
+          "prompt": "- In reality, employees are unhappy and they are often distracted by the **40**_____ in the office",
+          "answers": [
+            "noise"
+          ],
+          "rawAnswer": "noise",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The reality is that unhappy workers are unlikely to work well together, and there is plenty of evidence to suggest workers are frequently distracted from their work by the noise that is all around them"
+          },
+          "keywordPairs": [
+            {
+              "question": "employees",
+              "article": "workers"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,600</p><p>Part four. </p><p>00:00:03,740</p><p>You will hear part of a talk about recent research into the design of workplaces. </p><p>00:00:11,500</p><p>First, you have some time to look at questions thirty-one to forty. </p><p>00:00:21,220</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:15,120</p><p>Hello, everyone. I recently completed some important research into the way office space is designed and its impact on employees. The open plan office had been the norm for offices around the world. I'm sure you can picture one, a big room with maybe fifty or a hundred workers sitting at their workstations. You might think open plan designs are a recent phenomenon, but they actually came about in the early twentieth century when businesses needed large numbers of people to do typing. </p><p>00:01:51,030</p><p>These employees, usually women, used to have to sit in rows, working away at their typewriters under the watchful eye of their supervisor. Over the years, designers have come up with several variations on the open theme. In particular, this has been achieved through furnishings. The early designs featured separate desks. A subsequent design introduced the concept of the cubicle. These can have either high screens that workers can't see over or a screen just low enough to keep a lookout for the manager. </p><p>00:02:28,170</p><p>[laughs] And nowadays, with the increase in large call centers, a phenomenon known as hot desking is common. In this system, employees working on different shifts are asked to share the same workstation. As you can imagine, this is not very popular with staff as there is little opportunity to personalize your workspace. </p><p>00:02:55,800</p><p>In fact, my research shows that employees in general dislike the open plan design. As a part of my research, I conducted a survey of the staff in several large companies with open plan offices. The employees all voiced similar concerns about the design. Firstly, they felt that the open plan took away their privacy, but many also felt the need to carry their valuables with them at all times. So to some extent, they also felt there was less security with these designs. </p><p>00:03:30,410</p><p>Another common complaint may be something for employers to consider when choosing this type of design, and this was that these types of office space are bad for the health. I was intrigued by this possibility, but looking at staff records, it does seem to be borne out. </p><p>00:03:49,300</p><p>So if this design is so unpopular, why is it so commonplace? Well, the answer to that is in the benefits that the employers feel this type of design has. Of course, there is the obvious benefit that this design significantly reduces costs, both in terms of rent and even in terms of energy use. Employers also argue that an open plan design leads to better teamwork and communication. They also feel that new staff can learn from observing other workers, so this design can actually help in training staff. However, the complaints voiced by employees seem to suggest that the disadvantages far outweigh the advantages. The reality is that unhappy workers are unlikely to work well together, and there is plenty of evidence to suggest workers are frequently distracted from their work by the noise that is all around them. </p><p>00:04:51,040</p><p>What is clear is that as designers, we need to think carefully about the impact that our design has both on the staff involved and the work that they do. </p><p>00:05:04,780</p><p>That is the end of part four. You now have one minute to check your answers to part four.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/c73a5aa9-8665-44c7-a51a-1a31eeb07a2c.mp3",
+    "durationSeconds": 312.912,
+    "sizeBytes": 1251993,
+    "sha256": "509f58a700be9c6095ee006ca90e8ef5dd0a9b2042c7098e7b9b8e9769f85757",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:29:56Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347446649_ai0b3u_da30a130.mp3"
+}

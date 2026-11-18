@@ -1,0 +1,291 @@
+{
+  "id": "58440eef-9809-48c1-a84b-3c36d3f73c5f",
+  "title": "Leatherback turtles",
+  "titleCn": "棱皮龟：深海潜水冠军与它的特殊身体构造",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/58440eef-9809-48c1-a84b-3c36d3f73c5f",
+  "duration": 395,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:03,000"
+    },
+    {
+      "label": "2",
+      "text": "Sea creature called leatherback turtle. Jenny Dovanikin of Florida Atlantic University has shown that they are the advantages of the leatherback's streamlined shape. Swimming leatherback turtles have a lower drag, more efficient than other species, indicating more efficient force. To swim at the same distance to other sea turtles of the comparable size and weight, leatherback turtles spend on average 20% less energy. Among all the deep-diving animals, the champions have always been assumed to be the marine mammals, the great whales and the airless seals. Our recent investigations, however, suggest that leatherback sea turtles may also be ranked among the ocean's greatest air-breathing dive reptiles. While marrying the dives of the leatherback sea turtles near St. Croix in the U.S. Virgin Islands, scientists recorded a 650-pound female ascending to more than 3,330 feet and remained there for 37 minutes. High pressure also poses a challenge to the deep diver in terms of strong forces that could compress the chest, causing broken bones or tissue damage. Unlike its hard-shelled relatives, leatherbacks has a softer shell made up from widely separated ribs embedded in a thick tissue, and the whole structure is overlaid with a leathery skin. How do the deep-diving animals, whales, seals, penguins, and leatherback turtles avoid decompression sickness and other hazards while they dive to the great depths? Even sleep for long periods of time. Many of the deepest diving marine mammals have small lungs and falsely exhale before diving. In addition to reducing the buoyancy so that they can dive more easily, this severely limits the amount of nitrogen in their bloodstream. One reason the leatherback ranges so far may be its specialized diet. This giant of the sea feeds mainly on jellyfish full of high protein and other useful minerals that it requires during the day. Although the variety of jellyfish and related prey are abundant, they are eaten by few other animals. As one might suspect, a life spent eating mostly jellyfish requires some special adaptations to make the job easier."
+    },
+    {
+      "label": "3",
+      "text": "00:02:17,500"
+    },
+    {
+      "label": "4",
+      "text": "During the 1984 and 1985 nesting seasons, with assistance of scientists, attached recorders to 10 female leatherbacks that just laid eggs. As a result, we are able to monitor the pattern of migration in Atlantic Ocean when they return to the sea. Some of the longest travel recorded for many animals have been made by this marine turtle. In 1970, a female leatherback was tagged when she nested in Suremi on the northeastern coast of South America. Less than one year later, she was captured off the coast of Ghana, West Africa, having traveled 3,700 miles across the Atlantic Ocean. Upon returning to the surface, the turtles changed a quick breath and immediately headed straight down again. Little or no time was given to sleep or rest. We then begin to track and tag the turtles when they swim back to the surface. On closer examination, we notice a difference in dives depending on the time of the day. Night dives were shallower with less in depth than day dives. Leatherbacks are such swimmers that they rarely stop moving, a behavior that has made it impossible to keep them in captivity. The front flippers are more than half the length of the turtle's body and generate power from huge muscles, which can account for 30% of the animal's total body weight. Since leatherbacks cannot easily be studied in captivity, researchers have been developing methods of studying them at sea. They used a recorder, an instrument capable of recording location and depth in sea. Developed by Gerald Kuhlman of the Psychological Research Laboratory, the device has been used to study diving marine animals. Why they keep diving? Scientists soon realized that the turtles were probably costing much of their energy to follow their food source. In tropical waters, jellyfish are most common at great depths. In a biological zone called the deep scattering layer. Discovered shortly after development of sonar, this zone consists of a layer of zooplankton that hovers below 1,800 feet during the day and migrates to the surface at night."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "78f6d763-9004-4016-b1e4-e8484063a0f5",
+          "prompt": "**Background**\nThe advantages **31**_____ of leatherback turtles makes them swim efficiently than others.",
+          "answers": [
+            "streamlined"
+          ],
+          "rawAnswer": "streamlined",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Jenny Dovanikin of Florida Atlantic University has shown that they are the advantages of the leatherback's streamlined shape. Swimming leatherback turtles have a lower drag, more efficient than other species, indicating more efficient force"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "0799d1ce-068e-4929-9ec9-a5ec96207134",
+          "prompt": "It is one of the deepest **32**_____ reptile.",
+          "answers": [
+            "diving"
+          ],
+          "rawAnswer": "diving",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Our recent investigations, however, suggest that leatherback sea turtles may also be ranked among the ocean's greatest air-breathing dive reptiles"
+          },
+          "keywordPairs": [
+            {
+              "question": "deepest",
+              "article": "greatest"
+            },
+            {
+              "question": "one of",
+              "article": "among"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "b61528ad-1aa1-4f7c-af7f-f601facacbfc",
+          "prompt": "Shell is **33**_____ not bony to avoid from high pressure.",
+          "answers": [
+            "soft"
+          ],
+          "rawAnswer": "soft",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Unlike its hard-shelled relatives, leatherbacks has a softer shell made up from widely separated ribs embedded in a thick tissue, and the whole structure is overlaid with a leathery skin"
+          },
+          "keywordPairs": [
+            {
+              "question": "not bony",
+              "article": "softer"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "3bd3ebc9-6a0c-4bfa-a77f-9fe75cc5d1ec",
+          "prompt": "Leatherback can **34**_____ in the water for several hours due to their size of lungs.",
+          "answers": [
+            "sleep"
+          ],
+          "rawAnswer": "sleep",
+          "evidence": {
+            "paragraph": "",
+            "quote": "How do the deep-diving animals, whales, seals, penguins, and leatherback turtles avoid decompression sickness and other hazards while they dive to the great depths? Even sleep for long periods of time"
+          },
+          "keywordPairs": [
+            {
+              "question": "several hours",
+              "article": "long periods of time"
+            },
+            {
+              "question": "in the water",
+              "article": "dive to the great depths"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "e0c1fdd6-5aba-4738-9631-1948c0da7169",
+          "prompt": "Main food is jellyfish contains high proportion in **35**_____ and mineral.",
+          "answers": [
+            "protein"
+          ],
+          "rawAnswer": "protein",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This giant of the sea feeds mainly on jellyfish full of high protein and other useful minerals that it requires during the day"
+          },
+          "keywordPairs": [
+            {
+              "question": "food",
+              "article": "feeds"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "1732637a-3934-434e-8052-7ca256da5780",
+          "prompt": "**Research methods**:\nScientists can learn their **36**_____ pattern in Atlantic ocean.",
+          "answers": [
+            "migration"
+          ],
+          "rawAnswer": "migration",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As a result, we are able to monitor the pattern of migration in Atlantic Ocean when they return to the sea"
+          },
+          "keywordPairs": [
+            {
+              "question": "learn",
+              "article": "monitor"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "a2c25690-5d2b-4704-9102-edbd29e8bfd1",
+          "prompt": "Scientists can start tracking when the turtle reaches **37**_____ .",
+          "answers": [
+            "surface"
+          ],
+          "rawAnswer": "surface",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We then begin to track and tag the turtles when they swim back to the surface"
+          },
+          "keywordPairs": [
+            {
+              "question": "reaches",
+              "article": "swim back to"
+            },
+            {
+              "question": "start",
+              "article": "begin"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "5fd9ac8d-0081-48cc-8cea-2760e0658458",
+          "prompt": "Huge front flipper can produce **38**_____ from strong muscles.",
+          "answers": [
+            "power"
+          ],
+          "rawAnswer": "power",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The front flippers are more than half the length of the turtle's body and generate power from huge muscles, which can account for 30% of the animal's total body weight"
+          },
+          "keywordPairs": [
+            {
+              "question": "produce",
+              "article": "generate"
+            },
+            {
+              "question": "strong",
+              "article": "huge"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "cc42c1d0-1297-4b38-9c10-33a66ffe9162",
+          "prompt": "A new recorder can monitor not only their location but also the **39**_____ in the sea.",
+          "answers": [
+            "depth"
+          ],
+          "rawAnswer": "depth",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They used a recorder, an instrument capable of recording location and depth in sea"
+          },
+          "keywordPairs": [
+            {
+              "question": "monitor",
+              "article": "recording"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "7723227f-b7d3-49b0-a233-80f916c00949",
+          "prompt": "Leatherback turtles are found using more **40**_____ to search food.",
+          "answers": [
+            "energy"
+          ],
+          "rawAnswer": "energy",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Scientists soon realized that the turtles were probably costing much of their energy to follow their food source"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:03,000</p><p>Sea creature called leatherback turtle. Jenny Dovanikin of Florida Atlantic University has shown that they are the advantages of the leatherback's streamlined shape. Swimming leatherback turtles have a lower drag, more efficient than other species, indicating more efficient force. To swim at the same distance to other sea turtles of the comparable size and weight, leatherback turtles spend on average 20% less energy. Among all the deep-diving animals, the champions have always been assumed to be the marine mammals, the great whales and the airless seals. Our recent investigations, however, suggest that leatherback sea turtles may also be ranked among the ocean's greatest air-breathing dive reptiles. While marrying the dives of the leatherback sea turtles near St. Croix in the U.S. Virgin Islands, scientists recorded a 650-pound female ascending to more than 3,330 feet and remained there for 37 minutes. High pressure also poses a challenge to the deep diver in terms of strong forces that could compress the chest, causing broken bones or tissue damage. Unlike its hard-shelled relatives, leatherbacks has a softer shell made up from widely separated ribs embedded in a thick tissue, and the whole structure is overlaid with a leathery skin. How do the deep-diving animals, whales, seals, penguins, and leatherback turtles avoid decompression sickness and other hazards while they dive to the great depths? Even sleep for long periods of time. Many of the deepest diving marine mammals have small lungs and falsely exhale before diving. In addition to reducing the buoyancy so that they can dive more easily, this severely limits the amount of nitrogen in their bloodstream. One reason the leatherback ranges so far may be its specialized diet. This giant of the sea feeds mainly on jellyfish full of high protein and other useful minerals that it requires during the day. Although the variety of jellyfish and related prey are abundant, they are eaten by few other animals. As one might suspect, a life spent eating mostly jellyfish requires some special adaptations to make the job easier. </p><p>00:02:17,500</p><p>During the 1984 and 1985 nesting seasons, with assistance of scientists, attached recorders to 10 female leatherbacks that just laid eggs. As a result, we are able to monitor the pattern of migration in Atlantic Ocean when they return to the sea. Some of the longest travel recorded for many animals have been made by this marine turtle. In 1970, a female leatherback was tagged when she nested in Suremi on the northeastern coast of South America. Less than one year later, she was captured off the coast of Ghana, West Africa, having traveled 3,700 miles across the Atlantic Ocean. Upon returning to the surface, the turtles changed a quick breath and immediately headed straight down again. Little or no time was given to sleep or rest. We then begin to track and tag the turtles when they swim back to the surface. On closer examination, we notice a difference in dives depending on the time of the day. Night dives were shallower with less in depth than day dives. Leatherbacks are such swimmers that they rarely stop moving, a behavior that has made it impossible to keep them in captivity. The front flippers are more than half the length of the turtle's body and generate power from huge muscles, which can account for 30% of the animal's total body weight. Since leatherbacks cannot easily be studied in captivity, researchers have been developing methods of studying them at sea. They used a recorder, an instrument capable of recording location and depth in sea. Developed by Gerald Kuhlman of the Psychological Research Laboratory, the device has been used to study diving marine animals. Why they keep diving? Scientists soon realized that the turtles were probably costing much of their energy to follow their food source. In tropical waters, jellyfish are most common at great depths. In a biological zone called the deep scattering layer. Discovered shortly after development of sonar, this zone consists of a layer of zooplankton that hovers below 1,800 feet during the day and migrates to the surface at night.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/58440eef-9809-48c1-a84b-3c36d3f73c5f.mp3",
+    "durationSeconds": 274.968,
+    "sizeBytes": 4400019,
+    "sha256": "bfbc87ec81e13392a5f0a7bd9326d6cd79846644f1c44a66236efab0c75955db",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:41:38Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777546279235_uekhpa_d7206de6.mp3"
+}

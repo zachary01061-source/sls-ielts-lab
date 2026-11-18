@@ -1,0 +1,305 @@
+{
+  "id": "c732dcb5-fd8c-408d-824b-e1ea29c745c9",
+  "title": "Dyscalculia",
+  "titleCn": "计算障碍：影响数学能力的神经发育障碍",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/c732dcb5-fd8c-408d-824b-e1ea29c745c9",
+  "duration": 381,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,960"
+    },
+    {
+      "label": "2",
+      "text": "about studying dyscalculia, a neurodevelopmental disorder affecting numerical abilities. First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:22,880"
+    },
+    {
+      "label": "4",
+      "text": "Dyscalculia, a complex neurodevelopmental condition, refers to a learning disorder marked by significant challenges in understanding and manipulating numerical concepts, quantities, and mathematical operations. It's a condition that affects children's ability to understand and work with numbers. Currently, most schools use the traditional method of teaching mathematics, which may not be effective for children with dyscalculia. These children struggle with grasping mathematical concepts, especially when it comes to understanding the concept of time and sequence. They find it challenging to comprehend the passage of time and the order in which events occur. In the classroom, teachers focus on providing everyday practical examples to help these children overcome their difficulties. They engage the students in activities that involve dealing with money, as this is a common challenge for children with dyscalculia. By incorporating real-life scenarios, teachers aim to make the learning experience more meaningful and relatable for these students. Additionally, teachers provide individualized support and interventions tailored to each student's needs. To boost their confidence, children with mathematics disorders are encouraged to practice more calculations and problem-solving. This additional practice helps them develop a stronger sense of self-assurance when it comes to dealing with mathematical tasks. Teachers also provide positive reinforcement and praise for their efforts and progress. Teachers also implement strategies that encourage children to make educated guesses when they encounter mathematical problems. By empowering them to make informed guesses, teachers hope to foster problem-solving skills and reduce anxiety associated with mathematical challenges. Additionally, they incorporate various exercises such as breathing techniques, relaxation exercises, and even walking breaks to promote a conducive learning environment. These activities aid in reducing stress and promoting focus during math lessons. Teachers also explore alternative teaching methods such as visual aids and manipulatives to enhance understanding and engagement. Researchers in this field are particularly interested in finding a potential link between dyscalculia and language learning difficulties. They are investigating whether there is a connection between language barriers and the challenges children face in mathematics. Understanding this link could help inform more targeted interventions and support strategies. Children with dyscalculia often struggle with concentration and maintaining focus. Teachers are aware of this issue and work to provide additional support and accommodations to help these children stay engaged during lessons. They may use techniques like chunking information, breaking tasks into smaller steps, and providing regular breaks. With this comprehensive approach to teaching children with dyscalculia, the aim is to provide them with the necessary skills and strategies to overcome their mathematical challenges. By implementing these strategies, children may no longer require additional treatment or training specifically focused on their mathematics disorder. Ongoing assessment and monitoring of progress are crucial to ensure the effectiveness of interventions and make any necessary adjustments. It's important to note that dyscalculia affects not only the children but also their families and teachers. Teachers and families play a crucial role in supporting these children and understanding their unique needs in the classroom and at home. Open communication, collaboration, and a supportive environment are key in helping children with dyscalculia thrive academically and emotionally. By recognizing and addressing dyscalculia, we can provide a more inclusive and supportive learning environment for all students."
+    },
+    {
+      "label": "5",
+      "text": "00:04:15,600"
+    },
+    {
+      "label": "6",
+      "text": "That is the end of part four. You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "f463d42f-747e-42d7-b46b-225709d33e80",
+          "prompt": "Most schools continue to rely on a **31**_____ mathematics. approach to teaching.",
+          "answers": [
+            "traditional"
+          ],
+          "rawAnswer": "traditional",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Currently, most schools use the traditional method of teaching mathematics, which may not be effective for children with dyscalculia"
+          },
+          "keywordPairs": [
+            {
+              "question": "rely on",
+              "article": "use"
+            },
+            {
+              "question": "approach",
+              "article": "method"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "58699e78-b69c-4e3d-b8d7-5ef85e363133",
+          "prompt": "Children have difficulty to understand **32**_____ events as well as the order of.",
+          "answers": [
+            "time"
+          ],
+          "rawAnswer": "time",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These children struggle with grasping mathematical concepts, especially when it comes to understanding the concept of time and sequence. They find it challenging to comprehend the passage of time and the order in which events occur"
+          },
+          "keywordPairs": [
+            {
+              "question": "have difficulty",
+              "article": "struggle with"
+            },
+            {
+              "question": "understand",
+              "article": "comprehend"
+            },
+            {
+              "question": "order",
+              "article": "sequence"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "d8844b1a-88c4-4430-8959-4f82bca48a1a",
+          "prompt": "In the class, they are taught everyday practice/problem e.g. situations involving **33**_____ .",
+          "answers": [
+            "money"
+          ],
+          "rawAnswer": "money",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They engage the students in activities that involve dealing with money, as this is a common challenge for children with dyscalculia"
+          },
+          "keywordPairs": [
+            {
+              "question": "situations involving",
+              "article": "activities that involve dealing with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "81aeb3e7-3684-48c5-a7d1-27685daaac39",
+          "prompt": "For children with mathematics disorder, they should develop more calculation to develop more **34**_____ .",
+          "answers": [
+            "confidence"
+          ],
+          "rawAnswer": "confidence",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To boost their confidence, children with mathematics disorders are encouraged to practice more calculations and problem-solving"
+          },
+          "keywordPairs": [
+            {
+              "question": "develop more",
+              "article": "boost"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "a38fc1ff-5489-436b-9096-63d3a1b866a7",
+          "prompt": "**Solution**:\nTeachers encourage them to solve the problem by making **35**_____ .",
+          "answers": [
+            "guesses"
+          ],
+          "rawAnswer": "guesses",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Teachers also implement strategies that encourage children to make educated guesses when they encounter mathematical problems"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "5ac291d7-a151-427a-ae01-d541043aa45a",
+          "prompt": "They also do activities such as breathing, relaxation and sometimes **36**_____ .",
+          "answers": [
+            "walking"
+          ],
+          "rawAnswer": "walking",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Additionally, they incorporate various exercises such as breathing techniques, relaxation exercises, and even walking breaks to promote a conducive learning environment"
+          },
+          "keywordPairs": [
+            {
+              "question": "activities",
+              "article": "exercises"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "5ed682b0-09d0-41af-8566-b6191ccc7e92",
+          "prompt": "Researchers would like to find a **37**_____ with language learning difficulty.",
+          "answers": [
+            "link"
+          ],
+          "rawAnswer": "link",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers in this field are particularly interested in finding a potential link between dyscalculia and language learning difficulties"
+          },
+          "keywordPairs": [
+            {
+              "question": "would like to",
+              "article": "are interested in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "30d378ce-6018-4c0a-9e71-f2a42594013b",
+          "prompt": "Children are likely to have some problems with **38**_____ .",
+          "answers": [
+            "concentration"
+          ],
+          "rawAnswer": "concentration",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Children with dyscalculia often struggle with concentration and maintaining focus"
+          },
+          "keywordPairs": [
+            {
+              "question": "are likely to have some problems with",
+              "article": "often struggle with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "d755071e-ac30-4a47-a7a9-143be2e678f5",
+          "prompt": "With this approach, children no longer needed **39**_____ training training again.",
+          "answers": [
+            "treatment"
+          ],
+          "rawAnswer": "treatment",
+          "evidence": {
+            "paragraph": "",
+            "quote": "By implementing these strategies, children may no longer require additional treatment or training specifically focused on their mathematics disorder"
+          },
+          "keywordPairs": [
+            {
+              "question": "approach",
+              "article": "strategies"
+            },
+            {
+              "question": "needed",
+              "article": "require"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "21a86dad-50b1-4897-9190-4c3d196ba830",
+          "prompt": "Dyscalculia affects not only students but also their families and their **40**_____ .",
+          "answers": [
+            "teachers"
+          ],
+          "rawAnswer": "teachers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It's important to note that dyscalculia affects not only the children but also their families and teachers"
+          },
+          "keywordPairs": [
+            {
+              "question": "students",
+              "article": "children"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,960</p><p>about studying dyscalculia, a neurodevelopmental disorder affecting numerical abilities. First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:22,880</p><p>Dyscalculia, a complex neurodevelopmental condition, refers to a learning disorder marked by significant challenges in understanding and manipulating numerical concepts, quantities, and mathematical operations. It's a condition that affects children's ability to understand and work with numbers. Currently, most schools use the traditional method of teaching mathematics, which may not be effective for children with dyscalculia. These children struggle with grasping mathematical concepts, especially when it comes to understanding the concept of time and sequence. They find it challenging to comprehend the passage of time and the order in which events occur. In the classroom, teachers focus on providing everyday practical examples to help these children overcome their difficulties. They engage the students in activities that involve dealing with money, as this is a common challenge for children with dyscalculia. By incorporating real-life scenarios, teachers aim to make the learning experience more meaningful and relatable for these students. Additionally, teachers provide individualized support and interventions tailored to each student's needs. To boost their confidence, children with mathematics disorders are encouraged to practice more calculations and problem-solving. This additional practice helps them develop a stronger sense of self-assurance when it comes to dealing with mathematical tasks. Teachers also provide positive reinforcement and praise for their efforts and progress. Teachers also implement strategies that encourage children to make educated guesses when they encounter mathematical problems. By empowering them to make informed guesses, teachers hope to foster problem-solving skills and reduce anxiety associated with mathematical challenges. Additionally, they incorporate various exercises such as breathing techniques, relaxation exercises, and even walking breaks to promote a conducive learning environment. These activities aid in reducing stress and promoting focus during math lessons. Teachers also explore alternative teaching methods such as visual aids and manipulatives to enhance understanding and engagement. Researchers in this field are particularly interested in finding a potential link between dyscalculia and language learning difficulties. They are investigating whether there is a connection between language barriers and the challenges children face in mathematics. Understanding this link could help inform more targeted interventions and support strategies. Children with dyscalculia often struggle with concentration and maintaining focus. Teachers are aware of this issue and work to provide additional support and accommodations to help these children stay engaged during lessons. They may use techniques like chunking information, breaking tasks into smaller steps, and providing regular breaks. With this comprehensive approach to teaching children with dyscalculia, the aim is to provide them with the necessary skills and strategies to overcome their mathematical challenges. By implementing these strategies, children may no longer require additional treatment or training specifically focused on their mathematics disorder. Ongoing assessment and monitoring of progress are crucial to ensure the effectiveness of interventions and make any necessary adjustments. It's important to note that dyscalculia affects not only the children but also their families and teachers. Teachers and families play a crucial role in supporting these children and understanding their unique needs in the classroom and at home. Open communication, collaboration, and a supportive environment are key in helping children with dyscalculia thrive academically and emotionally. By recognizing and addressing dyscalculia, we can provide a more inclusive and supportive learning environment for all students. </p><p>00:04:15,600</p><p>That is the end of part four. You now have one minute to check your answers to part four.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/c732dcb5-fd8c-408d-824b-e1ea29c745c9.mp3",
+    "durationSeconds": 260.28,
+    "sizeBytes": 1041465,
+    "sha256": "476254022fb97904c897d5a06d74ed2a130f774cde62faecadd3271703b56afc",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:54:47Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346737689_sxepef_f3148a13.mp3"
+}

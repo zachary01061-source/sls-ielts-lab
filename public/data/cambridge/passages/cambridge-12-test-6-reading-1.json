@@ -1,0 +1,472 @@
+{
+  "id": "cambridge-12-test-6-reading-1",
+  "title": "The risks agriculture faces in developing countries",
+  "titleCn": "The risks agriculture faces in developing countries",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 12,
+    "test": 6
+  },
+  "sourceQuestionId": "6722",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6722",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The risks agriculture faces in developing countries"
+    },
+    {
+      "label": "2",
+      "text": "Synthesis of an online debate *"
+    },
+    {
+      "label": "3",
+      "text": "A Two things distinguish food production from all other productive activities: first, every single person needs food each day and has a right to it; and second, it is hugely dependent on nature. These two unique aspects, one political, the other natural, make food production highly vulnerable and different from any other business. At the same time, cultural values are highly entrenched in food and agricultural systems worldwide."
+    },
+    {
+      "label": "4",
+      "text": "B Farmers everywhere face major risks, including extreme weather, long-term climate change, and price volatility in input and product markets. However, smallholder farmers in developing countries must in addition deal with adverse environments, both natural, in terms of soil quality, rainfall, etc., and human, in terms of infrastructure, financial systems, markets, knowledge and technology. Counter-intuitively, hunger is prevalent among many smallholder farmers in the developing world."
+    },
+    {
+      "label": "5",
+      "text": "C Participants in the online debate argued that our biggest challenge is to address the underlying causes of the agricultural system's inability to ensure sufficient food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies."
+    },
+    {
+      "label": "6",
+      "text": "D On the question of mitigating the risks farmers face, most essayists called for greater state intervention. In his essay, Kanayo F. Nwanze, President of the International Fund for Agricultural Development, argued that governments can significantly reduce risks for farmers by providing basic services like roads to get produce more efficiently to markets, or water and food storage facilities to reduce losses. Sophia Murphy, senior advisor to the Institute for Agriculture and Trade Policy, suggested that the procurement and holding of stocks by governments can also help mitigate wild swings in food prices by alleviating uncertainties about market supply."
+    },
+    {
+      "label": "7",
+      "text": "E Shenggen Fan, Director General of the International Food Policy Research Institute, held up social safety nets and public welfare programmes in Ethiopia, Brazil and Mexico as valuable ways to address poverty among farming families and reduce their vulnerability to agriculture shocks. However, some commentators responded that cash transfers to poor families do not necessarily translate into increased food security, as these programmes do not always strengthen food production or raise incomes. Regarding state subsidies for agriculture, Rokeya Kabir, Executive Director of Bangladesh Nari Progati Sangha, commented in her essay that these 'have not compensated for the stranglehold exercised by private traders. In fact, studies show that sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders.'"
+    },
+    {
+      "label": "8",
+      "text": "F Nwanze, Murphy and Fan argued that private risk management tools, like private insurance, commodity futures markets, and rural finance can help small-scale producers mitigate risk and allow for investment in improvements. Kabir warned that financial support schemes often encourage the adoption of high-input agricultural practices, which in the medium term may raise production costs beyond the value of their harvests. Murphy noted that when futures markets become excessively financialised they can contribute to short-term price volatility, which increases farmers' food insecurity. Many participants and commentators emphasised that greater transparency in markets is needed to mitigate the impact of volatility, and make evident whether adequate stocks and supplies are available. Others contended that agribusiness companies should be held responsible for paying for negative side effects."
+    },
+    {
+      "label": "9",
+      "text": "G Many essayists mentioned climate change and its consequences for small-scale agriculture. Fan explained that 'in addition to reducing crop yields, climate change increases the magnitude and the frequency of extreme weather events, which increase smallholder vulnerability.' The growing unpredictability of weather patterns increases farmers' difficulty in managing weather-related risks. According to this author, one solution would be to develop crop varieties that are more resilient to new climate trends and extreme weather patterns. Accordingly, Pat Mooney, co-founder and executive director of the ETC Group, suggested that 'if we are to survive climate change, we must adopt policies that let peasants diversify the plant and animal species and varieties/breeds that make up our menus.'"
+    },
+    {
+      "label": "10",
+      "text": "H Some participating authors and commentators argued in favour of community- based and autonomous risk management strategies through collective action groups, co-operatives or producers' groups. Such groups enhance market opportunities for small-scale producers, reduce marketing costs and synchronise buying and selling with seasonal price conditions. According to Murphy, 'collective action offers an important way for farmers to strengthen their political and economic bargaining power, and to reduce their business risks.' One commentator, Giel Ton, warned that collective action does not come as a free good. It takes time, effort and money to organise, build trust and to experiment. Others, like Marcel Vernooij and Marcel Beukeboom, suggested that in order to 'apply what we already know', all stakeholders, including business, government, scientists and civil society, must work together, starting at the beginning of the value chain."
+    },
+    {
+      "label": "11",
+      "text": "I Some participants explained that market price volatility is often worsened by the presence of intermediary purchasers who, taking advantage of farmers' vulnerability, dictate prices. One commentator suggested farmers can gain greater control over prices and minimise price volatility by selling directly to consumers. Similarly, Sonali Bisht, founder and advisor to the Institute of Himalayan Environmental Research and Education (INHERE), India, wrote that community-supported agriculture, where consumers invest in local farmers by subscription and guarantee producers a fair price, is a risk-sharing model worth more attention. Direct food distribution systems not only encourage small-scale agriculture but also give consumers more control over the food they consume, she wrote."
+    },
+    {
+      "label": "12",
+      "text": "* The personal names in the next refer to the authors of written contributions to the online debate."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1-3\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "a reference to characteristics that only apply to food production",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6722_490837-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "a reference to challenges faced only by farmers in certain parts of the world",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6722_490837-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "a reference to difficulties in bringing about co-operation between farmers",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q6722_490837-3"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 4-9\n\nChoose the correct answer and move it into the gap.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "[4] ______ Financial assistance from the government does not always go to the farmers who most need it.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6722_502346",
+          "explanation": "题号：4\n\n译文：政府的财政支持并不总是到最需要它的农民手中。\n\n定位词：financial assistance,\n\n文章E段重点谈到社会保障和社会福利体系的话题，其中Rokeya Kabir 提到，these have not compensated for the stranglehold exercised by private traders，并且sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders，因此根据观点的人名对应，本题答案为D。\n\n题号：5\n\n译文：农民可以通过组成合作团体而受益。\n\n定位词：benefit, collaborating as a group\n\n文章H段重点谈了农民通过合作和组成各种团体的形式来减少风险，其中前半段重点说这样做的方法和好处，之后也提到了可能存在的问题，其中Murphy的观点是，collctive action offers an important way for farmers to strengthen their polical and economic bargaining power, and to reduce their business risks，因此根据人名对应选项即可，本题答案为B。\n\n题号：6\n\n译文：政府的财政支持可以改善农民的生活水平。\n\n定位词：financial assistance, improve the standard of living of farmers\n\n文中E段开头提到了social safety nets and public welfare可以address poverty among farming families and reduce their vulnerability to agriculure shocks，这一观点与题目中improve the standard of living of farmers一致，之后将人名与选项对应即可，因此本题答案为C。\n\n题号：7\n\n译文：如果有来自购买者的财政投入，对农民或许是有帮助的。\n\n定位词：financial input, the same individuals who buy from them\n\n文中I段提到由于intermediary purchasers的存在，使农民处于更加不利的地位，之后也提出了解决这一问题的方法，其中Sonali Bisht，提出consumers invest in local farmers可以有效增加农民保障，他的观点与本题的表述一致，因此本题答案为G。\n\n题号：8\n\n译文：政府可以帮助减少价格差异。\n\n定位词：reduce variation inprices\n\n文中D段提到很多人call for greater state intervention,之后谈到了关于基础设施方面的建议，之后出现了关于政府行为有助于减少价格影响的表述：the procurement and holding of stocks by governments can also help mitigate wild swings in food prices，之后将与选项对应即可，因此本题答案为B。\n\n题号：9\n\n译文：基础设置的改善会对农民面临的风险产生很大影响。\n\n定位词：infrastructure, a major impact on risks\n\n文中D段提到很多人called for greater state intervention，之后谈到了关于基础设施方面的建议：government can significanly reduce risks for farmers by providing basic services like roads...这与题目表述一致，根据提出本观点的人名进行对应即可，因此本题答案为A",
+          "promptHtml": "[4] ______ Financial assistance from the government does not always go to the farmers who most need it."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "[5] ______ Farmers can benefit from collaborating as a group.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6722_490976",
+          "explanation": "题号：4\n\n译文：政府的财政支持并不总是到最需要它的农民手中。\n\n定位词：financial assistance,\n\n文章E段重点谈到社会保障和社会福利体系的话题，其中Rokeya Kabir 提到，these have not compensated for the stranglehold exercised by private traders，并且sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders，因此根据观点的人名对应，本题答案为D。\n\n题号：5\n\n译文：农民可以通过组成合作团体而受益。\n\n定位词：benefit, collaborating as a group\n\n文章H段重点谈了农民通过合作和组成各种团体的形式来减少风险，其中前半段重点说这样做的方法和好处，之后也提到了可能存在的问题，其中Murphy的观点是，collctive action offers an important way for farmers to strengthen their polical and economic bargaining power, and to reduce their business risks，因此根据人名对应选项即可，本题答案为B。\n\n题号：6\n\n译文：政府的财政支持可以改善农民的生活水平。\n\n定位词：financial assistance, improve the standard of living of farmers\n\n文中E段开头提到了social safety nets and public welfare可以address poverty among farming families and reduce their vulnerability to agriculure shocks，这一观点与题目中improve the standard of living of farmers一致，之后将人名与选项对应即可，因此本题答案为C。\n\n题号：7\n\n译文：如果有来自购买者的财政投入，对农民或许是有帮助的。\n\n定位词：financial input, the same individuals who buy from them\n\n文中I段提到由于intermediary purchasers的存在，使农民处于更加不利的地位，之后也提出了解决这一问题的方法，其中Sonali Bisht，提出consumers invest in local farmers可以有效增加农民保障，他的观点与本题的表述一致，因此本题答案为G。\n\n题号：8\n\n译文：政府可以帮助减少价格差异。\n\n定位词：reduce variation inprices\n\n文中D段提到很多人call for greater state intervention,之后谈到了关于基础设施方面的建议，之后出现了关于政府行为有助于减少价格影响的表述：the procurement and holding of stocks by governments can also help mitigate wild swings in food prices，之后将与选项对应即可，因此本题答案为B。\n\n题号：9\n\n译文：基础设置的改善会对农民面临的风险产生很大影响。\n\n定位词：infrastructure, a major impact on risks\n\n文中D段提到很多人called for greater state intervention，之后谈到了关于基础设施方面的建议：government can significanly reduce risks for farmers by providing basic services like roads...这与题目表述一致，根据提出本观点的人名进行对应即可，因此本题答案为A",
+          "promptHtml": "[5] ______ Farmers can benefit from collaborating as a group."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "[6] ______ Financial assistance from the government can improve the standard of living of farmers.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6722_996476",
+          "explanation": "题号：4\n\n译文：政府的财政支持并不总是到最需要它的农民手中。\n\n定位词：financial assistance,\n\n文章E段重点谈到社会保障和社会福利体系的话题，其中Rokeya Kabir 提到，these have not compensated for the stranglehold exercised by private traders，并且sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders，因此根据观点的人名对应，本题答案为D。\n\n题号：5\n\n译文：农民可以通过组成合作团体而受益。\n\n定位词：benefit, collaborating as a group\n\n文章H段重点谈了农民通过合作和组成各种团体的形式来减少风险，其中前半段重点说这样做的方法和好处，之后也提到了可能存在的问题，其中Murphy的观点是，collctive action offers an important way for farmers to strengthen their polical and economic bargaining power, and to reduce their business risks，因此根据人名对应选项即可，本题答案为B。\n\n题号：6\n\n译文：政府的财政支持可以改善农民的生活水平。\n\n定位词：financial assistance, improve the standard of living of farmers\n\n文中E段开头提到了social safety nets and public welfare可以address poverty among farming families and reduce their vulnerability to agriculure shocks，这一观点与题目中improve the standard of living of farmers一致，之后将人名与选项对应即可，因此本题答案为C。\n\n题号：7\n\n译文：如果有来自购买者的财政投入，对农民或许是有帮助的。\n\n定位词：financial input, the same individuals who buy from them\n\n文中I段提到由于intermediary purchasers的存在，使农民处于更加不利的地位，之后也提出了解决这一问题的方法，其中Sonali Bisht，提出consumers invest in local farmers可以有效增加农民保障，他的观点与本题的表述一致，因此本题答案为G。\n\n题号：8\n\n译文：政府可以帮助减少价格差异。\n\n定位词：reduce variation inprices\n\n文中D段提到很多人call for greater state intervention,之后谈到了关于基础设施方面的建议，之后出现了关于政府行为有助于减少价格影响的表述：the procurement and holding of stocks by governments can also help mitigate wild swings in food prices，之后将与选项对应即可，因此本题答案为B。\n\n题号：9\n\n译文：基础设置的改善会对农民面临的风险产生很大影响。\n\n定位词：infrastructure, a major impact on risks\n\n文中D段提到很多人called for greater state intervention，之后谈到了关于基础设施方面的建议：government can significanly reduce risks for farmers by providing basic services like roads...这与题目表述一致，根据提出本观点的人名进行对应即可，因此本题答案为A",
+          "promptHtml": "[6] ______ Financial assistance from the government can improve the standard of living of farmers."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "[7] ______ Farmers may be helped if there is financial input by the same individuals who buy from them.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6722_965233",
+          "explanation": "题号：4\n\n译文：政府的财政支持并不总是到最需要它的农民手中。\n\n定位词：financial assistance,\n\n文章E段重点谈到社会保障和社会福利体系的话题，其中Rokeya Kabir 提到，these have not compensated for the stranglehold exercised by private traders，并且sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders，因此根据观点的人名对应，本题答案为D。\n\n题号：5\n\n译文：农民可以通过组成合作团体而受益。\n\n定位词：benefit, collaborating as a group\n\n文章H段重点谈了农民通过合作和组成各种团体的形式来减少风险，其中前半段重点说这样做的方法和好处，之后也提到了可能存在的问题，其中Murphy的观点是，collctive action offers an important way for farmers to strengthen their polical and economic bargaining power, and to reduce their business risks，因此根据人名对应选项即可，本题答案为B。\n\n题号：6\n\n译文：政府的财政支持可以改善农民的生活水平。\n\n定位词：financial assistance, improve the standard of living of farmers\n\n文中E段开头提到了social safety nets and public welfare可以address poverty among farming families and reduce their vulnerability to agriculure shocks，这一观点与题目中improve the standard of living of farmers一致，之后将人名与选项对应即可，因此本题答案为C。\n\n题号：7\n\n译文：如果有来自购买者的财政投入，对农民或许是有帮助的。\n\n定位词：financial input, the same individuals who buy from them\n\n文中I段提到由于intermediary purchasers的存在，使农民处于更加不利的地位，之后也提出了解决这一问题的方法，其中Sonali Bisht，提出consumers invest in local farmers可以有效增加农民保障，他的观点与本题的表述一致，因此本题答案为G。\n\n题号：8\n\n译文：政府可以帮助减少价格差异。\n\n定位词：reduce variation inprices\n\n文中D段提到很多人call for greater state intervention,之后谈到了关于基础设施方面的建议，之后出现了关于政府行为有助于减少价格影响的表述：the procurement and holding of stocks by governments can also help mitigate wild swings in food prices，之后将与选项对应即可，因此本题答案为B。\n\n题号：9\n\n译文：基础设置的改善会对农民面临的风险产生很大影响。\n\n定位词：infrastructure, a major impact on risks\n\n文中D段提到很多人called for greater state intervention，之后谈到了关于基础设施方面的建议：government can significanly reduce risks for farmers by providing basic services like roads...这与题目表述一致，根据提出本观点的人名进行对应即可，因此本题答案为A",
+          "promptHtml": "[7] ______ Farmers may be helped if there is financial input by the same individuals who buy from them."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______ Governments can help to reduce variation in prices.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6722_708536",
+          "explanation": "题号：4\n\n译文：政府的财政支持并不总是到最需要它的农民手中。\n\n定位词：financial assistance,\n\n文章E段重点谈到社会保障和社会福利体系的话题，其中Rokeya Kabir 提到，these have not compensated for the stranglehold exercised by private traders，并且sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders，因此根据观点的人名对应，本题答案为D。\n\n题号：5\n\n译文：农民可以通过组成合作团体而受益。\n\n定位词：benefit, collaborating as a group\n\n文章H段重点谈了农民通过合作和组成各种团体的形式来减少风险，其中前半段重点说这样做的方法和好处，之后也提到了可能存在的问题，其中Murphy的观点是，collctive action offers an important way for farmers to strengthen their polical and economic bargaining power, and to reduce their business risks，因此根据人名对应选项即可，本题答案为B。\n\n题号：6\n\n译文：政府的财政支持可以改善农民的生活水平。\n\n定位词：financial assistance, improve the standard of living of farmers\n\n文中E段开头提到了social safety nets and public welfare可以address poverty among farming families and reduce their vulnerability to agriculure shocks，这一观点与题目中improve the standard of living of farmers一致，之后将人名与选项对应即可，因此本题答案为C。\n\n题号：7\n\n译文：如果有来自购买者的财政投入，对农民或许是有帮助的。\n\n定位词：financial input, the same individuals who buy from them\n\n文中I段提到由于intermediary purchasers的存在，使农民处于更加不利的地位，之后也提出了解决这一问题的方法，其中Sonali Bisht，提出consumers invest in local farmers可以有效增加农民保障，他的观点与本题的表述一致，因此本题答案为G。\n\n题号：8\n\n译文：政府可以帮助减少价格差异。\n\n定位词：reduce variation inprices\n\n文中D段提到很多人call for greater state intervention,之后谈到了关于基础设施方面的建议，之后出现了关于政府行为有助于减少价格影响的表述：the procurement and holding of stocks by governments can also help mitigate wild swings in food prices，之后将与选项对应即可，因此本题答案为B。\n\n题号：9\n\n译文：基础设置的改善会对农民面临的风险产生很大影响。\n\n定位词：infrastructure, a major impact on risks\n\n文中D段提到很多人called for greater state intervention，之后谈到了关于基础设施方面的建议：government can significanly reduce risks for farmers by providing basic services like roads...这与题目表述一致，根据提出本观点的人名进行对应即可，因此本题答案为A",
+          "promptHtml": "[8] ______ Governments can help to reduce variation in prices."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "[9] ______ Improvements to infrastructure can have a major impact on risk for farmers.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6722_434269",
+          "explanation": "题号：4\n\n译文：政府的财政支持并不总是到最需要它的农民手中。\n\n定位词：financial assistance,\n\n文章E段重点谈到社会保障和社会福利体系的话题，其中Rokeya Kabir 提到，these have not compensated for the stranglehold exercised by private traders，并且sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders，因此根据观点的人名对应，本题答案为D。\n\n题号：5\n\n译文：农民可以通过组成合作团体而受益。\n\n定位词：benefit, collaborating as a group\n\n文章H段重点谈了农民通过合作和组成各种团体的形式来减少风险，其中前半段重点说这样做的方法和好处，之后也提到了可能存在的问题，其中Murphy的观点是，collctive action offers an important way for farmers to strengthen their polical and economic bargaining power, and to reduce their business risks，因此根据人名对应选项即可，本题答案为B。\n\n题号：6\n\n译文：政府的财政支持可以改善农民的生活水平。\n\n定位词：financial assistance, improve the standard of living of farmers\n\n文中E段开头提到了social safety nets and public welfare可以address poverty among farming families and reduce their vulnerability to agriculure shocks，这一观点与题目中improve the standard of living of farmers一致，之后将人名与选项对应即可，因此本题答案为C。\n\n题号：7\n\n译文：如果有来自购买者的财政投入，对农民或许是有帮助的。\n\n定位词：financial input, the same individuals who buy from them\n\n文中I段提到由于intermediary purchasers的存在，使农民处于更加不利的地位，之后也提出了解决这一问题的方法，其中Sonali Bisht，提出consumers invest in local farmers可以有效增加农民保障，他的观点与本题的表述一致，因此本题答案为G。\n\n题号：8\n\n译文：政府可以帮助减少价格差异。\n\n定位词：reduce variation inprices\n\n文中D段提到很多人call for greater state intervention,之后谈到了关于基础设施方面的建议，之后出现了关于政府行为有助于减少价格影响的表述：the procurement and holding of stocks by governments can also help mitigate wild swings in food prices，之后将与选项对应即可，因此本题答案为B。\n\n题号：9\n\n译文：基础设置的改善会对农民面临的风险产生很大影响。\n\n定位词：infrastructure, a major impact on risks\n\n文中D段提到很多人called for greater state intervention，之后谈到了关于基础设施方面的建议：government can significanly reduce risks for farmers by providing basic services like roads...这与题目表述一致，根据提出本观点的人名进行对应即可，因此本题答案为A",
+          "promptHtml": "[9] ______ Improvements to infrastructure can have a major impact on risk for farmers."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Kanayo F. Nwanze"
+        },
+        {
+          "value": "B",
+          "text": "Sophia Murphy"
+        },
+        {
+          "value": "C",
+          "text": "Shenggen Fan"
+        },
+        {
+          "value": "D",
+          "text": "Rokeya Kabir"
+        },
+        {
+          "value": "E",
+          "text": "Pat Mooney"
+        },
+        {
+          "value": "F",
+          "text": "Giel Ton"
+        },
+        {
+          "value": "G",
+          "text": "Sonali Bisht"
+        }
+      ],
+      "contextHtml": "<p><strong>[4] ______</strong> Financial assistance from the government does not always go to the farmers who most need it.</p>\n\n<p><strong>[5] ______</strong> Farmers can benefit from collaborating as a group.</p>\n\n<p><strong>[6] ______</strong> Financial assistance from the government can improve the standard of living of farmers.</p>\n\n<p><strong>[7] ______</strong> Farmers may be helped if there is financial input by the same individuals who buy from them.</p>\n\n<p><strong>[8] ______</strong> Governments can help to reduce variation in prices.</p>\n\n<p><strong>[9] ______</strong> Improvements to infrastructure can have a major impact on risk for farmers.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 10 and 11\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Which TWO problems are mentioned which affect farmers with small farms in developing countries?",
+          "answers": [
+            "D",
+            "E"
+          ],
+          "sourceCode": "Q6722_194076",
+          "options": [
+            {
+              "value": "A",
+              "text": "lack of demand for locally produced food"
+            },
+            {
+              "value": "B",
+              "text": "lack of irrigation programmes"
+            },
+            {
+              "value": "C",
+              "text": "being unable to get insurance"
+            },
+            {
+              "value": "D",
+              "text": "the effects of changing weather patterns"
+            },
+            {
+              "value": "E",
+              "text": "having to sell their goods to intermediary buyers"
+            }
+          ],
+          "explanation": "A 缺少对当地生产食品的需求 文中没有提到这一因素给农民带来问题。\n\nB 缺少灌溉项目 文中没有提到这-因素给农民带来问题。\n\nC 无法获得保险 文中没有提到这一因素给农民带来问题。\n\nD 天气模式改变带来的影响 文中B段提到了天气因素的影响，因此本选项正确。\n\nE 不得不将食物卖给中间买家 文中I段提到了中间买家的影响，因此本选项正确。",
+          "setId": "Q6722_194076",
+          "blockId": "Q6722_194076"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Which TWO problems are mentioned which affect farmers with small farms in developing countries?",
+          "answers": [
+            "D",
+            "E"
+          ],
+          "sourceCode": "Q6722_194076",
+          "options": [
+            {
+              "value": "A",
+              "text": "lack of demand for locally produced food"
+            },
+            {
+              "value": "B",
+              "text": "lack of irrigation programmes"
+            },
+            {
+              "value": "C",
+              "text": "being unable to get insurance"
+            },
+            {
+              "value": "D",
+              "text": "the effects of changing weather patterns"
+            },
+            {
+              "value": "E",
+              "text": "having to sell their goods to intermediary buyers"
+            }
+          ],
+          "explanation": "A 缺少对当地生产食品的需求 文中没有提到这一因素给农民带来问题。\n\nB 缺少灌溉项目 文中没有提到这-因素给农民带来问题。\n\nC 无法获得保险 文中没有提到这一因素给农民带来问题。\n\nD 天气模式改变带来的影响 文中B段提到了天气因素的影响，因此本选项正确。\n\nE 不得不将食物卖给中间买家 文中I段提到了中间买家的影响，因此本选项正确。",
+          "setId": "Q6722_194076",
+          "blockId": "Q6722_194076"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "lack of demand for locally produced food"
+        },
+        {
+          "value": "B",
+          "text": "lack of irrigation programmes"
+        },
+        {
+          "value": "C",
+          "text": "being unable to get insurance"
+        },
+        {
+          "value": "D",
+          "text": "the effects of changing weather patterns"
+        },
+        {
+          "value": "E",
+          "text": "having to sell their goods to intermediary buyers"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 12 and 13\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Which TWO actions are recommended for improving conditions for farmers?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q6722_292893",
+          "options": [
+            {
+              "value": "A",
+              "text": "reducing the size of food stocks"
+            },
+            {
+              "value": "B",
+              "text": "attempting to ensure that prices rise at certain times of the year"
+            },
+            {
+              "value": "C",
+              "text": "organising co-operation between a wide range of interested parties"
+            },
+            {
+              "value": "D",
+              "text": "encouraging consumers to take a financial stake in farming"
+            },
+            {
+              "value": "E",
+              "text": "making customers aware of the reasons"
+            }
+          ],
+          "explanation": "A 减少粮食库存量 文中没有将这一行为作为改善农民条件的方式。\n\nB 尝试确保粮食价格在一年的特定时间上涨 文中没有将这一行为作为改善农民条件的方式。\n\nC 组织各种利益相关方进行合作 文中H段提到通过各种合作团体来改善农民条件，因此本选项正确。\n\nD 鼓励消费者承担一定的农业资费 文中I段提到鼓励消费者承担一定费用，因此本选项正确。\n\nE 使消费者意识到改变粮食价格的原因 文中没有将这一行为作为改善农民条件的方式。",
+          "setId": "Q6722_292893",
+          "blockId": "Q6722_292893"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Which TWO actions are recommended for improving conditions for farmers?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q6722_292893",
+          "options": [
+            {
+              "value": "A",
+              "text": "reducing the size of food stocks"
+            },
+            {
+              "value": "B",
+              "text": "attempting to ensure that prices rise at certain times of the year"
+            },
+            {
+              "value": "C",
+              "text": "organising co-operation between a wide range of interested parties"
+            },
+            {
+              "value": "D",
+              "text": "encouraging consumers to take a financial stake in farming"
+            },
+            {
+              "value": "E",
+              "text": "making customers aware of the reasons"
+            }
+          ],
+          "explanation": "A 减少粮食库存量 文中没有将这一行为作为改善农民条件的方式。\n\nB 尝试确保粮食价格在一年的特定时间上涨 文中没有将这一行为作为改善农民条件的方式。\n\nC 组织各种利益相关方进行合作 文中H段提到通过各种合作团体来改善农民条件，因此本选项正确。\n\nD 鼓励消费者承担一定的农业资费 文中I段提到鼓励消费者承担一定费用，因此本选项正确。\n\nE 使消费者意识到改变粮食价格的原因 文中没有将这一行为作为改善农民条件的方式。",
+          "setId": "Q6722_292893",
+          "blockId": "Q6722_292893"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "reducing the size of food stocks"
+        },
+        {
+          "value": "B",
+          "text": "attempting to ensure that prices rise at certain times of the year"
+        },
+        {
+          "value": "C",
+          "text": "organising co-operation between a wide range of interested parties"
+        },
+        {
+          "value": "D",
+          "text": "encouraging consumers to take a financial stake in farming"
+        },
+        {
+          "value": "E",
+          "text": "making customers aware of the reasons"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The risks agriculture faces in developing countries</strong></span><br><em>Synthesis of an online debate</em> * </p><p><strong>A</strong>    Two things distinguish food production from all other productive activities: first, every single person needs food each day and has a right to it; and second, it is hugely dependent on nature. These two unique aspects, one political, the other natural, make food production highly vulnerable and different from any other business. At the same time, cultural values are highly entrenched in food and agricultural systems worldwide.<br><strong>B </strong>   Farmers everywhere face major risks, including extreme weather, long-term climate change, and price volatility in input and product markets. However, smallholder farmers in developing countries must in addition deal with adverse environments, both natural, in terms of soil quality, rainfall, etc., and human, in terms of infrastructure, financial systems, markets, knowledge and technology. Counter-intuitively, hunger is prevalent among many smallholder farmers in the developing world.<br><strong>C</strong>    Participants in the online debate argued that our biggest challenge is to address the underlying causes of the agricultural system&#x27;s inability to ensure sufficient food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies.<br><strong>D</strong>    On the question of mitigating the risks farmers face, most essayists called for greater state intervention. In his essay, Kanayo F. Nwanze, President of the International Fund for Agricultural Development, argued that governments can significantly reduce risks for farmers by providing basic services like roads to get produce more efficiently to markets, or water and food storage facilities to reduce losses. Sophia Murphy, senior advisor to the Institute for Agriculture and Trade Policy, suggested that the procurement and holding of stocks by governments can also help mitigate wild swings in food prices by alleviating uncertainties about market supply.<br><strong>E</strong>    Shenggen Fan, Director General of the International Food Policy Research Institute, held up social safety nets and public welfare programmes in Ethiopia, Brazil and Mexico as valuable ways to address poverty among farming families and reduce their vulnerability to agriculture shocks. However, some commentators responded that cash transfers to poor families do not necessarily translate into increased food security, as these programmes do not always strengthen food production or raise incomes. Regarding state subsidies for agriculture, Rokeya Kabir, Executive Director of Bangladesh Nari Progati Sangha, commented in her essay that these &#x27;have not compensated for the stranglehold exercised by private traders. In fact, studies show that sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders.&#x27;<br><strong>F</strong>    Nwanze, Murphy and Fan argued that private risk management tools, like private insurance, commodity futures markets, and rural finance can help small-scale producers mitigate risk and allow for investment in improvements. Kabir warned that financial support schemes often encourage the adoption of high-input agricultural practices, which in the medium term may raise production costs beyond the value of their harvests. Murphy noted that when futures markets become excessively financialised they can contribute to short-term price volatility, which increases farmers&#x27; food insecurity. Many participants and commentators emphasised that greater transparency in markets is needed to mitigate the impact of volatility, and make evident whether adequate stocks and supplies are available. Others contended that agribusiness companies should be held responsible for paying for negative side effects.<br><strong>G</strong>    Many essayists mentioned climate change and its consequences for small-scale agriculture. Fan explained that &#x27;in addition to reducing crop yields, climate change increases the magnitude and the frequency of extreme weather events, which increase smallholder vulnerability.&#x27; The growing unpredictability of weather patterns increases farmers&#x27; difficulty in managing weather-related risks. According to this author, one solution would be to develop crop varieties that are more resilient to new climate trends and extreme weather patterns. Accordingly, Pat Mooney, co-founder and executive director of the ETC Group, suggested that &#x27;if we are to survive climate change, we must adopt policies that let peasants diversify the plant and animal species and varieties/breeds that make up our menus.&#x27;<br><strong>H</strong>    Some participating authors and commentators argued in favour of community- based and autonomous risk management strategies through collective action groups, co-operatives or producers&#x27; groups. Such groups enhance market opportunities for small-scale producers, reduce marketing costs and synchronise buying and selling with seasonal price conditions. According to Murphy, &#x27;collective action offers an important way for farmers to strengthen their political and economic bargaining power, and to reduce their business risks.&#x27; One commentator, Giel Ton, warned that collective action does not come as a free good. It takes time, effort and money to organise, build trust and to experiment. Others, like Marcel Vernooij and Marcel Beukeboom, suggested that in order to &#x27;apply what we already know&#x27;, all stakeholders, including business, government, scientists and civil society, must work together, starting at the beginning of the value chain.<br><strong>I </strong>   Some participants explained that market price volatility is often worsened by the presence of intermediary purchasers who, taking advantage of farmers&#x27; vulnerability, dictate prices. One commentator suggested farmers can gain greater control over prices and minimise price volatility by selling directly to consumers. Similarly, Sonali Bisht, founder and advisor to the Institute of Himalayan Environmental Research and Education (INHERE), India, wrote that community-supported agriculture, where consumers invest in local farmers by subscription and guarantee producers a fair price, is a risk-sharing model worth more attention. Direct food distribution systems not only encourage small-scale agriculture but also give consumers more control over the food they consume, she wrote.</p><p> * The personal names in the next refer to the authors of written contributions to the online debate.</p><p><br> </p>"
+}

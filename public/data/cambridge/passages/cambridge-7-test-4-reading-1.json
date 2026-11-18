@@ -1,0 +1,238 @@
+{
+  "id": "cambridge-7-test-4-reading-1",
+  "title": "Pulling stings to build pyramids",
+  "titleCn": "Pulling stings to build pyramids",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 4
+  },
+  "sourceQuestionId": "6988",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6988",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Pulling stings to build pyramids"
+    },
+    {
+      "label": "2",
+      "text": "No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be 'hanging in the air'."
+    },
+    {
+      "label": "3",
+      "text": "The pyramids of Egypt were built more than three thousand years ago, and no one knows how. The conventional picture is that tens of thousands of slaves dragged stones on sledges. But there is no evidence to back this up. Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved. While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures. They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky. She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object."
+    },
+    {
+      "label": "4",
+      "text": "Intrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. 'Coming from Iran, I have a keen interest in Middle Eastern science,' he says. He too was puzzled by the picture that had sparked Clemmons's interest. The object in the sky apparently had wings far too short and wide for a bird. 'The possibility certainly existed that it was a kite,' he says. And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea."
+    },
+    {
+      "label": "5",
+      "text": "Gharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind. Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn't need a strong wind to lift the 33.5-tonne column. Even a modest force, if sustained over a long time, would do. The key was to use a pulley system that would magnify the applied force. So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold's apex. The idea was that as one end of the column rose, the base would roll across the ground on a trolley. Earlier this year, the team put Clemmons's unlikely theory to the test, using a 40-square-metre rectangular nylon sail. The kite lifted the column clean off the ground. We were absolutely stunned,' Gharib says. 'The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.'"
+    },
+    {
+      "label": "6",
+      "text": "The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. 'There was a huge initial force- five times larger than the steady state force,' Gharib says. This jerk meant that kites could lift huge weights, Gharib realised. Even a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place. 'Whether they actually did is another matter,' Gharib says. There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened. 'The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,' Gharib says."
+    },
+    {
+      "label": "7",
+      "text": "Indeed, the experiments have left many specialists unconvinced. 'The evidence for kite-lifting is non-existent,' says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles."
+    },
+    {
+      "label": "8",
+      "text": "Others feel there is more of a case for the theory. Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians. And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone. In addition, there is some physical evidence that the ancient Egyptians were interested in flight. A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider. Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time. And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes."
+    },
+    {
+      "label": "9",
+      "text": "The experiments might even have practical uses nowadays. There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles. Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can't reach. His idea is to build the arches horizontally, then lift them into place using kites. 'We've given him some design hints,' says Gharib. 'We're just waiting for him to report back.' So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21 st century AD."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-7\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "It is generally believed that large numbers of people were needed to build the pyramids.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6988_927588",
+          "explanation": "参考译文：人们一般认为修建金字塔需要大量的人力。\n\n定位词：large numbers of people, build the pyramids\n\n第一段：The conventional picture is that tens of thousands of slaves dragged stones on the sledges.此题通过定位词可以迅速定位至首段第二句话，题干为对文章定位句的概括性改写，分析如下：generally believed—conventional picture, large numbers of people—tens of thousands of slaves因此答案很明显应该是TRUE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Clemmons found a strange hieroglyph on the wall of an Egyptian monument.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6988_120083",
+          "explanation": "参考译文：Clemmons在一个埃及古迹的墙面上发现了一种奇怪的象形文字。\n\n定位词：hieroglyph, Egyptian monument\n\n第二段：While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures.此题定位词在文中原词出现，可以快速定位。文中定位句指出Clemmons是在一本关于埃及古迹的书中读到的象形文字信息，而题目却说她在一座埃及古迹的墙上发现了象形文字，显然题目与文章相悖，因此此题答案为FALSE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Gharib had previously done experiments on bird flight.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6988_556539",
+          "explanation": "参考译文：Gharib之前做过鸟类飞行实验。\n\n定位词：experiment, bird flight\n\n题干中的定位信息在文章中未出现，此题为最典型的“原文完全未提及型”，故答案为NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Gharib and Graff tested their theory before applying it.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6988_336278",
+          "explanation": "参考译文：Gharib and Graff在应用他们的理论之前对其进行了验证。\n\n定位词：theory\n\n第四段：Earlier this year, the team put Clemmons's unlikely theory to the test,…译文：今天早些时候，他们把Clemmons空头理论付诸实验。显然题目与文章完全相符，因此此题答案为TRUE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "The success of the actual experiment was due to the high speed of the wind.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6988_942084",
+          "explanation": "参考译文：现实中实验的成功是因为风的高速。\n\n定位词：high speed of the wind\n\n第五段:The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed.此题按照顺序原则，在第五段首句定位出与风速相关的信息，但文中对于风速的描述为gentle和little more than half(与一半差不多)，显然题目与原文不符，因此答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "They found that, as the kite flew higher, the wind force got stronger.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6988_990536",
+          "explanation": "参考译文：他们发现当风帆飞得更高的时候，风力也变得更强。\n\n定位词：kite, wind force\n\n第五段：What they had failed to reckon with was what happened when the kite was opened. “There was a huge initial force—five times larger than the steady state force,” Gharib says.译文：他们没有想到的是当风帆打开时会发生什么。“巨大的初始风力比恒稳状态风力还大五倍。”Gharib说道。此题定位比较容易。在定位句中只提到了kite打开的时候wind force很大，对于题目中的两个比较级完全没提及，此题为典型的“题目内容文章部分提及型\"，故答案为NOT GIVEN。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "The team decided that it was possible to use kites to raise very heavy stones.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6988_138748",
+          "explanation": "参考译文：他们的团队断定使用风帆提升很沉的石头是可能实现的。\n\n定位词：kite, very heavy stones\n\n第五段:This jerk meant that kites could lift huge weights, Gharib realised.此题按照顺序原则在上一题定位句之后就能找到定位词。题目与原文含义一致，均为“风帆可以提升极大的重量”，故答案为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 8-13\n\nComplete the summary below.\n\nWrite NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Answer for gap 8.",
+          "answers": [
+            "wooden pulleys",
+            "pulleys"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6988_996359",
+          "explanation": "题号：8\n\n定位词：Egyptians\n\n第七段：…like the Egyptians. And they are known to have used wooden pulleys, …在定位段中查找定位词可以迅速定位于该段第二句。题中空格前为动词had，所以应于文中定位处扫描该动词或其同义词或其上下义词。此处扫描结果为to have used，则其后单词即为答案：( wooden ) pulleys。\n\n题号：9\n\n定位词：large pieces\n\n第七段：…which could have been made strong enough to bear the weight of massive blocks of stone.此题在文中定位紧接着上一题。通过扫描定位词得出large pieces of对应文中massive blocks of，于是其后单词即为答案：stone。\n\n题号：10\n\n定位词：energy from the wind\n\n第七段：Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.此题为同一定位段内的乱序题，由于确定解题段为第七段，在两次定位后仍能将此空定位于段落次句。此空格前为介词as，则在定位处扫描该介词或其他介词。此处扫描结果为for，则其后单词即为答案：(accomplished) sailors。\n\n题号：11\n\n定位词：pyramid, resemble\n\n第七段：A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.此题通过顺序原则可以很快定位，定位处looks uncannily like对应题中resembled，且空格需填写一个单数名词，则答案为( modern) glider。\n\n题号：12\n\n定位词：suggest, have experiment with\n\n第七段：..., its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.此题解题技巧同第10题，由于空格前为介词with，故在定位句中扫描后定位于介词of，且have been developing ideas of对应于题中have experimented with，所以答案为of之后单词：flight。\n\n题号：13\n\n定位词：China\n\n第七段：…, the Chinese were using them to deliver messages and dump flaming debris on their foes.此题技巧同第8题，空格前为动词sending，则在定位句中扫描得到动词deliver与之对应，其后单词即为答案：messages。",
+          "promptHtml": "Answer for gap 8."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "stone"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6988_900410",
+          "explanation": "题号：8\n\n定位词：Egyptians\n\n第七段：…like the Egyptians. And they are known to have used wooden pulleys, …在定位段中查找定位词可以迅速定位于该段第二句。题中空格前为动词had，所以应于文中定位处扫描该动词或其同义词或其上下义词。此处扫描结果为to have used，则其后单词即为答案：( wooden ) pulleys。\n\n题号：9\n\n定位词：large pieces\n\n第七段：…which could have been made strong enough to bear the weight of massive blocks of stone.此题在文中定位紧接着上一题。通过扫描定位词得出large pieces of对应文中massive blocks of，于是其后单词即为答案：stone。\n\n题号：10\n\n定位词：energy from the wind\n\n第七段：Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.此题为同一定位段内的乱序题，由于确定解题段为第七段，在两次定位后仍能将此空定位于段落次句。此空格前为介词as，则在定位处扫描该介词或其他介词。此处扫描结果为for，则其后单词即为答案：(accomplished) sailors。\n\n题号：11\n\n定位词：pyramid, resemble\n\n第七段：A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.此题通过顺序原则可以很快定位，定位处looks uncannily like对应题中resembled，且空格需填写一个单数名词，则答案为( modern) glider。\n\n题号：12\n\n定位词：suggest, have experiment with\n\n第七段：..., its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.此题解题技巧同第10题，由于空格前为介词with，故在定位句中扫描后定位于介词of，且have been developing ideas of对应于题中have experimented with，所以答案为of之后单词：flight。\n\n题号：13\n\n定位词：China\n\n第七段：…, the Chinese were using them to deliver messages and dump flaming debris on their foes.此题技巧同第8题，空格前为动词sending，则在定位句中扫描得到动词deliver与之对应，其后单词即为答案：messages。",
+          "promptHtml": "Answer for gap 9."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Answer for gap 10.",
+          "answers": [
+            "accomplished sailors",
+            "sailors"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6988_761272",
+          "explanation": "题号：8\n\n定位词：Egyptians\n\n第七段：…like the Egyptians. And they are known to have used wooden pulleys, …在定位段中查找定位词可以迅速定位于该段第二句。题中空格前为动词had，所以应于文中定位处扫描该动词或其同义词或其上下义词。此处扫描结果为to have used，则其后单词即为答案：( wooden ) pulleys。\n\n题号：9\n\n定位词：large pieces\n\n第七段：…which could have been made strong enough to bear the weight of massive blocks of stone.此题在文中定位紧接着上一题。通过扫描定位词得出large pieces of对应文中massive blocks of，于是其后单词即为答案：stone。\n\n题号：10\n\n定位词：energy from the wind\n\n第七段：Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.此题为同一定位段内的乱序题，由于确定解题段为第七段，在两次定位后仍能将此空定位于段落次句。此空格前为介词as，则在定位处扫描该介词或其他介词。此处扫描结果为for，则其后单词即为答案：(accomplished) sailors。\n\n题号：11\n\n定位词：pyramid, resemble\n\n第七段：A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.此题通过顺序原则可以很快定位，定位处looks uncannily like对应题中resembled，且空格需填写一个单数名词，则答案为( modern) glider。\n\n题号：12\n\n定位词：suggest, have experiment with\n\n第七段：..., its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.此题解题技巧同第10题，由于空格前为介词with，故在定位句中扫描后定位于介词of，且have been developing ideas of对应于题中have experimented with，所以答案为of之后单词：flight。\n\n题号：13\n\n定位词：China\n\n第七段：…, the Chinese were using them to deliver messages and dump flaming debris on their foes.此题技巧同第8题，空格前为动词sending，则在定位句中扫描得到动词deliver与之对应，其后单词即为答案：messages。",
+          "promptHtml": "Answer for gap 10."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Answer for gap 11.",
+          "answers": [
+            "modern glider",
+            "glider"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6988_786634",
+          "explanation": "题号：8\n\n定位词：Egyptians\n\n第七段：…like the Egyptians. And they are known to have used wooden pulleys, …在定位段中查找定位词可以迅速定位于该段第二句。题中空格前为动词had，所以应于文中定位处扫描该动词或其同义词或其上下义词。此处扫描结果为to have used，则其后单词即为答案：( wooden ) pulleys。\n\n题号：9\n\n定位词：large pieces\n\n第七段：…which could have been made strong enough to bear the weight of massive blocks of stone.此题在文中定位紧接着上一题。通过扫描定位词得出large pieces of对应文中massive blocks of，于是其后单词即为答案：stone。\n\n题号：10\n\n定位词：energy from the wind\n\n第七段：Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.此题为同一定位段内的乱序题，由于确定解题段为第七段，在两次定位后仍能将此空定位于段落次句。此空格前为介词as，则在定位处扫描该介词或其他介词。此处扫描结果为for，则其后单词即为答案：(accomplished) sailors。\n\n题号：11\n\n定位词：pyramid, resemble\n\n第七段：A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.此题通过顺序原则可以很快定位，定位处looks uncannily like对应题中resembled，且空格需填写一个单数名词，则答案为( modern) glider。\n\n题号：12\n\n定位词：suggest, have experiment with\n\n第七段：..., its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.此题解题技巧同第10题，由于空格前为介词with，故在定位句中扫描后定位于介词of，且have been developing ideas of对应于题中have experimented with，所以答案为of之后单词：flight。\n\n题号：13\n\n定位词：China\n\n第七段：…, the Chinese were using them to deliver messages and dump flaming debris on their foes.此题技巧同第8题，空格前为动词sending，则在定位句中扫描得到动词deliver与之对应，其后单词即为答案：messages。",
+          "promptHtml": "Answer for gap 11."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Answer for gap 12.",
+          "answers": [
+            "flight"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6988_184118",
+          "explanation": "题号：8\n\n定位词：Egyptians\n\n第七段：…like the Egyptians. And they are known to have used wooden pulleys, …在定位段中查找定位词可以迅速定位于该段第二句。题中空格前为动词had，所以应于文中定位处扫描该动词或其同义词或其上下义词。此处扫描结果为to have used，则其后单词即为答案：( wooden ) pulleys。\n\n题号：9\n\n定位词：large pieces\n\n第七段：…which could have been made strong enough to bear the weight of massive blocks of stone.此题在文中定位紧接着上一题。通过扫描定位词得出large pieces of对应文中massive blocks of，于是其后单词即为答案：stone。\n\n题号：10\n\n定位词：energy from the wind\n\n第七段：Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.此题为同一定位段内的乱序题，由于确定解题段为第七段，在两次定位后仍能将此空定位于段落次句。此空格前为介词as，则在定位处扫描该介词或其他介词。此处扫描结果为for，则其后单词即为答案：(accomplished) sailors。\n\n题号：11\n\n定位词：pyramid, resemble\n\n第七段：A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.此题通过顺序原则可以很快定位，定位处looks uncannily like对应题中resembled，且空格需填写一个单数名词，则答案为( modern) glider。\n\n题号：12\n\n定位词：suggest, have experiment with\n\n第七段：..., its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.此题解题技巧同第10题，由于空格前为介词with，故在定位句中扫描后定位于介词of，且have been developing ideas of对应于题中have experimented with，所以答案为of之后单词：flight。\n\n题号：13\n\n定位词：China\n\n第七段：…, the Chinese were using them to deliver messages and dump flaming debris on their foes.此题技巧同第8题，空格前为动词sending，则在定位句中扫描得到动词deliver与之对应，其后单词即为答案：messages。",
+          "promptHtml": "Answer for gap 12."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Answer for gap 13.",
+          "answers": [
+            "messages"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6988_701086",
+          "explanation": "题号：8\n\n定位词：Egyptians\n\n第七段：…like the Egyptians. And they are known to have used wooden pulleys, …在定位段中查找定位词可以迅速定位于该段第二句。题中空格前为动词had，所以应于文中定位处扫描该动词或其同义词或其上下义词。此处扫描结果为to have used，则其后单词即为答案：( wooden ) pulleys。\n\n题号：9\n\n定位词：large pieces\n\n第七段：…which could have been made strong enough to bear the weight of massive blocks of stone.此题在文中定位紧接着上一题。通过扫描定位词得出large pieces of对应文中massive blocks of，于是其后单词即为答案：stone。\n\n题号：10\n\n定位词：energy from the wind\n\n第七段：Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.此题为同一定位段内的乱序题，由于确定解题段为第七段，在两次定位后仍能将此空定位于段落次句。此空格前为介词as，则在定位处扫描该介词或其他介词。此处扫描结果为for，则其后单词即为答案：(accomplished) sailors。\n\n题号：11\n\n定位词：pyramid, resemble\n\n第七段：A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.此题通过顺序原则可以很快定位，定位处looks uncannily like对应题中resembled，且空格需填写一个单数名词，则答案为( modern) glider。\n\n题号：12\n\n定位词：suggest, have experiment with\n\n第七段：..., its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.此题解题技巧同第10题，由于空格前为介词with，故在定位句中扫描后定位于介词of，且have been developing ideas of对应于题中have experimented with，所以答案为of之后单词：flight。\n\n题号：13\n\n定位词：China\n\n第七段：…, the Chinese were using them to deliver messages and dump flaming debris on their foes.此题技巧同第8题，空格前为动词sending，则在定位句中扫描得到动词deliver与之对应，其后单词即为答案：messages。",
+          "promptHtml": "Answer for gap 13."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><strong><span>Additional evidence for theory of kite-lifting</span></strong></p>\n\n<p>The Egyptians had <strong>[8] ______</strong> which could lift large pieces of <strong>[9] ______</strong> , and they knew how to use the energy of the wind from their skill as <strong>[10] ______</strong>. The discovery on one pyramid of an object which resembled a <strong>[11] ______</strong> suggests they may have experimented with <strong>[12] ______</strong> . In addition, over two thousand years ago kites were used in China as weapons, as well as for sending <strong>[13] ______</strong>.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Pulling stings to build pyramids</span></strong></p><p>No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be &#x27;hanging in the air&#x27;.</p><p>The pyramids of Egypt were built more than three thousand years ago, and no one knows how. The conventional picture is that tens of thousands of slaves dragged stones on sledges. But there is no evidence to back this up. Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved. While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures. They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky. She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object.</p><p>Intrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. &#x27;Coming from Iran, I have a keen interest in Middle Eastern science,&#x27; he says. He too was puzzled by the picture that had sparked Clemmons&#x27;s interest. The object in the sky apparently had wings far too short and wide for a bird. &#x27;The possibility certainly existed that it was a kite,&#x27; he says. And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea.</p><p>Gharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind. Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn&#x27;t need a strong wind to lift the 33.5-tonne column. Even a modest force, if sustained over a long time, would do. The key was to use a pulley system that would magnify the applied force. So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold&#x27;s apex. The idea was that as one end of the column rose, the base would roll across the ground on a trolley. Earlier this year, the team put Clemmons&#x27;s unlikely theory to the test, using a 40-square-metre rectangular nylon sail. The kite lifted the column clean off the ground. We were absolutely stunned,&#x27; Gharib says. &#x27;The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.&#x27;</p><p>The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. &#x27;There was a huge initial force- five times larger than the steady state force,&#x27; Gharib says. This jerk meant that kites could lift huge weights, Gharib realised. Even a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place. &#x27;Whether they actually did is another matter,&#x27; Gharib says. There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened. &#x27;The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,&#x27; Gharib says.</p><p>Indeed, the experiments have left many specialists unconvinced. &#x27;The evidence for kite-lifting is non-existent,&#x27; says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles.</p><p>Others feel there is more of a case for the theory. Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians. And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone. In addition, there is some physical evidence that the ancient Egyptians were interested in flight. A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider. Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time. And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes.</p><p>The experiments might even have practical uses nowadays. There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles. Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can&#x27;t reach. His idea is to build the arches horizontally, then lift them into place using kites. &#x27;We&#x27;ve given him some design hints,&#x27; says Gharib. &#x27;We&#x27;re just waiting for him to report back.&#x27; So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21 st century AD.</p><p>　　</p>"
+}

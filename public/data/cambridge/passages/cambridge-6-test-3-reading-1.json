@@ -1,0 +1,368 @@
+{
+  "id": "cambridge-6-test-3-reading-1",
+  "title": "THE FILM",
+  "titleCn": "THE FILM",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 6,
+    "test": 3
+  },
+  "sourceQuestionId": "7041",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7041",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "A The Lumière Brothers opened their Cinematographe, at 14 Boulevard des Capucines in Paris, to 100 paying customers over 100 years ago, on December 8, 1895. Before the eyes of the stunned, thrilled audience, photographs came to life and moved across a flat screen."
+    },
+    {
+      "label": "2",
+      "text": "B So ordinary and routine has this become to us that it takes a determined leap of the imagination to grasp the impact of those first moving images. But it is worth trying, for to understand the initial shock of those images is to understand the extraordinary power and magic of cinema, the unique, hypnotic quality that has made film the most dynamic, effective art form of the 20th century."
+    },
+    {
+      "label": "3",
+      "text": "C One of the Lumière Brothers' earliest films was a 30-second piece which showed a section of a railway platform flooded with sunshine. A train appears and heads straight for the camera. And that is all that happens. Yet the Russian director Andrei Tarkovsky, one of the greatest of all film artists, described the film as a 'work of genius'. 'As the train approached,' wrote Tarkovsky, 'panic started in the theatre: people jumped and ran away. That was the moment when cinema was born. The frightened audience could not accept that they were watching a mere picture. Pictures were still, only reality moved; this must, therefore, be reality. In their confusion, they feared that a real train was about to crush them.'"
+    },
+    {
+      "label": "4",
+      "text": "D Early cinema audiences often experienced the same contusion. In time, the idea of film became familiar, the magic was accepted -but it never stopped being magic. Film has never lost its unique power to embrace its audiences and transport them to a different world. For Tarkovsky, the key to that magic was the way in which cinema created a dynamic image of the real flow of events. A still picture could only imply the existence of time, while time in a novel passed at the whim of the reader. But in cinema, the real, objective flow of time was captured."
+    },
+    {
+      "label": "5",
+      "text": "E One effect of this realism was to educate the world about itself. For cinema makes the world smaller. Long before people travelled to America or anywhere else, they knew what other places looked like; they knew how other people worked and lived. Overwhelmingly, the lives recorded - at least in film fiction - have been American. From the earliest days of the industry, Hollywood has dominated the world film market. American imagery - the cars, the cities, the cowboys - became the primary imagery of film. Film carried American life and values around the globe."
+    },
+    {
+      "label": "6",
+      "text": "F And, thanks to film, future generations will know the 20th century more intimately than any other period. We can only imagine what life was like in the 14th century or in classical Greece. But the life of the modern world has been recorded on film in massive, encyclopaedic detail. We shall be known better than any preceding generations."
+    },
+    {
+      "label": "7",
+      "text": "G The 'star' was another natural consequence of cinema. The cinema star was effectively born in 1910. Film personalities have such an immediate presence that, inevitably, they become super-real. Because we watch them so closely and because everybody in the world seems to know who they are, they appear more real to us than we do ourselves. The star as magnified human self is one of cinema's most strange and enduring legacies."
+    },
+    {
+      "label": "8",
+      "text": "H Cinema has also given a new lease of life to the idea of the story. When the Lumière Brothers and other pioneers began showing off this new invention, it was by no means obvious how it would be used. All that mattered at first was the wonder of movement. Indeed, some said that, once this novelty had worn off, cinema would fade away. It was no more than a passing gimmick, a fairground attraction."
+    },
+    {
+      "label": "9",
+      "text": "I Cinema might, for example, have become primarily a documentary form. Or it might have developed like television - as a strange, noisy transfer of music, information and narrative. But what happened was that it became, overwhelmingly, a medium for telling stories. Originally these were conceived as short stories - early producers doubted the ability of audiences to concentrate for more than the length of a reel. Then, in 1912, an Italian 2-hour film was hugely successful, and Hollywood settled upon the novel-length narrative that remains the dominant cinematic convention of today."
+    },
+    {
+      "label": "10",
+      "text": "J And it has all happened so quickly. Almost unbelievably, it is a mere 100 years since that train arrived and the audience screamed and fled, convinced by the dangerous reality of what they saw, and, perhaps, suddenly aware that the world could never be the same again - that, maybe, it could be better, brighter, more astonishing, more real than reality."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1-5\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "the location of the first cinema",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7041_911221-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "how cinema came to focus on stories",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q7041_911221-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "the speed with which cinema has changed",
+          "answers": [
+            "J"
+          ],
+          "sourceCode": "Q7041_911221-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "how cinema teaches us about other cultures",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q7041_911221-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "the attraction of actors in films",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q7041_911221-5"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        },
+        {
+          "value": "J",
+          "text": "J"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "instruction": "Questions 6-9\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "It is important to understand how the first audiences reacted to the cinema.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q7041_303925",
+          "explanation": "参考译文：理解第一批观众对电影院的反应如何很重要。\n\n定位词：first audiences reacted to the cinema\n\n解题关键字：important\n\n文中对应But it is worth trying, for to understand the initial shock of those images is to understand...worth与important近义。\n\n答案：YES"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "The Lumière Brothers' film about the train was one of the greatest films ever made.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7041_240093",
+          "explanation": "参考译文：吕米埃兄弟关于火车的电影是最伟大的电影之一。\n\n定位词：train\n\n解题关键字：the greatest films\n\n文中对应described the film as a work of genius\n\n答案：NOT GIVEN"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "instruction": "Questions 6-9\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Cinema presents a biased view of other countries.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7041_170456",
+          "explanation": "参考译文：电影院（放映的电影）对其他国家有偏见。\n\n定位词：other countries\n\n解题关键字：a biased view of\n\n文中对应For cinema makes the world smaller.\n\n答案：NOT GIVEN"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "ynng",
+      "instruction": "Questions 6-9\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Storylines were important in very early cinema.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q7041_314011",
+          "explanation": "参考译文：故事情节在早期的电影中很重要。\n\n定位词：very early cinema\n\n解题关键字：important\n\n文中对应Cinema might, for example, have become primarily a documentary form.... Or it might have developed like television.\n\n答案：NO"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g5",
+      "type": "choice",
+      "instruction": "Questions 10-13\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "The writer refers to the film of the train in order to demonstrate",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7041_559871",
+          "options": [
+            {
+              "value": "A",
+              "text": "the simplicity of early films."
+            },
+            {
+              "value": "B",
+              "text": "the impact of early films."
+            },
+            {
+              "value": "C",
+              "text": "how short early films were."
+            },
+            {
+              "value": "D",
+              "text": "how imaginative early films were."
+            }
+          ],
+          "explanation": "定位词：film of the train\n\n题目：作者提到那部关于火车的电影是为了说明：\n\nA.早期的电影很简单 B.早期电影的影响\n\nC.早期的电影很短 D.早期的电影很有想象力\n\n文中对应C段：塔科夫斯基写道：“随着火车不断驶近，影院里呈现出一片慌恐的景象：人们惊慌失措，四散而逃。就在这一刻，电影宣告诞生。惊恐的观众们无法相信他们看到的仅仅是一部电影……”\n\n正确答案：B"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "In Tarkovsky's opinion, the attraction of the cinema is that it",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q7041_489534",
+          "options": [
+            {
+              "value": "A",
+              "text": "aims to impress its audience."
+            },
+            {
+              "value": "B",
+              "text": "tells stories better than books."
+            },
+            {
+              "value": "C",
+              "text": "illustrates the passing of time."
+            },
+            {
+              "value": "D",
+              "text": "describes familiar events."
+            }
+          ],
+          "explanation": "定位词：Tarkovsky/the attraction of the cinema\n\n题目：按照塔科夫斯基的观点，电影的魅力在于：\n\nA.给观众留下深刻印象 B.故事讲得比书本好\n\nC.描述时间的流逝 D.描述人们熟悉的事件\n\nD段最后一句：然而，电影却能够捕提真实而客观的时间流动。\n\n正确答案：C"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "When cinema first began, people thought that",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q7041_490743",
+          "options": [
+            {
+              "value": "A",
+              "text": "it would always tell stories."
+            },
+            {
+              "value": "B",
+              "text": "it should be used in fairgrounds."
+            },
+            {
+              "value": "C",
+              "text": "its audiences were unappreciative."
+            },
+            {
+              "value": "D",
+              "text": "its future was uncertain."
+            }
+          ],
+          "explanation": "定位词：first began\n\n题目：电影刚诞生时，人们认为：\n\nA.电影将直是叙述故事 B.电影应当在露天市场播放\n\nC.电影观众并不很喜欢电影 D.电影的未来一片渺茫\n\nH段第二至四句：当吕米埃兄弟和其他先驱者首先展示电影这项新发明时，他们根本不清楚应当怎样应用它。最初，重要的只是活动的影像。的确，有些人就断言，一且新奇感消失，电影就会逐渐淡出人们的视线。由此可见，起初人们对电影发展的未来并不明确。\n\n正确答案：D"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "What is the best title for this passage?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q7041_515359",
+          "options": [
+            {
+              "value": "A",
+              "text": "The rise of the cinema star"
+            },
+            {
+              "value": "B",
+              "text": "Cinema and novels compared"
+            },
+            {
+              "value": "C",
+              "text": "The domination of Hollywood"
+            },
+            {
+              "value": "D",
+              "text": "The power of the big screen"
+            }
+          ],
+          "explanation": "定位词：cinema/flat screen\n\n题目：本文的最佳题目为：\n\nA.电影明星的崛起 B.电影与小说之比较\n\nC.好莱坞的霸主地位 D.大银幕的力量\n\n纵观全文，都在大篇幅讲电影，big screen代指电影。\n\nTips：选文章题目一定要看文章大部分篇幅在讲什么，而不能以偏概全。\n\n正确答案：D"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong>A</strong>    The Lumière Brothers opened their Cinematographe, at 14 Boulevard des Capucines in Paris, to 100 paying customers over 100 years ago, on December 8, 1895. Before the eyes of the stunned, thrilled audience, photographs came to life and moved across a flat screen.</p><p><strong>B  </strong>  So ordinary and routine has this become to us that it takes a determined leap of the imagination to grasp the impact of those first moving images. But it is worth trying, for to understand the initial shock of those images is to understand the extraordinary power and magic of cinema, the unique, hypnotic quality that has made film the most dynamic, effective art form of the 20th century.</p><p><strong>C</strong>    One of the Lumière Brothers&#x27; earliest films was a 30-second piece which showed a section of a railway platform flooded with sunshine. A train appears and heads straight for the camera. And that is all that happens. Yet the Russian director Andrei Tarkovsky, one of the greatest of all film artists, described the film as a &#x27;work of genius&#x27;. &#x27;As the train approached,&#x27; wrote Tarkovsky, &#x27;panic started in the theatre: people jumped and ran away. That was the moment when cinema was born. The frightened audience could not accept that they were watching a mere picture. Pictures were still, only reality moved; this must, therefore, be reality. In their confusion, they feared that a real train was about to crush them.&#x27;</p><p><strong>D</strong>    Early cinema audiences often experienced the same contusion. In time, the idea of film became familiar, the magic was accepted -but it never stopped being magic. Film has never lost its unique power to embrace its audiences and transport them to a different world. For Tarkovsky, the key to that magic was the way in which cinema created a dynamic image of the real flow of events. A still picture could only imply the existence of time, while time in a novel passed at the whim of the reader. But in cinema, the real, objective flow of time was captured.</p><p><strong>E</strong>    One effect of this realism was to educate the world about itself. For cinema makes the world smaller. Long before people travelled to America or anywhere else, they knew what other places looked like; they knew how other people worked and lived. Overwhelmingly, the lives recorded - at least in film fiction - have been American. From the earliest days of the industry, Hollywood has dominated the world film market. American imagery - the cars, the cities, the cowboys - became the primary imagery of film. Film carried American life and values around the globe.</p><p><strong>F</strong>    And, thanks to film, future generations will know the 20th century more intimately than any other period. We can only imagine what life was like in the 14th century or in classical Greece. But the life of the modern world has been recorded on film in massive, encyclopaedic detail. We shall be known better than any preceding generations.</p><p><strong>G</strong>    The &#x27;star&#x27; was another natural consequence of cinema. The cinema star was effectively born in 1910. Film personalities have such an immediate presence that, inevitably, they become super-real. Because we watch them so closely and because everybody in the world seems to know who they are, they appear more real to us than we do ourselves. The star as magnified human self is one of cinema&#x27;s most strange and enduring legacies.</p><p><strong>H</strong>    Cinema has also given a new lease of life to the idea of the story. When the Lumière Brothers and other pioneers began showing off this new invention, it was by no means obvious how it would be used. All that mattered at first was the wonder of movement. Indeed, some said that, once this novelty had worn off, cinema would fade away. It was no more than a passing gimmick, a fairground attraction.</p><p><strong>I  </strong>  Cinema might, for example, have become primarily a documentary form. Or it might have developed like television - as a strange, noisy transfer of music, information and narrative. But what happened was that it became, overwhelmingly, a medium for telling stories. Originally these were conceived as short stories - early producers doubted the ability of audiences to concentrate for more than the length of a reel. Then, in 1912, an Italian 2-hour film was hugely successful, and Hollywood settled upon the novel-length narrative that remains the dominant cinematic convention of today.</p><p><strong>J</strong>    And it has all happened so quickly. Almost unbelievably, it is a mere 100 years since that train arrived and the audience screamed and fled, convinced by the dangerous reality of what they saw, and, perhaps, suddenly aware that the world could never be the same again - that, maybe, it could be better, brighter, more astonishing, more real than reality.</p>"
+}

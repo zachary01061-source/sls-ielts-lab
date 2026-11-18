@@ -1,0 +1,297 @@
+{
+  "id": "efe00f7d-d09f-450d-b922-c46d6c73fed1",
+  "title": "Max Dupain",
+  "titleCn": "澳洲摄影师Max Dupain",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/efe00f7d-d09f-450d-b922-c46d6c73fed1",
+  "duration": 209,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,399"
+    },
+    {
+      "label": "2",
+      "text": "Today, I'll talk about Max Dupain, a photographer who shaped modern Australian photography. His career spanned several decades, and his images became some of the most recognized in the country."
+    },
+    {
+      "label": "3",
+      "text": "00:00:16,180"
+    },
+    {
+      "label": "4",
+      "text": "Dupain played a key role in photography of art, and he helped to develop a distinct Australian style."
+    },
+    {
+      "label": "5",
+      "text": "00:00:25,920"
+    },
+    {
+      "label": "6",
+      "text": "Early in his career, he worked on portraits using lighting and composition to highlight each subject. In nineteen thirty-four, he established a studio, allowing him to refine his techniques and expand his professional work."
+    },
+    {
+      "label": "7",
+      "text": "00:00:43,099"
+    },
+    {
+      "label": "8",
+      "text": "Later, he shifted to documentary photography, capturing moments of daily life across Australia. His work in fashion photography led him to collaborate with designers and produce stylish images for magazines."
+    },
+    {
+      "label": "9",
+      "text": "00:00:58,259"
+    },
+    {
+      "label": "10",
+      "text": "Over time, he also worked in industrial photography, photographing factories, bridges, and large infrastructure projects."
+    },
+    {
+      "label": "11",
+      "text": "00:01:07,599"
+    },
+    {
+      "label": "12",
+      "text": "Among his famous images, The Sunbaker stands out for its strong triangle composition, creating a powerful visual effect."
+    },
+    {
+      "label": "13",
+      "text": "00:01:18,559"
+    },
+    {
+      "label": "14",
+      "text": "Beyond artistic photography, he also photographed industries, including the meat sector, focusing on food production and supply chains."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "f04300d9-8198-4c37-b492-25fa936e18f8",
+          "prompt": "**Max Dupain's Early Career**\nHe made a strong impact on **31**_____ photography in Australia.",
+          "answers": [
+            "art"
+          ],
+          "rawAnswer": "art",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Dupain played a key role in photography of art, and he helped to develop a distinct Australian style"
+          },
+          "keywordPairs": [
+            {
+              "question": "made a strong impact on",
+              "article": "played a key role in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "b5d37e01-0813-405e-958e-03af7ea7c542",
+          "prompt": "His early work focused on **32**_____, showing natural expressions.",
+          "answers": [
+            "portraits"
+          ],
+          "rawAnswer": "portraits",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Early in his career, he worked on portraits using lighting and composition to highlight each subject"
+          },
+          "keywordPairs": [
+            {
+              "question": "early work",
+              "article": "Early in his career"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "cc6b5117-587e-40b4-aab1-2281ce3c146c",
+          "prompt": "He opened a **33**_____ in 1934 to explore new creative styles.",
+          "answers": [
+            "studio"
+          ],
+          "rawAnswer": "studio",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In nineteen thirty-four, he established a studio, allowing him to refine his techniques and expand his professional work"
+          },
+          "keywordPairs": [
+            {
+              "question": "opened",
+              "article": "established"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "ac4cab57-8e17-4b7f-8e4e-5b5f00dbab3f",
+          "prompt": "**Career Development**\nHe worked in **34**_____ photography to record daily life in Australia.",
+          "answers": [
+            "documentary"
+          ],
+          "rawAnswer": "documentary",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Later, he shifted to documentary photography, capturing moments of daily life across Australia"
+          },
+          "keywordPairs": [
+            {
+              "question": "worked in",
+              "article": "shifted to"
+            },
+            {
+              "question": "record",
+              "article": "capturing"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "b439c6d2-3558-496f-bd9d-77a204fd601c",
+          "prompt": "He gained recognition for **35**_____ photography, working with designers and magazines.",
+          "answers": [
+            "fashion"
+          ],
+          "rawAnswer": "fashion",
+          "evidence": {
+            "paragraph": "",
+            "quote": "His work in fashion photography led him to collaborate with designers and produce stylish images for magazines"
+          },
+          "keywordPairs": [
+            {
+              "question": "gained recognition for",
+              "article": "work in"
+            },
+            {
+              "question": "working",
+              "article": "collaborate"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "e0f7beca-a586-4a99-a4e2-fdec9974a7e2",
+          "prompt": "He took an interest in **36**_____ photography to capture factories and large structures.",
+          "answers": [
+            "industrial"
+          ],
+          "rawAnswer": "industrial",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Over time, he also worked in industrial photography, photographing factories, bridges, and large infrastructure projects"
+          },
+          "keywordPairs": [
+            {
+              "question": "took an interest in",
+              "article": "worked in"
+            },
+            {
+              "question": "capture",
+              "article": "photographing"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "f56ac03f-a658-4719-855e-5ac143aa4033",
+          "prompt": "**Famous Works and Influence**\nThe Sunbaker became well known for its strong **37**_____ composition.",
+          "answers": [
+            "triangle"
+          ],
+          "rawAnswer": "triangle",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Among his famous images, The Sunbaker stands out for its strong triangle composition, creating a powerful visual effect"
+          },
+          "keywordPairs": [
+            {
+              "question": "became well known for",
+              "article": "stands out for"
+            },
+            {
+              "question": "Works",
+              "article": "images"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "b6dcd295-6cf8-4863-90da-b2fb7ed416a5",
+          "prompt": "He documented Australia's **38**_____ industry, focusing on food production.\n（本篇无39-40题）",
+          "answers": [
+            "meat"
+          ],
+          "rawAnswer": "meat",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Beyond artistic photography, he also photographed industries, including the meat sector, focusing on food production and supply chains"
+          },
+          "keywordPairs": [
+            {
+              "question": "documented",
+              "article": "photographed"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        }
+      ]
+    }
+  ],
+  "questionCount": 8,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,399</p><p>Today, I'll talk about Max Dupain, a photographer who shaped modern Australian photography. His career spanned several decades, and his images became some of the most recognized in the country. </p><p>00:00:16,180</p><p>Dupain played a key role in photography of art, and he helped to develop a distinct Australian style. </p><p>00:00:25,920</p><p>Early in his career, he worked on portraits using lighting and composition to highlight each subject. In nineteen thirty-four, he established a studio, allowing him to refine his techniques and expand his professional work. </p><p>00:00:43,099</p><p>Later, he shifted to documentary photography, capturing moments of daily life across Australia. His work in fashion photography led him to collaborate with designers and produce stylish images for magazines. </p><p>00:00:58,259</p><p>Over time, he also worked in industrial photography, photographing factories, bridges, and large infrastructure projects. </p><p>00:01:07,599</p><p>Among his famous images, The Sunbaker stands out for its strong triangle composition, creating a powerful visual effect. </p><p>00:01:18,559</p><p>Beyond artistic photography, he also photographed industries, including the meat sector, focusing on food production and supply chains.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/efe00f7d-d09f-450d-b922-c46d6c73fed1.mp3",
+    "durationSeconds": 88.006531,
+    "sizeBytes": 1408668,
+    "sha256": "664d1a62649ee3e9467df5f56d53c779594f298b22b0e07722e3df8deff3a405",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:29Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775636171799_cey03y_6abc2f41_c8811d62.mp3"
+}

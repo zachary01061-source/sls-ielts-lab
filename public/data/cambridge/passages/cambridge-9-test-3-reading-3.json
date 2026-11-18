@@ -1,0 +1,273 @@
+{
+  "id": "cambridge-9-test-3-reading-3",
+  "title": "Information theory - the big idea",
+  "titleCn": "Information theory - the big idea",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 9,
+    "test": 3
+  },
+  "sourceQuestionId": "6924",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6924",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Information theory—the big idea"
+    },
+    {
+      "label": "2",
+      "text": "Information theory lies at the heart of everything—from DVD players and the genetic code of DNA to the physics of the universe at its most fundamental. It has been central to the development of the science of communication, which enables data to be sent electronically and has therefore had a major impact on our lives"
+    },
+    {
+      "label": "3",
+      "text": "A In April 2002 an event took place which demonstrated one of the many applications of information theory. The space probe Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars. After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever. The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12 billion kilometers from Earth, this was not an easy task. By means of a radio dish belonging to NASA's Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light, it took over 11 hours to reach its target, far beyond the orbit of Pluto. Yet, incredibly, the little probe managed to hear the faint call from its home planet and successfully made the switchover."
+    },
+    {
+      "label": "4",
+      "text": "B It was the longest-distance repair job history, and a triumph for the NASA engineers. But it also highlighted the astonishing power of the techniques developed by American communications engineer Claude Shannon, who had died just a year earlier. Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for maths and for building gadgets, and made breakthroughs in the foundations of computer technology when still a student. While at Bell Laboratories, Shannon developed information theory, but shunned the resulting acclaim. In the 1940s, he singe-handedly created an entire science of communication which has since inveigled its way into a host of applications, from DVDs to satellite communications to bar codes— any area, in short, where data has to be conveyed rapidly yet accurately."
+    },
+    {
+      "label": "5",
+      "text": "C This all seems light years away from the down-to earth uses Shannon originally had for his work, which began when he was a 22-year-old graduate engineering student at the prestigious Massachusetts Institute of Technology in 1939. He set out with an apparently simple aim: to pin down the precise meaning of the concept of 'information'. The most basic form of information, Shannon argued, is whether something is true or false—which can be captured in the binary unit, or 'bit', of the form 1 or 0. Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transmit it from place to place. In the process he discovered something surprising: it is always possible to guarantee information will get through random interference—'noise'—intact."
+    },
+    {
+      "label": "6",
+      "text": "D Noise usually means unwanted sounds which interfere with genuine information. Information theory generalises this idea via theorems that capture the effects of noise with mathematical precision. In particular, Shannon showed that noise sets a limit on the rate at which information can pass along communication channels while remaining error-free. This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its 'bandwidth'). The resulting limit, given in units of bits per second, is the absolute maximum rate of error-free communication given signal strength and noise level. The trick, Shannon showed, is to find ways of packaging up—'coding'—information to cope with the ravages of noise, while staying within the information-carrying capacity—'bandwidth'—of the communication system being used."
+    },
+    {
+      "label": "7",
+      "text": "E Over the years scientists have devised many such coding methods, and they have proved crucial in many technological feats. The Voyager spacecraft transmitted data using codes which added one extra bit for every single bit of information; the result was an error rate of just one bit in 10,000—and stunningly clear pictures of the planets. Other codes have become part of everyday life—such as the Universal Product Code, or bar code, which uses a simple error-detecting system that ensures supermarket check-out lasers can read the price even on, say, a crumpled bag of crisps. As recently as 1993, engineers made a major breakthrough by discovering so-called turbo codes — which come very close to Shannon's ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution."
+    },
+    {
+      "label": "8",
+      "text": "F Shannon also laid the foundations of more efficient ways of storing information, by stripping out superfluous ('redundant') bits from data which contributed little real information. As mobile phone text messages like 'I CN C U' show, it is often possible to leave out a lot of data without losing much meaning. As with error correction, however, there's a limit beyond which messages become too ambiguous. Shannon showed how to calculate this limit, opening the way to the design of compression methods that cram maximum information into the minimum space."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Question27-32\n\nReading Passage 3 has six paragraphs, A-F.\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "an explanation of the factors affecting the transmission of the information",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6924_126401-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "an example of how unnecessary information can be omitted",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6924_126401-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "a reference to Shannon's attitude to fame",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6924_126401-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "details of a machine capable of interpreting incomplete information",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6924_126401-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "a detailed account of an incident involving information theory",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6924_126401-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "a reference to what Shannon initially intended to achieve in his research",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6924_126401-6"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Question33-37\n\nComplete the notes below.\n\nWrite NO MORE THAN TWO WORDS in each gap.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "Jupiter",
+            "Saturn"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6924_781806",
+          "explanation": "题号：33\n\n定位词：表病了关系的词both… and; probe transmitted\n\n文中定位在A段第二行：…The space probe, Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn…\n\n两个空格之间有表示并列关系的连接词both...and...，可预测要填的两个词为并列关系的名词。通过定位词pictures找到原文中包含images的那句话，pictures和images为同义转述。很明显images后面的一组并列关系的名词Jupiter和Saturn就是正确答案。\n\n题号：34\n\n定位词：then left the\n\n文中定位在A段第三行：...and then soared out of the Solar System on a one-way mission to the stars.\n\n空格前为定冠词the，因此预测出空格处应该填名词，并且此词最好在和定位词then left the意思相近的表达后面。因此，我们可以很轻松地定位到原文中and then soared out of…，left和soared out of是同义转述，后面的Solar System即为正确答案。\n\n题号：35\n\n定位词：表并列关系的词both…and；前一句题干中的freezing temperatures；本句中的scientists\n\n文中定位在A段第四行：After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever.\n\n两个空格之间有表示并列关系的连接词both...and...，可以预测要填的两个词为并列关系的名词。通过定位词freezing temperatures定位到原文中的原词。按照顺序原则继续往下找，定位词scientists对应原文中的NASA experts。仔细读包含这两个定位词的两句话，很明显存在一组并列关系的名词sensors and circuits。然后进一步推敲答案的确定性。题干中的stop working对应原文中的on the brink of failing，从而可以最终确定sensors和circuits为正确答案。\n\n题号：36\n\n定位词：probe, replace, distance, difficult\n\n文中定位到A段第七行：The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12billion kilometers from Earth, this was not an easy task.\n\n空格前为介词with，可预测空格里应该填名词，并且此词最好在distance之前。题干中的distance定位到原文中12 billion kilometers from Earth，题干中的difficult定位到原文中this was not an easy task，因此需要从前一个句子中找答案。题干中replace对应原文中change，题干中的replace them with对应原文中的use spares to change the failing parts，显然spares为正确答案。\n\n题号：37\n\n定位词：Transmit, message, speed of light\n\n文中定位到A段倒数第五行：By means of a radio dish belonging to NASA'S Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light…\n\n空格前为冠词a，可以预测空格处应该填辅音开头的名词。用定位词speed of light定位到原文中，transmit与原文中的send out属于同义转换。message是如何以光速传送出去的呢？题干中的...was used to对应于原文中的by means of...，因此radio dish为正确答案。\n\n参考译文：\n\n旅行者1号太空探测器\n\n太空探测器发回了土星和木星的壮观照片，然后飞出了太阳系。\n\n事实证明，寒冷的温度对太空探测器的零部件有负面影响。\n\n科学家们担心传感器和电路都将停止工作。\n\n唯一的希望是指挥探测器更换零件——但是遥远的距离使信息传送变得困难。\n\n无线电天线用于以光速传送这个信息。\n\n探测器接收到了信息并更换了零件。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Answer for gap 34.",
+          "answers": [
+            "Solar System"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6924_384728",
+          "explanation": "题号：33\n\n定位词：表病了关系的词both… and; probe transmitted\n\n文中定位在A段第二行：…The space probe, Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn…\n\n两个空格之间有表示并列关系的连接词both...and...，可预测要填的两个词为并列关系的名词。通过定位词pictures找到原文中包含images的那句话，pictures和images为同义转述。很明显images后面的一组并列关系的名词Jupiter和Saturn就是正确答案。\n\n题号：34\n\n定位词：then left the\n\n文中定位在A段第三行：...and then soared out of the Solar System on a one-way mission to the stars.\n\n空格前为定冠词the，因此预测出空格处应该填名词，并且此词最好在和定位词then left the意思相近的表达后面。因此，我们可以很轻松地定位到原文中and then soared out of…，left和soared out of是同义转述，后面的Solar System即为正确答案。\n\n题号：35\n\n定位词：表并列关系的词both…and；前一句题干中的freezing temperatures；本句中的scientists\n\n文中定位在A段第四行：After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever.\n\n两个空格之间有表示并列关系的连接词both...and...，可以预测要填的两个词为并列关系的名词。通过定位词freezing temperatures定位到原文中的原词。按照顺序原则继续往下找，定位词scientists对应原文中的NASA experts。仔细读包含这两个定位词的两句话，很明显存在一组并列关系的名词sensors and circuits。然后进一步推敲答案的确定性。题干中的stop working对应原文中的on the brink of failing，从而可以最终确定sensors和circuits为正确答案。\n\n题号：36\n\n定位词：probe, replace, distance, difficult\n\n文中定位到A段第七行：The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12billion kilometers from Earth, this was not an easy task.\n\n空格前为介词with，可预测空格里应该填名词，并且此词最好在distance之前。题干中的distance定位到原文中12 billion kilometers from Earth，题干中的difficult定位到原文中this was not an easy task，因此需要从前一个句子中找答案。题干中replace对应原文中change，题干中的replace them with对应原文中的use spares to change the failing parts，显然spares为正确答案。\n\n题号：37\n\n定位词：Transmit, message, speed of light\n\n文中定位到A段倒数第五行：By means of a radio dish belonging to NASA'S Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light…\n\n空格前为冠词a，可以预测空格处应该填辅音开头的名词。用定位词speed of light定位到原文中，transmit与原文中的send out属于同义转换。message是如何以光速传送出去的呢？题干中的...was used to对应于原文中的by means of...，因此radio dish为正确答案。\n\n参考译文：\n\n旅行者1号太空探测器\n\n太空探测器发回了土星和木星的壮观照片，然后飞出了太阳系。\n\n事实证明，寒冷的温度对太空探测器的零部件有负面影响。\n\n科学家们担心传感器和电路都将停止工作。\n\n唯一的希望是指挥探测器更换零件——但是遥远的距离使信息传送变得困难。\n\n无线电天线用于以光速传送这个信息。\n\n探测器接收到了信息并更换了零件。",
+          "promptHtml": "Answer for gap 34."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Scientists feared that both the [35] ______were about to stop working.",
+          "answers": [
+            "sensors",
+            "circuits"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6924_542605",
+          "explanation": "题号：33\n\n定位词：表病了关系的词both… and; probe transmitted\n\n文中定位在A段第二行：…The space probe, Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn…\n\n两个空格之间有表示并列关系的连接词both...and...，可预测要填的两个词为并列关系的名词。通过定位词pictures找到原文中包含images的那句话，pictures和images为同义转述。很明显images后面的一组并列关系的名词Jupiter和Saturn就是正确答案。\n\n题号：34\n\n定位词：then left the\n\n文中定位在A段第三行：...and then soared out of the Solar System on a one-way mission to the stars.\n\n空格前为定冠词the，因此预测出空格处应该填名词，并且此词最好在和定位词then left the意思相近的表达后面。因此，我们可以很轻松地定位到原文中and then soared out of…，left和soared out of是同义转述，后面的Solar System即为正确答案。\n\n题号：35\n\n定位词：表并列关系的词both…and；前一句题干中的freezing temperatures；本句中的scientists\n\n文中定位在A段第四行：After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever.\n\n两个空格之间有表示并列关系的连接词both...and...，可以预测要填的两个词为并列关系的名词。通过定位词freezing temperatures定位到原文中的原词。按照顺序原则继续往下找，定位词scientists对应原文中的NASA experts。仔细读包含这两个定位词的两句话，很明显存在一组并列关系的名词sensors and circuits。然后进一步推敲答案的确定性。题干中的stop working对应原文中的on the brink of failing，从而可以最终确定sensors和circuits为正确答案。\n\n题号：36\n\n定位词：probe, replace, distance, difficult\n\n文中定位到A段第七行：The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12billion kilometers from Earth, this was not an easy task.\n\n空格前为介词with，可预测空格里应该填名词，并且此词最好在distance之前。题干中的distance定位到原文中12 billion kilometers from Earth，题干中的difficult定位到原文中this was not an easy task，因此需要从前一个句子中找答案。题干中replace对应原文中change，题干中的replace them with对应原文中的use spares to change the failing parts，显然spares为正确答案。\n\n题号：37\n\n定位词：Transmit, message, speed of light\n\n文中定位到A段倒数第五行：By means of a radio dish belonging to NASA'S Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light…\n\n空格前为冠词a，可以预测空格处应该填辅音开头的名词。用定位词speed of light定位到原文中，transmit与原文中的send out属于同义转换。message是如何以光速传送出去的呢？题干中的...was used to对应于原文中的by means of...，因此radio dish为正确答案。\n\n参考译文：\n\n旅行者1号太空探测器\n\n太空探测器发回了土星和木星的壮观照片，然后飞出了太阳系。\n\n事实证明，寒冷的温度对太空探测器的零部件有负面影响。\n\n科学家们担心传感器和电路都将停止工作。\n\n唯一的希望是指挥探测器更换零件——但是遥远的距离使信息传送变得困难。\n\n无线电天线用于以光速传送这个信息。\n\n探测器接收到了信息并更换了零件。",
+          "promptHtml": "Scientists feared that both the [35] ______were about to stop working."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "The only hope was to tell the probe to replace them with[36] ______​​—but distance made communication with probe difficult.",
+          "answers": [
+            "spares"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6924_311915",
+          "explanation": "题号：33\n\n定位词：表病了关系的词both… and; probe transmitted\n\n文中定位在A段第二行：…The space probe, Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn…\n\n两个空格之间有表示并列关系的连接词both...and...，可预测要填的两个词为并列关系的名词。通过定位词pictures找到原文中包含images的那句话，pictures和images为同义转述。很明显images后面的一组并列关系的名词Jupiter和Saturn就是正确答案。\n\n题号：34\n\n定位词：then left the\n\n文中定位在A段第三行：...and then soared out of the Solar System on a one-way mission to the stars.\n\n空格前为定冠词the，因此预测出空格处应该填名词，并且此词最好在和定位词then left the意思相近的表达后面。因此，我们可以很轻松地定位到原文中and then soared out of…，left和soared out of是同义转述，后面的Solar System即为正确答案。\n\n题号：35\n\n定位词：表并列关系的词both…and；前一句题干中的freezing temperatures；本句中的scientists\n\n文中定位在A段第四行：After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever.\n\n两个空格之间有表示并列关系的连接词both...and...，可以预测要填的两个词为并列关系的名词。通过定位词freezing temperatures定位到原文中的原词。按照顺序原则继续往下找，定位词scientists对应原文中的NASA experts。仔细读包含这两个定位词的两句话，很明显存在一组并列关系的名词sensors and circuits。然后进一步推敲答案的确定性。题干中的stop working对应原文中的on the brink of failing，从而可以最终确定sensors和circuits为正确答案。\n\n题号：36\n\n定位词：probe, replace, distance, difficult\n\n文中定位到A段第七行：The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12billion kilometers from Earth, this was not an easy task.\n\n空格前为介词with，可预测空格里应该填名词，并且此词最好在distance之前。题干中的distance定位到原文中12 billion kilometers from Earth，题干中的difficult定位到原文中this was not an easy task，因此需要从前一个句子中找答案。题干中replace对应原文中change，题干中的replace them with对应原文中的use spares to change the failing parts，显然spares为正确答案。\n\n题号：37\n\n定位词：Transmit, message, speed of light\n\n文中定位到A段倒数第五行：By means of a radio dish belonging to NASA'S Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light…\n\n空格前为冠词a，可以预测空格处应该填辅音开头的名词。用定位词speed of light定位到原文中，transmit与原文中的send out属于同义转换。message是如何以光速传送出去的呢？题干中的...was used to对应于原文中的by means of...，因此radio dish为正确答案。\n\n参考译文：\n\n旅行者1号太空探测器\n\n太空探测器发回了土星和木星的壮观照片，然后飞出了太阳系。\n\n事实证明，寒冷的温度对太空探测器的零部件有负面影响。\n\n科学家们担心传感器和电路都将停止工作。\n\n唯一的希望是指挥探测器更换零件——但是遥远的距离使信息传送变得困难。\n\n无线电天线用于以光速传送这个信息。\n\n探测器接收到了信息并更换了零件。",
+          "promptHtml": "The only hope was to tell the probe to replace them with[36] ______​​—but distance made communication with probe difficult."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Answer for gap 37.",
+          "answers": [
+            "radio dish"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6924_331119",
+          "explanation": "题号：33\n\n定位词：表病了关系的词both… and; probe transmitted\n\n文中定位在A段第二行：…The space probe, Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn…\n\n两个空格之间有表示并列关系的连接词both...and...，可预测要填的两个词为并列关系的名词。通过定位词pictures找到原文中包含images的那句话，pictures和images为同义转述。很明显images后面的一组并列关系的名词Jupiter和Saturn就是正确答案。\n\n题号：34\n\n定位词：then left the\n\n文中定位在A段第三行：...and then soared out of the Solar System on a one-way mission to the stars.\n\n空格前为定冠词the，因此预测出空格处应该填名词，并且此词最好在和定位词then left the意思相近的表达后面。因此，我们可以很轻松地定位到原文中and then soared out of…，left和soared out of是同义转述，后面的Solar System即为正确答案。\n\n题号：35\n\n定位词：表并列关系的词both…and；前一句题干中的freezing temperatures；本句中的scientists\n\n文中定位在A段第四行：After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever.\n\n两个空格之间有表示并列关系的连接词both...and...，可以预测要填的两个词为并列关系的名词。通过定位词freezing temperatures定位到原文中的原词。按照顺序原则继续往下找，定位词scientists对应原文中的NASA experts。仔细读包含这两个定位词的两句话，很明显存在一组并列关系的名词sensors and circuits。然后进一步推敲答案的确定性。题干中的stop working对应原文中的on the brink of failing，从而可以最终确定sensors和circuits为正确答案。\n\n题号：36\n\n定位词：probe, replace, distance, difficult\n\n文中定位到A段第七行：The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12billion kilometers from Earth, this was not an easy task.\n\n空格前为介词with，可预测空格里应该填名词，并且此词最好在distance之前。题干中的distance定位到原文中12 billion kilometers from Earth，题干中的difficult定位到原文中this was not an easy task，因此需要从前一个句子中找答案。题干中replace对应原文中change，题干中的replace them with对应原文中的use spares to change the failing parts，显然spares为正确答案。\n\n题号：37\n\n定位词：Transmit, message, speed of light\n\n文中定位到A段倒数第五行：By means of a radio dish belonging to NASA'S Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light…\n\n空格前为冠词a，可以预测空格处应该填辅音开头的名词。用定位词speed of light定位到原文中，transmit与原文中的send out属于同义转换。message是如何以光速传送出去的呢？题干中的...was used to对应于原文中的by means of...，因此radio dish为正确答案。\n\n参考译文：\n\n旅行者1号太空探测器\n\n太空探测器发回了土星和木星的壮观照片，然后飞出了太阳系。\n\n事实证明，寒冷的温度对太空探测器的零部件有负面影响。\n\n科学家们担心传感器和电路都将停止工作。\n\n唯一的希望是指挥探测器更换零件——但是遥远的距离使信息传送变得困难。\n\n无线电天线用于以光速传送这个信息。\n\n探测器接收到了信息并更换了零件。",
+          "promptHtml": "Answer for gap 37."
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>The Voyager 1 Space Probe</strong></span></p>\n\n<p><br>\nThe probe transmitted pictures of both <strong>[33] ______</strong>, then left the <strong>[34] ______</strong>           <br>\nThe freezing temperatures were found to have a negative effect on parts of the space probe.<br>\nScientists feared that both the <strong>[35] ______</strong>were about to stop working.<br>\nThe only hope was to tell the probe to replace them with<strong>[36] ______</strong>​​—but distance made communication with probe difficult.<br>\nA <strong>[37] ______</strong><strong>[37] ______</strong>was used to transmit the message at the speed of light.<br>\nThe message was picked up by the probe and the switchover took place.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "instruction": "Question38-40\n\nDo the following statements agree with the information given in Reading Passage 3?\n\nChoose TRUE if the statement agrees with the claims of the writer,\n\nchoose FALSE if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "The concept of describing something as true or false was the starting point for Shannon in his attempts to send messages over distances.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6924_411013",
+          "explanation": "参考译文：用正确和错误来描述事物的概念是Shannon尝试远距离传送信息的起点。\n\n定位词：true or false\n\n解题关键词：was the starting point, over distances\n\n文中对应C段第五行：The most basic form of information, Shannon argued, is whether something is true or false— which can be captured in the binary unit, or 'bit', of the form 1 or 0. Shannon认为最基本的信息形式是判断事物正确与否，这可以用二进制单位“比特”以1或者0的形式记录。\n\n本题解题关键是Shannon研究远距离传送信息的起点。原文陈述，Shannon认为最基本的信息形式是判断事物正确与否。starting point = basic form，题干与原文完全一致。\n\n答案：TRUE"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "The amount of information that can be sent in a given time period is determined with reference to the signal strength and noise level.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6924_406762",
+          "explanation": "参考译文：在既定时间内，信息的传送量取决于信号的强度和噪音的水平。\n\n定位词：signal strength, noise level\n\n解题关键词：is determined with\n\n文中对应D段第五行：This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its ‘bandwidth’). 这个速度取决于信号与噪声在信道中传送时的相对强度以及信道传送数据的能力（即带宽）。\n\n本题解题关键是通过signal和noise定位到原文中，判断是否信息的传送量取决于信号的强度和噪音的水平。题干中判断的关键点is determined with，与原文depends on表述一致。\n\n答案：TRUE"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Products have now been developed which can convey more information than Shannon had anticipated as possible.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6924_492273",
+          "explanation": "参考译文：现在研发出的产品所能传送的信息量已经超过了Shannon的预期。\n\n定位词：now, Shannon, convey information\n\n解题关键词：more...than Shannon had anticipated\n\n文中对应E段倒数第四行：As recently as 1993, engineers made a major breakthrough by discovering so-called turbo codes—which come very close to Shannon's ultimate limit for the maximum rate that data can be transmitted rapidly, and now play a key role in the mobile videophone revolution. 就在最近的1993年，工程师们取得了一项重大突破，发现了所谓的Turbo码，这与Shannon提出的信息可以安全传送的最大速度极限非常接近。现在，Turbo码在移动可视电话变革中起着关键的作用。\n\n本题解题关键是将题干中的now对应到原文的as recently as 1993以及后面的now，题干中要判断的关键点是more…than Shannon had anticipated...（超过Shannon预期），与原文中的..which come very close to Shannon's ultimate limit（与Shannon提出的最大限度非常接近）。题干与原文所述事实不符合。\n\n答案：FALSE"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Information theory—the big idea</strong></span></p><p><em>Information theory lies at the heart of everything—from DVD players and the genetic code of DNA to the physics of the universe at its most fundamental. It has been central to the development of the science of communication, which enables data to be sent electronically and has therefore had a major impact on our lives</em></p><p><strong>A</strong>    In April 2002 an event took place which demonstrated one of the many applications of information theory. The space probe Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars. After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever. The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12 billion kilometers from Earth, this was not an easy task. By means of a radio dish belonging to NASA&#x27;s Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light, it took over 11 hours to reach its target, far beyond the orbit of Pluto. Yet, incredibly, the little probe managed to hear the faint call from its home planet and successfully made the switchover.</p><p><strong>B </strong>   It was the longest-distance repair job history, and a triumph for the NASA engineers. But it also highlighted the astonishing power of the techniques developed by American communications engineer Claude Shannon, who had died just a year earlier. Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for maths and for building gadgets, and made breakthroughs in the foundations of computer technology when still a student. While at Bell Laboratories, Shannon developed information theory, but shunned the resulting acclaim. In the 1940s, he singe-handedly created an entire science of communication which has since inveigled its way into a host of applications, from DVDs to satellite communications to bar codes— any area, in short, where data has to be conveyed rapidly yet accurately.</p><p><strong>C</strong>    This all seems light years away from the down-to earth uses Shannon originally had for his work, which began when he was a 22-year-old graduate engineering student at the prestigious Massachusetts Institute of Technology in 1939. He set out with an apparently simple aim: to pin down the precise meaning of the concept of &#x27;information&#x27;. The most basic form of information, Shannon argued, is whether something is true or false—which can be captured in the binary unit, or &#x27;bit&#x27;, of the form 1 or 0. Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transmit it from place to place. In the process he discovered something surprising: it is always possible to guarantee information will get through random interference—&#x27;noise&#x27;—intact.</p><p><strong>D</strong>    Noise usually means unwanted sounds which interfere with genuine information. Information theory generalises this idea via theorems that capture the effects of noise with mathematical precision. In particular, Shannon showed that noise sets a limit on the rate at which information can pass along communication channels while remaining error-free. This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its &#x27;bandwidth&#x27;). The resulting limit, given in units of bits per second, is the absolute maximum rate of error-free communication given signal strength and noise level. The trick, Shannon showed, is to find ways of packaging up—&#x27;coding&#x27;—information to cope with the ravages of noise, while staying within the information-carrying capacity—&#x27;bandwidth&#x27;—of the communication system being used.</p><p><strong>E</strong>    Over the years scientists have devised many such coding methods, and they have proved crucial in many technological feats. The Voyager spacecraft transmitted data using codes which added one extra bit for every single bit of information; the result was an error rate of just one bit in 10,000—and stunningly clear pictures of the planets. Other codes have become part of everyday life—such as the Universal Product Code, or bar code, which uses a simple error-detecting system that ensures supermarket check-out lasers can read the price even on, say, a crumpled bag of crisps. As recently as 1993, engineers made a major breakthrough by discovering so-called turbo codes — which come very close to Shannon&#x27;s ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution.</p><p><strong>F</strong>    Shannon also laid the foundations of more efficient ways of storing information, by stripping out superfluous (&#x27;redundant&#x27;) bits from data which contributed little real information. As mobile phone text messages like &#x27;I CN C U&#x27; show, it is often possible to leave out a lot of data without losing much meaning. As with error correction, however, there&#x27;s a limit beyond which messages become too ambiguous. Shannon showed how to calculate this limit, opening the way to the design of compression methods that cram maximum information into the minimum space.</p>"
+}

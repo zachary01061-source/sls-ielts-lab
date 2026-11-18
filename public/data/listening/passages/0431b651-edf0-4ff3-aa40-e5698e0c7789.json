@@ -1,0 +1,267 @@
+{
+  "id": "0431b651-edf0-4ff3-aa40-e5698e0c7789",
+  "title": "Fly glow worms",
+  "titleCn": "萤火虫发光虫：幼虫发光与短暂成虫期",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/0431b651-edf0-4ff3-aa40-e5698e0c7789",
+  "duration": 236,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:03,240"
+    },
+    {
+      "label": "2",
+      "text": "Today, we are going to dive into the fascinating world of a special kind of firefly. These glowworms are particularly interesting because of their unique way of living and surviving. One of the intriguing aspects of these glowworms is that only fly worm larvae can eat. Once they become adults, they can no longer feed, which is why they have such a short lifespan, just about fourteen days. The light produced by these larvae is seen as warnings by other creatures, particularly the predators. This makes their survival even more interesting. Adults, also known as fly worms, tend to stay in the same area and build colonies of glowworms. This can provide us with insights into their social behavior as well. When the larvae are hungry, they tend to glow brighter. The brighter glow is a signal of their hunger status, which differentiates them from other glowworms around them."
+    },
+    {
+      "label": "3",
+      "text": "00:00:59,240"
+    },
+    {
+      "label": "4",
+      "text": "Interestingly, many fireflies show a lot of activity during the day. Although this might be contrary to popular belief, it highlights their varied behavior patterns."
+    },
+    {
+      "label": "5",
+      "text": "00:01:09,960"
+    },
+    {
+      "label": "6",
+      "text": "Speaking of behavior, the term Arachno refers to how glowworms catch flying insects similar to how spiders do. The research conducted on these glowworms has provided us with genetic information. This includes biochemical studies on how the glowworm produces light and crucial data aiding future ecological and evolutionary studies of these fascinating creatures. One of the major threats to these glowworms is disease. Understanding this threat can help us in taking measures to preserve their populations."
+    },
+    {
+      "label": "7",
+      "text": "00:01:42,600"
+    },
+    {
+      "label": "8",
+      "text": "Furthermore, any continued research should focus on the migrate information of glowworms to better understand their life cycle and migratory patterns."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "d8f7b333-d8bd-4349-a70f-c099fa1a8408",
+          "prompt": "Only fly worm larva can **31**_____ .\nAdult glow worms can`t feed, so they can live only for 14 days or so.",
+          "answers": [
+            "eat"
+          ],
+          "rawAnswer": "eat",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the intriguing aspects of these glow worms is that only fly worm larvae can eat"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "7807808b-ddcf-4d49-bfa1-306a4eb90264",
+          "prompt": "Fly worms see the light as **32**_____ .\nIt appears to be a warning signal to predators.",
+          "answers": [
+            "warnings"
+          ],
+          "rawAnswer": "warnings",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The light produced by these larvae is seen as warnings by other creatures, particularly the predators"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "3c101323-335d-47fe-80a3-976c1788bf3a",
+          "prompt": "Adult fly worms often remain in the same area,building a **33**_____ of glowworms.",
+          "answers": [
+            "colonies"
+          ],
+          "rawAnswer": "colonies",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Adults, also known as fly worms, tend to stay in the same area and build colonies of glow worms"
+          },
+          "keywordPairs": [
+            {
+              "question": "often remain in",
+              "article": "tend to stay in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "f94a94a8-4b5a-4c12-b084-b3a798004014",
+          "prompt": "Larva glows brighter when they are **34**_____ .",
+          "answers": [
+            "hungry"
+          ],
+          "rawAnswer": "hungry",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When the larvae are hungry, they tend to glow brighter"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "b07e7655-3f1d-4ccf-84e0-e3272b53ce98",
+          "prompt": "**Other Fly glowworms**\nMany fireflies are active in the day.\nMany fireflies do not produce light.\n\nMany fireflies are active in the **35**_____ .\nMany fireflies do not produce light.",
+          "answers": [
+            "day"
+          ],
+          "rawAnswer": "day",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Interestingly, many fire flies show a lot of activity during the day"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "1a0454f8-ca44-4acb-8245-2b0452a3d7ce",
+          "prompt": "Arachno` refers to the way glowworms catch flying insects like **36**_____ .",
+          "answers": [
+            "spiders"
+          ],
+          "rawAnswer": "spiders",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Speaking of behavior, the term Arachno refers to how glowworms catch flying insects similar to how spiders do"
+          },
+          "keywordPairs": [
+            {
+              "question": "like",
+              "article": "similar to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "2a69a9a7-f198-438a-8dfb-aa72c1f4e9c9",
+          "prompt": "The research provides **37**_____ information.",
+          "answers": [
+            "genetic"
+          ],
+          "rawAnswer": "genetic",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The research conducted on these glowworms has provided us with genetic information"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "a7059b4f-02c6-4ae4-b607-a82c19d3db2f",
+          "prompt": "Bio-chemical studies into how the glowworm produces **38**_____, and a source of information to aid future ecological and evolutionary studies of the glowworm.",
+          "answers": [
+            "light"
+          ],
+          "rawAnswer": "light",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This includes biochemical studies on how the glowworm produces light and crucial data aiding future ecological and evolutionary studies of these fascinating creatures"
+          },
+          "keywordPairs": [
+            {
+              "question": "information",
+              "article": "data"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "bef16f48-a89b-4026-8e06-7535488fbe1d",
+          "prompt": "Major threat to glowworms:**39**_____ .",
+          "answers": [
+            "disease"
+          ],
+          "rawAnswer": "disease",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the major threats to these glowworms is disease"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "3ab10601-7219-4419-b1c9-8cdf715a87cf",
+          "prompt": "Further research should focus on the **40**_____ information of glowworms",
+          "answers": [
+            "migratory"
+          ],
+          "rawAnswer": "migratory",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Furthermore, any continued research should focus on the migrate information of glowworms to better understand their life cycle and migratory patterns"
+          },
+          "keywordPairs": [
+            {
+              "question": "Further",
+              "article": "continued"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:03,240</p><p>Today, we are going to dive into the fascinating world of a special kind of firefly. These glowworms are particularly interesting because of their unique way of living and surviving. One of the intriguing aspects of these glowworms is that only fly worm larvae can eat. Once they become adults, they can no longer feed, which is why they have such a short lifespan, just about fourteen days. The light produced by these larvae is seen as warnings by other creatures, particularly the predators. This makes their survival even more interesting. Adults, also known as fly worms, tend to stay in the same area and build colonies of glowworms. This can provide us with insights into their social behavior as well. When the larvae are hungry, they tend to glow brighter. The brighter glow is a signal of their hunger status, which differentiates them from other glowworms around them. </p><p>00:00:59,240</p><p>Interestingly, many fireflies show a lot of activity during the day. Although this might be contrary to popular belief, it highlights their varied behavior patterns. </p><p>00:01:09,960</p><p>Speaking of behavior, the term Arachno refers to how glowworms catch flying insects similar to how spiders do. The research conducted on these glowworms has provided us with genetic information. This includes biochemical studies on how the glowworm produces light and crucial data aiding future ecological and evolutionary studies of these fascinating creatures. One of the major threats to these glowworms is disease. Understanding this threat can help us in taking measures to preserve their populations. </p><p>00:01:42,600</p><p>Furthermore, any continued research should focus on the migrate information of glowworms to better understand their life cycle and migratory patterns.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/0431b651-edf0-4ff3-aa40-e5698e0c7789.mp3",
+    "durationSeconds": 115.032,
+    "sizeBytes": 1841043,
+    "sha256": "ca5c4592d4b730bd4f834741080861c5b57aedd4e7f8cdc71a85120dc44ba0b6",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:04:28Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775395895588_l9nidv_b5b50e88_deff7215.mp3"
+}

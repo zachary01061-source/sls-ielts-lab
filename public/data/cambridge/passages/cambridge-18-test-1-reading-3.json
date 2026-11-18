@@ -1,0 +1,326 @@
+{
+  "id": "cambridge-18-test-1-reading-3",
+  "title": "Conquering Earth’s space junk problem",
+  "titleCn": "Conquering Earth’s space junk problem",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 1
+  },
+  "sourceQuestionId": "8441",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8441",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Conquering Earth’s space junk problem"
+    },
+    {
+      "label": "2",
+      "text": "Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet. Researchers are working to reduce these threats"
+    },
+    {
+      "label": "3",
+      "text": "A"
+    },
+    {
+      "label": "4",
+      "text": "Last year, commercial companies, military and civil departments and amateurs sent more than 400 satellites into orbit, over four times the yearly average in the previous decade. Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites to space in the next few years."
+    },
+    {
+      "label": "5",
+      "text": "All that traffic can lead to disaster. Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251, creating thousands of new pieces of space shrapnel that now threaten other satellites in low Earth orbit – the zone stretching up to 2,000 kilometres in altitude. Altogether, there are roughly 20,000 human-made objects in orbit, from working satellites to small rocket pieces. And satellite operators can’t steer away from every potential crash, because each move consumes time and fuel that could otherwise be used for the spacecraft’s main job."
+    },
+    {
+      "label": "6",
+      "text": "B"
+    },
+    {
+      "label": "7",
+      "text": "Concern about space junk goes back to the beginning of the satellite era, but the number of objects in orbit is rising so rapidly that researchers are investigating new ways of attacking the problem. Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators can work more efficiently in ever-more-crowded space. Some researchers are now starting to compile a massive data set that includes the best possible information on where everything is in orbit. Others are developing taxonomies of space debris – working on measuring properties such as the shape and size of an object, so that satellite operators know how much to worry about what’s coming their way."
+    },
+    {
+      "label": "8",
+      "text": "The alternative, many say, is unthinkable. Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable. ‘If we go on like this, we will reach a point of no return,’ says Carolin Frueh, an astrodynamical researcher at Purdue University in West Lafayette, Indiana."
+    },
+    {
+      "label": "9",
+      "text": "C"
+    },
+    {
+      "label": "10",
+      "text": "Even as our ability to monitor space objects increases, so too does the total number of items in orbit. That means companies, governments and other players in space are collaborating in new ways to avoid a shared threat. International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability. Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions. The intergovernmental groups also advise lowering satellites deep enough into the atmosphere that they will burn up or disintegrate within 25 years. But so far, only about half of all missions have abided by this 25-year goal, says Holger Krag, head of the European Space Agency’s space-debris office in Darmstadt, Germany. Operators of the planned large constellations of satellites say they will be responsible stewards in their enterprises in space, but Krag worries that problems could increase, despite their best intentions. ‘What happens to those that fail or go bankrupt?’ he asks. ‘They are probably not going to spend money to remove their satellites from space.’"
+    },
+    {
+      "label": "11",
+      "text": "D"
+    },
+    {
+      "label": "12",
+      "text": "In theory, given the vastness of space, satellite operators should have plenty of room for all these missions to fly safely without ever nearing another object. So some scientists are tackling the problem of space junk by trying to find out where all the debris is to a high degree of precision. That would alleviate the need for many of the unnecessary manoeuvres that are carried out to avoid potential collisions. ‘If you knew precisely where everything was, you would almost never have a problem,’ says Marlon Sorge, a space-debris specialist at the Aerospace Corporation in El Segundo, California."
+    },
+    {
+      "label": "13",
+      "text": "E"
+    },
+    {
+      "label": "14",
+      "text": "The field is called space traffic management, because it’s similar to managing traffic on the roads or in the air. Think about a busy day at an airport, says Moriba Jah, an astrodynamicist at the University of Texas at Austin: planes line up in the sky, landing and taking off close to one another in a carefully choreographed routine. Air-traffic controllers know the location of the planes down to one metre in accuracy. The same can’t be said for space debris. Not all objects in orbit are known, and even those included in databases are not tracked consistently."
+    },
+    {
+      "label": "15",
+      "text": "F"
+    },
+    {
+      "label": "16",
+      "text": "An additional problem is that there is no authoritative catalogue that accurately lists the orbits of all known space debris. Jah illustrates this with a web-based database that he has developed. It draws on several sources, such as catalogues maintained by the US and Russian governments, to visualise where objects are in space. When he types in an identifier for a particular space object, the database draws a purple line to designate its orbit. Only this doesn’t quite work for a number of objects, such as a Russian rocket body designated in the database as object number 32280. When Jah enters that number, the database draws two purple lines: the US and Russian sources contain two completely different orbits for the same object. Jah says that it is almost impossible to tell which is correct, unless a third source of information made it possible to cross-correlate. Jah describes himself as a space environmentalist: ‘I want to make space a place that is safe to operate, that is free and useful for generations to come.’ Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 27–31\n\nReading Passage 3 has six sections, A–F.\n\nWhich section contains the following information?",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "a reference to the cooperation that takes place to try and minimise risk",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8441_243914-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "an explanation of a person’s aims",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8441_243914-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "a description of a major collision that occurred in space",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8441_243914-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "a comparison between tracking objects in space and the efficiency of a transportation system",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8441_243914-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "a reference to efforts to classify space junk",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8441_243914-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 32–35\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Answer for gap 32.",
+          "answers": [
+            "sustainability"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8441_580461",
+          "explanation": "32. 本题的定位极其简单，单凭小标题里这个大写专有名词就可以找到准确位置。不过，这道题的同义替换方式比较隐蔽，倒不是说题干或者对应的原文句有多么难以看懂或者包含多么高难度的词汇，而是如果考生一心只想寻找某个词例如advice的严格同义替换，则有可能会漏掉答案信息。只有真正看懂句子意思而不是机械追求word-for-word的“词对词”替换，才能真正理解原文中的“发展出了指导原则”正是对应于题干中的“给出建议”，进而确定空格内的答案应当就是这二者所指向的对象：sustainability。\n\n33. 本题的题干给出了非常丰富的定位信息，考生可以在原文中寻找的线索有：“不活跃的卫星”（题干中的no longer active对应原文中的inactivating）、“没用掉的”（题干中的unused对应原文中的leftover），以及与空格处形成并列关系的“压缩物质”（一模一样地出现在了原文中）。综合这些线索，考生应该不难在解答了上一题后，随之在下一个句子里找全所有这些提示，进而锁定答案：fuel。\n\n34. 本题与上一道题出自同一句，考生在寻找上题答案时其实应该已经同时看到了这个信息，因而可以轻松得出本题答案：explosions。\n\n35. 本题最大的解题难点大约来自于“看懂题干本身”。一旦考生看清这个句子的意思，明白要寻找的是那些由于空格里的原因而导致有可能无法履行先前承诺的移除自家卫星，也就能顺藤摸瓜地回到文章中定位解题。本题还包含一个非常友好的定位线索：大写人名Holger Krag，不过空格中所需答案距离这个人名出现的地方颇有一些距离，若考生只是孤立地寻找本题答案，则可能要多花上一些功夫。反之，如果考生抱定平行阅读的策略，全面照顾本篇各个题型，则不但可以最终顺利锁定本题答案：bankrupt，而且在此过程中还能顺手解答出下一个题型中的第38题。",
+          "promptHtml": "Answer for gap 32."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "fuel"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8441_174225",
+          "explanation": "32. 本题的定位极其简单，单凭小标题里这个大写专有名词就可以找到准确位置。不过，这道题的同义替换方式比较隐蔽，倒不是说题干或者对应的原文句有多么难以看懂或者包含多么高难度的词汇，而是如果考生一心只想寻找某个词例如advice的严格同义替换，则有可能会漏掉答案信息。只有真正看懂句子意思而不是机械追求word-for-word的“词对词”替换，才能真正理解原文中的“发展出了指导原则”正是对应于题干中的“给出建议”，进而确定空格内的答案应当就是这二者所指向的对象：sustainability。\n\n33. 本题的题干给出了非常丰富的定位信息，考生可以在原文中寻找的线索有：“不活跃的卫星”（题干中的no longer active对应原文中的inactivating）、“没用掉的”（题干中的unused对应原文中的leftover），以及与空格处形成并列关系的“压缩物质”（一模一样地出现在了原文中）。综合这些线索，考生应该不难在解答了上一题后，随之在下一个句子里找全所有这些提示，进而锁定答案：fuel。\n\n34. 本题与上一道题出自同一句，考生在寻找上题答案时其实应该已经同时看到了这个信息，因而可以轻松得出本题答案：explosions。\n\n35. 本题最大的解题难点大约来自于“看懂题干本身”。一旦考生看清这个句子的意思，明白要寻找的是那些由于空格里的原因而导致有可能无法履行先前承诺的移除自家卫星，也就能顺藤摸瓜地回到文章中定位解题。本题还包含一个非常友好的定位线索：大写人名Holger Krag，不过空格中所需答案距离这个人名出现的地方颇有一些距离，若考生只是孤立地寻找本题答案，则可能要多花上一些功夫。反之，如果考生抱定平行阅读的策略，全面照顾本篇各个题型，则不但可以最终顺利锁定本题答案：bankrupt，而且在此过程中还能顺手解答出下一个题型中的第38题。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Answer for gap 34.",
+          "answers": [
+            "explosions"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8441_271159",
+          "explanation": "32. 本题的定位极其简单，单凭小标题里这个大写专有名词就可以找到准确位置。不过，这道题的同义替换方式比较隐蔽，倒不是说题干或者对应的原文句有多么难以看懂或者包含多么高难度的词汇，而是如果考生一心只想寻找某个词例如advice的严格同义替换，则有可能会漏掉答案信息。只有真正看懂句子意思而不是机械追求word-for-word的“词对词”替换，才能真正理解原文中的“发展出了指导原则”正是对应于题干中的“给出建议”，进而确定空格内的答案应当就是这二者所指向的对象：sustainability。\n\n33. 本题的题干给出了非常丰富的定位信息，考生可以在原文中寻找的线索有：“不活跃的卫星”（题干中的no longer active对应原文中的inactivating）、“没用掉的”（题干中的unused对应原文中的leftover），以及与空格处形成并列关系的“压缩物质”（一模一样地出现在了原文中）。综合这些线索，考生应该不难在解答了上一题后，随之在下一个句子里找全所有这些提示，进而锁定答案：fuel。\n\n34. 本题与上一道题出自同一句，考生在寻找上题答案时其实应该已经同时看到了这个信息，因而可以轻松得出本题答案：explosions。\n\n35. 本题最大的解题难点大约来自于“看懂题干本身”。一旦考生看清这个句子的意思，明白要寻找的是那些由于空格里的原因而导致有可能无法履行先前承诺的移除自家卫星，也就能顺藤摸瓜地回到文章中定位解题。本题还包含一个非常友好的定位线索：大写人名Holger Krag，不过空格中所需答案距离这个人名出现的地方颇有一些距离，若考生只是孤立地寻找本题答案，则可能要多花上一些功夫。反之，如果考生抱定平行阅读的策略，全面照顾本篇各个题型，则不但可以最终顺利锁定本题答案：bankrupt，而且在此过程中还能顺手解答出下一个题型中的第38题。",
+          "promptHtml": "Answer for gap 34."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Although operators of large satellite constellations accept that they have obligations as stewards of space, Holger Krag points out that the operators that become [35] ______ are unlikely to prioritise removing their satellites from space.",
+          "answers": [
+            "bankrupt"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8441_906865",
+          "explanation": "32. 本题的定位极其简单，单凭小标题里这个大写专有名词就可以找到准确位置。不过，这道题的同义替换方式比较隐蔽，倒不是说题干或者对应的原文句有多么难以看懂或者包含多么高难度的词汇，而是如果考生一心只想寻找某个词例如advice的严格同义替换，则有可能会漏掉答案信息。只有真正看懂句子意思而不是机械追求word-for-word的“词对词”替换，才能真正理解原文中的“发展出了指导原则”正是对应于题干中的“给出建议”，进而确定空格内的答案应当就是这二者所指向的对象：sustainability。\n\n33. 本题的题干给出了非常丰富的定位信息，考生可以在原文中寻找的线索有：“不活跃的卫星”（题干中的no longer active对应原文中的inactivating）、“没用掉的”（题干中的unused对应原文中的leftover），以及与空格处形成并列关系的“压缩物质”（一模一样地出现在了原文中）。综合这些线索，考生应该不难在解答了上一题后，随之在下一个句子里找全所有这些提示，进而锁定答案：fuel。\n\n34. 本题与上一道题出自同一句，考生在寻找上题答案时其实应该已经同时看到了这个信息，因而可以轻松得出本题答案：explosions。\n\n35. 本题最大的解题难点大约来自于“看懂题干本身”。一旦考生看清这个句子的意思，明白要寻找的是那些由于空格里的原因而导致有可能无法履行先前承诺的移除自家卫星，也就能顺藤摸瓜地回到文章中定位解题。本题还包含一个非常友好的定位线索：大写人名Holger Krag，不过空格中所需答案距离这个人名出现的地方颇有一些距离，若考生只是孤立地寻找本题答案，则可能要多花上一些功夫。反之，如果考生抱定平行阅读的策略，全面照顾本篇各个题型，则不但可以最终顺利锁定本题答案：bankrupt，而且在此过程中还能顺手解答出下一个题型中的第38题。",
+          "promptHtml": "Although operators of large satellite constellations accept that they have obligations as stewards of space, Holger Krag points out that the operators that become [35] ______ are unlikely to prioritise removing their satellites from space."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><span><strong>The Inter-Agency Space Debris Coordination Committee</strong></span><br>\n<br>\nThe committee gives advice on how the </span><strong>[32] ______</strong><span> of space can be achieved. The committee advises that when satellites are no longer active, any unused </span><strong>[33] ______</strong><span> or pressurised material that could cause </span><strong>[34] ______</strong><span> should be removed.<br>\nAlthough operators of large satellite constellations accept that they have obligations as stewards of space, Holger Krag points out that the operators that become </span><strong>[35] ______</strong><span> are unlikely to prioritise removing their satellites from space.</span></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 36–40\n\nLook at the following statements (Questions 36–40) and the list of people below.\n\nMatch each statement with the correct person, A, B, C or D.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Knowing the exact location of space junk would help prevent any possible danger. [36] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8441_878635",
+          "explanation": "36. 本题的解题难度着实不算高，即使只凭题干中的绝对表述词any来匹配原文，也能看出它与Marlon Sorge所在原文句中的表述、同样略显绝对的never最为合拍。当然，由于无论题干句还是原文句的理解难度本身都不高，所以考生看到就相当于找到，可以顺利选出正确答案，即人名所对应的选项：C。\n\n37. 本题其实可以与第28题同时做出，这两道题都来自同一个人的观点，且在同一句话里：对应于28题中Moriba Jah的个人目标表述的具体内容，也就是本题题干所说的“不但每个人可用，且未来的世世代代也都还可以用”。采用平行阅读方法解题的考生，在此处可以享受一箭双雕的双重收获，轻松确认答案应为人名对应的选项：D。\n\n38. 本题的定位与第35题出处一致，而且若是论起距离人名定位处的远近来，还是本题更有优势：直接出现在了人名所在的那句话里。不过，这道题略考查考生的词汇基础，只有认识abide by这个词组的意思，考生才能更轻松地看懂原文中所说的“只有大约一半组织遵守了这个目标”正是在同义替换题干中的“一条建议受到大规模忽视”，进而得出答案：B。\n\n39. 本题的定位处比较靠后，在最后一个Section，需要考生具备一定的阅读速度。同时，考生也需要具备对conflict这个词的基本认知，才能更准确地意识到原文中说两个不同的资源（美国和俄罗斯的数据库）关于同一件物体给出了两条完全不同的轨道，说的正是题干所需要的“有冲突的信息”，进而得出人名所对应的答案项：D。\n\n40. 本题的解答难度不高。首先，对应人名位置靠前，最先出现在文章中；其次，题干和对应原文句的理解难度都不高，考生应该不费什么气力就能双双看懂，原文中所谓“无法回头的临界点”，正是在同义替换地表述题干中的“无法消除之前的破坏”，进而得出答案：A。",
+          "promptHtml": "Knowing the exact location of space junk would help prevent any possible danger. [36] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Space should be available to everyone and should be preserved for the future.[37] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8441_764997",
+          "explanation": "36. 本题的解题难度着实不算高，即使只凭题干中的绝对表述词any来匹配原文，也能看出它与Marlon Sorge所在原文句中的表述、同样略显绝对的never最为合拍。当然，由于无论题干句还是原文句的理解难度本身都不高，所以考生看到就相当于找到，可以顺利选出正确答案，即人名所对应的选项：C。\n\n37. 本题其实可以与第28题同时做出，这两道题都来自同一个人的观点，且在同一句话里：对应于28题中Moriba Jah的个人目标表述的具体内容，也就是本题题干所说的“不但每个人可用，且未来的世世代代也都还可以用”。采用平行阅读方法解题的考生，在此处可以享受一箭双雕的双重收获，轻松确认答案应为人名对应的选项：D。\n\n38. 本题的定位与第35题出处一致，而且若是论起距离人名定位处的远近来，还是本题更有优势：直接出现在了人名所在的那句话里。不过，这道题略考查考生的词汇基础，只有认识abide by这个词组的意思，考生才能更轻松地看懂原文中所说的“只有大约一半组织遵守了这个目标”正是在同义替换题干中的“一条建议受到大规模忽视”，进而得出答案：B。\n\n39. 本题的定位处比较靠后，在最后一个Section，需要考生具备一定的阅读速度。同时，考生也需要具备对conflict这个词的基本认知，才能更准确地意识到原文中说两个不同的资源（美国和俄罗斯的数据库）关于同一件物体给出了两条完全不同的轨道，说的正是题干所需要的“有冲突的信息”，进而得出人名所对应的答案项：D。\n\n40. 本题的解答难度不高。首先，对应人名位置靠前，最先出现在文章中；其次，题干和对应原文句的理解难度都不高，考生应该不费什么气力就能双双看懂，原文中所谓“无法回头的临界点”，正是在同义替换地表述题干中的“无法消除之前的破坏”，进而得出答案：A。",
+          "promptHtml": "Space should be available to everyone and should be preserved for the future.[37] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "A recommendation regarding satellites is widely ignored. [38] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8441_678629",
+          "explanation": "36. 本题的解题难度着实不算高，即使只凭题干中的绝对表述词any来匹配原文，也能看出它与Marlon Sorge所在原文句中的表述、同样略显绝对的never最为合拍。当然，由于无论题干句还是原文句的理解难度本身都不高，所以考生看到就相当于找到，可以顺利选出正确答案，即人名所对应的选项：C。\n\n37. 本题其实可以与第28题同时做出，这两道题都来自同一个人的观点，且在同一句话里：对应于28题中Moriba Jah的个人目标表述的具体内容，也就是本题题干所说的“不但每个人可用，且未来的世世代代也都还可以用”。采用平行阅读方法解题的考生，在此处可以享受一箭双雕的双重收获，轻松确认答案应为人名对应的选项：D。\n\n38. 本题的定位与第35题出处一致，而且若是论起距离人名定位处的远近来，还是本题更有优势：直接出现在了人名所在的那句话里。不过，这道题略考查考生的词汇基础，只有认识abide by这个词组的意思，考生才能更轻松地看懂原文中所说的“只有大约一半组织遵守了这个目标”正是在同义替换题干中的“一条建议受到大规模忽视”，进而得出答案：B。\n\n39. 本题的定位处比较靠后，在最后一个Section，需要考生具备一定的阅读速度。同时，考生也需要具备对conflict这个词的基本认知，才能更准确地意识到原文中说两个不同的资源（美国和俄罗斯的数据库）关于同一件物体给出了两条完全不同的轨道，说的正是题干所需要的“有冲突的信息”，进而得出人名所对应的答案项：D。\n\n40. 本题的解答难度不高。首先，对应人名位置靠前，最先出现在文章中；其次，题干和对应原文句的理解难度都不高，考生应该不费什么气力就能双双看懂，原文中所谓“无法回头的临界点”，正是在同义替换地表述题干中的“无法消除之前的破坏”，进而得出答案：A。",
+          "promptHtml": "A recommendation regarding satellites is widely ignored. [38] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "There is conflicting information about where some satellites are in space.[39] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8441_391150",
+          "explanation": "36. 本题的解题难度着实不算高，即使只凭题干中的绝对表述词any来匹配原文，也能看出它与Marlon Sorge所在原文句中的表述、同样略显绝对的never最为合拍。当然，由于无论题干句还是原文句的理解难度本身都不高，所以考生看到就相当于找到，可以顺利选出正确答案，即人名所对应的选项：C。\n\n37. 本题其实可以与第28题同时做出，这两道题都来自同一个人的观点，且在同一句话里：对应于28题中Moriba Jah的个人目标表述的具体内容，也就是本题题干所说的“不但每个人可用，且未来的世世代代也都还可以用”。采用平行阅读方法解题的考生，在此处可以享受一箭双雕的双重收获，轻松确认答案应为人名对应的选项：D。\n\n38. 本题的定位与第35题出处一致，而且若是论起距离人名定位处的远近来，还是本题更有优势：直接出现在了人名所在的那句话里。不过，这道题略考查考生的词汇基础，只有认识abide by这个词组的意思，考生才能更轻松地看懂原文中所说的“只有大约一半组织遵守了这个目标”正是在同义替换题干中的“一条建议受到大规模忽视”，进而得出答案：B。\n\n39. 本题的定位处比较靠后，在最后一个Section，需要考生具备一定的阅读速度。同时，考生也需要具备对conflict这个词的基本认知，才能更准确地意识到原文中说两个不同的资源（美国和俄罗斯的数据库）关于同一件物体给出了两条完全不同的轨道，说的正是题干所需要的“有冲突的信息”，进而得出人名所对应的答案项：D。\n\n40. 本题的解答难度不高。首先，对应人名位置靠前，最先出现在文章中；其次，题干和对应原文句的理解难度都不高，考生应该不费什么气力就能双双看懂，原文中所谓“无法回头的临界点”，正是在同义替换地表述题干中的“无法消除之前的破坏”，进而得出答案：A。",
+          "promptHtml": "There is conflicting information about where some satellites are in space.[39] ______"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "There is a risk we will not be able to undo the damage that occurs in space.[40] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8441_835559",
+          "explanation": "36. 本题的解题难度着实不算高，即使只凭题干中的绝对表述词any来匹配原文，也能看出它与Marlon Sorge所在原文句中的表述、同样略显绝对的never最为合拍。当然，由于无论题干句还是原文句的理解难度本身都不高，所以考生看到就相当于找到，可以顺利选出正确答案，即人名所对应的选项：C。\n\n37. 本题其实可以与第28题同时做出，这两道题都来自同一个人的观点，且在同一句话里：对应于28题中Moriba Jah的个人目标表述的具体内容，也就是本题题干所说的“不但每个人可用，且未来的世世代代也都还可以用”。采用平行阅读方法解题的考生，在此处可以享受一箭双雕的双重收获，轻松确认答案应为人名对应的选项：D。\n\n38. 本题的定位与第35题出处一致，而且若是论起距离人名定位处的远近来，还是本题更有优势：直接出现在了人名所在的那句话里。不过，这道题略考查考生的词汇基础，只有认识abide by这个词组的意思，考生才能更轻松地看懂原文中所说的“只有大约一半组织遵守了这个目标”正是在同义替换题干中的“一条建议受到大规模忽视”，进而得出答案：B。\n\n39. 本题的定位处比较靠后，在最后一个Section，需要考生具备一定的阅读速度。同时，考生也需要具备对conflict这个词的基本认知，才能更准确地意识到原文中说两个不同的资源（美国和俄罗斯的数据库）关于同一件物体给出了两条完全不同的轨道，说的正是题干所需要的“有冲突的信息”，进而得出人名所对应的答案项：D。\n\n40. 本题的解答难度不高。首先，对应人名位置靠前，最先出现在文章中；其次，题干和对应原文句的理解难度都不高，考生应该不费什么气力就能双双看懂，原文中所谓“无法回头的临界点”，正是在同义替换地表述题干中的“无法消除之前的破坏”，进而得出答案：A。",
+          "promptHtml": "There is a risk we will not be able to undo the damage that occurs in space.[40] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Carolin Frueh"
+        },
+        {
+          "value": "B",
+          "text": "Holger Krag"
+        },
+        {
+          "value": "C",
+          "text": "Marlon Sorge"
+        },
+        {
+          "value": "D",
+          "text": "Moriba Jah"
+        }
+      ],
+      "contextHtml": "<p><span>Knowing the exact location of space junk would help prevent any possible danger. </span><strong>[36] ______</strong> <br>\n<span>Space should be available to everyone and should be preserved for the future.</span><strong>[37] ______</strong> <br>\n<span>A recommendation regarding satellites is widely ignored. </span><strong>[38] ______</strong> <br>\n<span>There is conflicting information about where some satellites are in space.</span><strong>[39] ______</strong> <br>\n<span>There is a risk we will not be able to undo the damage that occurs in space.</span><strong>[40] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Conquering Earth’s space junk problem</strong><br><em>Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet. Researchers are working to reduce these threats</em></span></p><p><br><span>A<br>Last year, commercial companies, military and civil departments and amateurs sent more than 400 satellites into orbit, over four times the yearly average in the previous decade. Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites to space in the next few years.<br>All that traffic can lead to disaster. Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251, creating thousands of new pieces of space shrapnel that now threaten other satellites in low Earth orbit – the zone stretching up to 2,000 kilometres in altitude. Altogether, there are roughly 20,000 human-made objects in orbit, from working satellites to small rocket pieces. And satellite operators can’t steer away from every potential crash, because each move consumes time and fuel that could otherwise be used for the spacecraft’s main job.<br>B<br>Concern about space junk goes back to the beginning of the satellite era, but the number of objects in orbit is rising so rapidly that researchers are investigating new ways of attacking the problem. Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators can work more efficiently in ever-more-crowded space. Some researchers are now starting to compile a massive data set that includes the best possible information on where everything is in orbit. Others are developing taxonomies of space debris – working on measuring properties such as the shape and size of an object, so that satellite operators know how much to worry about what’s coming their way.<br>The alternative, many say, is unthinkable. Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable. ‘If we go on like this, we will reach a point of no return,’ says Carolin Frueh, an astrodynamical researcher at Purdue University in West Lafayette, Indiana.<br>C<br>Even as our ability to monitor space objects increases, so too does the total number of items in orbit. That means companies, governments and other players in space are collaborating in new ways to avoid a shared threat. International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability. Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions. The intergovernmental groups also advise lowering satellites deep enough into the atmosphere that they will burn up or disintegrate within 25 years. But so far, only about half of all missions have abided by this 25-year goal, says Holger Krag, head of the European Space Agency’s space-debris office in Darmstadt, Germany. Operators of the planned large constellations of satellites say they will be responsible stewards in their enterprises in space, but Krag worries that problems could increase, despite their best intentions. ‘What happens to those that fail or go bankrupt?’ he asks. ‘They are probably not going to spend money to remove their satellites from space.’<br>D<br>In theory, given the vastness of space, satellite operators should have plenty of room for all these missions to fly safely without ever nearing another object. So some scientists are tackling the problem of space junk by trying to find out where all the debris is to a high degree of precision. That would alleviate the need for many of the unnecessary manoeuvres that are carried out to avoid potential collisions. ‘If you knew precisely where everything was, you would almost never have a problem,’ says Marlon Sorge, a space-debris specialist at the Aerospace Corporation in El Segundo, California.<br>E<br>The field is called space traffic management, because it’s similar to managing traffic on the roads or in the air. Think about a busy day at an airport, says Moriba Jah, an astrodynamicist at the University of Texas at Austin: planes line up in the sky, landing and taking off close to one another in a carefully choreographed routine. Air-traffic controllers know the location of the planes down to one metre in accuracy. The same can’t be said for space debris. Not all objects in orbit are known, and even those included in databases are not tracked consistently.<br>F<br>An additional problem is that there is no authoritative catalogue that accurately lists the orbits of all known space debris. Jah illustrates this with a web-based database that he has developed. It draws on several sources, such as catalogues maintained by the US and Russian governments, to visualise where objects are in space. When he types in an identifier for a particular space object, the database draws a purple line to designate its orbit. Only this doesn’t quite work for a number of objects, such as a Russian rocket body designated in the database as object number 32280. When Jah enters that number, the database draws two purple lines: the US and Russian sources contain two completely different orbits for the same object. Jah says that it is almost impossible to tell which is correct, unless a third source of information made it possible to cross-correlate. Jah describes himself as a space environmentalist: ‘I want to make space a place that is safe to operate, that is free and useful for generations to come.’ Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource.</span></p>"
+}

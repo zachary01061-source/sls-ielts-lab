@@ -1,0 +1,284 @@
+{
+  "id": "cambridge-11-test-3-reading-3",
+  "title": "Preface to 'How the other half thinks: Adventures in mathematical reasoning'",
+  "titleCn": "Preface to 'How the other half thinks: Adventures in mathematical reasoning'",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 11,
+    "test": 3
+  },
+  "sourceQuestionId": "6787",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6787",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Preface to 'How the other half thinks: Adventures in mathematical reasoning'"
+    },
+    {
+      "label": "2",
+      "text": "A Occasionally, in some difficult musical compositions, there are beautiful, but easy parts - parts so simple a beginner could play them. So it is with mathematics as well. There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic, such as 'the sum of two odd numbers is even', and common sense. Each of the eight chapters in this book illustrates this phenomenon. Anyone can understand every step in the reasoning."
+    },
+    {
+      "label": "3",
+      "text": "The thinking in each chapter uses at most only elementary arithmetic, and sometimes not even that. Thus all readers will have the chance to participate in a mathematical experience, to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking."
+    },
+    {
+      "label": "4",
+      "text": "B One of my purposes in writing this book is to give readers who haven't had the opportunity to see and enjoy real mathematics the chance to appreciate the mathematical way of thinking. I want to reveal not only some of the fascinating discoveries, but, more importantly, the reasoning behind them."
+    },
+    {
+      "label": "5",
+      "text": "In that respect, this book differs from most books on mathematics written for the general public. Some present the lives of colorful mathematicians. Others describe important applications of mathematics. Yet others go into mathematical procedures, but assume that the reader is adept in using algebra."
+    },
+    {
+      "label": "6",
+      "text": "C I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical). As the chapters will illustrate, mathematics is not restricted to the analytical and numerical; intuition plays a significant role. The alleged gap can be narrowed or completely overcome by anyone, in part because each of us is far from using the full capacity of either side of the brain. To illustrate our human potential, I cite a structural engineer who is an artist, an electrical engineer who is an opera singer, an opera singer who published mathematical research, and a mathematician who publishes short stories."
+    },
+    {
+      "label": "7",
+      "text": "D Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories. The reader must remain a tantalized spectator rather than an involved participant, since the appropriate language for describing the details in much of science is mathematics, whether the subject is expanding universe, subatomic particles, or chromosomes. Though the broad outline of a scientific theory can be sketched intuitively, when a part of the physical universe is finally understood, its description often looks like a page in a mathematics text."
+    },
+    {
+      "label": "8",
+      "text": "E Still, the non-mathematical leader can go far in understanding mathematical reasoning. This book presents the details that illustrate the mathematical style of thinking, which involves sustained, step-by-step analysis, experiments, and insights. You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments."
+    },
+    {
+      "label": "9",
+      "text": "F As I wrote, I kept in mind two types of readers: those who enjoyed mathematics until they were turned off by an unpleasant episode, usually around fifth grade, and mathematics aficionados, who will find much that is new throughout the book."
+    },
+    {
+      "label": "10",
+      "text": "This book also serves readers who simply want to sharpen their analytical skills. Many careers, such as law and medicine, require extended, precise analysis. Each chapter offers practice in following a sustained and closely argued line of thought. That mathematics can develop this skill is shown by these two testimonials:"
+    },
+    {
+      "label": "11",
+      "text": "G A physician wrote, 'The discipline of analytical thought processes [in mathematics] prepared me extremely well for medical school. In medicine one is faced with a problem which must be thoroughly analyzed before a solution can be found. The process is similar to doing mathematics.'"
+    },
+    {
+      "label": "12",
+      "text": "A lawyer made the same point, 'Although I had no background in law - not even one political science course - I did well at one of the best law schools. I attribute much of my success there to having learned, through the study of mathematics, and, in particular, theorems, how to analyze complicated principles. Lawyers who have studied mathematics can master the legal principles in a way that most others cannot.'"
+    },
+    {
+      "label": "13",
+      "text": "I hope you will share my delight in watching as simple, even naive, questions lead to remarkable solutions and purely theoretical discoveries find unanticipated applications."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 27-34\n\nWhich section contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "a reference to books that assume a lack of mathematical knowledge",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6787_953826-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "the way in which this is not a typical book about mathematics",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6787_953826-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "personal examples of being helped by mathematics",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6787_953826-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "examples of people who each had abilities that seemed incompatible",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6787_953826-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "mention of different focuses of books about mathematics",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6787_953826-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "a contrast between reading this book and reading other kinds of publication",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6787_953826-6"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "a claim that the whole of the book is accessible to everybody",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6787_953826-7"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "a reference to different categories of intended readers of this book",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6787_953826-8"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 35-40\n\nComplete the sentences below.\n\nChoose ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Some areas of both music and mathematics are suitable for someone who is a [35] ______.",
+          "answers": [
+            "beginner"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6787_949024",
+          "explanation": "题号：35\n\n定位词：both music and mathematics,suitable,\n\n文中对应A部分第一段第一、二句：Occasionally, in some difficult musical compositions, there are beautiful, but easy parts -parts so simple a beginner could play them. So it is with mathematics as well.\n\n题干说“音乐和数学中都有某些领域是适合于_____这样的人的”。根据语法可以推知此处应该寻找某种“人”，回到原文中可以迅速、轻松定位“音乐”这个信息，根据So it is...as well的信息也可认定此处确实是音乐与数学并列被提及的答案出处，再通过阅读定位句可得答案为beginner。\n\n题号：36\n\n定位词：Understand advanced mathematics, limited knowledge\n\n文中对应A部分第一段第三、四句：There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic,such as 'the sum of two odd numbers is even' , and common sense.\n\n题干说“有时候要理解高等数学也只不过需要使用关于_____的一点有限知识就足够了”。考生可以轻松用advanced mathematics回到原文中定位，也不必在看到可能不熟悉的algebra, geometry, or trigonometry时过于心惊，只需根据本句上下文看出它们都是“高等数学”的具体举例内容即可。下一句则以instead和a little来表明此处列举的内容“并不高深”， 对比题干要求可知答案为arithmetic。\n\n题号：37\n\n定位词：as well as, analytical skills\n\n文中对应A部分第二段最后一句：Thus all readers will have the chance to participate in a mathematical experience,to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking. 或C段第一句：I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical).\n\n题干说“作者意在展示数学除了需要分析技巧外也需要_____思维”。其实在文中两处都可找到答案。第一次是在A部分，虽然没有analytical这个定位词，但有logical 这个类似信息，按部就班通读全文的考生完全可以通过此句中的yet对比关系确定答案为intuitive；但对于更倾向于利用关键词analytical skills和as well as这个并列关系来寻找答案的考生来说，更容易的定位出现在C段中，可以直接找到analytical原词，再利用and并列关系可以确定答案为intuitive。\n\n题号：38\n\n定位词：leave out, central to their theories\n\n文中对应D段第一句：Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories.\n\n题干说“一些由_____写出来的书不得不省略一些对于他们的理论来说至关重要的数学知识”。细读题干可以推知空格内必然是某种“人”，此处考查考生是否认识原文中omit一词为leave out词组的同义替换，如果有此词汇基础则可比较轻松地得出答案为scientists。\n\n题号：39\n\n定位词：perform, while reading\n\n文中对应E段最后两句：You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.\n\n题干说“作者建议非数学专业出身的读者们在阅读此书时进行_____”。考生应该不难看出原文中turn these pages与题干中while reading的同义替换，只是在确定具体答案的时候需要仔细辨别，因为句中给出了两个并列信息，分别是check claims和carry out experiments。经过对比可知，只有carry out才能与perform对应，因此答案为experiments。\n\n题号：40\n\n定位词：lawyer, helped, even more than, other areas\n\n文中对应G部分第二段第二句：I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles.\n\n题干说“一个律师发现在其学习法律的过程中学习_____甚至比其他数学领域知识更有帮助”。根据此信息可以得知空格内必定需要填写某个具体的数学领域。利用lawyer可以轻松定位，仔细阅读定位部分可以知道，只有in particular这个词组之后的内容才有可能是具体数学领域知识，由此得出答案为theorems。",
+          "promptHtml": "Some areas of both music and mathematics are suitable for someone who is a [35] ______."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "It is sometimes possible to understand advanced mathematics using no more than a limited knowledge of [36] ______.",
+          "answers": [
+            "arithmetic"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6787_978479",
+          "explanation": "题号：35\n\n定位词：both music and mathematics,suitable,\n\n文中对应A部分第一段第一、二句：Occasionally, in some difficult musical compositions, there are beautiful, but easy parts -parts so simple a beginner could play them. So it is with mathematics as well.\n\n题干说“音乐和数学中都有某些领域是适合于_____这样的人的”。根据语法可以推知此处应该寻找某种“人”，回到原文中可以迅速、轻松定位“音乐”这个信息，根据So it is...as well的信息也可认定此处确实是音乐与数学并列被提及的答案出处，再通过阅读定位句可得答案为beginner。\n\n题号：36\n\n定位词：Understand advanced mathematics, limited knowledge\n\n文中对应A部分第一段第三、四句：There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic,such as 'the sum of two odd numbers is even' , and common sense.\n\n题干说“有时候要理解高等数学也只不过需要使用关于_____的一点有限知识就足够了”。考生可以轻松用advanced mathematics回到原文中定位，也不必在看到可能不熟悉的algebra, geometry, or trigonometry时过于心惊，只需根据本句上下文看出它们都是“高等数学”的具体举例内容即可。下一句则以instead和a little来表明此处列举的内容“并不高深”， 对比题干要求可知答案为arithmetic。\n\n题号：37\n\n定位词：as well as, analytical skills\n\n文中对应A部分第二段最后一句：Thus all readers will have the chance to participate in a mathematical experience,to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking. 或C段第一句：I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical).\n\n题干说“作者意在展示数学除了需要分析技巧外也需要_____思维”。其实在文中两处都可找到答案。第一次是在A部分，虽然没有analytical这个定位词，但有logical 这个类似信息，按部就班通读全文的考生完全可以通过此句中的yet对比关系确定答案为intuitive；但对于更倾向于利用关键词analytical skills和as well as这个并列关系来寻找答案的考生来说，更容易的定位出现在C段中，可以直接找到analytical原词，再利用and并列关系可以确定答案为intuitive。\n\n题号：38\n\n定位词：leave out, central to their theories\n\n文中对应D段第一句：Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories.\n\n题干说“一些由_____写出来的书不得不省略一些对于他们的理论来说至关重要的数学知识”。细读题干可以推知空格内必然是某种“人”，此处考查考生是否认识原文中omit一词为leave out词组的同义替换，如果有此词汇基础则可比较轻松地得出答案为scientists。\n\n题号：39\n\n定位词：perform, while reading\n\n文中对应E段最后两句：You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.\n\n题干说“作者建议非数学专业出身的读者们在阅读此书时进行_____”。考生应该不难看出原文中turn these pages与题干中while reading的同义替换，只是在确定具体答案的时候需要仔细辨别，因为句中给出了两个并列信息，分别是check claims和carry out experiments。经过对比可知，只有carry out才能与perform对应，因此答案为experiments。\n\n题号：40\n\n定位词：lawyer, helped, even more than, other areas\n\n文中对应G部分第二段第二句：I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles.\n\n题干说“一个律师发现在其学习法律的过程中学习_____甚至比其他数学领域知识更有帮助”。根据此信息可以得知空格内必定需要填写某个具体的数学领域。利用lawyer可以轻松定位，仔细阅读定位部分可以知道，只有in particular这个词组之后的内容才有可能是具体数学领域知识，由此得出答案为theorems。",
+          "promptHtml": "It is sometimes possible to understand advanced mathematics using no more than a limited knowledge of [36] ______."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "The writer intends to show that mathematics requires [37] ______thinking, as well as analytical skills.",
+          "answers": [
+            "intuitive"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6787_366573",
+          "explanation": "题号：35\n\n定位词：both music and mathematics,suitable,\n\n文中对应A部分第一段第一、二句：Occasionally, in some difficult musical compositions, there are beautiful, but easy parts -parts so simple a beginner could play them. So it is with mathematics as well.\n\n题干说“音乐和数学中都有某些领域是适合于_____这样的人的”。根据语法可以推知此处应该寻找某种“人”，回到原文中可以迅速、轻松定位“音乐”这个信息，根据So it is...as well的信息也可认定此处确实是音乐与数学并列被提及的答案出处，再通过阅读定位句可得答案为beginner。\n\n题号：36\n\n定位词：Understand advanced mathematics, limited knowledge\n\n文中对应A部分第一段第三、四句：There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic,such as 'the sum of two odd numbers is even' , and common sense.\n\n题干说“有时候要理解高等数学也只不过需要使用关于_____的一点有限知识就足够了”。考生可以轻松用advanced mathematics回到原文中定位，也不必在看到可能不熟悉的algebra, geometry, or trigonometry时过于心惊，只需根据本句上下文看出它们都是“高等数学”的具体举例内容即可。下一句则以instead和a little来表明此处列举的内容“并不高深”， 对比题干要求可知答案为arithmetic。\n\n题号：37\n\n定位词：as well as, analytical skills\n\n文中对应A部分第二段最后一句：Thus all readers will have the chance to participate in a mathematical experience,to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking. 或C段第一句：I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical).\n\n题干说“作者意在展示数学除了需要分析技巧外也需要_____思维”。其实在文中两处都可找到答案。第一次是在A部分，虽然没有analytical这个定位词，但有logical 这个类似信息，按部就班通读全文的考生完全可以通过此句中的yet对比关系确定答案为intuitive；但对于更倾向于利用关键词analytical skills和as well as这个并列关系来寻找答案的考生来说，更容易的定位出现在C段中，可以直接找到analytical原词，再利用and并列关系可以确定答案为intuitive。\n\n题号：38\n\n定位词：leave out, central to their theories\n\n文中对应D段第一句：Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories.\n\n题干说“一些由_____写出来的书不得不省略一些对于他们的理论来说至关重要的数学知识”。细读题干可以推知空格内必然是某种“人”，此处考查考生是否认识原文中omit一词为leave out词组的同义替换，如果有此词汇基础则可比较轻松地得出答案为scientists。\n\n题号：39\n\n定位词：perform, while reading\n\n文中对应E段最后两句：You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.\n\n题干说“作者建议非数学专业出身的读者们在阅读此书时进行_____”。考生应该不难看出原文中turn these pages与题干中while reading的同义替换，只是在确定具体答案的时候需要仔细辨别，因为句中给出了两个并列信息，分别是check claims和carry out experiments。经过对比可知，只有carry out才能与perform对应，因此答案为experiments。\n\n题号：40\n\n定位词：lawyer, helped, even more than, other areas\n\n文中对应G部分第二段第二句：I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles.\n\n题干说“一个律师发现在其学习法律的过程中学习_____甚至比其他数学领域知识更有帮助”。根据此信息可以得知空格内必定需要填写某个具体的数学领域。利用lawyer可以轻松定位，仔细阅读定位部分可以知道，只有in particular这个词组之后的内容才有可能是具体数学领域知识，由此得出答案为theorems。",
+          "promptHtml": "The writer intends to show that mathematics requires [37] ______thinking, as well as analytical skills."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Some books written by [38] ______have had to leave out the mathematics that is central to their theories.",
+          "answers": [
+            "scientists"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6787_639172",
+          "explanation": "题号：35\n\n定位词：both music and mathematics,suitable,\n\n文中对应A部分第一段第一、二句：Occasionally, in some difficult musical compositions, there are beautiful, but easy parts -parts so simple a beginner could play them. So it is with mathematics as well.\n\n题干说“音乐和数学中都有某些领域是适合于_____这样的人的”。根据语法可以推知此处应该寻找某种“人”，回到原文中可以迅速、轻松定位“音乐”这个信息，根据So it is...as well的信息也可认定此处确实是音乐与数学并列被提及的答案出处，再通过阅读定位句可得答案为beginner。\n\n题号：36\n\n定位词：Understand advanced mathematics, limited knowledge\n\n文中对应A部分第一段第三、四句：There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic,such as 'the sum of two odd numbers is even' , and common sense.\n\n题干说“有时候要理解高等数学也只不过需要使用关于_____的一点有限知识就足够了”。考生可以轻松用advanced mathematics回到原文中定位，也不必在看到可能不熟悉的algebra, geometry, or trigonometry时过于心惊，只需根据本句上下文看出它们都是“高等数学”的具体举例内容即可。下一句则以instead和a little来表明此处列举的内容“并不高深”， 对比题干要求可知答案为arithmetic。\n\n题号：37\n\n定位词：as well as, analytical skills\n\n文中对应A部分第二段最后一句：Thus all readers will have the chance to participate in a mathematical experience,to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking. 或C段第一句：I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical).\n\n题干说“作者意在展示数学除了需要分析技巧外也需要_____思维”。其实在文中两处都可找到答案。第一次是在A部分，虽然没有analytical这个定位词，但有logical 这个类似信息，按部就班通读全文的考生完全可以通过此句中的yet对比关系确定答案为intuitive；但对于更倾向于利用关键词analytical skills和as well as这个并列关系来寻找答案的考生来说，更容易的定位出现在C段中，可以直接找到analytical原词，再利用and并列关系可以确定答案为intuitive。\n\n题号：38\n\n定位词：leave out, central to their theories\n\n文中对应D段第一句：Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories.\n\n题干说“一些由_____写出来的书不得不省略一些对于他们的理论来说至关重要的数学知识”。细读题干可以推知空格内必然是某种“人”，此处考查考生是否认识原文中omit一词为leave out词组的同义替换，如果有此词汇基础则可比较轻松地得出答案为scientists。\n\n题号：39\n\n定位词：perform, while reading\n\n文中对应E段最后两句：You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.\n\n题干说“作者建议非数学专业出身的读者们在阅读此书时进行_____”。考生应该不难看出原文中turn these pages与题干中while reading的同义替换，只是在确定具体答案的时候需要仔细辨别，因为句中给出了两个并列信息，分别是check claims和carry out experiments。经过对比可知，只有carry out才能与perform对应，因此答案为experiments。\n\n题号：40\n\n定位词：lawyer, helped, even more than, other areas\n\n文中对应G部分第二段第二句：I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles.\n\n题干说“一个律师发现在其学习法律的过程中学习_____甚至比其他数学领域知识更有帮助”。根据此信息可以得知空格内必定需要填写某个具体的数学领域。利用lawyer可以轻松定位，仔细阅读定位部分可以知道，只有in particular这个词组之后的内容才有可能是具体数学领域知识，由此得出答案为theorems。",
+          "promptHtml": "Some books written by [38] ______have had to leave out the mathematics that is central to their theories."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "The writer advises non mathematical readers to perform [39] ______while reading the book.",
+          "answers": [
+            "experiments"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6787_476094",
+          "explanation": "题号：35\n\n定位词：both music and mathematics,suitable,\n\n文中对应A部分第一段第一、二句：Occasionally, in some difficult musical compositions, there are beautiful, but easy parts -parts so simple a beginner could play them. So it is with mathematics as well.\n\n题干说“音乐和数学中都有某些领域是适合于_____这样的人的”。根据语法可以推知此处应该寻找某种“人”，回到原文中可以迅速、轻松定位“音乐”这个信息，根据So it is...as well的信息也可认定此处确实是音乐与数学并列被提及的答案出处，再通过阅读定位句可得答案为beginner。\n\n题号：36\n\n定位词：Understand advanced mathematics, limited knowledge\n\n文中对应A部分第一段第三、四句：There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic,such as 'the sum of two odd numbers is even' , and common sense.\n\n题干说“有时候要理解高等数学也只不过需要使用关于_____的一点有限知识就足够了”。考生可以轻松用advanced mathematics回到原文中定位，也不必在看到可能不熟悉的algebra, geometry, or trigonometry时过于心惊，只需根据本句上下文看出它们都是“高等数学”的具体举例内容即可。下一句则以instead和a little来表明此处列举的内容“并不高深”， 对比题干要求可知答案为arithmetic。\n\n题号：37\n\n定位词：as well as, analytical skills\n\n文中对应A部分第二段最后一句：Thus all readers will have the chance to participate in a mathematical experience,to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking. 或C段第一句：I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical).\n\n题干说“作者意在展示数学除了需要分析技巧外也需要_____思维”。其实在文中两处都可找到答案。第一次是在A部分，虽然没有analytical这个定位词，但有logical 这个类似信息，按部就班通读全文的考生完全可以通过此句中的yet对比关系确定答案为intuitive；但对于更倾向于利用关键词analytical skills和as well as这个并列关系来寻找答案的考生来说，更容易的定位出现在C段中，可以直接找到analytical原词，再利用and并列关系可以确定答案为intuitive。\n\n题号：38\n\n定位词：leave out, central to their theories\n\n文中对应D段第一句：Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories.\n\n题干说“一些由_____写出来的书不得不省略一些对于他们的理论来说至关重要的数学知识”。细读题干可以推知空格内必然是某种“人”，此处考查考生是否认识原文中omit一词为leave out词组的同义替换，如果有此词汇基础则可比较轻松地得出答案为scientists。\n\n题号：39\n\n定位词：perform, while reading\n\n文中对应E段最后两句：You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.\n\n题干说“作者建议非数学专业出身的读者们在阅读此书时进行_____”。考生应该不难看出原文中turn these pages与题干中while reading的同义替换，只是在确定具体答案的时候需要仔细辨别，因为句中给出了两个并列信息，分别是check claims和carry out experiments。经过对比可知，只有carry out才能与perform对应，因此答案为experiments。\n\n题号：40\n\n定位词：lawyer, helped, even more than, other areas\n\n文中对应G部分第二段第二句：I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles.\n\n题干说“一个律师发现在其学习法律的过程中学习_____甚至比其他数学领域知识更有帮助”。根据此信息可以得知空格内必定需要填写某个具体的数学领域。利用lawyer可以轻松定位，仔细阅读定位部分可以知道，只有in particular这个词组之后的内容才有可能是具体数学领域知识，由此得出答案为theorems。",
+          "promptHtml": "The writer advises non mathematical readers to perform [39] ______while reading the book."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "A lawyer found that studying [40] ______helped even more than other areas of mathematics in the study of law.",
+          "answers": [
+            "theorems"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6787_411264",
+          "explanation": "题号：35\n\n定位词：both music and mathematics,suitable,\n\n文中对应A部分第一段第一、二句：Occasionally, in some difficult musical compositions, there are beautiful, but easy parts -parts so simple a beginner could play them. So it is with mathematics as well.\n\n题干说“音乐和数学中都有某些领域是适合于_____这样的人的”。根据语法可以推知此处应该寻找某种“人”，回到原文中可以迅速、轻松定位“音乐”这个信息，根据So it is...as well的信息也可认定此处确实是音乐与数学并列被提及的答案出处，再通过阅读定位句可得答案为beginner。\n\n题号：36\n\n定位词：Understand advanced mathematics, limited knowledge\n\n文中对应A部分第一段第三、四句：There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic,such as 'the sum of two odd numbers is even' , and common sense.\n\n题干说“有时候要理解高等数学也只不过需要使用关于_____的一点有限知识就足够了”。考生可以轻松用advanced mathematics回到原文中定位，也不必在看到可能不熟悉的algebra, geometry, or trigonometry时过于心惊，只需根据本句上下文看出它们都是“高等数学”的具体举例内容即可。下一句则以instead和a little来表明此处列举的内容“并不高深”， 对比题干要求可知答案为arithmetic。\n\n题号：37\n\n定位词：as well as, analytical skills\n\n文中对应A部分第二段最后一句：Thus all readers will have the chance to participate in a mathematical experience,to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking. 或C段第一句：I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical).\n\n题干说“作者意在展示数学除了需要分析技巧外也需要_____思维”。其实在文中两处都可找到答案。第一次是在A部分，虽然没有analytical这个定位词，但有logical 这个类似信息，按部就班通读全文的考生完全可以通过此句中的yet对比关系确定答案为intuitive；但对于更倾向于利用关键词analytical skills和as well as这个并列关系来寻找答案的考生来说，更容易的定位出现在C段中，可以直接找到analytical原词，再利用and并列关系可以确定答案为intuitive。\n\n题号：38\n\n定位词：leave out, central to their theories\n\n文中对应D段第一句：Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories.\n\n题干说“一些由_____写出来的书不得不省略一些对于他们的理论来说至关重要的数学知识”。细读题干可以推知空格内必然是某种“人”，此处考查考生是否认识原文中omit一词为leave out词组的同义替换，如果有此词汇基础则可比较轻松地得出答案为scientists。\n\n题号：39\n\n定位词：perform, while reading\n\n文中对应E段最后两句：You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.\n\n题干说“作者建议非数学专业出身的读者们在阅读此书时进行_____”。考生应该不难看出原文中turn these pages与题干中while reading的同义替换，只是在确定具体答案的时候需要仔细辨别，因为句中给出了两个并列信息，分别是check claims和carry out experiments。经过对比可知，只有carry out才能与perform对应，因此答案为experiments。\n\n题号：40\n\n定位词：lawyer, helped, even more than, other areas\n\n文中对应G部分第二段第二句：I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles.\n\n题干说“一个律师发现在其学习法律的过程中学习_____甚至比其他数学领域知识更有帮助”。根据此信息可以得知空格内必定需要填写某个具体的数学领域。利用lawyer可以轻松定位，仔细阅读定位部分可以知道，只有in particular这个词组之后的内容才有可能是具体数学领域知识，由此得出答案为theorems。",
+          "promptHtml": "A lawyer found that studying [40] ______helped even more than other areas of mathematics in the study of law."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Some areas of both music and mathematics are suitable for someone who is a <strong>[35] ______</strong>.</p>\n\n<p>It is sometimes possible to understand advanced mathematics using no more than a limited knowledge of <strong>[36] ______</strong>.</p>\n\n<p>The writer intends to show that mathematics requires <strong>[37] ______</strong>thinking, as well as analytical skills.</p>\n\n<p>Some books written by <strong>[38] ______</strong>have had to leave out the mathematics that is central to their theories.</p>\n\n<p>The writer advises non mathematical readers to perform <strong>[39] ______</strong>while reading the book.</p>\n\n<p>A lawyer found that studying <strong>[40] ______</strong>helped even more than other areas of mathematics in the study of law.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Preface to &#x27;How the other half thinks: Adventures in mathematical reasoning&#x27;</strong></span></p><p><strong>A </strong>  Occasionally, in some difficult musical compositions, there are beautiful, but easy parts - parts so simple a beginner could play them. So it is with mathematics as well. There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic, such as &#x27;the sum of two odd numbers is even&#x27;, and common sense. Each of the eight chapters in this book illustrates this phenomenon. Anyone can understand every step in the reasoning.</p><p>The thinking in each chapter uses at most only elementary arithmetic, and sometimes not even that. Thus all readers will have the chance to participate in a mathematical experience, to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking.</p><p><strong>B  </strong>  One of my purposes in writing this book is to give readers who haven&#x27;t had the opportunity to see and enjoy real mathematics the chance to appreciate the mathematical way of thinking. I want to reveal not only some of the fascinating discoveries, but, more importantly, the reasoning behind them.</p><p>In that respect, this book differs from most books on mathematics written for the general public. Some present the lives of colorful mathematicians. Others describe important applications of mathematics. Yet others go into mathematical procedures, but assume that the reader is adept in using algebra.</p><p><strong>C  </strong>  I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical). As the chapters will illustrate, mathematics is not restricted to the analytical and numerical; intuition plays a significant role. The alleged gap can be narrowed or completely overcome by anyone, in part because each of us is far from using the full capacity of either side of the brain. To illustrate our human potential, I cite a structural engineer who is an artist, an electrical engineer who is an opera singer, an opera singer who published mathematical research, and a mathematician who publishes short stories.</p><p><strong>D  </strong> Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories. The reader must remain a tantalized spectator rather than an involved participant, since the appropriate language for describing the details in much of science is mathematics, whether the subject is expanding universe, subatomic particles, or chromosomes. Though the broad outline of a scientific theory can be sketched intuitively, when a part of the physical universe is finally understood, its description often looks like a page in a mathematics text.</p><p><strong>E  </strong>  Still, the non-mathematical leader can go far in understanding mathematical reasoning. This book presents the details that illustrate the mathematical style of thinking, which involves sustained, step-by-step analysis, experiments, and insights. You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.</p><p><strong>F </strong>    As I wrote, I kept in mind two types of readers: those who enjoyed mathematics until they were turned off by an unpleasant episode, usually around fifth grade, and mathematics aficionados, who will find much that is new throughout the book.</p><p>This book also serves readers who simply want to sharpen their analytical skills. Many careers, such as law and medicine, require extended, precise analysis. Each chapter offers practice in following a sustained and closely argued line of thought. That mathematics can develop this skill is shown by these two testimonials:</p><p><strong>G </strong>   A physician wrote, &#x27;The discipline of analytical thought processes [in mathematics] prepared me extremely well for medical school. In medicine one is faced with a problem which must be thoroughly analyzed before a solution can be found. The process is similar to doing mathematics.&#x27;</p><p>A lawyer made the same point, &#x27;Although I had no background in law - not even one political science course - I did well at one of the best law schools. I attribute much of my success there to having learned, through the study of mathematics, and, in particular, theorems, how to analyze complicated principles. Lawyers who have studied mathematics can master the legal principles in a way that most others cannot.&#x27;</p><p>I hope you will share my delight in watching as simple, even naive, questions lead to remarkable solutions and purely theoretical discoveries find unanticipated applications.</p>"
+}

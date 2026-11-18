@@ -1,0 +1,293 @@
+{
+  "id": "cambridge-20-test-1-reading-2",
+  "title": "Return of the elm: reintroducing the beloved tree to Britain",
+  "titleCn": "Return of the elm: reintroducing the beloved tree to Britain",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 1
+  },
+  "sourceQuestionId": "8554",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8554",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Return of the elm: reintroducing the beloved tree to Britain"
+    },
+    {
+      "label": "2",
+      "text": "Mark Rowe investigates attempts to reintroduce elms to Britain"
+    },
+    {
+      "label": "3",
+      "text": "A Around 25 million elms, accounting for 90% of all elm trees in the UK, died during the 1960s and ’70s of Dutch elm disease. In the aftermath, the elm, once so dominant in the British landscape, was largely forgotten. However, there’s now hope the elm may be reintroduced to the countryside of central and southern England. Any reintroduction will start from a very low base. ‘The impact of the disease is difficult to picture if you hadn’t seen what was there before,’ says Matt Elliot of the Woodland Trust. ‘You look at old photographs from the 1960s and it’s only then that you realise the impact [elms had] ... They were significant, large trees … then they were gone.’"
+    },
+    {
+      "label": "4",
+      "text": "B The disease is caused by a fungus that blocks the elms’ vascular (water, nutrient and food transport) system, causing branches to wilt and die. A first epidemic, which occurred in the 1920s, gradually died down, but in the ’70s a second epidemic was triggered by shipments of elm from Canada. The wood came in the form of logs destined for boat building and its intact bark was perfect for the elm bark beetles that spread the deadly fungus. This time, the beetles carried a much more virulent strain that destroyed the vast majority of British elms."
+    },
+    {
+      "label": "5",
+      "text": "C Today, elms still exist in the southern English countryside but mostly only in low hedgerows between fields. ‘We have millions of small elms in hedgerows but they get targeted by the beetle as soon as they reach a certain size,’ says Karen Russell, co-author of the report ‘Where we are with elm’. Once the trunk of the elm reaches 10–15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold. Yet mature specimens have been identified, in counties such as Cambridgeshire, that are hundreds of years old, and have mysteriously escaped the epidemic."
+    },
+    {
+      "label": "6",
+      "text": "The key, Russell says, is to identify and study those trees that have survived and work out why they stood tall when millions of others succumbed. Nevertheless, opportunities are limited as the number of these mature survivors is relatively small. ‘What are the reasons for their survival?’ asks Russell. ‘Avoidance, tolerance, resistance? We don’t know where the balance lies between the three. I don’t see how it can be entirely down to luck.’"
+    },
+    {
+      "label": "7",
+      "text": "D For centuries, elm ran a close second to oak as the hardwood tree of choice in Britain and was in many instances the most prominent tree in the landscape. Not only was elm common in European forests, it became a key component of birch, ash and hazel woodlands. The use of elm is thought to go back to the Bronze Age, when it was widely used for tools. Elm was also the preferred material for shields and early swords. In the 18th century, it was planted more widely and its wood was used for items such as storage crates and flooring. It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment."
+    },
+    {
+      "label": "8",
+      "text": "E Given how ingrained elm is in British culture, it’s unsurprising the tree has many advocates. Amongst them is Peter Bourne of the National Elm Collection in Brighton. ‘I saw Dutch elm disease unfold as a small boy,’ he says. ‘The elm seemed to be part of rural England, but I remember watching trees just lose their leaves and that really stayed with me.’ Today, the city of Brighton’s elms total about 17,000. Local factors appear to have contributed to their survival. Strong winds from the sea make it difficult for the determined elm bark beetle to attack this coastal city’s elm population. However, the situation is precarious. ‘The beetles can just march in if we’re not careful, as the threat is right on our doorstep,’ says Bourne."
+    },
+    {
+      "label": "9",
+      "text": "F Any prospect of the elm returning relies heavily on trees being either resistant to, or tolerant of, the disease. This means a widespread reintroduction would involve existing or new hybrid strains derived from resistant, generally non-native elm species. A new generation of seedlings have been bred and tested to see if they can withstand the fungus by cutting a small slit on the bark and injecting a tiny amount of the pathogen. ‘The effects are very quick,’ says Russell. ‘You return in four to six weeks and trees that are resistant show no symptoms, whereas those that are susceptible show leaf loss and may even have died completely.’"
+    },
+    {
+      "label": "10",
+      "text": "G All of this raises questions of social acceptance, acknowledges Russell. ‘If we’re putting elm back into the landscape, a small element of it is not native – are we bothered about that?’ For her, the environmental case for reintroducing elm is strong. ‘They will host wildlife, which is a good thing.’ Others are more wary. ‘On the face of it, it seems like a good idea,’ says Elliot. The problem, he suggests, is that, ‘You’re replacing a native species with a horticultural analogue*. You’re effectively cloning.’ There’s also the risk of introducing new diseases. Rather than plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently. ‘Sometimes the best thing you can do is just give nature time to recover ... over time, you might get resistance,’ says Elliot."
+    },
+    {
+      "label": "11",
+      "text": "* horticultural analogue: a cultivated plant species that is genetically similar to an existing species"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–18\n\nReading Passage 2 has seven sections, A–G.\n\nWhich section contains the following information?\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "reference to the research problems that arise from there being only a few surviving large elms",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8554_709814-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "details of a difference of opinion about the value of reintroducing elms to Britain",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8554_709814-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "reference to how Dutch elm disease was brought into Britain",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8554_709814-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "a description of the conditions that have enabled a location in Britain to escape Dutch elm disease",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8554_709814-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "reference to the stage at which young elms become vulnerable to Dutch elm disease",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8554_709814-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 19–23\n\nLook at the following statements (Questions 19–23) and the list of people below.\n\nMatch each statement with the correct person, A, B, or C.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "19. If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible.[19] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8554_982938",
+          "explanation": "19. 译文：如果一棵树感染了荷兰榆树病，损害很快就能肉眼可见。\n\n本题的对应位置比较靠后，但只需考生笃定采用平行阅读法、逐段阅读对比，就能在终于来到倒数第二段的最后一句时看到相应内容：“（试验性给榆树苗注入少量病菌），四到六周后再来看，没染病的就会完好无恙，而染病植株就会大量落叶甚至完全死亡”，这正是对应了题干所说的“后果很快显现”，因此表达此观点的Russell就是正确答案项：B。\n\n20. 译文：也许等等看那些存活下来的成年榆树是否会持续繁荣才是更好的。\n\n本题最大的难点也许在于定位：考生需要一直来到全文最后一句话，才能看到对应题干的表达。Elliot认为“最好的办法是给自然界时间让其自己恢复”，结合本段前文所说，也就是“不应人工引进非本地榆树物种，而是应当顺其自然等着那些存活下来的榆树自己发展出抵抗力”，考生应当就能锁定选项应为：A。\n\n21. 译文：一些成年榆树之所以能幸存下来总得有个原因。\n\n与本题同样出现在这一段里的，还有前面的第14题，因此如果考生采用了平行阅读来解答所有题目，就可以一箭双雕，同时找到两个题型中的两道题目。第14题主要对应了本段的前两句话，Russell指出研究关键在于找到和研究那些存活下来的榆树，但它们数量不多因此机会也少。而本段接下来的几句话，基本都以直接引用Russell的发言来展开，反复陈述“虽然还搞不清楚具体原理，但总归事出有因、不可能完全是因为运气。”这些都对应了题干所说的“无论如何总会存在一个解释”，因此本题最合适的选项无疑就是：B。\n\n22. 译文：我们需要意识到携带荷兰榆树病的虫类离此并不遥远。\n\n本题与第17题来自同一个段落，是平行阅读法可以帮助考生同时兼顾所有题型解答的又一个例证。本段的前文主要介绍布莱顿这个英国城市得天独厚，有助于当地榆树逃过致病甲虫的侵扰；但从倒数第二句开始话锋一转，也提醒人们情况还是不容乐观，因为这些虫子随时可能长驱直入卷土重来，这正是对应了题干的表述，因此答案项应为：C。\n\n23. 译文：当你看到榆树曾经多么举足轻重的证据后，你就理解了荷兰榆树病所造成的影响。\n\n本题是这个题型中从定位角度来说最友好的一道：考生在第一自然段的后半部分中，就能看到Elliot在充满感情地表达对英国榆树大量死于荷兰榆树病的痛惜。基本上，引言中的这几句话就是在用更详尽的方式花式表述了题干内容：你要是没见过榆树林先前的盛况，就很难想象出这种病造成的影响。你得看看六七十年代那些老照片，只有在那时才能理解榆树的地位。它们曾是如此重要而雄伟的树木，后来却消失了。”考生只需大致看懂这些表述，就不难为本题匹配到最合适的选项：A。",
+          "promptHtml": "19. If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible.[19] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "20. It may be better to wait and see if the mature elms that have survived continue to flourish.[20] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8554_394970",
+          "explanation": "19. 译文：如果一棵树感染了荷兰榆树病，损害很快就能肉眼可见。\n\n本题的对应位置比较靠后，但只需考生笃定采用平行阅读法、逐段阅读对比，就能在终于来到倒数第二段的最后一句时看到相应内容：“（试验性给榆树苗注入少量病菌），四到六周后再来看，没染病的就会完好无恙，而染病植株就会大量落叶甚至完全死亡”，这正是对应了题干所说的“后果很快显现”，因此表达此观点的Russell就是正确答案项：B。\n\n20. 译文：也许等等看那些存活下来的成年榆树是否会持续繁荣才是更好的。\n\n本题最大的难点也许在于定位：考生需要一直来到全文最后一句话，才能看到对应题干的表达。Elliot认为“最好的办法是给自然界时间让其自己恢复”，结合本段前文所说，也就是“不应人工引进非本地榆树物种，而是应当顺其自然等着那些存活下来的榆树自己发展出抵抗力”，考生应当就能锁定选项应为：A。\n\n21. 译文：一些成年榆树之所以能幸存下来总得有个原因。\n\n与本题同样出现在这一段里的，还有前面的第14题，因此如果考生采用了平行阅读来解答所有题目，就可以一箭双雕，同时找到两个题型中的两道题目。第14题主要对应了本段的前两句话，Russell指出研究关键在于找到和研究那些存活下来的榆树，但它们数量不多因此机会也少。而本段接下来的几句话，基本都以直接引用Russell的发言来展开，反复陈述“虽然还搞不清楚具体原理，但总归事出有因、不可能完全是因为运气。”这些都对应了题干所说的“无论如何总会存在一个解释”，因此本题最合适的选项无疑就是：B。\n\n22. 译文：我们需要意识到携带荷兰榆树病的虫类离此并不遥远。\n\n本题与第17题来自同一个段落，是平行阅读法可以帮助考生同时兼顾所有题型解答的又一个例证。本段的前文主要介绍布莱顿这个英国城市得天独厚，有助于当地榆树逃过致病甲虫的侵扰；但从倒数第二句开始话锋一转，也提醒人们情况还是不容乐观，因为这些虫子随时可能长驱直入卷土重来，这正是对应了题干的表述，因此答案项应为：C。\n\n23. 译文：当你看到榆树曾经多么举足轻重的证据后，你就理解了荷兰榆树病所造成的影响。\n\n本题是这个题型中从定位角度来说最友好的一道：考生在第一自然段的后半部分中，就能看到Elliot在充满感情地表达对英国榆树大量死于荷兰榆树病的痛惜。基本上，引言中的这几句话就是在用更详尽的方式花式表述了题干内容：你要是没见过榆树林先前的盛况，就很难想象出这种病造成的影响。你得看看六七十年代那些老照片，只有在那时才能理解榆树的地位。它们曾是如此重要而雄伟的树木，后来却消失了。”考生只需大致看懂这些表述，就不难为本题匹配到最合适的选项：A。",
+          "promptHtml": "20. It may be better to wait and see if the mature elms that have survived continue to flourish.[20] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "21. There must be an explanation for the survival of some mature elms.[21] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8554_942046",
+          "explanation": "19. 译文：如果一棵树感染了荷兰榆树病，损害很快就能肉眼可见。\n\n本题的对应位置比较靠后，但只需考生笃定采用平行阅读法、逐段阅读对比，就能在终于来到倒数第二段的最后一句时看到相应内容：“（试验性给榆树苗注入少量病菌），四到六周后再来看，没染病的就会完好无恙，而染病植株就会大量落叶甚至完全死亡”，这正是对应了题干所说的“后果很快显现”，因此表达此观点的Russell就是正确答案项：B。\n\n20. 译文：也许等等看那些存活下来的成年榆树是否会持续繁荣才是更好的。\n\n本题最大的难点也许在于定位：考生需要一直来到全文最后一句话，才能看到对应题干的表达。Elliot认为“最好的办法是给自然界时间让其自己恢复”，结合本段前文所说，也就是“不应人工引进非本地榆树物种，而是应当顺其自然等着那些存活下来的榆树自己发展出抵抗力”，考生应当就能锁定选项应为：A。\n\n21. 译文：一些成年榆树之所以能幸存下来总得有个原因。\n\n与本题同样出现在这一段里的，还有前面的第14题，因此如果考生采用了平行阅读来解答所有题目，就可以一箭双雕，同时找到两个题型中的两道题目。第14题主要对应了本段的前两句话，Russell指出研究关键在于找到和研究那些存活下来的榆树，但它们数量不多因此机会也少。而本段接下来的几句话，基本都以直接引用Russell的发言来展开，反复陈述“虽然还搞不清楚具体原理，但总归事出有因、不可能完全是因为运气。”这些都对应了题干所说的“无论如何总会存在一个解释”，因此本题最合适的选项无疑就是：B。\n\n22. 译文：我们需要意识到携带荷兰榆树病的虫类离此并不遥远。\n\n本题与第17题来自同一个段落，是平行阅读法可以帮助考生同时兼顾所有题型解答的又一个例证。本段的前文主要介绍布莱顿这个英国城市得天独厚，有助于当地榆树逃过致病甲虫的侵扰；但从倒数第二句开始话锋一转，也提醒人们情况还是不容乐观，因为这些虫子随时可能长驱直入卷土重来，这正是对应了题干的表述，因此答案项应为：C。\n\n23. 译文：当你看到榆树曾经多么举足轻重的证据后，你就理解了荷兰榆树病所造成的影响。\n\n本题是这个题型中从定位角度来说最友好的一道：考生在第一自然段的后半部分中，就能看到Elliot在充满感情地表达对英国榆树大量死于荷兰榆树病的痛惜。基本上，引言中的这几句话就是在用更详尽的方式花式表述了题干内容：你要是没见过榆树林先前的盛况，就很难想象出这种病造成的影响。你得看看六七十年代那些老照片，只有在那时才能理解榆树的地位。它们曾是如此重要而雄伟的树木，后来却消失了。”考生只需大致看懂这些表述，就不难为本题匹配到最合适的选项：A。",
+          "promptHtml": "21. There must be an explanation for the survival of some mature elms.[21] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "22. We need to be aware that insects carrying Dutch elm disease are not very far away.[22] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8554_514702",
+          "explanation": "19. 译文：如果一棵树感染了荷兰榆树病，损害很快就能肉眼可见。\n\n本题的对应位置比较靠后，但只需考生笃定采用平行阅读法、逐段阅读对比，就能在终于来到倒数第二段的最后一句时看到相应内容：“（试验性给榆树苗注入少量病菌），四到六周后再来看，没染病的就会完好无恙，而染病植株就会大量落叶甚至完全死亡”，这正是对应了题干所说的“后果很快显现”，因此表达此观点的Russell就是正确答案项：B。\n\n20. 译文：也许等等看那些存活下来的成年榆树是否会持续繁荣才是更好的。\n\n本题最大的难点也许在于定位：考生需要一直来到全文最后一句话，才能看到对应题干的表达。Elliot认为“最好的办法是给自然界时间让其自己恢复”，结合本段前文所说，也就是“不应人工引进非本地榆树物种，而是应当顺其自然等着那些存活下来的榆树自己发展出抵抗力”，考生应当就能锁定选项应为：A。\n\n21. 译文：一些成年榆树之所以能幸存下来总得有个原因。\n\n与本题同样出现在这一段里的，还有前面的第14题，因此如果考生采用了平行阅读来解答所有题目，就可以一箭双雕，同时找到两个题型中的两道题目。第14题主要对应了本段的前两句话，Russell指出研究关键在于找到和研究那些存活下来的榆树，但它们数量不多因此机会也少。而本段接下来的几句话，基本都以直接引用Russell的发言来展开，反复陈述“虽然还搞不清楚具体原理，但总归事出有因、不可能完全是因为运气。”这些都对应了题干所说的“无论如何总会存在一个解释”，因此本题最合适的选项无疑就是：B。\n\n22. 译文：我们需要意识到携带荷兰榆树病的虫类离此并不遥远。\n\n本题与第17题来自同一个段落，是平行阅读法可以帮助考生同时兼顾所有题型解答的又一个例证。本段的前文主要介绍布莱顿这个英国城市得天独厚，有助于当地榆树逃过致病甲虫的侵扰；但从倒数第二句开始话锋一转，也提醒人们情况还是不容乐观，因为这些虫子随时可能长驱直入卷土重来，这正是对应了题干的表述，因此答案项应为：C。\n\n23. 译文：当你看到榆树曾经多么举足轻重的证据后，你就理解了荷兰榆树病所造成的影响。\n\n本题是这个题型中从定位角度来说最友好的一道：考生在第一自然段的后半部分中，就能看到Elliot在充满感情地表达对英国榆树大量死于荷兰榆树病的痛惜。基本上，引言中的这几句话就是在用更详尽的方式花式表述了题干内容：你要是没见过榆树林先前的盛况，就很难想象出这种病造成的影响。你得看看六七十年代那些老照片，只有在那时才能理解榆树的地位。它们曾是如此重要而雄伟的树木，后来却消失了。”考生只需大致看懂这些表述，就不难为本题匹配到最合适的选项：A。",
+          "promptHtml": "22. We need to be aware that insects carrying Dutch elm disease are not very far away.[22] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "23. You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was.[23] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8554_564571",
+          "explanation": "19. 译文：如果一棵树感染了荷兰榆树病，损害很快就能肉眼可见。\n\n本题的对应位置比较靠后，但只需考生笃定采用平行阅读法、逐段阅读对比，就能在终于来到倒数第二段的最后一句时看到相应内容：“（试验性给榆树苗注入少量病菌），四到六周后再来看，没染病的就会完好无恙，而染病植株就会大量落叶甚至完全死亡”，这正是对应了题干所说的“后果很快显现”，因此表达此观点的Russell就是正确答案项：B。\n\n20. 译文：也许等等看那些存活下来的成年榆树是否会持续繁荣才是更好的。\n\n本题最大的难点也许在于定位：考生需要一直来到全文最后一句话，才能看到对应题干的表达。Elliot认为“最好的办法是给自然界时间让其自己恢复”，结合本段前文所说，也就是“不应人工引进非本地榆树物种，而是应当顺其自然等着那些存活下来的榆树自己发展出抵抗力”，考生应当就能锁定选项应为：A。\n\n21. 译文：一些成年榆树之所以能幸存下来总得有个原因。\n\n与本题同样出现在这一段里的，还有前面的第14题，因此如果考生采用了平行阅读来解答所有题目，就可以一箭双雕，同时找到两个题型中的两道题目。第14题主要对应了本段的前两句话，Russell指出研究关键在于找到和研究那些存活下来的榆树，但它们数量不多因此机会也少。而本段接下来的几句话，基本都以直接引用Russell的发言来展开，反复陈述“虽然还搞不清楚具体原理，但总归事出有因、不可能完全是因为运气。”这些都对应了题干所说的“无论如何总会存在一个解释”，因此本题最合适的选项无疑就是：B。\n\n22. 译文：我们需要意识到携带荷兰榆树病的虫类离此并不遥远。\n\n本题与第17题来自同一个段落，是平行阅读法可以帮助考生同时兼顾所有题型解答的又一个例证。本段的前文主要介绍布莱顿这个英国城市得天独厚，有助于当地榆树逃过致病甲虫的侵扰；但从倒数第二句开始话锋一转，也提醒人们情况还是不容乐观，因为这些虫子随时可能长驱直入卷土重来，这正是对应了题干的表述，因此答案项应为：C。\n\n23. 译文：当你看到榆树曾经多么举足轻重的证据后，你就理解了荷兰榆树病所造成的影响。\n\n本题是这个题型中从定位角度来说最友好的一道：考生在第一自然段的后半部分中，就能看到Elliot在充满感情地表达对英国榆树大量死于荷兰榆树病的痛惜。基本上，引言中的这几句话就是在用更详尽的方式花式表述了题干内容：你要是没见过榆树林先前的盛况，就很难想象出这种病造成的影响。你得看看六七十年代那些老照片，只有在那时才能理解榆树的地位。它们曾是如此重要而雄伟的树木，后来却消失了。”考生只需大致看懂这些表述，就不难为本题匹配到最合适的选项：A。",
+          "promptHtml": "23. You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was.[23] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Matt Elliot"
+        },
+        {
+          "value": "B",
+          "text": "Karen Russell"
+        },
+        {
+          "value": "C",
+          "text": "Peter Bourne"
+        }
+      ],
+      "contextHtml": "<p>19.  If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible.<strong>[19] ______</strong> </p>\n\n<p>20. It may be better to wait and see if the mature elms that have survived continue to flourish.<strong>[20] ______</strong> </p>\n\n<p>21. There must be an explanation for the survival of some mature elms.<strong>[21] ______</strong> </p>\n\n<p>22. We need to be aware that insects carrying Dutch elm disease are not very far away.<strong>[22] ______</strong> </p>\n\n<p>23. You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was.<strong>[23] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 24–26\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "oak"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8554_128433",
+          "explanation": "24. 译文：在几百年的时间里，唯一在英国比榆树更受欢迎的树种是____。\n\n题干中的for hundreds of years在原文中仅仅只是潦草地替换成了for centuries这种简单变体，“受欢迎程度领先于榆树”的表达回到原文中也只是调换了顺序、变成了“榆树仅仅只是紧跟橡树之后屈居第二”。虽然要找原文原词对应并不容易，但这两个英文表述本身的理解难度都并不高，考生只需看懂句意，就能顺利得出答案应为：oak。\n\n25. 译文：在18世纪种植它是为了给箱子和____提供木材。\n\n本题可由数字信息“18世纪”引导着直接对应到这一段的第五句话里。可能解题的唯一困难在于对应题干boxes的原文用词crates对一些考生来说会稍显陌生，但crates之前的storage又非常友好地暗示了这个用作“储藏”的生词就是在替换“箱子、盒子”这类物件，帮助考生利用排除法锁定与之并列的另外一个词汇作为本题答案：flooring。\n\n26. 译文：由于其硬度，榆木经常被用以制作采矿设备，Cutty Sark的____也是用榆木制作的。\n\n本题定位紧跟上一题，且包含了一模一样的题干信息mining equipment，考生只需看懂原文中的“keel of ... Cutty Sack”这个A of B的结构就是改头换面替代了题干中的B’s ... 这个结构，那么即使并不认识“龙骨”这个单词，也能顺利锁定本题空格中的答案应为：keel。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "flooring"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8554_267959",
+          "explanation": "24. 译文：在几百年的时间里，唯一在英国比榆树更受欢迎的树种是____。\n\n题干中的for hundreds of years在原文中仅仅只是潦草地替换成了for centuries这种简单变体，“受欢迎程度领先于榆树”的表达回到原文中也只是调换了顺序、变成了“榆树仅仅只是紧跟橡树之后屈居第二”。虽然要找原文原词对应并不容易，但这两个英文表述本身的理解难度都并不高，考生只需看懂句意，就能顺利得出答案应为：oak。\n\n25. 译文：在18世纪种植它是为了给箱子和____提供木材。\n\n本题可由数字信息“18世纪”引导着直接对应到这一段的第五句话里。可能解题的唯一困难在于对应题干boxes的原文用词crates对一些考生来说会稍显陌生，但crates之前的storage又非常友好地暗示了这个用作“储藏”的生词就是在替换“箱子、盒子”这类物件，帮助考生利用排除法锁定与之并列的另外一个词汇作为本题答案：flooring。\n\n26. 译文：由于其硬度，榆木经常被用以制作采矿设备，Cutty Sark的____也是用榆木制作的。\n\n本题定位紧跟上一题，且包含了一模一样的题干信息mining equipment，考生只需看懂原文中的“keel of ... Cutty Sack”这个A of B的结构就是改头换面替代了题干中的B’s ... 这个结构，那么即使并不认识“龙骨”这个单词，也能顺利锁定本题空格中的答案应为：keel。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "keel"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8554_109205",
+          "explanation": "24. 译文：在几百年的时间里，唯一在英国比榆树更受欢迎的树种是____。\n\n题干中的for hundreds of years在原文中仅仅只是潦草地替换成了for centuries这种简单变体，“受欢迎程度领先于榆树”的表达回到原文中也只是调换了顺序、变成了“榆树仅仅只是紧跟橡树之后屈居第二”。虽然要找原文原词对应并不容易，但这两个英文表述本身的理解难度都并不高，考生只需看懂句意，就能顺利得出答案应为：oak。\n\n25. 译文：在18世纪种植它是为了给箱子和____提供木材。\n\n本题可由数字信息“18世纪”引导着直接对应到这一段的第五句话里。可能解题的唯一困难在于对应题干boxes的原文用词crates对一些考生来说会稍显陌生，但crates之前的storage又非常友好地暗示了这个用作“储藏”的生词就是在替换“箱子、盒子”这类物件，帮助考生利用排除法锁定与之并列的另外一个词汇作为本题答案：flooring。\n\n26. 译文：由于其硬度，榆木经常被用以制作采矿设备，Cutty Sark的____也是用榆木制作的。\n\n本题定位紧跟上一题，且包含了一模一样的题干信息mining equipment，考生只需看懂原文中的“keel of ... Cutty Sack”这个A of B的结构就是改头换面替代了题干中的B’s ... 这个结构，那么即使并不认识“龙骨”这个单词，也能顺利锁定本题空格中的答案应为：keel。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><b>Uses of a popular tree</b></p>\n\n\t\t\t<p>For hundreds of years, the only tree that was more popular in Britain than elm was<strong>[24] ______</strong>Starting in the Bronze Age, many tools were made from elm and people also used it to make weapons. In the 18th century, it was grown to provide wood for boxes and <strong>[25] ______</strong>. Due to its strength, elm was often used for mining equipment and the Cutty Sark’s <strong>[26] ______</strong>was also constructed from elm.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>Return of the elm: reintroducing the beloved tree to Britain</b></span></p><p><em>Mark Rowe investigates attempts to reintroduce elms to Britain</em></p><p><strong>A    </strong>Around 25 million elms, accounting for 90% of all elm trees in the UK, died during the 1960s and ’70s of Dutch elm disease. In the  aftermath, the elm, once so dominant in the British landscape, was largely forgotten. However, there’s now hope the elm may be reintroduced to the countryside of central and southern England. Any reintroduction will start from a very low base. ‘The impact of the disease is difficult to picture if you hadn’t seen what was there before,’ says Matt Elliot of the Woodland Trust. ‘You look at old photographs from the 1960s and it’s only then that you realise the impact [elms had] ... They were significant, large trees … then they were gone.’</p><p><strong>B    </strong> The disease is caused by a fungus that blocks the elms’ vascular (water, nutrient and food transport) system, causing branches to wilt and die. A first epidemic, which occurred in the 1920s, gradually died down, but in the ’70s a second epidemic was triggered by shipments of elm from Canada. The wood came in the form of logs destined for boat building and its intact bark was perfect for the elm bark beetles that spread the deadly fungus. This time, the beetles carried a much more virulent strain that destroyed the vast majority of British elms.</p><p><strong>C </strong>    Today, elms still exist in the southern English countryside but mostly only in low hedgerows between fields. ‘We have millions of small elms in hedgerows but they get targeted by the beetle as soon as they reach a certain size,’ says Karen Russell, co-author of the report ‘Where we are with elm’. Once the trunk of the elm reaches 10–15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold. Yet mature specimens have been identified, in counties such as Cambridgeshire, that are hundreds of years old, and have mysteriously escaped the epidemic.</p><p>The key, Russell says, is to identify and study those trees that have survived and work out why they stood tall when millions of others succumbed. Nevertheless, opportunities are limited as the number of these mature survivors is relatively small. ‘What are the reasons for their survival?’ asks Russell. ‘Avoidance, tolerance, resistance? We don’t know where the balance lies between the three. I don’t see how it can be entirely down to luck.’</p><p><strong>D  </strong>  For centuries, elm ran a close second to oak as the hardwood tree of choice in Britain and was in many instances the most prominent tree in the landscape. Not only was elm common in European forests, it became a key component of birch, ash and hazel woodlands. The use of elm is thought to go back to the Bronze Age, when it was widely used for tools. Elm was also the preferred material for shields and early swords. In the 18th century, it was planted more widely and its wood was used for items such as storage crates and flooring. It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment.</p><p><strong>E</strong>     Given how ingrained elm is in British culture, it’s unsurprising the tree has many advocates. Amongst them is Peter Bourne of the National Elm Collection in Brighton. ‘I saw Dutch elm disease unfold as a small boy,’ he says. ‘The elm seemed to be part of rural England, but I remember watching trees just lose their leaves and that really stayed with me.’ Today, the city of Brighton’s elms total about 17,000. Local factors appear to have contributed to their survival. Strong winds from the sea make it difficult for the determined elm bark beetle to attack this coastal city’s elm population. However, the situation is precarious. ‘The beetles can just march in if we’re not careful, as the threat is right on our doorstep,’ says Bourne.</p><p><strong>F </strong>    Any prospect of the elm returning relies heavily on trees being either resistant to, or tolerant of, the disease. This means a widespread reintroduction would involve existing or new hybrid strains derived from resistant, generally non-native elm species. A new generation of seedlings have been bred and tested to see if they can withstand the fungus by cutting a small slit on the bark and injecting a tiny amount of the pathogen. ‘The effects are very quick,’ says Russell. ‘You return in four to six weeks and trees that are resistant show no symptoms, whereas those that are susceptible show leaf loss and may even have died completely.’</p><p><strong>G </strong>   All of this raises questions of social acceptance, acknowledges Russell. ‘If we’re putting elm back into the landscape, a small element of it is not native – are we bothered about that?’ For her, the environmental case for reintroducing elm is strong. ‘They will host wildlife, which is a good thing.’ Others are more wary. ‘On the face of it, it seems like a good idea,’ says Elliot. The problem, he suggests, is that, ‘You’re replacing a native species with a horticultural analogue*. You’re effectively cloning.’ There’s also the risk of introducing new diseases. Rather than plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently. ‘Sometimes the best thing you can do is just give nature time to recover ... over time, you might get resistance,’ says Elliot.</p><p><span>* horticultural analogue: a cultivated plant species that is genetically similar to an existing species</span></p>"
+}

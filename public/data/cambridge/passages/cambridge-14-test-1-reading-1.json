@@ -1,0 +1,280 @@
+{
+  "id": "cambridge-14-test-1-reading-1",
+  "title": "THE IMPORTANCE OF CHILDREN'S PLAY",
+  "titleCn": "THE IMPORTANCE OF CHILDREN'S PLAY",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 14,
+    "test": 1
+  },
+  "sourceQuestionId": "6622",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6622",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "THE IMPORTANCE OF CHILDREN'S PLAY"
+    },
+    {
+      "label": "2",
+      "text": "Brick by brick, six- year-old Alice is building a magical kingdom. Imagining fairy-tale turrets and fire-breathing dragons, wicked witches and gallant heroes, she's creating an enchanting world. Although she isn't aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life."
+    },
+    {
+      "label": "3",
+      "text": "Minutes later, Alice has abandoned the kingdom in favour of playing schools with her younger brother. When she bosses him around as his 'teacher', she's practising how to regulate her emotions through pretence. Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner."
+    },
+    {
+      "label": "4",
+      "text": "'Play in all its rich variety is one of the highest achievements of the human species,' says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. 'It underpins how we develop as intellectual, problem-solving adults and is crucial to our success as a highly adaptable species.'"
+    },
+    {
+      "label": "5",
+      "text": "Recognising the importance of play is not new: over two millennia ago, the Greek philosopher Plato extolled its virtues as a means of developing skills for adult life, and ideas about play-based learning have been developing since the 19th century."
+    },
+    {
+      "label": "6",
+      "text": "But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities. 'The opportunities for free play, which I experienced almost every day of my childhood, are becoming increasingly scarce,' he says. Outdoor play is curtailed by perceptions of risk to do with traffic, as well as parents increased wish to protect their children from being the victims of crime, and by the emphasis on earlier is better which is leading to greater competition in academic learning and schools."
+    },
+    {
+      "label": "7",
+      "text": "International bodies like the United Nations and the European Union have begun to develop policies concerned with children's right to play, and to consider implications for leisure facilities and educational programmes. But what they often lack is the evidence to base policies on."
+    },
+    {
+      "label": "8",
+      "text": "'The type of play we are interested in is child-initiated, spontaneous and unpredictable - but, as soon as you ask a five-year-old \"to play\", then you as the researcher have intervened,' explains Dr Sara Baker. And we want to know what the long-term impact of play is. It's a real challenge.'"
+    },
+    {
+      "label": "9",
+      "text": "Dr Jenny Gibson agrees, pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life."
+    },
+    {
+      "label": "10",
+      "text": "Now, thanks to the university's new Centre for Research on Play in Education, Development and Learning (PEDAL), Whitebread, Baker, Gibson and a team of researchers hope to provide evidence on the role played by play in how a child develops."
+    },
+    {
+      "label": "11",
+      "text": "'A strong possibility is that play supports the early development of children's self-control,' explains Baker. 'This is our ability to develop awareness of our own thinking processes – it influences how effectively we go about undertaking challenging activities.'"
+    },
+    {
+      "label": "12",
+      "text": "In a study carried out by Baker with toddlers and young pre-schoolers, she found that children with greater self-control solved problems more quickly when exploring an unfamiliar set-up requiring scientific reasoning. 'This sort of evidence makes us think that giving children the chance to play will make them more successful problem-solvers in the long run."
+    },
+    {
+      "label": "13",
+      "text": "If playful experiences do facilitate this aspect of development, say the researchers, it could be extremely significant for educational practices, because the ability to self-regulate has been shown to be a key predictor of academic performance."
+    },
+    {
+      "label": "14",
+      "text": "Gibson adds: 'Playful behaviour is also an important indicator of healthy social and emotional development. In my previous research, I investigated how observing children at play can give us important clues about their well-being and can even be useful in the diagnosis of neurodevelopmental disorders like autism.'"
+    },
+    {
+      "label": "15",
+      "text": "Whitebread's recent research has involved developing a play-based approach to supporting children's writing. ‘Many primary school children find writing difficult, but we showed in a previous study that a playful stimulus was far more effective than an instructional one.' Children wrote longer and better-structured stories when they first played with dolls representing characters in the story. In the latest study, children first created their story with Lego[1], with similar results. 'Many teachers commented that they had always previously had children saying they didn't know what to write about. With the Lego building, however, not a single child said this through the whole year of the project.’"
+    },
+    {
+      "label": "16",
+      "text": "Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s, when, as he describes, 'the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy.' Now, the landscape is very different, with hotly debated topics such as school starting age."
+    },
+    {
+      "label": "17",
+      "text": "'Somehow the importance of play has been lost in recent decades. It's regarded as something trivial, or even as something negative that contrasts with \"work\". Let's not lose sight of its benefits, and the fundamental contributions it makes to human achievements in the arts, sciences and technology. Let's make sure children have a rich diet of play experiences."
+    },
+    {
+      "label": "18",
+      "text": "[1] Lego: coloured plastic building blocks and other pieces that can be joined together"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1-8\n\nComplete the table below.Write ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "building a 'magical kingdom' may help develop [1] ______",
+          "answers": [
+            "creativity"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_887048",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "promptHtml": "building a &#x27;magical kingdom&#x27; may help develop [1] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "board games involve [2] ______ and turn-taking",
+          "answers": [
+            "rules"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_716092",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "promptHtml": "board games involve [2] ______ and turn-taking"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "populations of [3] ______ have grown",
+          "answers": [
+            "cities"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_368669",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "promptHtml": "populations of [3] ______ have grown"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Answer for gap 4.",
+          "answers": [
+            "traffic",
+            "crime"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_612432",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "setId": "Q6622_612432",
+          "promptHtml": "Answer for gap 4."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Answer for gap 5.",
+          "answers": [
+            "traffic",
+            "crime"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_612432",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "setId": "Q6622_612432",
+          "promptHtml": "Answer for gap 5."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "- increased [6] ______, in schools",
+          "answers": [
+            "competition"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_825430",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "promptHtml": "- increased [6] ______, in schools"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "it is difficult to find [7] ______to support new policies",
+          "answers": [
+            "evidence"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_178685",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "promptHtml": "it is difficult to find [7] ______to support new policies"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "research needs to study the impact of play on the rest of the child's [8] ______",
+          "answers": [
+            "life"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6622_772857",
+          "explanation": "题号：1\n\n题干问：搭建一个“魔法王国”也许有助于发展_____。\n\n定位词：'magical kingdom develop'\n\n对应第一段最后一句：Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.\n\n此题可先找带引号的‘magical kingdom’，直接定位到第一段的第一句话。空内需填名词，而第一句话并没有表达出“发展”这个意思，因此考生须耐心向下阅读后文，找到take her first steps towards这处对应develop的内容，由此找到具体发展出来的那项能力，即creativity。\n\n题号：2\n\n题干问：棋盘游戏涉及_____和轮番出手。\n\n定位词：board games, turn-taking\n\n对应第二段最后一句：Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner.\n\n空格中应填名词；无论用题干里的 board games还是turn-taking，都可以轻松定位到原文句，再通过并列词and确认与take turns形成并列关系的名词，即可锁定答案为rules。\n\n题号：3\n\n题干问：_____的人口增长了。\n\n定位词：populations\n\n对应第五段第一句：But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities.\n\n本题的位置与上一道题隔了两段；但题干中population一词与对应原文中people一词的同义替换非常简单。空格中不但应该填名词；根据上下文还可以推测出是人口的出处；即住在哪里的人口；对比原文可知：答案为cities。\n\n题号：4\n\n题干句问：自由玩要的机会有限，原因是对_____的担忧；对_____的担忧；学校里增加了的—_____。\n\n定位词：free play, limited, due to, fear\n\n对应第五段第二和三句：'The opportunities for free play,..., are becoming increasingly scarce, ' he says. Outdoor play is curtailed ... leading to greater competition in academic learning and schools.\n\n本题与接下来的第5和第6题并列作为题干句所询问的原因。三处空格内的答案皆应为名词。由于结构完全一致，第4题和第5题的答案即使顺序对调，也是可以得分的。题干中的limited对应了原文中的scarce，两个单词都是阅读文章中的常客，考生只需再看出题干中fear与原文中risk的同义表达，即可找到答案为traffic。\n\n题号：5\n\n定位词：fear\n\n同上一题\n\n本题与上一道题接踵相连，无非考查考生是否能顺利看出as well as这个并列关系连接的两端。一端是上一题的答案：对于交通风险的担忧，另一端就是本题的答案。不过此处考生需具备对victim一词的基础认知，看出是“家长希望保护孩子不成为victims of crime”，从而顺利从这个词组中筛选出答案应该为crime而非victims.\n\n题号：6\n\n定位词：increased, schools\n\n同上一题 本题继续紧跟前两道题的位置，考生可以利用schools这个原词定位到相关出题处，再利用greater与increased的同义对应，即可得出答案为competition。\n\n题号：7\n\n题干问：很难找到_____来支持新政策。\n\n定位词：difficult to find, support, policies\n\n对应第六段第二句话：But what they often lack is the evidence to base policies on.\n\n空格内仍填名词。凭借policies可以定位到第六段第一句，但本句中并没有包含“难以找到”这个信息，因此考生需继续读下一句原文，在找到lack这个同义表达以后，得出答案为evidence。\n\n题号：8\n\n题干问：研究需要去考查游戏对孩子接下来的_____所产生的影响。\n\n定位词：impact, the rest of\n\n对应第八段：Dr Jenny Gibson agrees pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life.\n\n空格内还是填名词。凭借impact可以定位到第八段，考生只需认识the rest of这个词组指的是“剩余的、接下来的”，便可以很容易地看出原文中later这个对应的表达，从而得出答案为life。",
+          "promptHtml": "research needs to study the impact of play on the rest of the child&#x27;s [8] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Children&#x27;s play</strong></span></p>\n\n<p><strong>Uses of children&#x27;s play</strong></p>\n\n<p>building a &#x27;magical kingdom&#x27; may help develop <strong>[1] ______</strong></p>\n\n<p>board games involve <strong>[2] ______</strong> and turn-taking</p>\n\n<p><strong>Recent changes affecting children&#x27;s play</strong></p>\n\n<p>populations of <strong>[3] ______</strong> have grown</p>\n\n<p>opportunities for free play are limited due to</p>\n\n<p>- fear of <strong>[4] ______ [5] ______</strong></p>\n\n<p>- increased <strong>[6] ______</strong>, in schools</p>\n\n<p><strong>International policies on children&#x27;s play</strong></p>\n\n<p>it is difficult to find <strong>[7] ______</strong>to support new policies</p>\n\n<p>research needs to study the impact of play on the rest of the child&#x27;s <strong>[8] ______</strong></p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 9-13\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Children with good self-control are known to be likely to do well at school later on.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6622_349253",
+          "explanation": "定位词：self-control, school\n\n文中对应点：第十二段：If playful experiences do facilitate this aspect of...\n\n题目解析：本题的定位不太容易，因为第十段里就能找到self-control这个定位词，但本段和下一段内容都闭口不谈school方面的内容，需等到再下一段才用了academic这个略委婉的同义替换词来提示考生信息在此，同时请注意self-regulate与self-control是同义表达。对比题干和原文信息，可知正确答案为TRUE。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "The way a child plays may provide information about possible medical problems.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6622_661590",
+          "explanation": "定位词：medical problems\n\n文中对应点：第十三段第二句：In my previous research, I investigated how...\n\n题目解析：本题基本上就是考查考生的词汇认知水平：题干里的medical problems非常简单，但考生同时需要认识原文中diagnosis和disorder中的至少一个，才能顺利进行定位，进而通过意思的对比得出答案为TRUE。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Playing with dolls was found to benefit girls' writing more than boys' writing.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6622_860484",
+          "explanation": "定位词：dolls, girls’ writing, boys’ writing\n\n文中对应点：无\n\n题目解析：利用“娃娃”和“写作”这两个关键词可以定位到第十四段，但浏览每句主干内容后会发现，并没有任何地方在比较女孩和男孩之间的不同，因此答案为NOT GIVEN。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Children had problems thinking up ideas when they first created the story with Lego.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6622_813204",
+          "explanation": "定位词：Lego\n\n文中对应点：第十四段第三到六句：Children wrote longer and better structured... said this...’\n\n题目解析：本题的定位比较曲折，用Lego这个专有名词可以轻松定位到十四段的第四句，但本句表明用乐高积木以后的结果是“类似的”。与什么类似？显然这是在指代上一句的内容，所以还需再仔细看清本段第三句的内容，发现是在说先游戏再写作的办法可以让孩子写出更好的文章，然而仍需向后文中寻找确认。再向后阅读两句才能最终看到：原本孩子们都说不知道该写什么，也就是有构思方面的问题，但用了先玩乐高的方法以后，再也没有孩子这样说过了，从而得出题干所说内容与原文相矛盾，答案为FALSE。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "People nowadays regard children's play as less significant than they did in the past.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6622_283439",
+          "explanation": "定位词：nowadays, less significant, in the past\n\n文中对应点：第十六段第一句：Somehow the importance of...\n\n题目解析：本题的考点非常分明：现在与过去的对比。考生定要仔细阅读题干，看清比较的是less significant（更不重视）。如果看漏了less，后果将是灾难性的。虽然原文中没有直接出现nowadays和past这两个题干词，但作为题文同序型的题目，从上一道题的定位处开始算起，文章只剩篇幅不长的最后两个自然段以供出题，不难找到最后一段的开头处，并看懂这个表达非常简单直白的句子，通过对比得出答案为TRUE。"
+        }
+      ],
+      "contextHtml": "<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><em>Questions 9-13</em></strong></p>\n\n\t\t\t<p><em>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text,</em></p>\n\n\t\t\t<p><em>choose <strong>FALSE </strong>if the statement contradicts the information,</em></p>\n\n\t\t\t<p><em>or choose <strong>NOT GIVEN </strong>if there is no information on this.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>THE IMPORTANCE OF CHILDREN&#x27;S PLAY</span></strong></p><p>Brick by brick, six- year-old Alice is building a magical kingdom. Imagining fairy-tale turrets and fire-breathing dragons, wicked witches and gallant heroes, she&#x27;s creating an enchanting world. Although she isn&#x27;t aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life.</p><p>Minutes later, Alice has abandoned the kingdom in favour of playing schools with her younger brother. When she bosses him around as his &#x27;teacher&#x27;, she&#x27;s practising how to regulate her emotions through pretence. Later on, when they tire of this and settle down with a board game, she&#x27;s learning about the need to follow rules and take turns with a partner.</p><p>&#x27;Play in all its rich variety is one of the highest achievements of the human species,&#x27; says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. &#x27;It underpins how we develop as intellectual, problem-solving adults and is crucial to our success as a highly adaptable species.&#x27;</p><p>Recognising the importance of play is not new: over two millennia ago, the Greek philosopher Plato extolled its virtues as a means of developing skills for adult life, and ideas about play-based learning have been developing since the 19th century.</p><p>But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities. &#x27;The opportunities for free play, which I experienced almost every day of my childhood, are becoming increasingly scarce,&#x27; he says. Outdoor play is curtailed by perceptions of risk to do with traffic, as well as parents increased wish to protect their children from being the victims of crime, and by the emphasis on earlier is better which is leading to greater competition in academic learning and schools.</p><p>International bodies like the United Nations and the European Union have begun to develop policies concerned with children&#x27;s right to play, and to consider implications for leisure facilities and educational programmes. But what they often lack is the evidence to base policies on.</p><p>&#x27;The type of play we are interested in is child-initiated, spontaneous and unpredictable - but, as soon as you ask a five-year-old &quot;to play&quot;, then you as the researcher have intervened,&#x27; explains Dr Sara Baker. And we want to know what the long-term impact of play is. It&#x27;s a real challenge.&#x27;</p><p>Dr Jenny Gibson agrees, pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child&#x27;s later life.</p><p>Now, thanks to the university&#x27;s new Centre for Research on Play in Education, Development and Learning (PEDAL), Whitebread, Baker, Gibson and a team of researchers hope to provide evidence on the role played by play in how a child develops.</p><p>&#x27;A strong possibility is that play supports the early development of children&#x27;s self-control,&#x27; explains Baker. &#x27;This is our ability to develop awareness of our own thinking processes – it influences how effectively we go about undertaking challenging activities.&#x27;</p><p>In a study carried out by Baker with toddlers and young pre-schoolers, she found that children with greater self-control solved problems more quickly when exploring an unfamiliar set-up requiring scientific reasoning. &#x27;This sort of evidence makes us think that giving children the chance to play will make them more successful problem-solvers in the long run.</p><p>If playful experiences do facilitate this aspect of development, say the researchers, it could be extremely significant for educational practices, because the ability to self-regulate has been shown to be a key predictor of academic performance.</p><p>Gibson adds: &#x27;Playful behaviour is also an important indicator of healthy social and emotional development. In my previous research, I investigated how observing children at play can give us important clues about their well-being and can even be useful in the diagnosis of neurodevelopmental disorders like autism.&#x27;</p><p>Whitebread&#x27;s recent research has involved developing a play-based approach to supporting children&#x27;s writing. ‘Many primary school children find writing difficult, but we showed in a previous study that a playful stimulus was far more effective than an instructional one.&#x27; Children wrote longer and better-structured stories when they first played with dolls representing characters in the story. In the latest study, children first created their story with Lego[1], with similar results. &#x27;Many teachers commented that they had always previously had children saying they didn&#x27;t know what to write about. With the Lego building, however, not a single child said this through the whole year of the project.’</p><p>Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s, when, as he describes, &#x27;the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy.&#x27; Now, the landscape is very different, with hotly debated topics such as school starting age.</p><p>&#x27;Somehow the importance of play has been lost in recent decades. It&#x27;s regarded as something trivial, or even as something negative that contrasts with &quot;work&quot;. Let&#x27;s not lose sight of its benefits, and the fundamental contributions it makes to human achievements in the arts, sciences and technology. Let&#x27;s make sure children have a rich diet of play experiences.</p><div> <hr><div><p>[1] Lego: coloured plastic building blocks and other pieces that can be joined together</p></div></div>"
+}

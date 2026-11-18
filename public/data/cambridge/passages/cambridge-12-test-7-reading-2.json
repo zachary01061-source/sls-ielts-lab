@@ -1,0 +1,266 @@
+{
+  "id": "cambridge-12-test-7-reading-2",
+  "title": "The Intersection of Health Sciences and Geography",
+  "titleCn": "The Intersection of Health Sciences and Geography",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 12,
+    "test": 7
+  },
+  "sourceQuestionId": "6752",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6752",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Intersection of Health Sciences and Geography"
+    },
+    {
+      "label": "2",
+      "text": "A While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent. In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common."
+    },
+    {
+      "label": "3",
+      "text": "B Geography can often play a very large role in the health concerns of certain populations. For instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region. Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow. Malaria is much less of a problem in high-altitude deserts, for instance."
+    },
+    {
+      "label": "4",
+      "text": "C In some countries, geographical factors influence the health and well-being of the population in very obvious ways. In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there. Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power. The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants."
+    },
+    {
+      "label": "5",
+      "text": "D It is in situations like these that the field of health geography comes into its own. It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure. Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world. The aim of this hybrid science is to create solutions for common geography-based health problems. While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future. By understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations."
+    },
+    {
+      "label": "6",
+      "text": "E The geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two. Health geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area. Health geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population."
+    },
+    {
+      "label": "7",
+      "text": "F Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales. Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations."
+    },
+    {
+      "label": "8",
+      "text": "G The second subcategory of health geography is the geography of healthcare provision. This group studies the availability (or lack there of) of healthcare resources to individuals and populations around the world. In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education. Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital). These researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others."
+    },
+    {
+      "label": "9",
+      "text": "H The field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare. If we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-19\n\nReading Passage 2 has eight sections, A-H.\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "an acceptance that not all diseases can be totally eliminated",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6752_184226-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "examples of physical conditions caused by human behaviour",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6752_184226-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "a reference to classifying diseases on the basis of how far they extend geographically",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6752_184226-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "reasons why the level of access to healthcare can vary within a country",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6752_184226-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "a description of health geography as a mixture of different academic fields",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6752_184226-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "a description of the type of area where a particular illness is rare",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6752_184226-6"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 20-26\n\nComplete the sentences.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Certain diseases have disappeared, thanks to better [20] ______and healthcare.",
+          "answers": [
+            "vaccinations"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6752_609608",
+          "explanation": "题号：20\n\n定位词：disappeared, thanks to, better\n\nA段第一句：While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, ...\n\n题干说“有一些疾病已经消失了，多亏了更好的_____和健康医疗”，可知回到原文中要定位的信息必定是与healthcare构成并列关系的一种导致疾病消失的因素。答案就出在文章开头处的第一段第- 句话, 不过考生如果对eradicated“被清除”的词义缺乏认知，则仍有可能会漏掉它，因为本题干与原文的另外两处对应表达( thanks to对应于原文的due to, better 对应于原文的improvements )也并不特别直白显眼。一旦考生掌握了eradicate这个词汇正是disappear 的同义表述，即可顺利得出答案为vaccinations。至于vaccination“疫苗”这个答案词汇本身考生是否认识，倒是不影响顺利做答。\n\n题号：21\n\n定位词：more contact between people, losing usefulness\n\nA段第二、三句：In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result,super-viruses and other infections resistant to antibiotics are becoming more and more common.\n\n题干说“由于人们之间有了更多的接触，______正在失去它们的效用” 。考生根据题干中的more contact即可直接定位到A段的第二句话，再根据第三句开头的as a result确认答案应该是出自此句，因此要找到出题处并不困难。不过本题还是考查了考生是否认识resistant这个词汇正是对应了题干中的“失去效用”，只要有此词汇基础即可顺利得出答案为antibiotics。\n\n题号：22\n\n定位词：disease-causing, hot, damp regions\n\nB段第三句：Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\n\n题干说“带来疾病的____更容易在热而潮湿的地区被发现\"。考生可直接利用题干中的damp一词定位到原文中的相应出题句，但本句的句式结构略复杂，详细分析可参见前文“佳句赏析”的第一句。不过本题难度不高，因为即使在不能完整看懂全句的情况下，考生也可通过分析题干中disease causing对空格的修饰关系，知道空格中的内容必然是“造成疾病\"的原因;而耐心读原文句时，看懂that can give people this disease这个简单定语从句应当不是难事，可知此从句前的修饰对象就是答案: mosquitos。\n\n题号：23\n\n定位词：cause of pollution, burn, fuel\n\nC段第三句：Part of the problem is, of course,the massive number of cars being driven, in addition to factories that run on coal power.\n\n题干说“造成污染的原因之一是燃烧某种燃料的____”。考生可凭借pollution一词定位到C段的第二句话，继续向下文阅读便可找到造成污染的两个原因是cars和factories,再利用题干信息的限定“燃烧某种燃料”，即使不知道run on表示“利用..作为能源支持”，也应该对coal(煤炭)作为能源燃料的词义有所认知，从而确定答案是factories。\n\n题号：24\n\n定位词：growth of cities, impact, nearby\n\nC段第四句：The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\n\n题干说“城市的拓展常常会对周围的____产生影响”。关于本句的详细分析，在“佳句赏析”第三句和上一个MATCHING题型中都有涉及，此处不再赘述。考生可直接凭借题干中的cities一词定位到此句，再通过分析原文得出答案为forests。\n\n题号：25\n\n定位词：disease, growing after, eradicated\n\nD段第二句：It is an increasingly important area of study in a world where diseases like polio are re-emerging, ...\n\n题干说“____是在被清除之后又开始冒头增长的疾病”。eradicate 一词当之无愧可以成为本文的核心必背词汇，已在若干道题目中作为解题的关键认知信息而出现。本题也是如此，基本上就是在考查考生的词汇基础,只要认识eradicated是“被清除”，即可顺利理解“在被清除之后再次增长”的题干意思。re-词缀表示“重新、再一次”的用法也是阅读文章和题目中的常客，如果考生熟悉emerge是“出现”，则re-emerge即是“再次出现”的意思，正好对应于题干表述，可知答案是polio。\n\n题号：26\n\n定位词：physical barrier, prevent, hospital\n\nG段第四句：Individuals working in the area of the geography of healthcare provision attempt to assess the\n\nlevels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\n\n题干说“例如____这样的物理障碍有可能阻碍人们去医院”。本题的难点主要体现在定位的位置与前面题目距离太远:前一道题出现在文章D段中，考生也能明确分析出本题的题干定位必定是与“人们无法去医院”有关;然而在接下来的E段和F段中却无论如何都找不到与“医院”有关的信息，难免容易心慌。此时应坚定信心，根据对题干的正确判断继续阅读下文，即不难在G段里找到hospital这个原词重现的题干信息，稍加分析此句便可得出答案为mountain。",
+          "promptHtml": "Certain diseases have disappeared, thanks to better [20] ______and healthcare."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Because there is more contact between people, [21] ______are losing their usefulness.",
+          "answers": [
+            "antibiotics"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6752_566578",
+          "explanation": "题号：20\n\n定位词：disappeared, thanks to, better\n\nA段第一句：While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, ...\n\n题干说“有一些疾病已经消失了，多亏了更好的_____和健康医疗”，可知回到原文中要定位的信息必定是与healthcare构成并列关系的一种导致疾病消失的因素。答案就出在文章开头处的第一段第- 句话, 不过考生如果对eradicated“被清除”的词义缺乏认知，则仍有可能会漏掉它，因为本题干与原文的另外两处对应表达( thanks to对应于原文的due to, better 对应于原文的improvements )也并不特别直白显眼。一旦考生掌握了eradicate这个词汇正是disappear 的同义表述，即可顺利得出答案为vaccinations。至于vaccination“疫苗”这个答案词汇本身考生是否认识，倒是不影响顺利做答。\n\n题号：21\n\n定位词：more contact between people, losing usefulness\n\nA段第二、三句：In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result,super-viruses and other infections resistant to antibiotics are becoming more and more common.\n\n题干说“由于人们之间有了更多的接触，______正在失去它们的效用” 。考生根据题干中的more contact即可直接定位到A段的第二句话，再根据第三句开头的as a result确认答案应该是出自此句，因此要找到出题处并不困难。不过本题还是考查了考生是否认识resistant这个词汇正是对应了题干中的“失去效用”，只要有此词汇基础即可顺利得出答案为antibiotics。\n\n题号：22\n\n定位词：disease-causing, hot, damp regions\n\nB段第三句：Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\n\n题干说“带来疾病的____更容易在热而潮湿的地区被发现\"。考生可直接利用题干中的damp一词定位到原文中的相应出题句，但本句的句式结构略复杂，详细分析可参见前文“佳句赏析”的第一句。不过本题难度不高，因为即使在不能完整看懂全句的情况下，考生也可通过分析题干中disease causing对空格的修饰关系，知道空格中的内容必然是“造成疾病\"的原因;而耐心读原文句时，看懂that can give people this disease这个简单定语从句应当不是难事，可知此从句前的修饰对象就是答案: mosquitos。\n\n题号：23\n\n定位词：cause of pollution, burn, fuel\n\nC段第三句：Part of the problem is, of course,the massive number of cars being driven, in addition to factories that run on coal power.\n\n题干说“造成污染的原因之一是燃烧某种燃料的____”。考生可凭借pollution一词定位到C段的第二句话，继续向下文阅读便可找到造成污染的两个原因是cars和factories,再利用题干信息的限定“燃烧某种燃料”，即使不知道run on表示“利用..作为能源支持”，也应该对coal(煤炭)作为能源燃料的词义有所认知，从而确定答案是factories。\n\n题号：24\n\n定位词：growth of cities, impact, nearby\n\nC段第四句：The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\n\n题干说“城市的拓展常常会对周围的____产生影响”。关于本句的详细分析，在“佳句赏析”第三句和上一个MATCHING题型中都有涉及，此处不再赘述。考生可直接凭借题干中的cities一词定位到此句，再通过分析原文得出答案为forests。\n\n题号：25\n\n定位词：disease, growing after, eradicated\n\nD段第二句：It is an increasingly important area of study in a world where diseases like polio are re-emerging, ...\n\n题干说“____是在被清除之后又开始冒头增长的疾病”。eradicate 一词当之无愧可以成为本文的核心必背词汇，已在若干道题目中作为解题的关键认知信息而出现。本题也是如此，基本上就是在考查考生的词汇基础,只要认识eradicated是“被清除”，即可顺利理解“在被清除之后再次增长”的题干意思。re-词缀表示“重新、再一次”的用法也是阅读文章和题目中的常客，如果考生熟悉emerge是“出现”，则re-emerge即是“再次出现”的意思，正好对应于题干表述，可知答案是polio。\n\n题号：26\n\n定位词：physical barrier, prevent, hospital\n\nG段第四句：Individuals working in the area of the geography of healthcare provision attempt to assess the\n\nlevels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\n\n题干说“例如____这样的物理障碍有可能阻碍人们去医院”。本题的难点主要体现在定位的位置与前面题目距离太远:前一道题出现在文章D段中，考生也能明确分析出本题的题干定位必定是与“人们无法去医院”有关;然而在接下来的E段和F段中却无论如何都找不到与“医院”有关的信息，难免容易心慌。此时应坚定信心，根据对题干的正确判断继续阅读下文，即不难在G段里找到hospital这个原词重现的题干信息，稍加分析此句便可得出答案为mountain。",
+          "promptHtml": "Because there is more contact between people, [21] ______are losing their usefulness."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Disease-causing [22] ______are most likely to be found in hot, damp regions.",
+          "answers": [
+            "mosquitos",
+            "mosquitoes"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6752_381937",
+          "explanation": "题号：20\n\n定位词：disappeared, thanks to, better\n\nA段第一句：While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, ...\n\n题干说“有一些疾病已经消失了，多亏了更好的_____和健康医疗”，可知回到原文中要定位的信息必定是与healthcare构成并列关系的一种导致疾病消失的因素。答案就出在文章开头处的第一段第- 句话, 不过考生如果对eradicated“被清除”的词义缺乏认知，则仍有可能会漏掉它，因为本题干与原文的另外两处对应表达( thanks to对应于原文的due to, better 对应于原文的improvements )也并不特别直白显眼。一旦考生掌握了eradicate这个词汇正是disappear 的同义表述，即可顺利得出答案为vaccinations。至于vaccination“疫苗”这个答案词汇本身考生是否认识，倒是不影响顺利做答。\n\n题号：21\n\n定位词：more contact between people, losing usefulness\n\nA段第二、三句：In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result,super-viruses and other infections resistant to antibiotics are becoming more and more common.\n\n题干说“由于人们之间有了更多的接触，______正在失去它们的效用” 。考生根据题干中的more contact即可直接定位到A段的第二句话，再根据第三句开头的as a result确认答案应该是出自此句，因此要找到出题处并不困难。不过本题还是考查了考生是否认识resistant这个词汇正是对应了题干中的“失去效用”，只要有此词汇基础即可顺利得出答案为antibiotics。\n\n题号：22\n\n定位词：disease-causing, hot, damp regions\n\nB段第三句：Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\n\n题干说“带来疾病的____更容易在热而潮湿的地区被发现\"。考生可直接利用题干中的damp一词定位到原文中的相应出题句，但本句的句式结构略复杂，详细分析可参见前文“佳句赏析”的第一句。不过本题难度不高，因为即使在不能完整看懂全句的情况下，考生也可通过分析题干中disease causing对空格的修饰关系，知道空格中的内容必然是“造成疾病\"的原因;而耐心读原文句时，看懂that can give people this disease这个简单定语从句应当不是难事，可知此从句前的修饰对象就是答案: mosquitos。\n\n题号：23\n\n定位词：cause of pollution, burn, fuel\n\nC段第三句：Part of the problem is, of course,the massive number of cars being driven, in addition to factories that run on coal power.\n\n题干说“造成污染的原因之一是燃烧某种燃料的____”。考生可凭借pollution一词定位到C段的第二句话，继续向下文阅读便可找到造成污染的两个原因是cars和factories,再利用题干信息的限定“燃烧某种燃料”，即使不知道run on表示“利用..作为能源支持”，也应该对coal(煤炭)作为能源燃料的词义有所认知，从而确定答案是factories。\n\n题号：24\n\n定位词：growth of cities, impact, nearby\n\nC段第四句：The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\n\n题干说“城市的拓展常常会对周围的____产生影响”。关于本句的详细分析，在“佳句赏析”第三句和上一个MATCHING题型中都有涉及，此处不再赘述。考生可直接凭借题干中的cities一词定位到此句，再通过分析原文得出答案为forests。\n\n题号：25\n\n定位词：disease, growing after, eradicated\n\nD段第二句：It is an increasingly important area of study in a world where diseases like polio are re-emerging, ...\n\n题干说“____是在被清除之后又开始冒头增长的疾病”。eradicate 一词当之无愧可以成为本文的核心必背词汇，已在若干道题目中作为解题的关键认知信息而出现。本题也是如此，基本上就是在考查考生的词汇基础,只要认识eradicated是“被清除”，即可顺利理解“在被清除之后再次增长”的题干意思。re-词缀表示“重新、再一次”的用法也是阅读文章和题目中的常客，如果考生熟悉emerge是“出现”，则re-emerge即是“再次出现”的意思，正好对应于题干表述，可知答案是polio。\n\n题号：26\n\n定位词：physical barrier, prevent, hospital\n\nG段第四句：Individuals working in the area of the geography of healthcare provision attempt to assess the\n\nlevels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\n\n题干说“例如____这样的物理障碍有可能阻碍人们去医院”。本题的难点主要体现在定位的位置与前面题目距离太远:前一道题出现在文章D段中，考生也能明确分析出本题的题干定位必定是与“人们无法去医院”有关;然而在接下来的E段和F段中却无论如何都找不到与“医院”有关的信息，难免容易心慌。此时应坚定信心，根据对题干的正确判断继续阅读下文，即不难在G段里找到hospital这个原词重现的题干信息，稍加分析此句便可得出答案为mountain。",
+          "promptHtml": "Disease-causing [22] ______are most likely to be found in hot, damp regions."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "One cause of pollution is [23] ______that burn a particular fuel.",
+          "answers": [
+            "factories"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6752_714102",
+          "explanation": "题号：20\n\n定位词：disappeared, thanks to, better\n\nA段第一句：While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, ...\n\n题干说“有一些疾病已经消失了，多亏了更好的_____和健康医疗”，可知回到原文中要定位的信息必定是与healthcare构成并列关系的一种导致疾病消失的因素。答案就出在文章开头处的第一段第- 句话, 不过考生如果对eradicated“被清除”的词义缺乏认知，则仍有可能会漏掉它，因为本题干与原文的另外两处对应表达( thanks to对应于原文的due to, better 对应于原文的improvements )也并不特别直白显眼。一旦考生掌握了eradicate这个词汇正是disappear 的同义表述，即可顺利得出答案为vaccinations。至于vaccination“疫苗”这个答案词汇本身考生是否认识，倒是不影响顺利做答。\n\n题号：21\n\n定位词：more contact between people, losing usefulness\n\nA段第二、三句：In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result,super-viruses and other infections resistant to antibiotics are becoming more and more common.\n\n题干说“由于人们之间有了更多的接触，______正在失去它们的效用” 。考生根据题干中的more contact即可直接定位到A段的第二句话，再根据第三句开头的as a result确认答案应该是出自此句，因此要找到出题处并不困难。不过本题还是考查了考生是否认识resistant这个词汇正是对应了题干中的“失去效用”，只要有此词汇基础即可顺利得出答案为antibiotics。\n\n题号：22\n\n定位词：disease-causing, hot, damp regions\n\nB段第三句：Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\n\n题干说“带来疾病的____更容易在热而潮湿的地区被发现\"。考生可直接利用题干中的damp一词定位到原文中的相应出题句，但本句的句式结构略复杂，详细分析可参见前文“佳句赏析”的第一句。不过本题难度不高，因为即使在不能完整看懂全句的情况下，考生也可通过分析题干中disease causing对空格的修饰关系，知道空格中的内容必然是“造成疾病\"的原因;而耐心读原文句时，看懂that can give people this disease这个简单定语从句应当不是难事，可知此从句前的修饰对象就是答案: mosquitos。\n\n题号：23\n\n定位词：cause of pollution, burn, fuel\n\nC段第三句：Part of the problem is, of course,the massive number of cars being driven, in addition to factories that run on coal power.\n\n题干说“造成污染的原因之一是燃烧某种燃料的____”。考生可凭借pollution一词定位到C段的第二句话，继续向下文阅读便可找到造成污染的两个原因是cars和factories,再利用题干信息的限定“燃烧某种燃料”，即使不知道run on表示“利用..作为能源支持”，也应该对coal(煤炭)作为能源燃料的词义有所认知，从而确定答案是factories。\n\n题号：24\n\n定位词：growth of cities, impact, nearby\n\nC段第四句：The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\n\n题干说“城市的拓展常常会对周围的____产生影响”。关于本句的详细分析，在“佳句赏析”第三句和上一个MATCHING题型中都有涉及，此处不再赘述。考生可直接凭借题干中的cities一词定位到此句，再通过分析原文得出答案为forests。\n\n题号：25\n\n定位词：disease, growing after, eradicated\n\nD段第二句：It is an increasingly important area of study in a world where diseases like polio are re-emerging, ...\n\n题干说“____是在被清除之后又开始冒头增长的疾病”。eradicate 一词当之无愧可以成为本文的核心必背词汇，已在若干道题目中作为解题的关键认知信息而出现。本题也是如此，基本上就是在考查考生的词汇基础,只要认识eradicated是“被清除”，即可顺利理解“在被清除之后再次增长”的题干意思。re-词缀表示“重新、再一次”的用法也是阅读文章和题目中的常客，如果考生熟悉emerge是“出现”，则re-emerge即是“再次出现”的意思，正好对应于题干表述，可知答案是polio。\n\n题号：26\n\n定位词：physical barrier, prevent, hospital\n\nG段第四句：Individuals working in the area of the geography of healthcare provision attempt to assess the\n\nlevels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\n\n题干说“例如____这样的物理障碍有可能阻碍人们去医院”。本题的难点主要体现在定位的位置与前面题目距离太远:前一道题出现在文章D段中，考生也能明确分析出本题的题干定位必定是与“人们无法去医院”有关;然而在接下来的E段和F段中却无论如何都找不到与“医院”有关的信息，难免容易心慌。此时应坚定信心，根据对题干的正确判断继续阅读下文，即不难在G段里找到hospital这个原词重现的题干信息，稍加分析此句便可得出答案为mountain。",
+          "promptHtml": "One cause of pollution is [23] ______that burn a particular fuel."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "The growth of cities often has an impact on nearby [24] ______",
+          "answers": [
+            "forests"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6752_575021",
+          "explanation": "题号：20\n\n定位词：disappeared, thanks to, better\n\nA段第一句：While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, ...\n\n题干说“有一些疾病已经消失了，多亏了更好的_____和健康医疗”，可知回到原文中要定位的信息必定是与healthcare构成并列关系的一种导致疾病消失的因素。答案就出在文章开头处的第一段第- 句话, 不过考生如果对eradicated“被清除”的词义缺乏认知，则仍有可能会漏掉它，因为本题干与原文的另外两处对应表达( thanks to对应于原文的due to, better 对应于原文的improvements )也并不特别直白显眼。一旦考生掌握了eradicate这个词汇正是disappear 的同义表述，即可顺利得出答案为vaccinations。至于vaccination“疫苗”这个答案词汇本身考生是否认识，倒是不影响顺利做答。\n\n题号：21\n\n定位词：more contact between people, losing usefulness\n\nA段第二、三句：In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result,super-viruses and other infections resistant to antibiotics are becoming more and more common.\n\n题干说“由于人们之间有了更多的接触，______正在失去它们的效用” 。考生根据题干中的more contact即可直接定位到A段的第二句话，再根据第三句开头的as a result确认答案应该是出自此句，因此要找到出题处并不困难。不过本题还是考查了考生是否认识resistant这个词汇正是对应了题干中的“失去效用”，只要有此词汇基础即可顺利得出答案为antibiotics。\n\n题号：22\n\n定位词：disease-causing, hot, damp regions\n\nB段第三句：Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\n\n题干说“带来疾病的____更容易在热而潮湿的地区被发现\"。考生可直接利用题干中的damp一词定位到原文中的相应出题句，但本句的句式结构略复杂，详细分析可参见前文“佳句赏析”的第一句。不过本题难度不高，因为即使在不能完整看懂全句的情况下，考生也可通过分析题干中disease causing对空格的修饰关系，知道空格中的内容必然是“造成疾病\"的原因;而耐心读原文句时，看懂that can give people this disease这个简单定语从句应当不是难事，可知此从句前的修饰对象就是答案: mosquitos。\n\n题号：23\n\n定位词：cause of pollution, burn, fuel\n\nC段第三句：Part of the problem is, of course,the massive number of cars being driven, in addition to factories that run on coal power.\n\n题干说“造成污染的原因之一是燃烧某种燃料的____”。考生可凭借pollution一词定位到C段的第二句话，继续向下文阅读便可找到造成污染的两个原因是cars和factories,再利用题干信息的限定“燃烧某种燃料”，即使不知道run on表示“利用..作为能源支持”，也应该对coal(煤炭)作为能源燃料的词义有所认知，从而确定答案是factories。\n\n题号：24\n\n定位词：growth of cities, impact, nearby\n\nC段第四句：The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\n\n题干说“城市的拓展常常会对周围的____产生影响”。关于本句的详细分析，在“佳句赏析”第三句和上一个MATCHING题型中都有涉及，此处不再赘述。考生可直接凭借题干中的cities一词定位到此句，再通过分析原文得出答案为forests。\n\n题号：25\n\n定位词：disease, growing after, eradicated\n\nD段第二句：It is an increasingly important area of study in a world where diseases like polio are re-emerging, ...\n\n题干说“____是在被清除之后又开始冒头增长的疾病”。eradicate 一词当之无愧可以成为本文的核心必背词汇，已在若干道题目中作为解题的关键认知信息而出现。本题也是如此，基本上就是在考查考生的词汇基础,只要认识eradicated是“被清除”，即可顺利理解“在被清除之后再次增长”的题干意思。re-词缀表示“重新、再一次”的用法也是阅读文章和题目中的常客，如果考生熟悉emerge是“出现”，则re-emerge即是“再次出现”的意思，正好对应于题干表述，可知答案是polio。\n\n题号：26\n\n定位词：physical barrier, prevent, hospital\n\nG段第四句：Individuals working in the area of the geography of healthcare provision attempt to assess the\n\nlevels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\n\n题干说“例如____这样的物理障碍有可能阻碍人们去医院”。本题的难点主要体现在定位的位置与前面题目距离太远:前一道题出现在文章D段中，考生也能明确分析出本题的题干定位必定是与“人们无法去医院”有关;然而在接下来的E段和F段中却无论如何都找不到与“医院”有关的信息，难免容易心慌。此时应坚定信心，根据对题干的正确判断继续阅读下文，即不难在G段里找到hospital这个原词重现的题干信息，稍加分析此句便可得出答案为mountain。",
+          "promptHtml": "The growth of cities often has an impact on nearby [24] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "[25] ______is one disease that is growing after having been eradicated.",
+          "answers": [
+            "Polio"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6752_607955",
+          "explanation": "题号：20\n\n定位词：disappeared, thanks to, better\n\nA段第一句：While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, ...\n\n题干说“有一些疾病已经消失了，多亏了更好的_____和健康医疗”，可知回到原文中要定位的信息必定是与healthcare构成并列关系的一种导致疾病消失的因素。答案就出在文章开头处的第一段第- 句话, 不过考生如果对eradicated“被清除”的词义缺乏认知，则仍有可能会漏掉它，因为本题干与原文的另外两处对应表达( thanks to对应于原文的due to, better 对应于原文的improvements )也并不特别直白显眼。一旦考生掌握了eradicate这个词汇正是disappear 的同义表述，即可顺利得出答案为vaccinations。至于vaccination“疫苗”这个答案词汇本身考生是否认识，倒是不影响顺利做答。\n\n题号：21\n\n定位词：more contact between people, losing usefulness\n\nA段第二、三句：In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result,super-viruses and other infections resistant to antibiotics are becoming more and more common.\n\n题干说“由于人们之间有了更多的接触，______正在失去它们的效用” 。考生根据题干中的more contact即可直接定位到A段的第二句话，再根据第三句开头的as a result确认答案应该是出自此句，因此要找到出题处并不困难。不过本题还是考查了考生是否认识resistant这个词汇正是对应了题干中的“失去效用”，只要有此词汇基础即可顺利得出答案为antibiotics。\n\n题号：22\n\n定位词：disease-causing, hot, damp regions\n\nB段第三句：Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\n\n题干说“带来疾病的____更容易在热而潮湿的地区被发现\"。考生可直接利用题干中的damp一词定位到原文中的相应出题句，但本句的句式结构略复杂，详细分析可参见前文“佳句赏析”的第一句。不过本题难度不高，因为即使在不能完整看懂全句的情况下，考生也可通过分析题干中disease causing对空格的修饰关系，知道空格中的内容必然是“造成疾病\"的原因;而耐心读原文句时，看懂that can give people this disease这个简单定语从句应当不是难事，可知此从句前的修饰对象就是答案: mosquitos。\n\n题号：23\n\n定位词：cause of pollution, burn, fuel\n\nC段第三句：Part of the problem is, of course,the massive number of cars being driven, in addition to factories that run on coal power.\n\n题干说“造成污染的原因之一是燃烧某种燃料的____”。考生可凭借pollution一词定位到C段的第二句话，继续向下文阅读便可找到造成污染的两个原因是cars和factories,再利用题干信息的限定“燃烧某种燃料”，即使不知道run on表示“利用..作为能源支持”，也应该对coal(煤炭)作为能源燃料的词义有所认知，从而确定答案是factories。\n\n题号：24\n\n定位词：growth of cities, impact, nearby\n\nC段第四句：The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\n\n题干说“城市的拓展常常会对周围的____产生影响”。关于本句的详细分析，在“佳句赏析”第三句和上一个MATCHING题型中都有涉及，此处不再赘述。考生可直接凭借题干中的cities一词定位到此句，再通过分析原文得出答案为forests。\n\n题号：25\n\n定位词：disease, growing after, eradicated\n\nD段第二句：It is an increasingly important area of study in a world where diseases like polio are re-emerging, ...\n\n题干说“____是在被清除之后又开始冒头增长的疾病”。eradicate 一词当之无愧可以成为本文的核心必背词汇，已在若干道题目中作为解题的关键认知信息而出现。本题也是如此，基本上就是在考查考生的词汇基础,只要认识eradicated是“被清除”，即可顺利理解“在被清除之后再次增长”的题干意思。re-词缀表示“重新、再一次”的用法也是阅读文章和题目中的常客，如果考生熟悉emerge是“出现”，则re-emerge即是“再次出现”的意思，正好对应于题干表述，可知答案是polio。\n\n题号：26\n\n定位词：physical barrier, prevent, hospital\n\nG段第四句：Individuals working in the area of the geography of healthcare provision attempt to assess the\n\nlevels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\n\n题干说“例如____这样的物理障碍有可能阻碍人们去医院”。本题的难点主要体现在定位的位置与前面题目距离太远:前一道题出现在文章D段中，考生也能明确分析出本题的题干定位必定是与“人们无法去医院”有关;然而在接下来的E段和F段中却无论如何都找不到与“医院”有关的信息，难免容易心慌。此时应坚定信心，根据对题干的正确判断继续阅读下文，即不难在G段里找到hospital这个原词重现的题干信息，稍加分析此句便可得出答案为mountain。",
+          "promptHtml": "[25] ______is one disease that is growing after having been eradicated."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "A physical barrier such as a [26] ______can prevent people from reaching a hospital.",
+          "answers": [
+            "mountain"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6752_172737",
+          "explanation": "题号：20\n\n定位词：disappeared, thanks to, better\n\nA段第一句：While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, ...\n\n题干说“有一些疾病已经消失了，多亏了更好的_____和健康医疗”，可知回到原文中要定位的信息必定是与healthcare构成并列关系的一种导致疾病消失的因素。答案就出在文章开头处的第一段第- 句话, 不过考生如果对eradicated“被清除”的词义缺乏认知，则仍有可能会漏掉它，因为本题干与原文的另外两处对应表达( thanks to对应于原文的due to, better 对应于原文的improvements )也并不特别直白显眼。一旦考生掌握了eradicate这个词汇正是disappear 的同义表述，即可顺利得出答案为vaccinations。至于vaccination“疫苗”这个答案词汇本身考生是否认识，倒是不影响顺利做答。\n\n题号：21\n\n定位词：more contact between people, losing usefulness\n\nA段第二、三句：In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result,super-viruses and other infections resistant to antibiotics are becoming more and more common.\n\n题干说“由于人们之间有了更多的接触，______正在失去它们的效用” 。考生根据题干中的more contact即可直接定位到A段的第二句话，再根据第三句开头的as a result确认答案应该是出自此句，因此要找到出题处并不困难。不过本题还是考查了考生是否认识resistant这个词汇正是对应了题干中的“失去效用”，只要有此词汇基础即可顺利得出答案为antibiotics。\n\n题号：22\n\n定位词：disease-causing, hot, damp regions\n\nB段第三句：Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\n\n题干说“带来疾病的____更容易在热而潮湿的地区被发现\"。考生可直接利用题干中的damp一词定位到原文中的相应出题句，但本句的句式结构略复杂，详细分析可参见前文“佳句赏析”的第一句。不过本题难度不高，因为即使在不能完整看懂全句的情况下，考生也可通过分析题干中disease causing对空格的修饰关系，知道空格中的内容必然是“造成疾病\"的原因;而耐心读原文句时，看懂that can give people this disease这个简单定语从句应当不是难事，可知此从句前的修饰对象就是答案: mosquitos。\n\n题号：23\n\n定位词：cause of pollution, burn, fuel\n\nC段第三句：Part of the problem is, of course,the massive number of cars being driven, in addition to factories that run on coal power.\n\n题干说“造成污染的原因之一是燃烧某种燃料的____”。考生可凭借pollution一词定位到C段的第二句话，继续向下文阅读便可找到造成污染的两个原因是cars和factories,再利用题干信息的限定“燃烧某种燃料”，即使不知道run on表示“利用..作为能源支持”，也应该对coal(煤炭)作为能源燃料的词义有所认知，从而确定答案是factories。\n\n题号：24\n\n定位词：growth of cities, impact, nearby\n\nC段第四句：The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\n\n题干说“城市的拓展常常会对周围的____产生影响”。关于本句的详细分析，在“佳句赏析”第三句和上一个MATCHING题型中都有涉及，此处不再赘述。考生可直接凭借题干中的cities一词定位到此句，再通过分析原文得出答案为forests。\n\n题号：25\n\n定位词：disease, growing after, eradicated\n\nD段第二句：It is an increasingly important area of study in a world where diseases like polio are re-emerging, ...\n\n题干说“____是在被清除之后又开始冒头增长的疾病”。eradicate 一词当之无愧可以成为本文的核心必背词汇，已在若干道题目中作为解题的关键认知信息而出现。本题也是如此，基本上就是在考查考生的词汇基础,只要认识eradicated是“被清除”，即可顺利理解“在被清除之后再次增长”的题干意思。re-词缀表示“重新、再一次”的用法也是阅读文章和题目中的常客，如果考生熟悉emerge是“出现”，则re-emerge即是“再次出现”的意思，正好对应于题干表述，可知答案是polio。\n\n题号：26\n\n定位词：physical barrier, prevent, hospital\n\nG段第四句：Individuals working in the area of the geography of healthcare provision attempt to assess the\n\nlevels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\n\n题干说“例如____这样的物理障碍有可能阻碍人们去医院”。本题的难点主要体现在定位的位置与前面题目距离太远:前一道题出现在文章D段中，考生也能明确分析出本题的题干定位必定是与“人们无法去医院”有关;然而在接下来的E段和F段中却无论如何都找不到与“医院”有关的信息，难免容易心慌。此时应坚定信心，根据对题干的正确判断继续阅读下文，即不难在G段里找到hospital这个原词重现的题干信息，稍加分析此句便可得出答案为mountain。",
+          "promptHtml": "A physical barrier such as a [26] ______can prevent people from reaching a hospital."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Certain diseases have disappeared, thanks to better <strong>[20] ______</strong>and healthcare.</p>\n\n<p>Because there is more contact between people, <strong>[21] ______</strong>are losing their usefulness.</p>\n\n<p>Disease-causing <strong>[22] ______</strong>are most likely to be found in hot, damp regions.</p>\n\n<p>One cause of pollution is <strong>[23] ______</strong>that burn a particular fuel.</p>\n\n<p>The growth of cities often has an impact on nearby <strong>[24] ______</strong></p>\n\n<p><strong>[25] ______</strong>is one disease that is growing after having been eradicated.</p>\n\n<p>A physical barrier such as a <strong>[26] ______</strong>can prevent people from reaching a hospital.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The Intersection of Health Sciences and Geography</strong></span></p><p><strong>A</strong>    While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent. In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common.</p><p><strong>B</strong>    Geography can often play a very large role in the health concerns of certain populations. For instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region. Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow. Malaria is much less of a problem in high-altitude deserts, for instance.</p><p><strong>C </strong>   In some countries, geographical factors influence the health and well-being of the population in very obvious ways. In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there. Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power. The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.</p><p><strong>D </strong>   It is in situations like these that the field of health geography comes into its own. It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure. Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world. The aim of this hybrid science is to create solutions for common geography-based health problems. While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future. By understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations.</p><p><strong>E </strong>   The geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two. Health geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area. Health geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population.</p><p><strong>F </strong>   Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales. Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.</p><p><strong>G</strong>    The second subcategory of health geography is the geography of healthcare provision. This group studies the availability (or lack there of) of healthcare resources to individuals and populations around the world. In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education. Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital). These researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others.</p><p><strong>H</strong>    The field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare. If we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well.</p>"
+}

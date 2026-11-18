@@ -1,0 +1,249 @@
+{
+  "id": "cambridge-20-test-2-reading-1",
+  "title": "Manatees",
+  "titleCn": "Manatees",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 2
+  },
+  "sourceQuestionId": "8551",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8551",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Manatees"
+    },
+    {
+      "label": "2",
+      "text": "Manatees, also known as sea cows, are aquatic mammals that belong to a group of animals called Sirenia. This group also contains dugongs. Dugongs and manatees look quite alike – they are similar in size, colour and shape, and both have flexible flippers for forelimbs. However, the manatee has a broad, rounded tail, whereas the dugong’s is fluked, like that of a whale. There are three species of manatees: the West Indian manatee (Trichechus manatus), the African manatee (Trichechus senegalensis) and the Amazonian manatee (Trichechus inunguis)."
+    },
+    {
+      "label": "3",
+      "text": "Unlike most mammals, manatees have only six bones in their neck – most others, including humans and giraffes, have seven. This short neck allows a manatee to move its head up and down, but not side to side. To see something on its left or its right, a manatee must turn its entire body, steering with its flippers. Manatees have pectoral flippers but no back limbs, only a tail for propulsion. They do have pelvic bones, however – a leftover from their evolution from a four-legged to a fully aquatic animal. Manatees share some visual similarities to elephants. Like elephants, manatees have thick, wrinkled skin. They also have some hairs covering their bodies which help them sense vibrations in the water around them."
+    },
+    {
+      "label": "4",
+      "text": "Seagrasses and other marine plants make up most of a manatee’s diet. Manatees spend about eight hours each day grazing and uprooting plants. They eat up to 15% of their weight in food each day. African manatees are omnivorous – studies have shown that molluscs and fish make up a small part of their diets. West Indian and Amazonian manatees are both herbivores."
+    },
+    {
+      "label": "5",
+      "text": "Manatees’ teeth are all molars – flat, rounded teeth for grinding food. Due to manatees’ abrasive aquatic plant diet, these teeth get worn down and they eventually fall out, so they continually grow new teeth that get pushed forward to replace the ones they lose. Instead of having incisors to grasp their food, manatees have lips which function like a pair of hands to help tear food away from the seafloor."
+    },
+    {
+      "label": "6",
+      "text": "Manatees are fully aquatic, but as mammals, they need to come up to the surface to breathe. When awake, they typically surface every two to four minutes, but they can hold their breath for much longer. Adult manatees sleep underwater for 10–12 hours a day, but they come up for air every 15–20 minutes. Active manatees need to breathe more frequently. It’s thought that manatees use their muscular diaphragm and breathing to adjust their buoyancy. They may use diaphragm contractions to compress and store gas in folds in their large intestine to help them float."
+    },
+    {
+      "label": "7",
+      "text": "The West Indian manatee reaches about 3.5 metres long and weighs on average around 500 kilogrammes. It moves between fresh water and salt water, taking advantage of coastal mangroves and coral reefs, rivers, lakes and inland lagoons. There are two subspecies of West Indian manatee: the Antillean manatee is found in waters from the Bahamas to Brazil, whereas the Florida manatee is found in US waters, although some individuals have been recorded in the Bahamas. In winter, the Florida manatee is typically restricted to Florida. When the ambient water temperature drops below 20ºC, it takes refuge in naturally and artificially warmed water, such as at the warm-water outfalls from powerplants."
+    },
+    {
+      "label": "8",
+      "text": "The African manatee is also about 3.5 metres long and found in the sea along the west coast of Africa, from Mauritania down to Angola. The species also makes use of rivers, with the mammals seen in landlocked countries such as Mali and Niger."
+    },
+    {
+      "label": "9",
+      "text": "The Amazonian manatee is the smallest species, though it is still a big animal. It grows to about 2.5 metres long and 350 kilogrammes. Amazonian manatees favour calm, shallow waters that are above 23ºC. This species is found in fresh water in the Amazon Basin in Brazil, as well as in Colombia, Ecuador and Peru."
+    },
+    {
+      "label": "10",
+      "text": "All three manatee species are endangered or at a heightened risk of extinction. The African manatee and Amazonian manatee are both listed as Vulnerable by the International Union for Conservation of Nature (IUCN). It is estimated that 140,000. Amazonian manatees were killed between 1935 and 1954 for their meat, fat and skin, with the latter used to make leather. In more recent years, African manatee decline has been tied to incidental capture in fishing nets and hunting. Manatee hunting is now illegal in every country the African species is found in."
+    },
+    {
+      "label": "11",
+      "text": "The two subspecies of West Indian manatee are listed as Endangered by the IUCN. Both are also expected to undergo a decline of 20% over the next 40 years. A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that at least 700 cases involved manatees. The chief cause of death in Florida manatees is boat strikes. However, laws in certain parts of Florida now limit boat speeds during winter, allowing slow-moving manatees more time to respond."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–6\n\nComplete the notes below.\n\nChoose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "· look similar to dugongs, but with a differently shaped [1] ______",
+          "answers": [
+            "tail"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8551_341771",
+          "explanation": "1. 译文：与儒艮外形相似，但是有着不同形状的 ______\n\n本题的定位非常靠前，考生即使并不认识dugong这个可能略生僻的词汇，也能很快在第一段的第二句里快速找到原词重现。不过，仍需耐心从定位处向后多看两句。第三句说的是海牛和儒艮的相似之处，到了第四句才提及二者的尾巴形状不同，由此可知空格内的答案应当为tail。\n\n2. 译文：需要运用它们的______来翻转身体以看到身侧的景象\n\n本题的出现位置虽然距离上一题略远，但只要考生耐心来到第二段第三句话，就能看到turn its entire body这个几乎原样重现的题干信息，且本句中的“为了看到左侧或右侧”也能对应上题干所说的look sideways，分析这个句子的成分就能看出来，帮助它们转动身体看向左右的部位就是空格内的应有答案flippers。\n\n至于考生是否认识flippers这个单词，其实对解题并没有什么影响。这句话对应的原文句详细分析，可以参见前文“佳句赏析”中的第一句。\n\n3. 译文：感受水中的波动靠的是皮肤上的______。\n\n题干中的sense vibrations这两个词原样重现在了第二段的最后一句话里，因此本题的定位不可谓不友好。分析这个句子可知，帮助海牛感受水中波动的，是长在它们全身的毛发，于是空格中的答案当然就是hairs。\n\n4. 译文：主要吃水生植物，例如______。\n\n读懂题干可知，空格内需要的是一种作为海牛食物的具体水生植物。而本题的定位紧挨上一题，考生一进入第三段就能在第一句里看到对应题干eat和vegetation信息的diet和plants，是海草和其它水生植物构成了海牛的主要食谱，因而也就不难看出答案应当是seagrasses。\n\n5. 译文：用它们的______来抓住和拔起植物。\n\n本题的同义替换设计十分用心，对比之下没有任何一个题干中的词汇在原文中是一模一样出现的；但是由于无论题干还是原文句本身所使用的单词都实在是过于基础，所以这种替换应当也并不会干扰到耐心阅读的考生。原文中描述海牛用来从海床上抓住和拔起食物的部位，是它们的双唇，因此空格中的答案当然就是lips。\n\n6. 译文：可以通过使用横膈膜肌肉在身体内部储存空气的方式来调节它们身体的______。\n\n本题可能是这个填空题型中相对最难的一道。首先是题干较长，结构略复杂；其次还使用了“横膈膜”这样的生僻词汇来吓唬考生；而且距离上一题较远、隔了几乎一个段落的篇幅；最后，最关键的提示词regulate回到原文中还换成了adjust。不过，以上这些设计对于采用平行阅读、耐心依次读懂文章的考生来说，其实并不太构成障碍。读懂第五段倒数第二句话后可知，海牛通过强有力的diaphragm和呼吸来调节自己的buoyancy；不过，此时还未出现题干中的另一条信息，“在身体内部储存空气”，因此谨慎的考生可能还会再耐心向后多看一句，就会遇到“海牛压缩空气储藏在大肠褶皱中”这个对应信息，于是结合两句话的内容、更加笃定地选择答案为buoyancy。\n\n至于考生是否认识buoyancy这个单词，其实对解题并没有什么影响。这也正是填空题的一大优点：即使并不认识答案词，通过精读分析对比也有可能正确解题。",
+          "promptHtml": "· look similar to dugongs, but with a differently shaped [1] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "· need to use their [2] ______to help to turn their bodies around in order to look sideways",
+          "answers": [
+            "flippers"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8551_511503",
+          "explanation": "1. 译文：与儒艮外形相似，但是有着不同形状的 ______\n\n本题的定位非常靠前，考生即使并不认识dugong这个可能略生僻的词汇，也能很快在第一段的第二句里快速找到原词重现。不过，仍需耐心从定位处向后多看两句。第三句说的是海牛和儒艮的相似之处，到了第四句才提及二者的尾巴形状不同，由此可知空格内的答案应当为tail。\n\n2. 译文：需要运用它们的______来翻转身体以看到身侧的景象\n\n本题的出现位置虽然距离上一题略远，但只要考生耐心来到第二段第三句话，就能看到turn its entire body这个几乎原样重现的题干信息，且本句中的“为了看到左侧或右侧”也能对应上题干所说的look sideways，分析这个句子的成分就能看出来，帮助它们转动身体看向左右的部位就是空格内的应有答案flippers。\n\n至于考生是否认识flippers这个单词，其实对解题并没有什么影响。这句话对应的原文句详细分析，可以参见前文“佳句赏析”中的第一句。\n\n3. 译文：感受水中的波动靠的是皮肤上的______。\n\n题干中的sense vibrations这两个词原样重现在了第二段的最后一句话里，因此本题的定位不可谓不友好。分析这个句子可知，帮助海牛感受水中波动的，是长在它们全身的毛发，于是空格中的答案当然就是hairs。\n\n4. 译文：主要吃水生植物，例如______。\n\n读懂题干可知，空格内需要的是一种作为海牛食物的具体水生植物。而本题的定位紧挨上一题，考生一进入第三段就能在第一句里看到对应题干eat和vegetation信息的diet和plants，是海草和其它水生植物构成了海牛的主要食谱，因而也就不难看出答案应当是seagrasses。\n\n5. 译文：用它们的______来抓住和拔起植物。\n\n本题的同义替换设计十分用心，对比之下没有任何一个题干中的词汇在原文中是一模一样出现的；但是由于无论题干还是原文句本身所使用的单词都实在是过于基础，所以这种替换应当也并不会干扰到耐心阅读的考生。原文中描述海牛用来从海床上抓住和拔起食物的部位，是它们的双唇，因此空格中的答案当然就是lips。\n\n6. 译文：可以通过使用横膈膜肌肉在身体内部储存空气的方式来调节它们身体的______。\n\n本题可能是这个填空题型中相对最难的一道。首先是题干较长，结构略复杂；其次还使用了“横膈膜”这样的生僻词汇来吓唬考生；而且距离上一题较远、隔了几乎一个段落的篇幅；最后，最关键的提示词regulate回到原文中还换成了adjust。不过，以上这些设计对于采用平行阅读、耐心依次读懂文章的考生来说，其实并不太构成障碍。读懂第五段倒数第二句话后可知，海牛通过强有力的diaphragm和呼吸来调节自己的buoyancy；不过，此时还未出现题干中的另一条信息，“在身体内部储存空气”，因此谨慎的考生可能还会再耐心向后多看一句，就会遇到“海牛压缩空气储藏在大肠褶皱中”这个对应信息，于是结合两句话的内容、更加笃定地选择答案为buoyancy。\n\n至于考生是否认识buoyancy这个单词，其实对解题并没有什么影响。这也正是填空题的一大优点：即使并不认识答案词，通过精读分析对比也有可能正确解题。",
+          "promptHtml": "· need to use their [2] ______to help to turn their bodies around in order to look sideways"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "· sense vibrations in the water by means of [3] ______on their skin",
+          "answers": [
+            "hairs"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8551_559106",
+          "explanation": "1. 译文：与儒艮外形相似，但是有着不同形状的 ______\n\n本题的定位非常靠前，考生即使并不认识dugong这个可能略生僻的词汇，也能很快在第一段的第二句里快速找到原词重现。不过，仍需耐心从定位处向后多看两句。第三句说的是海牛和儒艮的相似之处，到了第四句才提及二者的尾巴形状不同，由此可知空格内的答案应当为tail。\n\n2. 译文：需要运用它们的______来翻转身体以看到身侧的景象\n\n本题的出现位置虽然距离上一题略远，但只要考生耐心来到第二段第三句话，就能看到turn its entire body这个几乎原样重现的题干信息，且本句中的“为了看到左侧或右侧”也能对应上题干所说的look sideways，分析这个句子的成分就能看出来，帮助它们转动身体看向左右的部位就是空格内的应有答案flippers。\n\n至于考生是否认识flippers这个单词，其实对解题并没有什么影响。这句话对应的原文句详细分析，可以参见前文“佳句赏析”中的第一句。\n\n3. 译文：感受水中的波动靠的是皮肤上的______。\n\n题干中的sense vibrations这两个词原样重现在了第二段的最后一句话里，因此本题的定位不可谓不友好。分析这个句子可知，帮助海牛感受水中波动的，是长在它们全身的毛发，于是空格中的答案当然就是hairs。\n\n4. 译文：主要吃水生植物，例如______。\n\n读懂题干可知，空格内需要的是一种作为海牛食物的具体水生植物。而本题的定位紧挨上一题，考生一进入第三段就能在第一句里看到对应题干eat和vegetation信息的diet和plants，是海草和其它水生植物构成了海牛的主要食谱，因而也就不难看出答案应当是seagrasses。\n\n5. 译文：用它们的______来抓住和拔起植物。\n\n本题的同义替换设计十分用心，对比之下没有任何一个题干中的词汇在原文中是一模一样出现的；但是由于无论题干还是原文句本身所使用的单词都实在是过于基础，所以这种替换应当也并不会干扰到耐心阅读的考生。原文中描述海牛用来从海床上抓住和拔起食物的部位，是它们的双唇，因此空格中的答案当然就是lips。\n\n6. 译文：可以通过使用横膈膜肌肉在身体内部储存空气的方式来调节它们身体的______。\n\n本题可能是这个填空题型中相对最难的一道。首先是题干较长，结构略复杂；其次还使用了“横膈膜”这样的生僻词汇来吓唬考生；而且距离上一题较远、隔了几乎一个段落的篇幅；最后，最关键的提示词regulate回到原文中还换成了adjust。不过，以上这些设计对于采用平行阅读、耐心依次读懂文章的考生来说，其实并不太构成障碍。读懂第五段倒数第二句话后可知，海牛通过强有力的diaphragm和呼吸来调节自己的buoyancy；不过，此时还未出现题干中的另一条信息，“在身体内部储存空气”，因此谨慎的考生可能还会再耐心向后多看一句，就会遇到“海牛压缩空气储藏在大肠褶皱中”这个对应信息，于是结合两句话的内容、更加笃定地选择答案为buoyancy。\n\n至于考生是否认识buoyancy这个单词，其实对解题并没有什么影响。这也正是填空题的一大优点：即使并不认识答案词，通过精读分析对比也有可能正确解题。",
+          "promptHtml": "· sense vibrations in the water by means of [3] ______on their skin"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "· eat mainly aquatic vegetation, such as [4] ______.",
+          "answers": [
+            "seagrasses"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8551_519371",
+          "explanation": "1. 译文：与儒艮外形相似，但是有着不同形状的 ______\n\n本题的定位非常靠前，考生即使并不认识dugong这个可能略生僻的词汇，也能很快在第一段的第二句里快速找到原词重现。不过，仍需耐心从定位处向后多看两句。第三句说的是海牛和儒艮的相似之处，到了第四句才提及二者的尾巴形状不同，由此可知空格内的答案应当为tail。\n\n2. 译文：需要运用它们的______来翻转身体以看到身侧的景象\n\n本题的出现位置虽然距离上一题略远，但只要考生耐心来到第二段第三句话，就能看到turn its entire body这个几乎原样重现的题干信息，且本句中的“为了看到左侧或右侧”也能对应上题干所说的look sideways，分析这个句子的成分就能看出来，帮助它们转动身体看向左右的部位就是空格内的应有答案flippers。\n\n至于考生是否认识flippers这个单词，其实对解题并没有什么影响。这句话对应的原文句详细分析，可以参见前文“佳句赏析”中的第一句。\n\n3. 译文：感受水中的波动靠的是皮肤上的______。\n\n题干中的sense vibrations这两个词原样重现在了第二段的最后一句话里，因此本题的定位不可谓不友好。分析这个句子可知，帮助海牛感受水中波动的，是长在它们全身的毛发，于是空格中的答案当然就是hairs。\n\n4. 译文：主要吃水生植物，例如______。\n\n读懂题干可知，空格内需要的是一种作为海牛食物的具体水生植物。而本题的定位紧挨上一题，考生一进入第三段就能在第一句里看到对应题干eat和vegetation信息的diet和plants，是海草和其它水生植物构成了海牛的主要食谱，因而也就不难看出答案应当是seagrasses。\n\n5. 译文：用它们的______来抓住和拔起植物。\n\n本题的同义替换设计十分用心，对比之下没有任何一个题干中的词汇在原文中是一模一样出现的；但是由于无论题干还是原文句本身所使用的单词都实在是过于基础，所以这种替换应当也并不会干扰到耐心阅读的考生。原文中描述海牛用来从海床上抓住和拔起食物的部位，是它们的双唇，因此空格中的答案当然就是lips。\n\n6. 译文：可以通过使用横膈膜肌肉在身体内部储存空气的方式来调节它们身体的______。\n\n本题可能是这个填空题型中相对最难的一道。首先是题干较长，结构略复杂；其次还使用了“横膈膜”这样的生僻词汇来吓唬考生；而且距离上一题较远、隔了几乎一个段落的篇幅；最后，最关键的提示词regulate回到原文中还换成了adjust。不过，以上这些设计对于采用平行阅读、耐心依次读懂文章的考生来说，其实并不太构成障碍。读懂第五段倒数第二句话后可知，海牛通过强有力的diaphragm和呼吸来调节自己的buoyancy；不过，此时还未出现题干中的另一条信息，“在身体内部储存空气”，因此谨慎的考生可能还会再耐心向后多看一句，就会遇到“海牛压缩空气储藏在大肠褶皱中”这个对应信息，于是结合两句话的内容、更加笃定地选择答案为buoyancy。\n\n至于考生是否认识buoyancy这个单词，其实对解题并没有什么影响。这也正是填空题的一大优点：即使并不认识答案词，通过精读分析对比也有可能正确解题。",
+          "promptHtml": "· eat mainly aquatic vegetation, such as [4] ______."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "· grasp and pull up plants with their [5] ______.",
+          "answers": [
+            "lips"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8551_967027",
+          "explanation": "1. 译文：与儒艮外形相似，但是有着不同形状的 ______\n\n本题的定位非常靠前，考生即使并不认识dugong这个可能略生僻的词汇，也能很快在第一段的第二句里快速找到原词重现。不过，仍需耐心从定位处向后多看两句。第三句说的是海牛和儒艮的相似之处，到了第四句才提及二者的尾巴形状不同，由此可知空格内的答案应当为tail。\n\n2. 译文：需要运用它们的______来翻转身体以看到身侧的景象\n\n本题的出现位置虽然距离上一题略远，但只要考生耐心来到第二段第三句话，就能看到turn its entire body这个几乎原样重现的题干信息，且本句中的“为了看到左侧或右侧”也能对应上题干所说的look sideways，分析这个句子的成分就能看出来，帮助它们转动身体看向左右的部位就是空格内的应有答案flippers。\n\n至于考生是否认识flippers这个单词，其实对解题并没有什么影响。这句话对应的原文句详细分析，可以参见前文“佳句赏析”中的第一句。\n\n3. 译文：感受水中的波动靠的是皮肤上的______。\n\n题干中的sense vibrations这两个词原样重现在了第二段的最后一句话里，因此本题的定位不可谓不友好。分析这个句子可知，帮助海牛感受水中波动的，是长在它们全身的毛发，于是空格中的答案当然就是hairs。\n\n4. 译文：主要吃水生植物，例如______。\n\n读懂题干可知，空格内需要的是一种作为海牛食物的具体水生植物。而本题的定位紧挨上一题，考生一进入第三段就能在第一句里看到对应题干eat和vegetation信息的diet和plants，是海草和其它水生植物构成了海牛的主要食谱，因而也就不难看出答案应当是seagrasses。\n\n5. 译文：用它们的______来抓住和拔起植物。\n\n本题的同义替换设计十分用心，对比之下没有任何一个题干中的词汇在原文中是一模一样出现的；但是由于无论题干还是原文句本身所使用的单词都实在是过于基础，所以这种替换应当也并不会干扰到耐心阅读的考生。原文中描述海牛用来从海床上抓住和拔起食物的部位，是它们的双唇，因此空格中的答案当然就是lips。\n\n6. 译文：可以通过使用横膈膜肌肉在身体内部储存空气的方式来调节它们身体的______。\n\n本题可能是这个填空题型中相对最难的一道。首先是题干较长，结构略复杂；其次还使用了“横膈膜”这样的生僻词汇来吓唬考生；而且距离上一题较远、隔了几乎一个段落的篇幅；最后，最关键的提示词regulate回到原文中还换成了adjust。不过，以上这些设计对于采用平行阅读、耐心依次读懂文章的考生来说，其实并不太构成障碍。读懂第五段倒数第二句话后可知，海牛通过强有力的diaphragm和呼吸来调节自己的buoyancy；不过，此时还未出现题干中的另一条信息，“在身体内部储存空气”，因此谨慎的考生可能还会再耐心向后多看一句，就会遇到“海牛压缩空气储藏在大肠褶皱中”这个对应信息，于是结合两句话的内容、更加笃定地选择答案为buoyancy。\n\n至于考生是否认识buoyancy这个单词，其实对解题并没有什么影响。这也正是填空题的一大优点：即使并不认识答案词，通过精读分析对比也有可能正确解题。",
+          "promptHtml": "· grasp and pull up plants with their [5] ______."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "· may regulate the [6] ______ of their bodies by using muscles of diaphragm to store air internally",
+          "answers": [
+            "buoyancy"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8551_741910",
+          "explanation": "1. 译文：与儒艮外形相似，但是有着不同形状的 ______\n\n本题的定位非常靠前，考生即使并不认识dugong这个可能略生僻的词汇，也能很快在第一段的第二句里快速找到原词重现。不过，仍需耐心从定位处向后多看两句。第三句说的是海牛和儒艮的相似之处，到了第四句才提及二者的尾巴形状不同，由此可知空格内的答案应当为tail。\n\n2. 译文：需要运用它们的______来翻转身体以看到身侧的景象\n\n本题的出现位置虽然距离上一题略远，但只要考生耐心来到第二段第三句话，就能看到turn its entire body这个几乎原样重现的题干信息，且本句中的“为了看到左侧或右侧”也能对应上题干所说的look sideways，分析这个句子的成分就能看出来，帮助它们转动身体看向左右的部位就是空格内的应有答案flippers。\n\n至于考生是否认识flippers这个单词，其实对解题并没有什么影响。这句话对应的原文句详细分析，可以参见前文“佳句赏析”中的第一句。\n\n3. 译文：感受水中的波动靠的是皮肤上的______。\n\n题干中的sense vibrations这两个词原样重现在了第二段的最后一句话里，因此本题的定位不可谓不友好。分析这个句子可知，帮助海牛感受水中波动的，是长在它们全身的毛发，于是空格中的答案当然就是hairs。\n\n4. 译文：主要吃水生植物，例如______。\n\n读懂题干可知，空格内需要的是一种作为海牛食物的具体水生植物。而本题的定位紧挨上一题，考生一进入第三段就能在第一句里看到对应题干eat和vegetation信息的diet和plants，是海草和其它水生植物构成了海牛的主要食谱，因而也就不难看出答案应当是seagrasses。\n\n5. 译文：用它们的______来抓住和拔起植物。\n\n本题的同义替换设计十分用心，对比之下没有任何一个题干中的词汇在原文中是一模一样出现的；但是由于无论题干还是原文句本身所使用的单词都实在是过于基础，所以这种替换应当也并不会干扰到耐心阅读的考生。原文中描述海牛用来从海床上抓住和拔起食物的部位，是它们的双唇，因此空格中的答案当然就是lips。\n\n6. 译文：可以通过使用横膈膜肌肉在身体内部储存空气的方式来调节它们身体的______。\n\n本题可能是这个填空题型中相对最难的一道。首先是题干较长，结构略复杂；其次还使用了“横膈膜”这样的生僻词汇来吓唬考生；而且距离上一题较远、隔了几乎一个段落的篇幅；最后，最关键的提示词regulate回到原文中还换成了adjust。不过，以上这些设计对于采用平行阅读、耐心依次读懂文章的考生来说，其实并不太构成障碍。读懂第五段倒数第二句话后可知，海牛通过强有力的diaphragm和呼吸来调节自己的buoyancy；不过，此时还未出现题干中的另一条信息，“在身体内部储存空气”，因此谨慎的考生可能还会再耐心向后多看一句，就会遇到“海牛压缩空气储藏在大肠褶皱中”这个对应信息，于是结合两句话的内容、更加笃定地选择答案为buoyancy。\n\n至于考生是否认识buoyancy这个单词，其实对解题并没有什么影响。这也正是填空题的一大优点：即使并不认识答案词，通过精读分析对比也有可能正确解题。",
+          "promptHtml": "· may regulate the [6] ______ of their bodies by using muscles of diaphragm to store air internally"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<table>\n\t\t\t\t<tbody>\n\t\t\t\t\t<tr>\n\t\t\t\t\t\t<td>\n\t\t\t\t\t\t<p><b>Manatees</b></p>\n\n\t\t\t\t\t\t<p><b>Appearance</b></p>\n\n\t\t\t\t\t\t<p>· look similar to dugongs, but with a differently shaped <strong>[1] ______</strong></p>\n\n\t\t\t\t\t\t<p><b>Movement</b></p>\n\n\t\t\t\t\t\t<p>· have fewer neck bones than most mammals</p>\n\n\t\t\t\t\t\t<p>· need to use their <strong>[2] ______</strong>to help to turn their bodies around in order to look sideways</p>\n\n\t\t\t\t\t\t<p>· sense vibrations in the water by means of <strong>[3] ______</strong>on their skin</p>\n\n\t\t\t\t\t\t<p><b>Feeding</b></p>\n\n\t\t\t\t\t\t<p>· eat mainly aquatic vegetation, such as <strong>[4] ______</strong>.</p>\n\n\t\t\t\t\t\t<p>· grasp and pull up plants with their <strong>[5] ______</strong>.</p>\n\n\t\t\t\t\t\t<p><b>Breathing</b></p>\n\n\t\t\t\t\t\t<p>· come to the surface for air every 2-4 minutes when awake and every 15-20 while sleeping</p>\n\n\t\t\t\t\t\t<p>· may regulate the <strong>[6] ______</strong> of their bodies by using muscles of diaphragm to store air internally</p>\n\t\t\t\t\t\t</td>\n\t\t\t\t\t</tr>\n\t\t\t\t</tbody>\n\t\t\t</table>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 7–13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "West Indian manatees can be found in a variety of different aquatic habitats.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8551_806429",
+          "explanation": "译文：西印度海牛可见于一系列不同的水域栖息地中。\n\n从文章的第六段开始，本文才分类提及了不同品种的海牛；而本题所包含的West Indian这个名称第一次出现，就是在第六段的开头第一句话里。不过，这句话本身只交代了此品种海牛的身高体重，考生还需耐心向后再看一句，才能在第二句话里看到解题相关信息：这种海牛可以穿梭于淡水和咸水环境，在一系列不同的水域中都可见其身影。句中虽然出现了也许对考生来说略显陌生的mangroves（红树林）和lagoons（泻湖），但同时也包含了rivers和lakes这样的简单词汇，足以让考生看出这是在列举各种水域栖息地，由此得知本题答案为TRUE。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "The Florida manatee lives in warmer waters than the Antillean manatee.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8551_838315",
+          "explanation": "译文：佛罗里达海牛所生活的水域要比安替列海牛的领域更加温暖。\n\n本题的定位并不困难，因为题干中所提及的两种海牛都是大写信息，且都紧随上一题出现在了第六段里。然而，在耐心看完本段内容后，考生不难发现，并未有任何一句话将这两种海牛的栖息地水温进行过比较；虽然关于佛罗里达海牛喜欢温暖水域的信息着墨较多，然而也无法据此证明或证伪它们的栖息地水温一定高于安替列海牛的领地，因此答案为NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "The African manatee’s range is limited to coastal waters between the West African countries of Mauritania and Angola.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8551_411248",
+          "explanation": "译文：非洲海牛的领地局限于西非国家毛里塔尼亚到安哥拉的滨海水域中。\n\n本题一口气包含了三组大写信息，无疑能顺利帮助考生定位到第七段。这段一共只有两句话，第一句确实叙述了非洲海牛可见于从毛里塔尼亚南下到安哥拉的滨海水域中，但却无法据此确认题干中的另一部分信息：非洲海牛只能生活在这个领域范围内；向后看到第二句话就能发现，在一些landlocked countries也就是四面陆地的国家里也能见到这种哺乳动物的身影，这与题干信息明确矛盾，因此答案为FALSE。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "The extent of the loss of Amazonian manatees in the mid-twentieth century was only revealed many years later.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8551_111115",
+          "explanation": "译文：亚马逊海牛在二十世纪中叶的受害程度是在很多年之后才暴露出来的。\n\n本题定位不难，但解题不易。定位不难是因为考生可以顺利凭借“亚马逊”这个大写信息来到第八段开头，而解题不易则是因为看遍了全段，也无法确定其受到的伤害是立竿见影还是久候方显。更有甚者，在接下来的第九段里也不曾出现过与本题题干相关的内容。考生如果不是采用平行阅读的方法，一次性带着对本题和下一题的两题信息来寻找对比，则很容易因为看过了较多篇幅而仍没有定位到本题，产生自我怀疑，进而反复回读先前内容，导致考场上损耗较多时间。反之，则会在阅读第八和九这两段文章时，因为明确地看出确实不曾提及解题相关内容，进而在第十段开头终于遇到下一题内容时，笃定本题的答案应为NOT GIVEN。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "It is predicted that West Indian manatee populations will fall in the coming decades.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8551_148828",
+          "explanation": "译文：西印度海牛的种群数量预计在接下来的几十年中将有所下降。\n\n本题的定位之所以不难，首先因为题干中包含了大写信息West Indian，其次很大程度上也是因为上一道题已经带领读者看过了大量篇幅。考生只需耐心来到最后一段正文处，第一句话说西印度海牛被列为濒危物种，第二句话说预计接下来四十年里种群数量会经历20%的减少，这正是在用更落地的细节来同义替换题干表述，因此答案为TRUE。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "The risk to manatees from entanglement and plastic consumption increased significantly in the period 2009–2020.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8551_133011",
+          "explanation": "译文：海牛缠入渔网和误食塑料的风险在2009到2020年间大幅度上升。\n\n本题中的数字信息可以直接带领考生来到第十段第三句话，而仔细看懂本句后不难得知，它表述的是在这个时间周期内有1800起案例都是海洋动物缠入渔网和误食塑料导致的事故，而其中有700起涉及到海牛；然而这类风险是否比起先前是显著上升的？原文中并无可供证明或证伪的证据；加上接下来考生就能在全文最后两句话里看到下一题的对应内容，可以确定本题答案应为NOT GIVEN。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "There is some legislation in place which aims to reduce the likelihood of boat strikes on manatees in Florida.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8551_787260",
+          "explanation": "译文：存在着一些立法，目标在于降低佛罗里达船只撞击海牛事件的发生几率。\n\n本题除了位于全文末尾这一点外，基本不会给考生带来任何解题困难。题干中的boat strikes一模一样地出现在了倒数第二句话里，最后一句话则跟进说明在佛罗里达一些地区有法律限制冬天的船速，以给海牛留出更多反应时间。二者结合显然就是在表达题干内容，因此答案为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>Manatees</b></span></p><p>Manatees, also known as sea cows, are aquatic mammals that belong to a group of animals called Sirenia. This group also contains dugongs. Dugongs and manatees look quite alike – they are similar in size, colour and shape, and both have flexible flippers for forelimbs. However, the manatee has a broad, rounded tail, whereas the dugong’s is fluked, like that of a whale. There are three species of manatees: the West Indian manatee (<em>Trichechus manatus</em>), the African manatee (<em>Trichechus senegalensis</em>) and the Amazonian manatee (<em>Trichechus inunguis</em>).</p><p>Unlike most mammals, manatees have only six bones in their neck – most others, including humans and giraffes, have seven. This short neck allows a manatee to move its head up and down, but not side to side. To see something on its left or its right, a manatee must turn its entire body, steering with its flippers. Manatees have pectoral flippers but no back limbs, only a tail for propulsion. They do have pelvic bones, however – a leftover from their evolution from a four-legged to a fully aquatic animal. Manatees share some visual similarities to elephants. Like elephants, manatees have thick, wrinkled skin. They also have some hairs covering their bodies which help them sense vibrations in the water around them.</p><p>Seagrasses and other marine plants make up most of a manatee’s diet. Manatees spend about eight hours each day grazing and uprooting plants. They eat up to 15% of their weight in food each day. African manatees are omnivorous – studies have shown that molluscs and fish make up a small part of their diets. West Indian and Amazonian manatees are both herbivores.</p><p>Manatees’ teeth are all molars – flat, rounded teeth for grinding food. Due to manatees’ abrasive aquatic plant diet, these teeth get worn down and they eventually fall out, so they continually grow new teeth that get pushed forward to replace the ones they lose. Instead of having incisors to grasp their food, manatees have lips which function like a pair of hands to help tear food away from the seafloor.</p><p>Manatees are fully aquatic, but as mammals, they need to come up to the surface to breathe. When awake, they typically surface every two to four minutes, but they can hold their breath for much longer. Adult manatees sleep underwater for 10–12 hours a day, but they come up for air every 15–20 minutes. Active manatees need to breathe more frequently. It’s thought that manatees use their muscular diaphragm and breathing to adjust their buoyancy. They may use diaphragm contractions to compress and store gas in folds in their large intestine to help them float.</p><p>The West Indian manatee reaches about 3.5 metres long and weighs on average around 500 kilogrammes. It moves between fresh water and salt water, taking advantage of coastal mangroves and coral reefs, rivers, lakes and inland lagoons. There are two subspecies of West Indian manatee: the Antillean manatee is found in waters from the Bahamas to Brazil, whereas the Florida manatee is found in US waters, although some individuals have been recorded in the Bahamas. In winter, the Florida manatee is typically restricted to Florida. When the ambient water temperature drops below 20ºC, it takes refuge in naturally and artificially warmed water, such as at the warm-water outfalls from powerplants.</p><p>The African manatee is also about 3.5 metres long and found in the sea along the west coast of Africa, from Mauritania down to Angola. The species also makes use of rivers, with the mammals seen in landlocked countries such as Mali and Niger.</p><p>The Amazonian manatee is the smallest species, though it is still a big animal. It grows to about 2.5 metres long and 350 kilogrammes. Amazonian manatees favour calm, shallow waters that are above 23ºC. This species is found in fresh water in the Amazon Basin in Brazil, as well as in Colombia, Ecuador and Peru.</p><p>All three manatee species are endangered or at a heightened risk of extinction. The African manatee and Amazonian manatee are both listed as Vulnerable by the International Union for Conservation of Nature (IUCN). It is estimated that 140,000. Amazonian manatees were killed between 1935 and 1954 for their meat, fat and skin, with the latter used to make leather. In more recent years, African manatee decline has been tied to incidental capture in fishing nets and hunting. Manatee hunting is now illegal in every country the African species is found in.</p><p>The two subspecies of West Indian manatee are listed as Endangered by the IUCN. Both are also expected to undergo a decline of 20% over the next 40 years. A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that at least 700 cases involved manatees. The chief cause of death in Florida manatees is boat strikes. However, laws in certain parts of Florida now limit boat speeds during winter, allowing slow-moving manatees more time to respond.</p>"
+}

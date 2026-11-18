@@ -1,0 +1,313 @@
+{
+  "id": "cambridge-10-test-3-reading-2",
+  "title": "Autumn leaves",
+  "titleCn": "Autumn leaves",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 10,
+    "test": 3
+  },
+  "sourceQuestionId": "6842",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6842",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Autumn leaves"
+    },
+    {
+      "label": "2",
+      "text": "Canadian writer Jay Ingram investigates the mystery of why leaves turn red in the fall"
+    },
+    {
+      "label": "3",
+      "text": "A One of the most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall. The colours are magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists."
+    },
+    {
+      "label": "4",
+      "text": "B Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree. As fall approaches in the northern hemisphere, the amount of solar energy available declines considerably. For many trees - evergreen conifers being an exception - the best strategy is to abandon photosynthesis* until the spring. So rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them. But before letting its leaves go, the tree dismantles their chlorophyll molecules and ships their valuable nitrogen back into the twigs. As chlorophyll is depleted, other colours that have been dominated by it throughout the summer begin to be revealed. This unmasking explains the autumn colours of yellow and orange, but not the brilliant reds and purples of trees such as the maple or sumac."
+    },
+    {
+      "label": "5",
+      "text": "C The source of the red is widely known: it is created by anthocyanins, water-soluble plant pigments reflecting the red to blue range of the visible spectrum. They belong to a class of sugar-based chemical compounds also known as flavonoids. What’s puzzling is that anthocyanins are actually newly minted, made in the leaves at the same time as the tree is preparing to drop them. But it is hard to make sense of the manufacture of anthocyanins - why should a tree bother making new chemicals in its leaves when it’s already scrambling to withdraw and preserve the ones already there?"
+    },
+    {
+      "label": "6",
+      "text": "D ome theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leaf’s tolerance to freezing. However there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved."
+    },
+    {
+      "label": "7",
+      "text": "E It has also been proposed that trees may produce vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation. If insects paid attention to such advertisements, they might be prompted to lay their eggs on a duller, and presumably less resistant host. The flaw in this theory lies in the lack of proof to support it. No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity."
+    },
+    {
+      "label": "8",
+      "text": "F Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they're busy packing up for the winter is the theory known as the ‘light screen’ hypothesis. It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too much light. Why does chlorophyll need protection when it is the natural world’s supreme light absorber? Why protect chlorophyll at a time when the tree is breaking it down to salvage as much of it as possible?"
+    },
+    {
+      "label": "9",
+      "text": "G Chlorophyll, although exquisitely evolved to capture the energy of sunlight, can sometimes be overwhelmed by it, especially in situations of drought, low temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity to light is even more acute in the fall, when the leaf is busy preparing for winter by dismantling its internal machinery. The energy absorbed by the chlorophyll molecules of the unstable autumn leaf is not immediately channelled into useful products and processes, as it would be in an intact summer leaf. The weakened fall leaf then becomes vulnerable to the highly destructive effects of the oxygen created by the excited chlorophyll molecules."
+    },
+    {
+      "label": "10",
+      "text": "H Even if you had never suspected that this is what was going on when leaves turn red, there are clues out there. One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun. Not only that, but the red is brighter on the upper side of the leaf. It has also been recognized for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light. And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere. It’s colder there, they’re more stressed, their chlorophyll is more sensitive and it needs more sunblock."
+    },
+    {
+      "label": "11",
+      "text": "I What is still not fully understood, however, is why some trees resort to producing red pigments while others don’t bother, and simply reveal their orange or yellow hues. Do these trees have other means at their disposal to prevent overexposure to light in autumn? Their story, though not as spectacular to the eye, will surely turn out to be as subtle and as complex."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-18\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a description of the substance responsible for the red colouration of leaves",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6842_106304-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "the reason why trees drop their leaves in autumn",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6842_106304-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "some evidence to confirm a theory about the purpose of the red leaves",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q6842_106304-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "an explanation of the function of chlorophyll",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6842_106304-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "a suggestion that the red colouration in leaves could serve as a warning signal",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6842_106304-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 19-22\n\nComplete the notes below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "• The most vividly coloured red leaves are found on the side of the tree facing the [19] ______",
+          "answers": [
+            "sun",
+            "sunlight"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6842_519090",
+          "explanation": "题号：19\n\n定位词：most vividly coloured, side, facing\n\nH段第二句：One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun.\n\n此题在原文中的对应位置比较靠后，但一经找到对应句即可轻松解题。题干中most vividly coloured与原文reddest是个简单的同义替换，side更是原词出现，因此答案为sun。\n\n题号：20\n\n定位词：surfaces, most red pigment\n\nH段第三句：Not only that, but the red is brighter on the upper side of the leaf.\n\n这几道填空题目在文中的位置非常接近，单词的同义替换难度也不高。题干问树叶的哪个表面有最多的红色素，也就是更红些，因此答案为upper。\n\n题号：21\n\n定位词：daytime weather conditions, sunny\n\nH段第四句：It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, …\n\n此处需注意对空格处的限制是白天的气候条件，且因为题干中已经出现了sunny一词，因此答案为dry。\n\n题号：22\n\n定位词：intensity, increases, go further\n\nH段第五句：And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere.\n\n此题需注意空格内需要填名词性质的答案，为north，请避免northern这一形容词的干扰。",
+          "promptHtml": "• The most vividly coloured red leaves are found on the side of the tree facing the [19] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "• The [20] ______surfaces of leaves contain the most red pigment.",
+          "answers": [
+            "upper"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6842_593646",
+          "explanation": "题号：19\n\n定位词：most vividly coloured, side, facing\n\nH段第二句：One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun.\n\n此题在原文中的对应位置比较靠后，但一经找到对应句即可轻松解题。题干中most vividly coloured与原文reddest是个简单的同义替换，side更是原词出现，因此答案为sun。\n\n题号：20\n\n定位词：surfaces, most red pigment\n\nH段第三句：Not only that, but the red is brighter on the upper side of the leaf.\n\n这几道填空题目在文中的位置非常接近，单词的同义替换难度也不高。题干问树叶的哪个表面有最多的红色素，也就是更红些，因此答案为upper。\n\n题号：21\n\n定位词：daytime weather conditions, sunny\n\nH段第四句：It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, …\n\n此处需注意对空格处的限制是白天的气候条件，且因为题干中已经出现了sunny一词，因此答案为dry。\n\n题号：22\n\n定位词：intensity, increases, go further\n\nH段第五句：And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere.\n\n此题需注意空格内需要填名词性质的答案，为north，请避免northern这一形容词的干扰。",
+          "promptHtml": "• The [20] ______surfaces of leaves contain the most red pigment."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "• Red leaves are most abundant when daytime weather conditions are [21] ______and sunny.",
+          "answers": [
+            "dry"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6842_886774",
+          "explanation": "题号：19\n\n定位词：most vividly coloured, side, facing\n\nH段第二句：One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun.\n\n此题在原文中的对应位置比较靠后，但一经找到对应句即可轻松解题。题干中most vividly coloured与原文reddest是个简单的同义替换，side更是原词出现，因此答案为sun。\n\n题号：20\n\n定位词：surfaces, most red pigment\n\nH段第三句：Not only that, but the red is brighter on the upper side of the leaf.\n\n这几道填空题目在文中的位置非常接近，单词的同义替换难度也不高。题干问树叶的哪个表面有最多的红色素，也就是更红些，因此答案为upper。\n\n题号：21\n\n定位词：daytime weather conditions, sunny\n\nH段第四句：It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, …\n\n此处需注意对空格处的限制是白天的气候条件，且因为题干中已经出现了sunny一词，因此答案为dry。\n\n题号：22\n\n定位词：intensity, increases, go further\n\nH段第五句：And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere.\n\n此题需注意空格内需要填名词性质的答案，为north，请避免northern这一形容词的干扰。",
+          "promptHtml": "• Red leaves are most abundant when daytime weather conditions are [21] ______and sunny."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "• The intensity of the red colour of leaves increases as you go further [22] ______.",
+          "answers": [
+            "north"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6842_613722",
+          "explanation": "题号：19\n\n定位词：most vividly coloured, side, facing\n\nH段第二句：One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun.\n\n此题在原文中的对应位置比较靠后，但一经找到对应句即可轻松解题。题干中most vividly coloured与原文reddest是个简单的同义替换，side更是原词出现，因此答案为sun。\n\n题号：20\n\n定位词：surfaces, most red pigment\n\nH段第三句：Not only that, but the red is brighter on the upper side of the leaf.\n\n这几道填空题目在文中的位置非常接近，单词的同义替换难度也不高。题干问树叶的哪个表面有最多的红色素，也就是更红些，因此答案为upper。\n\n题号：21\n\n定位词：daytime weather conditions, sunny\n\nH段第四句：It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, …\n\n此处需注意对空格处的限制是白天的气候条件，且因为题干中已经出现了sunny一词，因此答案为dry。\n\n题号：22\n\n定位词：intensity, increases, go further\n\nH段第五句：And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere.\n\n此题需注意空格内需要填名词性质的答案，为north，请避免northern这一形容词的干扰。",
+          "promptHtml": "• The intensity of the red colour of leaves increases as you go further [22] ______."
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Why believe the &#x27;light screen, hypothesis?&#x27;</strong></span></p>\n\n<p>• The most vividly coloured red leaves are found on the side of the tree facing the <strong>[19] ______</strong></p>\n\n<p>• The <strong>[20] ______</strong>surfaces of leaves contain the most red pigment.</p>\n\n<p>• Red leaves are most abundant when daytime weather conditions are <strong>[21] ______</strong>and sunny.</p>\n\n<p>• The intensity of the red colour of leaves increases as you go further <strong>[22] ______</strong>.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "instruction": "Questions 23-25\n\nDo the following statements agree with the information given in Reading Passage 2?\n\nChoose TRUE if the statement agrees with the information,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "It is likely that the red pigments help to protect the leaf from freezing temperatures.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6842_598940",
+          "explanation": "译文：红色素很有可能有助于保护树叶不受冰冻低温的伤害。\n\n定位词：likely, protect, freezing temperatures\n\nD段第一和二句：Some theories about anthocyanins have argued that they might increase a leaf's tolerance to freezing. However, there are problems with each of these theories, including the fact that leaves arc red for such a relatively short period that the expense of energy needed tomanu1facture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved.\n\n此题具有一定难度，需要考生细心并耐心看完D段前两个句子才能正确作答。第一句先提出若干理论假设，其中之一确实认为红色素的功能是增加树叶的抗冻耐受力，如果只看此句极易误选为TRUE。第二句话笔锋一转，指出这些理论都各有问题，换言之，这些可能都并非树叶变红的真正原因，否定了上一句话的内容，与题干表述相抵触。因此答案为FALSE。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "The 'light screen' hypothesis would initially seem to contradict what is known about\n\nchlorophyll.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6842_592733",
+          "explanation": "译文：“光屏障”理论乍一看来似乎与我们对叶绿素的所知相矛盾。\n\n定位词：'light screen' hypothesis, contradict\n\nF段第一、二句：… the 'light screen' hypothesis. It sounds paradoxical, because…此题定位极容易，但考查考生对于paradoxical（似是而非的，悖论的）这个替换了题干中所使用的contradict的词汇的认知。原文和题干都在说这种理论好像初看来是自相矛盾的，所以答案为TRUE。若考生确实不认识paradoxical这个词，如能耐心看完后面的两句话，也可大致推导出这里要表达的正是“有矛盾”这个意思，依然有可能正确作答。温馨提示单词量不够，用耐心补上。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Leaves which turn colours other than red are more likely to be damaged by\n\nsunlight.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6842_885055",
+          "explanation": "译文：树叶如果不变成红色而是变成其他颜色，则更容易受到阳光的破坏。\n\n定位词：other than red, damaged by sunlight\n\n题目： Leaves which turn colours other than red are more likely to be damaged by sunlight.原文没有任何内容提及这条信息，答案为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "choice",
+      "instruction": "Question 26\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "For which of the following questions does the writer offer an explanation?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6842_192159",
+          "options": [
+            {
+              "value": "A",
+              "text": "why conifers remain green in winter"
+            },
+            {
+              "value": "B",
+              "text": "how leaves turn orange and yellow in autumn"
+            },
+            {
+              "value": "C",
+              "text": "how herbivorous insects choose which trees to lay their eggs in"
+            },
+            {
+              "value": "D",
+              "text": "why anthocyanins are restricted to certain trees"
+            }
+          ],
+          "explanation": "A\n\n译文：为什么针叶树在冬天依然长青\n\n定位词：conifers, remain green in winter\n\nB段第三句：For many trees—evergreen conifers being an exception—the best strategy is to abandon photosynthesis until the spring\n\n请注意本题的题干问：以下哪个问题是作者给出了解释的？换言之，仅仅提到选项所表述的内容是不够的，原文中必须还需给出之所以如此的原因才是正确答案。本选项只是简单提及针叶树到了冬天不会落叶，并没有给出其原理。\n\nB\n\n译文：树叶在秋天是如何变为橙色和黄色的\n\n定位词：turn orange and yellow\n\nB段最后两句：As chlorophyll is depleted, other colours that have been dominated by it throughout the summer begin to be revealed. This unmasking explains the autumn colours of yellow and orange…\n\n此处明确给出了树叶之所以变成橙黄二色，是因为这些颜色先前被叶绿素压制着；而进入秋天，叶绿素逐渐消耗，于是这些颜色显露出来。因此，本题正确答案为B项。\n\nC\n\n译文：食草性的昆虫如何选择用来产卵的树木\n\n定位词：herbivorous insects, choose, lay their eggs\n\nE段最后一句：No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity.\n\n原文明确指出还从未有人确认过昆虫是如何选择树木来产卵的，直接与C项所说的内容相矛盾。\n\nD\n\n译文：为什么花青素只局限在某些树木中\n\n定位词：anthocyanins, restricted to certain trees-What is still not fully understood, however, is why some trees resort to producing red pigments while others don’t bother, and simply reveal their orange or yellow hues.\n\n原文中此句并没有直接提及“花青素”一词，但考生读到这里应当已经明白这个不认识的单词即是树叶变为红紫色的原因。本句说现在还不能完全理解为什么有的树叶要变红（制造花青素）而另一些树木不变红（不制造花青素），直接与D项所说的内容相矛盾。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong><span>Autumn leaves</span></strong></span></p><p><span><span><em>Canadian writer Jay Ingram investigates the mystery of why leaves turn red in the fall</em></span></span></p><p><strong>A </strong>   One of the most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall. The colours are magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists.</p><p><strong>B  </strong>  Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree. As fall approaches in the northern hemisphere, the amount of solar energy available declines considerably. For many trees - evergreen conifers being an exception - the best strategy is to abandon photosynthesis* until the spring. So rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them. But before letting its leaves go, the tree dismantles their chlorophyll molecules and ships their valuable nitrogen back into the twigs. As chlorophyll is depleted, other colours that have been dominated by it throughout the summer begin to be revealed. This unmasking explains the autumn colours of yellow and orange, but not the brilliant reds and purples of trees such as the maple or sumac.</p><p><strong>C </strong>   The source of the red is widely known: it is created by anthocyanins, water-soluble plant pigments reflecting the red to blue range of the visible spectrum. They belong to a class of sugar-based chemical compounds also known as flavonoids. What’s puzzling is that anthocyanins are actually newly minted, made in the leaves at the same time as the tree is preparing to drop them. But it is hard to make sense of the manufacture of anthocyanins - why should a tree bother making new chemicals in its leaves when it’s already scrambling to withdraw and preserve the ones already there?</p><p><strong>D  </strong>  ome theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leaf’s tolerance to freezing. However there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved.</p><p><strong>E</strong>    It has also been proposed that trees may produce vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation. If insects paid attention to such advertisements, they might be prompted to lay their eggs on a duller, and presumably less resistant host. The flaw in this theory lies in the lack of proof to support it. No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity.</p><p><strong>F  </strong>  Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they&#x27;re busy packing up for the winter is the theory known as the ‘light screen’ hypothesis. It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too much light. Why does chlorophyll need protection when it is the natural world’s supreme light absorber? Why protect chlorophyll at a time when the tree is breaking it down to salvage as much of it as possible?</p><p><strong>G   </strong> Chlorophyll, although exquisitely evolved to capture the energy of sunlight, can sometimes be overwhelmed by it, especially in situations of drought, low temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity to light is even more acute in the fall, when the leaf is busy preparing for winter by dismantling its internal machinery. The energy absorbed by the chlorophyll molecules of the unstable autumn leaf is not immediately channelled into useful products and processes, as it would be in an intact summer leaf. The weakened fall leaf then becomes vulnerable to the highly destructive effects of the oxygen created by the excited chlorophyll molecules.</p><p><strong>H </strong>   Even if you had never suspected that this is what was going on when leaves turn red, there are clues out there. One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun. Not only that, but the red is brighter on the upper side of the leaf. It has also been recognized for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light. And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere. It’s colder there, they’re more stressed, their chlorophyll is more sensitive and it needs more sunblock.</p><p><strong>I  </strong>  What is still not fully understood, however, is why some trees resort to producing red pigments while others don’t bother, and simply reveal their orange or yellow hues. Do these trees have other means at their disposal to prevent overexposure to light in autumn? Their story, though not as spectacular to the eye, will surely turn out to be as subtle and as complex.</p>"
+}

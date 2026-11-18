@@ -1,0 +1,299 @@
+{
+  "id": "cambridge-16-test-3-reading-3",
+  "title": "Plant 'thermometer' triggers springtime growth by measuring night-time heat",
+  "titleCn": "Plant 'thermometer' triggers springtime growth by measuring night-time heat",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 3
+  },
+  "sourceQuestionId": "8328",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8328",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Plant 'thermometer' triggers springtime growth by measuring night-time heat"
+    },
+    {
+      "label": "2",
+      "text": "A photoreceptor molecule in plant cells has been found to have a second job as a thermometer after dark – allowing plants to read seasonal temperature changes. Scientists say the discovery could help breed crops that are more resilient to the temperatures expected to result from climate change"
+    },
+    {
+      "label": "3",
+      "text": "A An international team of scientists led by the University of Cambridge has discovered that the ‘thermometer’ molecule in plants enables them to develop according to seasonal temperature changes. Researchers have revealed that molecules called phytochromes – used by plants to detect light during the day – actually change their function in darkness to become cellular temperature gauges that measure the heat of the night."
+    },
+    {
+      "label": "4",
+      "text": "The new findings, published in the journal Science, show that phytochromes control genetic switches in response to temperature as well as light to dictate plant development."
+    },
+    {
+      "label": "5",
+      "text": "B At night, these molecules change states, and the pace at which they change is ‘directly proportional to temperature’, say scientists, who compare phytochromes to mercury in a thermometer. The warmer it is, the faster the molecular change – stimulating plant growth."
+    },
+    {
+      "label": "6",
+      "text": "C Farmers and gardeners have known for hundreds of years how responsive plants are to temperature: warm winters cause many trees and flowers to bud early, something humans have long used to predict weather and harvest times for the coming year. The latest research pinpoints for the first time a molecular mechanism in plants that reacts to temperature – often triggering the buds of spring we long to see at the end of winter."
+    },
+    {
+      "label": "7",
+      "text": "D With weather and temperatures set to become ever more unpredictable due to climate change, researchers say the discovery that this light-sensing molecule also functions as the internal thermometer in plant cells could help us breed tougher crops. ‘It is estimated that agricultural yields will need to double by 2050, but climate change is a major threat to achieving this. Key crops such as wheat and rice are sensitive to high temperatures. Thermal stress reduces crop yields by around 10% for every one degree increase in temperature,’ says lead researcher Dr Philip Wigge from Cambridge’s Sainsbury Laboratory. ‘Discovering the molecules that allow plants to sense temperature has the potential to accelerate the breeding of crops resilient to thermal stress and climate change.’"
+    },
+    {
+      "label": "8",
+      "text": "E In their active state, phytochrome molecules bind themselves to DNA to restrict plant growth. During the day, sunlight activates the molecules, slowing down growth. If a plant finds itself in shade, phytochromes are quickly inactivated – enabling it to grow faster to find sunlight again. This is how plants compete to escape each other’s shade. ‘Light-driven changes to phytochrome activity occur very fast, in less than a second,’ says Wigge."
+    },
+    {
+      "label": "9",
+      "text": "At night, however, it’s a different story. Instead of a rapid deactivation following sundown, the molecules gradually change from their active to inactive state. This is called ‘dark reversion’. ‘Just as mercury rises in a thermometer, the rate at which phytochromes revert to their inactive state during the night is a direct measure of temperature,’ says Wigge."
+    },
+    {
+      "label": "10",
+      "text": "F ‘The lower the temperature, the slower the rate at which phytochromes revert to inactivity, so the molecules spend more time in their active, growth-suppressing state. This is why plants are slower to grow in winter. Warm temperatures accelerate dark reversion, so that phytochromes rapidly reach an inactive state and detach themselves from the plant’s DNA – allowing genes to be expressed and plant growth to resume.’ Wigge believes phytochrome thermo-sensing evolved at a later stage, and co-opted the biological network already used for light-based growth during the downtime of night."
+    },
+    {
+      "label": "11",
+      "text": "G Some plants mainly use day length as an indicator of the season. Other species, such as daffodils, have considerable temperature sensitivity, and can flower months in advance during a warm winter. In fact, the discovery of the dual role of phytochromes provides the science behind a well-known rhyme long used to predict the coming season: oak before ash we’ll have a splash, ash before oak we’re in for a soak."
+    },
+    {
+      "label": "12",
+      "text": "Wigge explains: ‘Oak trees rely much more on temperature, likely using phytochromes as thermometers to dictate development, whereas ash trees rely on measuring day length to determine their seasonal timing. A warmer spring, and consequently a higher likeliness of a hot summer, will result in oak leafing before ash. A cold spring will see the opposite. As the British know only too well, a colder summer is likely to be a rain-soaked one.’"
+    },
+    {
+      "label": "13",
+      "text": "H The new findings are the culmination of twelve years of research involving scientists from Germany, Argentina and the US, as well as the Cambridge team. The work was done in a model system, using a mustard plant called Arabidopsis, but Wigge says the phytochrome genes necessary for temperature sensing are found in crop plants as well. ‘Recent advances in plant genetics now mean that scientists are able to rapidly identify the genes controlling these processes in crop plants, and even alter their activity using precise molecular “scalpels”,’ adds Wigge. ‘Cambridge is uniquely well-positioned to do this kind of research as we have outstanding collaborators nearby who work on more applied aspects of plant biology, and can help us transfer this new knowledge into the field.’"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 27–32\n\nDo the following statements agree with the information given in Reading Passage 3?\n\nIn questions 27–32, choose\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "The Cambridge scientists’ discovery of the ‘thermometer molecule’ caused surprise among other scientists.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8328_652013",
+          "explanation": "译文：剑桥科学家发现的“温度计分子”引起了其他科学家的惊讶。\n\n本题题干清晰，通过thermometer molecule可以快速定位到A段，但是决定题目答案的关键词在于题干中表达态度的surprise。虽然原文中有提到关于科学家对于“温度计分子”的发现及其应用，但是并未有信息表明这一发现让其他的科学家对此表示震惊或惊讶，因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "The target for agricultural production by 2050 could be missed.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8328_703484",
+          "explanation": "译文：到2050年农业生产的目标可能无法实现。\n\n首先本题含有非常明显的数字定位词，而原文中的数字并不多，所以可以很快定位到D部分的第二句。其次题干中有一个帮助我们确定答案的词missed，即“未能达成目标”。也许有些考生不知道原文中yields（产量）这个词的意思，但是通过句子结构分析，“预估截止到2050年时，农业的yields需要翻倍，但是气候变化是实现这一目标的主要威胁”，可以推断这句话符合题干的含义，即“有可能无法达成产量目标”，所以本题答案为TRUE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Wheat and rice suffer from a rise in temperatures.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8328_909548",
+          "explanation": "译文：当温度升高时小麦和大米难以生长。\n\n本题题干定位词为主语“小麦和大米”，虽然乍一看原文中并没有非常明显的对应，但是继28题之后不难发现，在D部分的第三句，这个词就已经出现了。并且sensitive to high temperatures（对于高温很敏感）直接给出了答案，表示小麦和大米在高温下生长会比较困难。所以答案为TRUE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "It may be possible to develop crops that require less water.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8328_928540",
+          "explanation": "译文：有可能研发出耗水量更少的农作物。\n\n这道题目的题干简单明了，也符合考生认知常识，此时大家会继续去阅读D段、E段。可是考生会发现当读到E段的时候，并没有找到和crops、less water相关的信息，反倒是出现了31题的定位词。按照这类题型的顺序出题原则，考生便应该回到D段继续“精读”，然后发现29题对应处之后的原文完全没有提及和研发耗水量较少的农作物相关的任何信息。所以本题的答案为NOT GIVEN。本题的难点在于，考生可能会下意识地寻找与题干相关的信息（如27题），但有时NOT GIVEN的内容也会有在原文中完全没有提及的情况，比如本题。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Plants grow faster in sunlight than in shade.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8328_243566",
+          "explanation": "译文：植物在阳光下的生长速度快于在阴影下的生长速度。\n\n本题定位词和sunlight相关，按照顺序阅读法，可以明确地锁定E部分第一段第二句。原文意思简单直接，“在白天，日光激活了molecules，使得植物的生长速度降低”。而题干中则是完全相反的意思，所以本题的答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Phytochromes change their state at the same speed day and night.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8328_613815",
+          "explanation": "译文：植物色素昼夜以相同的速度改变其状态。\n\n本题的定位词很多考生也许会误判为phytochromes（植物色素），因为考生会觉得这是个很长、并且自己不认识的单词，在原文中会比较好锁定。但在实际阅读中会发现，这个词出现在了很多段落中。所以此时需要变换思路，考虑题干与题干之间的联系，比如31题提到的“日光”在本题题干中也有涉及，即day and night，所以可以判定答案应该和31题在同一个原文段落中。而E部分第一段第三句也的确出现了phytochromes这个词，原文使用了条件句进行假设，“如果植物发现自己处于阴影中，phytochromes就会快速降低活性，让植物快速生长从而去寻找阳光”，所以可以判断植物在阴影中和阳光下的生长速度是不一样的，因为受到了植物色素的影响。因此本题的答案为FALSE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 33–37\n\nReading Passage 3 has eight sections, A–H.\n\nWhich section contains the following information?\n\nChoose the correct letter, A–H for questions 33–37.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "mention of specialists who can make use of the research findings",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8328_739982-1"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "a reference to a potential benefit of the research findings",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8328_739982-2"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "scientific support for a traditional saying",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8328_739982-3"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "a reference to people traditionally making plans based on plant behaviour",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8328_739982-4"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "a reference to where the research has been reported",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8328_739982-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 38–40\n\nComplete the sentences below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nWrite your answers in boxes 38–40.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Daffodils are likely to flower early in response to [38] ______weather.",
+          "answers": [
+            "warm",
+            "warm winter"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8328_147131",
+          "explanation": "38. 通过题目定位词Daffodils很快就可以锁定G部分第一段第二句话。题干的意思是水仙花在什么样的天气条件下可以提前开花。而原文中明确提到水仙花对温度很敏感，可以在暖冬的时候提前数月开花。所以本题答案为warm / warm winter。\n\n39. 定位词ash tree可以有效地帮助读者定位原文位置， G部分整体都在介绍植物对于天气的不同反应。在第二段中可以很快锁定A warmer spring…will result in oak leafing before ash，本句是说气候温暖会使橡树在白蜡木前生叶，而后一句提到A cold spring will see the opposite，意思是如果气候冷的话则相反，白蜡木就会在橡树前生叶，与题干表达一致。接着最后一句提到英国人熟谙的一个道理：a colder summer is likely to be a rain-soaked one, 此处的rain-soaked意为“雨水连绵的”，对应题干中的wet，所以可以得知答案为summer。\n\n40. 本题的定位词并不是很容易在原文中找到，难度相对较大。按照句子填空题的顺序出题逻辑，我们可以判断本题的答案应该会出现在文章最后一段。这一段的开头就提到这项研究历经十二年，参与的人员来自各国的科学团队。然后介绍这项工作was done in a model system，同义替换了题干中的was carried out。using动名词作伴随状语，进一步说明这个model system，使用了一种芥菜科植物mustard plant，由此可以得到答案。需要注意mustard在这里指的是植物的科目，所以答案也可以是一个词mustard。",
+          "promptHtml": "Daffodils are likely to flower early in response to [38] ______weather."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "If ash trees come into leaf before oak trees, the weather in[39] ______ will probably be wet.",
+          "answers": [
+            "summer"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8328_736080",
+          "explanation": "38. 通过题目定位词Daffodils很快就可以锁定G部分第一段第二句话。题干的意思是水仙花在什么样的天气条件下可以提前开花。而原文中明确提到水仙花对温度很敏感，可以在暖冬的时候提前数月开花。所以本题答案为warm / warm winter。\n\n39. 定位词ash tree可以有效地帮助读者定位原文位置， G部分整体都在介绍植物对于天气的不同反应。在第二段中可以很快锁定A warmer spring…will result in oak leafing before ash，本句是说气候温暖会使橡树在白蜡木前生叶，而后一句提到A cold spring will see the opposite，意思是如果气候冷的话则相反，白蜡木就会在橡树前生叶，与题干表达一致。接着最后一句提到英国人熟谙的一个道理：a colder summer is likely to be a rain-soaked one, 此处的rain-soaked意为“雨水连绵的”，对应题干中的wet，所以可以得知答案为summer。\n\n40. 本题的定位词并不是很容易在原文中找到，难度相对较大。按照句子填空题的顺序出题逻辑，我们可以判断本题的答案应该会出现在文章最后一段。这一段的开头就提到这项研究历经十二年，参与的人员来自各国的科学团队。然后介绍这项工作was done in a model system，同义替换了题干中的was carried out。using动名词作伴随状语，进一步说明这个model system，使用了一种芥菜科植物mustard plant，由此可以得到答案。需要注意mustard在这里指的是植物的科目，所以答案也可以是一个词mustard。",
+          "promptHtml": "If ash trees come into leaf before oak trees, the weather in[39] ______ will probably be wet."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "The research was carried out using a particular species of [40] ______.",
+          "answers": [
+            "mustard plant",
+            "mustard plants",
+            "mustard"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8328_607422",
+          "explanation": "38. 通过题目定位词Daffodils很快就可以锁定G部分第一段第二句话。题干的意思是水仙花在什么样的天气条件下可以提前开花。而原文中明确提到水仙花对温度很敏感，可以在暖冬的时候提前数月开花。所以本题答案为warm / warm winter。\n\n39. 定位词ash tree可以有效地帮助读者定位原文位置， G部分整体都在介绍植物对于天气的不同反应。在第二段中可以很快锁定A warmer spring…will result in oak leafing before ash，本句是说气候温暖会使橡树在白蜡木前生叶，而后一句提到A cold spring will see the opposite，意思是如果气候冷的话则相反，白蜡木就会在橡树前生叶，与题干表达一致。接着最后一句提到英国人熟谙的一个道理：a colder summer is likely to be a rain-soaked one, 此处的rain-soaked意为“雨水连绵的”，对应题干中的wet，所以可以得知答案为summer。\n\n40. 本题的定位词并不是很容易在原文中找到，难度相对较大。按照句子填空题的顺序出题逻辑，我们可以判断本题的答案应该会出现在文章最后一段。这一段的开头就提到这项研究历经十二年，参与的人员来自各国的科学团队。然后介绍这项工作was done in a model system，同义替换了题干中的was carried out。using动名词作伴随状语，进一步说明这个model system，使用了一种芥菜科植物mustard plant，由此可以得到答案。需要注意mustard在这里指的是植物的科目，所以答案也可以是一个词mustard。",
+          "promptHtml": "The research was carried out using a particular species of [40] ______."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><span>Daffodils are likely to flower early in response to </span></span><strong>[38] ______</strong><span><span>weather.</span></span></p>\n\n<p><span><span>If ash trees come into leaf before oak trees, the weather in</span></span><strong>[39] ______</strong><span><span> will probably be wet.</span></span></p>\n\n<p><span><span>The research was carried out using a particular species of </span></span><strong>[40] ______</strong><span><span>.</span></span></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<h1><b>Plant &#x27;thermometer&#x27; triggers springtime </b><b>growth </b><b>by </b><b>measuring night-time heat</b></h1><p><i>A photoreceptor molecule in plant cells has been found to have a second job as a thermometer after dark – allowing plants to read seasonal temperature changes. Scientists say the discovery could help breed crops that are more resilient to the temperatures expected to result from climate change</i></p><p><b>A </b>An international team of scientists led by the University of Cambridge has discovered that the ‘thermometer’ molecule in plants enables them to develop according to seasonal temperature changes. Researchers have revealed that molecules called phytochromes – used by plants to detect light during the day – actually change their function in darkness to become cellular temperature gauges that measure the heat of the night.</p><p>The new findings, published in the journal <i>Science</i>, show that phytochromes control genetic switches in response to temperature as well as light to dictate plant development.</p><p><b>B </b>At night, these molecules change states, and the pace at which they change is ‘directly proportional to temperature’, say scientists, who compare phytochromes to mercury in a thermometer. The warmer it is, the faster the molecular change – stimulating plant growth.</p><p><strong>C </strong>Farmers and gardeners have known for hundreds of years how responsive plants are to temperature: warm winters cause many trees and flowers to bud early, something humans have long used to predict weather and harvest times for the coming year. The latest research pinpoints for the first time a molecular mechanism in plants that reacts to temperature – often triggering the buds of spring we long to see at the end of winter.</p><p><b>D </b>With weather and temperatures set to become ever more unpredictable due to climate change, researchers say the discovery that this light-sensing molecule also functions as the internal thermometer in plant cells could help us breed tougher crops. ‘It is estimated that agricultural yields will need to double by 2050, but climate change is a major threat to achieving this. Key crops such as wheat and rice are sensitive to high temperatures. Thermal stress reduces crop yields by around 10% for every one degree increase in temperature,’ says lead researcher Dr Philip Wigge from Cambridge’s Sainsbury Laboratory. ‘Discovering the molecules that allow plants to sense temperature has the potential to accelerate the breeding of crops resilient to thermal stress and climate change.’</p><p><b>E </b>In their active state, phytochrome molecules bind themselves to DNA to restrict plant growth. During the day, sunlight activates the molecules, slowing down growth. If a plant finds itself in shade, phytochromes are quickly inactivated – enabling it to grow faster to find sunlight again. This is how plants compete to escape each other’s shade. ‘Light-driven changes to phytochrome activity occur very fast, in less than a second,’ says Wigge.</p><p>At night, however, it’s a different story. Instead of a rapid deactivation following sundown, the molecules gradually change from their active to inactive state. This is called ‘dark reversion’. ‘Just as mercury rises in a thermometer, the rate at which phytochromes revert to their inactive state during the night is a direct measure of temperature,’ says Wigge.</p><p><b>F </b>‘The lower the temperature, the slower the rate at which phytochromes revert to inactivity, so the molecules spend more time in their active, growth-suppressing state. This is why plants are slower to grow in winter. Warm temperatures accelerate dark reversion, so that phytochromes rapidly reach an inactive state and detach themselves from the plant’s DNA – allowing genes to be expressed and plant growth to resume.’ Wigge believes phytochrome thermo-sensing evolved at a later stage, and co-opted the biological network already used for light-based growth during the downtime of night.</p><p><b>G </b>Some plants mainly use day length as an indicator of the season. Other species, such as daffodils, have considerable temperature sensitivity, and can flower months in advance during a warm winter. In fact, the discovery of the dual role of phytochromes provides the science behind a well-known rhyme long used to predict the coming season: oak before ash we’ll have a splash, ash before oak we’re in for a soak.</p><p>Wigge explains: ‘Oak trees rely much more on temperature, likely using phytochromes as thermometers to dictate development, whereas ash trees rely on measuring day length to determine their seasonal timing. A warmer spring, and consequently a higher likeliness of a hot summer, will result in oak leafing before ash. A cold spring will see the opposite. As the British know only too well, a colder summer is likely to be a rain-soaked one.’</p><p><b>H </b>The new findings are the culmination of twelve years of research involving scientists from Germany, Argentina and the US, as well as the Cambridge team. The work was done in a model system, using a mustard plant called <i>Arabidopsis</i>, but Wigge says the phytochrome genes necessary for temperature sensing are found in crop plants as well. ‘Recent advances in plant genetics now mean that scientists are able to rapidly identify the genes controlling these processes in crop plants, and even alter their activity using precise molecular “scalpels”,’ adds Wigge. ‘Cambridge is uniquely well-positioned to do this kind of research as we have outstanding collaborators nearby who work on more applied aspects of plant biology, and can help us transfer this new knowledge into the field.’</p>"
+}

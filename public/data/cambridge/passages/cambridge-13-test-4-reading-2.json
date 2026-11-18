@@ -1,0 +1,322 @@
+{
+  "id": "cambridge-13-test-4-reading-2",
+  "title": "SAVING THE SOIL",
+  "titleCn": "SAVING THE SOIL",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 13,
+    "test": 4
+  },
+  "sourceQuestionId": "6714",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6714",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "SAVING THE SOIL"
+    },
+    {
+      "label": "2",
+      "text": "More than a third of the Earth's top layer is at risk. Is there hope for our planet's most precious resource?"
+    },
+    {
+      "label": "3",
+      "text": "A More than a third of the world's soil is endangered, according to a recent UN report. If we don't slow the decline, all farmable soil could be gone in 60 years. Since soil grows 95% of our food, and sustains human life in other more surprising ways, that is a huge problem."
+    },
+    {
+      "label": "4",
+      "text": "B Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points out that soil scientists have been warning about the degradation of the world's soil for decades. At the same time, our understanding of its importance to humans has grown. A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals."
+    },
+    {
+      "label": "5",
+      "text": "That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and could be our best hope in the fight against antibiotic- resistant bacteria. Soil is also an ally against climate change: as microorganisms within soil digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere. Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year."
+    },
+    {
+      "label": "6",
+      "text": "C If the soil loses its ability to perform these functions, the human race could be in big trouble. The danger is not that the soil will disappear completely, but that the microorganisms that give it its special properties will be lost. And once this has happened, it may take the soil thousands of years to recover."
+    },
+    {
+      "label": "7",
+      "text": "Agriculture is by far the biggest problem. In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil. Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile. In the past we developed strategies to get around the problem, such as regularly varying the types of crops grown, or leaving fields uncultivated for a season."
+    },
+    {
+      "label": "8",
+      "text": "D But these practices became inconvenient as populations grew and agriculture had to be run on more commercial lines. A solution came in the early 20th century with the Haber-Bosch process for manufacturing ammonium nitrate. Farmers have been putting this synthetic fertiliser on their fields ever since."
+    },
+    {
+      "label": "9",
+      "text": "But over the past few decades, it has become clear this wasn't such a bright idea. Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers. More recently, we have found that indiscriminate use of fertilisers hurts the soil itself, turning it acidic and salty, and degrading the soil they are supposed to nourish."
+    },
+    {
+      "label": "10",
+      "text": "E One of the people looking for a solution to this problem is Pius Floris, who started out running a tree-care business in the Netherlands, and now advises some of the world's top soil scientists. He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this. Researchers at the University of Valladolid in Spain recently used this cocktail on soils destroyed by years of fertiliser overuse. When they applied Floris's mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock. The few plants that grew in the control plots, fed with traditional fertilisers, were small and weak."
+    },
+    {
+      "label": "11",
+      "text": "F However, measures like this are not enough to solve the global soil degradation problem. To assess our options on a global scale we first need an accurate picture of what types of soil are out there, and the problems they face. That's not easy. For one thing, there is no agreed international system for classifying soil. In an attempt to unify the different approaches, the UN has created the Global Soil Map project. Researchers from nine countries are working together to create a map linked to a database that can be fed measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on to provide real-time data on the state of the soil. Within the next four years, they aim to have mapped soils worldwide to a depth of 100 metres, with the results freely accessible to all."
+    },
+    {
+      "label": "12",
+      "text": "G But this is only a first step. We need ways of presenting the problem that bring it home to governments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada. 'Most scientists don't speak language that policy-makers can understand, and vice versa. Chasek and her colleagues have proposed a goal of 'zero net land degradation'. Like the idea of carbon neutrality, it is an easily understood target that can help shape expectations and encourage action."
+    },
+    {
+      "label": "13",
+      "text": "For soils on the brink, that may be too late. Several researchers are agitating for the immediate creation of protected zones for endangered soils. One difficulty here is defining what these areas should conserve: areas where the greatest soil diversity is present? Or areas of unspoilt soils that could act as a future benchmark of quality?"
+    },
+    {
+      "label": "14",
+      "text": "Whatever we do, if we want our soils to survive, we need to take action now."
+    },
+    {
+      "label": "15",
+      "text": "*Humus: the part of the soil formed from dead plant material"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 14-17\n\nComplete the summary below.\n\nWrite ONE WORD ONLY in each gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Answer for gap 14.",
+          "answers": [
+            "minerals"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6714_306181",
+          "explanation": "题号：14\n\n定位词：healthy soil, bacteria, microorganisms\n\nB第一段第三句：A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.\n\n本题针对健康土壤中的主要成分进行提问，文中B第一段第三句与题目中的句子有明确的对应关系。题目中说到了bacteria, other microorganisms, plant remains，这些在原文中都可以找到对应的词汇，而原文中最后提到的various minerals与题目中的空格对应，结合题目中one word only的要求，本题答案为minerals。\n\n题号：15\n\n定位词：food, antibiotics, storing, climate\n\nB第二段第一、二句：That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and... Soil is also an ally against climate change: ..., they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.\n\n本题依然针对土壤的作用出题，根据句中说到的food和antibiotics，可以将本句与原文中B第二段第一句对应，之后根据出题位置提到的a significant effect on the climate，定位到本段第二句，本句说到可以lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere，这里the amount of carbon as docs the 的holding与题目中storing一致，本题答案为carbon。\n\n题号：16\n\n定位词：damage to property and infrastructure\n\nB第二段第三句：Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.\n\n本段最后一句说到在英国，damage to buildings, roads, bridges from foods所带来的损失，这部分与题目中damage to property and infrastructure的描述一致，土壤能够防止这些损失的发生，主要是因为原文中说到的soils also store water，这里的store与题目中的holds同义替换，本题答案为water。\n\n题号：17\n\n定位词：microorganisms, special properties\n\nC第二段第一句：Agriculture is by far the biggest problem.\n\n本题中说到如果microorganisms消失，土壤会失去其special properties，这一表达与原文C第一段一致，而C第二段首句说明Agriculture is by far the biggest problem，之后说明了为什么人类农业行为会破坏土壤的生态，而题目中问的是造成这种土壤退化现象的主要原因是人类的什么行为，本题答案为agriculture。",
+          "promptHtml": "Answer for gap 14."
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Answer for gap 15.",
+          "answers": [
+            "carbon"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6714_252957",
+          "explanation": "题号：14\n\n定位词：healthy soil, bacteria, microorganisms\n\nB第一段第三句：A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.\n\n本题针对健康土壤中的主要成分进行提问，文中B第一段第三句与题目中的句子有明确的对应关系。题目中说到了bacteria, other microorganisms, plant remains，这些在原文中都可以找到对应的词汇，而原文中最后提到的various minerals与题目中的空格对应，结合题目中one word only的要求，本题答案为minerals。\n\n题号：15\n\n定位词：food, antibiotics, storing, climate\n\nB第二段第一、二句：That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and... Soil is also an ally against climate change: ..., they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.\n\n本题依然针对土壤的作用出题，根据句中说到的food和antibiotics，可以将本句与原文中B第二段第一句对应，之后根据出题位置提到的a significant effect on the climate，定位到本段第二句，本句说到可以lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere，这里the amount of carbon as docs the 的holding与题目中storing一致，本题答案为carbon。\n\n题号：16\n\n定位词：damage to property and infrastructure\n\nB第二段第三句：Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.\n\n本段最后一句说到在英国，damage to buildings, roads, bridges from foods所带来的损失，这部分与题目中damage to property and infrastructure的描述一致，土壤能够防止这些损失的发生，主要是因为原文中说到的soils also store water，这里的store与题目中的holds同义替换，本题答案为water。\n\n题号：17\n\n定位词：microorganisms, special properties\n\nC第二段第一句：Agriculture is by far the biggest problem.\n\n本题中说到如果microorganisms消失，土壤会失去其special properties，这一表达与原文C第一段一致，而C第二段首句说明Agriculture is by far the biggest problem，之后说明了为什么人类农业行为会破坏土壤的生态，而题目中问的是造成这种土壤退化现象的主要原因是人类的什么行为，本题答案为agriculture。",
+          "promptHtml": "Answer for gap 15."
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Answer for gap 16.",
+          "answers": [
+            "water"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6714_189690",
+          "explanation": "题号：14\n\n定位词：healthy soil, bacteria, microorganisms\n\nB第一段第三句：A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.\n\n本题针对健康土壤中的主要成分进行提问，文中B第一段第三句与题目中的句子有明确的对应关系。题目中说到了bacteria, other microorganisms, plant remains，这些在原文中都可以找到对应的词汇，而原文中最后提到的various minerals与题目中的空格对应，结合题目中one word only的要求，本题答案为minerals。\n\n题号：15\n\n定位词：food, antibiotics, storing, climate\n\nB第二段第一、二句：That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and... Soil is also an ally against climate change: ..., they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.\n\n本题依然针对土壤的作用出题，根据句中说到的food和antibiotics，可以将本句与原文中B第二段第一句对应，之后根据出题位置提到的a significant effect on the climate，定位到本段第二句，本句说到可以lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere，这里the amount of carbon as docs the 的holding与题目中storing一致，本题答案为carbon。\n\n题号：16\n\n定位词：damage to property and infrastructure\n\nB第二段第三句：Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.\n\n本段最后一句说到在英国，damage to buildings, roads, bridges from foods所带来的损失，这部分与题目中damage to property and infrastructure的描述一致，土壤能够防止这些损失的发生，主要是因为原文中说到的soils also store water，这里的store与题目中的holds同义替换，本题答案为water。\n\n题号：17\n\n定位词：microorganisms, special properties\n\nC第二段第一句：Agriculture is by far the biggest problem.\n\n本题中说到如果microorganisms消失，土壤会失去其special properties，这一表达与原文C第一段一致，而C第二段首句说明Agriculture is by far the biggest problem，之后说明了为什么人类农业行为会破坏土壤的生态，而题目中问的是造成这种土壤退化现象的主要原因是人类的什么行为，本题答案为agriculture。",
+          "promptHtml": "Answer for gap 16."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "If these microorganisms are lost, soil may lose its special properties. The main factor contributing to soil degradation is the [17] ______carried out by humans.",
+          "answers": [
+            "agriculture"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6714_631068",
+          "explanation": "题号：14\n\n定位词：healthy soil, bacteria, microorganisms\n\nB第一段第三句：A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.\n\n本题针对健康土壤中的主要成分进行提问，文中B第一段第三句与题目中的句子有明确的对应关系。题目中说到了bacteria, other microorganisms, plant remains，这些在原文中都可以找到对应的词汇，而原文中最后提到的various minerals与题目中的空格对应，结合题目中one word only的要求，本题答案为minerals。\n\n题号：15\n\n定位词：food, antibiotics, storing, climate\n\nB第二段第一、二句：That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and... Soil is also an ally against climate change: ..., they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.\n\n本题依然针对土壤的作用出题，根据句中说到的food和antibiotics，可以将本句与原文中B第二段第一句对应，之后根据出题位置提到的a significant effect on the climate，定位到本段第二句，本句说到可以lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere，这里the amount of carbon as docs the 的holding与题目中storing一致，本题答案为carbon。\n\n题号：16\n\n定位词：damage to property and infrastructure\n\nB第二段第三句：Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.\n\n本段最后一句说到在英国，damage to buildings, roads, bridges from foods所带来的损失，这部分与题目中damage to property and infrastructure的描述一致，土壤能够防止这些损失的发生，主要是因为原文中说到的soils also store water，这里的store与题目中的holds同义替换，本题答案为water。\n\n题号：17\n\n定位词：microorganisms, special properties\n\nC第二段第一句：Agriculture is by far the biggest problem.\n\n本题中说到如果microorganisms消失，土壤会失去其special properties，这一表达与原文C第一段一致，而C第二段首句说明Agriculture is by far the biggest problem，之后说明了为什么人类农业行为会破坏土壤的生态，而题目中问的是造成这种土壤退化现象的主要原因是人类的什么行为，本题答案为agriculture。",
+          "promptHtml": "If these microorganisms are lost, soil may lose its special properties. The main factor contributing to soil degradation is the [17] ______carried out by humans."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Why soil degradation could be a disaster for humans</strong></span></p>\n\n<p>Healthy soil contains a large variety of bacteria and other microorganisms, as well as plant remains and <strong>[14] ______</strong> It provides us with food and also with antibiotics, and its function in storing <strong>[15] ______</strong>has a significant effect on the climate. In addition, it prevents damage to property and infrastructure because it holds <strong>[16] ______</strong></p>\n\n<p>If these microorganisms are lost, soil may lose its special properties. The main factor contributing to soil degradation is the <strong>[17] ______</strong>carried out by humans.</p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 18-21\n\nComplete each sentence with the correct ending, A-F, below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Nutrients contained in the unused parts of harvested crops [18] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6714_982139",
+          "explanation": "题号：18\n\n定位词：unused parts of harvested crops\n\nC第二段第三句：Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile.\n\n本题问到关于unused parts of harvested crops的问题，可以在C第二段第三句中找到对应的表达。原文中说到Humans tend not to return unused parts of harvested crops directly to the soil，也就是说这一部分往往不会被返还到土壤中，这与选项C中may not be put back into the soil一致，因此本题答案为C。\n\n题号：19\n\n定位词：synthetic, fertilisers, the Haber-Bosch process\n\nD第二段第一、二、三句：But over the past few decades, it has become clear this wasn't such a bright idea. Chemical fertilisers can release ... degrading the soil they are supposed to nourish.\n\n原文中D第一段说到了使用Haber-Bosch process来制作合成化肥的方法，而D第二段首句说到it has become clear this wasn't such a bright idea，并在之后的两句话中具体解释了这种方法造成的影响，包括污染河流、加速土壤退化等，选项E中may cause damage to different aspects of the environment可以概括这里的描述，因此本题答案为E。\n\n题号：20\n\n定位词：a mixture developed by Pius Floris\n\nE段第四句：When they applied Floris's mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.\n\nE段第四句的内容与本题题干一致，说明加入这种mixture对植物的生长有很大好处，选项A中may improve the number and quality of plants growing there与之一致，因此本题答案为A。\n\n题号：21\n\n定位词：zero net soil degradation\n\nG第一段第四、五句：Chasek and her colleagues have proposed a goal of ‘zero net land degradation’. Like the idea of carbon neutrality, it is an easily understood target that ...\n\n关于zero net soil degradation的表述出现在原文G第一段第四句，根据上下文，可以了解到这是一种更容易被理解的说法，而第五句中也说到it is an easily understood target，选项D的表述与之一致，因此本题答案カD。",
+          "promptHtml": "Nutrients contained in the unused parts of harvested crops [18] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Synthetic fertilisers produced with the Haber-Bosch process [19] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6714_179146",
+          "explanation": "题号：18\n\n定位词：unused parts of harvested crops\n\nC第二段第三句：Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile.\n\n本题问到关于unused parts of harvested crops的问题，可以在C第二段第三句中找到对应的表达。原文中说到Humans tend not to return unused parts of harvested crops directly to the soil，也就是说这一部分往往不会被返还到土壤中，这与选项C中may not be put back into the soil一致，因此本题答案为C。\n\n题号：19\n\n定位词：synthetic, fertilisers, the Haber-Bosch process\n\nD第二段第一、二、三句：But over the past few decades, it has become clear this wasn't such a bright idea. Chemical fertilisers can release ... degrading the soil they are supposed to nourish.\n\n原文中D第一段说到了使用Haber-Bosch process来制作合成化肥的方法，而D第二段首句说到it has become clear this wasn't such a bright idea，并在之后的两句话中具体解释了这种方法造成的影响，包括污染河流、加速土壤退化等，选项E中may cause damage to different aspects of the environment可以概括这里的描述，因此本题答案为E。\n\n题号：20\n\n定位词：a mixture developed by Pius Floris\n\nE段第四句：When they applied Floris's mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.\n\nE段第四句的内容与本题题干一致，说明加入这种mixture对植物的生长有很大好处，选项A中may improve the number and quality of plants growing there与之一致，因此本题答案为A。\n\n题号：21\n\n定位词：zero net soil degradation\n\nG第一段第四、五句：Chasek and her colleagues have proposed a goal of ‘zero net land degradation’. Like the idea of carbon neutrality, it is an easily understood target that ...\n\n关于zero net soil degradation的表述出现在原文G第一段第四句，根据上下文，可以了解到这是一种更容易被理解的说法，而第五句中也说到it is an easily understood target，选项D的表述与之一致，因此本题答案カD。",
+          "promptHtml": "Synthetic fertilisers produced with the Haber-Bosch process [19] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Addition of a mixture developed by Pius Floris to the soil [20] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6714_688155",
+          "explanation": "题号：18\n\n定位词：unused parts of harvested crops\n\nC第二段第三句：Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile.\n\n本题问到关于unused parts of harvested crops的问题，可以在C第二段第三句中找到对应的表达。原文中说到Humans tend not to return unused parts of harvested crops directly to the soil，也就是说这一部分往往不会被返还到土壤中，这与选项C中may not be put back into the soil一致，因此本题答案为C。\n\n题号：19\n\n定位词：synthetic, fertilisers, the Haber-Bosch process\n\nD第二段第一、二、三句：But over the past few decades, it has become clear this wasn't such a bright idea. Chemical fertilisers can release ... degrading the soil they are supposed to nourish.\n\n原文中D第一段说到了使用Haber-Bosch process来制作合成化肥的方法，而D第二段首句说到it has become clear this wasn't such a bright idea，并在之后的两句话中具体解释了这种方法造成的影响，包括污染河流、加速土壤退化等，选项E中may cause damage to different aspects of the environment可以概括这里的描述，因此本题答案为E。\n\n题号：20\n\n定位词：a mixture developed by Pius Floris\n\nE段第四句：When they applied Floris's mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.\n\nE段第四句的内容与本题题干一致，说明加入这种mixture对植物的生长有很大好处，选项A中may improve the number and quality of plants growing there与之一致，因此本题答案为A。\n\n题号：21\n\n定位词：zero net soil degradation\n\nG第一段第四、五句：Chasek and her colleagues have proposed a goal of ‘zero net land degradation’. Like the idea of carbon neutrality, it is an easily understood target that ...\n\n关于zero net soil degradation的表述出现在原文G第一段第四句，根据上下文，可以了解到这是一种更容易被理解的说法，而第五句中也说到it is an easily understood target，选项D的表述与之一致，因此本题答案カD。",
+          "promptHtml": "Addition of a mixture developed by Pius Floris to the soil [20] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "The idea of zero net soil degradation [21] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6714_244516",
+          "explanation": "题号：18\n\n定位词：unused parts of harvested crops\n\nC第二段第三句：Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile.\n\n本题问到关于unused parts of harvested crops的问题，可以在C第二段第三句中找到对应的表达。原文中说到Humans tend not to return unused parts of harvested crops directly to the soil，也就是说这一部分往往不会被返还到土壤中，这与选项C中may not be put back into the soil一致，因此本题答案为C。\n\n题号：19\n\n定位词：synthetic, fertilisers, the Haber-Bosch process\n\nD第二段第一、二、三句：But over the past few decades, it has become clear this wasn't such a bright idea. Chemical fertilisers can release ... degrading the soil they are supposed to nourish.\n\n原文中D第一段说到了使用Haber-Bosch process来制作合成化肥的方法，而D第二段首句说到it has become clear this wasn't such a bright idea，并在之后的两句话中具体解释了这种方法造成的影响，包括污染河流、加速土壤退化等，选项E中may cause damage to different aspects of the environment可以概括这里的描述，因此本题答案为E。\n\n题号：20\n\n定位词：a mixture developed by Pius Floris\n\nE段第四句：When they applied Floris's mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.\n\nE段第四句的内容与本题题干一致，说明加入这种mixture对植物的生长有很大好处，选项A中may improve the number and quality of plants growing there与之一致，因此本题答案为A。\n\n题号：21\n\n定位词：zero net soil degradation\n\nG第一段第四、五句：Chasek and her colleagues have proposed a goal of ‘zero net land degradation’. Like the idea of carbon neutrality, it is an easily understood target that ...\n\n关于zero net soil degradation的表述出现在原文G第一段第四句，根据上下文，可以了解到这是一种更容易被理解的说法，而第五句中也说到it is an easily understood target，选项D的表述与之一致，因此本题答案カD。",
+          "promptHtml": "The idea of zero net soil degradation [21] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "may improve the number and quality of plants growing there."
+        },
+        {
+          "value": "B",
+          "text": "may contain data from up to nine countries."
+        },
+        {
+          "value": "C",
+          "text": "may not be put back into the soil."
+        },
+        {
+          "value": "D",
+          "text": "may help governments to be more aware of soil-related issues."
+        },
+        {
+          "value": "E",
+          "text": "may cause damage to different aspects of the environment."
+        },
+        {
+          "value": "F",
+          "text": "may be better for use at a global level."
+        }
+      ],
+      "contextHtml": "<p> Nutrients contained in the unused parts of harvested crops <strong>[18] ______</strong> </p>\n\n<p> Synthetic fertilisers produced with the Haber-Bosch process <strong>[19] ______</strong> </p>\n\n<p> Addition of a mixture developed by Pius Floris to the soil <strong>[20] ______</strong> </p>\n\n<p> The idea of zero net soil degradation <strong>[21] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 22-26\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "a reference to one person's motivation for a soil-improvement project",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6714_376607-1"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "an explanation of how soil stayed healthy before the development of farming",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6714_376607-2"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "examples of different ways of collecting information on soil degradation",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6714_376607-3"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "a suggestion for a way of keeping some types of soil safe in the near future",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6714_376607-4"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "a reason why it is difficult to provide an overview of soil degradation",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6714_376607-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>SAVING THE SOIL</strong></span></p><p><em>More than a third of the Earth&#x27;s top layer is at risk. Is there hope for our planet&#x27;s most precious resource?</em></p><p>A    More than a third of the world&#x27;s soil is endangered, according to a recent UN report. If we don&#x27;t slow the decline, all farmable soil could be gone in 60 years. Since soil grows 95% of our food, and sustains human life in other more surprising ways, that is a huge problem.</p><p>B    Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points out that soil scientists have been warning about the degradation of the world&#x27;s soil for decades. At the same time, our understanding of its importance to humans has grown. A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.</p><p>That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and could be our best hope in the fight against antibiotic- resistant bacteria. Soil is also an ally against climate change: as microorganisms within soil digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere. Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.</p><p>C    If the soil loses its ability to perform these functions, the human race could be in big trouble. The danger is not that the soil will disappear completely, but that the microorganisms that give it its special properties will be lost. And once this has happened, it may take the soil thousands of years to recover.</p><p>Agriculture is by far the biggest problem. In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil. Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile. In the past we developed strategies to get around the problem, such as regularly varying the types of crops grown, or leaving fields uncultivated for a season.</p><p>D    But these practices became inconvenient as populations grew and agriculture had to be run on more commercial lines. A solution came in the early 20th century with the Haber-Bosch process for manufacturing ammonium nitrate. Farmers have been putting this synthetic fertiliser on their fields ever since.</p><p>But over the past few decades, it has become clear this wasn&#x27;t such a bright idea. Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers. More recently, we have found that indiscriminate use of fertilisers hurts the soil itself, turning it acidic and salty, and degrading the soil they are supposed to nourish.</p><p>E    One of the people looking for a solution to this problem is Pius Floris, who started out running a tree-care business in the Netherlands, and now advises some of the world&#x27;s top soil scientists. He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this. Researchers at the University of Valladolid in Spain recently used this cocktail on soils destroyed by years of fertiliser overuse. When they applied Floris&#x27;s mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock. The few plants that grew in the control plots, fed with traditional fertilisers, were small and weak.</p><p>F    However, measures like this are not enough to solve the global soil degradation problem. To assess our options on a global scale we first need an accurate picture of what types of soil are out there, and the problems they face. That&#x27;s not easy. For one thing, there is no agreed international system for classifying soil. In an attempt to unify the different approaches, the UN has created the Global Soil Map project. Researchers from nine countries are working together to create a map linked to a database that can be fed measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on to provide real-time data on the state of the soil. Within the next four years, they aim to have mapped soils worldwide to a depth of 100 metres, with the results freely accessible to all.</p><p>G    But this is only a first step. We need ways of presenting the problem that bring it home to governments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada. &#x27;Most scientists don&#x27;t speak language that policy-makers can understand, and vice versa. Chasek and her colleagues have proposed a goal of &#x27;zero net land degradation&#x27;. Like the idea of carbon neutrality, it is an easily understood target that can help shape expectations and encourage action.</p><p>For soils on the brink, that may be too late. Several researchers are agitating for the immediate creation of protected zones for endangered soils. One difficulty here is defining what these areas should conserve: areas where the greatest soil diversity is present? Or areas of unspoilt soils that could act as a future benchmark of quality?</p><p>Whatever we do, if we want our soils to survive, we need to take action now.</p><div><div><p>*Humus: the part of the soil formed from dead plant material</p></div></div>"
+}

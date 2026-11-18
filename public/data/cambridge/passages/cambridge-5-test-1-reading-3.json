@@ -1,0 +1,392 @@
+{
+  "id": "cambridge-5-test-1-reading-3",
+  "title": "The Truth about the Environment",
+  "titleCn": "The Truth about the Environment",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 5,
+    "test": 1
+  },
+  "sourceQuestionId": "6960",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6960",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Truth about the Environment"
+    },
+    {
+      "label": "2",
+      "text": "For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet's air and water are becoming ever more polluted."
+    },
+    {
+      "label": "3",
+      "text": "But a quick look at the facts shows a different picture. First, energy and other natural resources have become more abundant, not less so, since the book 'The Limits to Growth' was published in 1972 by a group of scientists. Second, more food is now produced per head of the world's population than at any time in history. Fewer people are starving. Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25-50%, as has so often been predicted. And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient - associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it. One form of pollution - the release of greenhouse gases that causes global warming - does appear to be a phenomenon that is going to extend well into our future, but its total impact is unlikely to pose a devastating problem. A bigger problem may well turn out to be an inappropriate response to it."
+    },
+    {
+      "label": "4",
+      "text": "Yet opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality."
+    },
+    {
+      "label": "5",
+      "text": "One is the lopsidedness built into scientific research. Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will also create an impression that many more potential problems exist than is the case."
+    },
+    {
+      "label": "6",
+      "text": "Secondly, environmental groups need to be noticed by the mass media. They also need to keep the money rolling in. Understandably, perhaps, they sometimes overstate their arguments. In 1997, for example, the World Wide Fund for Nature issued a press release entitled: 'Two thirds of the world's forests lost forever'. The truth turns out to be nearer 20%."
+    },
+    {
+      "label": "7",
+      "text": "Though these groups are run overwhelmingly by selfless folk, they nevertheless share many of the characteristics of other lobby groups. That would matter less if people applied the same degree of scepticism to environmental lobbying as they do to lobby groups in other fields. A trade organisation arguing for, say, weaker pollution controls is instantly seen as self-interested. Yet a green organisation opposing such a weakening is seen as altruistic, even if an impartial view of the controls in question might suggest they are doing more harm than good."
+    },
+    {
+      "label": "8",
+      "text": "A third source of confusion is the attitude of the media. People are clearly more curious about bad news than good. Newspapers and broadcasters are there to provide what the public wants. That, however, can lead to significant distortions of perception. An example was America's encounter with El Niño in 1997 and 1998. This climatic phenomenon was accused of wrecking tourism, causing allergies, melting the ski-slopes and causing 22 deaths. However, according to an article in the Bulletin of the American Meteorological Society, the damage it did was estimated at US $4 billion but the benefits amounted to some US $19 billion. These came from higher winter temperatures (which saved an estimated 850 lives, reduced heating costs and diminished spring floods caused by meltwaters)."
+    },
+    {
+      "label": "9",
+      "text": "The fourth factor is poor individual perception. People worry that the endless rise in the amount of stuff everyone throws away will cause the world to run out of places to dispose of waste. Yet, even if America's trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000th of the area of the entire United States."
+    },
+    {
+      "label": "10",
+      "text": "So what of global warming? As we know, carbon dioxide emissions are causing the planet to warm. The best estimates are that the temperatures will rise by 2-3℃ in this century, causing considerable problems, at a total cost of US $5,000 billion."
+    },
+    {
+      "label": "11",
+      "text": "Despite the intuition that something drastic needs to be done about such a costly problem, economic analyses clearly show it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures. A model by one of the main authors of the United Nations Climate Change Panel shows how an expected temperature increase of 2.1 degrees in 2100 would only be diminished to an increase of 1.9 degrees. Or to put it another way, the temperature increase that the planet would have experienced in 2094 would be postponed to 2100."
+    },
+    {
+      "label": "12",
+      "text": "So this does not prevent global warming, but merely buys the world six years. Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world's single, most pressing health problem: providing universal access to clean drinking water and sanitation. Such measures would avoid 2 million deaths every year, and prevent half a billion people from becoming seriously ill."
+    },
+    {
+      "label": "13",
+      "text": "It is crucial that we look at the facts if we want to make the best possible decisions for the future. It may be costly to be overly optimistic - but more costly still to be too pessimistic."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "instruction": "Questions 27-32\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Environmentalists take a pessimistic view of the world for a number of reasons.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6960_214198",
+          "explanation": "参考译文：由于一系列原因，环保主义者对世界持悲观的态度。\n\n定位词：environmentalists\n\n解题关键词：pessimistic, a number of reasons\n\n文中对应第一段：For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: …hit-list重要事件的列表，按计划进行杀害的名单。在这里应该理解为一系列。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Data on the Earth's natural resources has only been collected since 1972.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6960_424938",
+          "explanation": "参考译文：1972年之后人们才开始收集有关地球自然资源的数据。\n\n定位词：1972\n\n解题关键词：only\n\n文中对应第二段：..... \"The Limits to Growth\" was published in 1972 by a group of scientists.\"1972年这个信息只在上面这句话中出现，而按照顺序解题原则，这道题目的答案只能在第二段中寻找，实际上该段并未提到任何关于资料搜集开始时间的信息。所以这是一道典型的NOT GIVEN。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "The number of starving people in the world has increased in recent years.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6960_478886",
+          "explanation": "参考译文：近几年来，世界上挨饿的人越来越多。\n\n定位词：starving people\n\n解题关键词：increased\n\n文中对应第二段：Fewer people are starving."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Extinct species are being replaced by new species.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6960_189361",
+          "explanation": "参考译文：灭绝物种正在被新物种所代替。\n\n定位词：species\n\n解题关键词：replaced\n\n文中对应第二段：Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, ...这一句虽然提到了物种，但是并没有提到题目中论述的那个话题。而且，题目其实也是在变相地将新旧物种比较，属于并不存在的比较关系，因此应选择NOTGIVEN。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Some pollution problems have been correctly linked to industrialisation.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6960_286621",
+          "explanation": "参考译文：有些污染问题的确和工业化有关。\n\n定位词：industrialisation\n\n解题关键词：been correctly linked to\n\n文中对应第二段：And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient—associated with the early phases of industiralisation...这句话说明工业化早期的确引起了一些污染问题，故此题选YES。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "It would be best to attempt to slow down economic growth.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6960_163184",
+          "explanation": "参考译文：我们最好尝试减慢经济发展的速度。\n\n定位词：economic growth, best\n\n解题关键词：slow down\n\n文中对应第二段：…and therefore best cured not by restricting economic growth, but by accelerating it.文中已经明确提到控制污染的最好方式不是减慢经济发展速度，而是加速经济发展。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "choice",
+      "instruction": "Questions 33-37\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "What aspect of scientific research does the writer express concern about in paragraph 4?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6960_403754",
+          "options": [
+            {
+              "value": "A",
+              "text": "the need to produce results"
+            },
+            {
+              "value": "B",
+              "text": "the lack of financial support"
+            },
+            {
+              "value": "C",
+              "text": "the selection of areas to research"
+            },
+            {
+              "value": "D",
+              "text": "the desire to solve every research problem"
+            }
+          ],
+          "explanation": "定位：paragraph4\n\n题目：在第四段中，作者提出了对下列哪个科研领域的关注：\n\nA对成果的追求\n\nB缺乏资金支持\n\nC对研究领域的选择\n\nD试图解决所有问题的想法\n\n文中对应第四段第二句：Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will…\n\n正确答案：C"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "The writer quotes from the Worldwide Fund for Nature to illustrate how",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6960_716922",
+          "options": [
+            {
+              "value": "A",
+              "text": "influential the mass media can be."
+            },
+            {
+              "value": "B",
+              "text": "effective environmental groups can be."
+            },
+            {
+              "value": "C",
+              "text": "the mass media can help groups raise funds."
+            },
+            {
+              "value": "D",
+              "text": "environmental groups can exaggerate their claims."
+            }
+          ],
+          "explanation": "定位词：Worldwide Fund for Nature\n\n题目：作者引用世界自然基金的数据是为了说明：\n\nA媒体的力量多么巨大\n\nB环保组织工作很有效\n\nC媒体可以帮助组织筹集资金\n\nD环保组织可能会夸大事实\n\n文中对应第五段：Understandably, perhaps, they sometimes overstate their arguments.\n\n正确答案：D"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "What is the writer's main point about lobby groups in paragraph 6?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6960_388225",
+          "options": [
+            {
+              "value": "A",
+              "text": "Some are more active than others."
+            },
+            {
+              "value": "B",
+              "text": "Some are better organised than others."
+            },
+            {
+              "value": "C",
+              "text": "Some receive more criticism than others."
+            },
+            {
+              "value": "D",
+              "text": "Some support more important issues than others."
+            }
+          ],
+          "explanation": "定位：paragraph6\n\n题目：文中第六段作者对游说团体的看法：\n\nA某些团体比较活跃\n\nB有些团体的组织管理比较好\n\nC有些团体遭到更多的批判\n\nD有些团体关注更为重要的问题\n\n文中对应第六段：That would matter less if people applied the same degree of skepticism to environmental lobbying as they do to lobby groups in other fields.\n\n正确答案：C"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "The writer suggests that newspapers print items that are intended to",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6960_142010",
+          "options": [
+            {
+              "value": "A",
+              "text": "educate readers."
+            },
+            {
+              "value": "B",
+              "text": "meet their readers' expectations."
+            },
+            {
+              "value": "C",
+              "text": "encourage feedback from readers."
+            },
+            {
+              "value": "D",
+              "text": "mislead readers."
+            }
+          ],
+          "explanation": "定位词：newspaper print\n\n题目：作者认为报纸等新闻出版物应该：\n\nA教育读者\n\nB满足读者的需求\n\nC鼓励读者反馈意见\n\nD误导读者\n\n文中对应第七段：Newspaper and broadcasters are there to provide what the public wants.\n\n正确答案：B"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "What does the writer say about America's waste problem?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6960_188114",
+          "options": [
+            {
+              "value": "A",
+              "text": "It will increase in line with population growth."
+            },
+            {
+              "value": "B",
+              "text": "It is not as important as we have been led to believe."
+            },
+            {
+              "value": "C",
+              "text": "It has been reduced through public awareness of the issues."
+            },
+            {
+              "value": "D",
+              "text": "It is only significant in certain areas of the country."
+            }
+          ],
+          "explanation": "定位词：America\n\n题目：作者对美国垃圾问题的观点是：\n\nA垃圾问题会随着人口增长而加剧\n\nB垃圾问题没有我们想象得严重\n\nC由于公众的关注，垃圾问题已经减轻了\n\nD垃圾问题只在某些地区比较严重\n\n文中对应第八段：Yet, even if America' s trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000 th of the area of the entire United\n\nStates.\n\n正确答案：B"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 38-40\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Answer for gap 38.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6960_116345",
+          "explanation": "题号：38\n\n定位词：global warning/a\n\n文中对应最后四段大意理解\n\n题目解析：此空要求填一个形容词，而词库中基本上全是形容词，可以从逻辑角度和语意方面来分析。这里应该填一个表示正面感情色彩的形容词，而且这个词要可以和challenge搭配。那么选择范围就缩小到了agreed/ right long-term/surprising / urgent五个词上。然后再根据后半句but来判断，作者对全球变暖问题的态度是乐观的，显然应该是一个与catastrophic相反的词，因此范围最终缩小到了long-term。注意：这个答案在文章中不能直接找到，只能靠理解选择，这是一道极其特殊的summary题目。\n\n题号：39\n\n定位词：way\n\n文中对应最后四段大意理解\n\n题目解析：right是放进这个空翻译起来最合适的单词，所以选了它。这个空的风格与上一空极其相似。\n\n题号：40\n\n定位词：health problem\n\n文中对应倒数第二段\n\n题目解析：…most pressing health problem: providing universal access to clean drinking water and sanitation.这句话中的most pressing指最急迫的，最迫切的，正好和词库中的urgent相对应。\n\n注意：此题比较特殊，需要对后四段全面理解才能做出，应该加以注意。",
+          "promptHtml": "Answer for gap 38."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Answer for gap 39.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6960_947368",
+          "explanation": "题号：38\n\n定位词：global warning/a\n\n文中对应最后四段大意理解\n\n题目解析：此空要求填一个形容词，而词库中基本上全是形容词，可以从逻辑角度和语意方面来分析。这里应该填一个表示正面感情色彩的形容词，而且这个词要可以和challenge搭配。那么选择范围就缩小到了agreed/ right long-term/surprising / urgent五个词上。然后再根据后半句but来判断，作者对全球变暖问题的态度是乐观的，显然应该是一个与catastrophic相反的词，因此范围最终缩小到了long-term。注意：这个答案在文章中不能直接找到，只能靠理解选择，这是一道极其特殊的summary题目。\n\n题号：39\n\n定位词：way\n\n文中对应最后四段大意理解\n\n题目解析：right是放进这个空翻译起来最合适的单词，所以选了它。这个空的风格与上一空极其相似。\n\n题号：40\n\n定位词：health problem\n\n文中对应倒数第二段\n\n题目解析：…most pressing health problem: providing universal access to clean drinking water and sanitation.这句话中的most pressing指最急迫的，最迫切的，正好和词库中的urgent相对应。\n\n注意：此题比较特殊，需要对后四段全面理解才能做出，应该加以注意。",
+          "promptHtml": "Answer for gap 39."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Answer for gap 40.",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q6960_448301",
+          "explanation": "题号：38\n\n定位词：global warning/a\n\n文中对应最后四段大意理解\n\n题目解析：此空要求填一个形容词，而词库中基本上全是形容词，可以从逻辑角度和语意方面来分析。这里应该填一个表示正面感情色彩的形容词，而且这个词要可以和challenge搭配。那么选择范围就缩小到了agreed/ right long-term/surprising / urgent五个词上。然后再根据后半句but来判断，作者对全球变暖问题的态度是乐观的，显然应该是一个与catastrophic相反的词，因此范围最终缩小到了long-term。注意：这个答案在文章中不能直接找到，只能靠理解选择，这是一道极其特殊的summary题目。\n\n题号：39\n\n定位词：way\n\n文中对应最后四段大意理解\n\n题目解析：right是放进这个空翻译起来最合适的单词，所以选了它。这个空的风格与上一空极其相似。\n\n题号：40\n\n定位词：health problem\n\n文中对应倒数第二段\n\n题目解析：…most pressing health problem: providing universal access to clean drinking water and sanitation.这句话中的most pressing指最急迫的，最迫切的，正好和词库中的urgent相对应。\n\n注意：此题比较特殊，需要对后四段全面理解才能做出，应该加以注意。",
+          "promptHtml": "Answer for gap 40."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "unrealistic"
+        },
+        {
+          "value": "B",
+          "text": "agreed"
+        },
+        {
+          "value": "C",
+          "text": "expensive"
+        },
+        {
+          "value": "D",
+          "text": "right"
+        },
+        {
+          "value": "E",
+          "text": "long-term"
+        },
+        {
+          "value": "F",
+          "text": "usual"
+        },
+        {
+          "value": "G",
+          "text": "surprising"
+        },
+        {
+          "value": "H",
+          "text": "personal"
+        },
+        {
+          "value": "I",
+          "text": "urgent"
+        }
+      ],
+      "contextHtml": "<p>The writer admits that global warming is a <strong>[38] ______</strong> challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the <strong>[39] ______</strong> way. If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more <strong>[40] ______</strong> health problem of providing the world&#x27;s population with clean drinking water.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The Truth about the Environment</strong></span></p><p>For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet&#x27;s air and water are becoming ever more polluted.</p><p>But a quick look at the facts shows a different picture. First, energy and other natural resources have become more abundant, not less so, since the book &#x27;The Limits to Growth&#x27; was published in 1972 by a group of scientists. Second, more food is now produced per head of the world&#x27;s population than at any time in history. Fewer people are starving. Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25-50%, as has so often been predicted. And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient - associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it. One form of pollution - the release of greenhouse gases that causes global warming - does appear to be a phenomenon that is going to extend well into our future, but its total impact is unlikely to pose a devastating problem. A bigger problem may well turn out to be an inappropriate response to it.</p><p>Yet opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality.</p><p>One is the lopsidedness built into scientific research. Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will also create an impression that many more potential problems exist than is the case.</p><p>Secondly, environmental groups need to be noticed by the mass media. They also need to keep the money rolling in. Understandably, perhaps, they sometimes overstate their arguments. In 1997, for example, the World Wide Fund for Nature issued a press release entitled: &#x27;Two thirds of the world&#x27;s forests lost forever&#x27;. The truth turns out to be nearer 20%.</p><p>Though these groups are run overwhelmingly by selfless folk, they nevertheless share many of the characteristics of other lobby groups. That would matter less if people applied the same degree of scepticism to environmental lobbying as they do to lobby groups in other fields. A trade organisation arguing for, say, weaker pollution controls is instantly seen as self-interested. Yet a green organisation opposing such a weakening is seen as altruistic, even if an impartial view of the controls in question might suggest they are doing more harm than good.</p><p>A third source of confusion is the attitude of the media. People are clearly more curious about bad news than good. Newspapers and broadcasters are there to provide what the public wants. That, however, can lead to significant distortions of perception. An example was America&#x27;s encounter with El Niño in 1997 and 1998. This climatic phenomenon was accused of wrecking tourism, causing allergies, melting the ski-slopes and causing 22 deaths. However, according to an article in the Bulletin of the American Meteorological Society, the damage it did was estimated at US $4 billion but the benefits amounted to some US $19 billion. These came from higher winter temperatures (which saved an estimated 850 lives, reduced heating costs and diminished spring floods caused by meltwaters).</p><p>The fourth factor is poor individual perception. People worry that the endless rise in the amount of stuff everyone throws away will cause the world to run out of places to dispose of waste. Yet, even if America&#x27;s trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000th of the area of the entire United States.</p><p>So what of global warming? As we know, carbon dioxide emissions are causing the planet to warm. The best estimates are that the temperatures will rise by 2-3℃ in this century, causing considerable problems, at a total cost of US $5,000 billion.</p><p>Despite the intuition that something drastic needs to be done about such a costly problem, economic analyses clearly show it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures. A model by one of the main authors of the United Nations Climate Change Panel shows how an expected temperature increase of 2.1 degrees in 2100 would only be diminished to an increase of 1.9 degrees. Or to put it another way, the temperature increase that the planet would have experienced in 2094 would be postponed to 2100.</p><p>So this does not prevent global warming, but merely buys the world six years. Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world&#x27;s single, most pressing health problem: providing universal access to clean drinking water and sanitation. Such measures would avoid 2 million deaths every year, and prevent half a billion people from becoming seriously ill.</p><p>It is crucial that we look at the facts if we want to make the best possible decisions for the future. It may be costly to be overly optimistic - but more costly still to be too pessimistic.</p>"
+}

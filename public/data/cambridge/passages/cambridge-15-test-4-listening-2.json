@@ -1,0 +1,369 @@
+{
+  "id": "cambridge-15-test-4-listening-2",
+  "title": "Croft Valley Park",
+  "titleCn": "Croft Valley Park",
+  "subject": "listening",
+  "part": 2,
+  "duration": 380,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 15,
+    "test": 4
+  },
+  "sourceQuestionId": "8120",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8120",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "PART 2"
+    },
+    {
+      "label": "2",
+      "text": "As chair of the town council subcommittee on park facilities, I'd like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let's begin with a general overview. So the basic arrangement of the park hasn't changed – it still has two gates, north and south, and a lake in the middle."
+    },
+    {
+      "label": "3",
+      "text": "The café continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum."
+    },
+    {
+      "label": "4",
+      "text": "We're hoping to change the location of the toilets, and bring them nearer to the centre of the park as they're a bit out of the way at present, near the adventure playground, in the corner of your map."
+    },
+    {
+      "label": "5",
+      "text": "The formal gardens have been replanted and should be at their best in a month or two. They used to be behind the old museum, but we've now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum."
+    },
+    {
+      "label": "6",
+      "text": "We have a new outdoor gym for adults and children, which is already proving very popular. It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it's a bit hidden in the trees."
+    },
+    {
+      "label": "7",
+      "text": "One very successful introduction has been our skateboard ramp. It's in constant use during the evenings and holidays. It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum."
+    },
+    {
+      "label": "8",
+      "text": "We've also introduced a new area for wild flowers, to attract bees and butterflies. It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground."
+    },
+    {
+      "label": "9",
+      "text": "Now let me tell you a bit more about some of the changes to Croft Valley Park."
+    },
+    {
+      "label": "10",
+      "text": "One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. It's open year-round, though it closes early in the winter months, and entrance is completely free. Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there. There are plenty of seats where parents can relax and keep an eye on their children at the same time."
+    },
+    {
+      "label": "11",
+      "text": "Lastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side. Over £80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 10am to 3pm Mondays to Thursdays, and it's hoped to extend this to the weekend soon. We're grateful to all those who helped us by contributing their time and money to this achievement."
+    },
+    {
+      "label": "12",
+      "text": "The gardens have …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 11–16\n\nLabel the map below.\n\nWrite the correct letter, A–H, next to Questions 11–16.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "11.café [11] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8120_328707",
+          "explanation": "11、\n\n题干：café\n\n原文：…is still in the same place, looking out over the lake and next to the old museum.\n\n必备表达：look out over\n\nnext to\n\n12、\n\n题干：toilets\n\n原文：…near the adventure playground, in the corner of your map.\n\n必备表达：near\n\nin the corner\n\n13、\n\n题干：formal gardens\n\n原文：…but we’ve now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.\n\n必备表达：near\n\nbetween…and…\n\ngo past\n\ntowards\n\n14、\n\n题干：outdoor gym\n\n原文：It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees.\n\n必备表达：by\n\nright\n\nfrom\n\n15、\n\n题干：skateboard ramp\n\n原文：It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.\n\n必备表达：near\n\nend\n\noff\n\nbetween…and…\n\n16、\n\n题干：wild flowers\n\n原文：It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.\n\n必备表达：bend\n\ngo round\n\neast\n\nsouth",
+          "promptHtml": "11.café [11] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "12.toilets [12] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8120_593044",
+          "explanation": "11、\n\n题干：café\n\n原文：…is still in the same place, looking out over the lake and next to the old museum.\n\n必备表达：look out over\n\nnext to\n\n12、\n\n题干：toilets\n\n原文：…near the adventure playground, in the corner of your map.\n\n必备表达：near\n\nin the corner\n\n13、\n\n题干：formal gardens\n\n原文：…but we’ve now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.\n\n必备表达：near\n\nbetween…and…\n\ngo past\n\ntowards\n\n14、\n\n题干：outdoor gym\n\n原文：It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees.\n\n必备表达：by\n\nright\n\nfrom\n\n15、\n\n题干：skateboard ramp\n\n原文：It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.\n\n必备表达：near\n\nend\n\noff\n\nbetween…and…\n\n16、\n\n题干：wild flowers\n\n原文：It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.\n\n必备表达：bend\n\ngo round\n\neast\n\nsouth",
+          "promptHtml": "12.toilets [12] ______"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "13.formal gardens [13] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8120_674069",
+          "explanation": "11、\n\n题干：café\n\n原文：…is still in the same place, looking out over the lake and next to the old museum.\n\n必备表达：look out over\n\nnext to\n\n12、\n\n题干：toilets\n\n原文：…near the adventure playground, in the corner of your map.\n\n必备表达：near\n\nin the corner\n\n13、\n\n题干：formal gardens\n\n原文：…but we’ve now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.\n\n必备表达：near\n\nbetween…and…\n\ngo past\n\ntowards\n\n14、\n\n题干：outdoor gym\n\n原文：It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees.\n\n必备表达：by\n\nright\n\nfrom\n\n15、\n\n题干：skateboard ramp\n\n原文：It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.\n\n必备表达：near\n\nend\n\noff\n\nbetween…and…\n\n16、\n\n题干：wild flowers\n\n原文：It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.\n\n必备表达：bend\n\ngo round\n\neast\n\nsouth",
+          "promptHtml": "13.formal gardens [13] ______"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "14.outdoor gym [14] ______",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8120_826325",
+          "explanation": "11、\n\n题干：café\n\n原文：…is still in the same place, looking out over the lake and next to the old museum.\n\n必备表达：look out over\n\nnext to\n\n12、\n\n题干：toilets\n\n原文：…near the adventure playground, in the corner of your map.\n\n必备表达：near\n\nin the corner\n\n13、\n\n题干：formal gardens\n\n原文：…but we’ve now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.\n\n必备表达：near\n\nbetween…and…\n\ngo past\n\ntowards\n\n14、\n\n题干：outdoor gym\n\n原文：It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees.\n\n必备表达：by\n\nright\n\nfrom\n\n15、\n\n题干：skateboard ramp\n\n原文：It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.\n\n必备表达：near\n\nend\n\noff\n\nbetween…and…\n\n16、\n\n题干：wild flowers\n\n原文：It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.\n\n必备表达：bend\n\ngo round\n\neast\n\nsouth",
+          "promptHtml": "14.outdoor gym [14] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "15.skateboard ramp [15] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8120_653389",
+          "explanation": "11、\n\n题干：café\n\n原文：…is still in the same place, looking out over the lake and next to the old museum.\n\n必备表达：look out over\n\nnext to\n\n12、\n\n题干：toilets\n\n原文：…near the adventure playground, in the corner of your map.\n\n必备表达：near\n\nin the corner\n\n13、\n\n题干：formal gardens\n\n原文：…but we’ve now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.\n\n必备表达：near\n\nbetween…and…\n\ngo past\n\ntowards\n\n14、\n\n题干：outdoor gym\n\n原文：It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees.\n\n必备表达：by\n\nright\n\nfrom\n\n15、\n\n题干：skateboard ramp\n\n原文：It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.\n\n必备表达：near\n\nend\n\noff\n\nbetween…and…\n\n16、\n\n题干：wild flowers\n\n原文：It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.\n\n必备表达：bend\n\ngo round\n\neast\n\nsouth",
+          "promptHtml": "15.skateboard ramp [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "16.wild flowers [16] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8120_220440",
+          "explanation": "11、\n\n题干：café\n\n原文：…is still in the same place, looking out over the lake and next to the old museum.\n\n必备表达：look out over\n\nnext to\n\n12、\n\n题干：toilets\n\n原文：…near the adventure playground, in the corner of your map.\n\n必备表达：near\n\nin the corner\n\n13、\n\n题干：formal gardens\n\n原文：…but we’ve now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.\n\n必备表达：near\n\nbetween…and…\n\ngo past\n\ntowards\n\n14、\n\n题干：outdoor gym\n\n原文：It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees.\n\n必备表达：by\n\nright\n\nfrom\n\n15、\n\n题干：skateboard ramp\n\n原文：It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.\n\n必备表达：near\n\nend\n\noff\n\nbetween…and…\n\n16、\n\n题干：wild flowers\n\n原文：It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.\n\n必备表达：bend\n\ngo round\n\neast\n\nsouth",
+          "promptHtml": "16.wild flowers [16] ______"
+        }
+      ],
+      "sourceType": "map",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/3bf934d609f61ec7e55a36b03f19b7ed.png\" alt=\"原题配图\"></p>\n\n<p>11.café <strong>[11] ______</strong>         <br>\n12.toilets <strong>[12] ______</strong>         <br>\n13.formal gardens <strong>[13] ______</strong>         <br>\n14.outdoor gym <strong>[14] ______</strong>         <br>\n15.skateboard ramp <strong>[15] ______</strong>         <br>\n16.wild flowers <strong>[16] ______</strong></p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 17 and 18\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "What does the speaker say about the adventure playground?",
+          "answers": [
+            "A",
+            "D"
+          ],
+          "sourceCode": "Q8120_542504",
+          "options": [
+            {
+              "value": "A",
+              "text": "Children must be supervised."
+            },
+            {
+              "value": "B",
+              "text": "It costs more in winter."
+            },
+            {
+              "value": "C",
+              "text": "Some activities are only for younger children."
+            },
+            {
+              "value": "D",
+              "text": "No payment is required."
+            },
+            {
+              "value": "E",
+              "text": "It was recently expanded."
+            }
+          ],
+          "explanation": "17~18. 题干词adventure playground原文重现，可以帮助定位。选项D：题干词no payment 与原文 free替换。选项A：题干词supervise 与原文don’t leave them on their own, keep an eye on 替换。选项B：不选，因为原文中提到的是冬月里会早点结束营业，而不是说花费更多。选项C：不选，原文明确说到不受年龄限制。选项E：不选，原文说这个区域是新增的，而不是最近扩张的。考生需理解expand词意。",
+          "setId": "Q8120_542504",
+          "blockId": "Q8120_542504"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "What does the speaker say about the adventure playground?",
+          "answers": [
+            "A",
+            "D"
+          ],
+          "sourceCode": "Q8120_542504",
+          "options": [
+            {
+              "value": "A",
+              "text": "Children must be supervised."
+            },
+            {
+              "value": "B",
+              "text": "It costs more in winter."
+            },
+            {
+              "value": "C",
+              "text": "Some activities are only for younger children."
+            },
+            {
+              "value": "D",
+              "text": "No payment is required."
+            },
+            {
+              "value": "E",
+              "text": "It was recently expanded."
+            }
+          ],
+          "explanation": "17~18. 题干词adventure playground原文重现，可以帮助定位。选项D：题干词no payment 与原文 free替换。选项A：题干词supervise 与原文don’t leave them on their own, keep an eye on 替换。选项B：不选，因为原文中提到的是冬月里会早点结束营业，而不是说花费更多。选项C：不选，原文明确说到不受年龄限制。选项E：不选，原文说这个区域是新增的，而不是最近扩张的。考生需理解expand词意。",
+          "setId": "Q8120_542504",
+          "blockId": "Q8120_542504"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Children must be supervised."
+        },
+        {
+          "value": "B",
+          "text": "It costs more in winter."
+        },
+        {
+          "value": "C",
+          "text": "Some activities are only for younger children."
+        },
+        {
+          "value": "D",
+          "text": "No payment is required."
+        },
+        {
+          "value": "E",
+          "text": "It was recently expanded."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 19 and 20\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "What does the speaker say about the glass houses?",
+          "answers": [
+            "A",
+            "C"
+          ],
+          "sourceCode": "Q8120_146569",
+          "options": [
+            {
+              "value": "A",
+              "text": "They are closed at weekends."
+            },
+            {
+              "value": "B",
+              "text": "Volunteers are needed to work there."
+            },
+            {
+              "value": "C",
+              "text": "They were badly damaged by fire."
+            },
+            {
+              "value": "D",
+              "text": "More money is needed to repair some of the glass."
+            },
+            {
+              "value": "E",
+              "text": "Visitors can see palm trees from tropical regions."
+            }
+          ],
+          "explanation": "19~20. 题干词glass houses原文重现，可以帮助定位。选项C：题干词badly damaged by fire\n\n与原文 damage，disastrous fire，destroy替换。选项A：题干说目前周末是不营业的，与原\n\n文表达一致。考生如有疑问，请参阅文本解析第9句。选项B：不选，未提及volunteer。选\n\n项D：原文提到的是没有更多的钱去替换之前被烧毁的热带棕榈树，但是修理玻璃的钱是足够的。考生如有疑问，请参阅文本解析第8句，有对应的翻译。选项E：热带棕榈树已经被烧毁了，并且委员会没有钱重新种植。考生如有疑问，请参阅文本解析第8句。",
+          "setId": "Q8120_146569",
+          "blockId": "Q8120_146569"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "What does the speaker say about the glass houses?",
+          "answers": [
+            "A",
+            "C"
+          ],
+          "sourceCode": "Q8120_146569",
+          "options": [
+            {
+              "value": "A",
+              "text": "They are closed at weekends."
+            },
+            {
+              "value": "B",
+              "text": "Volunteers are needed to work there."
+            },
+            {
+              "value": "C",
+              "text": "They were badly damaged by fire."
+            },
+            {
+              "value": "D",
+              "text": "More money is needed to repair some of the glass."
+            },
+            {
+              "value": "E",
+              "text": "Visitors can see palm trees from tropical regions."
+            }
+          ],
+          "explanation": "19~20. 题干词glass houses原文重现，可以帮助定位。选项C：题干词badly damaged by fire\n\n与原文 damage，disastrous fire，destroy替换。选项A：题干说目前周末是不营业的，与原\n\n文表达一致。考生如有疑问，请参阅文本解析第9句。选项B：不选，未提及volunteer。选\n\n项D：原文提到的是没有更多的钱去替换之前被烧毁的热带棕榈树，但是修理玻璃的钱是足够的。考生如有疑问，请参阅文本解析第8句，有对应的翻译。选项E：热带棕榈树已经被烧毁了，并且委员会没有钱重新种植。考生如有疑问，请参阅文本解析第8句。",
+          "setId": "Q8120_146569",
+          "blockId": "Q8120_146569"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "They are closed at weekends."
+        },
+        {
+          "value": "B",
+          "text": "Volunteers are needed to work there."
+        },
+        {
+          "value": "C",
+          "text": "They were badly damaged by fire."
+        },
+        {
+          "value": "D",
+          "text": "More money is needed to repair some of the glass."
+        },
+        {
+          "value": "E",
+          "text": "Visitors can see palm trees from tropical regions."
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>PART 2<br>\nAs chair of the town council subcommittee on park facilities, I&#x27;d like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let&#x27;s begin with a general overview. So the basic arrangement of the park hasn&#x27;t changed – it still has two gates, north and south, and a lake in the middle.<br>\nThe café continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum.<br>\nWe&#x27;re hoping to change the location of the toilets, and bring them nearer to the centre of the park as they&#x27;re a bit out of the way at present, near the adventure playground, in the corner of your map.<br>\nThe formal gardens have been replanted and should be at their best in a month or two. They used to be behind the old museum, but we&#x27;ve now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.<br>\nWe have a new outdoor gym for adults and children, which is already proving very popular. It&#x27;s by the glass houses, just to the right of the path from the south gate. You have to look for it as it&#x27;s a bit hidden in the trees.<br>\nOne very successful introduction has been our skateboard ramp. It&#x27;s in constant use during the evenings and holidays. It&#x27;s near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.<br>\nWe&#x27;ve also introduced a new area for wild flowers, to attract bees and butterflies. It&#x27;s on a bend in the path that goes round the east side of the lake, just south of the adventure playground.<br>\nNow let me tell you a bit more about some of the changes to Croft Valley Park.<br>\nOne of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. It&#x27;s open year-round, though it closes early in the winter months, and entrance is completely free. Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there. There are plenty of seats where parents can relax and keep an eye on their children at the same time.<br>\nLastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side. Over £80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 10am to 3pm Mondays to Thursdays, and it&#x27;s hoped to extend this to the weekend soon. We&#x27;re grateful to all those who helped us by contributing their time and money to this achievement.<br>\nThe gardens have …</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8120.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 380.122
+  }
+}

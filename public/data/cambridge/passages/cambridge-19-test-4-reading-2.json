@@ -1,0 +1,287 @@
+{
+  "id": "cambridge-19-test-4-reading-2",
+  "title": "Deep-sea mining",
+  "titleCn": "Deep-sea mining",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 4
+  },
+  "sourceQuestionId": "8507",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8507",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Deep-sea mining"
+    },
+    {
+      "label": "2",
+      "text": "Bacteria from the ocean floor can beat superbugs and cancer. But habitats are at risk from the hunger for marine minerals"
+    },
+    {
+      "label": "3",
+      "text": "A. When Professor Mat Upton found that a microbe from a deep-sea sponge was killing pathogenic bugs in his laboratory, he realised it could be a breakthrough in the fight against antibiotic-resistant superbugs, which are responsible for thousands of deaths a year in the UK alone. Further tests confirmed that an antibiotic from the sponge bacteria, found living more than 700 metres under the sea at the Rockall trough in the north-east Atlantic, was previously unknown to science, boosting its potential as a life-saving medicine. But Upton, and other scientists who view the deep ocean and its wealth of unique and undocumented species as a prospecting ground for new medicines, fear such potential will be lost in the rush to exploit the deep sea’s equally rich metal and mineral resources."
+    },
+    {
+      "label": "4",
+      "text": "B. ‘We’re looking at the bioactive potential of marine resources, to see if there are any more medicines or drugs down there before we destroy it for ever,’ says Upton, a medical microbiologist at the University of Plymouth. He is among many scientists urging a halt to deep-sea mining, asking for time to weigh up the pros and cons. ‘In sustainability terms, this could be a better way of exploiting the economic potential of the deep sea,’ he argues. Oceanographers using remotely operated vehicles have spotted many new species. Among them have been sea cucumbers with tails allowing them to sail along the ocean floor, and a rare ‘Dumbo’ octopus, found 3,000 metres under the Pacific Ocean, off the coast of California. Any one of these could offer lifesaving potential. Upton estimates it could take up to a decade for a newly discovered antibiotic to become a medicine – but the race towards commercial mining in the ocean abyss has already begun."
+    },
+    {
+      "label": "5",
+      "text": "C. The deep sea contains more nickel, cobalt and rare earth metals than all land reserves combined, according to the US Geological Survey. Mining corporations argue that deep- sea exploration could help diversify the supply of metals and point to the fact that demand for resources such as copper, aluminium, cobalt for electric car batteries and other metals to power technology and smartphones, is soaring. They say that deep-sea mining could yield far superior ore to land mining with little, if any, waste. Different methods of extraction exist, but most involve employing some form of converted machinery previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,000 metres, then drawing a seawater slurry, containing rock and other solid particles, from the sea floor to ships on the surface. The slurry is then ‘de-watered’ and transferred to another vessel for shipping. Extracted seawater is pumped back down and discharged close to the sea floor."
+    },
+    {
+      "label": "6",
+      "text": "D. But environmental and legal groups have urged caution, arguing there are potentially massive and unknown ramifications for the environment and for nearby communities, and that the global regulatory framework is not yet drafted. ‘Despite arising in the last half century, the “new global gold rush” of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights,’ a paper, written by Julie Hunter and Julian Aguon, from Blue Ocean Law, and Pradeep Singh, from the Center for Marine Environmental Sciences, Bremen, argues. The authors say that knowledge of the deep seabed remains extremely limited. ‘The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, “We don’t yet know what we need to know”.’"
+    },
+    {
+      "label": "7",
+      "text": "E. Scientific research – including a recent paper in Marine Policy journal – has suggested the deep seabed, and hydrothermal vents, which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate. The mineral-rich vents and their surrounds are also home to many well-known animals including crustaceans, tubeworms, clams, slugs, anemones and fish. ‘It is becoming increasingly clear that deep-sea mining poses a grave threat to these vital seabed functions,’ the paper says. ‘Extraction methods would produce large sediment plumes and involve the discharge of waste back into the ocean, significantly disturbing seafloor environments,’ the paper continues. ‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’"
+    },
+    {
+      "label": "8",
+      "text": "F. The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company: ‘It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.’ Those leading the global rush to place giant mining machines thousands of metres below the sea surface say the environmental impacts will be far lower than on land. But critics say exotic and little-known ecosystems in the deep oceans could be destroyed and must be protected. ‘Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,’ according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada. She argues that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–17\n\nReading Passage 2 has six paragraphs, A–F.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A–F, in boxes 14–17 on your answer sheet.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "reference to the rapidly increasing need for one raw material in the transport industry",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8507_976537-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "a rough estimate of the area of the Earth covered by the oceans",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8507_976537-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "how a particular underwater habitat, where minerals and organisms co-exist, is formed",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8507_976537-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "reference to the fact that the countries of the world have yet to agree on rules for the exploration of the seabed",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8507_976537-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 18–23\n\nLook at the following statements (Questions 18–23) and the list of people below.\n\nMatch each statement with the correct person or people, A–E.\n\nWrite the correct letter, A–E, in boxes 18–23 on your answer sheet.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "A move away from the exploration of heavily mined reserves on land is a good idea. [18] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8507_706377",
+          "explanation": "18. 译文：不再对陆地上已经大量开采的区域进行勘探是明智的。\n\n本题对应的观点出现在F段，Mike Johnston认为“It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.”，并在随后进行了具体的解释，这与题目中的表述是一致的。因此本题答案为D。\n\n19. 译文：海底勘探对当地及其居住者的负面影响被忽略了。\n\n本题对应的观点出现在文中D段，Julie Hunter、Julian Aguon以及Pradeep Singh的观点是“Despite arising in the last half century, the ‘new global gold rush’ of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights”，其中破折号后面的内容与题目中的观点一致。因此本题答案为B。\n\n20. 译文：从海洋中可以提取到比矿物更有价值的东西。\n\n文章A段中，Professor Mat Upton发现了海底的生物可以用于杀灭各种超级细菌，他认为可以通过研究海底生物来获取life-saving medicine，这比只是开采海洋中的metal and mineral resources更有价值，这一观点与题目中的表达是一致的。因此本题答案为A。\n\n21. 译文：没有其他形式的人类勘探会像深海采矿一样对海洋生命产生如此破坏性的影响。\n\n本题的观点在文章F段中出现，Verena Tunnicliffe 明确地表示Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans，这句话清晰地描述了mining对deep-sea ecosystems的影响，这与本题描述的a destructive impact是一致的。因此本题答案为E。\n\n22. 译文：人们对外太空的了解比对海底的了解更多。\n\n本题表达的观点在文章D段中出现。本段的后半部分说到“The authors say that knowledge of the deep seabed remains extremely limited.”，之后进行了具体描述，“The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, ‘We don’t yet know what we need to know’.”，由此可以确认这与题目内容一致。因此本题答案为B。\n\n23. 译文：专家们一致认为，在某个海洋生物栖息地不应该进行采矿。\n\n本题的观点出现在文章E段，本段开头说明这里的作用机制后，在中后段重点讲述mining会带来的危害，并在本段最后明确指出“‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’”，由此可以确认这与题目中的观点一致。因此本题答案为C。",
+          "promptHtml": "A move away from the exploration of heavily mined reserves on land is a good idea. [18] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "The negative effects of undersea exploration on local areas and their inhabitants are being ignored. [19] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8507_740488",
+          "explanation": "18. 译文：不再对陆地上已经大量开采的区域进行勘探是明智的。\n\n本题对应的观点出现在F段，Mike Johnston认为“It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.”，并在随后进行了具体的解释，这与题目中的表述是一致的。因此本题答案为D。\n\n19. 译文：海底勘探对当地及其居住者的负面影响被忽略了。\n\n本题对应的观点出现在文中D段，Julie Hunter、Julian Aguon以及Pradeep Singh的观点是“Despite arising in the last half century, the ‘new global gold rush’ of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights”，其中破折号后面的内容与题目中的观点一致。因此本题答案为B。\n\n20. 译文：从海洋中可以提取到比矿物更有价值的东西。\n\n文章A段中，Professor Mat Upton发现了海底的生物可以用于杀灭各种超级细菌，他认为可以通过研究海底生物来获取life-saving medicine，这比只是开采海洋中的metal and mineral resources更有价值，这一观点与题目中的表达是一致的。因此本题答案为A。\n\n21. 译文：没有其他形式的人类勘探会像深海采矿一样对海洋生命产生如此破坏性的影响。\n\n本题的观点在文章F段中出现，Verena Tunnicliffe 明确地表示Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans，这句话清晰地描述了mining对deep-sea ecosystems的影响，这与本题描述的a destructive impact是一致的。因此本题答案为E。\n\n22. 译文：人们对外太空的了解比对海底的了解更多。\n\n本题表达的观点在文章D段中出现。本段的后半部分说到“The authors say that knowledge of the deep seabed remains extremely limited.”，之后进行了具体描述，“The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, ‘We don’t yet know what we need to know’.”，由此可以确认这与题目内容一致。因此本题答案为B。\n\n23. 译文：专家们一致认为，在某个海洋生物栖息地不应该进行采矿。\n\n本题的观点出现在文章E段，本段开头说明这里的作用机制后，在中后段重点讲述mining会带来的危害，并在本段最后明确指出“‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’”，由此可以确认这与题目中的观点一致。因此本题答案为C。",
+          "promptHtml": "The negative effects of undersea exploration on local areas and their inhabitants are being ignored. [19] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "There are more worthwhile things to extract from the sea than minerals. [20] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8507_681682",
+          "explanation": "18. 译文：不再对陆地上已经大量开采的区域进行勘探是明智的。\n\n本题对应的观点出现在F段，Mike Johnston认为“It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.”，并在随后进行了具体的解释，这与题目中的表述是一致的。因此本题答案为D。\n\n19. 译文：海底勘探对当地及其居住者的负面影响被忽略了。\n\n本题对应的观点出现在文中D段，Julie Hunter、Julian Aguon以及Pradeep Singh的观点是“Despite arising in the last half century, the ‘new global gold rush’ of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights”，其中破折号后面的内容与题目中的观点一致。因此本题答案为B。\n\n20. 译文：从海洋中可以提取到比矿物更有价值的东西。\n\n文章A段中，Professor Mat Upton发现了海底的生物可以用于杀灭各种超级细菌，他认为可以通过研究海底生物来获取life-saving medicine，这比只是开采海洋中的metal and mineral resources更有价值，这一观点与题目中的表达是一致的。因此本题答案为A。\n\n21. 译文：没有其他形式的人类勘探会像深海采矿一样对海洋生命产生如此破坏性的影响。\n\n本题的观点在文章F段中出现，Verena Tunnicliffe 明确地表示Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans，这句话清晰地描述了mining对deep-sea ecosystems的影响，这与本题描述的a destructive impact是一致的。因此本题答案为E。\n\n22. 译文：人们对外太空的了解比对海底的了解更多。\n\n本题表达的观点在文章D段中出现。本段的后半部分说到“The authors say that knowledge of the deep seabed remains extremely limited.”，之后进行了具体描述，“The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, ‘We don’t yet know what we need to know’.”，由此可以确认这与题目内容一致。因此本题答案为B。\n\n23. 译文：专家们一致认为，在某个海洋生物栖息地不应该进行采矿。\n\n本题的观点出现在文章E段，本段开头说明这里的作用机制后，在中后段重点讲述mining会带来的危害，并在本段最后明确指出“‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’”，由此可以确认这与题目中的观点一致。因此本题答案为C。",
+          "promptHtml": "There are more worthwhile things to extract from the sea than minerals. [20] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "No other form of human exploration will have such a destructive impact on marine life as deep-sea mining. [21] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8507_913092",
+          "explanation": "18. 译文：不再对陆地上已经大量开采的区域进行勘探是明智的。\n\n本题对应的观点出现在F段，Mike Johnston认为“It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.”，并在随后进行了具体的解释，这与题目中的表述是一致的。因此本题答案为D。\n\n19. 译文：海底勘探对当地及其居住者的负面影响被忽略了。\n\n本题对应的观点出现在文中D段，Julie Hunter、Julian Aguon以及Pradeep Singh的观点是“Despite arising in the last half century, the ‘new global gold rush’ of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights”，其中破折号后面的内容与题目中的观点一致。因此本题答案为B。\n\n20. 译文：从海洋中可以提取到比矿物更有价值的东西。\n\n文章A段中，Professor Mat Upton发现了海底的生物可以用于杀灭各种超级细菌，他认为可以通过研究海底生物来获取life-saving medicine，这比只是开采海洋中的metal and mineral resources更有价值，这一观点与题目中的表达是一致的。因此本题答案为A。\n\n21. 译文：没有其他形式的人类勘探会像深海采矿一样对海洋生命产生如此破坏性的影响。\n\n本题的观点在文章F段中出现，Verena Tunnicliffe 明确地表示Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans，这句话清晰地描述了mining对deep-sea ecosystems的影响，这与本题描述的a destructive impact是一致的。因此本题答案为E。\n\n22. 译文：人们对外太空的了解比对海底的了解更多。\n\n本题表达的观点在文章D段中出现。本段的后半部分说到“The authors say that knowledge of the deep seabed remains extremely limited.”，之后进行了具体描述，“The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, ‘We don’t yet know what we need to know’.”，由此可以确认这与题目内容一致。因此本题答案为B。\n\n23. 译文：专家们一致认为，在某个海洋生物栖息地不应该进行采矿。\n\n本题的观点出现在文章E段，本段开头说明这里的作用机制后，在中后段重点讲述mining会带来的危害，并在本段最后明确指出“‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’”，由此可以确认这与题目中的观点一致。因此本题答案为C。",
+          "promptHtml": "No other form of human exploration will have such a destructive impact on marine life as deep-sea mining. [21] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "More is known about outer space than about what lies beneath the oceans. [22] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8507_824059",
+          "explanation": "18. 译文：不再对陆地上已经大量开采的区域进行勘探是明智的。\n\n本题对应的观点出现在F段，Mike Johnston认为“It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.”，并在随后进行了具体的解释，这与题目中的表述是一致的。因此本题答案为D。\n\n19. 译文：海底勘探对当地及其居住者的负面影响被忽略了。\n\n本题对应的观点出现在文中D段，Julie Hunter、Julian Aguon以及Pradeep Singh的观点是“Despite arising in the last half century, the ‘new global gold rush’ of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights”，其中破折号后面的内容与题目中的观点一致。因此本题答案为B。\n\n20. 译文：从海洋中可以提取到比矿物更有价值的东西。\n\n文章A段中，Professor Mat Upton发现了海底的生物可以用于杀灭各种超级细菌，他认为可以通过研究海底生物来获取life-saving medicine，这比只是开采海洋中的metal and mineral resources更有价值，这一观点与题目中的表达是一致的。因此本题答案为A。\n\n21. 译文：没有其他形式的人类勘探会像深海采矿一样对海洋生命产生如此破坏性的影响。\n\n本题的观点在文章F段中出现，Verena Tunnicliffe 明确地表示Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans，这句话清晰地描述了mining对deep-sea ecosystems的影响，这与本题描述的a destructive impact是一致的。因此本题答案为E。\n\n22. 译文：人们对外太空的了解比对海底的了解更多。\n\n本题表达的观点在文章D段中出现。本段的后半部分说到“The authors say that knowledge of the deep seabed remains extremely limited.”，之后进行了具体描述，“The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, ‘We don’t yet know what we need to know’.”，由此可以确认这与题目内容一致。因此本题答案为B。\n\n23. 译文：专家们一致认为，在某个海洋生物栖息地不应该进行采矿。\n\n本题的观点出现在文章E段，本段开头说明这里的作用机制后，在中后段重点讲述mining会带来的危害，并在本段最后明确指出“‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’”，由此可以确认这与题目中的观点一致。因此本题答案为C。",
+          "promptHtml": "More is known about outer space than about what lies beneath the oceans. [22] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "There is one marine life habitat where experts agree mining should not take place. [23] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8507_374915",
+          "explanation": "18. 译文：不再对陆地上已经大量开采的区域进行勘探是明智的。\n\n本题对应的观点出现在F段，Mike Johnston认为“It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.”，并在随后进行了具体的解释，这与题目中的表述是一致的。因此本题答案为D。\n\n19. 译文：海底勘探对当地及其居住者的负面影响被忽略了。\n\n本题对应的观点出现在文中D段，Julie Hunter、Julian Aguon以及Pradeep Singh的观点是“Despite arising in the last half century, the ‘new global gold rush’ of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights”，其中破折号后面的内容与题目中的观点一致。因此本题答案为B。\n\n20. 译文：从海洋中可以提取到比矿物更有价值的东西。\n\n文章A段中，Professor Mat Upton发现了海底的生物可以用于杀灭各种超级细菌，他认为可以通过研究海底生物来获取life-saving medicine，这比只是开采海洋中的metal and mineral resources更有价值，这一观点与题目中的表达是一致的。因此本题答案为A。\n\n21. 译文：没有其他形式的人类勘探会像深海采矿一样对海洋生命产生如此破坏性的影响。\n\n本题的观点在文章F段中出现，Verena Tunnicliffe 明确地表示Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans，这句话清晰地描述了mining对deep-sea ecosystems的影响，这与本题描述的a destructive impact是一致的。因此本题答案为E。\n\n22. 译文：人们对外太空的了解比对海底的了解更多。\n\n本题表达的观点在文章D段中出现。本段的后半部分说到“The authors say that knowledge of the deep seabed remains extremely limited.”，之后进行了具体描述，“The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, ‘We don’t yet know what we need to know’.”，由此可以确认这与题目内容一致。因此本题答案为B。\n\n23. 译文：专家们一致认为，在某个海洋生物栖息地不应该进行采矿。\n\n本题的观点出现在文章E段，本段开头说明这里的作用机制后，在中后段重点讲述mining会带来的危害，并在本段最后明确指出“‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’”，由此可以确认这与题目中的观点一致。因此本题答案为C。",
+          "promptHtml": "There is one marine life habitat where experts agree mining should not take place. [23] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Professor Mat Upton"
+        },
+        {
+          "value": "B",
+          "text": "Julie Hunter, Julian Aguon and Pradeep Singh"
+        },
+        {
+          "value": "C",
+          "text": "Dr Jon Copley"
+        },
+        {
+          "value": "D",
+          "text": "Mike Johnston"
+        },
+        {
+          "value": "E",
+          "text": "Verena Tunnicliffe"
+        }
+      ],
+      "contextHtml": "<p>A move away from the exploration of heavily mined reserves on land is a good idea. <strong>[18] ______</strong> </p>\n\n<p>The negative effects of undersea exploration on local areas and their inhabitants are being ignored. <strong>[19] ______</strong> </p>\n\n<p>There are more worthwhile things to extract from the sea than minerals. <strong>[20] ______</strong> </p>\n\n<p>No other form of human exploration will have such a destructive impact on marine life as deep-sea mining. <strong>[21] ______</strong> </p>\n\n<p>More is known about outer space than about what lies beneath the oceans. <strong>[22] ______</strong> </p>\n\n<p>There is one marine life habitat where experts agree mining should not take place. <strong>[23] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 24–26\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 24–26 on your answer sheet.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Mining corporations believe that the mineral resources lying under the sea may be superior to those found in the earth. They also say that these can be removed without producing much [24] ______ .",
+          "answers": [
+            "waste"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8507_502346",
+          "explanation": "24. 译文：他们还说这些可以被移走，而不会产生什么______。\n\n题目开头的Mining corporations believe与C段第二句的Mining corporations argue同义替换。他们的观点主要有两个，一是深海勘探获取的矿产比陆地上的更好，二是几乎不产生什么waste。本题考查的是第二个观点，题目中的without producing much与原文中的little是同义替换，因此本题答案为waste。\n\n25. 译文：可以通过改造已经在陆地上被使用过的______来完成开采。\n\n本题可以通过extraction定位到C段第四句，通过分析空格前后内容，可知答案是adapting的宾语，并且后面的定语从句修饰答案词，即答案词已经在陆地上使用过。文中写到employing some form of converted machinery previously used in terrestrial mining，此处machinery的后置定语与题目中的定语从句是同义替换，因此本题答案为machinery。\n\n26. 译文：然而，一些相关团体坚信______是有必要的，因为可能存在一些不确定的后果。\n\n本题可以根据题目中的信息定位到D段第一句，其中concerned groups对应原文中的environmental and legal groups，题目中的unidentified consequences对应原文中的unknown ramifications，因此题目中的is necessary对应原文中的have urged，其宾语就是空格中应该填入的内容，因此本题答案为caution。",
+          "promptHtml": "Mining corporations believe that the mineral resources lying under the sea may be superior to those found in the earth. They also say that these can be removed without producing much [24] ______ ."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "machinery"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8507_171590",
+          "explanation": "24. 译文：他们还说这些可以被移走，而不会产生什么______。\n\n题目开头的Mining corporations believe与C段第二句的Mining corporations argue同义替换。他们的观点主要有两个，一是深海勘探获取的矿产比陆地上的更好，二是几乎不产生什么waste。本题考查的是第二个观点，题目中的without producing much与原文中的little是同义替换，因此本题答案为waste。\n\n25. 译文：可以通过改造已经在陆地上被使用过的______来完成开采。\n\n本题可以通过extraction定位到C段第四句，通过分析空格前后内容，可知答案是adapting的宾语，并且后面的定语从句修饰答案词，即答案词已经在陆地上使用过。文中写到employing some form of converted machinery previously used in terrestrial mining，此处machinery的后置定语与题目中的定语从句是同义替换，因此本题答案为machinery。\n\n26. 译文：然而，一些相关团体坚信______是有必要的，因为可能存在一些不确定的后果。\n\n本题可以根据题目中的信息定位到D段第一句，其中concerned groups对应原文中的environmental and legal groups，题目中的unidentified consequences对应原文中的unknown ramifications，因此题目中的is necessary对应原文中的have urged，其宾语就是空格中应该填入的内容，因此本题答案为caution。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "caution"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8507_315209",
+          "explanation": "24. 译文：他们还说这些可以被移走，而不会产生什么______。\n\n题目开头的Mining corporations believe与C段第二句的Mining corporations argue同义替换。他们的观点主要有两个，一是深海勘探获取的矿产比陆地上的更好，二是几乎不产生什么waste。本题考查的是第二个观点，题目中的without producing much与原文中的little是同义替换，因此本题答案为waste。\n\n25. 译文：可以通过改造已经在陆地上被使用过的______来完成开采。\n\n本题可以通过extraction定位到C段第四句，通过分析空格前后内容，可知答案是adapting的宾语，并且后面的定语从句修饰答案词，即答案词已经在陆地上使用过。文中写到employing some form of converted machinery previously used in terrestrial mining，此处machinery的后置定语与题目中的定语从句是同义替换，因此本题答案为machinery。\n\n26. 译文：然而，一些相关团体坚信______是有必要的，因为可能存在一些不确定的后果。\n\n本题可以根据题目中的信息定位到D段第一句，其中concerned groups对应原文中的environmental and legal groups，题目中的unidentified consequences对应原文中的unknown ramifications，因此题目中的is necessary对应原文中的have urged，其宾语就是空格中应该填入的内容，因此本题答案为caution。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><b>Mining the sea floor</b></p>\n\n<p>Mining corporations believe that the mineral resources lying under the sea may be superior to those found in the earth. They also say that these can be removed without producing much <strong>[24] ______</strong><b> </b>.</p>\n\n<p>The extraction is often done by adapting the <strong>[25] ______</strong>that has already been used to work on land. The method of excavation involves removing the seawater from the slurry that is brought up to ships and returning it to the seabed. However, concerned groups strongly believe that <strong>[26] ______</strong>is necessary due to the possible number of unidentified consequences.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>Deep-sea mining</b></p><p>Bacteria from the ocean floor can beat superbugs and cancer. But habitats are at risk from the hunger for marine minerals</p><p>A.  When Professor Mat Upton found that a microbe from a deep-sea sponge was killing pathogenic bugs in his laboratory, he realised it could be a breakthrough in the fight against antibiotic-resistant superbugs, which are responsible for thousands of deaths a year in the UK alone. Further tests confirmed that an antibiotic from the sponge bacteria, found living more than 700 metres under the sea at the Rockall trough in the north-east Atlantic, was previously unknown to science, boosting its potential as a life-saving medicine. But Upton, and other scientists who view the deep ocean and its wealth of unique and undocumented species as a prospecting ground for new medicines, fear such potential will be lost in the rush to exploit the deep sea’s equally rich metal and mineral resources.</p><p>B.  ‘We’re looking at the bioactive potential of marine resources, to see if there are any more medicines or drugs down there before we destroy it for ever,’ says Upton, a medical microbiologist at the University of Plymouth. He is among many scientists urging a halt to deep-sea mining, asking for time to weigh up the pros and cons. ‘In sustainability terms, this could be a better way of exploiting the economic potential of the deep sea,’ he argues. Oceanographers using remotely operated vehicles have spotted many new species. Among them have been sea cucumbers with tails allowing them to sail along the ocean floor, and a rare ‘Dumbo’ octopus, found 3,000 metres under the Pacific Ocean, off the coast of California. Any one of these could offer lifesaving potential. Upton estimates it could take up to a decade for a newly discovered antibiotic to become a medicine – but the race towards commercial mining in the ocean abyss has already begun.</p><p>C.  The deep sea contains more nickel, cobalt and rare earth metals than all land reserves combined, according to the US Geological Survey. Mining corporations argue that deep- sea exploration could help diversify the supply of metals and point to the fact that demand for resources such as copper, aluminium, cobalt for electric car batteries and other metals to power technology and smartphones, is soaring. They say that deep-sea mining could yield far superior ore to land mining with little, if any, waste. Different methods of extraction exist, but most involve employing some form of converted machinery previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,000 metres, then drawing a seawater slurry, containing rock and other solid particles, from the sea floor to ships on the surface. The slurry is then ‘de-watered’ and transferred to another vessel for shipping. Extracted seawater is pumped back down and discharged close to the sea floor.</p><p>D.  But environmental and legal groups have urged caution, arguing there are potentially massive and unknown ramifications for the environment and for nearby communities, and that the global regulatory framework is not yet drafted. ‘Despite arising in the last half century, the “new global gold rush” of deep-sea mining shares many features with past resource scrambles – including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights,’ a paper, written by Julie Hunter and Julian Aguon, from Blue Ocean Law, and Pradeep Singh, from the Center for Marine Environmental Sciences, Bremen, argues. The authors say that knowledge of the deep seabed remains extremely limited. ‘The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, “We don’t yet know what we need to know”.’</p><p>E.  Scientific research – including a recent paper in Marine Policy journal – has suggested the deep seabed, and hydrothermal vents, which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate. The mineral-rich vents and their surrounds are also home to many well-known animals including crustaceans, tubeworms, clams, slugs, anemones and fish. ‘It is becoming increasingly clear that deep-sea mining poses a grave threat to these vital seabed functions,’ the paper says. ‘Extraction methods would produce large sediment plumes and involve the discharge of waste back into the ocean, significantly disturbing seafloor environments,’ the paper continues. ‘On deep sea vents, scientists are clear,’ says Dr Jon Copley of the National Oceanography Centre, Southampton: ‘we don’t want mining on them.’</p><p>F.  The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company: ‘It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society’s rising needs.’ Those leading the global rush to place giant mining machines thousands of metres below the sea surface say the environmental impacts will be far lower than on land. But critics say exotic and little-known ecosystems in the deep oceans could be destroyed and must be protected. ‘Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,’ according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada. She argues that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere.</p>"
+}

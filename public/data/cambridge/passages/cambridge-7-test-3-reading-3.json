@@ -1,0 +1,291 @@
+{
+  "id": "cambridge-7-test-3-reading-3",
+  "title": "Forests",
+  "titleCn": "Forests",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 3
+  },
+  "sourceQuestionId": "7014",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7014",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Forests are one of the main elements of our natural heritage. The decline of Europe's forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them. European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage. There has been a growing awareness of the need for countries to get together to co-ordinate their policies. In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe's forests. The conference brought together 31 countries from both Western and Eastern Europe. The topics discussed included the co-ordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem. The preparatory work for the conference had been undertaken at two meetings of experts. Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored."
+    },
+    {
+      "label": "2",
+      "text": "As a whole, European countries see forests as performing a triple function: biological, economic and recreational. The first is to act as a 'green lung' for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant. At the same time, forests provide raw materials for human activities through their constantly renewed production of wood. Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking. The economic importance of forests has been understood since the dawn of man - wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important. Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles."
+    },
+    {
+      "label": "3",
+      "text": "The myth of the 'natural' forest has survived, yet there are effectively no remaining 'primary' forests in Europe. All European forests are artificial, having been adapted and exploited by man for thousands of years. This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy. The Strasbourg conference was one of the first events on such a scale to reach this conclusion. A general declaration was made that 'a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained'."
+    },
+    {
+      "label": "4",
+      "text": "That general declaration was accompanied by six detailed resolutions to assist national policy-making. The first proposes the extension and systematisation of surveillance sites to monitor forest decline. Forest decline is still poorly understood but leads to the loss of a high proportion of a tree's needles or leaves. The entire continent and the majority of species are now affected: between 30% and 50% of the tree population. The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits. Compounds of nitrogen and sulphur dioxide should be particularly closely watched. However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots. The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the 'genetic material' of all of them. Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available. The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests. The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area. Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests. The Strasbourg conference's main concern was to provide for the future. This was the initial motivation, one now shared by all 31 participants representing 31European countries. Their final text commits them to on-going discussion between government representatives with responsibility for forests."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 27-33\n\nDo the following statements agree with the information given in Reading Passage 3?\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Forest problems of Mediterranean countries are to be discussed at the next meeting of experts.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7014_635164",
+          "explanation": "参考译文：地中海国家的森林问题将在下一次专家会议中讨论。\n\n定位词：Mediterranean countries\n\n第一段末：..., such as counties bordering Mediterranean or the Nordic countries therefore had to be discarded. However, this dose not mean that in future they will be ignored.此题通过定位词可以迅速定位到第一段最后两句话，其含义为地中海国家在日后不一定被忽略；而题干则为在下次会议中会讨论，显然为文中未提及内容。故此题答案为NOT GIVEN。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Problems in Nordic countries were excluded because they are outside the European Economic Community.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7014_239623",
+          "explanation": "参考译文：北欧国家的问题未被考虑是因为它们不属于欧洲经济共同体。\n\n定位词：Nordic countries\n\n第一段末：Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as counties bordering Mediterranean or the Nordic countries therefore had to be discarded.此题定位点与第一题相同。考生可能单纯依据European Economic Community在文中未出现而错误地判断答案为NOT GIVEN;其实该题考查因果关系，由定位句中的因果关系词therefore推出解题句为定位句的前一句Nordic countries 不被考虑是因为会议要决定哪些森林问题涉及的国家最多并且能够成为联合行动的主题，这与题干中的原因不同，而考查因果关系时要求文章与题目精确对应，故此题答案为FALSE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Forests are a renewable source of raw material.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7014_535001",
+          "explanation": "参考译文：森林是可再生原材料的来源。\n\n定位词：raw material\n\n第二段：...forests provide raw materials for human activities through their constantly renewed production of wood.此题的定位词在文中以原词出现，按照顺序原则可以迅速定位。文中定位处含义为：通过其不断再生的木材，森林给人类活动提供了原材料。文章与题目含义一致。故此题答案为TRUE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "The biological functions of forests were recognised only in the twentieth century.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7014_133475",
+          "explanation": "参考译文：森林的生物学功能在20世纪才被认可。\n\n定位词：biological functions, recognized\n\n第二段：The economic importance of forests has been... The other aspects have been recognised only for a few centuries.此题先通过biological functions定位于第二段首句，其中提到森林的三种功能为biological, economic和recreational；然后由recognised精确定位到解题句,其中提到除了economic之外的两方面都已经被认可了几个世纪，而题目却认为其仅仅是在20世纪才被认可的。题目明显与文章相悖，故此题答案为FALSE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Natural forests still exist in parts of Europe.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7014_832224",
+          "explanation": "参考译文：原始森林仍存在于欧洲的一些地方。\n\n定位词：natural forests\n\n第三段：All European forests are artificial,...此题通过定位词可定位于第三段首句，通过扫读得出解题句，其含义为：欧洲所有的森林都是人工种植的。很显然题目与文章内容刚好相反，故此题答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Forest policy should be limited by national boundaries.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7014_307584",
+          "explanation": "参考译文：政策必须受到国家界限的限制。\n\n定位词：forest policy, national boundaries\n\n第三段：This means that a forest policy is vital, that it must transcend national frontiers and …此题通过定位词能够迅速定位。定位句的含义为：森林政策至关重要，它必须超越国家的界限。显然题目与文章内容相反，故此题答案为FALSE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "The Strasbourg conference decided that a forest policy must allow for the possibility of change.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7014_937555",
+          "explanation": "参考译文：斯特拉斯堡会议作出决议，森林政策必须虑及可能发生的变化。\n\n定位词：Strasbourg conference, forest policy, change\n\n第三段：This means that a forest policy is vital, ... and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy, The Strasbourg conference was one of the first events on such a scale to reach this conclusion.译文：这就意味着一项森林政策至关重要，它必须考虑到森林环境，人民需求，国家政策发生不可避免的变化。斯特拉斯堡会议也成为此类高规格创始会议中达成该结论的会议之一。此题通过定位词能够迅速定位。定位句指出会议达成this conclusion，此处出现指代，按“遇指代，向前看一句”的原则得到定位句首句。定位句中结论与题目含义一致,故此题答案为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 34-39\n\nLook at the following statements issued by the conference.\n\nWhich six of the following statements, A-J, refer to the resolutions that were issued?\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "[34] ______ Resolution 1",
+          "answers": [
+            "J"
+          ],
+          "sourceCode": "Q7014_735772",
+          "explanation": "题号：34\n\n定位词：resolution 1\n\n第四段第二行：The first proposes the extension and systematisation of surveillance sites to monitor forest decline.译文：第一项决议是对森林退化监测站进行扩建并使其系统化。在选项中扫描关键词，只有选项符合该含义：森林的任何退化信息都将被系统地收集。此处有两个干扰选项：F和I。F选项中出现文中原司monitored，但对loss of leaves的监测只是决议1中的项内容，不全面：I选项中出现文中原词soil imbalance, acidification, compounds of nitrogen and sulphur, 但这些词在文中分别出现于不同的例子中，而I选项却将其揉在一句话中。故答案为J。\n\n题号：35\n\n定位词：resolution 2\n\n第四段第九行：The second resolution concentrates on the need to preserve the genetic diversity of European forests.译文：第二项决议的重点是保持欧洲森林基因多样性的需求。在选项中扫描关键词，只有A选项出现关键同preserve,且其含义与原文相符：所有种类的树木都必须被保存。故答案为A。\n\n题号：36\n\n定位词：resolution 3\n\n第四段第十一行：Although forest fires do no..., ... third resolution that the Strasbourg conference consider the establishment of a European databank on the subject.译文：虽然森林大火对欧洲各国的影响程度不同，但是其破坏力却让专家们提出第三个决议；斯特拉斯堡会议应该专虑就此主题建立一个欧洲数据库。在选项中扫描关键词，只有E选项出现关键词forest fires，且其含义与原文相符：有关森林大火的信息需被收集并分享。故答案为E。\n\n题号：37\n\n定位词：resolution 4\n\n第四段第十八行：此处应首先定位到第十五行的the fourth resolution，经过扫读后才能找到解题句：Proposed developments include a preferential research program on mountain forests.译文：建议的改进措施包括优先建立一项关于山林的研究项目。在选项中扫描关键词，只有B选项出现关键同mountain forests和priority (对应preferential)，且其含义与原文H符：脆弱的山林应该在研究项目中优先考虑。故答案为B。\n\n题号：38\n\n定位词：resolution 5\n\n第四段倒数第十行：此处应首先定位到倒数第十一行的the fifth resolution，经过扫读后才能找到解题句：Eurosilva should support joint European research on the tree diseases and… Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.译文：“森林持续发展”将支持欧洲各国联合研究树木的病害以及生理和生化方面的问题。每个参与国都可以增加奖学金以及其他经济支持来鼓励此领域博土论文的撰写以及研究项目开展。在选项中扫描关键词，只有G选项出现关键词allocated to research和tree diseases，且其含义与原文相符：资源必须分配给关于树木病害的研究。故答案为G。\n\n题号：39\n\n定位词：resolution 6\n\n第四段倒数第七行：Finally, the conference established the framework for a European research network on forest ecosystems.译文：会议最终建立了欧洲森林生态系统的科研网络。在选项中扫描关键词，只有D选项出现关键词co-ordinated(对应research network)，且其含义与原文相符:研究最好在整个欧洲范围内进行，以便更好地相互协作。故答案为D。",
+          "promptHtml": "[34] ______ Resolution 1"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "[35] ______ Resolution 2",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7014_449718",
+          "explanation": "题号：34\n\n定位词：resolution 1\n\n第四段第二行：The first proposes the extension and systematisation of surveillance sites to monitor forest decline.译文：第一项决议是对森林退化监测站进行扩建并使其系统化。在选项中扫描关键词，只有选项符合该含义：森林的任何退化信息都将被系统地收集。此处有两个干扰选项：F和I。F选项中出现文中原司monitored，但对loss of leaves的监测只是决议1中的项内容，不全面：I选项中出现文中原词soil imbalance, acidification, compounds of nitrogen and sulphur, 但这些词在文中分别出现于不同的例子中，而I选项却将其揉在一句话中。故答案为J。\n\n题号：35\n\n定位词：resolution 2\n\n第四段第九行：The second resolution concentrates on the need to preserve the genetic diversity of European forests.译文：第二项决议的重点是保持欧洲森林基因多样性的需求。在选项中扫描关键词，只有A选项出现关键同preserve,且其含义与原文相符：所有种类的树木都必须被保存。故答案为A。\n\n题号：36\n\n定位词：resolution 3\n\n第四段第十一行：Although forest fires do no..., ... third resolution that the Strasbourg conference consider the establishment of a European databank on the subject.译文：虽然森林大火对欧洲各国的影响程度不同，但是其破坏力却让专家们提出第三个决议；斯特拉斯堡会议应该专虑就此主题建立一个欧洲数据库。在选项中扫描关键词，只有E选项出现关键词forest fires，且其含义与原文相符：有关森林大火的信息需被收集并分享。故答案为E。\n\n题号：37\n\n定位词：resolution 4\n\n第四段第十八行：此处应首先定位到第十五行的the fourth resolution，经过扫读后才能找到解题句：Proposed developments include a preferential research program on mountain forests.译文：建议的改进措施包括优先建立一项关于山林的研究项目。在选项中扫描关键词，只有B选项出现关键同mountain forests和priority (对应preferential)，且其含义与原文H符：脆弱的山林应该在研究项目中优先考虑。故答案为B。\n\n题号：38\n\n定位词：resolution 5\n\n第四段倒数第十行：此处应首先定位到倒数第十一行的the fifth resolution，经过扫读后才能找到解题句：Eurosilva should support joint European research on the tree diseases and… Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.译文：“森林持续发展”将支持欧洲各国联合研究树木的病害以及生理和生化方面的问题。每个参与国都可以增加奖学金以及其他经济支持来鼓励此领域博土论文的撰写以及研究项目开展。在选项中扫描关键词，只有G选项出现关键词allocated to research和tree diseases，且其含义与原文相符：资源必须分配给关于树木病害的研究。故答案为G。\n\n题号：39\n\n定位词：resolution 6\n\n第四段倒数第七行：Finally, the conference established the framework for a European research network on forest ecosystems.译文：会议最终建立了欧洲森林生态系统的科研网络。在选项中扫描关键词，只有D选项出现关键词co-ordinated(对应research network)，且其含义与原文相符:研究最好在整个欧洲范围内进行，以便更好地相互协作。故答案为D。",
+          "promptHtml": "[35] ______ Resolution 2"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "[36] ______ Resolution 3",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q7014_553632",
+          "explanation": "题号：34\n\n定位词：resolution 1\n\n第四段第二行：The first proposes the extension and systematisation of surveillance sites to monitor forest decline.译文：第一项决议是对森林退化监测站进行扩建并使其系统化。在选项中扫描关键词，只有选项符合该含义：森林的任何退化信息都将被系统地收集。此处有两个干扰选项：F和I。F选项中出现文中原司monitored，但对loss of leaves的监测只是决议1中的项内容，不全面：I选项中出现文中原词soil imbalance, acidification, compounds of nitrogen and sulphur, 但这些词在文中分别出现于不同的例子中，而I选项却将其揉在一句话中。故答案为J。\n\n题号：35\n\n定位词：resolution 2\n\n第四段第九行：The second resolution concentrates on the need to preserve the genetic diversity of European forests.译文：第二项决议的重点是保持欧洲森林基因多样性的需求。在选项中扫描关键词，只有A选项出现关键同preserve,且其含义与原文相符：所有种类的树木都必须被保存。故答案为A。\n\n题号：36\n\n定位词：resolution 3\n\n第四段第十一行：Although forest fires do no..., ... third resolution that the Strasbourg conference consider the establishment of a European databank on the subject.译文：虽然森林大火对欧洲各国的影响程度不同，但是其破坏力却让专家们提出第三个决议；斯特拉斯堡会议应该专虑就此主题建立一个欧洲数据库。在选项中扫描关键词，只有E选项出现关键词forest fires，且其含义与原文相符：有关森林大火的信息需被收集并分享。故答案为E。\n\n题号：37\n\n定位词：resolution 4\n\n第四段第十八行：此处应首先定位到第十五行的the fourth resolution，经过扫读后才能找到解题句：Proposed developments include a preferential research program on mountain forests.译文：建议的改进措施包括优先建立一项关于山林的研究项目。在选项中扫描关键词，只有B选项出现关键同mountain forests和priority (对应preferential)，且其含义与原文H符：脆弱的山林应该在研究项目中优先考虑。故答案为B。\n\n题号：38\n\n定位词：resolution 5\n\n第四段倒数第十行：此处应首先定位到倒数第十一行的the fifth resolution，经过扫读后才能找到解题句：Eurosilva should support joint European research on the tree diseases and… Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.译文：“森林持续发展”将支持欧洲各国联合研究树木的病害以及生理和生化方面的问题。每个参与国都可以增加奖学金以及其他经济支持来鼓励此领域博土论文的撰写以及研究项目开展。在选项中扫描关键词，只有G选项出现关键词allocated to research和tree diseases，且其含义与原文相符：资源必须分配给关于树木病害的研究。故答案为G。\n\n题号：39\n\n定位词：resolution 6\n\n第四段倒数第七行：Finally, the conference established the framework for a European research network on forest ecosystems.译文：会议最终建立了欧洲森林生态系统的科研网络。在选项中扫描关键词，只有D选项出现关键词co-ordinated(对应research network)，且其含义与原文相符:研究最好在整个欧洲范围内进行，以便更好地相互协作。故答案为D。",
+          "promptHtml": "[36] ______ Resolution 3"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "[37] ______ Resolution 4",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7014_191299",
+          "explanation": "题号：34\n\n定位词：resolution 1\n\n第四段第二行：The first proposes the extension and systematisation of surveillance sites to monitor forest decline.译文：第一项决议是对森林退化监测站进行扩建并使其系统化。在选项中扫描关键词，只有选项符合该含义：森林的任何退化信息都将被系统地收集。此处有两个干扰选项：F和I。F选项中出现文中原司monitored，但对loss of leaves的监测只是决议1中的项内容，不全面：I选项中出现文中原词soil imbalance, acidification, compounds of nitrogen and sulphur, 但这些词在文中分别出现于不同的例子中，而I选项却将其揉在一句话中。故答案为J。\n\n题号：35\n\n定位词：resolution 2\n\n第四段第九行：The second resolution concentrates on the need to preserve the genetic diversity of European forests.译文：第二项决议的重点是保持欧洲森林基因多样性的需求。在选项中扫描关键词，只有A选项出现关键同preserve,且其含义与原文相符：所有种类的树木都必须被保存。故答案为A。\n\n题号：36\n\n定位词：resolution 3\n\n第四段第十一行：Although forest fires do no..., ... third resolution that the Strasbourg conference consider the establishment of a European databank on the subject.译文：虽然森林大火对欧洲各国的影响程度不同，但是其破坏力却让专家们提出第三个决议；斯特拉斯堡会议应该专虑就此主题建立一个欧洲数据库。在选项中扫描关键词，只有E选项出现关键词forest fires，且其含义与原文相符：有关森林大火的信息需被收集并分享。故答案为E。\n\n题号：37\n\n定位词：resolution 4\n\n第四段第十八行：此处应首先定位到第十五行的the fourth resolution，经过扫读后才能找到解题句：Proposed developments include a preferential research program on mountain forests.译文：建议的改进措施包括优先建立一项关于山林的研究项目。在选项中扫描关键词，只有B选项出现关键同mountain forests和priority (对应preferential)，且其含义与原文H符：脆弱的山林应该在研究项目中优先考虑。故答案为B。\n\n题号：38\n\n定位词：resolution 5\n\n第四段倒数第十行：此处应首先定位到倒数第十一行的the fifth resolution，经过扫读后才能找到解题句：Eurosilva should support joint European research on the tree diseases and… Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.译文：“森林持续发展”将支持欧洲各国联合研究树木的病害以及生理和生化方面的问题。每个参与国都可以增加奖学金以及其他经济支持来鼓励此领域博土论文的撰写以及研究项目开展。在选项中扫描关键词，只有G选项出现关键词allocated to research和tree diseases，且其含义与原文相符：资源必须分配给关于树木病害的研究。故答案为G。\n\n题号：39\n\n定位词：resolution 6\n\n第四段倒数第七行：Finally, the conference established the framework for a European research network on forest ecosystems.译文：会议最终建立了欧洲森林生态系统的科研网络。在选项中扫描关键词，只有D选项出现关键词co-ordinated(对应research network)，且其含义与原文相符:研究最好在整个欧洲范围内进行，以便更好地相互协作。故答案为D。",
+          "promptHtml": "[37] ______ Resolution 4"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "[38] ______ Resolution 5",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q7014_972005",
+          "explanation": "题号：34\n\n定位词：resolution 1\n\n第四段第二行：The first proposes the extension and systematisation of surveillance sites to monitor forest decline.译文：第一项决议是对森林退化监测站进行扩建并使其系统化。在选项中扫描关键词，只有选项符合该含义：森林的任何退化信息都将被系统地收集。此处有两个干扰选项：F和I。F选项中出现文中原司monitored，但对loss of leaves的监测只是决议1中的项内容，不全面：I选项中出现文中原词soil imbalance, acidification, compounds of nitrogen and sulphur, 但这些词在文中分别出现于不同的例子中，而I选项却将其揉在一句话中。故答案为J。\n\n题号：35\n\n定位词：resolution 2\n\n第四段第九行：The second resolution concentrates on the need to preserve the genetic diversity of European forests.译文：第二项决议的重点是保持欧洲森林基因多样性的需求。在选项中扫描关键词，只有A选项出现关键同preserve,且其含义与原文相符：所有种类的树木都必须被保存。故答案为A。\n\n题号：36\n\n定位词：resolution 3\n\n第四段第十一行：Although forest fires do no..., ... third resolution that the Strasbourg conference consider the establishment of a European databank on the subject.译文：虽然森林大火对欧洲各国的影响程度不同，但是其破坏力却让专家们提出第三个决议；斯特拉斯堡会议应该专虑就此主题建立一个欧洲数据库。在选项中扫描关键词，只有E选项出现关键词forest fires，且其含义与原文相符：有关森林大火的信息需被收集并分享。故答案为E。\n\n题号：37\n\n定位词：resolution 4\n\n第四段第十八行：此处应首先定位到第十五行的the fourth resolution，经过扫读后才能找到解题句：Proposed developments include a preferential research program on mountain forests.译文：建议的改进措施包括优先建立一项关于山林的研究项目。在选项中扫描关键词，只有B选项出现关键同mountain forests和priority (对应preferential)，且其含义与原文H符：脆弱的山林应该在研究项目中优先考虑。故答案为B。\n\n题号：38\n\n定位词：resolution 5\n\n第四段倒数第十行：此处应首先定位到倒数第十一行的the fifth resolution，经过扫读后才能找到解题句：Eurosilva should support joint European research on the tree diseases and… Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.译文：“森林持续发展”将支持欧洲各国联合研究树木的病害以及生理和生化方面的问题。每个参与国都可以增加奖学金以及其他经济支持来鼓励此领域博土论文的撰写以及研究项目开展。在选项中扫描关键词，只有G选项出现关键词allocated to research和tree diseases，且其含义与原文相符：资源必须分配给关于树木病害的研究。故答案为G。\n\n题号：39\n\n定位词：resolution 6\n\n第四段倒数第七行：Finally, the conference established the framework for a European research network on forest ecosystems.译文：会议最终建立了欧洲森林生态系统的科研网络。在选项中扫描关键词，只有D选项出现关键词co-ordinated(对应research network)，且其含义与原文相符:研究最好在整个欧洲范围内进行，以便更好地相互协作。故答案为D。",
+          "promptHtml": "[38] ______ Resolution 5"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "[39] ______ Resolution 6",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q7014_796170",
+          "explanation": "题号：34\n\n定位词：resolution 1\n\n第四段第二行：The first proposes the extension and systematisation of surveillance sites to monitor forest decline.译文：第一项决议是对森林退化监测站进行扩建并使其系统化。在选项中扫描关键词，只有选项符合该含义：森林的任何退化信息都将被系统地收集。此处有两个干扰选项：F和I。F选项中出现文中原司monitored，但对loss of leaves的监测只是决议1中的项内容，不全面：I选项中出现文中原词soil imbalance, acidification, compounds of nitrogen and sulphur, 但这些词在文中分别出现于不同的例子中，而I选项却将其揉在一句话中。故答案为J。\n\n题号：35\n\n定位词：resolution 2\n\n第四段第九行：The second resolution concentrates on the need to preserve the genetic diversity of European forests.译文：第二项决议的重点是保持欧洲森林基因多样性的需求。在选项中扫描关键词，只有A选项出现关键同preserve,且其含义与原文相符：所有种类的树木都必须被保存。故答案为A。\n\n题号：36\n\n定位词：resolution 3\n\n第四段第十一行：Although forest fires do no..., ... third resolution that the Strasbourg conference consider the establishment of a European databank on the subject.译文：虽然森林大火对欧洲各国的影响程度不同，但是其破坏力却让专家们提出第三个决议；斯特拉斯堡会议应该专虑就此主题建立一个欧洲数据库。在选项中扫描关键词，只有E选项出现关键词forest fires，且其含义与原文相符：有关森林大火的信息需被收集并分享。故答案为E。\n\n题号：37\n\n定位词：resolution 4\n\n第四段第十八行：此处应首先定位到第十五行的the fourth resolution，经过扫读后才能找到解题句：Proposed developments include a preferential research program on mountain forests.译文：建议的改进措施包括优先建立一项关于山林的研究项目。在选项中扫描关键词，只有B选项出现关键同mountain forests和priority (对应preferential)，且其含义与原文H符：脆弱的山林应该在研究项目中优先考虑。故答案为B。\n\n题号：38\n\n定位词：resolution 5\n\n第四段倒数第十行：此处应首先定位到倒数第十一行的the fifth resolution，经过扫读后才能找到解题句：Eurosilva should support joint European research on the tree diseases and… Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.译文：“森林持续发展”将支持欧洲各国联合研究树木的病害以及生理和生化方面的问题。每个参与国都可以增加奖学金以及其他经济支持来鼓励此领域博土论文的撰写以及研究项目开展。在选项中扫描关键词，只有G选项出现关键词allocated to research和tree diseases，且其含义与原文相符：资源必须分配给关于树木病害的研究。故答案为G。\n\n题号：39\n\n定位词：resolution 6\n\n第四段倒数第七行：Finally, the conference established the framework for a European research network on forest ecosystems.译文：会议最终建立了欧洲森林生态系统的科研网络。在选项中扫描关键词，只有D选项出现关键词co-ordinated(对应research network)，且其含义与原文相符:研究最好在整个欧洲范围内进行，以便更好地相互协作。故答案为D。",
+          "promptHtml": "[39] ______ Resolution 6"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "All kinds of species of trees should be preserved."
+        },
+        {
+          "value": "B",
+          "text": "Fragile mountain forests should be given priority in research programs."
+        },
+        {
+          "value": "C",
+          "text": "The surviving natural forests of Europe do not need priority treatment."
+        },
+        {
+          "value": "D",
+          "text": "Research is to be better co-ordinated throughout Europe."
+        },
+        {
+          "value": "E",
+          "text": "Information on forest fires should be collected and shared."
+        },
+        {
+          "value": "F",
+          "text": "Loss of leaves from trees should be more extensively and carefully monitored."
+        },
+        {
+          "value": "G",
+          "text": "Resources should be allocated to research into tree diseases."
+        },
+        {
+          "value": "H",
+          "text": "Skiing should be encouraged in thinly populated areas."
+        },
+        {
+          "value": "I",
+          "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+        },
+        {
+          "value": "J",
+          "text": "Information is to be systematically gathered on any decline in the condition of forests."
+        }
+      ],
+      "contextHtml": "<p><strong>[34] ______</strong> Resolution 1<br>\n<strong>[35] ______</strong> Resolution 2<br>\n<strong>[36] ______</strong> Resolution 3<br>\n<strong>[37] ______</strong> Resolution 4<br>\n<strong>[38] ______</strong> Resolution 5<br>\n<strong>[39] ______</strong> Resolution 6</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "choice",
+      "instruction": "Question 40\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "What is the best title for Reading Passage 3?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7014_890329",
+          "options": [
+            {
+              "value": "A",
+              "text": "The biological, economic and recreational role of forests"
+            },
+            {
+              "value": "B",
+              "text": "Plans to protect the forests of Europe"
+            },
+            {
+              "value": "C",
+              "text": "The priority of European research into ecosystems"
+            },
+            {
+              "value": "D",
+              "text": "Proposals for a world-wide policy on forest management"
+            }
+          ],
+          "explanation": "Reading Passage 3的最佳标题为：\n\nA.森林的生物、经济和娱乐角色\n\nB.欧洲森林保护计划\n\nC.欧洲生态系统研究的优先性\n\nD.关于森林管理的世界性政策提案\n\n通过分析文章首句可以得出，其中关键词为forests，从而排除不含此关键词的选项C；A选项中的三个关键词biological, economic和recreational均未在末句中提及，故排除；B和D两个选项中关键同分别为：B强调protect, D强调policy on management。文章末句中的government以及responsibility for forests强调政府对于森林的责任而并非管理，排除D选项。故正确答案为B。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><img src=\"/api/guest/cambridge/media/images/997784f4427a53963b835df15a659b9e.png\" alt=\"\"></p><p>Forests are one of the main elements of our natural heritage. The decline of Europe&#x27;s forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them. European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage. There has been a growing awareness of the need for countries to get together to co-ordinate their policies. In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe&#x27;s forests. The conference brought together 31 countries from both Western and Eastern Europe. The topics discussed included the co-ordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem. The preparatory work for the conference had been undertaken at two meetings of experts. Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored.</p><p>As a whole, European countries see forests as performing a triple function: biological, economic and recreational. The first is to act as a &#x27;green lung&#x27; for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant. At the same time, forests provide raw materials for human activities through their constantly renewed production of wood. Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking. The economic importance of forests has been understood since the dawn of man - wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important. Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles.</p><p>The myth of the &#x27;natural&#x27; forest has survived, yet there are effectively no remaining &#x27;primary&#x27; forests in Europe. All European forests are artificial, having been adapted and exploited by man for thousands of years. This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy. The Strasbourg conference was one of the first events on such a scale to reach this conclusion. A general declaration was made that &#x27;a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained&#x27;.</p><p>That general declaration was accompanied by six detailed resolutions to assist national policy-making. The first proposes the extension and systematisation of surveillance sites to monitor forest decline. Forest decline is still poorly understood but leads to the loss of a high proportion of a tree&#x27;s needles or leaves. The entire continent and the majority of species are now affected: between 30% and 50% of the tree population. The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits. Compounds of nitrogen and sulphur dioxide should be particularly closely watched. However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots. The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the &#x27;genetic material&#x27; of all of them. Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available. The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests. The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area. Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests. The Strasbourg conference&#x27;s main concern was to provide for the future. This was the initial motivation, one now shared by all 31 participants representing 31European countries. Their final text commits them to on-going discussion between government representatives with responsibility for forests.</p>"
+}

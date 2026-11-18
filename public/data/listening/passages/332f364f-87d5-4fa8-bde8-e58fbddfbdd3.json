@@ -1,0 +1,456 @@
+{
+  "id": "332f364f-87d5-4fa8-bde8-e58fbddfbdd3",
+  "title": "Fextus school open day",
+  "titleCn": "Fexta学校体育中心开放日介绍",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/332f364f-87d5-4fa8-bde8-e58fbddfbdd3",
+  "duration": 389,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,160"
+    },
+    {
+      "label": "2",
+      "text": "Section two. You will hear an instructor at a sports center talking to visitors at an opening day. First, you have some time to look at questions eleven to sixteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:14,580"
+    },
+    {
+      "label": "4",
+      "text": "Now listen carefully and answer questions eleven to sixteen."
+    },
+    {
+      "label": "5",
+      "text": "00:00:19,960"
+    },
+    {
+      "label": "6",
+      "text": "Good morning. We're delighted to see so many local residents here today at the open day at Fexta School Center. We're looking forward to showing you around, and if there is anything I haven't covered, just get hold of me when we have a break in the cafe at eleven o'clock. At the moment, we're also celebrating the completion of a Parkersville dance studio, where you'll see a lesson in progress. You'll also see the kids club class in the swimming pool and get a chance to talk to some of our instructors. We have a range of sports facilities, so there's something for everybody. I've already mentioned the kids club. That's Saturdays and Sundays only, and children must be accompanied by a responsible adult. Weekday evenings, we have the highest throughput as a lot of people come straight from work for an hour or two. And of course, the students at the local college tend to pop in any time, Monday to Friday, whenever they've got a gap between lectures. We organize a wide range of classes from yoga to boxing, and classes are best booked for a term. That's ten classes. You can pay by debit card, and we give you vouchers which you just hand in to the instructor. We do accept credit card payments, but I'm afraid we have to charge a fee for that. Or if you prefer, you can turn up and pay cash on the day. But you'll find you save money when you book for a term upfront. All the information about our classes is on our website. There are profiles of our instructors too, and you'll see we've recently won a sports award for the standard of the work they do. The guidance they gave was highlighted in the awards ceremony. If you like what you see here today, you can join now for a membership fee of twenty pounds a month. To tempt you further, if you're a football fan, we've got thirty tickets for the cup final, and you'd be welcome to come along. The coach is free, so it's just the cost of the ticket. But best of all, just today, we're able to offer to people who join, completely free, an hour with a personal trainer. And finally, a word of warning. A lot of people who join gyms or sports centers give up after a couple of months. At first, they clearly feel better, look better, et cetera. But then the motivation wears off. They start making excuses like they're too busy at work. But it's usually because they joined on their own, so outside the club there's no one to compare notes with. Don't let that happen to you."
+    },
+    {
+      "label": "7",
+      "text": "00:03:05,420"
+    },
+    {
+      "label": "8",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty."
+    },
+    {
+      "label": "9",
+      "text": "00:03:14,820"
+    },
+    {
+      "label": "10",
+      "text": "Now listen and answer questions seventeen to twenty."
+    },
+    {
+      "label": "11",
+      "text": "00:03:19,460"
+    },
+    {
+      "label": "12",
+      "text": "Now, to get the most out of sports activities, you make sure you do a range of activities. Generally speaking, it's a good idea to start with the general training classes, where you'll start by working on strengthening your lower limbs. You'll immediately feel the benefits in your day-to-day life. Then make sure you're building up your strength. Do some light weight training. You'll be surprised how much that increases your ability to stay mentally focused, and that's outside the gym too. Make sure you do our aerobics class. You simply get a really intensive workout and really get your heart pumping. It's the perfect way to release all the tension that's built up during the day. Finally, at least once a week, play a sport such as squash so that your agility improves. This is very good for developing quick responses. You literally think on your feet. It's recommended that you follow this program for about six weeks and then reassess your fitness levels."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-16**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "7e9ca242-1130-4d86-b9ad-be678eff79f9",
+          "prompt": "**11** What is the latest facility established at school currently?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "a dance studio",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At the moment, we're also celebrating the completion of a Parkersville dance studio, where you'll see a lesson in progress"
+          },
+          "keywordPairs": [
+            {
+              "question": "latest facility",
+              "article": "brand‑new"
+            },
+            {
+              "question": "established",
+              "article": "completion"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "a cafe"
+            },
+            {
+              "value": "B",
+              "text": "a dance studio"
+            },
+            {
+              "value": "C",
+              "text": "a swimming pool"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "f102f445-82f2-4578-b878-2055c3322d37",
+          "prompt": "**12** When is the busiest time for using the facility?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "weekday evenings",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Weekday evenings, we have the highest throughput as a lot of people come straight from work"
+          },
+          "keywordPairs": [
+            {
+              "question": "busiest time",
+              "article": "highest throughput"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "weekdays"
+            },
+            {
+              "value": "B",
+              "text": "weekday evenings"
+            },
+            {
+              "value": "C",
+              "text": "weekends"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "883bbe2f-4d74-4613-9040-dc05873c618c",
+          "prompt": "**13** You can get a discount for the classes if you",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "pay in advance",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You'll find you save money when you book for a term upfront"
+          },
+          "keywordPairs": [
+            {
+              "question": "get a discount",
+              "article": "save money"
+            },
+            {
+              "question": "pay in advance",
+              "article": "book for a term upfront"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "pay by cash"
+            },
+            {
+              "value": "B",
+              "text": "pay by credit card"
+            },
+            {
+              "value": "C",
+              "text": "pay in advance"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "82359ea3-a420-42aa-be13-d314d8fde197",
+          "prompt": "**14** Why did the gym win a sports award?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "it has professional advisors",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We've recently won a sports award for the standard of the work they do. The guidance they gave was highlighted in the awards ceremony"
+          },
+          "keywordPairs": [
+            {
+              "question": "professional advisors",
+              "article": "instructors"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "it has an excellent website"
+            },
+            {
+              "value": "B",
+              "text": "it has professional advisors"
+            },
+            {
+              "value": "C",
+              "text": "it has up-to-date facilities"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "1607eeaf-f085-48d8-bec6-92abf885393a",
+          "prompt": "**15** What benefit can new customers get if they want to join today?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "a free training lesson",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Best of all, just today, we’re able to offer to people who join, completely free, an hour with a personal trainer"
+          },
+          "keywordPairs": [
+            {
+              "question": "training lesson",
+              "article": "an hour with a personal trainer"
+            },
+            {
+              "question": "new customers",
+              "article": "people who join"
+            },
+            {
+              "question": "benefit",
+              "article": "completely free"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "a free membership"
+            },
+            {
+              "value": "B",
+              "text": "a free cup final ticket"
+            },
+            {
+              "value": "C",
+              "text": "a free training lesson"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "ce6b5943-514a-4a5a-9a2d-2cec573330d6",
+          "prompt": "**16** Why most people give up exercising half a way?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "no companion",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They start making excuses like they're too busy;but it's usually because they joined on their own"
+          },
+          "keywordPairs": [
+            {
+              "question": "most",
+              "article": "lot"
+            },
+            {
+              "question": "no companion",
+              "article": "joined on their own"
+            },
+            {
+              "question": "halfway",
+              "article": "after a couple of months"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16",
+          "options": [
+            {
+              "value": "A",
+              "text": "too busy"
+            },
+            {
+              "value": "B",
+              "text": "no companion"
+            },
+            {
+              "value": "C",
+              "text": "no instructors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 17-20**\nChoose the correct letter from **A-F**.\n\n**Activities**",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "43365854-fac6-428a-9da9-64721fbcbbd7",
+          "prompt": "general training",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "to improve leg power",
+          "evidence": {
+            "paragraph": "",
+            "quote": "General training classes;working on strengthening your lower limbs"
+          },
+          "keywordPairs": [
+            {
+              "question": "lower limbs",
+              "article": "legs"
+            },
+            {
+              "question": "improve",
+              "article": "strengthening"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "1fd442df-9b44-4a3c-a5a6-8c0a5c677394",
+          "prompt": "weight training",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "to improve better concentration",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Light weight training;increases your ability to stay mentally focused"
+          },
+          "keywordPairs": [
+            {
+              "question": "improve better concentration",
+              "article": "stay mentally focused"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "6ffc5249-8da5-44d2-b718-9e4fc09a7b53",
+          "prompt": "aerobics",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "to let out stress",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Aerobics class;the perfect way to release all the tension that's built up during the day"
+          },
+          "keywordPairs": [
+            {
+              "question": "let out stress",
+              "article": "release all the tension"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "9f493aff-b869-49ab-9b65-f8ffcdf66ca3",
+          "prompt": "squash",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "to improve reaction time",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Play a sport such as squash so that your agility improves. This is very good for developing quick responses"
+          },
+          "keywordPairs": [
+            {
+              "question": "reaction",
+              "article": "responses"
+            },
+            {
+              "question": "improve",
+              "article": "developing"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "to improve reaction time"
+        },
+        {
+          "value": "B",
+          "text": "to improve leg power"
+        },
+        {
+          "value": "C",
+          "text": "to improve better concentration"
+        },
+        {
+          "value": "D",
+          "text": "to improve breath"
+        },
+        {
+          "value": "E",
+          "text": "to let out stress"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "配对题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,160</p><p>Section two. You will hear an instructor at a sports center talking to visitors at an opening day. First, you have some time to look at questions eleven to sixteen. </p><p>00:00:14,580</p><p>Now listen carefully and answer questions eleven to sixteen. </p><p>00:00:19,960</p><p>Good morning. We're delighted to see so many local residents here today at the open day at Fexta School Center. We're looking forward to showing you around, and if there is anything I haven't covered, just get hold of me when we have a break in the cafe at eleven o'clock. At the moment, we're also celebrating the completion of a Parkersville dance studio, where you'll see a lesson in progress. You'll also see the kids club class in the swimming pool and get a chance to talk to some of our instructors. We have a range of sports facilities, so there's something for everybody. I've already mentioned the kids club. That's Saturdays and Sundays only, and children must be accompanied by a responsible adult. Weekday evenings, we have the highest throughput as a lot of people come straight from work for an hour or two. And of course, the students at the local college tend to pop in any time, Monday to Friday, whenever they've got a gap between lectures. We organize a wide range of classes from yoga to boxing, and classes are best booked for a term. That's ten classes. You can pay by debit card, and we give you vouchers which you just hand in to the instructor. We do accept credit card payments, but I'm afraid we have to charge a fee for that. Or if you prefer, you can turn up and pay cash on the day. But you'll find you save money when you book for a term upfront. All the information about our classes is on our website. There are profiles of our instructors too, and you'll see we've recently won a sports award for the standard of the work they do. The guidance they gave was highlighted in the awards ceremony. If you like what you see here today, you can join now for a membership fee of twenty pounds a month. To tempt you further, if you're a football fan, we've got thirty tickets for the cup final, and you'd be welcome to come along. The coach is free, so it's just the cost of the ticket. But best of all, just today, we're able to offer to people who join, completely free, an hour with a personal trainer. And finally, a word of warning. A lot of people who join gyms or sports centers give up after a couple of months. At first, they clearly feel better, look better, et cetera. But then the motivation wears off. They start making excuses like they're too busy at work. But it's usually because they joined on their own, so outside the club there's no one to compare notes with. Don't let that happen to you. </p><p> </p><p>00:03:05,420</p><p>Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty. </p><p>00:03:14,820</p><p>Now listen and answer questions seventeen to twenty. </p><p>00:03:19,460</p><p>Now, to get the most out of sports activities, you make sure you do a range of activities. Generally speaking, it's a good idea to start with the general training classes, where you'll start by working on strengthening your lower limbs. You'll immediately feel the benefits in your day-to-day life. Then make sure you're building up your strength. Do some light weight training. You'll be surprised how much that increases your ability to stay mentally focused, and that's outside the gym too. Make sure you do our aerobics class. You simply get a really intensive workout and really get your heart pumping. It's the perfect way to release all the tension that's built up during the day. Finally, at least once a week, play a sport such as squash so that your agility improves. This is very good for developing quick responses. You literally think on your feet. It's recommended that you follow this program for about six weeks and then reassess your fitness levels. <span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/332f364f-87d5-4fa8-bde8-e58fbddfbdd3.mp3",
+    "durationSeconds": 268.382041,
+    "sizeBytes": 1073754,
+    "sha256": "86b7e87f043df39b3dbb469e2b92e9fddc96ee0c0b20779387f32d42f7ec55ec",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:35:50Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777434314221_fcxryo_b46d2aec.mp3"
+}

@@ -1,0 +1,383 @@
+{
+  "id": "cambridge-16-test-4-reading-3",
+  "title": "Attitudes towards Artificial Intelligence",
+  "titleCn": "Attitudes towards Artificial Intelligence",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 4
+  },
+  "sourceQuestionId": "8331",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8331",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Attitudes towards Artificial Intelligence"
+    },
+    {
+      "label": "2",
+      "text": "1"
+    },
+    {
+      "label": "3",
+      "text": "A Artificial intelligence (AI) can already predict the future. Police forces are using it to map when and where crime is likely to occur. Doctors can use it to predict when a patient is most likely to have a heart attack or stroke. Researchers are even trying to give AI imagination so it can plan for unexpected consequences."
+    },
+    {
+      "label": "4",
+      "text": "Many decisions in our lives require a good forecast, and AI is almost always better at forecasting than we are. Yet for all these technological advances, we still seem to deeply lack confidence in AI predictions. Recent cases show that people don’t like relying on AI and prefer to trust human experts, even if these experts are wrong."
+    },
+    {
+      "label": "5",
+      "text": "If we want AI to really benefit people, we need to find a way to get people to trust it. To do that, we need to understand why people are so reluctant to trust AI in the first place."
+    },
+    {
+      "label": "6",
+      "text": "2"
+    },
+    {
+      "label": "7",
+      "text": "B Take the case of Watson for Oncology, one of technology giant IBM’s supercomputer programs. Their attempt to promote this program to cancer doctors was a PR disaster. The AI promised to deliver top-quality recommendations on the treatment of 12 cancers that accounted for 80% of the world’s cases. But when doctors first interacted with Watson, they found themselves in a rather difficult situation. On the one hand, if Watson provided guidance about a treatment that coincided with their own opinions, physicians did not see much point in Watson’s recommendations. The supercomputer was simply telling them what they already knew, and these recommendations did not change the actual treatment."
+    },
+    {
+      "label": "8",
+      "text": "On the other hand, if Watson generated a recommendation that contradicted the experts’ opinion, doctors would typically conclude that Watson wasn’t competent. And the machine wouldn’t be able to explain why its treatment was plausible because its machine-learning algorithms were simply too complex to be fully understood by humans. Consequently, this has caused even more suspicion and disbelief, leading many doctors to ignore the seemingly outlandish AI recommendations and stick to their own expertise."
+    },
+    {
+      "label": "9",
+      "text": "3"
+    },
+    {
+      "label": "10",
+      "text": "C This is just one example of people’s lack of confidence in AI and their reluctance to accept what AI has to offer. Trust in other people is often based on our understanding of how others think and having experience of their reliability. This helps create a psychological feeling of safety. AI, on the other hand, is still fairly new and unfamiliar to most people. Even if it can be technically explained (and that’s not always the case), AI’s decision-making process is usually too difficult for most people to comprehend. And interacting with something we don’t understand can cause anxiety and give us a sense that we’re losing control."
+    },
+    {
+      "label": "11",
+      "text": "Many people are also simply not familiar with many instances of AI actually working, because it often happens in the background. Instead, they are acutely aware of instances where AI goes wrong. Embarrassing AI failures receive a disproportionate amount of media attention, emphasising the message that we cannot rely on technology. Machine learning is not foolproof, in part because the humans who design it aren’t."
+    },
+    {
+      "label": "12",
+      "text": "4"
+    },
+    {
+      "label": "13",
+      "text": "D Feelings about AI run deep. In a recent experiment, people from a range of backgrounds were given various sci-fi films about AI to watch and then asked questions about automation in everyday life. It was found that, regardless of whether the film they watched depicted AI in a positive or negative light, simply watching a cinematic vision of our technological future polarised the participants’ attitudes. Optimists became more extreme in their enthusiasm for AI and sceptics became even more guarded."
+    },
+    {
+      "label": "14",
+      "text": "This suggests people use relevant evidence about AI in a biased manner to support their existing attitudes, a deep-rooted human tendency known as “confirmation bias”. As AI is represented more and more in media and entertainment, it could lead to a society split between those who benefit from AI and those who reject it. More pertinently, refusing to accept the advantages offered by AI could place a large group of people at a serious disadvantage."
+    },
+    {
+      "label": "15",
+      "text": "5"
+    },
+    {
+      "label": "16",
+      "text": "E Fortunately, we already have some ideas about how to improve trust in AI. Simply having previous experience with AI can significantly improve people’s opinions about the technology, as was found in the study mentioned above. Evidence also suggests the more you use other technologies such as the internet, the more you trust them."
+    },
+    {
+      "label": "17",
+      "text": "Another solution may be to reveal more about the algorithms which AI uses and the purposes they serve. Several high-profile social media companies and online marketplaces already release transparency reports about government requests and surveillance disclosures. A similar practice for AI could help people have a better understanding of the way algorithmic decisions are made."
+    },
+    {
+      "label": "18",
+      "text": "6"
+    },
+    {
+      "label": "19",
+      "text": "F Research suggests that allowing people some control over AI decision-making could also improve trust and enable AI to learn from human experience. For example, one study showed that when people were allowed the freedom to slightly modify an algorithm, they felt more satisfied with its decisions, more likely to believe it was superior and more likely to use it in the future."
+    },
+    {
+      "label": "20",
+      "text": "We don’t need to understand the intricate inner workings of AI systems, but if people are given a degree of responsibility for how they are implemented, they will be more willing to accept AI into their lives."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 27–32\n\nReading Passage 3 has six sections, A–F.\n\nChoose the correct heading for each section and move it into the gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Gap 27 (see above)",
+          "answers": [
+            "iii"
+          ],
+          "sourceCode": "Q8331_221189",
+          "explanation": "27. Section A由三个自然段组成，这种情况下如果考生只阅读了第一个自然段后就回到题干选答案，就很容易错选viii选项。但实际上，这种原文被划分为多个自然段的情况下，应先进行三个段落扫读，找出每段的大意，抓住句与句、段与段之间的逻辑关系。这样做之后，考生就不难发现，文章的第一个自然段是说AI的一些实际应用，第二段开始就说明AI与人类预测的准确性的比较，最后到第三段引出文章的目的。因此本题答案为iii。\n\n28. Section B由两个段落组成，看似很长，但透过逻辑信号词能帮助我们快速理解段落结构。第一段由Take the case of…引出一个AI应用的例子；段落中部出现but转折，说到使用这个AI的困难之处；接下来用了一对相反关系信号词（on the one hand、on the other hand）说明两方面的问题；最后通过consequently引出结论：这引起了更多的怀疑，导致许多医生忽略了AI的建议，并坚持自己的专业知识。因此，Section B对应的正确选项为vi。\n\n29. Section C也是由两个段落组成的，还是需要再次强调，这种题型不能只定位某一句话，而是需要理解段落大意才能答对题目。C部分一开始承接了上一部分的结论，说明人类对AI的信任度不高。接下来开始解释人类更相信自己判断的第一个原因是因为对人工智能太陌生，没有心理安全感。第二段给出另一个理由，是因为大部分AI的工作都在背后，不被人类所熟悉。因此，Section C对应的正确选项为ii。\n\n30. Section D的主题句说明本段继续谈及人类对AI的感觉。接下来的信号词in a recent experiment提出了另一个例子，所以我们要去寻找这个例子的结论。本段的最后一句指出乐观主义者对人工智能的热情变得更加极端，而怀疑论者则变得更加谨慎，由此可以得出该部分对应的正确选项为i。\n\n31. Section E第一段提到关于如何提高对人工智能的信任已经有了一些想法，接下来给出第一个解决方法，接着第二段介绍了另一种让人类更相信AI的方法。两个段落都在说明可以通过提高人类对AI的认知，了解其算法及服务目的，从而提高人类对AI的接受度。因此，Section E对应的正确选项为vii。\n\n32. Section F为“总-分-总”的结构，主题句说明让人们对人工智能决策有一定的控制力可以提高信任度，接下来通过信号词for example给出例子支撑观点，最后一句再强调，关于如何实施人工智能，如果人们被赋予某种程度的责任，他们将更愿意接受人工智能进入他们的生活。整段的中心思想与选项v相符，故Section F对应的正确选项为v。",
+          "promptHtml": "Gap 27 (see above)"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Gap 28 (see above)",
+          "answers": [
+            "vi"
+          ],
+          "sourceCode": "Q8331_830923",
+          "explanation": "27. Section A由三个自然段组成，这种情况下如果考生只阅读了第一个自然段后就回到题干选答案，就很容易错选viii选项。但实际上，这种原文被划分为多个自然段的情况下，应先进行三个段落扫读，找出每段的大意，抓住句与句、段与段之间的逻辑关系。这样做之后，考生就不难发现，文章的第一个自然段是说AI的一些实际应用，第二段开始就说明AI与人类预测的准确性的比较，最后到第三段引出文章的目的。因此本题答案为iii。\n\n28. Section B由两个段落组成，看似很长，但透过逻辑信号词能帮助我们快速理解段落结构。第一段由Take the case of…引出一个AI应用的例子；段落中部出现but转折，说到使用这个AI的困难之处；接下来用了一对相反关系信号词（on the one hand、on the other hand）说明两方面的问题；最后通过consequently引出结论：这引起了更多的怀疑，导致许多医生忽略了AI的建议，并坚持自己的专业知识。因此，Section B对应的正确选项为vi。\n\n29. Section C也是由两个段落组成的，还是需要再次强调，这种题型不能只定位某一句话，而是需要理解段落大意才能答对题目。C部分一开始承接了上一部分的结论，说明人类对AI的信任度不高。接下来开始解释人类更相信自己判断的第一个原因是因为对人工智能太陌生，没有心理安全感。第二段给出另一个理由，是因为大部分AI的工作都在背后，不被人类所熟悉。因此，Section C对应的正确选项为ii。\n\n30. Section D的主题句说明本段继续谈及人类对AI的感觉。接下来的信号词in a recent experiment提出了另一个例子，所以我们要去寻找这个例子的结论。本段的最后一句指出乐观主义者对人工智能的热情变得更加极端，而怀疑论者则变得更加谨慎，由此可以得出该部分对应的正确选项为i。\n\n31. Section E第一段提到关于如何提高对人工智能的信任已经有了一些想法，接下来给出第一个解决方法，接着第二段介绍了另一种让人类更相信AI的方法。两个段落都在说明可以通过提高人类对AI的认知，了解其算法及服务目的，从而提高人类对AI的接受度。因此，Section E对应的正确选项为vii。\n\n32. Section F为“总-分-总”的结构，主题句说明让人们对人工智能决策有一定的控制力可以提高信任度，接下来通过信号词for example给出例子支撑观点，最后一句再强调，关于如何实施人工智能，如果人们被赋予某种程度的责任，他们将更愿意接受人工智能进入他们的生活。整段的中心思想与选项v相符，故Section F对应的正确选项为v。",
+          "promptHtml": "Gap 28 (see above)"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Gap 29 (see above)",
+          "answers": [
+            "ii"
+          ],
+          "sourceCode": "Q8331_630964",
+          "explanation": "27. Section A由三个自然段组成，这种情况下如果考生只阅读了第一个自然段后就回到题干选答案，就很容易错选viii选项。但实际上，这种原文被划分为多个自然段的情况下，应先进行三个段落扫读，找出每段的大意，抓住句与句、段与段之间的逻辑关系。这样做之后，考生就不难发现，文章的第一个自然段是说AI的一些实际应用，第二段开始就说明AI与人类预测的准确性的比较，最后到第三段引出文章的目的。因此本题答案为iii。\n\n28. Section B由两个段落组成，看似很长，但透过逻辑信号词能帮助我们快速理解段落结构。第一段由Take the case of…引出一个AI应用的例子；段落中部出现but转折，说到使用这个AI的困难之处；接下来用了一对相反关系信号词（on the one hand、on the other hand）说明两方面的问题；最后通过consequently引出结论：这引起了更多的怀疑，导致许多医生忽略了AI的建议，并坚持自己的专业知识。因此，Section B对应的正确选项为vi。\n\n29. Section C也是由两个段落组成的，还是需要再次强调，这种题型不能只定位某一句话，而是需要理解段落大意才能答对题目。C部分一开始承接了上一部分的结论，说明人类对AI的信任度不高。接下来开始解释人类更相信自己判断的第一个原因是因为对人工智能太陌生，没有心理安全感。第二段给出另一个理由，是因为大部分AI的工作都在背后，不被人类所熟悉。因此，Section C对应的正确选项为ii。\n\n30. Section D的主题句说明本段继续谈及人类对AI的感觉。接下来的信号词in a recent experiment提出了另一个例子，所以我们要去寻找这个例子的结论。本段的最后一句指出乐观主义者对人工智能的热情变得更加极端，而怀疑论者则变得更加谨慎，由此可以得出该部分对应的正确选项为i。\n\n31. Section E第一段提到关于如何提高对人工智能的信任已经有了一些想法，接下来给出第一个解决方法，接着第二段介绍了另一种让人类更相信AI的方法。两个段落都在说明可以通过提高人类对AI的认知，了解其算法及服务目的，从而提高人类对AI的接受度。因此，Section E对应的正确选项为vii。\n\n32. Section F为“总-分-总”的结构，主题句说明让人们对人工智能决策有一定的控制力可以提高信任度，接下来通过信号词for example给出例子支撑观点，最后一句再强调，关于如何实施人工智能，如果人们被赋予某种程度的责任，他们将更愿意接受人工智能进入他们的生活。整段的中心思想与选项v相符，故Section F对应的正确选项为v。",
+          "promptHtml": "Gap 29 (see above)"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Gap 30 (see above)",
+          "answers": [
+            "i"
+          ],
+          "sourceCode": "Q8331_551234",
+          "explanation": "27. Section A由三个自然段组成，这种情况下如果考生只阅读了第一个自然段后就回到题干选答案，就很容易错选viii选项。但实际上，这种原文被划分为多个自然段的情况下，应先进行三个段落扫读，找出每段的大意，抓住句与句、段与段之间的逻辑关系。这样做之后，考生就不难发现，文章的第一个自然段是说AI的一些实际应用，第二段开始就说明AI与人类预测的准确性的比较，最后到第三段引出文章的目的。因此本题答案为iii。\n\n28. Section B由两个段落组成，看似很长，但透过逻辑信号词能帮助我们快速理解段落结构。第一段由Take the case of…引出一个AI应用的例子；段落中部出现but转折，说到使用这个AI的困难之处；接下来用了一对相反关系信号词（on the one hand、on the other hand）说明两方面的问题；最后通过consequently引出结论：这引起了更多的怀疑，导致许多医生忽略了AI的建议，并坚持自己的专业知识。因此，Section B对应的正确选项为vi。\n\n29. Section C也是由两个段落组成的，还是需要再次强调，这种题型不能只定位某一句话，而是需要理解段落大意才能答对题目。C部分一开始承接了上一部分的结论，说明人类对AI的信任度不高。接下来开始解释人类更相信自己判断的第一个原因是因为对人工智能太陌生，没有心理安全感。第二段给出另一个理由，是因为大部分AI的工作都在背后，不被人类所熟悉。因此，Section C对应的正确选项为ii。\n\n30. Section D的主题句说明本段继续谈及人类对AI的感觉。接下来的信号词in a recent experiment提出了另一个例子，所以我们要去寻找这个例子的结论。本段的最后一句指出乐观主义者对人工智能的热情变得更加极端，而怀疑论者则变得更加谨慎，由此可以得出该部分对应的正确选项为i。\n\n31. Section E第一段提到关于如何提高对人工智能的信任已经有了一些想法，接下来给出第一个解决方法，接着第二段介绍了另一种让人类更相信AI的方法。两个段落都在说明可以通过提高人类对AI的认知，了解其算法及服务目的，从而提高人类对AI的接受度。因此，Section E对应的正确选项为vii。\n\n32. Section F为“总-分-总”的结构，主题句说明让人们对人工智能决策有一定的控制力可以提高信任度，接下来通过信号词for example给出例子支撑观点，最后一句再强调，关于如何实施人工智能，如果人们被赋予某种程度的责任，他们将更愿意接受人工智能进入他们的生活。整段的中心思想与选项v相符，故Section F对应的正确选项为v。",
+          "promptHtml": "Gap 30 (see above)"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Gap 31 (see above)",
+          "answers": [
+            "vii"
+          ],
+          "sourceCode": "Q8331_686873",
+          "explanation": "27. Section A由三个自然段组成，这种情况下如果考生只阅读了第一个自然段后就回到题干选答案，就很容易错选viii选项。但实际上，这种原文被划分为多个自然段的情况下，应先进行三个段落扫读，找出每段的大意，抓住句与句、段与段之间的逻辑关系。这样做之后，考生就不难发现，文章的第一个自然段是说AI的一些实际应用，第二段开始就说明AI与人类预测的准确性的比较，最后到第三段引出文章的目的。因此本题答案为iii。\n\n28. Section B由两个段落组成，看似很长，但透过逻辑信号词能帮助我们快速理解段落结构。第一段由Take the case of…引出一个AI应用的例子；段落中部出现but转折，说到使用这个AI的困难之处；接下来用了一对相反关系信号词（on the one hand、on the other hand）说明两方面的问题；最后通过consequently引出结论：这引起了更多的怀疑，导致许多医生忽略了AI的建议，并坚持自己的专业知识。因此，Section B对应的正确选项为vi。\n\n29. Section C也是由两个段落组成的，还是需要再次强调，这种题型不能只定位某一句话，而是需要理解段落大意才能答对题目。C部分一开始承接了上一部分的结论，说明人类对AI的信任度不高。接下来开始解释人类更相信自己判断的第一个原因是因为对人工智能太陌生，没有心理安全感。第二段给出另一个理由，是因为大部分AI的工作都在背后，不被人类所熟悉。因此，Section C对应的正确选项为ii。\n\n30. Section D的主题句说明本段继续谈及人类对AI的感觉。接下来的信号词in a recent experiment提出了另一个例子，所以我们要去寻找这个例子的结论。本段的最后一句指出乐观主义者对人工智能的热情变得更加极端，而怀疑论者则变得更加谨慎，由此可以得出该部分对应的正确选项为i。\n\n31. Section E第一段提到关于如何提高对人工智能的信任已经有了一些想法，接下来给出第一个解决方法，接着第二段介绍了另一种让人类更相信AI的方法。两个段落都在说明可以通过提高人类对AI的认知，了解其算法及服务目的，从而提高人类对AI的接受度。因此，Section E对应的正确选项为vii。\n\n32. Section F为“总-分-总”的结构，主题句说明让人们对人工智能决策有一定的控制力可以提高信任度，接下来通过信号词for example给出例子支撑观点，最后一句再强调，关于如何实施人工智能，如果人们被赋予某种程度的责任，他们将更愿意接受人工智能进入他们的生活。整段的中心思想与选项v相符，故Section F对应的正确选项为v。",
+          "promptHtml": "Gap 31 (see above)"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Gap 32 (see above)",
+          "answers": [
+            "v"
+          ],
+          "sourceCode": "Q8331_542207",
+          "explanation": "27. Section A由三个自然段组成，这种情况下如果考生只阅读了第一个自然段后就回到题干选答案，就很容易错选viii选项。但实际上，这种原文被划分为多个自然段的情况下，应先进行三个段落扫读，找出每段的大意，抓住句与句、段与段之间的逻辑关系。这样做之后，考生就不难发现，文章的第一个自然段是说AI的一些实际应用，第二段开始就说明AI与人类预测的准确性的比较，最后到第三段引出文章的目的。因此本题答案为iii。\n\n28. Section B由两个段落组成，看似很长，但透过逻辑信号词能帮助我们快速理解段落结构。第一段由Take the case of…引出一个AI应用的例子；段落中部出现but转折，说到使用这个AI的困难之处；接下来用了一对相反关系信号词（on the one hand、on the other hand）说明两方面的问题；最后通过consequently引出结论：这引起了更多的怀疑，导致许多医生忽略了AI的建议，并坚持自己的专业知识。因此，Section B对应的正确选项为vi。\n\n29. Section C也是由两个段落组成的，还是需要再次强调，这种题型不能只定位某一句话，而是需要理解段落大意才能答对题目。C部分一开始承接了上一部分的结论，说明人类对AI的信任度不高。接下来开始解释人类更相信自己判断的第一个原因是因为对人工智能太陌生，没有心理安全感。第二段给出另一个理由，是因为大部分AI的工作都在背后，不被人类所熟悉。因此，Section C对应的正确选项为ii。\n\n30. Section D的主题句说明本段继续谈及人类对AI的感觉。接下来的信号词in a recent experiment提出了另一个例子，所以我们要去寻找这个例子的结论。本段的最后一句指出乐观主义者对人工智能的热情变得更加极端，而怀疑论者则变得更加谨慎，由此可以得出该部分对应的正确选项为i。\n\n31. Section E第一段提到关于如何提高对人工智能的信任已经有了一些想法，接下来给出第一个解决方法，接着第二段介绍了另一种让人类更相信AI的方法。两个段落都在说明可以通过提高人类对AI的认知，了解其算法及服务目的，从而提高人类对AI的接受度。因此，Section E对应的正确选项为vii。\n\n32. Section F为“总-分-总”的结构，主题句说明让人们对人工智能决策有一定的控制力可以提高信任度，接下来通过信号词for example给出例子支撑观点，最后一句再强调，关于如何实施人工智能，如果人们被赋予某种程度的责任，他们将更愿意接受人工智能进入他们的生活。整段的中心思想与选项v相符，故Section F对应的正确选项为v。",
+          "promptHtml": "Gap 32 (see above)"
+        }
+      ],
+      "sourceType": "paragraph_main",
+      "sourceContentTypes": [
+        "311"
+      ],
+      "options": [
+        {
+          "value": "i",
+          "text": "An increasing divergence of attitudes towards AI"
+        },
+        {
+          "value": "ii",
+          "text": "Reasons why we have more faith in human judgement than in AI"
+        },
+        {
+          "value": "iii",
+          "text": "The superiority of AI projections over those made by humans"
+        },
+        {
+          "value": "iv",
+          "text": "The process by which AI can help us make good decisions"
+        },
+        {
+          "value": "v",
+          "text": "The advantages of involving users in AI processes"
+        },
+        {
+          "value": "vi",
+          "text": "Widespread distrust of an AI innovation"
+        },
+        {
+          "value": "vii",
+          "text": "Encouraging openness about how AI functions"
+        },
+        {
+          "value": "viii",
+          "text": "A surprisingly successful AI application"
+        }
+      ],
+      "contextHtml": ""
+    },
+    {
+      "id": "g2",
+      "type": "choice",
+      "instruction": "Questions 33–35\n\nChoose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "What is the writer doing in Section A?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8331_926851",
+          "options": [
+            {
+              "value": "A",
+              "text": "providing a solution to a concern"
+            },
+            {
+              "value": "B",
+              "text": "justifying an opinion about an issue"
+            },
+            {
+              "value": "C",
+              "text": "highlighting the existence of a problem"
+            },
+            {
+              "value": "D",
+              "text": "explaining the reasons for a phenomenon"
+            }
+          ],
+          "explanation": "译文：作者写A部分的目的是什么？\n\n本题的定位清晰，但并不是需要考生去找细节，而是需要理解整个A部分的写作目的。如果考生先把前面的list of headings题型做完，理清该部分的结构后，这题就变得容易多了。文章A部分的第一个自然段是说AI的一些实际应用，第二段说明AI与人类预测的准确性的比较，第三段引出文章的目的。\n\n选项A： providing a solution to a concern（为一个问题提供解决方案）原文A部分只提出了人类对AI信任度的问题，并没有提出解决方案，相关的解决方法在Section E，故本选项错误。\n\n选项B：justifying an opinion about an issue（证明对一个问题的意见是正当的）原文A部分并没有证明AI信任度的问题是否正确，只是说明这个问题对于AI的影响，因此本选项错误。\n\n选项C：highlighting the existence of a problem（强调存在的一个问题）原文A部分三个自然段说明了AI的预测能力超过人类，但是仍没有真正地帮助到人类，因为人类对AI缺乏信任。因此，选项C为正确答案。\n\n选项D：explaining the reasons for a phenomenon（解释现象的原因）原文A部分只说出了问题，并没有解释为什么人类不相信AI，实际上，在文章的C部分才对这个现象的原因作出说明，因此本选项错误。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "According to Section C, why might some people be reluctant to accept AI?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8331_267399",
+          "options": [
+            {
+              "value": "A",
+              "text": "They are afraid it will replace humans in decision-making jobs."
+            },
+            {
+              "value": "B",
+              "text": "Its complexity makes them feel that they are at a disadvantage."
+            },
+            {
+              "value": "C",
+              "text": "They would rather wait for the technology to be tested over a period of time."
+            },
+            {
+              "value": "D",
+              "text": "Misunderstandings about how it works make it seem more challenging than it is."
+            }
+          ],
+          "explanation": "译文：根据C部分，为什么有些人不愿意接受 AI？\n\n本题的定位清晰，只需要在C部分找出相关的原因，并在选项中找出相对应的同义替换即可得出准确答案。\n\n选项A：They are afraid it will replace humans in decision-making jobs.（人们担心它会取代人类从事决策工作。）这其实是一个干扰选项，选错的考生可能看到原文中的we’re losing control就选了这个选项，但原文这句话的意思其实是因为我们与不理解的东西互动所以导致焦虑，并让我们感觉到自己正在失去主导地位，并没有说明这将会取代人类的决策工作。\n\n选项B：Its complexity makes them feel that they are at a disadvantage.（人工智能的复杂性使人们感到自己处于不利地位。）原文C部分第一段说到由于AI对大多数人来说仍然相当陌生。即使技术上可以解释，但其决策过程对大多数人来说太难理解。人们与不理解的东西互动会导致焦虑，并感觉到正在失去控制。选项中的complexity与原文中的too difficult for people to comprehend对应，所以B选项为正确答案。\n\n选项C：They would rather wait for the technology to be tested over a period of time.（他们宁愿等待该技术再多测试一段时间。）原文并没有提及任何有关测试时间的内容，故此本选项错误。\n\n选项D：Misunderstandings about how it works make it seem more challenging than it is.（人们对AI工作方式的误解使AI看起来更具挑战性。）C部分虽然说了人们不懂AI是如何运作的，但是并没有提及这让他们觉得AI的工作看起来更具挑战性，反而在第二段提到人们更容易意识到人工智能出错的情况，因此本选项错误。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "What does the writer say about the media in Section C of the text?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8331_796601",
+          "options": [
+            {
+              "value": "A",
+              "text": "It leads the public to be mistrustful of AI."
+            },
+            {
+              "value": "B",
+              "text": "It devotes an excessive amount of attention to AI."
+            },
+            {
+              "value": "C",
+              "text": "Its reports of incidents involving AI are often inaccurate."
+            },
+            {
+              "value": "D",
+              "text": "It gives the impression that AI failures are due to designer error."
+            }
+          ],
+          "explanation": "译文：在文章的C部分，关于媒体作者都说了些什么？\n\n本题的定位依然清晰，需要考生仔细阅读C部分中涉及媒体的内容，理解作者的观点后方可准确作答。\n\n选项A：It leads the public to be mistrustful of AI.（它导致公众不相信AI。）C部分第二段第三句提到，AI的失败案例往往引发媒体的过度关注，而媒体会强调人们因此不能依赖科技。读完这句话可知是媒体引导人们不信任AI。选项中的mistrustful对应原文中的cannot rely on，所以A选项正确。\n\n选项B：It devotes an excessive amount of attention to AI.（它过多地关注人工智能。）原文对应句的确提到媒体的过多关注，但媒体关注的仅仅是AI失败的尴尬情况（embarrassing AI failures），并非关注AI的全部情况，所以这是一个干扰选项。\n\n选项C：Its reports of incidents involving AI are often inaccurate.（它关于涉及人工智能的事件的报告往往不准确。）文章对应句只是提到媒体过多关注人工智能的负面问题，并没有明确提到媒体的报告是否准确，因此本选项错误。\n\n选项D：It gives the impression that AI failures are due to designer error.（它给人的印象是AI的故障是由于设计师的错误造成的。）原文C部分的最后一句提及AI的确不是没有错误的，部分原因在于其设计者并非万无一失，但需要注意：这并非媒体的观点，而是作者本人的观点。作者的言外之意是：由于人为的失误，AI出错“情有可原”，因而人们不应该由此对AI完全失去信任。选项D将作者的观点错安在了媒体身上，并且内容过于绝对，原文中说的是in part because，因此选项D错误。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "instruction": "Questions 36–40\n\nDo the following statements agree with the claims of the writer in Reading Passage 3?\n\nIn questions 36–40 on your answer sheet, choose\n\nYES if the statement agrees with the claims of the writer\n\nNO if the statement contradicts the claims of the writer\n\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Subjective depictions of AI in sci-fi films make people change their opinions about automation.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8331_904783",
+          "explanation": "译文：科幻电影中对人工智能的主观描述使人们改变了对自动化的看法。\n\n本题定位简单，可以凭借题干中的films原词定位到Section D第一段第三句。原文提到研究发现，无论人们看的是正面还是负面的有关人工智能的电影，参与者的态度都会呈现两极分化。也就是说电影的描述不会改变人们的看法，因此题干与原文的观点矛盾，答案为NO。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Portrayals of AI in media and entertainment are likely to become more positive.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8331_989460",
+          "explanation": "译文：媒体和娱乐领域对人工智能的描述可能会变得更加正面。\n\n本题的定位可以根据“顺序出题”的原则，从上一题的定位句向后找，并凭借题干中的media and entertainment原词定位到Section D第二段第二句。该句提到随着人工智能在媒体和娱乐领域的代表性越来越高，它可能导致从人工智能中受益的人和拒绝人工智能的人之间的社会分裂。这句话并没有提及题干中所说的对人工智能的描述变得更加正面，因此答案为NOT GIVEN。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Rejection of the possibilities of AI may have a negative effect on many people’s lives.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8331_697904",
+          "explanation": "译文：拒绝人工智能的可能性可能会对许多人的生活产生负面影响。\n\n本题的定位词在原文中进行了同义替换，但由于紧挨着上一题在文中的对应句，所以还是比较容易定位的。原文中Section D第二段第三句指出：拒绝接受人工智能提供的优势可能会使一大群人处于严重不利地位。这与题干的表述相匹配。题干中的rejection=原文中的refusing，题干中的negative effect＝原文中的disadvantage。因此答案为YES。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Familiarity with AI has very little impact on people’s attitudes to the technology.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8331_493416",
+          "explanation": "译文：熟悉人工智能对于人们对待技术的态度影响甚微。\n\n本题还是按照顺序原则继续向下找，便可以定位到Section E第一段第二句。题干中的定位词familiarity在原文中替换为having previous experience。原文说到只要有以前在人工智能方面的经验，就可以显著改善人们对这项技术的看法。也就是熟悉人工智能对人们的态度影响很大，与题干表述明显矛盾，因此答案为NO。"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "AI applications which users are able to modify are more likely to gain consumer approval.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8331_800829",
+          "explanation": "译文：用户能够修改的AI应用程序更有可能获得消费者的认可。\n\nF部分第一段第二句说到：如果人们可以自由地稍稍修改一个算法，他们就会对算法的决策更满意，更可能相信其优越性，将来就更可能会使用它。题干中的modify原词重现，more likely to gain consumer approval在原文中替换为more satisfied with…more likely to believe…more likely to use…。F部分第二段继续就这个观点进行了阐述和总结。这与题干表述相匹配，因此答案为YES。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<h1>Attitudes towards Artificial Intelligence</h1><span>1<strong>[27] ______</strong></span><br><p><strong>A </strong>Artificial intelligence (AI) can already predict the future. Police forces are using it to map when and where crime is likely to occur. Doctors can use it to predict when a patient is most likely to have a heart attack or stroke. Researchers are even trying to give AI imagination so it can plan for unexpected consequences.</p><p>Many decisions in our lives require a good forecast, and AI is almost always better at forecasting than we are. Yet for all these technological advances, we still seem to deeply lack confidence in AI predictions. Recent cases show that people don’t like relying on AI and prefer to trust human experts, even if these experts are wrong.</p><p>If we want AI to really benefit people, we need to find a way to get people to trust it. To do that, we need to understand why people are so reluctant to trust AI in the first place.</p><span>2<strong>[28] ______</strong></span><br><p><strong>B </strong>Take the case of Watson for Oncology, one of technology giant IBM’s supercomputer programs. Their attempt to promote this program to cancer doctors was a PR disaster. The AI promised to deliver top-quality recommendations on the treatment of 12 cancers that accounted for 80% of the world’s cases. But when doctors first interacted with Watson, they found themselves in a rather difficult situation. On the one hand, if Watson provided guidance about a treatment that coincided with their own opinions, physicians did not see much point in Watson’s recommendations. The supercomputer was simply telling them what they already knew, and these recommendations did not change the actual treatment.</p><p>On the other hand, if Watson generated a recommendation that contradicted the experts’ opinion, doctors would typically conclude that Watson wasn’t competent. And the machine wouldn’t be able to explain why its treatment was plausible because its machine-learning algorithms were simply too complex to be fully understood by humans. Consequently, this has caused even more suspicion and disbelief, leading many doctors to ignore the seemingly outlandish AI recommendations and stick to their own expertise.</p><span>3<strong>[29] ______</strong></span><br><p><strong>C </strong>This is just one example of people’s lack of confidence in AI and their reluctance to accept what AI has to offer. Trust in other people is often based on our understanding of how others think and having experience of their reliability. This helps create a psychological feeling of safety. AI, on the other hand, is still fairly new and unfamiliar to most people. Even if it can be technically explained (and that’s not always the case), AI’s decision-making process is usually too difficult for most people to comprehend. And interacting with something we don’t understand can cause anxiety and give us a sense that we’re losing control.</p><p>Many people are also simply not familiar with many instances of AI actually working, because it often happens in the background. Instead, they are acutely aware of instances where AI goes wrong. Embarrassing AI failures receive a disproportionate amount of media attention, emphasising the message that we cannot rely on technology. Machine learning is not foolproof, in part because the humans who design it aren’t.</p><span>4<strong>[30] ______</strong></span><br><p><strong>D</strong> Feelings about AI run deep. In a recent experiment, people from a range of backgrounds were given various sci-fi films about AI to watch and then asked questions about automation in everyday life. It was found that, regardless of whether the film they watched depicted AI in a positive or negative light, simply watching a cinematic vision of our technological future polarised the participants’ attitudes. Optimists became more extreme in their enthusiasm for AI and sceptics became even more guarded.</p><p>This suggests people use relevant evidence about AI in a biased manner to support their existing attitudes, a deep-rooted human tendency known as “confirmation bias”. As AI is represented more and more in media and entertainment, it could lead to a society split between those who benefit from AI and those who reject it. More pertinently, refusing to accept the advantages offered by AI could place a large group of people at a serious disadvantage.</p><span>5<strong>[31] ______</strong></span><br><p><strong>E</strong> Fortunately, we already have some ideas about how to improve trust in AI. Simply having previous experience with AI can significantly improve people’s opinions about the technology, as was found in the study mentioned above. Evidence also suggests the more you use other technologies such as the internet, the more you trust them.</p><p>Another solution may be to reveal more about the algorithms which AI uses and the purposes they serve. Several high-profile social media companies and online marketplaces already release transparency reports about government requests and surveillance disclosures. A similar practice for AI could help people have a better understanding of the way algorithmic decisions are made.</p><span>6<strong>[32] ______</strong></span><br><p><strong>F </strong>Research suggests that allowing people some control over AI decision-making could also improve trust and enable AI to learn from human experience. For example, one study showed that when people were allowed the freedom to slightly modify an algorithm, they felt more satisfied with its decisions, more likely to believe it was superior and more likely to use it in the future.</p><p>We don’t need to understand the intricate inner workings of AI systems, but if people are given a degree of responsibility for how they are implemented, they will be more willing to accept AI into their lives.</p><p> </p>"
+}

@@ -1,0 +1,266 @@
+{
+  "id": "cambridge-8-test-4-reading-3",
+  "title": "Collecting ants Specimens",
+  "titleCn": "Collecting ants Specimens",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 8,
+    "test": 4
+  },
+  "sourceQuestionId": "6948",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6948",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Collecting ants Specimens"
+    },
+    {
+      "label": "2",
+      "text": "Collecting ants can be as simple as picking up stray ones and placing them in a glass jar, or as complicated as completing an exhaustive survey of all species present in an area and estimating their relative abundances. The exact method used will depend on the final purpose of the collections. For taxonomy, or classification, long series, from a single nest, which contain all castes (workers, including majors and minors, and, if present, queens and males) are desirable, to allow the determination of variation within species. For ecological studies, the most important factor is collecting identifiable samples of as many of the different species present as possible. Unfortunately, these methods are not always compatible. The taxonomist sometimes overlooks whole species in favour of those groups currently under study, while the ecologist often collects only a limited number of specimens of each species, thus reducing their value for taxonomic investigations."
+    },
+    {
+      "label": "3",
+      "text": "To collect as wide a range of species as possible, several methods must be used. These include hand collecting, using baits to attract the ants, ground litter sampling, and the use of pitfall traps. Hand collecting consists of searching for ants everywhere they are likely to occur. This includes on the ground, under rocks, logs or other objects on the ground, in rotten wood on the ground or on trees, in vegetation, on tree trunks and under bark. When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected. This will ensure that all individuals are of the same species, and so increase their value for detailed studies. Since some species are largely nocturnal, collecting should not be confined to daytime. Specimens are collected using an aspirator (often called a pooter), forceps, a fine, moistened paint brush, or fingers, if the ants are known not to sting. Individual insects are placed in plastic or glass tubes (1. 5-3. 0 ml capacity for small ants, 5-8 ml for larger ants) containing 75% to 95% ethanol. Plastic tubes with secure tops are better than glass because they are lighter, and do not break as easily if mishandled."
+    },
+    {
+      "label": "4",
+      "text": "Baits can be used to attract and concentrate foragers. This often increases the number of individuals collected and attracts species that are otherwise elusive. Sugars and meats or oils will attract different species and a range should be utilised. These baits Can be placed either on the ground or on the trunks of trees or large shrubs. When placed on the ground, baits should be situated on small paper cards or other flat, light-coloured surfaces, or in test-tubes or vials. This makes it easier to spot ants and to capture them before they can escape into the surrounding leaf litter."
+    },
+    {
+      "label": "5",
+      "text": "Many ants are small and forage primarily in the layer of leaves and other debris on the ground. Collecting these species by hand can be difficult. One of the most successful ways to collect them is to gather the leaf litter in which they are foraging and extract the ants from it. This is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat. As the leaf litter dries from above, ants (and other animals) move downward and eventually fall out the bottom and are collected in alcohol placed below the funnel. This method works especially well in rain forests and marshy areas. A method of improving the catch when using a funnel is to sift the leaf litter through a coarse screen before placing it above the funnel. This will concentrate the litter and remove larger leaves and twigs. It will also allow more litter to be sampled when using a limited number of funnels."
+    },
+    {
+      "label": "6",
+      "text": "The pitfall trap is another commonly used tool for collecting ants. A pitfall trap can be any small container placed in the ground with the top level with the surrounding surface and filled with a preservative. Ants are collected when they fall into the trap while foraging. The diameter of the traps can vary from about 18 mm to 10 cm and the number used can vary from a few to several hundred. The size of the traps used is influenced largely by personal preference (although larger sizes are generally better), while the number will be determined by the study being undertaken. The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out. One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention. One disadvantage is that some species are not collected as they either avoid the traps or do not commonly encounter them while foraging."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 27-30\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Taxonomic research involves comparing members of one group of ants.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6948_610420",
+          "explanation": "参考译文：分类学研究涉及比较同一蚂蚁族群中的成员。\n\n定位词：taxonomic research\n\n解题关键词：comparing, one group\n\n文中对应第1段：For taxonomy, or classification, long series, from a single nest, which contain all castes(workers, including majors and minors, and, if present, queens and males) are desirable, to allow the determination of variation within species.\n\n如果出于分类学的目的(也就是归类)，可以通过锁定一个蚁巢中包含所有蚁种(包括主要的和次要的工蚁，也包括可能存在的蚁后和蚁王)的一系列样本来确定物种的变种。\n\n文中的single nest相当于题目中的one group，文中的to allow the determination of variation within species相当于题目中的comparing members。本题属于简单的同义词替换型TRUE。\n\n答案：TRUE"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "New species of ant are frequently identified by taxonomists.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6948_536493",
+          "explanation": "参考译文：分类学家经常可以发现新的蚂蚁物种。\n\n定位词：顺序定位法， taxonomists\n\n解题关键词：new species\n\n这道题可以根据顺序定位法来做。文章中，分类学方法后面紧跟着生态学研究方法，根本没有任何与这道题目相关的信息。但是此时，有的考生会跳到第1段最后一句找到taxonomist一词，接着发现The taxonomist sometimes overlooks whole species in favour of those groups currently under study...这句话，因此就会误以为分类学家不会经常发现新物种而选择FALSE。其实这句话中并没有论述分类学家会不会发现新的蚂蚁物种这件事情，只是说分类学家们有时倾向于采集研究中的种群标本而忽视了整个物种。故正确答案为NOT GIVEN。\n\n答案：NOT GIVEN"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Range is the key criterion for ecological collections.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6948_414966",
+          "explanation": "参考译文：采集种类是用生态学方法收集蚂蚁的标准。\n\n定位词：ecological collections\n\n解题关键词：range\n\n文中对应第1段：For ecological studies, the most important factor is collecting identifiable samples of as many of the different species present as possible\n\n如果是以生态学研究为目的，最重要的因素就是尽可能多地采集现有不同物种的可辨认样本。\n\n题干中的range与文中的different species属于同义转述。此题需要将文中那句话归纳总结为range一词， 也属于比较典型的归纳式TRUE。\n\n答案：TRUE"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "A single collection of ants can generally be used for both taxonomic and ecological purposes.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6948_266075",
+          "explanation": "参考译文：一次蚂蚁采集可以为分类学和生态学共用。\n\n定位词：taxonomic, ecological\n\n解题关键词：both...and...\n\n本题定位比较简单，对于词汇量丰富的考生，单凭文章第1段中的...these methods are not always compatible就足以判断出答案。显然，分类学采集法和生态学采集法不总是兼容\n\n的，也就是说一次蚂蚁采集不可以为两种方法共用。如果考生不认compatible这个词，则可以通过其后的解释句进一步理解，判断出正确答案。\n\n答案：FALSE"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 31-36\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "[31] ______ It is preferable to take specimens from groups of ants.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6948_116304",
+          "explanation": "题号：31\n\n定位词：groups of ants\n\n第2段：When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected.\n\n有可能的话，采集应当从蚁巢或觅食蚂蚁群开始搜集，而且至少采集20至25只蚂蚁。\n\n根据题干定位词可以定位至第2段，而第2段讲的都是手工采集法，很显然答案是A。\n\n题号：32\n\n定位词：wet habitats\n\n第4段：This method works especially well in rain forests and marshy areas.这个方法特别适用于雨林和沼泽地区。\n\n第4段讲的是落叶层抽样法，定位词wet habitats与文中的rain forests and marshy areas属于同义转述，故正确答案为C。\n\n题号：33\n\n定位词：hard to find\n\n第3段：This often increases the number of individuals collected and attracts species that are otherwise elusive.\n\n这种方法通常能够增加采集的个体量，还能吸引那些难以捕捉的物种。\n\n这道题的解题关键是理解定语从句中的elusive，它就相当于定位词hard to find，这个词剑桥系列中屡次考到，考生一定要注意。句中的this指的就是诱饵采集法，故答案为B。\n\n题号：34\n\n定位词：little time and effort\n\n第5段：One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention.陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。\n\n此题的解题关键是理解minimal maintenance and intervention，它就相当于题目中的little time and effort。故答案为D。\n\n题号：35\n\n定位词：separate containers, individual\n\n第2段：Individual insects are placed in plastic or glass tubes (1.5- 3.0 ml capacity for small ants, 5—8 ml for larger ants) containing 75% to 95% ethanol.\n\n单只昆虫可以放在浓度为75%至95%酒精的塑料管或玻璃管(1.5~3.0毫升容量用于小蚂蚁，5~8毫升容量用于较大的蚂蚁)中。\n\n定位句中的plastic or glass tubes相当于题目中的separate containers, individual insects相当于individual specimens。该句位于第2段，从而可以判断出该句讲的是hand collecting，故正确答案为A。\n\n题号：36\n\n定位词：non-alcoholic, preservative\n\n第5段:The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out.\n\n由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。\n\n通过理解原因状语从句，推测出陷阱采集法中使用的防腐剂应该是无酒精的，对应于题目中的non-alcoholic preservative，所以答案为D。",
+          "promptHtml": "[31] ______ It is preferable to take specimens from groups of ants."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "[32] ______ It is particularly effective for wet habitats.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6948_723553",
+          "explanation": "题号：31\n\n定位词：groups of ants\n\n第2段：When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected.\n\n有可能的话，采集应当从蚁巢或觅食蚂蚁群开始搜集，而且至少采集20至25只蚂蚁。\n\n根据题干定位词可以定位至第2段，而第2段讲的都是手工采集法，很显然答案是A。\n\n题号：32\n\n定位词：wet habitats\n\n第4段：This method works especially well in rain forests and marshy areas.这个方法特别适用于雨林和沼泽地区。\n\n第4段讲的是落叶层抽样法，定位词wet habitats与文中的rain forests and marshy areas属于同义转述，故正确答案为C。\n\n题号：33\n\n定位词：hard to find\n\n第3段：This often increases the number of individuals collected and attracts species that are otherwise elusive.\n\n这种方法通常能够增加采集的个体量，还能吸引那些难以捕捉的物种。\n\n这道题的解题关键是理解定语从句中的elusive，它就相当于定位词hard to find，这个词剑桥系列中屡次考到，考生一定要注意。句中的this指的就是诱饵采集法，故答案为B。\n\n题号：34\n\n定位词：little time and effort\n\n第5段：One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention.陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。\n\n此题的解题关键是理解minimal maintenance and intervention，它就相当于题目中的little time and effort。故答案为D。\n\n题号：35\n\n定位词：separate containers, individual\n\n第2段：Individual insects are placed in plastic or glass tubes (1.5- 3.0 ml capacity for small ants, 5—8 ml for larger ants) containing 75% to 95% ethanol.\n\n单只昆虫可以放在浓度为75%至95%酒精的塑料管或玻璃管(1.5~3.0毫升容量用于小蚂蚁，5~8毫升容量用于较大的蚂蚁)中。\n\n定位句中的plastic or glass tubes相当于题目中的separate containers, individual insects相当于individual specimens。该句位于第2段，从而可以判断出该句讲的是hand collecting，故正确答案为A。\n\n题号：36\n\n定位词：non-alcoholic, preservative\n\n第5段:The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out.\n\n由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。\n\n通过理解原因状语从句，推测出陷阱采集法中使用的防腐剂应该是无酒精的，对应于题目中的non-alcoholic preservative，所以答案为D。",
+          "promptHtml": "[32] ______ It is particularly effective for wet habitats."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "[33] ______ It is a good method for species which are hard to find.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6948_163215",
+          "explanation": "题号：31\n\n定位词：groups of ants\n\n第2段：When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected.\n\n有可能的话，采集应当从蚁巢或觅食蚂蚁群开始搜集，而且至少采集20至25只蚂蚁。\n\n根据题干定位词可以定位至第2段，而第2段讲的都是手工采集法，很显然答案是A。\n\n题号：32\n\n定位词：wet habitats\n\n第4段：This method works especially well in rain forests and marshy areas.这个方法特别适用于雨林和沼泽地区。\n\n第4段讲的是落叶层抽样法，定位词wet habitats与文中的rain forests and marshy areas属于同义转述，故正确答案为C。\n\n题号：33\n\n定位词：hard to find\n\n第3段：This often increases the number of individuals collected and attracts species that are otherwise elusive.\n\n这种方法通常能够增加采集的个体量，还能吸引那些难以捕捉的物种。\n\n这道题的解题关键是理解定语从句中的elusive，它就相当于定位词hard to find，这个词剑桥系列中屡次考到，考生一定要注意。句中的this指的就是诱饵采集法，故答案为B。\n\n题号：34\n\n定位词：little time and effort\n\n第5段：One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention.陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。\n\n此题的解题关键是理解minimal maintenance and intervention，它就相当于题目中的little time and effort。故答案为D。\n\n题号：35\n\n定位词：separate containers, individual\n\n第2段：Individual insects are placed in plastic or glass tubes (1.5- 3.0 ml capacity for small ants, 5—8 ml for larger ants) containing 75% to 95% ethanol.\n\n单只昆虫可以放在浓度为75%至95%酒精的塑料管或玻璃管(1.5~3.0毫升容量用于小蚂蚁，5~8毫升容量用于较大的蚂蚁)中。\n\n定位句中的plastic or glass tubes相当于题目中的separate containers, individual insects相当于individual specimens。该句位于第2段，从而可以判断出该句讲的是hand collecting，故正确答案为A。\n\n题号：36\n\n定位词：non-alcoholic, preservative\n\n第5段:The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out.\n\n由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。\n\n通过理解原因状语从句，推测出陷阱采集法中使用的防腐剂应该是无酒精的，对应于题目中的non-alcoholic preservative，所以答案为D。",
+          "promptHtml": "[33] ______ It is a good method for species which are hard to find."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "[34] ______ Little time and effort is required.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6948_742279",
+          "explanation": "题号：31\n\n定位词：groups of ants\n\n第2段：When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected.\n\n有可能的话，采集应当从蚁巢或觅食蚂蚁群开始搜集，而且至少采集20至25只蚂蚁。\n\n根据题干定位词可以定位至第2段，而第2段讲的都是手工采集法，很显然答案是A。\n\n题号：32\n\n定位词：wet habitats\n\n第4段：This method works especially well in rain forests and marshy areas.这个方法特别适用于雨林和沼泽地区。\n\n第4段讲的是落叶层抽样法，定位词wet habitats与文中的rain forests and marshy areas属于同义转述，故正确答案为C。\n\n题号：33\n\n定位词：hard to find\n\n第3段：This often increases the number of individuals collected and attracts species that are otherwise elusive.\n\n这种方法通常能够增加采集的个体量，还能吸引那些难以捕捉的物种。\n\n这道题的解题关键是理解定语从句中的elusive，它就相当于定位词hard to find，这个词剑桥系列中屡次考到，考生一定要注意。句中的this指的就是诱饵采集法，故答案为B。\n\n题号：34\n\n定位词：little time and effort\n\n第5段：One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention.陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。\n\n此题的解题关键是理解minimal maintenance and intervention，它就相当于题目中的little time and effort。故答案为D。\n\n题号：35\n\n定位词：separate containers, individual\n\n第2段：Individual insects are placed in plastic or glass tubes (1.5- 3.0 ml capacity for small ants, 5—8 ml for larger ants) containing 75% to 95% ethanol.\n\n单只昆虫可以放在浓度为75%至95%酒精的塑料管或玻璃管(1.5~3.0毫升容量用于小蚂蚁，5~8毫升容量用于较大的蚂蚁)中。\n\n定位句中的plastic or glass tubes相当于题目中的separate containers, individual insects相当于individual specimens。该句位于第2段，从而可以判断出该句讲的是hand collecting，故正确答案为A。\n\n题号：36\n\n定位词：non-alcoholic, preservative\n\n第5段:The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out.\n\n由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。\n\n通过理解原因状语从句，推测出陷阱采集法中使用的防腐剂应该是无酒精的，对应于题目中的non-alcoholic preservative，所以答案为D。",
+          "promptHtml": "[34] ______ Little time and effort is required."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "[35] ______ Separate containers are used for individual specimens.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6948_314556",
+          "explanation": "题号：31\n\n定位词：groups of ants\n\n第2段：When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected.\n\n有可能的话，采集应当从蚁巢或觅食蚂蚁群开始搜集，而且至少采集20至25只蚂蚁。\n\n根据题干定位词可以定位至第2段，而第2段讲的都是手工采集法，很显然答案是A。\n\n题号：32\n\n定位词：wet habitats\n\n第4段：This method works especially well in rain forests and marshy areas.这个方法特别适用于雨林和沼泽地区。\n\n第4段讲的是落叶层抽样法，定位词wet habitats与文中的rain forests and marshy areas属于同义转述，故正确答案为C。\n\n题号：33\n\n定位词：hard to find\n\n第3段：This often increases the number of individuals collected and attracts species that are otherwise elusive.\n\n这种方法通常能够增加采集的个体量，还能吸引那些难以捕捉的物种。\n\n这道题的解题关键是理解定语从句中的elusive，它就相当于定位词hard to find，这个词剑桥系列中屡次考到，考生一定要注意。句中的this指的就是诱饵采集法，故答案为B。\n\n题号：34\n\n定位词：little time and effort\n\n第5段：One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention.陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。\n\n此题的解题关键是理解minimal maintenance and intervention，它就相当于题目中的little time and effort。故答案为D。\n\n题号：35\n\n定位词：separate containers, individual\n\n第2段：Individual insects are placed in plastic or glass tubes (1.5- 3.0 ml capacity for small ants, 5—8 ml for larger ants) containing 75% to 95% ethanol.\n\n单只昆虫可以放在浓度为75%至95%酒精的塑料管或玻璃管(1.5~3.0毫升容量用于小蚂蚁，5~8毫升容量用于较大的蚂蚁)中。\n\n定位句中的plastic or glass tubes相当于题目中的separate containers, individual insects相当于individual specimens。该句位于第2段，从而可以判断出该句讲的是hand collecting，故正确答案为A。\n\n题号：36\n\n定位词：non-alcoholic, preservative\n\n第5段:The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out.\n\n由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。\n\n通过理解原因状语从句，推测出陷阱采集法中使用的防腐剂应该是无酒精的，对应于题目中的non-alcoholic preservative，所以答案为D。",
+          "promptHtml": "[35] ______ Separate containers are used for individual specimens."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "[36] ______ Non-alcoholic preservative should be used.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6948_646097",
+          "explanation": "题号：31\n\n定位词：groups of ants\n\n第2段：When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected.\n\n有可能的话，采集应当从蚁巢或觅食蚂蚁群开始搜集，而且至少采集20至25只蚂蚁。\n\n根据题干定位词可以定位至第2段，而第2段讲的都是手工采集法，很显然答案是A。\n\n题号：32\n\n定位词：wet habitats\n\n第4段：This method works especially well in rain forests and marshy areas.这个方法特别适用于雨林和沼泽地区。\n\n第4段讲的是落叶层抽样法，定位词wet habitats与文中的rain forests and marshy areas属于同义转述，故正确答案为C。\n\n题号：33\n\n定位词：hard to find\n\n第3段：This often increases the number of individuals collected and attracts species that are otherwise elusive.\n\n这种方法通常能够增加采集的个体量，还能吸引那些难以捕捉的物种。\n\n这道题的解题关键是理解定语从句中的elusive，它就相当于定位词hard to find，这个词剑桥系列中屡次考到，考生一定要注意。句中的this指的就是诱饵采集法，故答案为B。\n\n题号：34\n\n定位词：little time and effort\n\n第5段：One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention.陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。\n\n此题的解题关键是理解minimal maintenance and intervention，它就相当于题目中的little time and effort。故答案为D。\n\n题号：35\n\n定位词：separate containers, individual\n\n第2段：Individual insects are placed in plastic or glass tubes (1.5- 3.0 ml capacity for small ants, 5—8 ml for larger ants) containing 75% to 95% ethanol.\n\n单只昆虫可以放在浓度为75%至95%酒精的塑料管或玻璃管(1.5~3.0毫升容量用于小蚂蚁，5~8毫升容量用于较大的蚂蚁)中。\n\n定位句中的plastic or glass tubes相当于题目中的separate containers, individual insects相当于individual specimens。该句位于第2段，从而可以判断出该句讲的是hand collecting，故正确答案为A。\n\n题号：36\n\n定位词：non-alcoholic, preservative\n\n第5段:The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out.\n\n由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。\n\n通过理解原因状语从句，推测出陷阱采集法中使用的防腐剂应该是无酒精的，对应于题目中的non-alcoholic preservative，所以答案为D。",
+          "promptHtml": "[36] ______ Non-alcoholic preservative should be used."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "hand collecting"
+        },
+        {
+          "value": "B",
+          "text": "using bait"
+        },
+        {
+          "value": "C",
+          "text": "sampling ground litter"
+        },
+        {
+          "value": "D",
+          "text": "using a pitfall trap"
+        }
+      ],
+      "contextHtml": "<p><strong>[31] ______</strong> It is preferable to take specimens from groups of ants.</p>\n\n<p><strong>[32] ______</strong> It is particularly effective for wet habitats.</p>\n\n<p><strong>[33] ______</strong> It is a good method for species which are hard to find.</p>\n\n<p><strong>[34] ______</strong> Little time and effort is required.</p>\n\n<p><strong>[35] ______</strong> Separate containers are used for individual specimens.</p>\n\n<p><strong>[36] ______</strong> Non-alcoholic preservative should be used.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 37-40\n\nComplete the table below.\n\nWrite NO MORE THAN TWO WORDS from the text in each gap.\n\nOne method of collecting ants",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "[37] ______",
+          "answers": [
+            "heat"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6948_118495",
+          "explanation": "题号：37\n\n猜测或者反推\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：38\n\n图中箭头所指的方向\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：39\n\n不定冠词a\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面；而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：40\n\n图中所画的液体\n\nAs the leaf litter dries from above, ants (and other animals) move downward and eventually fall out the bottom and are collected in alcohol placed below the funnel.\n\n这句话中，placed below the funnel是修饰alcohol的，也就是说，funnel下的液体应该是酒精，故正确答案为alcohol。",
+          "promptHtml": "[37] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "[38] ______",
+          "answers": [
+            "leaf litter"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6948_280182",
+          "explanation": "题号：37\n\n猜测或者反推\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：38\n\n图中箭头所指的方向\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：39\n\n不定冠词a\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面；而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：40\n\n图中所画的液体\n\nAs the leaf litter dries from above, ants (and other animals) move downward and eventually fall out the bottom and are collected in alcohol placed below the funnel.\n\n这句话中，placed below the funnel是修饰alcohol的，也就是说，funnel下的液体应该是酒精，故正确答案为alcohol。",
+          "promptHtml": "[38] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "[39] ______",
+          "answers": [
+            "screen"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6948_590031",
+          "explanation": "题号：37\n\n猜测或者反推\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：38\n\n图中箭头所指的方向\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：39\n\n不定冠词a\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面；而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：40\n\n图中所画的液体\n\nAs the leaf litter dries from above, ants (and other animals) move downward and eventually fall out the bottom and are collected in alcohol placed below the funnel.\n\n这句话中，placed below the funnel是修饰alcohol的，也就是说，funnel下的液体应该是酒精，故正确答案为alcohol。",
+          "promptHtml": "[39] ______"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "[40] ______",
+          "answers": [
+            "alcohol"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6948_227505",
+          "explanation": "题号：37\n\n猜测或者反推\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：38\n\n图中箭头所指的方向\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面;而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：39\n\n不定冠词a\n\nThis is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat.\n\n37、38和39三个空位于文中同一句话中，关键要搞清楚最上面是什么，中间是什么，下面又是什么。\n\nplacing leaf litter on a screen表明leaf litter在screen，上面；而后面的over a large funnel又代表screen是被放置于funnel之上的。因此可以确定图中38和39两个空的答案分别是leaf litter和screen。接着看到under some heat，也就是说上述的三样东西都是在这个heat下的，所以最上面的37空应该填heat一词。\n\n题号：40\n\n图中所画的液体\n\nAs the leaf litter dries from above, ants (and other animals) move downward and eventually fall out the bottom and are collected in alcohol placed below the funnel.\n\n这句话中，placed below the funnel是修饰alcohol的，也就是说，funnel下的液体应该是酒精，故正确答案为alcohol。",
+          "promptHtml": "[40] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/15d20e7b5d4ba7b618616bae43f5b706.png\" alt=\"\"></p>\n\n<p><strong>[37] ______</strong></p>\n\n<p><strong>[38] ______</strong></p>\n\n<p><strong>[39] ______</strong></p>\n\n<p><strong>[40] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Collecting ants Specimens</strong></span></p><p><span><strong><img src=\"/api/guest/cambridge/media/images/27d467b00bd2aa58495688103a8b925d.png\" alt=\"\"></strong></span></p><p>Collecting ants can be as simple as picking up stray ones and placing them in a glass jar, or as complicated as completing an exhaustive survey of all species present in an area and estimating their relative abundances. The exact method used will depend on the final purpose of the collections. For taxonomy, or classification, long series, from a single nest, which contain all castes (workers, including majors and minors, and, if present, queens and males) are desirable, to allow the determination of variation within species. For ecological studies, the most important factor is collecting identifiable samples of as many of the different species present as possible. Unfortunately, these methods are not always compatible. The taxonomist sometimes overlooks whole species in favour of those groups currently under study, while the ecologist often collects only a limited number of specimens of each species, thus reducing their value for taxonomic investigations.</p><p>To collect as wide a range of species as possible, several methods must be used. These include hand collecting, using baits to attract the ants, ground litter sampling, and the use of pitfall traps. Hand collecting consists of searching for ants everywhere they are likely to occur. This includes on the ground, under rocks, logs or other objects on the ground, in rotten wood on the ground or on trees, in vegetation, on tree trunks and under bark. When possible, collections should be made from nests or foraging columns and at least 20 to 25 individuals collected. This will ensure that all individuals are of the same species, and so increase their value for detailed studies. Since some species are largely nocturnal, collecting should not be confined to daytime. Specimens are collected using an aspirator (often called a pooter), forceps, a fine, moistened paint brush, or fingers, if the ants are known not to sting. Individual insects are placed in plastic or glass tubes (1. 5-3. 0 ml capacity for small ants, 5-8 ml for larger ants) containing 75% to 95% ethanol. Plastic tubes with secure tops are better than glass because they are lighter, and do not break as easily if mishandled.</p><p>Baits can be used to attract and concentrate foragers. This often increases the number of individuals collected and attracts species that are otherwise elusive. Sugars and meats or oils will attract different species and a range should be utilised. These baits Can be placed either on the ground or on the trunks of trees or large shrubs. When placed on the ground, baits should be situated on small paper cards or other flat, light-coloured surfaces, or in test-tubes or vials. This makes it easier to spot ants and to capture them before they can escape into the surrounding leaf litter.</p><p>Many ants are small and forage primarily in the layer of leaves and other debris on the ground. Collecting these species by hand can be difficult. One of the most successful ways to collect them is to gather the leaf litter in which they are foraging and extract the ants from it. This is most commonly done by placing leaf litter on a screen over a large funnel, often under some heat. As the leaf litter dries from above, ants (and other animals) move downward and eventually fall out the bottom and are collected in alcohol placed below the funnel. This method works especially well in rain forests and marshy areas. A method of improving the catch when using a funnel is to sift the leaf litter through a coarse screen before placing it above the funnel. This will concentrate the litter and remove larger leaves and twigs. It will also allow more litter to be sampled when using a limited number of funnels.</p><p>The pitfall trap is another commonly used tool for collecting ants. A pitfall trap can be any small container placed in the ground with the top level with the surrounding surface and filled with a preservative. Ants are collected when they fall into the trap while foraging. The diameter of the traps can vary from about 18 mm to 10 cm and the number used can vary from a few to several hundred. The size of the traps used is influenced largely by personal preference (although larger sizes are generally better), while the number will be determined by the study being undertaken. The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out. One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention. One disadvantage is that some species are not collected as they either avoid the traps or do not commonly encounter them while foraging.</p>"
+}

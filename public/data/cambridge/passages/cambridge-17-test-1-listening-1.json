@@ -1,0 +1,308 @@
+{
+  "id": "cambridge-17-test-1-listening-1",
+  "title": "Buckworth Conservation Group",
+  "titleCn": "Buckworth Conservation Group",
+  "subject": "listening",
+  "part": 1,
+  "duration": 414,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 1
+  },
+  "sourceQuestionId": "8367",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8367",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Peter: Hello?"
+    },
+    {
+      "label": "2",
+      "text": "Jan: Oh hello. My name's Jan. Are you the right person to talk to about the Buckworth Conservation Group?"
+    },
+    {
+      "label": "3",
+      "text": "Peter: Yes, I'm Peter. I’m the secretary."
+    },
+    {
+      "label": "4",
+      "text": "Jan: Good. I’ve just moved to this area, and I’m interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?"
+    },
+    {
+      "label": "5",
+      "text": "Peter: Of course. Well, we have a mixture of regular activities and special events. One of the regular ones is trying to keep the beach free of litter. A few of us spend a couple of hours a month on it, and it’s awful how much there is to clear. I wish people would be more responsible and take it home with them."
+    },
+    {
+      "label": "6",
+      "text": "Jan: I totally agree. I’d be happy to help with that. Is it OK to take dogs?"
+    },
+    {
+      "label": "7",
+      "text": "Peter: I’m afraid not, as they’re banned from the beach itself. You can take them along the cliffs, though. And children are welcome."
+    },
+    {
+      "label": "8",
+      "text": "Jan: Right."
+    },
+    {
+      "label": "9",
+      "text": "Peter: We also manage a nature reserve, and there’s a lot to do there all year round. For example, because it’s a popular place to visit, we spend a lot of time looking after the paths and making sure they’re in good condition for walking."
+    },
+    {
+      "label": "10",
+      "text": "Jan: I could certainly help with that."
+    },
+    {
+      "label": "11",
+      "text": "Peter: Good. And we have a programme of creating new habitats there. We’ve just finished making and installing nesting boxes for birds to use, and next we’re going to work on encouraging insects – they’re important for the biodiversity of the reserve."
+    },
+    {
+      "label": "12",
+      "text": "Jan: They certainly are."
+    },
+    {
+      "label": "13",
+      "text": "Peter: Oh, and we’re also running a project to identify the different species of butterflies that visit the reserve. You might be interested in taking part in that."
+    },
+    {
+      "label": "14",
+      "text": "Jan: Sure. I was involved in something similar where I used to live, counting all the species of moths. I’d enjoy that."
+    },
+    {
+      "label": "15",
+      "text": "Peter: Another job we’re doing at the reserve is replacing the wall on the southern side, between the parking area and our woodshed. It was badly damaged in a storm last month."
+    },
+    {
+      "label": "16",
+      "text": "Jan: OK."
+    },
+    {
+      "label": "17",
+      "text": "Peter: Then as I said, we have a programme of events as well, both at the weekend, and during the week."
+    },
+    {
+      "label": "18",
+      "text": "Jan: Right. I presume you have guided walks? I’d like to get to know the local countryside, as I’m new to the area."
+    },
+    {
+      "label": "19",
+      "text": "Peter: Yes, we do. The next walk is to Ruston Island, a week on Saturday. We’ll be meeting in the car park at Dunsmore Beach at low tide – that’s when the sands are dry enough for us to walk to the island without getting wet."
+    },
+    {
+      "label": "20",
+      "text": "Jan: Sounds good."
+    },
+    {
+      "label": "21",
+      "text": "Peter: The island’s a great place to explore. It’s quite small, and it’s got a range of habitats. It’s also an ideal location for seeing seals just off the coast, or even on the beach."
+    },
+    {
+      "label": "22",
+      "text": "Jan: OK. And is there anything we should bring, like a picnic, for instance?"
+    },
+    {
+      "label": "23",
+      "text": "Peter: Yes, do bring one, as it’s a full-day walk. And of course it’ll be wet walking across and back, so make sure your boots are waterproof."
+    },
+    {
+      "label": "24",
+      "text": "Jan: I must buy a new pair – there’s a hole in one of my current ones! Well, I’d definitely like to come on the walk."
+    },
+    {
+      "label": "25",
+      "text": "Peter: Great. Then later this month we’re having a one-day woodwork session in Hopton Wood."
+    },
+    {
+      "label": "26",
+      "text": "Jan: I’ve never tried that before. Is it OK for beginners to take part?"
+    },
+    {
+      "label": "27",
+      "text": "Peter: Definitely. There’ll be a couple of experts leading the session, and we keep the number of participants down, so you’ll get as much help as you need."
+    },
+    {
+      "label": "28",
+      "text": "Jan: Excellent! I’d love to be able to make chairs."
+    },
+    {
+      "label": "29",
+      "text": "Peter: That’s probably too ambitious for one day! You’ll be starting with wooden spoons, and of course learning how to use the tools. And anything you make is yours to take home with you."
+    },
+    {
+      "label": "30",
+      "text": "Jan: That sounds like fun. When is it?"
+    },
+    {
+      "label": "31",
+      "text": "Peter: It’s on the 17th, from 10 a.m. until 3. There’s a charge of £35, including lunch, or £40 if you want to camp in the wood."
+    },
+    {
+      "label": "32",
+      "text": "Jan: I should think I’ll come home the same day. Well, I’d certainly like to join the group."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "PART 1 Questions 1–10\n\nComplete the notes below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "• making sure the beach does not have [1] ______ on it",
+          "answers": [
+            "litter"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_980660",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• making sure the beach does not have [1] ______ on it"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "• no [2] ______",
+          "answers": [
+            "dogs"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_965258",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• no [2] ______"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "• next task is taking action to attract [3] ______ to the place",
+          "answers": [
+            "insects"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_490334",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• next task is taking action to attract [3] ______ to the place"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "• identifying types of [4] ______",
+          "answers": [
+            "butterflies"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_689205",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• identifying types of [4] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "• building a new [5] ______",
+          "answers": [
+            "wall"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_337353",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• building a new [5] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "• walk across the sands and reach the [6] ______",
+          "answers": [
+            "island"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_164982",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• walk across the sands and reach the [6] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "• wear appropriate [7] ______",
+          "answers": [
+            "boots"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_933944",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• wear appropriate [7] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "• suitable for [8] ______ to participate in",
+          "answers": [
+            "beginners"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_678588",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• suitable for [8] ______ to participate in"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "• making [9] ______ out of wood",
+          "answers": [
+            "spoons"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_105507",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• making [9] ______ out of wood"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "• cost of session (no camping): £ [10] ______",
+          "answers": [
+            "35",
+            "thirty five"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8367_466648",
+          "explanation": "1. 题干词beach原词重现，题干中的否定结构does not have…在原文中替换为free of…，考生需要了解free of sth.的意思为“没有……”。\n\n2. 本题答案前置，先通过提问者说出，再通过回答者所说的I’m afraid not对应题干否定词no。\n\n3. 通过题干词next预判原文该句应为将来时态，题干中的attract对应录音中的encourage，之后紧跟答案insects，注意填入复数。\n\n4. 题干词identify原词重现，types替换为species，随后出现答案butterflies，注意是复数。\n\n5. 根据题干可知填入单数名词，build和new在原文录音中通过replace一词体现，随后出现答案wall。后文的badly damaged in a storm可帮助验证答案。\n\n6. 根据Dunsmore Beach大致定位；随后出现题干词sands，简单解释了退潮后开始上岛的原因；紧接着出现了walk to…，对应题干中的reach，随即出现答案island。\n\n7. 通过wear预判所填内容为衣物、鞋子等，需要学生认识boots一词。题干中的appropriate在录音中替换为更为具体的waterproof。\n\n8. 通过题干可知该题填入participate的主语，participate在录音中替换为take part。beginners由提问人说出，再由回答者说出definitely予以肯定。\n\n9. 通过题干可知需要填入木头所制的东西。先由提问者说出make chairs，但回答者通过too ambitious进行了否定，之后引出答案spoons。\n\n10. 本题需要留意金额，并注意题干中的no camping，故£35为正确答案。录音中后续提到的£40为包含camping的价格。",
+          "promptHtml": "• cost of session (no camping): £ [10] ______"
+        }
+      ],
+      "sourceType": "part1_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Buckworth Conservation Group</strong></span></p>\n\n<p><span><strong>Regular activities</strong><br>\nBeach<br>\n• making sure the beach does not have <strong>[1] ______</strong> on it<br>\n• no <strong>[2] ______</strong></span></p>\n\n<p><span>Nature reserve<br>\n• maintaining paths<br>\n• nesting boxes for birds installed<br>\n• next task is taking action to attract <strong>[3] ______</strong> to the place<br>\n• identifying types of <strong>[4] ______</strong><br>\n• building a new <strong>[5] ______</strong></span></p>\n\n<p><span><strong>Forthcoming events</strong><br>\nSaturday<br>\n• meet at Dunsmore Beach car park<br>\n• walk across the sands and reach the <strong>[6] ______</strong><br>\n• take a picnic<br>\n• wear appropriate <strong>[7] ______</strong></span></p>\n\n<p><span>Woodwork session<br>\n• suitable for <strong>[8] ______</strong> to participate in<br>\n• making <strong>[9] ______</strong> out of wood<br>\n• 17th, from 10 a.m. to 3 p.m.<br>\n• cost of session (no camping):  £ <strong>[10] ______</strong></span></p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span>Peter: Hello?<br>\nJan: Oh hello. My name&#x27;s Jan. Are you the right person to talk to about the Buckworth Conservation Group?<br>\nPeter: Yes, I&#x27;m Peter. I’m the secretary.<br>\nJan: Good. I’ve just moved to this area, and I’m interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?<br>\nPeter: Of course. Well, we have a mixture of regular activities and special events. One of the regular ones is trying to keep the beach free of litter. A few of us spend a couple of hours a month on it, and it’s awful how much there is to clear. I wish people would be more responsible and take it home with them.<br>\nJan: I totally agree. I’d be happy to help with that. Is it OK to take dogs?<br>\nPeter: I’m afraid not, as they’re banned from the beach itself. You can take them along the cliffs, though. And children are welcome.<br>\nJan: Right.<br>\nPeter: We also manage a nature reserve, and there’s a lot to do there all year round. For example, because it’s a popular place to visit, we spend a lot of time looking after the paths and making sure they’re in good condition for walking.<br>\nJan: I could certainly help with that.<br>\nPeter: Good. And we have a programme of creating new habitats there. We’ve just finished making and installing nesting boxes for birds to use, and next we’re going to work on encouraging insects – they’re important for the biodiversity of the reserve.<br>\nJan: They certainly are.<br>\nPeter: Oh, and we’re also running a project to identify the different species of butterflies that visit the reserve. You might be interested in taking part in that.<br>\nJan: Sure. I was involved in something similar where I used to live, counting all the species of moths. I’d enjoy that.<br>\nPeter: Another job we’re doing at the reserve is replacing the wall on the southern side, between the parking area and our woodshed. It was badly damaged in a storm last month.<br>\nJan: OK.<br>\nPeter: Then as I said, we have a programme of events as well, both at the weekend, and during the week.<br>\nJan: Right. I presume you have guided walks? I’d like to get to know the local countryside, as I’m new to the area.<br>\nPeter: Yes, we do. The next walk is to Ruston Island, a week on Saturday. We’ll be meeting in the car park at Dunsmore Beach at low tide – that’s when the sands are dry enough for us to walk to the island without getting wet.<br>\nJan: Sounds good.<br>\nPeter: The island’s a great place to explore. It’s quite small, and it’s got a range of habitats. It’s also an ideal location for seeing seals just off the coast, or even on the beach.<br>\nJan: OK. And is there anything we should bring, like a picnic, for instance?<br>\nPeter: Yes, do bring one, as it’s a full-day walk. And of course it’ll be wet walking across and back, so make sure your boots are waterproof.<br>\nJan: I must buy a new pair – there’s a hole in one of my current ones! Well, I’d definitely like to come on the walk.<br>\nPeter: Great. Then later this month we’re having a one-day woodwork session in Hopton Wood.<br>\nJan: I’ve never tried that before. Is it OK for beginners to take part?<br>\nPeter: Definitely. There’ll be a couple of experts leading the session, and we keep the number of participants down, so you’ll get as much help as you need.<br>\nJan: Excellent! I’d love to be able to make chairs.<br>\nPeter: That’s probably too ambitious for one day! You’ll be starting with wooden spoons, and of course learning how to use the tools. And anything you make is yours to take home with you.<br>\nJan: That sounds like fun. When is it?<br>\nPeter: It’s on the 17th, from 10 a.m. until 3. There’s a charge of £35, including lunch, or £40 if you want to camp in the wood.<br>\nJan: I should think I’ll come home the same day. Well, I’d certainly like to join the group.</span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8367.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 414.211
+  }
+}

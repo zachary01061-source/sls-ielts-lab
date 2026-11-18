@@ -1,0 +1,285 @@
+{
+  "id": "cambridge-20-test-4-reading-2",
+  "title": "Adapting to the effects of climate change",
+  "titleCn": "Adapting to the effects of climate change",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 4
+  },
+  "sourceQuestionId": "8557",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8557",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Adapting to the effects of climate change"
+    },
+    {
+      "label": "2",
+      "text": "A All around the world, nations are already preparing for, and adapting to, climate change and its impacts. Even if we stopped all CO2 emissions tomorrow, we would continue to see the impact of the CO2 already released since industrial times, with scientists forecasting that global warming would continue for around 40 years. In the meantime, ice caps would continue to melt and sea levels rise. Some countries and regions will suffer more extreme impacts from these changes than others. It’s in these places that innovation is thriving."
+    },
+    {
+      "label": "3",
+      "text": "B In Miami Beach, Florida, USA, seawater isn’t just breaching the island city’s walls, it’s seeping up through the ground, so the only way to save the city is to lift it up above sea level. Starting in the lowest and most vulnerable neighbourhoods, roads have been raised by as much as 61 centimetres. The elevation work was carried out as part of Miami Beach’s ambitious but much-needed stormwater-management programme. In addition to the road adaptations, the city has set up new pumps that can remove up to 75,000 litres of water per minute. In the face of floods, climate-mitigation strategies have often been overlooked, says Yanira Pineda, a senior sustainability coordinator. She knows that they’re essential and that the job is far from over. ‘We know that in 20, 30, 40 years, we’ll need to go back in there and adjust to the changing environment,’ she says."
+    },
+    {
+      "label": "4",
+      "text": "C Seawalls are a staple strategy for many coastal communities, but on the soft, muddy northern shores of Java, Indonesia, they frequently collapse, further exacerbating coastal erosion. There have been many attempts to restore the island’s coastal mangroves: ecosystems of trees and shrubs that help defend coastal areas by trapping sediment in their net-like root systems, elevating the sea bed and dampening the energy of waves and tidal currents. But Susanna Tol of the not-for-profit organisation Wetlands International says that, while hugely popular, the majority of mangrove-planting projects fail. So, Wetlands International started out with a different approach, building semi-permeable dams, made from bamboo poles and brushwood, to mimic the role of mangrove roots and create favourable conditions for mangroves to grow back naturally. The programme has seen moderate success, mainly in areas with less subsidence. ‘Unfortunately, traditional infrastructure is often single-solution focused,’ says Tol. ‘For long-term success, it’s critical that we transition towards multifunctional approaches that embed natural processes and that engage and benefit communities and local decision-makers.’"
+    },
+    {
+      "label": "5",
+      "text": "D As the floodwaters rose in the rice fields of the Mekong Delta in September 2018, four small houses rose with them. Homes in this part of Vietnam are traditionally built on stilts but these ones had been built to float. The modifications were made by the Buoyant Foundation Project, a not-for-profit organisation that has been researching and retrofitting amphibious houses since 2006. ‘When I started this,’ explains founder Elizabeth English, ‘climate change was not on the tip of everybody’s tongue, but this technology is becoming necessary in places that didn’t previously need it.’ It’s much cheaper than permanently elevating houses, English explains – about a third of what it would cost to completely replace a building’s foundations. It also avoids the problem of taller houses being at greater risk from wind damage. Another plus comes from the fact that amphibious structures can be sensitively adapted to meet cultural needs and match the kind of houses that are already common in a community."
+    },
+    {
+      "label": "6",
+      "text": "E Bangladesh is especially vulnerable to climate change. Most of the country is less than a metre above sea level and 80 per cent of its land lies on floodplains. ‘Almost 35 million people living on the coastal belt of Bangladesh are currently affected by soil and water salinity,’ says Raisa Chowdhury of the international development organisation ICCO Cooperation. Rather than fighting against it, one project is helping communities adapt to salt-affected soils. ICCO Cooperation has been working with 10,000 farmers in Bangladesh to start cultivating naturally salt-tolerant crops in the region. Certain varieties of carrot, potato, kohlrabi, cabbage and beetroot have been found to be better suited to salty soil than the rice and wheat that is typically grown there. Chowdhury says that the results are very visible, comparing a barren plot of land to the ‘beautiful, lush green vegetable garden’ sitting beside it, in which he and his team have been working with the farmers. Since the project began, farmers trained in saline agriculture have reported increases of two to three more harvests per year."
+    },
+    {
+      "label": "7",
+      "text": "F Greg Spotts from Los Angeles (LA) in the USA is chief sustainability officer of the city’s street services department. He leads the Cool Streets LA programme, a series of pilot projects, which include the planting of trees and the installation of a ‘cool pavement’ system, designed to help reach the city’s goal of bringing down its average temperature by 1.5°C. ‘Urban cooling is literally a matter of life and death for our future in LA,’ says Spotts. Using a Geographic Information System data mapping tool, the programme identified streets with low tree canopy cover in three of the city’s neighbourhoods and covered them with a light-grey, light-reflecting coating, which had already been shown to lower road surface temperature in Los Angeles by 6°C. Spotts says one of these streets, in the Winnetka neighbourhood of San Fernando Valley, can now be seen as a pale crescent, the only cool spot on an otherwise red thermal image, from the International Space Station."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–17\n\nReading Passage 2 has six paragraphs, A–F.\n\nWhich paragraph contains the following information?",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "how a type of plant functions as a natural protection for coastlines",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8557_213031-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "a prediction about how long it could take to stop noticing the effects of climate change",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8557_213031-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "a reference to the fact that a solution is particularly cost-effective",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8557_213031-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "a mention of a technology used to locate areas most in need of intervention",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8557_213031-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 18–22\n\nComplete the sentences below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "18 The stormwater-management programme in Miami Beach has involved the installation of efficient [18] ______.",
+          "answers": [
+            "pumps"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8557_174795",
+          "explanation": "18. 译文：迈阿密海滩的暴雨管理计划涉及高效______的安装\n\n本题题目中的stormwater-management和Miami Beach均可以在文中B段第三句找到，而随后第四句对这一programme进行了具体描述，即一方面有road adaptations，一方面set up new pumps，随后的修饰语中can remove up to 75,000 litres of water per minute也表明了这些pumps的efficient。\n\n因此本题答案为pumps。\n\n19. 译文：______的建设是印度尼西亚确保红树林成功项目的第一个阶段\n\n文中C段第五句说到了Wetlands International started out with a different approach，之后对具体的做法进行描述，其首先做的事情就是building semi-permeable dams，这与题目中the construction of的表达相一致。\n\n因此本题答案为dams。\n\n20. 译文：作为对湄公河三角洲不断上涨洪水位的回应，一个非营利组织一直在建造能够______的房屋\n\n题目中的内容对应第二段，即通过these ones had been built to float的方式来解决问题，随后文中描述了Buoyant Foundation Project的具体行动，而这正是题目中的a not-for-profit organisation，因此题目中的houses that can对应的动词就应该是float。\n\n因此本题答案为float。\n\n21. 译文：孟加拉国不断上升的海平面使得引入适合高盐含量区域的各种______成为必要\n\n本题考查的是孟加拉国如果在高盐度地区开展农业，文中E段第四句说道，one project is helping communities adapt to salt-affected soils，这与题目中的信息相对应，随后提到具体的做法是start cultivating naturally salt-tolerant crops in the region，所以题目中在high salt content地区introduce的就应当是文中的crops。文中随后的内容也对crops做了具体说明。\n\n因此本题答案为crops。\n\n22. 译文：洛杉矶的一个项目增加了城市街道上______的数量\n\n本题考查的是洛杉矶如何改善城市温度，其中说到的a project in LA对应原文F段第二句的the Cool Streets LA programme，这个项目的内容包括the planting of trees，因此该城市道路上的trees数量增多。\n\n因此本题答案为trees。",
+          "promptHtml": "18 The stormwater-management programme in Miami Beach has involved the installation of efficient [18] ______."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "19 The construction of [19] ______was the first stage of a project to ensure the success of mangroves in Indonesia.",
+          "answers": [
+            "dams"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8557_217448",
+          "explanation": "18. 译文：迈阿密海滩的暴雨管理计划涉及高效______的安装\n\n本题题目中的stormwater-management和Miami Beach均可以在文中B段第三句找到，而随后第四句对这一programme进行了具体描述，即一方面有road adaptations，一方面set up new pumps，随后的修饰语中can remove up to 75,000 litres of water per minute也表明了这些pumps的efficient。\n\n因此本题答案为pumps。\n\n19. 译文：______的建设是印度尼西亚确保红树林成功项目的第一个阶段\n\n文中C段第五句说到了Wetlands International started out with a different approach，之后对具体的做法进行描述，其首先做的事情就是building semi-permeable dams，这与题目中the construction of的表达相一致。\n\n因此本题答案为dams。\n\n20. 译文：作为对湄公河三角洲不断上涨洪水位的回应，一个非营利组织一直在建造能够______的房屋\n\n题目中的内容对应第二段，即通过these ones had been built to float的方式来解决问题，随后文中描述了Buoyant Foundation Project的具体行动，而这正是题目中的a not-for-profit organisation，因此题目中的houses that can对应的动词就应该是float。\n\n因此本题答案为float。\n\n21. 译文：孟加拉国不断上升的海平面使得引入适合高盐含量区域的各种______成为必要\n\n本题考查的是孟加拉国如果在高盐度地区开展农业，文中E段第四句说道，one project is helping communities adapt to salt-affected soils，这与题目中的信息相对应，随后提到具体的做法是start cultivating naturally salt-tolerant crops in the region，所以题目中在high salt content地区introduce的就应当是文中的crops。文中随后的内容也对crops做了具体说明。\n\n因此本题答案为crops。\n\n22. 译文：洛杉矶的一个项目增加了城市街道上______的数量\n\n本题考查的是洛杉矶如何改善城市温度，其中说到的a project in LA对应原文F段第二句的the Cool Streets LA programme，这个项目的内容包括the planting of trees，因此该城市道路上的trees数量增多。\n\n因此本题答案为trees。",
+          "promptHtml": "19 The construction of [19] ______was the first stage of a project to ensure the success of mangroves in Indonesia."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "20 As a response to rising floodwaters in the Mekong Delta, a not-for-profit organisation has been building houses that can[20] ______.",
+          "answers": [
+            "float"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8557_245868",
+          "explanation": "18. 译文：迈阿密海滩的暴雨管理计划涉及高效______的安装\n\n本题题目中的stormwater-management和Miami Beach均可以在文中B段第三句找到，而随后第四句对这一programme进行了具体描述，即一方面有road adaptations，一方面set up new pumps，随后的修饰语中can remove up to 75,000 litres of water per minute也表明了这些pumps的efficient。\n\n因此本题答案为pumps。\n\n19. 译文：______的建设是印度尼西亚确保红树林成功项目的第一个阶段\n\n文中C段第五句说到了Wetlands International started out with a different approach，之后对具体的做法进行描述，其首先做的事情就是building semi-permeable dams，这与题目中the construction of的表达相一致。\n\n因此本题答案为dams。\n\n20. 译文：作为对湄公河三角洲不断上涨洪水位的回应，一个非营利组织一直在建造能够______的房屋\n\n题目中的内容对应第二段，即通过these ones had been built to float的方式来解决问题，随后文中描述了Buoyant Foundation Project的具体行动，而这正是题目中的a not-for-profit organisation，因此题目中的houses that can对应的动词就应该是float。\n\n因此本题答案为float。\n\n21. 译文：孟加拉国不断上升的海平面使得引入适合高盐含量区域的各种______成为必要\n\n本题考查的是孟加拉国如果在高盐度地区开展农业，文中E段第四句说道，one project is helping communities adapt to salt-affected soils，这与题目中的信息相对应，随后提到具体的做法是start cultivating naturally salt-tolerant crops in the region，所以题目中在high salt content地区introduce的就应当是文中的crops。文中随后的内容也对crops做了具体说明。\n\n因此本题答案为crops。\n\n22. 译文：洛杉矶的一个项目增加了城市街道上______的数量\n\n本题考查的是洛杉矶如何改善城市温度，其中说到的a project in LA对应原文F段第二句的the Cool Streets LA programme，这个项目的内容包括the planting of trees，因此该城市道路上的trees数量增多。\n\n因此本题答案为trees。",
+          "promptHtml": "20 As a response to rising floodwaters in the Mekong Delta, a not-for-profit organisation has been building houses that can[20] ______."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "21 Rising sea levels in Bangladesh have made it necessary to introduce various[21] ______that are suitable for areas of high salt content.",
+          "answers": [
+            "crops"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8557_240377",
+          "explanation": "18. 译文：迈阿密海滩的暴雨管理计划涉及高效______的安装\n\n本题题目中的stormwater-management和Miami Beach均可以在文中B段第三句找到，而随后第四句对这一programme进行了具体描述，即一方面有road adaptations，一方面set up new pumps，随后的修饰语中can remove up to 75,000 litres of water per minute也表明了这些pumps的efficient。\n\n因此本题答案为pumps。\n\n19. 译文：______的建设是印度尼西亚确保红树林成功项目的第一个阶段\n\n文中C段第五句说到了Wetlands International started out with a different approach，之后对具体的做法进行描述，其首先做的事情就是building semi-permeable dams，这与题目中the construction of的表达相一致。\n\n因此本题答案为dams。\n\n20. 译文：作为对湄公河三角洲不断上涨洪水位的回应，一个非营利组织一直在建造能够______的房屋\n\n题目中的内容对应第二段，即通过these ones had been built to float的方式来解决问题，随后文中描述了Buoyant Foundation Project的具体行动，而这正是题目中的a not-for-profit organisation，因此题目中的houses that can对应的动词就应该是float。\n\n因此本题答案为float。\n\n21. 译文：孟加拉国不断上升的海平面使得引入适合高盐含量区域的各种______成为必要\n\n本题考查的是孟加拉国如果在高盐度地区开展农业，文中E段第四句说道，one project is helping communities adapt to salt-affected soils，这与题目中的信息相对应，随后提到具体的做法是start cultivating naturally salt-tolerant crops in the region，所以题目中在high salt content地区introduce的就应当是文中的crops。文中随后的内容也对crops做了具体说明。\n\n因此本题答案为crops。\n\n22. 译文：洛杉矶的一个项目增加了城市街道上______的数量\n\n本题考查的是洛杉矶如何改善城市温度，其中说到的a project in LA对应原文F段第二句的the Cool Streets LA programme，这个项目的内容包括the planting of trees，因此该城市道路上的trees数量增多。\n\n因此本题答案为trees。",
+          "promptHtml": "21 Rising sea levels in Bangladesh have made it necessary to introduce various[21] ______that are suitable for areas of high salt content."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "22 A project in LA has increased the number of[22] ______ on the city’s streets.",
+          "answers": [
+            "trees"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8557_267998",
+          "explanation": "18. 译文：迈阿密海滩的暴雨管理计划涉及高效______的安装\n\n本题题目中的stormwater-management和Miami Beach均可以在文中B段第三句找到，而随后第四句对这一programme进行了具体描述，即一方面有road adaptations，一方面set up new pumps，随后的修饰语中can remove up to 75,000 litres of water per minute也表明了这些pumps的efficient。\n\n因此本题答案为pumps。\n\n19. 译文：______的建设是印度尼西亚确保红树林成功项目的第一个阶段\n\n文中C段第五句说到了Wetlands International started out with a different approach，之后对具体的做法进行描述，其首先做的事情就是building semi-permeable dams，这与题目中the construction of的表达相一致。\n\n因此本题答案为dams。\n\n20. 译文：作为对湄公河三角洲不断上涨洪水位的回应，一个非营利组织一直在建造能够______的房屋\n\n题目中的内容对应第二段，即通过these ones had been built to float的方式来解决问题，随后文中描述了Buoyant Foundation Project的具体行动，而这正是题目中的a not-for-profit organisation，因此题目中的houses that can对应的动词就应该是float。\n\n因此本题答案为float。\n\n21. 译文：孟加拉国不断上升的海平面使得引入适合高盐含量区域的各种______成为必要\n\n本题考查的是孟加拉国如果在高盐度地区开展农业，文中E段第四句说道，one project is helping communities adapt to salt-affected soils，这与题目中的信息相对应，随后提到具体的做法是start cultivating naturally salt-tolerant crops in the region，所以题目中在high salt content地区introduce的就应当是文中的crops。文中随后的内容也对crops做了具体说明。\n\n因此本题答案为crops。\n\n22. 译文：洛杉矶的一个项目增加了城市街道上______的数量\n\n本题考查的是洛杉矶如何改善城市温度，其中说到的a project in LA对应原文F段第二句的the Cool Streets LA programme，这个项目的内容包括the planting of trees，因此该城市道路上的trees数量增多。\n\n因此本题答案为trees。",
+          "promptHtml": "22 A project in LA has increased the number of[22] ______ on the city’s streets."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>18 The stormwater-management programme in Miami Beach has involved the installation of efficient <strong>[18] ______</strong>.</p>\n\n<p>19 The construction of <strong>[19] ______</strong>was the first stage of a project to ensure the success of mangroves in Indonesia.</p>\n\n<p>20 As a response to rising floodwaters in the Mekong Delta, a not-for-profit organisation has been building houses that can<strong>[20] ______</strong>. </p>\n\n<p>21 Rising sea levels in Bangladesh have made it necessary to introduce various<strong>[21] ______</strong>that are suitable for areas of high salt content.</p>\n\n<p>22 A project in LA has increased the number of<strong>[22] ______</strong> on the city’s streets.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 23–26\n\nLook at the following statements (Questions 23–26) and the list of people below.\n\nMatch each statement with the correct person, A–E.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "23. It is essential to adopt strategies which involve and help residents of the region.[23] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8557_535659",
+          "explanation": "23. 译文：采用当地居民参与并帮助他们的策略是很重要的。\n\n题目中的观点出现在原文C段，在最后一句中Susanna Tol表示，engage and benefit communities and local decision-makers是很重要的，这与题目中involve and help residents of the region的表述是一致的。\n\n因此本题答案为B。\n\n24. 译文：减少热量的干预措施对我们在这里的生存至关重要。\n\n本题观点出现在文章F段，在第三句中，Greg Spotts说，Urban cooling is literally a matter of life and death for our future in LA，这与题目中表达的观点是一致的。\n\n因此本题答案为E。\n\n25. 译文：未来几十年将需要做更多工作来应对不断上升水位的影响。\n\n本题的观点出现在原文B段，在本段后半部分Yanira Pineda说到，in 20, 30, 40 years,，我们需要go back in there and adjust to the changing environment，而根据本段内容，此处的the changing environment正是与the impact of rising water levels有关，因此找到选项中的Yanira Pineda即为本题答案。\n\n因此本题答案为A。\n\n26. 译文：近年来更多地方需要采取行动来适应洪水。\n\n本题的观点出现在文中D段，其中Elizabeth English说道，这项技术is becoming necessary in places that didn’t previously need it，也就是说更多地方需要adapt to flooding，这与题目中的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "23. It is essential to adopt strategies which involve and help residents of the region.[23] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "24. Interventions which reduce heat are absolutely vital for our survival in this location.[24] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8557_827210",
+          "explanation": "23. 译文：采用当地居民参与并帮助他们的策略是很重要的。\n\n题目中的观点出现在原文C段，在最后一句中Susanna Tol表示，engage and benefit communities and local decision-makers是很重要的，这与题目中involve and help residents of the region的表述是一致的。\n\n因此本题答案为B。\n\n24. 译文：减少热量的干预措施对我们在这里的生存至关重要。\n\n本题观点出现在文章F段，在第三句中，Greg Spotts说，Urban cooling is literally a matter of life and death for our future in LA，这与题目中表达的观点是一致的。\n\n因此本题答案为E。\n\n25. 译文：未来几十年将需要做更多工作来应对不断上升水位的影响。\n\n本题的观点出现在原文B段，在本段后半部分Yanira Pineda说到，in 20, 30, 40 years,，我们需要go back in there and adjust to the changing environment，而根据本段内容，此处的the changing environment正是与the impact of rising water levels有关，因此找到选项中的Yanira Pineda即为本题答案。\n\n因此本题答案为A。\n\n26. 译文：近年来更多地方需要采取行动来适应洪水。\n\n本题的观点出现在文中D段，其中Elizabeth English说道，这项技术is becoming necessary in places that didn’t previously need it，也就是说更多地方需要adapt to flooding，这与题目中的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "24. Interventions which reduce heat are absolutely vital for our survival in this location.[24] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "25. More work will need to be done in future decades to deal with the impact of rising water levels.[25] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8557_569899",
+          "explanation": "23. 译文：采用当地居民参与并帮助他们的策略是很重要的。\n\n题目中的观点出现在原文C段，在最后一句中Susanna Tol表示，engage and benefit communities and local decision-makers是很重要的，这与题目中involve and help residents of the region的表述是一致的。\n\n因此本题答案为B。\n\n24. 译文：减少热量的干预措施对我们在这里的生存至关重要。\n\n本题观点出现在文章F段，在第三句中，Greg Spotts说，Urban cooling is literally a matter of life and death for our future in LA，这与题目中表达的观点是一致的。\n\n因此本题答案为E。\n\n25. 译文：未来几十年将需要做更多工作来应对不断上升水位的影响。\n\n本题的观点出现在原文B段，在本段后半部分Yanira Pineda说到，in 20, 30, 40 years,，我们需要go back in there and adjust to the changing environment，而根据本段内容，此处的the changing environment正是与the impact of rising water levels有关，因此找到选项中的Yanira Pineda即为本题答案。\n\n因此本题答案为A。\n\n26. 译文：近年来更多地方需要采取行动来适应洪水。\n\n本题的观点出现在文中D段，其中Elizabeth English说道，这项技术is becoming necessary in places that didn’t previously need it，也就是说更多地方需要adapt to flooding，这与题目中的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "25. More work will need to be done in future decades to deal with the impact of rising water levels.[25] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "26. The number of locations requiring action to adapt to flooding has grown in recent years.[26] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8557_301275",
+          "explanation": "23. 译文：采用当地居民参与并帮助他们的策略是很重要的。\n\n题目中的观点出现在原文C段，在最后一句中Susanna Tol表示，engage and benefit communities and local decision-makers是很重要的，这与题目中involve and help residents of the region的表述是一致的。\n\n因此本题答案为B。\n\n24. 译文：减少热量的干预措施对我们在这里的生存至关重要。\n\n本题观点出现在文章F段，在第三句中，Greg Spotts说，Urban cooling is literally a matter of life and death for our future in LA，这与题目中表达的观点是一致的。\n\n因此本题答案为E。\n\n25. 译文：未来几十年将需要做更多工作来应对不断上升水位的影响。\n\n本题的观点出现在原文B段，在本段后半部分Yanira Pineda说到，in 20, 30, 40 years,，我们需要go back in there and adjust to the changing environment，而根据本段内容，此处的the changing environment正是与the impact of rising water levels有关，因此找到选项中的Yanira Pineda即为本题答案。\n\n因此本题答案为A。\n\n26. 译文：近年来更多地方需要采取行动来适应洪水。\n\n本题的观点出现在文中D段，其中Elizabeth English说道，这项技术is becoming necessary in places that didn’t previously need it，也就是说更多地方需要adapt to flooding，这与题目中的表述是一致的。\n\n因此本题答案为C。",
+          "promptHtml": "26. The number of locations requiring action to adapt to flooding has grown in recent years.[26] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Yanira Pineda"
+        },
+        {
+          "value": "B",
+          "text": "Susanna Tol"
+        },
+        {
+          "value": "C",
+          "text": "Elizabeth English"
+        },
+        {
+          "value": "D",
+          "text": "Raisa Chowdhury"
+        },
+        {
+          "value": "E",
+          "text": "Greg Spotts"
+        }
+      ],
+      "contextHtml": "<p>23. It is essential to adopt strategies which involve and help residents of the region.<strong>[23] ______</strong> </p>\n\n<p>24. Interventions which reduce heat are absolutely vital for our survival in this location.<strong>[24] ______</strong> </p>\n\n<p>25. More work will need to be done in future decades to deal with the impact of rising water levels.<strong>[25] ______</strong> </p>\n\n<p>26. The number of locations requiring action to adapt to flooding has grown in recent years.<strong>[26] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>Adapting to the effects of climate change</b></span></p><p><strong>A  </strong>      All around the world, nations are already preparing for, and adapting to, climate change and its impacts. Even if we stopped all CO2 emissions tomorrow, we would continue to see the impact of the CO2 already released since industrial times, with scientists forecasting that global warming would continue for around 40 years. In the meantime, ice caps would continue to melt and sea levels rise. Some countries and regions will suffer more extreme impacts from these changes than others. It’s in these places that innovation is thriving.</p><p><strong>B   </strong>      In Miami Beach, Florida, USA, seawater isn’t just breaching the island city’s walls, it’s seeping up through the ground, so the only way to save the city is to lift it up above sea level. Starting in the lowest and most vulnerable neighbourhoods, roads have been raised by as much as 61 centimetres. The elevation work was carried out as part of Miami Beach’s ambitious but much-needed stormwater-management programme. In addition to the road adaptations, the city has set up new pumps that can remove up to 75,000 litres of water per minute. In the face of floods, climate-mitigation strategies have often been overlooked, says Yanira Pineda, a senior sustainability coordinator.  She knows that they’re essential and that the job is far from over. ‘We know that in 20, 30, 40 years, we’ll need to go back in there and adjust to the changing environment,’ she says.</p><p><strong>C   </strong>      Seawalls are a staple strategy for many coastal communities, but on the soft, muddy northern shores of Java, Indonesia, they frequently collapse, further exacerbating coastal erosion. There have been many attempts to restore the island’s coastal mangroves: ecosystems of trees and shrubs that help defend coastal areas by trapping sediment in their net-like root systems, elevating the sea bed and dampening the energy of waves and tidal currents. But Susanna Tol of the not-for-profit organisation Wetlands International says that, while hugely popular, the majority of mangrove-planting projects fail. So, Wetlands International started out with a different approach, building semi-permeable dams, made from bamboo poles and brushwood, to mimic the role of mangrove roots and create favourable conditions for mangroves to grow back naturally. The programme has seen moderate success, mainly in areas with less subsidence. ‘Unfortunately, traditional infrastructure is often single-solution focused,’ says Tol. ‘For long-term success, it’s critical that we transition towards multifunctional approaches that embed natural processes and that engage and benefit communities and local decision-makers.’</p><p><strong>D  </strong>      As the floodwaters rose in the rice fields of the Mekong Delta in September 2018, four small houses rose with them. Homes in this part of Vietnam are traditionally built on stilts but these ones had been built to float. The modifications were made by the Buoyant Foundation Project, a not-for-profit organisation that has been researching and retrofitting amphibious houses since 2006. ‘When I started this,’ explains founder Elizabeth English, ‘climate change was not on the tip of everybody’s tongue, but this technology is becoming necessary in places that didn’t previously need it.’ It’s much cheaper than permanently elevating houses, English explains – about a third of what it would cost to completely replace a building’s foundations. It also avoids the problem of taller houses being at greater risk from wind damage. Another plus comes from the fact that amphibious structures can be sensitively adapted to meet cultural needs and match the kind of houses that are already common in a community.</p><p><strong>E   </strong>      Bangladesh is especially vulnerable to climate change. Most of the country is less than a metre above sea level and 80 per cent of its land lies on floodplains. ‘Almost 35 million people living on the coastal belt of Bangladesh are currently affected by soil and water salinity,’ says Raisa Chowdhury of the international development organisation ICCO Cooperation. Rather than fighting against it, one project is helping communities adapt to salt-affected soils. ICCO Cooperation has been working with 10,000 farmers in Bangladesh to start cultivating naturally salt-tolerant crops in the region. Certain varieties of carrot, potato, kohlrabi, cabbage and beetroot have been found to be better suited to salty soil than the rice and wheat that is typically grown there. Chowdhury says that the results are very visible, comparing a barren plot of land to the ‘beautiful, lush green vegetable garden’ sitting beside it, in which he and his team have been working with the farmers. Since the project began, farmers trained in saline agriculture have reported increases of two to three more harvests per year.</p><p><strong>F  </strong>       Greg Spotts from Los Angeles (LA) in the USA is chief sustainability officer of the city’s street services department. He leads the Cool Streets LA programme, a series of pilot projects, which include the planting of trees and the installation of a ‘cool pavement’ system, designed to help reach the city’s goal of bringing down its average temperature by 1.5°C. ‘Urban cooling is literally a matter of life and death for our future in LA,’ says Spotts. Using a Geographic Information System data mapping tool, the programme identified streets with low tree canopy cover in three of the city’s neighbourhoods and covered them with a light-grey, light-reflecting coating, which had already been shown to lower road surface temperature in Los Angeles by 6°C. Spotts says one of these streets, in the Winnetka neighbourhood of San Fernando Valley, can now be seen as a pale crescent, the only cool spot on an otherwise red thermal image, from the International Space Station.</p>"
+}

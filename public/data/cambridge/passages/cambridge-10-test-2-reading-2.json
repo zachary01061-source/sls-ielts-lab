@@ -1,0 +1,286 @@
+{
+  "id": "cambridge-10-test-2-reading-2",
+  "title": "Gifted children and learning",
+  "titleCn": "Gifted children and learning",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 10,
+    "test": 2
+  },
+  "sourceQuestionId": "6905",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6905",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Gifted children and learning"
+    },
+    {
+      "label": "2",
+      "text": "A Internationally, 'giftedness' is most frequently determined by a score on a general intelligence test, known as an IQ test, which is above a chosen cut-off point, usually at around the top 2-5%. Children's educational environment contributes to the IQ score and the way intelligence is used. For example, a very close positive relationship was found when children's IQ scores were compared with their home educational provision (Freeman, 2010). The higher the children’s IQ scores, especially over IQ 130, the better the quality of their educational backup, measured in terms of reported verbal interactions with parents, number of books and activities in their home etc. Because IQ tests are decidedly influenced by what the child has learned, they are to some extent measures of current achievement based on age-norms; that is, how well the children have learned to manipulate their knowledge and know-how within the terms of the test. The vocabulary aspect, for example, is dependent on having heard those words. But IQ tests can neither identify the processes of learning and thinking nor predict creativity."
+    },
+    {
+      "label": "3",
+      "text": "B Excellence does not emerge without appropriate help. To reach an exceptionally high standard in any area very able children need the means to learn, which includes material to work with and focused challenging tuition - and the encouragement to follow their dream. There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average-ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation. To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning - metacognition - which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should be helped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example."
+    },
+    {
+      "label": "4",
+      "text": "C High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks. This happens to such a high degree in some children that they appear to be demonstrating talent in particular areas. Overviewing research on the thinking process of highly able children, (Shore and Kanevsky, 1993) put the instructor's problem succinctly: 'If they [the gifted] merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice'. But of course, this is not entirely the case; adjustments have to be made in methods of learning and teaching, to take account of the many ways individuals think."
+    },
+    {
+      "label": "5",
+      "text": "D Yet in order to learn by themselves, the gifted do need some support from their teachers. Conversely, teachers who have a tendency to 'overdirect' can diminish their gifted pupils' learning autonomy. Although 'spoon-feeding' can produce extremely high examination results, these are not always followed by equally impressive life successes. Too much dependence on the teacher risks loss of autonomy and motivation to discover. However, when teachers help pupils to reflect on their own learning and thinking activities, they increase their pupils' self-regulation. For a young child, it may be just the simple question 'What have you learned today?' which helps them to recognize what they are doing. Given that a fundamental goal of education is to transfer to control of learning from teachers to pupils, improving pupils’ learning to learn techniques should be a major outcome of the school experience, especially for the highly competent. There are quite a number of new methods which can help, such as child-initiated learning, ability-peer tutoring, etc. Such practices have been found to be particularly useful for bright children from deprived areas."
+    },
+    {
+      "label": "6",
+      "text": "E But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995). Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice. Creativity in all forms can be seen as expertise mixed with a high level of motivation (Weisberg, 1993)."
+    },
+    {
+      "label": "7",
+      "text": "F To sum up, learning is affected by emotions of both the individual and significant others. Positive emotions facilitate the creative aspects of learning and negative emotions inhibit it. Fear, for example, can limit the development of curiosity, which is a strong force in scientific advance, because it motivates problem-solving behavior. In Boekaerts’ (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-17\n\nReading Passage 2 has six paragraphs, A-F.\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a reference to the influence of the domestic background on the gifted child",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6905_867494-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "reference to what can be lost if learners are given too much guidance",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6905_867494-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "a reference to the damaging effects of anxiety",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6905_867494-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "examples of classroom techniques which favour socially-disadvantaged children",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6905_867494-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 18-22\n\nLook at the following statements (Questions 18-22) and the list of people below.\n\nMatch each statement with the correct person or people, A-E.\n\nWrite the correct letter, A-E, in boxes 18-22 on your answer sheet.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "[18] ______ Less time can be spent on exercises with gifted pupils who produce accurate work.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6905_291455",
+          "explanation": "题号：18\n\n译文：对于完成精确任务的有天赋的学生，可以花费更少的时间练习。\n\n定位词：Less time, accurate work\n\n本句表达的内容在原文C段出现，即'If they (the gifted) merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice.'此处的make fewer errors与题目中produce accurate work是同义替换，而文中less time can be spent on exercises 相当于文中shorten the practice,这部分内容是Shore和Kanevsky的观点。因此本题答案为B。\n\n题号：19\n\n译文：自主性是一种有价值的工具，可以帮助有天赋的儿童达到他们的目标。\n\n定位词：self-reliance\n\n本题重点强调了self-reliance 的作用，在文章E段出现了相关的信息:Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice,其中independence与题目中self-reliance是同义替换，对应人名Simonton。因此本题答案为D。\n\n题号：20\n\n译文：有天赋的儿童知道如何运用自己的情绪来辅助他们的学习。\n\n定位词：feelings, assist their learning\n\n本题说到通过情绪来帮助学习，首先需要在文中找到相关的说法，关于通过情绪帮助学习的表述出现在文章结尾处: In Boekaerts' (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources, 可见，情绪可以有助于学习效率的提高以及获取更多学习资源，此处对应的人名是Bockaerts。 因此本题答案为E。\n\n题号：21\n\n译文：有天赋的儿童受益于亲属给予的适当支持。\n\n定位词：support from close relatives\n\n本题说到来自于亲属的支持，在原文第一段中出现了相关的内容，即For example, a very close positive relationship was found when children's IQ scores21were compared with their home educational provision (Freeman, 2010)，此处的home educational provision 即support from close relatives, 而在原文随后一句也提到了educational backup,这表达是Freeman的观点。因此本题答案为A。\n\n题号：22\n\n译文：真正成功的学生已经学会大量关于他们专业的知识。\n\n定位词：a considerable amount about their subject\n\n本题提到关于a considerable amount about their subject的内容，因此需要在文章明确标注人名的观点处寻找与专业知识相关的内容，文中E段说到But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995)，其中a great deal about a specific domain正是题目中a considerable amount about their subject的同义替换，对应人名选择答案即可。因此本题答案为C。",
+          "promptHtml": "[18] ______ Less time can be spent on exercises with gifted pupils who produce accurate work."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "[19] ______ Self-reliance is a valuable tool that helps gifted students reach their goals.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6905_405702",
+          "explanation": "题号：18\n\n译文：对于完成精确任务的有天赋的学生，可以花费更少的时间练习。\n\n定位词：Less time, accurate work\n\n本句表达的内容在原文C段出现，即'If they (the gifted) merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice.'此处的make fewer errors与题目中produce accurate work是同义替换，而文中less time can be spent on exercises 相当于文中shorten the practice,这部分内容是Shore和Kanevsky的观点。因此本题答案为B。\n\n题号：19\n\n译文：自主性是一种有价值的工具，可以帮助有天赋的儿童达到他们的目标。\n\n定位词：self-reliance\n\n本题重点强调了self-reliance 的作用，在文章E段出现了相关的信息:Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice,其中independence与题目中self-reliance是同义替换，对应人名Simonton。因此本题答案为D。\n\n题号：20\n\n译文：有天赋的儿童知道如何运用自己的情绪来辅助他们的学习。\n\n定位词：feelings, assist their learning\n\n本题说到通过情绪来帮助学习，首先需要在文中找到相关的说法，关于通过情绪帮助学习的表述出现在文章结尾处: In Boekaerts' (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources, 可见，情绪可以有助于学习效率的提高以及获取更多学习资源，此处对应的人名是Bockaerts。 因此本题答案为E。\n\n题号：21\n\n译文：有天赋的儿童受益于亲属给予的适当支持。\n\n定位词：support from close relatives\n\n本题说到来自于亲属的支持，在原文第一段中出现了相关的内容，即For example, a very close positive relationship was found when children's IQ scores21were compared with their home educational provision (Freeman, 2010)，此处的home educational provision 即support from close relatives, 而在原文随后一句也提到了educational backup,这表达是Freeman的观点。因此本题答案为A。\n\n题号：22\n\n译文：真正成功的学生已经学会大量关于他们专业的知识。\n\n定位词：a considerable amount about their subject\n\n本题提到关于a considerable amount about their subject的内容，因此需要在文章明确标注人名的观点处寻找与专业知识相关的内容，文中E段说到But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995)，其中a great deal about a specific domain正是题目中a considerable amount about their subject的同义替换，对应人名选择答案即可。因此本题答案为C。",
+          "promptHtml": "[19] ______ Self-reliance is a valuable tool that helps gifted students reach their goals."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "[20] ______ Gifted children know how to channel their feelings to assist their learning.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6905_699054",
+          "explanation": "题号：18\n\n译文：对于完成精确任务的有天赋的学生，可以花费更少的时间练习。\n\n定位词：Less time, accurate work\n\n本句表达的内容在原文C段出现，即'If they (the gifted) merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice.'此处的make fewer errors与题目中produce accurate work是同义替换，而文中less time can be spent on exercises 相当于文中shorten the practice,这部分内容是Shore和Kanevsky的观点。因此本题答案为B。\n\n题号：19\n\n译文：自主性是一种有价值的工具，可以帮助有天赋的儿童达到他们的目标。\n\n定位词：self-reliance\n\n本题重点强调了self-reliance 的作用，在文章E段出现了相关的信息:Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice,其中independence与题目中self-reliance是同义替换，对应人名Simonton。因此本题答案为D。\n\n题号：20\n\n译文：有天赋的儿童知道如何运用自己的情绪来辅助他们的学习。\n\n定位词：feelings, assist their learning\n\n本题说到通过情绪来帮助学习，首先需要在文中找到相关的说法，关于通过情绪帮助学习的表述出现在文章结尾处: In Boekaerts' (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources, 可见，情绪可以有助于学习效率的提高以及获取更多学习资源，此处对应的人名是Bockaerts。 因此本题答案为E。\n\n题号：21\n\n译文：有天赋的儿童受益于亲属给予的适当支持。\n\n定位词：support from close relatives\n\n本题说到来自于亲属的支持，在原文第一段中出现了相关的内容，即For example, a very close positive relationship was found when children's IQ scores21were compared with their home educational provision (Freeman, 2010)，此处的home educational provision 即support from close relatives, 而在原文随后一句也提到了educational backup,这表达是Freeman的观点。因此本题答案为A。\n\n题号：22\n\n译文：真正成功的学生已经学会大量关于他们专业的知识。\n\n定位词：a considerable amount about their subject\n\n本题提到关于a considerable amount about their subject的内容，因此需要在文章明确标注人名的观点处寻找与专业知识相关的内容，文中E段说到But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995)，其中a great deal about a specific domain正是题目中a considerable amount about their subject的同义替换，对应人名选择答案即可。因此本题答案为C。",
+          "promptHtml": "[20] ______ Gifted children know how to channel their feelings to assist their learning."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "[21] ______ The very gifted child benefits from appropriate support from close relatives.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6905_403617",
+          "explanation": "题号：18\n\n译文：对于完成精确任务的有天赋的学生，可以花费更少的时间练习。\n\n定位词：Less time, accurate work\n\n本句表达的内容在原文C段出现，即'If they (the gifted) merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice.'此处的make fewer errors与题目中produce accurate work是同义替换，而文中less time can be spent on exercises 相当于文中shorten the practice,这部分内容是Shore和Kanevsky的观点。因此本题答案为B。\n\n题号：19\n\n译文：自主性是一种有价值的工具，可以帮助有天赋的儿童达到他们的目标。\n\n定位词：self-reliance\n\n本题重点强调了self-reliance 的作用，在文章E段出现了相关的信息:Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice,其中independence与题目中self-reliance是同义替换，对应人名Simonton。因此本题答案为D。\n\n题号：20\n\n译文：有天赋的儿童知道如何运用自己的情绪来辅助他们的学习。\n\n定位词：feelings, assist their learning\n\n本题说到通过情绪来帮助学习，首先需要在文中找到相关的说法，关于通过情绪帮助学习的表述出现在文章结尾处: In Boekaerts' (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources, 可见，情绪可以有助于学习效率的提高以及获取更多学习资源，此处对应的人名是Bockaerts。 因此本题答案为E。\n\n题号：21\n\n译文：有天赋的儿童受益于亲属给予的适当支持。\n\n定位词：support from close relatives\n\n本题说到来自于亲属的支持，在原文第一段中出现了相关的内容，即For example, a very close positive relationship was found when children's IQ scores21were compared with their home educational provision (Freeman, 2010)，此处的home educational provision 即support from close relatives, 而在原文随后一句也提到了educational backup,这表达是Freeman的观点。因此本题答案为A。\n\n题号：22\n\n译文：真正成功的学生已经学会大量关于他们专业的知识。\n\n定位词：a considerable amount about their subject\n\n本题提到关于a considerable amount about their subject的内容，因此需要在文章明确标注人名的观点处寻找与专业知识相关的内容，文中E段说到But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995)，其中a great deal about a specific domain正是题目中a considerable amount about their subject的同义替换，对应人名选择答案即可。因此本题答案为C。",
+          "promptHtml": "[21] ______ The very gifted child benefits from appropriate support from close relatives."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "[22] ______ Really successful students have learnt a considerable amount about their subject.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6905_358444",
+          "explanation": "题号：18\n\n译文：对于完成精确任务的有天赋的学生，可以花费更少的时间练习。\n\n定位词：Less time, accurate work\n\n本句表达的内容在原文C段出现，即'If they (the gifted) merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice.'此处的make fewer errors与题目中produce accurate work是同义替换，而文中less time can be spent on exercises 相当于文中shorten the practice,这部分内容是Shore和Kanevsky的观点。因此本题答案为B。\n\n题号：19\n\n译文：自主性是一种有价值的工具，可以帮助有天赋的儿童达到他们的目标。\n\n定位词：self-reliance\n\n本题重点强调了self-reliance 的作用，在文章E段出现了相关的信息:Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice,其中independence与题目中self-reliance是同义替换，对应人名Simonton。因此本题答案为D。\n\n题号：20\n\n译文：有天赋的儿童知道如何运用自己的情绪来辅助他们的学习。\n\n定位词：feelings, assist their learning\n\n本题说到通过情绪来帮助学习，首先需要在文中找到相关的说法，关于通过情绪帮助学习的表述出现在文章结尾处: In Boekaerts' (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources, 可见，情绪可以有助于学习效率的提高以及获取更多学习资源，此处对应的人名是Bockaerts。 因此本题答案为E。\n\n题号：21\n\n译文：有天赋的儿童受益于亲属给予的适当支持。\n\n定位词：support from close relatives\n\n本题说到来自于亲属的支持，在原文第一段中出现了相关的内容，即For example, a very close positive relationship was found when children's IQ scores21were compared with their home educational provision (Freeman, 2010)，此处的home educational provision 即support from close relatives, 而在原文随后一句也提到了educational backup,这表达是Freeman的观点。因此本题答案为A。\n\n题号：22\n\n译文：真正成功的学生已经学会大量关于他们专业的知识。\n\n定位词：a considerable amount about their subject\n\n本题提到关于a considerable amount about their subject的内容，因此需要在文章明确标注人名的观点处寻找与专业知识相关的内容，文中E段说到But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995)，其中a great deal about a specific domain正是题目中a considerable amount about their subject的同义替换，对应人名选择答案即可。因此本题答案为C。",
+          "promptHtml": "[22] ______ Really successful students have learnt a considerable amount about their subject."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Freeman"
+        },
+        {
+          "value": "B",
+          "text": "Shore and Kanevsky"
+        },
+        {
+          "value": "C",
+          "text": "Elshout"
+        },
+        {
+          "value": "D",
+          "text": "Simonton"
+        },
+        {
+          "value": "E",
+          "text": "Boekaerts"
+        }
+      ],
+      "contextHtml": "<p><strong>[18] ______</strong>  Less time can be spent on exercises with gifted pupils who produce accurate work.</p>\n\n<p><strong>[19] ______</strong>  Self-reliance is a valuable tool that helps gifted students reach their goals.</p>\n\n<p><strong>[20] ______</strong>  Gifted children know how to channel their feelings to assist their learning.</p>\n\n<p><strong>[21] ______</strong>  The very gifted child benefits from appropriate support from close relatives.</p>\n\n<p><strong>[22] ______</strong>  Really successful students have learnt a considerable amount about their subject.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 23-26\n\nComplete the sentences below.\n\nWrite NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "One study found a strong connection between children's IQ and the availability of [23] ______at home.",
+          "answers": [
+            "books",
+            "activities"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6905_415942",
+          "explanation": "题号：23\n\n定位词：at home\n\nA段：For example, a very close positiverelationship was found when children's IQ scores were compared with their home educational provision (Freeman,2010). The higher the children's IQ scores, especially over IQ ,130, the better the quality of their educational backup, measured in terms of reported verbalinteractions with parents, number of books and activities in their home etc.\n\n本题问到儿童的智商分数和家庭中某些内容的联系，根据原文我们不难判断这一内容出现在原文A段，题目中的at home这一部分在原文中的对应内容是reported verbal interactions with parents, number of books and activities in their home etc.,而本题需要填人的是两个并列的名词,根据本句和原文句子在含义和内容上的对应，此题答案应为books和activities。\n\n题号：24\n\n定位词：children of average ability\n\nB段：There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation.\n\n本题问能力一般的儿童需要来自教师的更多指导是因为他们缺少什么，原文中关于children of average ability 的内容出现在B段，从对应位置来看，由于缺少internal regulation (也就是之more direction older pupils, for whom external regulation 后提到的self-regulation) ，这些儿童更需要老师给予external regulation,因此本题答案为internal regulation/self-regulation。\n\n题号：25\n\n定位词：Metacognition\n\nB段：To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning metacognition which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should behelped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example.\n\n本题问的是metacognition包括什么，其中出现了并列结构as well as,并且已经给出了并列的两个内容中的一个, 即understanding their own learning strategies, 根据文章B段的内容，可以看到metacognition之后出现了which will include这一内容，因此将之后的内容与题目对应即可，可以看到文中明确出现了并列结构Emotional awareness is also part of metacognition,因此本题答案为emotional awareness。\n\n题号：26\n\n定位词：impressive grades\n\nD段：Although 'spoon-feeding' can produce extremely high examination results, these are not always followed by equally impressive life successes.\n\n本题问的是教师依赖什么可以获取impressive grades in class tests,因此需要在原文中找到好的考试成绩相关的内容，在文中D段可以看到produce extremely high examination results这一表达，因此可以首先确定答案所在句，然后在句中寻找具体符合题目要求的名词表达，可以看到spoon feeding这种方式会获得好的考试分数，因此本题答案为spoon-feeding。",
+          "promptHtml": "One study found a strong connection between children&#x27;s IQ and the availability of [23] ______at home."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Children of average ability seem to need more direction from teachers because they do not have [24] ______.",
+          "answers": [
+            "internal regulation",
+            "self-regulation"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6905_317417",
+          "explanation": "题号：23\n\n定位词：at home\n\nA段：For example, a very close positiverelationship was found when children's IQ scores were compared with their home educational provision (Freeman,2010). The higher the children's IQ scores, especially over IQ ,130, the better the quality of their educational backup, measured in terms of reported verbalinteractions with parents, number of books and activities in their home etc.\n\n本题问到儿童的智商分数和家庭中某些内容的联系，根据原文我们不难判断这一内容出现在原文A段，题目中的at home这一部分在原文中的对应内容是reported verbal interactions with parents, number of books and activities in their home etc.,而本题需要填人的是两个并列的名词,根据本句和原文句子在含义和内容上的对应，此题答案应为books和activities。\n\n题号：24\n\n定位词：children of average ability\n\nB段：There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation.\n\n本题问能力一般的儿童需要来自教师的更多指导是因为他们缺少什么，原文中关于children of average ability 的内容出现在B段，从对应位置来看，由于缺少internal regulation (也就是之more direction older pupils, for whom external regulation 后提到的self-regulation) ，这些儿童更需要老师给予external regulation,因此本题答案为internal regulation/self-regulation。\n\n题号：25\n\n定位词：Metacognition\n\nB段：To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning metacognition which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should behelped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example.\n\n本题问的是metacognition包括什么，其中出现了并列结构as well as,并且已经给出了并列的两个内容中的一个, 即understanding their own learning strategies, 根据文章B段的内容，可以看到metacognition之后出现了which will include这一内容，因此将之后的内容与题目对应即可，可以看到文中明确出现了并列结构Emotional awareness is also part of metacognition,因此本题答案为emotional awareness。\n\n题号：26\n\n定位词：impressive grades\n\nD段：Although 'spoon-feeding' can produce extremely high examination results, these are not always followed by equally impressive life successes.\n\n本题问的是教师依赖什么可以获取impressive grades in class tests,因此需要在原文中找到好的考试成绩相关的内容，在文中D段可以看到produce extremely high examination results这一表达，因此可以首先确定答案所在句，然后在句中寻找具体符合题目要求的名词表达，可以看到spoon feeding这种方式会获得好的考试分数，因此本题答案为spoon-feeding。",
+          "promptHtml": "Children of average ability seem to need more direction from teachers because they do not have [24] ______."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Metacognition involves children understanding their own learning strategies, as well as developing [25] ______.",
+          "answers": [
+            "emotional awareness"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6905_952756",
+          "explanation": "题号：23\n\n定位词：at home\n\nA段：For example, a very close positiverelationship was found when children's IQ scores were compared with their home educational provision (Freeman,2010). The higher the children's IQ scores, especially over IQ ,130, the better the quality of their educational backup, measured in terms of reported verbalinteractions with parents, number of books and activities in their home etc.\n\n本题问到儿童的智商分数和家庭中某些内容的联系，根据原文我们不难判断这一内容出现在原文A段，题目中的at home这一部分在原文中的对应内容是reported verbal interactions with parents, number of books and activities in their home etc.,而本题需要填人的是两个并列的名词,根据本句和原文句子在含义和内容上的对应，此题答案应为books和activities。\n\n题号：24\n\n定位词：children of average ability\n\nB段：There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation.\n\n本题问能力一般的儿童需要来自教师的更多指导是因为他们缺少什么，原文中关于children of average ability 的内容出现在B段，从对应位置来看，由于缺少internal regulation (也就是之more direction older pupils, for whom external regulation 后提到的self-regulation) ，这些儿童更需要老师给予external regulation,因此本题答案为internal regulation/self-regulation。\n\n题号：25\n\n定位词：Metacognition\n\nB段：To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning metacognition which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should behelped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example.\n\n本题问的是metacognition包括什么，其中出现了并列结构as well as,并且已经给出了并列的两个内容中的一个, 即understanding their own learning strategies, 根据文章B段的内容，可以看到metacognition之后出现了which will include这一内容，因此将之后的内容与题目对应即可，可以看到文中明确出现了并列结构Emotional awareness is also part of metacognition,因此本题答案为emotional awareness。\n\n题号：26\n\n定位词：impressive grades\n\nD段：Although 'spoon-feeding' can produce extremely high examination results, these are not always followed by equally impressive life successes.\n\n本题问的是教师依赖什么可以获取impressive grades in class tests,因此需要在原文中找到好的考试成绩相关的内容，在文中D段可以看到produce extremely high examination results这一表达，因此可以首先确定答案所在句，然后在句中寻找具体符合题目要求的名词表达，可以看到spoon feeding这种方式会获得好的考试分数，因此本题答案为spoon-feeding。",
+          "promptHtml": "Metacognition involves children understanding their own learning strategies, as well as developing [25] ______."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Teachers who rely on what is known as [26] ______ often produce sets of impressive grades in class tests.",
+          "answers": [
+            "spoon-feeding"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6905_501289",
+          "explanation": "题号：23\n\n定位词：at home\n\nA段：For example, a very close positiverelationship was found when children's IQ scores were compared with their home educational provision (Freeman,2010). The higher the children's IQ scores, especially over IQ ,130, the better the quality of their educational backup, measured in terms of reported verbalinteractions with parents, number of books and activities in their home etc.\n\n本题问到儿童的智商分数和家庭中某些内容的联系，根据原文我们不难判断这一内容出现在原文A段，题目中的at home这一部分在原文中的对应内容是reported verbal interactions with parents, number of books and activities in their home etc.,而本题需要填人的是两个并列的名词,根据本句和原文句子在含义和内容上的对应，此题答案应为books和activities。\n\n题号：24\n\n定位词：children of average ability\n\nB段：There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation.\n\n本题问能力一般的儿童需要来自教师的更多指导是因为他们缺少什么，原文中关于children of average ability 的内容出现在B段，从对应位置来看，由于缺少internal regulation (也就是之more direction older pupils, for whom external regulation 后提到的self-regulation) ，这些儿童更需要老师给予external regulation,因此本题答案为internal regulation/self-regulation。\n\n题号：25\n\n定位词：Metacognition\n\nB段：To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning metacognition which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should behelped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example.\n\n本题问的是metacognition包括什么，其中出现了并列结构as well as,并且已经给出了并列的两个内容中的一个, 即understanding their own learning strategies, 根据文章B段的内容，可以看到metacognition之后出现了which will include这一内容，因此将之后的内容与题目对应即可，可以看到文中明确出现了并列结构Emotional awareness is also part of metacognition,因此本题答案为emotional awareness。\n\n题号：26\n\n定位词：impressive grades\n\nD段：Although 'spoon-feeding' can produce extremely high examination results, these are not always followed by equally impressive life successes.\n\n本题问的是教师依赖什么可以获取impressive grades in class tests,因此需要在原文中找到好的考试成绩相关的内容，在文中D段可以看到produce extremely high examination results这一表达，因此可以首先确定答案所在句，然后在句中寻找具体符合题目要求的名词表达，可以看到spoon feeding这种方式会获得好的考试分数，因此本题答案为spoon-feeding。",
+          "promptHtml": "Teachers who rely on what is known as [26] ______ often produce sets of impressive grades in class tests."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p> One study found a strong connection between children&#x27;s IQ and the availability of <strong>[23] ______</strong>at home.</p>\n\n<p>Children of average ability seem to need more direction from teachers because they do not have <strong>[24] ______</strong>.</p>\n\n<p>Metacognition involves children understanding their own learning strategies, as well as developing <strong>[25] ______</strong>.</p>\n\n<p>Teachers who rely on what is known as <strong>[26] ______</strong> often produce sets of impressive grades in class tests.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Gifted children and learning</strong></span></p><p><strong>A</strong>    Internationally, &#x27;giftedness&#x27; is most frequently determined by a score on a general intelligence test, known as an IQ test, which is above a chosen cut-off point, usually at around the top 2-5%. Children&#x27;s educational environment contributes to the IQ score and the way intelligence is used. For example, a very close positive relationship was found when children&#x27;s IQ scores were compared with their home educational provision (Freeman, 2010). The higher the children’s IQ scores, especially over IQ 130, the better the quality of their educational backup, measured in terms of reported verbal interactions with parents, number of books and activities in their home etc. Because IQ tests are decidedly influenced by what the child has learned, they are to some extent measures of current achievement based on age-norms; that is, how well the children have learned to manipulate their knowledge and know-how within the terms of the test. The vocabulary aspect, for example, is dependent on having heard those words. But IQ tests can neither identify the processes of learning and thinking nor predict creativity.</p><p><strong>B  </strong>  Excellence does not emerge without appropriate help. To reach an exceptionally high standard in any area very able children need the means to learn, which includes material to work with and focused challenging tuition - and the encouragement to follow their dream. There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average-ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation. To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning - metacognition - which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should be helped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example.</p><p><strong>C </strong>   High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks. This happens to such a high degree in some children that they appear to be demonstrating talent in particular areas. Overviewing research on the thinking process of highly able children, (Shore and Kanevsky, 1993) put the instructor&#x27;s problem succinctly: &#x27;If they [the gifted] merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice&#x27;. But of course, this is not entirely the case; adjustments have to be made in methods of learning and teaching, to take account of the many ways individuals think.</p><p><strong>D </strong>   Yet in order to learn by themselves, the gifted do need some support from their teachers. Conversely, teachers who have a tendency to &#x27;overdirect&#x27; can diminish their gifted pupils&#x27; learning autonomy. Although &#x27;spoon-feeding&#x27; can produce extremely high examination results, these are not always followed by equally impressive life successes. Too much dependence on the teacher risks loss of autonomy and motivation to discover. However, when teachers help pupils to reflect on their own learning and thinking activities, they increase their pupils&#x27; self-regulation. For a young child, it may be just the simple question &#x27;What have you learned today?&#x27; which helps them to recognize what they are doing. Given that a fundamental goal of education is to transfer to control of learning from teachers to pupils, improving pupils’ learning to learn techniques should be a major outcome of the school experience, especially for the highly competent. There are quite a number of new methods which can help, such as child-initiated learning, ability-peer tutoring, etc. Such practices have been found to be particularly useful for bright children from deprived areas.</p><p><strong>E </strong>   But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995). Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice. Creativity in all forms can be seen as expertise mixed with a high level of motivation (Weisberg, 1993).</p><p><strong>F</strong>    To sum up, learning is affected by emotions of both the individual and significant others. Positive emotions facilitate the creative aspects of learning and negative emotions inhibit it. Fear, for example, can limit the development of curiosity, which is a strong force in scientific advance, because it motivates problem-solving behavior. In Boekaerts’ (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources.</p>"
+}

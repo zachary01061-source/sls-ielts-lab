@@ -1,0 +1,360 @@
+{
+  "id": "cambridge-16-test-2-listening-2",
+  "title": "Dartfield House school",
+  "titleCn": "Dartfield House school",
+  "subject": "listening",
+  "part": 2,
+  "duration": 464,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 2
+  },
+  "sourceQuestionId": "8356",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8356",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Good morning and thank you for coming here today. I’d like to bring you up to date with changes in the school that will affect your children."
+    },
+    {
+      "label": "2",
+      "text": "As you know, the school buildings date from various times: some from the 1970s, some from the last five years, and of course Dartfield House is over a century old. It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed. His heir chose to sell it to the local council, who turned it into offices. A later plan to convert it into a tourist information centre didn’t come about, through lack of money, and instead it formed the nucleus of this school when it opened 40 years ago."
+    },
+    {
+      "label": "3",
+      "text": "The school has grown as the local population has increased, and I can now give you some news about the lower school site, which is separated from the main site by a road. Planning permission has been granted for development of both sites. The lower school will move to new buildings that will be constructed on the main site. Developers will construct houses on the existing lower school site. Work on the new school buildings should start within the next few months."
+    },
+    {
+      "label": "4",
+      "text": "A more imminent change concerns the catering facilities and the canteen. The canteen is always very busy throughout the lunch period – in fact it’s often full to capacity, because a lot of our pupils like the food that’s on offer there. But there’s only one serving point, so most pupils have to wait a considerable time to be served. This is obviously unsatisfactory, as they may have hardly finished their lunch before afternoon lessons start."
+    },
+    {
+      "label": "5",
+      "text": "So we’ve had a new Food Hall built, and this will come into use next week. It’ll have several serving areas, and I’ll give you more details about those in a minute, but one thing we ask you to do, to help in the smooth running of the Food Hall, is to discuss with your children each morning which type of food they want to eat that day, so they can go straight to the relevant serving point. There won’t be any junk food – everything on offer will be healthy – and there’s no change to the current system of paying for lunches by topping up your child’s electronic payment card online."
+    },
+    {
+      "label": "6",
+      "text": "You may be wondering what will happen to the old canteen. We’ll still have tables and chairs in there, and pupils can eat food from the Food Hall or lunch they’ve brought from home. Eventually we may use part of the canteen for storage, but first we’ll see how many pupils go in there at lunchtime."
+    },
+    {
+      "label": "7",
+      "text": "OK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses."
+    },
+    {
+      "label": "8",
+      "text": "One serving point we call World Adventures. This will serve a different country’s cuisine each day, maybe Chinese one day and Lebanese the next. The menus will be planned for a week at a time, so pupils will know what’s going to be available the whole of that week."
+    },
+    {
+      "label": "9",
+      "text": "Street Life is also international, with food from three particular cultures. We’ll ask pupils to make suggestions, so perhaps sometimes there’ll be food from Thailand, Ethiopia and Mexico, and then one of them will be replaced by Jamaican food for a week or two."
+    },
+    {
+      "label": "10",
+      "text": "The Speedy Italian serving point will cater particularly for the many pupils who don’t eat meat or fish: they can be sure that all the food served there is suitable for them. There’ll be plenty of variety, so they shouldn’t get bored with the food."
+    },
+    {
+      "label": "11",
+      "text": "OK, that’s all on the new Food Hall. Now after-school lessons. These are very popular with pupils, particularly swimming – in fact there’s a waiting list for lessons. Cycling is another favourite, and I’m delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions. It means that more and more cycle to and from school every day. As you know, we have a well-equipped performance centre, and we’re going to start drama classes in there, too. Pupils will be able to join in just for fun or work up to taking part in a play – we hope to put on at least one a year. We already teach a number of pupils to use the sound and lighting systems in the centre. And a former pupil has given a magnificent grand piano to the school, so a few pupils will be able to learn at the school instead of going to the local college, as many of them do at the moment."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "PART 2 Questions 11–20\n\nQuestions 11–15\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Dartfield House school used to be",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8356_163898",
+          "options": [
+            {
+              "value": "A",
+              "text": "a tourist information centre."
+            },
+            {
+              "value": "B",
+              "text": "a private home."
+            },
+            {
+              "value": "C",
+              "text": "a local council building."
+            }
+          ],
+          "explanation": "11. 通过读题可知本题需要选择Dartfield House以前是用作什么用途。专有名词Dartfield House容易定位。原文提及这栋楼的原有主人本来想把它建成family home，但他died before it was completed，排除B选项。之后local council出现，紧跟着提到turned it into offices，与C选项相符。A选项排除，因为didn’t come about，并未实现。本题选项在录音中全部出现，比较容易混淆。考生可以通过转折关系及否定关系帮助确定答案。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "What is planned with regard to the lower school?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8356_240018",
+          "options": [
+            {
+              "value": "A",
+              "text": "All buildings on the main site will be improved."
+            },
+            {
+              "value": "B",
+              "text": "The lower school site will be used for new homes."
+            },
+            {
+              "value": "C",
+              "text": "Additional school buildings will be constructed on the lower school site."
+            }
+          ],
+          "explanation": "12. 题干词lower school原词重现，planned替换为planning，可用于定位。原文提及会在existing lower school site上construct houses，与选项B中的be used for new homes相符，同时可排除选项C。选项A只提及main site，与原文中developments on both sites不符。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "The catering has been changed because of",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8356_617354",
+          "options": [
+            {
+              "value": "A",
+              "text": "long queuing times."
+            },
+            {
+              "value": "B",
+              "text": "changes to the school timetable."
+            },
+            {
+              "value": "C",
+              "text": "dissatisfaction with the menus."
+            }
+          ],
+          "explanation": "13. 通过读题可知，本题需要选择饮食服务变化的原因。快速对比选项可知，原因为人多排队长、课表变化、学生不满意菜单三者之一。题干词catering原词重现，可直接定位，之后的wait a considerable time可直接对应选项A的long queuing times。原文未提及课表变化，因此排除选项B。另外unsatisfactory虽然可以对应选项C中的dissatisfaction，但这里指的是排队让学生不开心，和menus无关，前面也提及学生like the food，因此排除选项C。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Parents are asked to",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8356_642525",
+          "options": [
+            {
+              "value": "A",
+              "text": "help their children to decide in advance which serving point to use."
+            },
+            {
+              "value": "B",
+              "text": "make sure their children have enough money for food."
+            },
+            {
+              "value": "C",
+              "text": "advise their children on healthy food to eat."
+            }
+          ],
+          "explanation": "14. 题干中的被动结构are asked to在原文中替换为we ask you to do，定位比较容易。学校让家长在早晨和孩子讨论好中午要吃哪种食物，所以孩子就能直接去对应的serving points，因此选定A选项。其中help their children to decide在原文中替换为discuss，in advance解释为在morning讨论午餐吃什么。原文中everything… healthy可帮助排除选项C，之后提到付费方式，但表述与选项B不符。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "What does the speaker say about the existing canteen?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8356_980743",
+          "options": [
+            {
+              "value": "A",
+              "text": "Food will still be served there."
+            },
+            {
+              "value": "B",
+              "text": "Only staff will have access to it."
+            },
+            {
+              "value": "C",
+              "text": "Pupils can take their food into it."
+            }
+          ],
+          "explanation": "15. 题干词existing canteen在原文中替换为old canteen，定位比较容易。原文提及pupils can eat food from…或者lunch…brought from home，因此直接选定C选项。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 16–18\n\nWhat comment does the speaker make about each of the following serving points in the Food Hall?\n\nChoose THREE answers from the box and write the correct letter, A–D, next to Questions 16–18.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "World Adventures [16] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8356_571147",
+          "explanation": "16. World Adventures 原文：…will serve a different country’s cuisine each day, ...\n\n17. Street Life 原文：We’ll ask pupils to make suggestions, …\n\n18. Speedy Italian 原文：…will cater particularly for the many pupils who don’t eat meat or fish…",
+          "promptHtml": "World Adventures [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Street Life [17] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8356_220736",
+          "explanation": "16. World Adventures 原文：…will serve a different country’s cuisine each day, ...\n\n17. Street Life 原文：We’ll ask pupils to make suggestions, …\n\n18. Speedy Italian 原文：…will cater particularly for the many pupils who don’t eat meat or fish…",
+          "promptHtml": "Street Life [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Speedy Italian [18] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8356_297277",
+          "explanation": "16. World Adventures 原文：…will serve a different country’s cuisine each day, ...\n\n17. Street Life 原文：We’ll ask pupils to make suggestions, …\n\n18. Speedy Italian 原文：…will cater particularly for the many pupils who don’t eat meat or fish…",
+          "promptHtml": "Speedy Italian [18] ______"
+        }
+      ],
+      "sourceType": "text",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/ede2ebe5fa0db2fbdf7610b4a25aad78.png\" alt=\"原题配图\"></p>\n\n<p><b>Food available at serving points in Food Hall</b></p>\n\n<p>World Adventures <strong>[16] ______</strong><br>\nStreet Life <strong>[17] ______</strong><br>\nSpeedy Italian <strong>[18] ______</strong></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 19 and 20\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Which TWO optional after-school lessons are new?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8356_702349",
+          "options": [
+            {
+              "value": "A",
+              "text": "swimming"
+            },
+            {
+              "value": "B",
+              "text": "piano"
+            },
+            {
+              "value": "C",
+              "text": "acting"
+            },
+            {
+              "value": "D",
+              "text": "cycling"
+            },
+            {
+              "value": "E",
+              "text": "theatre sound and lighting"
+            }
+          ],
+          "explanation": "19~20 通过读题可知本题需要选择两种新开设的课外活动，注意题干关键词new。选项A和D在录音中最先被提到，但原文中的表述为swimming和cycling都很popular，并非新的活动，因此排除。原文随后提到drama，对应表述为we’re going to以及will，直接对应选项C。之后原文中提到sound and lighting，但用了already，由此排除E。最后原文中piano对应的表达为will be able to，与选项B相符。因此答案为B和C。",
+          "setId": "Q8356_702349",
+          "blockId": "Q8356_702349"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Which TWO optional after-school lessons are new?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8356_702349",
+          "options": [
+            {
+              "value": "A",
+              "text": "swimming"
+            },
+            {
+              "value": "B",
+              "text": "piano"
+            },
+            {
+              "value": "C",
+              "text": "acting"
+            },
+            {
+              "value": "D",
+              "text": "cycling"
+            },
+            {
+              "value": "E",
+              "text": "theatre sound and lighting"
+            }
+          ],
+          "explanation": "19~20 通过读题可知本题需要选择两种新开设的课外活动，注意题干关键词new。选项A和D在录音中最先被提到，但原文中的表述为swimming和cycling都很popular，并非新的活动，因此排除。原文随后提到drama，对应表述为we’re going to以及will，直接对应选项C。之后原文中提到sound and lighting，但用了already，由此排除E。最后原文中piano对应的表达为will be able to，与选项B相符。因此答案为B和C。",
+          "setId": "Q8356_702349",
+          "blockId": "Q8356_702349"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "swimming"
+        },
+        {
+          "value": "B",
+          "text": "piano"
+        },
+        {
+          "value": "C",
+          "text": "acting"
+        },
+        {
+          "value": "D",
+          "text": "cycling"
+        },
+        {
+          "value": "E",
+          "text": "theatre sound and lighting"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Good morning and thank you for coming here today. I’d like to bring you up to date with changes in the school that will affect your children.</p>\n\n<p>As you know, the school buildings date from various times: some from the 1970s, some from the last five years, and of course Dartfield House is over a century old. It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed. His heir chose to sell it to the local council, who turned it into offices. A later plan to convert it into a tourist information centre didn’t come about, through lack of money, and instead it formed the nucleus of this school when it opened 40 years ago.</p>\n\n<p>The school has grown as the local population has increased, and I can now give you some news about the lower school site, which is separated from the main site by a road. Planning permission has been granted for development of both sites. The lower school will move to new buildings that will be constructed on the main site. Developers will construct houses on the existing lower school site. Work on the new school buildings should start within the next few months.</p>\n\n<p>A more imminent change concerns the catering facilities and the canteen. The canteen is always very busy throughout the lunch period – in fact it’s often full to capacity, because a lot of our pupils like the food that’s on offer there. But there’s only one serving point, so most pupils have to wait a considerable time to be served. This is obviously unsatisfactory, as they may have hardly finished their lunch before afternoon lessons start.</p>\n\n<p>So we’ve had a new Food Hall built, and this will come into use next week. It’ll have several serving areas, and I’ll give you more details about those in a minute, but one thing we ask you to do, to help in the smooth running of the Food Hall, is to discuss with your children each morning which type of food they want to eat that day, so they can go straight to the relevant serving point. There won’t be any junk food – everything on offer will be healthy – and there’s no change to the current system of paying for lunches by topping up your child’s electronic payment card online.</p>\n\n<p>You may be wondering what will happen to the old canteen. We’ll still have tables and chairs in there, and pupils can eat food from the Food Hall or lunch they’ve brought from home. Eventually we may use part of the canteen for storage, but first we’ll see how many pupils go in there at lunchtime.</p>\n\n<p>OK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses.</p>\n\n<p>One serving point we call World Adventures. This will serve a different country’s cuisine each day, maybe Chinese one day and Lebanese the next. The menus will be planned for a week at a time, so pupils will know what’s going to be available the whole of that week.</p>\n\n<p>Street Life is also international, with food from three particular cultures. We’ll ask pupils to make suggestions, so perhaps sometimes there’ll be food from Thailand, Ethiopia and Mexico, and then one of them will be replaced by Jamaican food for a week or two.</p>\n\n<p>The Speedy Italian serving point will cater particularly for the many pupils who don’t eat meat or fish: they can be sure that all the food served there is suitable for them. There’ll be plenty of variety, so they shouldn’t get bored with the food.</p>\n\n<p>OK, that’s all on the new Food Hall. Now after-school lessons. These are very popular with pupils, particularly swimming – in fact there’s a waiting list for lessons. Cycling is another favourite, and I’m delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions. It means that more and more cycle to and from school every day. As you know, we have a well-equipped performance centre, and we’re going to start drama classes in there, too. Pupils will be able to join in just for fun or work up to taking part in a play – we hope to put on at least one a year. We already teach a number of pupils to use the sound and lighting systems in the centre. And a former pupil has given a magnificent grand piano to the school, so a few pupils will be able to learn at the school instead of going to the local college, as many of them do at the moment.</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8356.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 464.222
+  }
+}

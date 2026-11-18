@@ -1,0 +1,342 @@
+{
+  "id": "38884a59-d14d-4a36-9bd8-9afd259e0798",
+  "title": "Introduction to taxation",
+  "titleCn": "税务入门：报税流程与注意事项",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/38884a59-d14d-4a36-9bd8-9afd259e0798",
+  "duration": 429,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,080"
+    },
+    {
+      "label": "2",
+      "text": "You will hear a man from a tax agency introducing taxation."
+    },
+    {
+      "label": "3",
+      "text": "00:00:05,340"
+    },
+    {
+      "label": "4",
+      "text": "First, you have some time to look at questions one to five."
+    },
+    {
+      "label": "5",
+      "text": "00:00:22,400"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions one to five."
+    },
+    {
+      "label": "7",
+      "text": "00:00:41,820"
+    },
+    {
+      "label": "8",
+      "text": "Hello, all. Thank you for attending tonight's presentation. I am Mr. Dawkins from the Central Government Tax Agency, and I am here to provide you with information regarding filing and paying your taxes. First off, let me tell you that in preparing to file your taxes, evidence that can confirm your actual income has to be adequate. Then it should be submitted to the local authority. You can't just guess what your income was, or you may be charged a large sum of penalty. Income can come in different forms, including wage statements, independent freelancer statements. Currently, apart from invoices, we also take bank statements. Our tax period usually lasts for one year. Different states have different policies, but here it runs from April to the end of March next year. All of your current supervisors within the tax period are required to provide you with a wage statement. If you have not received an annual wage statement within one month of the end of the fiscal year, you should contact us and we will request them to send this statement immediately. But you need to ask your employers to provide the employment statement because that's something we can't help. A failure to pay, along with the evasion of or resistance to taxation, is punishable by law. If you do not file an annual tax return, you may find that you will have to pay a penalty up to three thousand dollars in some instances. So you'd better file your taxes promptly, since the government does not tolerate this. Everyone should make sure they file a tax return in a timely manner."
+    },
+    {
+      "label": "9",
+      "text": "00:02:25,740"
+    },
+    {
+      "label": "10",
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions six to ten."
+    },
+    {
+      "label": "11",
+      "text": "00:02:41,980"
+    },
+    {
+      "label": "12",
+      "text": "Now listen and answer questions six to ten."
+    },
+    {
+      "label": "13",
+      "text": "00:03:03,800"
+    },
+    {
+      "label": "14",
+      "text": "Now, I suppose you have known something about tax. They are very important. I hope you can always keep them in mind. And here are some random tips which are also helpful. When you purchase a new car during the tax period, please note that you will need to work out the latest tax rate and pay a line item tax for this. For those who just started getting to know tax filing, I do not recommend that you take multiple types of taxes into consideration at your first attempt. The calculation will be more straightforward with just one type of tax. Please know that most people use their computers to deal with their taxes. When using your computer to do your taxes or subscribe to an online tax service, you will find many advantages that don't exist when you do it at an office. One of the advantages of preparing your taxes online is that you can save whatever information you have gathered and then resume your preparations at another time. In doing this, since the tax information won't take much of the storage space, you don't have to worry about whether your computer will be able to accommodate the information you have gathered. Also, in doing your taxes online or in using an online tax service, you will find that mistakes are less likely to happen as the online tax preparation programs have safeguards to prevent you from omitting required information. Generally, to begin working on your taxes, you will go to the tax office and inquire the office workers and finally fill in some forms. But for now, you can go to our website and download some. If necessary, you can take some time to complete a questionnaire which will give you advice on which type of form you should fill in. If there are any questions you cannot answer, you can call to speak to someone in person. Thank you for attending tonight's presentation. Please know that my Central Government Tax Agency associates and I are always willing to help you with your tax preparation by answering any questions you might have."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "3f128b12-c3bc-4a99-ab2b-ed590d870404",
+          "prompt": "**To certify income**\n·enough **31**_____ is needed, including:",
+          "answers": [
+            "evidence"
+          ],
+          "rawAnswer": "evidence",
+          "evidence": {
+            "paragraph": "",
+            "quote": "evidence that can confirm your actual income has to be adequate"
+          },
+          "keywordPairs": [
+            {
+              "question": "enough",
+              "article": "adequate"
+            },
+            {
+              "question": "certify",
+              "article": "confirm"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "579b99ef-0036-4d13-bcbb-fac601a8070c",
+          "prompt": "- wage statements\n- independent freelancer statements\n- invoices\n- **32**_____ statements",
+          "answers": [
+            "bank"
+          ],
+          "rawAnswer": "bank",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Currently, apart from invoices, we also take bank statements"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "d1eb617b-733d-4893-933f-37722228b5a8",
+          "prompt": "**A tax year**\n·starts from **33**_____",
+          "answers": [
+            "April"
+          ],
+          "rawAnswer": "April",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Different states have different policies, but here it runs from April to the end of March next year"
+          },
+          "keywordPairs": [
+            {
+              "question": "starts from",
+              "article": "runs from"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "ecb935f4-9e54-4627-90e5-ca42fc667b2f",
+          "prompt": "·requires a statement of employment from **34**_____",
+          "answers": [
+            "employers"
+          ],
+          "rawAnswer": "employers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But you need to ask your employers to provide the employment statement because that's something we can't help"
+          },
+          "keywordPairs": [
+            {
+              "question": "requires",
+              "article": "need to ask"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "8c7e5662-42f4-41fe-89b7-5fc7942c6b70",
+          "prompt": "**Penalty for falling to pay tax**\n·the maximum amount is **35**_____",
+          "answers": [
+            "3000"
+          ],
+          "rawAnswer": "3000",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you do not file an annual tax return, you may find that you will have to pay a penalty up to three thousand dollars in some instances"
+          },
+          "keywordPairs": [
+            {
+              "question": "maximum amount",
+              "article": "up to"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "123d769b-c622-40bb-9e78-cbdd050846e9",
+          "prompt": "**Tips**\n·Tax rate will be changed when buying a **36**_____ .",
+          "answers": [
+            "car"
+          ],
+          "rawAnswer": "car",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When you purchase a new car during the tax period, please note that you will need to work out the latest tax rate and pay a line item tax for this"
+          },
+          "keywordPairs": [
+            {
+              "question": "buying",
+              "article": "purchase"
+            },
+            {
+              "question": "tax rate will be changed",
+              "article": "need to work out the latest tax rate"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "b0aa3bb3-b6d7-4bc7-bd13-c7d9e7bff598",
+          "prompt": "·**37**_____ for one single kind of tax is easier",
+          "answers": [
+            "calculation"
+          ],
+          "rawAnswer": "calculation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The calculation will be more straightforward with just one type of tax"
+          },
+          "keywordPairs": [
+            {
+              "question": "kind",
+              "article": "type"
+            },
+            {
+              "question": "easier",
+              "article": "more straightforward"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "88fd270c-623e-4150-babd-379cbca9203e",
+          "prompt": "**Online tax service**\n·Information occupies small **38**_____ space.",
+          "answers": [
+            "storage"
+          ],
+          "rawAnswer": "storage",
+          "evidence": {
+            "paragraph": "",
+            "quote": "since the tax information won't take much of the storage space"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "a4ac83de-79fe-496f-b670-d386c56cf970",
+          "prompt": "·Fewer **39**_____ are made.",
+          "answers": [
+            "mistakes"
+          ],
+          "rawAnswer": "mistakes",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Also, in doing your taxes online or in using an online tax service, you will find that mistakes are less likely to happen"
+          },
+          "keywordPairs": [
+            {
+              "question": "Fewer",
+              "article": "less likely to happen"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "b029a8f3-6aa8-4b4c-b61f-3705eac1d2ea",
+          "prompt": "·A **40**_____ is helpful to find the right kind of form.",
+          "answers": [
+            "questionnaire"
+          ],
+          "rawAnswer": "questionnaire",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If necessary, you can take some time to complete a questionnaire which will give you advice on which type of form you should fill in"
+          },
+          "keywordPairs": [
+            {
+              "question": "helpful",
+              "article": "will give you advice"
+            },
+            {
+              "question": "find the right kind of form",
+              "article": "which type of form you should fill in"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,080</p><p>You will hear a man from a tax agency introducing taxation. </p><p>00:00:05,340</p><p>First, you have some time to look at questions one to five. </p><p>00:00:22,400</p><p>Now listen carefully and answer questions one to five. </p><p>00:00:41,820</p><p>Hello, all. Thank you for attending tonight's presentation. I am Mr. Dawkins from the Central Government Tax Agency, and I am here to provide you with information regarding filing and paying your taxes. First off, let me tell you that in preparing to file your taxes, evidence that can confirm your actual income has to be adequate. Then it should be submitted to the local authority. You can't just guess what your income was, or you may be charged a large sum of penalty. Income can come in different forms, including wage statements, independent freelancer statements. Currently, apart from invoices, we also take bank statements. Our tax period usually lasts for one year. Different states have different policies, but here it runs from April to the end of March next year. All of your current supervisors within the tax period are required to provide you with a wage statement. If you have not received an annual wage statement within one month of the end of the fiscal year, you should contact us and we will request them to send this statement immediately. But you need to ask your employers to provide the employment statement because that's something we can't help. A failure to pay, along with the evasion of or resistance to taxation, is punishable by law. If you do not file an annual tax return, you may find that you will have to pay a penalty up to three thousand dollars in some instances. So you'd better file your taxes promptly, since the government does not tolerate this. Everyone should make sure they file a tax return in a timely manner. </p><p>00:02:25,740</p><p>Before you hear the rest of the conversation, you have some time to look at questions six to ten. </p><p>00:02:41,980</p><p>Now listen and answer questions six to ten. </p><p>00:03:03,800</p><p>Now, I suppose you have known something about tax. They are very important. I hope you can always keep them in mind. And here are some random tips which are also helpful. When you purchase a new car during the tax period, please note that you will need to work out the latest tax rate and pay a line item tax for this. For those who just started getting to know tax filing, I do not recommend that you take multiple types of taxes into consideration at your first attempt. The calculation will be more straightforward with just one type of tax. Please know that most people use their computers to deal with their taxes. When using your computer to do your taxes or subscribe to an online tax service, you will find many advantages that don't exist when you do it at an office. One of the advantages of preparing your taxes online is that you can save whatever information you have gathered and then resume your preparations at another time. In doing this, since the tax information won't take much of the storage space, you don't have to worry about whether your computer will be able to accommodate the information you have gathered. Also, in doing your taxes online or in using an online tax service, you will find that mistakes are less likely to happen as the online tax preparation programs have safeguards to prevent you from omitting required information. Generally, to begin working on your taxes, you will go to the tax office and inquire the office workers and finally fill in some forms. But for now, you can go to our website and download some. If necessary, you can take some time to complete a questionnaire which will give you advice on which type of form you should fill in. If there are any questions you cannot answer, you can call to speak to someone in person. Thank you for attending tonight's presentation. Please know that my Central Government Tax Agency associates and I are always willing to help you with your tax preparation by answering any questions you might have.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/38884a59-d14d-4a36-9bd8-9afd259e0798.mp3",
+    "durationSeconds": 308.16,
+    "sizeBytes": 1232985,
+    "sha256": "c6c9aeb0f7b53aa4391bce9664e47506b9328c3527a3347aa1ef6ed9bebc6f98",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:31:24Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347162837_xyvu22_55e7b1a1.mp3"
+}

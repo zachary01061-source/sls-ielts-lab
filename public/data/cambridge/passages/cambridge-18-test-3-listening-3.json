@@ -1,0 +1,455 @@
+{
+  "id": "cambridge-18-test-3-listening-3",
+  "title": "C18T3L3",
+  "titleCn": "C18T3L3",
+  "subject": "listening",
+  "part": 3,
+  "duration": 355,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 3
+  },
+  "sourceQuestionId": "8461",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8461",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Young man: That seminar yesterday on automation and the future of work was really good, wasn’t it? Looking at the first industrial revolution in Britain in the 19th century and seeing how people reacted to massive change was a real eye-opener."
+    },
+    {
+      "label": "2",
+      "text": "Young woman: Yes. It was interesting to hear how people felt about automation then and what challenges they faced. I didn’t know that first started with workers in the textile industry."
+    },
+    {
+      "label": "3",
+      "text": "Young man: With those protesting workers called the Luddites destroying their knitting machines because they were so worried about losing their jobs."
+    },
+    {
+      "label": "4",
+      "text": "Young woman: Yes, and ultimately, they didn’t achieve anything. And anyway, industrialisation created more jobs than it destroyed."
+    },
+    {
+      "label": "5",
+      "text": "Young man: Yes, that’s true – but it probably didn’t seem a positive thing at the time. I can see why the Luddites felt so threatened."
+    },
+    {
+      "label": "6",
+      "text": "Young woman: I know. I’m sure I would have felt the same. The discussion about the future of work was really optimistic for a change. I like the idea that work won’t involve doing boring, repetitive tasks, as robots will do all that. Normally, you only hear negative stuff about the future."
+    },
+    {
+      "label": "7",
+      "text": "Young man: Bit too optimistic, don’t you think? For example, I can’t see how people are about to have more leisure time, when all the evidence shows people are spending longer than ever at work."
+    },
+    {
+      "label": "8",
+      "text": "Young woman: No – that’s true. And what about lower unemployment? I’m not so sure about that."
+    },
+    {
+      "label": "9",
+      "text": "Young man: Perhaps in the long term – but not in the foreseeable future."
+    },
+    {
+      "label": "10",
+      "text": "Young woman: Mmm. And I expect most people will be expected to work until they’re much older – as everyone’s living much longer."
+    },
+    {
+      "label": "11",
+      "text": "Young man: That’s already happening."
+    },
+    {
+      "label": "12",
+      "text": "Young woman: I enjoyed all that stuff on how technology has changed some jobs and how they’re likely to change in the near future."
+    },
+    {
+      "label": "13",
+      "text": "Young man: Yeah, incredible. Like accountants. You might think all the technological innovations would have put them out of a job, but in fact there are more of them than ever. They’re still really in demand and have become far more efficient."
+    },
+    {
+      "label": "14",
+      "text": "Young woman: Right. That was amazing. Twenty times more accountants in this country compared to the 19th century."
+    },
+    {
+      "label": "15",
+      "text": "Young man: I know. I’d never have thought that demand for hairdressing would have gone up so much in the last hundred years. One hairdresser for every 287 people now, compared to one for over 1,500."
+    },
+    {
+      "label": "16",
+      "text": "Young woman: Yeah because people’s earning power has gone up so they can afford to spend more on personal services like that."
+    },
+    {
+      "label": "17",
+      "text": "Young man: But technology hasn’t changed the actual job that much."
+    },
+    {
+      "label": "18",
+      "text": "Young woman: No, they’ve got hairdryers, etc. but it’s one job where you don’t depend on a computer … The kind of work that administrative staff do has changed enormously, thanks to technology. Even 20 years ago there were secretaries doing dictation and typing."
+    },
+    {
+      "label": "19",
+      "text": "Young man: Yes. Really boring compared to these days, when they’re given much more responsibility and higher status."
+    },
+    {
+      "label": "20",
+      "text": "Young woman: Mmm. A lot of graduates go in for this kind of work now … I’d expected there to be a much bigger change in the number of agricultural workers in the 19th century. But the 1871 census showed that roughly 25% of the population worked on the land."
+    },
+    {
+      "label": "21",
+      "text": "Young man: Yeah, I’d have assumed it would be more than 50%. Now it’s less than 0.2%."
+    },
+    {
+      "label": "22",
+      "text": "Young woman: What about care workers?"
+    },
+    {
+      "label": "23",
+      "text": "Young man: They barely existed in the 19th century as people’s lifespan was so much shorter. But now of course this sector will see huge growth."
+    },
+    {
+      "label": "24",
+      "text": "Young woman: Yeah – and it’s hard enough to meet current demand. The future looks quite bleak for bank clerks. They’ve been in decline since ATMs were introduced in the eighties."
+    },
+    {
+      "label": "25",
+      "text": "Young man: And technology will certainly make most of the jobs they do now redundant, I think."
+    },
+    {
+      "label": "26",
+      "text": "Young woman: I agree, although the situation may change. It’s very hard to predict what will happen."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "multi",
+      "instruction": "Questions 21 and 22\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Which TWO opinions about the Luddites do the students express?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8461_325089",
+          "options": [
+            {
+              "value": "A",
+              "text": "Their actions were ineffective."
+            },
+            {
+              "value": "B",
+              "text": "They are still influential today."
+            },
+            {
+              "value": "C",
+              "text": "They have received unfair criticism."
+            },
+            {
+              "value": "D",
+              "text": "They were proved right."
+            },
+            {
+              "value": "E",
+              "text": "Their attitude is understandable."
+            }
+          ],
+          "explanation": "首先题干关键词Luddites在原文中原词重现，大致定位到本题。原文中didn’t achieve anything对应A选项中包含否定前缀的ineffective。之后提及工业化创造更多的工作后，出现转折词but。后来男生说的I can see why…对应E选项的understandable，选项中的attitude即原文中的felt so threatened。因此这两题选A、E。",
+          "setId": "Q8461_325089",
+          "blockId": "Q8461_325089"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Which TWO opinions about the Luddites do the students express?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8461_325089",
+          "options": [
+            {
+              "value": "A",
+              "text": "Their actions were ineffective."
+            },
+            {
+              "value": "B",
+              "text": "They are still influential today."
+            },
+            {
+              "value": "C",
+              "text": "They have received unfair criticism."
+            },
+            {
+              "value": "D",
+              "text": "They were proved right."
+            },
+            {
+              "value": "E",
+              "text": "Their attitude is understandable."
+            }
+          ],
+          "explanation": "首先题干关键词Luddites在原文中原词重现，大致定位到本题。原文中didn’t achieve anything对应A选项中包含否定前缀的ineffective。之后提及工业化创造更多的工作后，出现转折词but。后来男生说的I can see why…对应E选项的understandable，选项中的attitude即原文中的felt so threatened。因此这两题选A、E。",
+          "setId": "Q8461_325089",
+          "blockId": "Q8461_325089"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Their actions were ineffective."
+        },
+        {
+          "value": "B",
+          "text": "They are still influential today."
+        },
+        {
+          "value": "C",
+          "text": "They have received unfair criticism."
+        },
+        {
+          "value": "D",
+          "text": "They were proved right."
+        },
+        {
+          "value": "E",
+          "text": "Their attitude is understandable."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 23 and 24\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 3,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Which TWO predictions about the future of work are the students doubtful about?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8461_173648",
+          "options": [
+            {
+              "value": "A",
+              "text": "Work will be more rewarding."
+            },
+            {
+              "value": "B",
+              "text": "Unemployment will fall."
+            },
+            {
+              "value": "C",
+              "text": "People will want to delay retiring."
+            },
+            {
+              "value": "D",
+              "text": "Working hours will be shorter."
+            },
+            {
+              "value": "E",
+              "text": "People will change jobs more frequently."
+            }
+          ],
+          "explanation": "原文中future of work原词重现，题干关键词大致定位。同时需要注意题干中问的是doubtful about。男生的举例中出现否定表述can’t see，相关内容是more leisure time，但有证据表明工作时间更长longer，这里质疑的内容对应D选项中的working hours和shorter。之后女生问到lower unemployment，对应B选项中的原词unemployment及同义替换fall，之后出现否定表述not so sure，对应到题干的doubtful。因此这两题选B、D。",
+          "setId": "Q8461_173648",
+          "blockId": "Q8461_173648"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Which TWO predictions about the future of work are the students doubtful about?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8461_173648",
+          "options": [
+            {
+              "value": "A",
+              "text": "Work will be more rewarding."
+            },
+            {
+              "value": "B",
+              "text": "Unemployment will fall."
+            },
+            {
+              "value": "C",
+              "text": "People will want to delay retiring."
+            },
+            {
+              "value": "D",
+              "text": "Working hours will be shorter."
+            },
+            {
+              "value": "E",
+              "text": "People will change jobs more frequently."
+            }
+          ],
+          "explanation": "原文中future of work原词重现，题干关键词大致定位。同时需要注意题干中问的是doubtful about。男生的举例中出现否定表述can’t see，相关内容是more leisure time，但有证据表明工作时间更长longer，这里质疑的内容对应D选项中的working hours和shorter。之后女生问到lower unemployment，对应B选项中的原词unemployment及同义替换fall，之后出现否定表述not so sure，对应到题干的doubtful。因此这两题选B、D。",
+          "setId": "Q8461_173648",
+          "blockId": "Q8461_173648"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Work will be more rewarding."
+        },
+        {
+          "value": "B",
+          "text": "Unemployment will fall."
+        },
+        {
+          "value": "C",
+          "text": "People will want to delay retiring."
+        },
+        {
+          "value": "D",
+          "text": "Working hours will be shorter."
+        },
+        {
+          "value": "E",
+          "text": "People will change jobs more frequently."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 25–30\n\nWhat comment do the students make about each of the following jobs?\n\nChoose SIX answers from the box and drag the correct answer, A–G, next to Questions 25–30.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Accountants [25] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8461_534737",
+          "explanation": "25. Accountants在原文中原词重现，定位在本题。原文中job出现之后，出现转折表述but，之后提及的more和in demand对应G选项中employment方面的提升，far more efficient对应选项中productivity方面的提升。\n\n26. Hairdressers在原文中原词重现，定位在本题。原文中demand for hairdressing大致对应选项E中的jobs，gone up so much对应选项中的huge increase，之后提及的earning power对应选项中的disposable income，gone up又一次出现，对应选项中的higher。\n\n27. Administrative staff在原文中原词重现，定位在本题。这道题是在比较的过程中进行反义对应，原文虽然提及Really boring，但是这里是对比these days，也就是说近来比以往更有趣，对应B选项的more interesting。而原文中后来说到的much more和higher，也进一步表现了比较。\n\n28. Agricultural workers在原文中原词重现，定位在本题。原文中女生首先讲到1871年的统计数据为大约25%，男生说以为会多于50%，而现在的数据是少于0.2%。从这些数据中表现出的暴跌，可以对应C选项中的fallen dramatically。\n\n29. Care workers在原文中原词重现，定位在本题。之后男生讲到在19世纪时barely existed，后面出现转折表述but，接下来will和huge growth可以对应F选项中的likely和significant rise。这种职业需求在之后提及的hard enough to meet current demand中再次表现出来，且demand原词重现。\n\n30. Bank clerks在原文中原词重现，定位在本题。首先女生提及decline，之后男生认为将会使现在做的大部分相关工作变得不被需要，redundant对应A选项中的at risk。",
+          "promptHtml": "Accountants [25] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Hairdressers [26] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8461_377932",
+          "explanation": "25. Accountants在原文中原词重现，定位在本题。原文中job出现之后，出现转折表述but，之后提及的more和in demand对应G选项中employment方面的提升，far more efficient对应选项中productivity方面的提升。\n\n26. Hairdressers在原文中原词重现，定位在本题。原文中demand for hairdressing大致对应选项E中的jobs，gone up so much对应选项中的huge increase，之后提及的earning power对应选项中的disposable income，gone up又一次出现，对应选项中的higher。\n\n27. Administrative staff在原文中原词重现，定位在本题。这道题是在比较的过程中进行反义对应，原文虽然提及Really boring，但是这里是对比these days，也就是说近来比以往更有趣，对应B选项的more interesting。而原文中后来说到的much more和higher，也进一步表现了比较。\n\n28. Agricultural workers在原文中原词重现，定位在本题。原文中女生首先讲到1871年的统计数据为大约25%，男生说以为会多于50%，而现在的数据是少于0.2%。从这些数据中表现出的暴跌，可以对应C选项中的fallen dramatically。\n\n29. Care workers在原文中原词重现，定位在本题。之后男生讲到在19世纪时barely existed，后面出现转折表述but，接下来will和huge growth可以对应F选项中的likely和significant rise。这种职业需求在之后提及的hard enough to meet current demand中再次表现出来，且demand原词重现。\n\n30. Bank clerks在原文中原词重现，定位在本题。首先女生提及decline，之后男生认为将会使现在做的大部分相关工作变得不被需要，redundant对应A选项中的at risk。",
+          "promptHtml": "Hairdressers [26] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Administrative staff [27] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8461_450544",
+          "explanation": "25. Accountants在原文中原词重现，定位在本题。原文中job出现之后，出现转折表述but，之后提及的more和in demand对应G选项中employment方面的提升，far more efficient对应选项中productivity方面的提升。\n\n26. Hairdressers在原文中原词重现，定位在本题。原文中demand for hairdressing大致对应选项E中的jobs，gone up so much对应选项中的huge increase，之后提及的earning power对应选项中的disposable income，gone up又一次出现，对应选项中的higher。\n\n27. Administrative staff在原文中原词重现，定位在本题。这道题是在比较的过程中进行反义对应，原文虽然提及Really boring，但是这里是对比these days，也就是说近来比以往更有趣，对应B选项的more interesting。而原文中后来说到的much more和higher，也进一步表现了比较。\n\n28. Agricultural workers在原文中原词重现，定位在本题。原文中女生首先讲到1871年的统计数据为大约25%，男生说以为会多于50%，而现在的数据是少于0.2%。从这些数据中表现出的暴跌，可以对应C选项中的fallen dramatically。\n\n29. Care workers在原文中原词重现，定位在本题。之后男生讲到在19世纪时barely existed，后面出现转折表述but，接下来will和huge growth可以对应F选项中的likely和significant rise。这种职业需求在之后提及的hard enough to meet current demand中再次表现出来，且demand原词重现。\n\n30. Bank clerks在原文中原词重现，定位在本题。首先女生提及decline，之后男生认为将会使现在做的大部分相关工作变得不被需要，redundant对应A选项中的at risk。",
+          "promptHtml": "Administrative staff [27] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Agricultural workers [28] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8461_784034",
+          "explanation": "25. Accountants在原文中原词重现，定位在本题。原文中job出现之后，出现转折表述but，之后提及的more和in demand对应G选项中employment方面的提升，far more efficient对应选项中productivity方面的提升。\n\n26. Hairdressers在原文中原词重现，定位在本题。原文中demand for hairdressing大致对应选项E中的jobs，gone up so much对应选项中的huge increase，之后提及的earning power对应选项中的disposable income，gone up又一次出现，对应选项中的higher。\n\n27. Administrative staff在原文中原词重现，定位在本题。这道题是在比较的过程中进行反义对应，原文虽然提及Really boring，但是这里是对比these days，也就是说近来比以往更有趣，对应B选项的more interesting。而原文中后来说到的much more和higher，也进一步表现了比较。\n\n28. Agricultural workers在原文中原词重现，定位在本题。原文中女生首先讲到1871年的统计数据为大约25%，男生说以为会多于50%，而现在的数据是少于0.2%。从这些数据中表现出的暴跌，可以对应C选项中的fallen dramatically。\n\n29. Care workers在原文中原词重现，定位在本题。之后男生讲到在19世纪时barely existed，后面出现转折表述but，接下来will和huge growth可以对应F选项中的likely和significant rise。这种职业需求在之后提及的hard enough to meet current demand中再次表现出来，且demand原词重现。\n\n30. Bank clerks在原文中原词重现，定位在本题。首先女生提及decline，之后男生认为将会使现在做的大部分相关工作变得不被需要，redundant对应A选项中的at risk。",
+          "promptHtml": "Agricultural workers [28] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Care workers [29] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8461_226441",
+          "explanation": "25. Accountants在原文中原词重现，定位在本题。原文中job出现之后，出现转折表述but，之后提及的more和in demand对应G选项中employment方面的提升，far more efficient对应选项中productivity方面的提升。\n\n26. Hairdressers在原文中原词重现，定位在本题。原文中demand for hairdressing大致对应选项E中的jobs，gone up so much对应选项中的huge increase，之后提及的earning power对应选项中的disposable income，gone up又一次出现，对应选项中的higher。\n\n27. Administrative staff在原文中原词重现，定位在本题。这道题是在比较的过程中进行反义对应，原文虽然提及Really boring，但是这里是对比these days，也就是说近来比以往更有趣，对应B选项的more interesting。而原文中后来说到的much more和higher，也进一步表现了比较。\n\n28. Agricultural workers在原文中原词重现，定位在本题。原文中女生首先讲到1871年的统计数据为大约25%，男生说以为会多于50%，而现在的数据是少于0.2%。从这些数据中表现出的暴跌，可以对应C选项中的fallen dramatically。\n\n29. Care workers在原文中原词重现，定位在本题。之后男生讲到在19世纪时barely existed，后面出现转折表述but，接下来will和huge growth可以对应F选项中的likely和significant rise。这种职业需求在之后提及的hard enough to meet current demand中再次表现出来，且demand原词重现。\n\n30. Bank clerks在原文中原词重现，定位在本题。首先女生提及decline，之后男生认为将会使现在做的大部分相关工作变得不被需要，redundant对应A选项中的at risk。",
+          "promptHtml": "Care workers [29] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Bank clerks [30] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8461_105386",
+          "explanation": "25. Accountants在原文中原词重现，定位在本题。原文中job出现之后，出现转折表述but，之后提及的more和in demand对应G选项中employment方面的提升，far more efficient对应选项中productivity方面的提升。\n\n26. Hairdressers在原文中原词重现，定位在本题。原文中demand for hairdressing大致对应选项E中的jobs，gone up so much对应选项中的huge increase，之后提及的earning power对应选项中的disposable income，gone up又一次出现，对应选项中的higher。\n\n27. Administrative staff在原文中原词重现，定位在本题。这道题是在比较的过程中进行反义对应，原文虽然提及Really boring，但是这里是对比these days，也就是说近来比以往更有趣，对应B选项的more interesting。而原文中后来说到的much more和higher，也进一步表现了比较。\n\n28. Agricultural workers在原文中原词重现，定位在本题。原文中女生首先讲到1871年的统计数据为大约25%，男生说以为会多于50%，而现在的数据是少于0.2%。从这些数据中表现出的暴跌，可以对应C选项中的fallen dramatically。\n\n29. Care workers在原文中原词重现，定位在本题。之后男生讲到在19世纪时barely existed，后面出现转折表述but，接下来will和huge growth可以对应F选项中的likely和significant rise。这种职业需求在之后提及的hard enough to meet current demand中再次表现出来，且demand原词重现。\n\n30. Bank clerks在原文中原词重现，定位在本题。首先女生提及decline，之后男生认为将会使现在做的大部分相关工作变得不被需要，redundant对应A选项中的at risk。",
+          "promptHtml": "Bank clerks [30] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "These jobs are likely to be at risk."
+        },
+        {
+          "value": "B",
+          "text": "Their role has become more interesting in recent years."
+        },
+        {
+          "value": "C",
+          "text": "The number of people working in this sector has fallen dramatically."
+        },
+        {
+          "value": "D",
+          "text": "This job will require more qualifications."
+        },
+        {
+          "value": "E",
+          "text": "Higher disposable income has led to a huge increase in jobs."
+        },
+        {
+          "value": "F",
+          "text": "There is likely to be a significant rise in demand for this service."
+        },
+        {
+          "value": "G",
+          "text": "Both employment and productivity have risen."
+        }
+      ],
+      "contextHtml": "<p><span><span><strong>Jobs</strong></span><br>\nAccountants </span><strong>[25] ______</strong> <br>\n<span>Hairdressers  </span><strong>[26] ______</strong> <br>\n<span>Administrative staff  </span><strong>[27] ______</strong> <br>\n<span>Agricultural workers  </span><strong>[28] ______</strong> <br>\n<span>Care workers  </span><strong>[29] ______</strong> <br>\n<span>Bank clerks </span><strong>[30] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span><span>Young man: That seminar yesterday on automation and the future of work was really good, wasn’t it? Looking at the first industrial revolution in Britain in the 19th century and seeing how people reacted to massive change was a real eye-opener.</span></span></p>\n\n<p><span><span>Young woman: Yes. It was interesting to hear how people felt about automation then and what challenges they faced. I didn’t know that first started with workers in the textile industry.</span></span></p>\n\n<p><span><span>Young man: With those protesting workers called the Luddites destroying their knitting machines because they were so worried about losing their jobs.</span></span></p>\n\n<p><span><span>Young woman: Yes, and ultimately, they didn’t achieve anything. And anyway, industrialisation created more jobs than it destroyed.</span></span></p>\n\n<p><span><span>Young man: Yes, that’s true – but it probably didn’t seem a positive thing at the time. I can see why the Luddites felt so threatened.</span></span></p>\n\n<p><span><span>Young woman: I know. I’m sure I would have felt the same. The discussion about the future of work was really optimistic for a change. I like the idea that work won’t involve doing boring, repetitive tasks, as robots will do all that. Normally, you only hear negative stuff about the future.</span></span></p>\n\n<p><span><span>Young man: Bit too optimistic, don’t you think? For example, I can’t see how people are about to have more leisure time, when all the evidence shows people are spending longer than ever at work.</span></span></p>\n\n<p><span><span>Young woman: No – that’s true. And what about lower unemployment? I’m not so sure about that.</span></span></p>\n\n<p><span><span>Young man: Perhaps in the long term – but not in the foreseeable future.</span></span></p>\n\n<p><span><span>Young woman: Mmm. And I expect most people will be expected to work until they’re much older – as everyone’s living much longer.</span></span></p>\n\n<p><span><span>Young man: That’s already happening.</span></span></p>\n\n<p><span><span>Young woman: I enjoyed all that stuff on how technology has changed some jobs and how they’re likely to change in the near future.</span></span></p>\n\n<p><span><span>Young man: Yeah, incredible. Like accountants. You might think all the technological innovations would have put them out of a job, but in fact there are more of them than ever. They’re still really in demand and have become far more efficient.</span></span></p>\n\n<p><span><span>Young woman: Right. That was amazing. Twenty times more accountants in this country compared to the 19th century.</span></span></p>\n\n<p><span><span>Young man: I know. I’d never have thought that demand for hairdressing would have gone up so much in the last hundred years. One hairdresser for every 287 people now, compared to one for over 1,500.</span></span></p>\n\n<p><span><span>Young woman: Yeah because people’s earning power has gone up so they can afford to spend more on personal services like that.</span></span></p>\n\n<p><span><span>Young man: But technology hasn’t changed the actual job that much.</span></span></p>\n\n<p><span><span>Young woman: No, they’ve got hairdryers, etc. but it’s one job where you don’t depend on a computer … The kind of work that administrative staff do has changed enormously, thanks to technology. Even 20 years ago there were secretaries doing dictation and typing.</span></span></p>\n\n<p><span><span>Young man: Yes. Really boring compared to these days, when they’re given much more responsibility and higher status.</span></span></p>\n\n<p><span><span>Young woman: Mmm. A lot of graduates go in for this kind of work now … I’d expected there to be a much bigger change in the number of agricultural workers in the 19th century. But the 1871 census showed that roughly 25% of the population worked on the land.</span></span></p>\n\n<p><span><span>Young man: Yeah, I’d have assumed it would be more than 50%. Now it’s less than 0.2%.</span></span></p>\n\n<p><span><span>Young woman: What about care workers?</span></span></p>\n\n<p><span><span>Young man: They barely existed in the 19th century as people’s lifespan was so much shorter. But now of course this sector will see huge growth.</span></span></p>\n\n<p><span><span>Young woman: Yeah – and it’s hard enough to meet current demand. The future looks quite bleak for bank clerks. They’ve been in decline since ATMs were introduced in the eighties.</span></span></p>\n\n<p><span><span>Young man: And technology will certainly make most of the jobs they do now redundant, I think.</span></span></p>\n\n<p><span><span>Young woman: I agree, although the situation may change. It’s very hard to predict what will happen.</span></span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8461.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 355.247
+  }
+}

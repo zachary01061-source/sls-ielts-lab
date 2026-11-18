@@ -1,0 +1,253 @@
+{
+  "id": "cambridge-18-test-2-reading-1",
+  "title": "Stonehenge",
+  "titleCn": "Stonehenge",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 2
+  },
+  "sourceQuestionId": "8451",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8451",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Stonehenge"
+    },
+    {
+      "label": "2",
+      "text": "For centuries, historians and archaeologists have puzzled over the many mysteries of Stonehenge, a prehistoric monument that took an estimated 1,500 years to erect. Located on Salisbury Plain in southern England, it is comprised of roughly 100 massive upright stones placed in a circular layout."
+    },
+    {
+      "label": "3",
+      "text": "Archaeologists believe England’s most iconic prehistoric ruin was built in several stages, with the earliest constructed 5,000 or more years ago. First, Neolithic* Britons used primitive tools, which may have been fashioned out of deer antlers, to dig a massive circular ditch and bank, or henge. Deep pits dating back to that era and located within the circle may have once held a ring of timber posts, according to some scholars."
+    },
+    {
+      "label": "4",
+      "text": "Several hundred years later, it is thought, Stonehenge’s builders hoisted an estimated 80 bluestones, 43 of which remain today, into standing positions and placed them in either a horseshoe or circular formation. These stones have been traced all the way to the Preseli Hills in Wales, some 300 kilometres from Stonehenge. How, then, did prehistoric builders without sophisticated tools or engineering haul these boulders, which weigh up to four tons, over such a great distance?"
+    },
+    {
+      "label": "5",
+      "text": "According to one long-standing theory among archaeologists, Stonehenge’s builders fashioned sledges and rollers out of tree trunks to lug the bluestones from the Preseli Hills. They then transferred the boulders onto rafts and floated them first along the Welsh coast and then up the River Avon toward Salisbury Plain; alternatively, they may have towed each stone with a fleet of vessels. More recent archaeological hypotheses have them transporting the bluestones with supersized wicker baskets on a combination of ball bearings and long grooved planks, hauled by oxen."
+    },
+    {
+      "label": "6",
+      "text": "As early as the 1970s, geologists have been adding their voices to the debate over how Stonehenge came into being. Challenging the classic image of industrious builders pushing, carting, rolling or hauling giant stones from faraway Wales, some scientists have suggested that it was glaciers, not humans, that carried the bluestones to Salisbury Plain. Most archaeologists have remained sceptical about this theory, however, wondering how the forces of nature could possibly have delivered the exact number of stones needed to complete the circle."
+    },
+    {
+      "label": "7",
+      "text": "The third phase of construction took place around 2000 BCE. At this point, sandstone slabs – known as ‘sarsens’ – were arranged into an outer crescent or ring; some were assembled into the iconic three-pieced structures called trilithons that stand tall in the centre of Stonehenge. Some 50 of these stones are now visible on the site, which may once have contained many more. Radiocarbon dating has revealed that work continued at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned multiple times."
+    },
+    {
+      "label": "8",
+      "text": "But who were the builders of Stonehenge? In the 17th century, archaeologist John Aubrey made the claim that Stonehenge was the work of druids, who had important religious, judicial and political roles in Celtic** society. This theory was widely popularized by the antiquarian William Stukeley, who had unearthed primitive graves at the site. Even today, people who identify as modern druids continue to gather at Stonehenge for the summer solstice. However, in the mid-20th century, radiocarbon dating demonstrated that Stonehenge stood more than 1,000 years before the Celts inhabited the region."
+    },
+    {
+      "label": "9",
+      "text": "Many modern historians and archaeologists now agree that several distinct tribes of people contributed to Stonehenge, each undertaking a different phase of its construction. Bones, tools and other artefacts found on the site seem to support this hypothesis. The first stage was achieved by Neolithic agrarians who were likely to have been indigenous to the British Isles. Later, it is believed, groups with advanced tools and a more communal way of life left their mark on the site. Some believe that they were immigrants from the European continent, while others maintain that they were probably native Britons, descended from the original builders."
+    },
+    {
+      "label": "10",
+      "text": "If the facts surrounding the architects and construction of Stonehenge remain shadowy at best, the purpose of the striking monument is even more of a mystery. While there is consensus among the majority of modern scholars that Stonehenge once served the function of burial ground, they have yet to determine what other purposes it had."
+    },
+    {
+      "label": "11",
+      "text": "In the 1960s, the astronomer Gerald Hawkins suggested that the cluster of megalithic stones operated as a form of calendar, with different points corresponding to astrological phenomena such as solstices, equinoxes and eclipses occurring at different times of the year. While his theory has received a considerable amount of attention over the decades, critics maintain that Stonehenge’s builders probably lacked the knowledge necessary to predict such events or that England’s dense cloud cover would have obscured their view of the skies."
+    },
+    {
+      "label": "12",
+      "text": "More recently, signs of illness and injury in the human remains unearthed at Stonehenge led a group of British archaeologists to speculate that it was considered a place of healing, perhaps because bluestones were thought to have curative powers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–8\n\nComplete the notes below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "• the ditch and henge were dug, possibly using tools made from [1] ______",
+          "answers": [
+            "deer antlers",
+            "antlers"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_355262",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "• the ditch and henge were dug, possibly using tools made from [1] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "• [2] ______ may have been arranged in deep pits inside the circle",
+          "answers": [
+            "timber posts",
+            "posts"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_794117",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "• [2] ______ may have been arranged in deep pits inside the circle"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "builders used [3] ______ to make sledges and rollers",
+          "answers": [
+            "tree trunks"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_235195",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "builders used [3] ______ to make sledges and rollers"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "[4] ______ pulled them on giant baskets",
+          "answers": [
+            "oxen"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_308449",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "[4] ______ pulled them on giant baskets"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "they were brought from Wales by [5] ______",
+          "answers": [
+            "glaciers"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_542909",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "they were brought from Wales by [5] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "• a theory arose in the 17th century that its builders were Celtic [6] ______",
+          "answers": [
+            "druids"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_201578",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "• a theory arose in the 17th century that its builders were Celtic [6] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "• many experts agree it has been used as a [7] ______ site",
+          "answers": [
+            "burial"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_880960",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "• many experts agree it has been used as a [7] ______ site"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "• in the 1960s, it was suggested that it worked as a kind of [8] ______",
+          "answers": [
+            "calendar"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8451_893045",
+          "explanation": "1. 本题的定位非常简单，无论是被挖出来的对象ditch and henge，还是用来进行挖掘的tools，都原词重现在了原文里，因此考生应该可以轻松定位。不过，在寻找“制作这些工具的原材料”这个空格所需答案时，难度就略有升高了，主要原因在于多数考生对fashion一词更为熟悉的是它作名词表示“时尚”的用法，在此处遇见它的动词用法时可能稍显陌生。然而，根据本句的上下文，仍然不难推断出它在此是作为动词使用，而且表达的就是工具经由这个动作并用它后面out of的对象制作而来，由此，应该不难推理得出答案：(deer) antlers。\n\n2. 本题的定位同样不难，因为定位线索deep pits不但原词重现，而且位置紧邻上一道题。加上这个句子本身也不难理解，考生只要看懂原文中的held就是在同义替换题干里的have been arranged，即可轻松得到答案：(timber) posts。\n\n3. 本题的考法与第一题高度类似。首先是题干中的sledges and rollers一模一样地出现在了定位原文句里，其次是再次考查了考生对于fashion当动词用的认知能力。即使考生对动词用法并不熟悉，也可以根据上下文推断出它在此处作为动词使用，进而分析得出答案：tree trunks。\n\n4. 从更宽泛一些的上下文中可以看出来，题干句中的them指的是bluestones，它们装在一些巨大的篮子里，而发出“拖动石头和篮子”这个动作的，就应该是本题的答案。虽然题干中修饰篮子的giant在原文中被替换成了supersized，略有不同，但这二者都是非常基础的认知词汇，看出它们之间的同义关系应该并不困难。于是，分析这个句子后，考生即使并不认识题干中的pulled在原文中的替换词hauled，应该也能通过其后的介词by明白动作发出者应该位于by之后而非之前，进而得出本题答案：oxen。\n\n5. 本题其实可以利用上一行分类提示的geological来辅助定位，不过由于题干本身包含更为显眼的大写地名Wales，所以考生可以直接据此锁定答案出处句。本句的结构略复杂，详细分析可以参见前文“佳句赏析”的第三句。考生只需耐心看懂句意，就能看出它强调的正是搬运巨石的对象，即本题答案：glaciers。\n\n6. 本题给出的定位线索非常丰富，既有时间数字，又有人名大写。唯一称得上有一点难度的地方，在于按说空格中的答案应当为某种人的名称，因而应当是大写形式；然而阅读原文句却会发现，虽然druids后面跟着一个由who引导的定语从句，表明它确定无误应当是指某一群人，但却并没有首字母大写。不过，凡事都有例外，尽信规律不如无规律，因此还是可以在认真对比和阅读后锁定答案：druids。\n\n7. 本题对考生词汇基础的考查力度稍微提高了一点点，题干中的“很多专家都同意”在原文中被替换成了consensus这个词；然而该词是雅思阅读文章中的常客，早在“剑5”中就已经出现过，属于考生需要认识的“题眼式”信息。当然，假如考生确实还不认识这个单词，那么利用题干上方的副标题Purpose和题干中site一词在原文中对应的ground这两处提示，也能通过分析找准答案：burial。\n\n8. 本题可以直接凭借数字线索定位到原文，答案也确实出自这一句。考生只需要耐心分析这个略显复杂的长句，应当就能顺利得出答案：calendar。",
+          "promptHtml": "• in the 1960s, it was suggested that it worked as a kind of [8] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Stonehenge</strong></span></p>\n\n<p><br>\n<span><strong>Construction</strong><br>\nStage 1:<br>\n• the ditch and henge were dug, possibly using tools made from </span><strong>[1] ______</strong><br>\n<span>• </span><strong>[2] ______</strong><span> may have been arranged in deep pits inside the circle<br>\nStage 2:<br>\n• bluestones from the Preseli Hills were placed in standing position<br>\n• theories about the transportation of the bluestones:<br>\n          – archaeological:<br>\n                  builders used </span><strong>[3] ______</strong><span> to make sledges and rollers<br>\n                  </span><strong>[4] ______</strong><span> pulled them on giant baskets<br>\n          – geological:<br>\n                  they were brought from Wales by </span><strong>[5] ______</strong><br>\n<span>Stage 3:<br>\n• sandstone slabs were arranged into an outer crescent or ring<br>\n<strong>Builders</strong><br>\n• a theory arose in the 17th century that its builders were Celtic </span><strong>[6] ______</strong><br>\n<span><strong>Purpose</strong><br>\n• many experts agree it has been used as a  </span><strong>[7] ______</strong><span> site</span><br>\n<span>• in the 1960s, it was suggested that it worked as a kind of </span><strong>[8] ______</strong></p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 9–13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "During the third phase of construction, sandstone slabs were placed in both the outer areas and the middle of the Stonehenge site.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8451_242666",
+          "explanation": "本题的定位不难，因为两组帮助定位的线索都原样重现在了正文中。考生只需耐心做好定位和读懂句意细节的工作，就能看出来原文中说砂岩石板arranged into an outer crescent就是题干所说的outer areas，而另有一些这样的石板还被搭建成了三石碑放在中心地带，这对应的则是题干里的middle。至此，题干所说内容在原文中都有了相符的表达，可知正确答案应为TRUE。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "There is scientific proof that the bluestones stood in the same spot until approximately 1600 BCE.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8451_425661",
+          "explanation": "本题的定位比上一题还要简单，因为考生可以直接利用显眼的数字信息定位到原文句，且只要看懂本句意思，就能够获得足够的解题信息。原文句专门提到了这些bluestones“被好几次地重新摆放了位置”，这与题干信息形成了直白的矛盾抵触，因此正确答案应为FALSE。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "John Aubrey’s claim about Stonehenge was supported by 20th-century findings.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8451_754674",
+          "explanation": "本题虽然定位非常轻松，可以直接凭借大写人名找到原文中的大概出处，但得出最终结论的过程却比较曲折。人名所在的这句话本身，重点在于给出他的假设到底是什么内容，即“巨石阵是由凯尔特人中的德鲁伊人建造的”；接下来的两句话，分别用两个侧面的例子来证明他的假说得到了一些人的支持，具体来说也就是一位古物研究者和一些自认是现代德鲁伊的人群。然而，读到了这里，我们也还是不清楚这个学说是否得到了除人之外的、客观实证性的“20世纪研究发现”的支持。考生最好能抱定平行阅读的策略，不急不躁地依次阅读原文内容，可以更有把握地在这段最后一句话中看到这样的信息：20世纪中期的放射性碳测定结果表明，凯尔特人来定居的时候，巨石阵已经在此矗立了1,000多年。这其实就是在委婉地指出：科学研究相当于否定了John Aubrey的理论，这与题干形成了矛盾抵触，因而正确答案为FALSE。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Objects discovered at Stonehenge seem to indicate that it was constructed by a number of different groups of people.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8451_758360",
+          "explanation": "本题不像先前的两道题那样，有着数字或大写这类显眼定位线索；但题干虽长，仔细看下来却并不难理解，考生只需沉下心来耐心逐句阅读原文，应当不难定位。更何况本题的出处位置紧邻上一题，并没有给考生的阅读动作造成太大的阻碍。不过，解答本题需要考生结合原文两句话的内容而非只看其中某句。第八段的第一句话先给出“巨石阵由若干群不同的人搭建”这部分题干信息，第二句话再跟进给出“发掘出的物品能证明这个观点”，将这两组信息结合在一起之后才能更加笃定地得出正确答案为TRUE。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Criticism of Gerald Hawkins’ theory about Stonehenge has come mainly from other astronomers.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8451_774142",
+          "explanation": "本题的定位非常容易，因为有显眼的大写人名，而且这个人名出现的位置比较靠后，已经到了全文倒数第二段。假如考生使用的是平行阅读的策略，那么在阅读人名所在的这句原文时，其实可以同时得出填空题第8题的答案和“本题信息尚未提及”这个结论。由于判断题并不能因为定位的一句话原文没有给出足够的解题信息就仓促武断地得出“文中确实没提”这个结论，所以考生更稳妥的做法应当是再向后文阅读几句。不过全文一共也只剩下两句话（但略复杂，需拿出一定的耐心来），因此不难在阅读之后笃定得出正确答案应为NOT GIVEN。\n\n还有另外一个思路：如果考生对自己之前的作答准确度有足够的自信，那么在前面四道题非TRUE即FALSE、还剩下最后这一道题的情况下，即使纯粹使用排除法也能猜出本题大概率应选NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Stonehenge</strong></span></p><p><br><span>For centuries, historians and archaeologists have puzzled over the many mysteries of Stonehenge, a prehistoric monument that took an estimated 1,500 years to erect. Located on Salisbury Plain in southern England, it is comprised of roughly 100 massive upright stones placed in a circular layout.<br><br>Archaeologists believe England’s most iconic prehistoric ruin was built in several stages, with the earliest constructed 5,000 or more years ago. First, Neolithic* Britons used primitive tools, which may have been fashioned out of deer antlers, to dig a massive circular ditch and bank, or henge. Deep pits dating back to that era and located within the circle may have once held a ring of timber posts, according to some scholars.<br>Several hundred years later, it is thought, Stonehenge’s builders hoisted an estimated 80 bluestones, 43 of which remain today, into standing positions and placed them in either a horseshoe or circular formation. These stones have been traced all the way to the Preseli Hills in Wales, some 300 kilometres from Stonehenge. How, then, did prehistoric builders without sophisticated tools or engineering haul these boulders, which weigh up to four tons, over such a great distance?<br><br>According to one long-standing theory among archaeologists, Stonehenge’s builders fashioned sledges and rollers out of tree trunks to lug the bluestones from the Preseli Hills. They then transferred the boulders onto rafts and floated them first along the Welsh coast and then up the River Avon toward Salisbury Plain; alternatively, they may have towed each stone with a fleet of vessels. More recent archaeological hypotheses have them transporting the bluestones with supersized wicker baskets on a combination of ball bearings and long grooved planks, hauled by oxen.<br>As early as the 1970s, geologists have been adding their voices to the debate over how Stonehenge came into being. Challenging the classic image of industrious builders pushing, carting, rolling or hauling giant stones from faraway Wales, some scientists have suggested that it was glaciers, not humans, that carried the bluestones to Salisbury Plain. Most archaeologists have remained sceptical about this theory, however, wondering how the forces of nature could possibly have delivered the exact number of stones needed to complete the circle.<br><br>The third phase of construction took place around 2000 BCE. At this point, sandstone slabs – known as ‘sarsens’ – were arranged into an outer crescent or ring; some were assembled into the iconic three-pieced structures called trilithons that stand tall in the centre of Stonehenge. Some 50 of these stones are now visible on the site, which may once have contained many more. Radiocarbon dating has revealed that work continued at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned multiple times.<br><br>But who were the builders of Stonehenge? In the 17th century, archaeologist John Aubrey made the claim that Stonehenge was the work of druids, who had important religious, judicial and political roles in Celtic** society. This theory was widely popularized by the antiquarian William Stukeley, who had unearthed primitive graves at the site. Even today, people who identify as modern druids continue to gather at Stonehenge for the summer solstice. However, in the mid-20th century, radiocarbon dating demonstrated that Stonehenge stood more than 1,000 years before the Celts inhabited the region.<br><br>Many modern historians and archaeologists now agree that several distinct tribes of people contributed to Stonehenge, each undertaking a different phase of its construction. Bones, tools and other artefacts found on the site seem to support this hypothesis. The first stage was achieved by Neolithic agrarians who were likely to have been indigenous to the British Isles. Later, it is believed, groups with advanced tools and a more communal way of life left their mark on the site. Some believe that they were immigrants from the European continent, while others maintain that they were probably native Britons, descended from the original builders.<br><br>If the facts surrounding the architects and construction of Stonehenge remain shadowy at best, the purpose of the striking monument is even more of a mystery. While there is consensus among the majority of modern scholars that Stonehenge once served the function of burial ground, they have yet to determine what other purposes it had.<br><br>In the 1960s, the astronomer Gerald Hawkins suggested that the cluster of megalithic stones operated as a form of calendar, with different points corresponding to astrological phenomena such as solstices, equinoxes and eclipses occurring at different times of the year. While his theory has received a considerable amount of attention over the decades, critics maintain that Stonehenge’s builders probably lacked the knowledge necessary to predict such events or that England’s dense cloud cover would have obscured their view of the skies. <br><br>More recently, signs of illness and injury in the human remains unearthed at Stonehenge led a group of British archaeologists to speculate that it was considered a place of healing, perhaps because bluestones were thought to have curative powers.</span></p>"
+}

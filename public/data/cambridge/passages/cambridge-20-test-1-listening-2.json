@@ -1,0 +1,446 @@
+{
+  "id": "cambridge-20-test-1-listening-2",
+  "title": "Pottery",
+  "titleCn": "Pottery",
+  "subject": "listening",
+  "part": 2,
+  "duration": 512,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 1
+  },
+  "sourceQuestionId": "8535",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8535",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Hello and welcome. My name’s Heather McCallum and I’m one of the potters who work here at Edelman Pottery. Before we go into the workshop, I just want to say a bit about the craft of pottery. Then we’ll have a look at the equipment, and you can try making a pot of your own."
+    },
+    {
+      "label": "2",
+      "text": "Like many people, I’m sure you know that pottery as an art form is tens of thousands of years old, and we know this because it stands the test of time. Things like baskets and pictures don’t survive in the earth in the same way that pots do. And even if ancient pots are found in small pieces, they still provide a lot of information about the past."
+    },
+    {
+      "label": "3",
+      "text": "T"
+    },
+    {
+      "label": "4",
+      "text": "here’s no doubt that pottery has given archaeologists a fascinating insight into how ancient humans lived. The shape of an artefact may have been lost, but archaeologists can tell whether the pots were for, say, storage or cooking by examining the impressions on the clay, the scratches from tools; and the clay itself can reveal where the pots came from."
+    },
+    {
+      "label": "5",
+      "text": "When I ask people why they want to take a pottery class with me, they sometimes talk about these things. Like our ancestors, they hope that something they create will also last longer than they do, that their work – whether it is good or not – might say something about humanity many years after their death."
+    },
+    {
+      "label": "6",
+      "text": "Of course, you will all have your own reasons for coming here. As far as I’m concerned, what I love most is the concentration you need to make a good pot. That focus takes you away from the stresses of everyday life. If you’re elderly, it’s also good exercise for hands and wrists and helps with arthritis and, of course, it’s a fun activity for children because it’s so messy!"
+    },
+    {
+      "label": "7",
+      "text": "Here at Edelman Pottery, we show you some of the basic pottery techniques so that you can use these to create whatever you wish – a gift for a friend, perhaps. Like nearly everyone who comes here, I’m sure this is the first time you will have tried the art, so we’ll keep things simple today."
+    },
+    {
+      "label": "8",
+      "text": "Now, before we move on, can I just say a word about what you’re wearing. As we said in our email, please remove any watches, necklaces, etc. and put them somewhere safe. If you have long hair, do tie it back now. We’ll provide aprons later, but I trust your clothes are old but comfortable – not your favourite T-shirt or jeans!"
+    },
+    {
+      "label": "9",
+      "text": "So now we’re in the workshop. Have a look around – there’s a lot going on. To make pottery that will last, you need a potter’s wheel, a kiln – which is basically a very hot oven where you fire the pottery – and some tools."
+    },
+    {
+      "label": "10",
+      "text": "So first, the kiln. If you look over in the far corner, you’ll see one of ours. Since their invention, kilns have changed very little, though in the past 20 years, a lot of progress has been made in temperature control. Basically, a kiln removes the water from clay at temperatures of around a thousand degrees Celsius. This allows anything you’ve made to set permanently in shape. It’s a pretty ugly, heavy object that’s hard to keep in a house or flat so most people don’t have one. You may think, ‘Can’t I use my oven?’ Well, that’s possible but domestic ovens don’t really get hot enough and eventually the clay will crack and fall apart. Some people fire pottery in a fire pit outside – but bear in mind that can be dangerous. You also need to know about safety procedures for kilns as they release toxic compounds into the air."
+    },
+    {
+      "label": "11",
+      "text": "Every potter needs a potter’s wheel. This machine is used to shape the clay into an object with circular walls or sides – such as a bowl. Its invention revolutionised the pottery industry, allowing multiple items to be produced in a day."
+    },
+    {
+      "label": "12",
+      "text": "Lastly, there are a number of different tools that potters use, depending on what they want to make. When you start, your hands can make all kinds of shapes and curves without relying on a sculpting tool. However, there are some basic tools that you will need to handle the clay on the wheel. Some look very strange and have even odder names that you may find hard to remember. Rather than go through them all now, I’ll just name a few tools as we go along. We can provide these and I wouldn’t recommend spending money on them yet. So let’s try making a pot of your own …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 11–16\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Heather says pottery differs from other art forms because",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8535_427220",
+          "options": [
+            {
+              "value": "A",
+              "text": "it lasts longer in the ground."
+            },
+            {
+              "value": "B",
+              "text": "it is practised by more people."
+            },
+            {
+              "value": "C",
+              "text": "it can be repaired more easily."
+            }
+          ],
+          "explanation": "本题需要选出陶艺和其他艺术形式的不同之处。题干中的other art forms在原文中出现下义词baskets and pictures，这句话强调它们don’t survive in the earth in the same way that pots do，即说明它们和陶艺的不同点在于难以在地下保存很久，基于这句话反向思考，即陶器比其他艺术形式保存得更久。survive对应A选项的lasts longer，in the earth对应选项中的in the ground。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Archaeologists sometimes identify the use of ancient pottery from",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8535_806320",
+          "options": [
+            {
+              "value": "A",
+              "text": "the clay it was made with."
+            },
+            {
+              "value": "B",
+              "text": "the marks that are on it."
+            },
+            {
+              "value": "C",
+              "text": "the basic shape of it."
+            }
+          ],
+          "explanation": "题干中的archaeologists容易定位。读题时需注意题干中的use一词，即通过什么来识别陶器用途。原文首先出现C选项原词shape，但may have been lost意味着无法根据其形状考证用途。随后提到tell whether the pots were for，for后面接目的，对应题干的use。在by examining后出现答案关键词impressions和scratches，对应选项B的marks，此处需要考生了解单词的意思。最后一句出现A选项的clay，但clay显示的是陶罐的产地，而不是用途，可以排除A。此题请参考“文本解析”第一句的翻译。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Some people join Heather’s pottery class because they want to",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8535_125712",
+          "options": [
+            {
+              "value": "A",
+              "text": "create an item that looks very old."
+            },
+            {
+              "value": "B",
+              "text": "find something that they are good at."
+            },
+            {
+              "value": "C",
+              "text": "make something that will outlive them."
+            }
+          ],
+          "explanation": "题干中的pottery class原词重现，本句中的why提示原因即将出现。下一句的last longer than they do即为C选项的outlive them。此题请参考前文“文本解析”第二句的翻译。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What does Heather value most about being a potter?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8535_842685",
+          "options": [
+            {
+              "value": "A",
+              "text": "its calming effect"
+            },
+            {
+              "value": "B",
+              "text": "its messy nature"
+            },
+            {
+              "value": "C",
+              "text": "its physical benefits"
+            }
+          ],
+          "explanation": "题干中的value为动词，意为“认为……重要”。value most即“最重视……”，对应原文的what I love most。后文出现takes you away from the stresses，对应A选项的calming effect。下一句出现了C选项physical benefits的下义词替换，即good exercise for hands and wrists and helps with arthritis，但此处谈的是对老年人的好处。后文B选项中的messy原词重现，但这是针对儿童而言。B选项和C选项都没有回应题干中what does Heather value most。此题请参考“文本解析”第三句的翻译。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Most of the visitors to Edelman Pottery",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8535_931717",
+          "options": [
+            {
+              "value": "A",
+              "text": "bring friends to join courses."
+            },
+            {
+              "value": "B",
+              "text": "have never made a pot before."
+            },
+            {
+              "value": "C",
+              "text": "try to learn techniques too quickly."
+            }
+          ],
+          "explanation": "题干中的专有名词Edelman Pottery原词重现。most of the visitors替换为like nearly everyone，后文出现答案关键信息this is the first time you will have tried the art，对应B选项have never made a pot before。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Heather reminds her visitors that they should",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8535_214100",
+          "options": [
+            {
+              "value": "A",
+              "text": "put on their aprons."
+            },
+            {
+              "value": "B",
+              "text": "change their clothes."
+            },
+            {
+              "value": "C",
+              "text": "take off their jewellery."
+            }
+          ],
+          "explanation": "通过预读选项可知本题和衣着首饰有关。原文can I just say a word about what you’re wearing提示答案即将出现。C选项的jewellery在原文中替换为下义词necklaces，take off替换为remove。下一句提到了A选项的aprons，但原文we’ll provide和A选项的put on并不等同。B选项的clothes随后出现，但原文谈及的是clothes are old but comfortable，并未提及需要换衣服。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 17 and 18\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Which TWO things does Heather explain about kilns?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8535_189351",
+          "options": [
+            {
+              "value": "A",
+              "text": "what their function is"
+            },
+            {
+              "value": "B",
+              "text": "when they were invented"
+            },
+            {
+              "value": "C",
+              "text": "ways of keeping them safe"
+            },
+            {
+              "value": "D",
+              "text": "where to put one in your home"
+            },
+            {
+              "value": "E",
+              "text": "what some people use instead of one"
+            }
+          ],
+          "explanation": "本题需选出主讲人针对kilns（窑炉）说明的内容。kiln可根据拼写猜测发音，在录音中原词重现。原文首先出现invention一词，对应B选项，但原文只提及最近20年的改进，未提及发明时间。下一句解释了窑炉工作的基本原理和功能，对应A选项的function。下一句出现D选项home的替换词house or flat，但提及hard to keep，所以一般人家里不会配备，故排除D选项。下一句讨论oven能否替代kiln的问题，即对应E选项。接下来还提到了另一种替代方案a fire pit outside，最后提及听众需要了解使用窑炉的safety procedures，对应C选项，但并未说明具体的安全措施。",
+          "setId": "Q8535_189351",
+          "blockId": "Q8535_189351"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Which TWO things does Heather explain about kilns?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8535_189351",
+          "options": [
+            {
+              "value": "A",
+              "text": "what their function is"
+            },
+            {
+              "value": "B",
+              "text": "when they were invented"
+            },
+            {
+              "value": "C",
+              "text": "ways of keeping them safe"
+            },
+            {
+              "value": "D",
+              "text": "where to put one in your home"
+            },
+            {
+              "value": "E",
+              "text": "what some people use instead of one"
+            }
+          ],
+          "explanation": "本题需选出主讲人针对kilns（窑炉）说明的内容。kiln可根据拼写猜测发音，在录音中原词重现。原文首先出现invention一词，对应B选项，但原文只提及最近20年的改进，未提及发明时间。下一句解释了窑炉工作的基本原理和功能，对应A选项的function。下一句出现D选项home的替换词house or flat，但提及hard to keep，所以一般人家里不会配备，故排除D选项。下一句讨论oven能否替代kiln的问题，即对应E选项。接下来还提到了另一种替代方案a fire pit outside，最后提及听众需要了解使用窑炉的safety procedures，对应C选项，但并未说明具体的安全措施。",
+          "setId": "Q8535_189351",
+          "blockId": "Q8535_189351"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "what their function is"
+        },
+        {
+          "value": "B",
+          "text": "when they were invented"
+        },
+        {
+          "value": "C",
+          "text": "ways of keeping them safe"
+        },
+        {
+          "value": "D",
+          "text": "where to put one in your home"
+        },
+        {
+          "value": "E",
+          "text": "what some people use instead of one"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 19 and 20\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Which TWO points does Heather make about a potter’s tools?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "sourceCode": "Q8535_318195",
+          "options": [
+            {
+              "value": "A",
+              "text": "Some are hard to hold."
+            },
+            {
+              "value": "B",
+              "text": "Some are worth buying."
+            },
+            {
+              "value": "C",
+              "text": "Some are essential items."
+            },
+            {
+              "value": "D",
+              "text": "Some have memorable names."
+            },
+            {
+              "value": "E",
+              "text": "Some are available for use by participants."
+            }
+          ],
+          "explanation": "本题需要选出主讲人针对陶匠使用的工具表达的观点。tools原词重现。there are some basic tools that you will need对应C选项的essential。下一句提到D选项的names，但odder names意思是名字奇怪，和memorable并非同义替换。最后一句We can provide these and I wouldn’t recommend spending money on them可对应E选项，并同时否定B选项。A选项“很难握住”没有被提及。",
+          "setId": "Q8535_318195",
+          "blockId": "Q8535_318195"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Which TWO points does Heather make about a potter’s tools?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "sourceCode": "Q8535_318195",
+          "options": [
+            {
+              "value": "A",
+              "text": "Some are hard to hold."
+            },
+            {
+              "value": "B",
+              "text": "Some are worth buying."
+            },
+            {
+              "value": "C",
+              "text": "Some are essential items."
+            },
+            {
+              "value": "D",
+              "text": "Some have memorable names."
+            },
+            {
+              "value": "E",
+              "text": "Some are available for use by participants."
+            }
+          ],
+          "explanation": "本题需要选出主讲人针对陶匠使用的工具表达的观点。tools原词重现。there are some basic tools that you will need对应C选项的essential。下一句提到D选项的names，但odder names意思是名字奇怪，和memorable并非同义替换。最后一句We can provide these and I wouldn’t recommend spending money on them可对应E选项，并同时否定B选项。A选项“很难握住”没有被提及。",
+          "setId": "Q8535_318195",
+          "blockId": "Q8535_318195"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Some are hard to hold."
+        },
+        {
+          "value": "B",
+          "text": "Some are worth buying."
+        },
+        {
+          "value": "C",
+          "text": "Some are essential items."
+        },
+        {
+          "value": "D",
+          "text": "Some have memorable names."
+        },
+        {
+          "value": "E",
+          "text": "Some are available for use by participants."
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Hello and welcome. My name’s Heather McCallum and I’m one of the potters who work here at Edelman Pottery. Before we go into the workshop, I just want to say a bit about the craft of pottery. Then we’ll have a look at the equipment, and you can try making a pot of your own.</p>\n\n<p>Like many people, I’m sure you know that pottery as an art form is tens of thousands of years old, and we know this because it stands the test of time. Things like baskets and pictures don’t survive in the earth in the same way that pots do. And even if ancient pots are found in small pieces, they still provide a lot of information about the past.<br>\nT</p>\n\n<p>here’s no doubt that pottery has given archaeologists a fascinating insight into how ancient humans lived. The shape of an artefact may have been lost, but archaeologists can tell whether the pots were for, say, storage or cooking by examining the impressions on the clay, the scratches from tools; and the clay itself can reveal where the pots came from.</p>\n\n<p>When I ask people why they want to take a pottery class with me, they sometimes talk about these things. Like our ancestors, they hope that something they create will also last longer than they do, that their work – whether it is good or not – might say something about humanity many years after their death.</p>\n\n<p>Of course, you will all have your own reasons for coming here. As far as I’m concerned, what I love most is the concentration you need to make a good pot. That focus takes you away from the stresses of everyday life. If you’re elderly, it’s also good exercise for hands and wrists and helps with arthritis and, of course, it’s a fun activity for children because it’s so messy!</p>\n\n<p>Here at Edelman Pottery, we show you some of the basic pottery techniques so that you can use these to create whatever you wish – a gift for a friend, perhaps. Like nearly everyone who comes here, I’m sure this is the first time you will have tried the art, so we’ll keep things simple today.</p>\n\n<p>Now, before we move on, can I just say a word about what you’re wearing. As we said in our email, please remove any watches, necklaces, etc. and put them somewhere safe. If you have long hair, do tie it back now. We’ll provide aprons later, but I trust your clothes are old but comfortable – not your favourite T-shirt or jeans!<br>\nSo now we’re in the workshop. Have a look around – there’s a lot going on. To make pottery that will last, you need a potter’s wheel, a kiln – which is basically a very hot oven where you fire the pottery – and some tools.</p>\n\n<p>So first, the kiln. If you look over in the far corner, you’ll see one of ours. Since their invention, kilns have changed very little, though in the past 20 years, a lot of progress has been made in temperature control. Basically, a kiln removes the water from clay at temperatures of around a thousand degrees Celsius. This allows anything you’ve made to set permanently in shape. It’s a pretty ugly, heavy object that’s hard to keep in a house or flat so most people don’t have one. You may think, ‘Can’t I use my oven?’ Well, that’s possible but domestic ovens don’t really get hot enough and eventually the clay will crack and fall apart. Some people fire pottery in a fire pit outside – but bear in mind that can be dangerous. You also need to know about safety procedures for kilns as they release toxic compounds into the air.</p>\n\n<p>Every potter needs a potter’s wheel. This machine is used to shape the clay into an object with circular walls or sides – such as a bowl. Its invention revolutionised the pottery industry, allowing multiple items to be produced in a day.<br>\nLastly, there are a number of different tools that potters use, depending on what they want to make. When you start, your hands can make all kinds of shapes and curves without relying on a sculpting tool. However, there are some basic tools that you will need to handle the clay on the wheel. Some look very strange and have even odder names that you may find hard to remember. Rather than go through them all now, I’ll just name a few tools as we go along. We can provide these and I wouldn’t recommend spending money on them yet. So let’s try making a pot of your own …</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8535.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 511.608
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "id": "c8537f14-dbcf-4b67-a248-84bcb62235f0",
+  "title": "The history of time measurement",
+  "titleCn": "时间测量史：从太阳到精密计时器",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/c8537f14-dbcf-4b67-a248-84bcb62235f0",
+  "duration": 511,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,440"
+    },
+    {
+      "label": "2",
+      "text": "Section four. You will hear part of a lecture about time measurement. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:51,380"
+    },
+    {
+      "label": "4",
+      "text": "Now, listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:59,840"
+    },
+    {
+      "label": "6",
+      "text": "Good morning, everyone. Today, I'm going to talk about the research project I've been involved in on time measurement. Do you know how time is measured? Consider how we measure length and how with time we encounter a difficulty. Before we could grasp it, it would slip through our fingers. In fact, as we can see, we are forced to have the resource to measure something else, the movement of something in space or a set of movements in space. All the methods that have been employed so far really measure time by a motion in space. The measurement of time is no easy matter. A scientific unit only arrived at after much thought and reflection. As the most primitive form of measurement, the sun seems to be natural. Ever since man first noticed the regular movements of the sun and stars, we have wondered about the passage of time. Prehistoric people first recorded time according to the sun's position. To start off, let us take noon, which is when the sun is on the meridian at the highest point of its course across the heavens and when it casts the shortest shadow. But this measurement, which was regarded as a major one in ancient times, was less important than the natural events that occurred. The earliest natural events that had been recognized were in the heavens, but during the course of the year, there were many other events that indicated significant changes in the environment. Seasonal winds and rains, the flooding of rivers, the flowering of trees and plants, and the breeding cycles or migration of animals all led to natural divisions of the year, and the further observation and local customs led to the recognition of the seasons. Years later, precise measurements were invented because the passage of time was extremely important for astronomers and priests who were responsible for determining the exact hour for daily rituals and for important religious festivals. Apart from the connection with religion, accurate time measurement was also related to the government since they divided the day or the night into different periods in order to regulate work and various events. For thousands of years, devices had been used to measure and keep track of time. The current sexagesimal system of time measurement dates back to approximately two thousand BCE from the Sumerians. It was found that the earliest ancient timekeepers were mainly invented and used in Mesopotamia, where the water clock was introduced from, as well as in North Africa, especially in the area of ancient Egypt."
+    },
+    {
+      "label": "7",
+      "text": "00:03:48,620"
+    },
+    {
+      "label": "8",
+      "text": "So now I'd like to introduce you to some of the most well-known ancient timekeepers, as well as the disadvantages of them, for which they were replaced by various new forms of clocks that were used afterwards. A sundial is a device that tells the time of day by the apparent positioning of the sun in the sky. In the narrowest sense of the word, it consists of a flat plate and a gnomon which casts a shadow onto the dial. As the sun appears to move across the sky, the shadow aligns with different hour lines, which are marked on the dial to indicate the time of day. However, it was quickly noted that the length of the day varied at different times of the year. Therefore, there could have been a difference between clock time and sundial time. In addition, the sundial was of no use at night, so a water clock was invented. The water clock, or clepsydra, appeared to have been invented around one thousand five hundred BCE and was a device which relied on the steady flow of water from or into a container. Measurements could be marked on the container or on a receptacle for the water. It was reliable, but the water flow still depended on the variation of pressure and temperature from the top of water in the container. As the technology of glassblowing developed from sometime in the fourteenth century, it became possible to make sandglasses. Originally, they were used as a measurement for periods of time like lamps or candles. But as clocks became more accurate, they were calibrated to measure specific periods of time. The drawback, however, as you can imagine, was the limited length of time they could measure. The last timekeeper to be introduced is the fire candle clock. Candle clocks took advantage of a simple concept, the slow and consistent nature of a burning wax candle. By utilizing this process, our ancestors were able to keep steady track of the time. The clocks were created by engraving the length of the candle with evenly spaced markings. Each marking represented a single unit of time, and as the wax burned down, each hour would disappear. However, the drafts and the variable quality of the wax mainly influenced the time of burning. Like oil lamps, candles were used to mark the passage of time from one event to another, rather than tell the time of day."
+    },
+    {
+      "label": "9",
+      "text": "00:06:22,660"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-35**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "bf0849c8-138b-4a4f-bb97-1dd542a5b1a4",
+          "prompt": "**Primitive measurements by observing two time keepers**:\n· The **31**_____",
+          "answers": [
+            "sun`s position"
+          ],
+          "rawAnswer": "sun`s position",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Prehistoric people first recorded time according to the sun's position"
+          },
+          "keywordPairs": [
+            {
+              "question": "observing",
+              "article": "recorded"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "af4b788f-136e-4c69-af2c-aaa39c766229",
+          "prompt": "· Natural events, such as winds and rains, rivers flooding, plants flowering, and the cycles of breeding or **32**_____ behaviour.",
+          "answers": [
+            "animal"
+          ],
+          "rawAnswer": "animal",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the breeding cycles or migration of animals all led to natural divisions of the year"
+          },
+          "keywordPairs": [
+            {
+              "question": "behaviour",
+              "article": "migration"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "4e49cdf5-6693-42ec-932d-53d0ba34ed12",
+          "prompt": "**Precise measurements **\nThey became important for organising activities for:\n· **33**_____",
+          "answers": [
+            "religion"
+          ],
+          "rawAnswer": "religion",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Precise measurements were invented because the passage of time was extremely important for astronomers and priests;for important religious festivals"
+          },
+          "keywordPairs": [
+            {
+              "question": "organising activities",
+              "article": "determining the exact hour for daily rituals & religious festivals"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "6582671c-f78a-45b6-9eed-9bac7b94baa7",
+          "prompt": "· **34**_____",
+          "answers": [
+            "government"
+          ],
+          "rawAnswer": "government",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Apart from the connection with religion, accurate time measurement was also related to the government since they divided the day or the night into different periods in order to regulate work and various events"
+          },
+          "keywordPairs": [
+            {
+              "question": "organising activities",
+              "article": "regulate work and various events"
+            },
+            {
+              "question": "important for",
+              "article": "related to"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "ad3bb122-7b7f-453e-a0f9-54cb99835174",
+          "prompt": "The oldest time keepers were discovered in Mesopotamia and **35**_____ .",
+          "answers": [
+            "Egypt"
+          ],
+          "rawAnswer": "Egypt",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It was found that the earliest ancient timekeepers were mainly invented and used in Mesopotamia, where the water clock was introduced from, as well as in North Africa, especially in the area of ancient Egypt"
+          },
+          "keywordPairs": [
+            {
+              "question": "oldest",
+              "article": "earliest"
+            },
+            {
+              "question": "discovered in",
+              "article": "invented and used in"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 36-40**\nComplete the table below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "6266016c-7503-462d-a893-32eb61f44ec2",
+          "prompt": "| **Time Keeper** | **Disadvantages** |\n| --- | --- |\n| The sundial | In different parts of the year, the time for day **36**_____ |\n| The Clepsydra(Water clock) | The changing pressure and 37..... were what the flow of water still relied on. |\n| The 38..... | The time duration was 39..... |\n| Fire Candle Clock | The burning 40..... or the rate of burning, was subject to the candles wax. |",
+          "answers": [
+            "varied"
+          ],
+          "rawAnswer": "varied|||temperature|||sandglass|||limited|||burning",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, it was quickly noted that the length of the day varied at different times of the year"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36",
+          "blockId": "table-218756b9d96ee188",
+          "blockPosition": 0,
+          "blockSize": 5
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "f70a71f6-4945-4d4d-ad68-c92ced5e8b70",
+          "prompt": "| **Time Keeper** | **Disadvantages** |\n| --- | --- |\n| The sundial | In different parts of the year, the time for day **36**_____ |\n| The Clepsydra(Water clock) | The changing pressure and 37..... were what the flow of water still relied on. |\n| The 38..... | The time duration was 39..... |\n| Fire Candle Clock | The burning 40..... or the rate of burning, was subject to the candles wax. |",
+          "answers": [
+            "temperature"
+          ],
+          "rawAnswer": "temperature",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It was reliable, but the water flow still depended on the variation of pressure and temperature from the top of water in the container"
+          },
+          "keywordPairs": [
+            {
+              "question": "changing",
+              "article": "variation"
+            },
+            {
+              "question": "relied on",
+              "article": "depended on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37",
+          "sourceDuplicateQuestionIds": [
+            "6266016c-7503-462d-a893-32eb61f44ec2"
+          ],
+          "alternateEvidence": [
+            {
+              "paragraph": "",
+              "quote": "However, it was quickly noted that the length of the day varied at different times of the year"
+            }
+          ],
+          "blockId": "table-218756b9d96ee188",
+          "blockPosition": 1,
+          "blockSize": 5
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "0e50be70-dfe7-4829-a14c-5a2757fd485f",
+          "prompt": "| **Time Keeper** | **Disadvantages** |\n| --- | --- |\n| The sundial | In different parts of the year, the time for day **36**_____ |\n| The Clepsydra(Water clock) | The changing pressure and 37..... were what the flow of water still relied on. |\n| The 38..... | The time duration was 39..... |\n| Fire Candle Clock | The burning 40..... or the rate of burning, was subject to the candles wax. |",
+          "answers": [
+            "sandglass"
+          ],
+          "rawAnswer": "sandglass",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As the technology of glassblowing developed from sometime in the fourteenth century, it became possible to make sandglasses"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38",
+          "sourceDuplicateQuestionIds": [
+            "6266016c-7503-462d-a893-32eb61f44ec2"
+          ],
+          "alternateEvidence": [
+            {
+              "paragraph": "",
+              "quote": "However, it was quickly noted that the length of the day varied at different times of the year"
+            }
+          ],
+          "blockId": "table-218756b9d96ee188",
+          "blockPosition": 2,
+          "blockSize": 5
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "09958077-6951-4c15-b21f-29f99680b5cc",
+          "prompt": "| **Time Keeper** | **Disadvantages** |\n| --- | --- |\n| The sundial | In different parts of the year, the time for day **36**_____ |\n| The Clepsydra(Water clock) | The changing pressure and 37..... were what the flow of water still relied on. |\n| The 38..... | The time duration was 39..... |\n| Fire Candle Clock | The burning 40..... or the rate of burning, was subject to the candles wax. |",
+          "answers": [
+            "limited"
+          ],
+          "rawAnswer": "limited",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The drawback, however, as you can imagine, was the limited length of time they could measure"
+          },
+          "keywordPairs": [
+            {
+              "question": "duration",
+              "article": "length"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39",
+          "sourceDuplicateQuestionIds": [
+            "6266016c-7503-462d-a893-32eb61f44ec2"
+          ],
+          "alternateEvidence": [
+            {
+              "paragraph": "",
+              "quote": "However, it was quickly noted that the length of the day varied at different times of the year"
+            }
+          ],
+          "blockId": "table-218756b9d96ee188",
+          "blockPosition": 3,
+          "blockSize": 5
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "017d24c6-07a4-4b4a-a08c-b24ab7cbac2d",
+          "prompt": "| **Time Keeper** | **Disadvantages** |\n| --- | --- |\n| The sundial | In different parts of the year, the time for day **36**_____ |\n| The Clepsydra(Water clock) | The changing pressure and 37..... were what the flow of water still relied on. |\n| The 38..... | The time duration was 39..... |\n| Fire Candle Clock | The burning 40..... or the rate of burning, was subject to the candles wax. |",
+          "answers": [],
+          "rawAnswer": "speed",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, the drafts and the variable quality of the wax mainly influenced the time of burning"
+          },
+          "keywordPairs": [
+            {
+              "question": "was subject to",
+              "article": "influenced by"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40",
+          "sourceDuplicateQuestionIds": [
+            "6266016c-7503-462d-a893-32eb61f44ec2"
+          ],
+          "alternateEvidence": [
+            {
+              "paragraph": "",
+              "quote": "However, it was quickly noted that the length of the day varied at different times of the year"
+            }
+          ],
+          "sourceKeyVariants": [
+            {
+              "questionId": "6266016c-7503-462d-a893-32eb61f44ec2",
+              "sourceNumber": "36",
+              "answers": [
+                "burning"
+              ],
+              "rawAnswer": "varied|||temperature|||sandglass|||limited|||burning",
+              "evidence": {
+                "paragraph": "",
+                "quote": "However, it was quickly noted that the length of the day varied at different times of the year"
+              }
+            },
+            {
+              "questionId": "017d24c6-07a4-4b4a-a08c-b24ab7cbac2d",
+              "sourceNumber": "40",
+              "answers": [
+                "speed"
+              ],
+              "rawAnswer": "speed",
+              "evidence": {
+                "paragraph": "",
+                "quote": "However, the drafts and the variable quality of the wax mainly influenced the time of burning"
+              }
+            }
+          ],
+          "unscorable": true,
+          "integrityWarning": "同一道题的参考答案不一致，此题暂不计分。",
+          "blockId": "table-218756b9d96ee188",
+          "blockPosition": 4,
+          "blockSize": 5
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "review",
+  "migrationNotes": [
+    {
+      "code": "expanded_from_answer_slots",
+      "severity": "info",
+      "questionId": "6266016c-7503-462d-a893-32eb61f44ec2",
+      "sourceNumber": "36",
+      "detail": {
+        "sourceNumberSlots": 1,
+        "answerSlots": 5
+      }
+    },
+    {
+      "code": "source_slot_numbers_expanded",
+      "severity": "info",
+      "questionId": "6266016c-7503-462d-a893-32eb61f44ec2"
+    },
+    {
+      "code": "overlapping_source_answer_conflict",
+      "severity": "error",
+      "sourceNumber": "40",
+      "questionId": "017d24c6-07a4-4b4a-a08c-b24ab7cbac2d",
+      "detail": [
+        {
+          "questionId": "6266016c-7503-462d-a893-32eb61f44ec2",
+          "sourceNumber": "36",
+          "answers": [
+            "burning"
+          ],
+          "rawAnswer": "varied|||temperature|||sandglass|||limited|||burning",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, it was quickly noted that the length of the day varied at different times of the year"
+          }
+        },
+        {
+          "questionId": "017d24c6-07a4-4b4a-a08c-b24ab7cbac2d",
+          "sourceNumber": "40",
+          "answers": [
+            "speed"
+          ],
+          "rawAnswer": "speed",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, the drafts and the variable quality of the wax mainly influenced the time of burning"
+          }
+        }
+      ]
+    },
+    {
+      "code": "overlapping_answer_slots_merged",
+      "severity": "info",
+      "detail": {
+        "removedSlots": 4
+      }
+    }
+  ],
+  "transcriptHtml": "<p>00:00:00,440</p><p>Section four. You will hear part of a lecture about time measurement. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:51,380</p><p>Now, listen carefully and answer questions thirty-one to forty. </p><p>00:00:59,840</p><p>Good morning, everyone. Today, I'm going to talk about the research project I've been involved in on time measurement. Do you know how time is measured? Consider how we measure length and how with time we encounter a difficulty. Before we could grasp it, it would slip through our fingers. In fact, as we can see, we are forced to have the resource to measure something else, the movement of something in space or a set of movements in space. All the methods that have been employed so far really measure time by a motion in space. The measurement of time is no easy matter. A scientific unit only arrived at after much thought and reflection. As the most primitive form of measurement, the sun seems to be natural. Ever since man first noticed the regular movements of the sun and stars, we have wondered about the passage of time. Prehistoric people first recorded time according to the sun's position. To start off, let us take noon, which is when the sun is on the meridian at the highest point of its course across the heavens and when it casts the shortest shadow. But this measurement, which was regarded as a major one in ancient times, was less important than the natural events that occurred. The earliest natural events that had been recognized were in the heavens, but during the course of the year, there were many other events that indicated significant changes in the environment. Seasonal winds and rains, the flooding of rivers, the flowering of trees and plants, and the breeding cycles or migration of animals all led to natural divisions of the year, and the further observation and local customs led to the recognition of the seasons. Years later, precise measurements were invented because the passage of time was extremely important for astronomers and priests who were responsible for determining the exact hour for daily rituals and for important religious festivals. Apart from the connection with religion, accurate time measurement was also related to the government since they divided the day or the night into different periods in order to regulate work and various events. For thousands of years, devices had been used to measure and keep track of time. The current sexagesimal system of time measurement dates back to approximately two thousand BCE from the Sumerians. It was found that the earliest ancient timekeepers were mainly invented and used in Mesopotamia, where the water clock was introduced from, as well as in North Africa, especially in the area of ancient Egypt. </p><p>00:03:48,620</p><p>So now I'd like to introduce you to some of the most well-known ancient timekeepers, as well as the disadvantages of them, for which they were replaced by various new forms of clocks that were used afterwards. A sundial is a device that tells the time of day by the apparent positioning of the sun in the sky. In the narrowest sense of the word, it consists of a flat plate and a gnomon which casts a shadow onto the dial. As the sun appears to move across the sky, the shadow aligns with different hour lines, which are marked on the dial to indicate the time of day. However, it was quickly noted that the length of the day varied at different times of the year. Therefore, there could have been a difference between clock time and sundial time. In addition, the sundial was of no use at night, so a water clock was invented. The water clock, or clepsydra, appeared to have been invented around one thousand five hundred BCE and was a device which relied on the steady flow of water from or into a container. Measurements could be marked on the container or on a receptacle for the water. It was reliable, but the water flow still depended on the variation of pressure and temperature from the top of water in the container. As the technology of glassblowing developed from sometime in the fourteenth century, it became possible to make sandglasses. Originally, they were used as a measurement for periods of time like lamps or candles. But as clocks became more accurate, they were calibrated to measure specific periods of time. The drawback, however, as you can imagine, was the limited length of time they could measure. The last timekeeper to be introduced is the fire candle clock. Candle clocks took advantage of a simple concept, the slow and consistent nature of a burning wax candle. By utilizing this process, our ancestors were able to keep steady track of the time. The clocks were created by engraving the length of the candle with evenly spaced markings. Each marking represented a single unit of time, and as the wax burned down, each hour would disappear. However, the drafts and the variable quality of the wax mainly influenced the time of burning. Like oil lamps, candles were used to mark the passage of time from one event to another, rather than tell the time of day. </p><p>00:06:22,660</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/c8537f14-dbcf-4b67-a248-84bcb62235f0.mp3",
+    "durationSeconds": 390.24,
+    "sizeBytes": 6244371,
+    "sha256": "3206c077482e3ac370e2542e4a291b46c23a001a77712da1c266265d55f506b2",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:26Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777211263028_6th9pe_a0b37222.mp3"
+}

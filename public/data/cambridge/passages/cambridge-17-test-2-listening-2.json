@@ -1,0 +1,260 @@
+{
+  "id": "cambridge-17-test-2-listening-2",
+  "title": "Oniton Hall",
+  "titleCn": "Oniton Hall",
+  "subject": "listening",
+  "part": 2,
+  "duration": 444,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 2
+  },
+  "sourceQuestionId": "8372",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8372",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Good morning, and welcome to Oniton Hall, one of the largest estates in the area. My name’s Nick, and I’m one of the guides. I’ll give you a brief introduction to the estate while you’re sitting down, and then we’ll walk round. The estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century. The original house was replaced in the late seventeenth century, and of course it has had a large number of owners. Almost all of them have left their mark, generally by adding new rooms, like the ballroom and conservatory, or by demolishing others. The farm looks much as it’s always done, although the current owner has done a great deal of work to the flower beds. In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes. His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures. He broke off contact with his former political allies, and hosted meetings of creative and literary people, like painters and poets. Unusually for his time, he didn’t care whether his guests were rich or poor, as long as they had talent. Big houses like Oniton had dozens of servants until the 1920s or 30s, and we’ve tried to show what their working lives were like. Photographs of course don’t give much of an idea, so instead, as you go round the house, you’ll see volunteers dressed up as nineteenth-century servants, going about their work. They’ll explain what they’re doing, and tell you their recipes, or what tools they’re using. We’ve just introduced this feature to replace the audio guide we used to have available. I see there are a number of children here with you today. Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it’s a fine day, some of you will probably want to play in the adventure playground. Our latest addition is child-sized tractors, that you can drive around the grounds. We’ll also be going into the farm that’s part of the estate, where there’s plenty to do. Most of the buildings date from the eighteenth century, so you can really step back into an agricultural past. Until recently, the dairy was where milk from the cows was turned into cheese. It’s now the place to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake. The big stone building that dominates the farm is the large barn, and in here is our collection of agricultural tools. These were used in the past to plough the earth, sow seeds, make gates, and much more. There’s a small barn, also made of stone, where you can groom the donkeys and horses, to keep their coats clean. They really seem to enjoy having it done, and children love grooming them. The horses no longer live in the stables, which instead is the place to go to buy gifts, books, our own jams and pickles, and clothes and blankets made of wool from our sheep. Outside the shed, which is the only brick building, you can climb into a horse-drawn carriage for a lovely, relaxing tour of the park and farm. The carriages are well over a hundred years old. And finally, the parkland, which was laid out in the eighteenth century, with a lake and trees that are now well established. You’ll see types of cattle and sheep that are hardly ever found on farms these days. We’re helping to preserve them, to stop their numbers falling further. OK, well if you’d like to come with me …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "PART 2 Questions 11–20\n\nQuestions 11–14\n\nChoose the correct letter, A, B or C.\n\nOniton Hall",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Many past owners made changes to",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8372_286980",
+          "options": [
+            {
+              "value": "A",
+              "text": "the gardens."
+            },
+            {
+              "value": "B",
+              "text": "the house."
+            },
+            {
+              "value": "C",
+              "text": "the farm."
+            }
+          ],
+          "explanation": "本题需要选出过去的庄园主对庄园的哪些地方做了改动。原文首先提到it has had a large number of owners，从而引出该题。随后说几乎每一任主人都留下了痕迹，一般是adding new rooms 或者 demolishing others，即增加或减少房间，对应B选项houses。后文提到the farm looks much as it’s always done，可排除C选项。最后提到的flower beds和A选项gardens有关联，但此处说的是目前的庄园主所做的事，与题目不符。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Sir Edward Downes built Oniton Hall because he wanted",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8372_634870",
+          "options": [
+            {
+              "value": "A",
+              "text": "a place for discussing politics."
+            },
+            {
+              "value": "B",
+              "text": "a place to display his wealth."
+            },
+            {
+              "value": "C",
+              "text": "a place for artists and writers."
+            }
+          ],
+          "explanation": "题干中的人名Sir Edward Downes容易定位，需要选出此人建造Oniton Hall的原因。原文提及此人时首先提到了wealthy，B选项原词重现，但原文没有说这是他修建府邸的原因。随后又说此人不想继续从政，build a new house是为了收藏书籍、绘画、雕塑等等，但并没有与之对应的选项。后文接着说他切断了和政客的联系，并且hosted meetings of creative and literary people, like painters and poets，据此可否定A选项并确定C选项。C选项的artists和writers在原文中分别替换为painters和poets。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Visitors can learn about the work of servants in the past from",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8372_766239",
+          "options": [
+            {
+              "value": "A",
+              "text": "audio guides."
+            },
+            {
+              "value": "B",
+              "text": "photographs."
+            },
+            {
+              "value": "C",
+              "text": "people in costume."
+            }
+          ],
+          "explanation": "题干意为“参观者从______可以了解以前庄园仆人的工作”。题干servant一词原词重现，紧接着show what their working lives were like可定位此题。根据Photographs of course don’t give much of an idea可否定B选项。随后说you’ll see volunteers dressed up…what tools they’re using；volunteer对应C选项的people，dress up对应in costume，因此可确定答案为C选项。之后提到audio guide，但used to have表示这是以前使用的方法，因此否定A选项。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What is new for children at Oniton Hall?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8372_819182",
+          "options": [
+            {
+              "value": "A",
+              "text": "clothes for dressing up"
+            },
+            {
+              "value": "B",
+              "text": "mini tractors"
+            },
+            {
+              "value": "C",
+              "text": "the adventure playground"
+            }
+          ],
+          "explanation": "题干的new和children为关键词。原文首先提到children，可定位该题，之后提到给孩子们设计的一系列活动。介绍前两个活动时，A和C两个选项原词重现，但没有体现new一词。直到Our latest addition is…才能确定答案所在，latest对应题干的new，B选项tractors原词重现，mini在原文中替换为child-sized。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 15–20\n\nWhich activity is offered at each of the following locations on the farm?\n\nChoose the correct answer and move it to the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "15 dairy [15] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8372_976630",
+          "explanation": "15. 选项D中的eating和drinking通过原文一系列表示食物和饮料的词体现，即lunch、tea、coffee和cake。B选项为干扰项，原文在提及lunch之前提到where milk from the cows was turned into cheese，虽然出现了cow和milk，但与B选项所述事情（给奶牛挤奶）不符。同时，此句时态为一般过去时，即表示这是以前的用途，也和题目要求不符。\n\n16. 选项C中的farming equipment在原文中替换为agricultural tools；old一词替换为in the past，原文该句的过去时态也体现了old。H选项为干扰项，虽然farming tools可与agricultural tools同义替换，但原文没有说到游客能够使用这些农具，选项中的using没有在原文体现。\n\n17. 选项G中的look after在原文中替换为更具体的动作groom。如果考生不清楚groom一词的意思，可通过后文keep their coats clean推测。\n\n18. 本题为直接同义替换，选项A中的shopping在原文中替换为buy gifts, books, …blankets。\n\n19. 选项E中的trip在原文中替换为tour。但tour一词出现前有不少描述性的语言，如climb into a horse-drawn carriage、lovely、relaxing等，容易形成干扰，考生需要集中精力听取选项关键词的同义替换。\n\n20. 选项F中的breeds of animals在原文中替换为types of cattle and sheep；rare替换为hardly ever found on farms these days。",
+          "promptHtml": "15 dairy [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "16 large barn [16] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8372_410720",
+          "explanation": "15. 选项D中的eating和drinking通过原文一系列表示食物和饮料的词体现，即lunch、tea、coffee和cake。B选项为干扰项，原文在提及lunch之前提到where milk from the cows was turned into cheese，虽然出现了cow和milk，但与B选项所述事情（给奶牛挤奶）不符。同时，此句时态为一般过去时，即表示这是以前的用途，也和题目要求不符。\n\n16. 选项C中的farming equipment在原文中替换为agricultural tools；old一词替换为in the past，原文该句的过去时态也体现了old。H选项为干扰项，虽然farming tools可与agricultural tools同义替换，但原文没有说到游客能够使用这些农具，选项中的using没有在原文体现。\n\n17. 选项G中的look after在原文中替换为更具体的动作groom。如果考生不清楚groom一词的意思，可通过后文keep their coats clean推测。\n\n18. 本题为直接同义替换，选项A中的shopping在原文中替换为buy gifts, books, …blankets。\n\n19. 选项E中的trip在原文中替换为tour。但tour一词出现前有不少描述性的语言，如climb into a horse-drawn carriage、lovely、relaxing等，容易形成干扰，考生需要集中精力听取选项关键词的同义替换。\n\n20. 选项F中的breeds of animals在原文中替换为types of cattle and sheep；rare替换为hardly ever found on farms these days。",
+          "promptHtml": "16 large barn [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "17 small barn [17] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8372_691734",
+          "explanation": "15. 选项D中的eating和drinking通过原文一系列表示食物和饮料的词体现，即lunch、tea、coffee和cake。B选项为干扰项，原文在提及lunch之前提到where milk from the cows was turned into cheese，虽然出现了cow和milk，但与B选项所述事情（给奶牛挤奶）不符。同时，此句时态为一般过去时，即表示这是以前的用途，也和题目要求不符。\n\n16. 选项C中的farming equipment在原文中替换为agricultural tools；old一词替换为in the past，原文该句的过去时态也体现了old。H选项为干扰项，虽然farming tools可与agricultural tools同义替换，但原文没有说到游客能够使用这些农具，选项中的using没有在原文体现。\n\n17. 选项G中的look after在原文中替换为更具体的动作groom。如果考生不清楚groom一词的意思，可通过后文keep their coats clean推测。\n\n18. 本题为直接同义替换，选项A中的shopping在原文中替换为buy gifts, books, …blankets。\n\n19. 选项E中的trip在原文中替换为tour。但tour一词出现前有不少描述性的语言，如climb into a horse-drawn carriage、lovely、relaxing等，容易形成干扰，考生需要集中精力听取选项关键词的同义替换。\n\n20. 选项F中的breeds of animals在原文中替换为types of cattle and sheep；rare替换为hardly ever found on farms these days。",
+          "promptHtml": "17 small barn [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "18 stables [18] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8372_111304",
+          "explanation": "15. 选项D中的eating和drinking通过原文一系列表示食物和饮料的词体现，即lunch、tea、coffee和cake。B选项为干扰项，原文在提及lunch之前提到where milk from the cows was turned into cheese，虽然出现了cow和milk，但与B选项所述事情（给奶牛挤奶）不符。同时，此句时态为一般过去时，即表示这是以前的用途，也和题目要求不符。\n\n16. 选项C中的farming equipment在原文中替换为agricultural tools；old一词替换为in the past，原文该句的过去时态也体现了old。H选项为干扰项，虽然farming tools可与agricultural tools同义替换，但原文没有说到游客能够使用这些农具，选项中的using没有在原文体现。\n\n17. 选项G中的look after在原文中替换为更具体的动作groom。如果考生不清楚groom一词的意思，可通过后文keep their coats clean推测。\n\n18. 本题为直接同义替换，选项A中的shopping在原文中替换为buy gifts, books, …blankets。\n\n19. 选项E中的trip在原文中替换为tour。但tour一词出现前有不少描述性的语言，如climb into a horse-drawn carriage、lovely、relaxing等，容易形成干扰，考生需要集中精力听取选项关键词的同义替换。\n\n20. 选项F中的breeds of animals在原文中替换为types of cattle and sheep；rare替换为hardly ever found on farms these days。",
+          "promptHtml": "18 stables [18] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "19 shed [19] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8372_804842",
+          "explanation": "15. 选项D中的eating和drinking通过原文一系列表示食物和饮料的词体现，即lunch、tea、coffee和cake。B选项为干扰项，原文在提及lunch之前提到where milk from the cows was turned into cheese，虽然出现了cow和milk，但与B选项所述事情（给奶牛挤奶）不符。同时，此句时态为一般过去时，即表示这是以前的用途，也和题目要求不符。\n\n16. 选项C中的farming equipment在原文中替换为agricultural tools；old一词替换为in the past，原文该句的过去时态也体现了old。H选项为干扰项，虽然farming tools可与agricultural tools同义替换，但原文没有说到游客能够使用这些农具，选项中的using没有在原文体现。\n\n17. 选项G中的look after在原文中替换为更具体的动作groom。如果考生不清楚groom一词的意思，可通过后文keep their coats clean推测。\n\n18. 本题为直接同义替换，选项A中的shopping在原文中替换为buy gifts, books, …blankets。\n\n19. 选项E中的trip在原文中替换为tour。但tour一词出现前有不少描述性的语言，如climb into a horse-drawn carriage、lovely、relaxing等，容易形成干扰，考生需要集中精力听取选项关键词的同义替换。\n\n20. 选项F中的breeds of animals在原文中替换为types of cattle and sheep；rare替换为hardly ever found on farms these days。",
+          "promptHtml": "19 shed [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "20 parkland [20] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8372_322557",
+          "explanation": "15. 选项D中的eating和drinking通过原文一系列表示食物和饮料的词体现，即lunch、tea、coffee和cake。B选项为干扰项，原文在提及lunch之前提到where milk from the cows was turned into cheese，虽然出现了cow和milk，但与B选项所述事情（给奶牛挤奶）不符。同时，此句时态为一般过去时，即表示这是以前的用途，也和题目要求不符。\n\n16. 选项C中的farming equipment在原文中替换为agricultural tools；old一词替换为in the past，原文该句的过去时态也体现了old。H选项为干扰项，虽然farming tools可与agricultural tools同义替换，但原文没有说到游客能够使用这些农具，选项中的using没有在原文体现。\n\n17. 选项G中的look after在原文中替换为更具体的动作groom。如果考生不清楚groom一词的意思，可通过后文keep their coats clean推测。\n\n18. 本题为直接同义替换，选项A中的shopping在原文中替换为buy gifts, books, …blankets。\n\n19. 选项E中的trip在原文中替换为tour。但tour一词出现前有不少描述性的语言，如climb into a horse-drawn carriage、lovely、relaxing等，容易形成干扰，考生需要集中精力听取选项关键词的同义替换。\n\n20. 选项F中的breeds of animals在原文中替换为types of cattle and sheep；rare替换为hardly ever found on farms these days。",
+          "promptHtml": "20 parkland [20] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "shopping"
+        },
+        {
+          "value": "B",
+          "text": "watching cows being milked"
+        },
+        {
+          "value": "C",
+          "text": "seeing old farming equipment"
+        },
+        {
+          "value": "D",
+          "text": "eating and drinking"
+        },
+        {
+          "value": "E",
+          "text": "starting a trip"
+        },
+        {
+          "value": "F",
+          "text": "seeing rare breeds of animals"
+        },
+        {
+          "value": "G",
+          "text": "helping to look after animals"
+        },
+        {
+          "value": "H",
+          "text": "using farming tools"
+        }
+      ],
+      "contextHtml": "<p><strong>                         Locations on the farm</strong><br>\n15 dairy          <strong>[15] ______</strong> <br>\n16 large barn  <strong>[16] ______</strong> <br>\n17 small barn  <strong>[17] ______</strong> <br>\n18 stables       <strong>[18] ______</strong> <br>\n19 shed           <strong>[19] ______</strong> <br>\n20 parkland     <strong>[20] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span>Good morning, and welcome to Oniton Hall, one of the largest estates in the area. My name’s Nick, and I’m one of the guides. I’ll give you a brief introduction to the estate while you’re sitting down, and then we’ll walk round. The estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century. The original house was replaced in the late seventeenth century, and of course it has had a large number of owners. Almost all of them have left their mark, generally by adding new rooms, like the ballroom and conservatory, or by demolishing others. The farm looks much as it’s always done, although the current owner has done a great deal of work to the flower beds. In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes. His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures. He broke off contact with his former political allies, and hosted meetings of creative and literary people, like painters and poets. Unusually for his time, he didn’t care whether his guests were rich or poor, as long as they had talent. Big houses like Oniton had dozens of servants until the 1920s or 30s, and we’ve tried to show what their working lives were like. Photographs of course don’t give much of an idea, so instead, as you go round the house, you’ll see volunteers dressed up as nineteenth-century servants, going about their work. They’ll explain what they’re doing, and tell you their recipes, or what tools they’re using. We’ve just introduced this feature to replace the audio guide we used to have available. I see there are a number of children here with you today. Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it’s a fine day, some of you will probably want to play in the adventure playground. Our latest addition is child-sized tractors, that you can drive around the grounds. We’ll also be going into the farm that’s part of the estate, where there’s plenty to do. Most of the buildings date from the eighteenth century, so you can really step back into an agricultural past. Until recently, the dairy was where milk from the cows was turned into cheese. It’s now the place to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake. The big stone building that dominates the farm is the large barn, and in here is our collection of agricultural tools. These were used in the past to plough the earth, sow seeds, make gates, and much more. There’s a small barn, also made of stone, where you can groom the donkeys and horses, to keep their coats clean. They really seem to enjoy having it done, and children love grooming them. The horses no longer live in the stables, which instead is the place to go to buy gifts, books, our own jams and pickles, and clothes and blankets made of wool from our sheep. Outside the shed, which is the only brick building, you can climb into a horse-drawn carriage for a lovely, relaxing tour of the park and farm. The carriages are well over a hundred years old. And finally, the parkland, which was laid out in the eighteenth century, with a lake and trees that are now well established. You’ll see types of cattle and sheep that are hardly ever found on farms these days. We’re helping to preserve them, to stop their numbers falling further. OK, well if you’d like to come with me … </span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8372.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 444.079
+  }
+}

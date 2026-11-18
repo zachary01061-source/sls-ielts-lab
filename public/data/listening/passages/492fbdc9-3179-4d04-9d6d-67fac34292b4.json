@@ -1,0 +1,315 @@
+{
+  "id": "492fbdc9-3179-4d04-9d6d-67fac34292b4",
+  "title": "The Salamander",
+  "titleCn": "蝾螈：会再生心脏和四肢的两栖动物",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/492fbdc9-3179-4d04-9d6d-67fac34292b4",
+  "duration": 312,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,680"
+    },
+    {
+      "label": "2",
+      "text": "A salamander is a fascinating amphibian that is often mistaken for a lizard due to its elongated body, short legs, and tail. However, unlike reptiles, salamanders have moist, permeable skin, which they rely on for respiration."
+    },
+    {
+      "label": "3",
+      "text": "00:00:19,480"
+    },
+    {
+      "label": "4",
+      "text": "One of the most distinctive features of many salamanders is their spots, which serve as a form of camouflage or warning to potential predators. Some species have bright coloration, signaling their toxicity, while others blend into their surroundings to avoid detection."
+    },
+    {
+      "label": "5",
+      "text": "00:00:39,600"
+    },
+    {
+      "label": "6",
+      "text": "Salamanders possess an extraordinary ability. They can regenerate their heart, limbs, and even parts of their spinal cord. This makes them a subject of interest in scientific research, particularly in the field of regenerative medicine. Their diet consists of small insects, worms, and other invertebrates, often found in damp environments where leaves accumulate on the forest floor. These areas provide both shelter and food sources for these amphibians."
+    },
+    {
+      "label": "7",
+      "text": "00:01:17,860"
+    },
+    {
+      "label": "8",
+      "text": "Salamanders also play a critical role in the carbon cycle."
+    },
+    {
+      "label": "9",
+      "text": "00:01:22,780"
+    },
+    {
+      "label": "10",
+      "text": "By consuming leaf litter insects, they indirectly help regulate carbon levels in ecosystems, preventing excess decomposition that releases carbon dioxide into the atmosphere. However, their survival is heavily dependent on the health of their habitat, particularly the soil, where they lay eggs and seek refuge."
+    },
+    {
+      "label": "11",
+      "text": "00:01:48,040"
+    },
+    {
+      "label": "12",
+      "text": "Contaminated soil can have devastating effects on their populations."
+    },
+    {
+      "label": "13",
+      "text": "00:01:53,460"
+    },
+    {
+      "label": "14",
+      "text": "One of the biggest threats to salamanders today is environmental pollution."
+    },
+    {
+      "label": "15",
+      "text": "00:01:58,380"
+    },
+    {
+      "label": "16",
+      "text": "Chemicals from agricultural runoff, industrial waste, and even road salt seep into their habitats, causing declines in many species."
+    },
+    {
+      "label": "17",
+      "text": "00:02:09,020"
+    },
+    {
+      "label": "18",
+      "text": "Despite these challenges, salamanders have long been valued in traditional medicine. Some cultures believe that their secretions have healing properties, though modern science has yet to fully verify these claims."
+    },
+    {
+      "label": "19",
+      "text": "00:02:23,600"
+    },
+    {
+      "label": "20",
+      "text": "Interestingly, salamanders are sometimes confused with a frog, especially in their larval stage, when they have external gills similar to those of tadpoles. However, unlike frogs, many salamanders retain their tails into adulthood. Finally, temperature plays a crucial role in their survival. Since they rely on external sources of heat, fluctuations in temperature due to climate change pose a significant threat to their populations, affecting their breeding patterns and metabolic rates."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "e64cfc46-5dfe-42de-9537-6c03456c3c6b",
+          "prompt": "**Features**\n·The salamander is often mistaken for a **31**_____ because of its body shape.",
+          "answers": [
+            "lizard"
+          ],
+          "rawAnswer": "lizard",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A salamander is a fascinating amphibian that is often mistaken for a lizard due to its elongated body, short legs, and tail"
+          },
+          "keywordPairs": [
+            {
+              "question": "because of",
+              "article": "due to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "f90815ab-955f-401f-8206-3d7eb50cdbc3",
+          "prompt": "·Some salamanders have distinctive **32**_____ that help them camouflage warn predators.",
+          "answers": [
+            "spots"
+          ],
+          "rawAnswer": "spots",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the most distinctive features of many salamanders is their spots, which serve as a form of camouflage or warning to potential predators"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "058dce8d-ece5-4e40-84a5-36c819832a70",
+          "prompt": "·These amphibians have the remarkable ability to regenerate their limbs, spinal cord, and even their **33**_____ .",
+          "answers": [
+            "heart"
+          ],
+          "rawAnswer": "heart",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They can regenerate their heart, limbs, and even parts of their spinal cord"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "9c62d9f0-199a-4d60-94ec-5987b843b1a0",
+          "prompt": "**Habitat and Ecological Role**\n·Salamanders often inhabit damp environments where **34**_____ accumulate on the forest floor.",
+          "answers": [
+            "leaves"
+          ],
+          "rawAnswer": "leaves",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Their diet consists of small insects, worms, and other invertebrates, often found in damp environments where leaves accumulate on the forest floor"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "499db3b9-98d7-4eaa-9f67-f1ad3ebcc6a9",
+          "prompt": "·By consuming leaf-litter insects, salamanders help regulate **35**_____ level in ecosystems.",
+          "answers": [
+            "carbon"
+          ],
+          "rawAnswer": "carbon",
+          "evidence": {
+            "paragraph": "",
+            "quote": "By consuming leaf litter insects, they indirectly help regulate carbon levels in ecosystems, preventing excess decomposition that releases carbon dioxide into the atmosphere"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "928a3c25-b61f-41c5-8c0b-42f54a55f72c",
+          "prompt": "· Their survival depends on healthy **36**_____, which they use for laying eggs and seeking refuge.",
+          "answers": [
+            "soil"
+          ],
+          "rawAnswer": "soil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, their survival is heavily dependent on the health of their habitat, particularly the soil, where they lay eggs and seek refuge"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "a07dcf63-55be-4f69-9598-fdfc53aee747",
+          "prompt": "**Threats and Human Interaction**\n·A major threat to salamanders today is environmental **37**_____, which contaminates their habitats.",
+          "answers": [
+            "pollution"
+          ],
+          "rawAnswer": "pollution",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the biggest threats to salamanders today is environmental pollution"
+          },
+          "keywordPairs": [
+            {
+              "question": "major",
+              "article": "biggest"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "36099527-a03d-4e80-be27-d03de612c3ee",
+          "prompt": "·Historically, salamanders have been used in traditional **38**_____ for their perceived healing properties.",
+          "answers": [
+            "medicine"
+          ],
+          "rawAnswer": "medicine",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Despite these challenges, salamanders have long been valued in traditional medicine"
+          },
+          "keywordPairs": [
+            {
+              "question": "Historically",
+              "article": "have long been"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "185fe90e-04af-4727-8c99-5338a15b4ca7",
+          "prompt": "·In their larval stage, some species resemble a **39**_____ due to their external gills.",
+          "answers": [
+            "frog"
+          ],
+          "rawAnswer": "frog",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Interestingly, salamanders are sometimes confused with a frog, especially in their larval stage, when they have external gills similar to those of tadpoles"
+          },
+          "keywordPairs": [
+            {
+              "question": "resemble",
+              "article": "are confused with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "8aa12f4d-fdb9-4421-ac2b-896b9581cd9a",
+          "prompt": "·Climate change is a significant threat, as fluctuations in **40**_____ affect salamander survival and breeding patterns.",
+          "answers": [
+            "temperature"
+          ],
+          "rawAnswer": "temperature",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, temperature plays a crucial role in their survival. Since they rely on external sources of heat, fluctuations in temperature due to climate change pose a significant threat to their populations, affecting their breeding patterns"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,680</p><p>A salamander is a fascinating amphibian that is often mistaken for a lizard due to its elongated body, short legs, and tail. However, unlike reptiles, salamanders have moist, permeable skin, which they rely on for respiration. </p><p>00:00:19,480</p><p>One of the most distinctive features of many salamanders is their spots, which serve as a form of camouflage or warning to potential predators. Some species have bright coloration, signaling their toxicity, while others blend into their surroundings to avoid detection. </p><p>00:00:39,600</p><p>Salamanders possess an extraordinary ability. They can regenerate their heart, limbs, and even parts of their spinal cord. This makes them a subject of interest in scientific research, particularly in the field of regenerative medicine. Their diet consists of small insects, worms, and other invertebrates, often found in damp environments where leaves accumulate on the forest floor. These areas provide both shelter and food sources for these amphibians. </p><p>00:01:17,860</p><p>Salamanders also play a critical role in the carbon cycle. </p><p>00:01:22,780</p><p>By consuming leaf litter insects, they indirectly help regulate carbon levels in ecosystems, preventing excess decomposition that releases carbon dioxide into the atmosphere. However, their survival is heavily dependent on the health of their habitat, particularly the soil, where they lay eggs and seek refuge. </p><p>00:01:48,040</p><p>Contaminated soil can have devastating effects on their populations. </p><p>00:01:53,460</p><p>One of the biggest threats to salamanders today is environmental pollution. </p><p>00:01:58,380</p><p>Chemicals from agricultural runoff, industrial waste, and even road salt seep into their habitats, causing declines in many species. </p><p>00:02:09,020</p><p>Despite these challenges, salamanders have long been valued in traditional medicine. Some cultures believe that their secretions have healing properties, though modern science has yet to fully verify these claims. </p><p>00:02:23,600</p><p>Interestingly, salamanders are sometimes confused with a frog, especially in their larval stage, when they have external gills similar to those of tadpoles. However, unlike frogs, many salamanders retain their tails into adulthood. Finally, temperature plays a crucial role in their survival. Since they rely on external sources of heat, fluctuations in temperature due to climate change pose a significant threat to their populations, affecting their breeding patterns and metabolic rates.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/492fbdc9-3179-4d04-9d6d-67fac34292b4.mp3",
+    "durationSeconds": 191.208,
+    "sizeBytes": 3059757,
+    "sha256": "533989e375a9800b9d2a55749dbdd816477bd3eb41beff9926bc7d3d210d5eae",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:29Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792997920780_kko4vz.mp3"
+}

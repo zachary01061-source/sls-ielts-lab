@@ -1,0 +1,305 @@
+{
+  "id": "cambridge-19-test-3-reading-2",
+  "title": "The global importance of wetlands",
+  "titleCn": "The global importance of wetlands",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 3
+  },
+  "sourceQuestionId": "8509",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8509",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The global importance of wetlands"
+    },
+    {
+      "label": "2",
+      "text": "A. Wetlands are areas where water covers the soil, or is present either at or near the surface of the soil, for all or part of the year. These are complex ecosystems, rich in unique plant and animal life. But according to the World Wide Fund for Nature (WWFN), half of the world’s wetlands have disappeared since 1990 – converted or destroyed for commercial development, drainage schemes and the extraction of minerals and peat*. Many of those that remain have been damaged by agricultural pesticides and fertilisers, industrial pollutants, and construction works."
+    },
+    {
+      "label": "3",
+      "text": "B. Throughout history, humans have gathered around wetlands, and their fertile ecosystems have played an important part in human development. Consequently, they are of considerable religious, historical and archaeological value to many communities around the world. ‘Wetlands directly support the livelihoods and well-being of millions of people,’says Dr Matthew McCartney, principal researcher and hydrologist at the International Water Management Institute (IWMI). ‘In many developing countries, large numbers of people are dependent on wetland agriculture for their livelihoods.’"
+    },
+    {
+      "label": "4",
+      "text": "C. They also serve a crucial environmental purpose. ‘Wetlands are one of the key tools in mitigating climate change across the planet,’ says Pieter van Eijk, head of Climate Adaptation at Wetlands International (WI), pointing to their use as buffers that protect coastal areas from sea-level rise and extreme weather events such as hurricanes and flooding. Wetland coastal forests provide food and water, as well as shelter from storms, and WI and other agencies are working to restore those forests which have been lost. ‘It can be as simple as planting a few trees per hectare to create shade and substantially change a microclimate,’ he says.‘Implementing climate change projects isn’t so much about money.’"
+    },
+    {
+      "label": "5",
+      "text": "D. The world’s wetlands are, unfortunately, rich sources for in-demand commodities, such as palm oil and pulpwood. Peatlands – wetlands with a waterlogged organic soil layer – are particularly targeted. When peatlands are drained for cultivation, they become net carbon emitters instead of active carbon stores, and, according to Marcel Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions. The clearance of peatlands for planting also increases the risk of forest fires, which release huge amounts of CO2. ‘We’re seeing huge peatland forests with extremely high biodiversity value being lost for a few decades of oil palm revenues,’ says Silvius."
+    },
+    {
+      "label": "6",
+      "text": "E. The damage starts when logging companies arrive to clear the trees. They dig ditches to enter the peat swamps by boat and then float the logs out the same way. These are then used to drain water out of the peatlands to allow for the planting of corn, oil palms or pulpwood trees. Once the water has drained away, bacteria and fungi then break down the carbon in the peat and turn it into CO2 and methane. Meanwhile, the remainder of the solid matter in the peat starts to move downwards, in a process known as subsidence**. Peat comprises 90 per cent water, so this is one of the most alarming consequences of peatland clearances. ‘In the tropics, peat subsides at about four centimetres a year, so within half a century, very large landscapes on Sumatra and Borneo will become flooded as the peat drops below water level,’ says Silvius. ‘It’s a huge catastrophe that’s in preparation. Some provinces will lose 40 per cent of their landmass.’"
+    },
+    {
+      "label": "7",
+      "text": "F. And while these industries affect wetlands in ways that can easily be documented, Dr Dave Tickner of the WWFN believes that more subtle impacts can be even more devastating. ‘Sediment run-off and fertilisers can be pretty invisible,’ says Tickner.‘Over-extraction of water is equally invisible. You do get shock stories about rivers running red, or even catching fire, but there’s seldom one big impact that really hurts a wetland.’ Tickner does not blame anyone for deliberate damage, however. ‘I’ve worked on wetland issues for 20 years and have never met anybody who wanted to damage a wetland,’ he says. ‘It isn’t something that people generally set out to do. Quite often, the effects simply come from people trying to make a living.’"
+    },
+    {
+      "label": "8",
+      "text": "G. Silvius also acknowledges the importance of income generation. ‘It’s not that we just want to restore the biodiversity of wetlands – which we do – but we recognise there’s a need to provide an income for local people.’ This approach is supported by IWMI. ‘The idea is that people in a developing country will only protect wetlands if they value and profit from them,’ says McCartney. ‘For sustainability, it’s essential that local people are involved in wetland planning and decision making and have clear rights to use wetlands.’"
+    },
+    {
+      "label": "9",
+      "text": "H. The fortunes of wetlands would be improved, Silvius suggests, if more governments recognised their long-term value. ‘Different governments have different attitudes,’ he says, and goes on to explain that some countries place a high priority on restoring wetlands, while others still deny the issue. McCartney is cautiously optimistic, however. ‘Awareness of the importance of wetlands is growing,’ he says. ‘It’s true that wetland degradation still continues at a rapid pace, but my impression is that things are slowly changing.’"
+    },
+    {
+      "label": "10",
+      "text": "* peat: a brown deposit formed by the partial decomposition of vegetation in wet acidic conditions, often cut out and dried for use as fuel"
+    },
+    {
+      "label": "11",
+      "text": "** subsidence: the sinking of the Earth’s surface, most often caused by the removal of resources from the ground"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–17\n\nReading Passage 2 has eight paragraphs, A–H.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A–H, in boxes 14–17 on your answer sheet.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "reference to the need to ensure that inhabitants of wetland regions continue to benefit from them",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8509_353155-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "the proportion of wetlands which have already been lost",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8509_353155-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "reference to the idea that people are beginning to appreciate the value of wetlands",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8509_353155-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "mention of the cultural significance of wetlands",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8509_353155-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 18–22\n\nComplete the sentences below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 18–22 on your answer sheet.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Peatlands which have been drained begin to release [18] ______ instead of storing it.",
+          "answers": [
+            "carbon"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8509_330465",
+          "explanation": "18. 译文：被抽干了水的泥炭地会开始释放______而非储存它。\n\n本题有一模一样的题干词peatlands出现在D段第二句话里，虽然这句话没有给出解题相关信息，但紧接着的下一句中就跟进出现了另一个题干原词drained。考生只需看懂这句话里的they become net carbon emitters instead of active carbon stores，就应当能根据emitters与题干release在词义上的对应，顺利确认本题答案应当为释放的对象“碳”。退一步说，即使不熟悉emitters这个词，应当也可以通过句中instead of这个前后转折对比，排除active carbon stores这个部分的内容，顺利得出答案应为carbon。\n\n19. 译文：一旦泥炭地被清理，______就更容易发生。\n\n本题出处紧随上一题，且题干中的动词cleared在原文中仅仅是换成了名词形式的clearance，很好定位。此外，原文中increases the risk of和题干中more likely to occur之间的对应，无论从词汇认知难度还是表述理解难度来看都非常简单，考生应当能顺利得出本题答案：fires。\n\n20. 译文：砍伐泥炭地森林来让位于油棕榈种植的做法破坏了当地环境的______。\n\n本题定位也是紧跟上一题，且包含一模一样的题干信息oil palm，考生只需要看懂原文中说being lost的对象是extremely high biodiversity value“极高的生物多样性价值”，应该就能顺利锁定本题的正确答案为biodiversity。\n\n21. 译文：水通过伐木公司制造出来的______被排出泥炭地。\n\n本题可以通过题干中的logging companies定位到E段开头第一句。虽然这句话本身只是出现了“伐木公司”而没有给出进一步信息，但考生只需耐心再向后读一句，就能大致看懂这些公司是挖沟（dig ditches）以乘船进入泥炭地森林，再靠这条路径把伐好的原木运出来，即使不认识“沟渠”这个词，也不难推理出答案应为ditches。\n\n22. 译文：将泥炭地排水会导致______：这是一个严重的问题，最终有可能会造成海岸地区洪水和土地面积损失。\n\n此题如果想只靠题干关键词进行快速准确定位，恐怕会遭遇一些困难。其实在E段的第五句跟进讲述draining peatlands都有哪些害处时，就已经出现了“沉降”这个正确答案了。然而，一来这个单词本身比较生僻，虽然原文很贴心地在底部给出了词义解释，但恐怕大多数时间紧张的考生都不会“浪费”宝贵时间去查看；二来，第五句话只是给出了这个答案词本身，至于“沉降”会造成哪些后果，也就是题干里说到的“海岸地区发洪水”和“陆地面积受损失”，其实来自后文的E段最后两句话。于是，还是在利用平行阅读法通读了全段文意之后，考生才会有更大把握确认本题答案应为subsidence。",
+          "promptHtml": "Peatlands which have been drained begin to release [18] ______ instead of storing it."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Once peatland areas have been cleared,[19] ______ are more likely to occur.",
+          "answers": [
+            "fires"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8509_484666",
+          "explanation": "18. 译文：被抽干了水的泥炭地会开始释放______而非储存它。\n\n本题有一模一样的题干词peatlands出现在D段第二句话里，虽然这句话没有给出解题相关信息，但紧接着的下一句中就跟进出现了另一个题干原词drained。考生只需看懂这句话里的they become net carbon emitters instead of active carbon stores，就应当能根据emitters与题干release在词义上的对应，顺利确认本题答案应当为释放的对象“碳”。退一步说，即使不熟悉emitters这个词，应当也可以通过句中instead of这个前后转折对比，排除active carbon stores这个部分的内容，顺利得出答案应为carbon。\n\n19. 译文：一旦泥炭地被清理，______就更容易发生。\n\n本题出处紧随上一题，且题干中的动词cleared在原文中仅仅是换成了名词形式的clearance，很好定位。此外，原文中increases the risk of和题干中more likely to occur之间的对应，无论从词汇认知难度还是表述理解难度来看都非常简单，考生应当能顺利得出本题答案：fires。\n\n20. 译文：砍伐泥炭地森林来让位于油棕榈种植的做法破坏了当地环境的______。\n\n本题定位也是紧跟上一题，且包含一模一样的题干信息oil palm，考生只需要看懂原文中说being lost的对象是extremely high biodiversity value“极高的生物多样性价值”，应该就能顺利锁定本题的正确答案为biodiversity。\n\n21. 译文：水通过伐木公司制造出来的______被排出泥炭地。\n\n本题可以通过题干中的logging companies定位到E段开头第一句。虽然这句话本身只是出现了“伐木公司”而没有给出进一步信息，但考生只需耐心再向后读一句，就能大致看懂这些公司是挖沟（dig ditches）以乘船进入泥炭地森林，再靠这条路径把伐好的原木运出来，即使不认识“沟渠”这个词，也不难推理出答案应为ditches。\n\n22. 译文：将泥炭地排水会导致______：这是一个严重的问题，最终有可能会造成海岸地区洪水和土地面积损失。\n\n此题如果想只靠题干关键词进行快速准确定位，恐怕会遭遇一些困难。其实在E段的第五句跟进讲述draining peatlands都有哪些害处时，就已经出现了“沉降”这个正确答案了。然而，一来这个单词本身比较生僻，虽然原文很贴心地在底部给出了词义解释，但恐怕大多数时间紧张的考生都不会“浪费”宝贵时间去查看；二来，第五句话只是给出了这个答案词本身，至于“沉降”会造成哪些后果，也就是题干里说到的“海岸地区发洪水”和“陆地面积受损失”，其实来自后文的E段最后两句话。于是，还是在利用平行阅读法通读了全段文意之后，考生才会有更大把握确认本题答案应为subsidence。",
+          "promptHtml": "Once peatland areas have been cleared,[19] ______ are more likely to occur."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Clearing peatland forests to make way for oil palm plantations destroys the[20] ______ of the local environment.",
+          "answers": [
+            "biodiversity"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8509_334713",
+          "explanation": "18. 译文：被抽干了水的泥炭地会开始释放______而非储存它。\n\n本题有一模一样的题干词peatlands出现在D段第二句话里，虽然这句话没有给出解题相关信息，但紧接着的下一句中就跟进出现了另一个题干原词drained。考生只需看懂这句话里的they become net carbon emitters instead of active carbon stores，就应当能根据emitters与题干release在词义上的对应，顺利确认本题答案应当为释放的对象“碳”。退一步说，即使不熟悉emitters这个词，应当也可以通过句中instead of这个前后转折对比，排除active carbon stores这个部分的内容，顺利得出答案应为carbon。\n\n19. 译文：一旦泥炭地被清理，______就更容易发生。\n\n本题出处紧随上一题，且题干中的动词cleared在原文中仅仅是换成了名词形式的clearance，很好定位。此外，原文中increases the risk of和题干中more likely to occur之间的对应，无论从词汇认知难度还是表述理解难度来看都非常简单，考生应当能顺利得出本题答案：fires。\n\n20. 译文：砍伐泥炭地森林来让位于油棕榈种植的做法破坏了当地环境的______。\n\n本题定位也是紧跟上一题，且包含一模一样的题干信息oil palm，考生只需要看懂原文中说being lost的对象是extremely high biodiversity value“极高的生物多样性价值”，应该就能顺利锁定本题的正确答案为biodiversity。\n\n21. 译文：水通过伐木公司制造出来的______被排出泥炭地。\n\n本题可以通过题干中的logging companies定位到E段开头第一句。虽然这句话本身只是出现了“伐木公司”而没有给出进一步信息，但考生只需耐心再向后读一句，就能大致看懂这些公司是挖沟（dig ditches）以乘船进入泥炭地森林，再靠这条路径把伐好的原木运出来，即使不认识“沟渠”这个词，也不难推理出答案应为ditches。\n\n22. 译文：将泥炭地排水会导致______：这是一个严重的问题，最终有可能会造成海岸地区洪水和土地面积损失。\n\n此题如果想只靠题干关键词进行快速准确定位，恐怕会遭遇一些困难。其实在E段的第五句跟进讲述draining peatlands都有哪些害处时，就已经出现了“沉降”这个正确答案了。然而，一来这个单词本身比较生僻，虽然原文很贴心地在底部给出了词义解释，但恐怕大多数时间紧张的考生都不会“浪费”宝贵时间去查看；二来，第五句话只是给出了这个答案词本身，至于“沉降”会造成哪些后果，也就是题干里说到的“海岸地区发洪水”和“陆地面积受损失”，其实来自后文的E段最后两句话。于是，还是在利用平行阅读法通读了全段文意之后，考生才会有更大把握确认本题答案应为subsidence。",
+          "promptHtml": "Clearing peatland forests to make way for oil palm plantations destroys the[20] ______ of the local environment."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Water is drained out of peatlands through the [21] ______which are created by logging companies.",
+          "answers": [
+            "ditches"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8509_428770",
+          "explanation": "18. 译文：被抽干了水的泥炭地会开始释放______而非储存它。\n\n本题有一模一样的题干词peatlands出现在D段第二句话里，虽然这句话没有给出解题相关信息，但紧接着的下一句中就跟进出现了另一个题干原词drained。考生只需看懂这句话里的they become net carbon emitters instead of active carbon stores，就应当能根据emitters与题干release在词义上的对应，顺利确认本题答案应当为释放的对象“碳”。退一步说，即使不熟悉emitters这个词，应当也可以通过句中instead of这个前后转折对比，排除active carbon stores这个部分的内容，顺利得出答案应为carbon。\n\n19. 译文：一旦泥炭地被清理，______就更容易发生。\n\n本题出处紧随上一题，且题干中的动词cleared在原文中仅仅是换成了名词形式的clearance，很好定位。此外，原文中increases the risk of和题干中more likely to occur之间的对应，无论从词汇认知难度还是表述理解难度来看都非常简单，考生应当能顺利得出本题答案：fires。\n\n20. 译文：砍伐泥炭地森林来让位于油棕榈种植的做法破坏了当地环境的______。\n\n本题定位也是紧跟上一题，且包含一模一样的题干信息oil palm，考生只需要看懂原文中说being lost的对象是extremely high biodiversity value“极高的生物多样性价值”，应该就能顺利锁定本题的正确答案为biodiversity。\n\n21. 译文：水通过伐木公司制造出来的______被排出泥炭地。\n\n本题可以通过题干中的logging companies定位到E段开头第一句。虽然这句话本身只是出现了“伐木公司”而没有给出进一步信息，但考生只需耐心再向后读一句，就能大致看懂这些公司是挖沟（dig ditches）以乘船进入泥炭地森林，再靠这条路径把伐好的原木运出来，即使不认识“沟渠”这个词，也不难推理出答案应为ditches。\n\n22. 译文：将泥炭地排水会导致______：这是一个严重的问题，最终有可能会造成海岸地区洪水和土地面积损失。\n\n此题如果想只靠题干关键词进行快速准确定位，恐怕会遭遇一些困难。其实在E段的第五句跟进讲述draining peatlands都有哪些害处时，就已经出现了“沉降”这个正确答案了。然而，一来这个单词本身比较生僻，虽然原文很贴心地在底部给出了词义解释，但恐怕大多数时间紧张的考生都不会“浪费”宝贵时间去查看；二来，第五句话只是给出了这个答案词本身，至于“沉降”会造成哪些后果，也就是题干里说到的“海岸地区发洪水”和“陆地面积受损失”，其实来自后文的E段最后两句话。于是，还是在利用平行阅读法通读了全段文意之后，考生才会有更大把握确认本题答案应为subsidence。",
+          "promptHtml": "Water is drained out of peatlands through the [21] ______which are created by logging companies."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Draining peatlands leads to [22] ______: a serious problem which can eventually result in coastal flooding and land loss.",
+          "answers": [
+            "subsidence"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8509_223161",
+          "explanation": "18. 译文：被抽干了水的泥炭地会开始释放______而非储存它。\n\n本题有一模一样的题干词peatlands出现在D段第二句话里，虽然这句话没有给出解题相关信息，但紧接着的下一句中就跟进出现了另一个题干原词drained。考生只需看懂这句话里的they become net carbon emitters instead of active carbon stores，就应当能根据emitters与题干release在词义上的对应，顺利确认本题答案应当为释放的对象“碳”。退一步说，即使不熟悉emitters这个词，应当也可以通过句中instead of这个前后转折对比，排除active carbon stores这个部分的内容，顺利得出答案应为carbon。\n\n19. 译文：一旦泥炭地被清理，______就更容易发生。\n\n本题出处紧随上一题，且题干中的动词cleared在原文中仅仅是换成了名词形式的clearance，很好定位。此外，原文中increases the risk of和题干中more likely to occur之间的对应，无论从词汇认知难度还是表述理解难度来看都非常简单，考生应当能顺利得出本题答案：fires。\n\n20. 译文：砍伐泥炭地森林来让位于油棕榈种植的做法破坏了当地环境的______。\n\n本题定位也是紧跟上一题，且包含一模一样的题干信息oil palm，考生只需要看懂原文中说being lost的对象是extremely high biodiversity value“极高的生物多样性价值”，应该就能顺利锁定本题的正确答案为biodiversity。\n\n21. 译文：水通过伐木公司制造出来的______被排出泥炭地。\n\n本题可以通过题干中的logging companies定位到E段开头第一句。虽然这句话本身只是出现了“伐木公司”而没有给出进一步信息，但考生只需耐心再向后读一句，就能大致看懂这些公司是挖沟（dig ditches）以乘船进入泥炭地森林，再靠这条路径把伐好的原木运出来，即使不认识“沟渠”这个词，也不难推理出答案应为ditches。\n\n22. 译文：将泥炭地排水会导致______：这是一个严重的问题，最终有可能会造成海岸地区洪水和土地面积损失。\n\n此题如果想只靠题干关键词进行快速准确定位，恐怕会遭遇一些困难。其实在E段的第五句跟进讲述draining peatlands都有哪些害处时，就已经出现了“沉降”这个正确答案了。然而，一来这个单词本身比较生僻，虽然原文很贴心地在底部给出了词义解释，但恐怕大多数时间紧张的考生都不会“浪费”宝贵时间去查看；二来，第五句话只是给出了这个答案词本身，至于“沉降”会造成哪些后果，也就是题干里说到的“海岸地区发洪水”和“陆地面积受损失”，其实来自后文的E段最后两句话。于是，还是在利用平行阅读法通读了全段文意之后，考生才会有更大把握确认本题答案应为subsidence。",
+          "promptHtml": "Draining peatlands leads to [22] ______: a serious problem which can eventually result in coastal flooding and land loss."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Peatlands which have been drained begin to release <strong>[18] ______</strong> instead of storing it.</p>\n\n<p>Once peatland areas have been cleared,<strong>[19] ______</strong> are more likely to occur.</p>\n\n<p>Clearing peatland forests to make way for oil palm plantations destroys the<strong>[20] ______</strong> of the local environment.</p>\n\n<p>Water is drained out of peatlands through the <strong>[21] ______</strong>which are created by logging companies.</p>\n\n<p>Draining peatlands leads to <strong>[22] ______</strong>: a serious problem which can eventually result in coastal flooding and land loss.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 23–26\n\nLook at the following statements (Questions 23–26) and the list of experts below.\n\nMatch each statement with the correct expert, A–D.\n\nWrite the correct letter, A–D, in boxes 23–26 on your answer sheet.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Communities living in wetland regions must be included in discussions about the future of these areas.[23] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8509_887407",
+          "explanation": "23. 译文：居住在湿地区域的社群必须参与事关这些地带未来的讨论。\n\n本题的难度主要来自出题位置靠后，虽然这位Matthew McCartney在B段就出现过，然而对应他看法的真正解题内容却来自G段最后一句。不过考生只要看到了这里，看出题干communities与原文local people的对应，以及题干included in discussions与原文involved in wetland planning and decision making的对应，就不难看出本题最合适的选项为A。\n\n24. 译文：对待湿地的官方政策每个国家各有不同。\n\n本题与上一道题类似，也是对应人名早在D段就出现过，但实际对应题干答案的原文却出现在H段；然而一旦考生读到了这里，就能轻而易举地从H段第二句里的Different governments have different attitudes看出这正是在对应题干中的vary from one nation to the next，从而笃定本题答案应为C。\n\n25. 译文：人们给湿地带来伤害时其实并非有意要这样做。\n\n本题对应的这四句话，语法和词汇难度都很低，分别从不同维度表述了“人们并非有意去破坏湿地”。倒数第四句说Tickner并不责怪任何人蓄意破坏；倒数第三句说“他研究了20年也没见过任何人想要去破坏”；倒数第二句说“人们通常不会以破坏为目标”；最后一句说“人们只是想要谋生”。每一句话都“花式”对应了题干表述，考生无论利用哪句都能看出本题答案必定是D。\n\n26. 译文：扭转环境破坏的举措并不需要多么复杂。\n\n本题是四道题中相对最简单的一道。首先，在文中的对应位置靠前，来自C段；其次，虽然人名出在第二句而实际答案出在最后两句，但对应句子简单直白，认真打好单词基础的考生应当可以顺利得出答案为B。",
+          "promptHtml": "Communities living in wetland regions must be included in discussions about the future of these areas.[23] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Official policies towards wetlands vary from one nation to the next.[24] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8509_825600",
+          "explanation": "23. 译文：居住在湿地区域的社群必须参与事关这些地带未来的讨论。\n\n本题的难度主要来自出题位置靠后，虽然这位Matthew McCartney在B段就出现过，然而对应他看法的真正解题内容却来自G段最后一句。不过考生只要看到了这里，看出题干communities与原文local people的对应，以及题干included in discussions与原文involved in wetland planning and decision making的对应，就不难看出本题最合适的选项为A。\n\n24. 译文：对待湿地的官方政策每个国家各有不同。\n\n本题与上一道题类似，也是对应人名早在D段就出现过，但实际对应题干答案的原文却出现在H段；然而一旦考生读到了这里，就能轻而易举地从H段第二句里的Different governments have different attitudes看出这正是在对应题干中的vary from one nation to the next，从而笃定本题答案应为C。\n\n25. 译文：人们给湿地带来伤害时其实并非有意要这样做。\n\n本题对应的这四句话，语法和词汇难度都很低，分别从不同维度表述了“人们并非有意去破坏湿地”。倒数第四句说Tickner并不责怪任何人蓄意破坏；倒数第三句说“他研究了20年也没见过任何人想要去破坏”；倒数第二句说“人们通常不会以破坏为目标”；最后一句说“人们只是想要谋生”。每一句话都“花式”对应了题干表述，考生无论利用哪句都能看出本题答案必定是D。\n\n26. 译文：扭转环境破坏的举措并不需要多么复杂。\n\n本题是四道题中相对最简单的一道。首先，在文中的对应位置靠前，来自C段；其次，虽然人名出在第二句而实际答案出在最后两句，但对应句子简单直白，认真打好单词基础的考生应当可以顺利得出答案为B。",
+          "promptHtml": "Official policies towards wetlands vary from one nation to the next.[24] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "People cause harm to wetlands without having any intention to do so.[25] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8509_794423",
+          "explanation": "23. 译文：居住在湿地区域的社群必须参与事关这些地带未来的讨论。\n\n本题的难度主要来自出题位置靠后，虽然这位Matthew McCartney在B段就出现过，然而对应他看法的真正解题内容却来自G段最后一句。不过考生只要看到了这里，看出题干communities与原文local people的对应，以及题干included in discussions与原文involved in wetland planning and decision making的对应，就不难看出本题最合适的选项为A。\n\n24. 译文：对待湿地的官方政策每个国家各有不同。\n\n本题与上一道题类似，也是对应人名早在D段就出现过，但实际对应题干答案的原文却出现在H段；然而一旦考生读到了这里，就能轻而易举地从H段第二句里的Different governments have different attitudes看出这正是在对应题干中的vary from one nation to the next，从而笃定本题答案应为C。\n\n25. 译文：人们给湿地带来伤害时其实并非有意要这样做。\n\n本题对应的这四句话，语法和词汇难度都很低，分别从不同维度表述了“人们并非有意去破坏湿地”。倒数第四句说Tickner并不责怪任何人蓄意破坏；倒数第三句说“他研究了20年也没见过任何人想要去破坏”；倒数第二句说“人们通常不会以破坏为目标”；最后一句说“人们只是想要谋生”。每一句话都“花式”对应了题干表述，考生无论利用哪句都能看出本题答案必定是D。\n\n26. 译文：扭转环境破坏的举措并不需要多么复杂。\n\n本题是四道题中相对最简单的一道。首先，在文中的对应位置靠前，来自C段；其次，虽然人名出在第二句而实际答案出在最后两句，但对应句子简单直白，认真打好单词基础的考生应当可以顺利得出答案为B。",
+          "promptHtml": "People cause harm to wetlands without having any intention to do so.[25] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Initiatives to reverse environmental damage need not be complex.[26] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8509_248601",
+          "explanation": "23. 译文：居住在湿地区域的社群必须参与事关这些地带未来的讨论。\n\n本题的难度主要来自出题位置靠后，虽然这位Matthew McCartney在B段就出现过，然而对应他看法的真正解题内容却来自G段最后一句。不过考生只要看到了这里，看出题干communities与原文local people的对应，以及题干included in discussions与原文involved in wetland planning and decision making的对应，就不难看出本题最合适的选项为A。\n\n24. 译文：对待湿地的官方政策每个国家各有不同。\n\n本题与上一道题类似，也是对应人名早在D段就出现过，但实际对应题干答案的原文却出现在H段；然而一旦考生读到了这里，就能轻而易举地从H段第二句里的Different governments have different attitudes看出这正是在对应题干中的vary from one nation to the next，从而笃定本题答案应为C。\n\n25. 译文：人们给湿地带来伤害时其实并非有意要这样做。\n\n本题对应的这四句话，语法和词汇难度都很低，分别从不同维度表述了“人们并非有意去破坏湿地”。倒数第四句说Tickner并不责怪任何人蓄意破坏；倒数第三句说“他研究了20年也没见过任何人想要去破坏”；倒数第二句说“人们通常不会以破坏为目标”；最后一句说“人们只是想要谋生”。每一句话都“花式”对应了题干表述，考生无论利用哪句都能看出本题答案必定是D。\n\n26. 译文：扭转环境破坏的举措并不需要多么复杂。\n\n本题是四道题中相对最简单的一道。首先，在文中的对应位置靠前，来自C段；其次，虽然人名出在第二句而实际答案出在最后两句，但对应句子简单直白，认真打好单词基础的考生应当可以顺利得出答案为B。",
+          "promptHtml": "Initiatives to reverse environmental damage need not be complex.[26] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Matthew McCartney"
+        },
+        {
+          "value": "B",
+          "text": "Pieter van Eijk"
+        },
+        {
+          "value": "C",
+          "text": "Marcel Silvius"
+        },
+        {
+          "value": "D",
+          "text": "Dave Tickner"
+        }
+      ],
+      "contextHtml": "<p>Communities living in wetland regions must be included in discussions about the future of these areas.<strong>[23] ______</strong> </p>\n\n<p>Official policies towards wetlands vary from one nation to the next.<strong>[24] ______</strong> </p>\n\n<p>People cause harm to wetlands without having any intention to do so.<strong>[25] ______</strong> </p>\n\n<p>Initiatives to reverse environmental damage need not be complex.<strong>[26] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>The global importance of wetlands</b></p><p>A.  Wetlands are areas where water covers the soil, or is present either at or near the surface of the soil, for all or part of the year. These are complex ecosystems, rich in unique plant and animal life. But according to the World Wide Fund for Nature (WWFN), half of the world’s wetlands have disappeared since 1990 – converted or destroyed for commercial development, drainage schemes and the extraction of minerals and peat*. Many of those that remain have been damaged by agricultural pesticides and fertilisers, industrial pollutants, and construction works.</p><p>B.  Throughout history, humans have gathered around wetlands, and their fertile ecosystems have played an important part in human development. Consequently, they are of considerable religious, historical and archaeological value to many communities around the world. ‘Wetlands directly support the livelihoods and well-being of millions of people,’says Dr Matthew McCartney, principal researcher and hydrologist at the International Water Management Institute (IWMI). ‘In many developing countries, large numbers of people are dependent on wetland agriculture for their livelihoods.’</p><p>C.  They also serve a crucial environmental purpose. ‘Wetlands are one of the key tools in mitigating climate change across the planet,’ says Pieter van Eijk, head of Climate Adaptation at Wetlands International (WI), pointing to their use as buffers that protect coastal areas from sea-level rise and extreme weather events such as hurricanes and flooding. Wetland coastal forests provide food and water, as well as shelter from storms, and WI and other agencies are working to restore those forests which have been lost. ‘It can be as simple as planting a few trees per hectare to create shade and substantially change a microclimate,’ he says.‘Implementing climate change projects isn’t so much about money.’</p><p>D.  The world’s wetlands are, unfortunately, rich sources for in-demand commodities, such as palm oil and pulpwood. Peatlands – wetlands with a waterlogged organic soil layer – are particularly targeted. When peatlands are drained for cultivation, they become net carbon emitters instead of active carbon stores, and, according to Marcel Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions. The clearance of peatlands for planting also increases the risk of forest fires, which release huge amounts of CO2. ‘We’re seeing huge peatland forests with extremely high biodiversity value being lost for a few decades of oil palm revenues,’ says Silvius.</p><p>E.  The damage starts when logging companies arrive to clear the trees. They dig ditches to enter the peat swamps by boat and then float the logs out the same way. These are then used to drain water out of the peatlands to allow for the planting of corn, oil palms or pulpwood trees. Once the water has drained away, bacteria and fungi then break down the carbon in the peat and turn it into CO2 and methane. Meanwhile, the remainder of the solid matter in the peat starts to move downwards, in a process known as subsidence**. Peat comprises 90 per cent water, so this is one of the most alarming consequences of peatland clearances. ‘In the tropics, peat subsides at about four centimetres a year, so within half a century, very large landscapes on Sumatra and Borneo will become flooded as the peat drops below water level,’ says Silvius. ‘It’s a huge catastrophe that’s in preparation. Some provinces will lose 40 per cent of their landmass.’</p><p>F.  And while these industries affect wetlands in ways that can easily be documented, Dr Dave Tickner of the WWFN believes that more subtle impacts can be even more devastating. ‘Sediment run-off and fertilisers can be pretty invisible,’ says Tickner.‘Over-extraction of water is equally invisible. You do get shock stories about rivers running red, or even catching fire, but there’s seldom one big impact that really hurts a wetland.’ Tickner does not blame anyone for deliberate damage, however. ‘I’ve worked on wetland issues for 20 years and have never met anybody who wanted to damage a wetland,’ he says. ‘It isn’t something that people generally set out to do. Quite often, the effects simply come from people trying to make a living.’</p><p>G.  Silvius also acknowledges the importance of income generation. ‘It’s not that we just want to restore the biodiversity of wetlands – which we do – but we recognise there’s a need to provide an income for local people.’ This approach is supported by IWMI. ‘The idea is that people in a developing country will only protect wetlands if they value and profit from them,’ says McCartney. ‘For sustainability, it’s essential that local people are involved in wetland planning and decision making and have clear rights to use wetlands.’</p><p>H.  The fortunes of wetlands would be improved, Silvius suggests, if more governments recognised their long-term value. ‘Different governments have different attitudes,’ he says, and goes on to explain that some countries place a high priority on restoring wetlands, while others still deny the issue. McCartney is cautiously optimistic, however. ‘Awareness of the importance of wetlands is growing,’ he says. ‘It’s true that wetland degradation still continues at a rapid pace, but my impression is that things are slowly changing.’</p><p>* peat: a brown deposit formed by the partial decomposition of vegetation in wet acidic conditions, often cut out and dried for use as fuel</p><p>** subsidence: the sinking of the Earth’s surface, most often caused by the removal of resources from the ground</p>"
+}

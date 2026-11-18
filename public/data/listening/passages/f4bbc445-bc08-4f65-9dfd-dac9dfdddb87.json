@@ -1,0 +1,470 @@
+{
+  "id": "f4bbc445-bc08-4f65-9dfd-dac9dfdddb87",
+  "title": "Solar water purifier(SW40)",
+  "titleCn": "太阳能净水器SW40：设计、制造与产水能力",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/f4bbc445-bc08-4f65-9dfd-dac9dfdddb87",
+  "duration": 406,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,140"
+    },
+    {
+      "label": "2",
+      "text": "You will hear a lecturer giving a talk to design and technology students about a new device which uses the sun to purify water. First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:20,420"
+    },
+    {
+      "label": "4",
+      "text": "For many parts of the world today, a lack of clean drinking water is a major problem. In some developing areas, bore water, which is water that comes out of the ground, is the only water available."
+    },
+    {
+      "label": "5",
+      "text": "00:00:35,080"
+    },
+    {
+      "label": "6",
+      "text": "Unfortunately, bore water may be dangerous to drink because it contains excessive amounts of salts. In recent months, I've been working with a research team to develop a device that will help solve this problem."
+    },
+    {
+      "label": "7",
+      "text": "00:00:49,560"
+    },
+    {
+      "label": "8",
+      "text": "What we came up with is a solar water purifier, which we have called the SW-40."
+    },
+    {
+      "label": "9",
+      "text": "00:00:56,840"
+    },
+    {
+      "label": "10",
+      "text": "And this device not only makes bore water drinkable, it can even process seawater. In fact, it even passed the rigorous testing standards applied by hospitals to determine whether water is sterile enough for use there."
+    },
+    {
+      "label": "11",
+      "text": "00:01:13,440"
+    },
+    {
+      "label": "12",
+      "text": "The only problem we do face at the moment is with its manufacturing. The present method involves a process called vacuum forming, which tends to be rather slow."
+    },
+    {
+      "label": "13",
+      "text": "00:01:25,580"
+    },
+    {
+      "label": "14",
+      "text": "We'd like to change to an injection motive process, which is much faster but would cost quite a lot to switch to, around one million Australian dollars. There are a number of private companies that are very keen to go into partnership with us over this, but my preferred option would be a global aid agency known as Health International that sponsors projects like ours."
+    },
+    {
+      "label": "15",
+      "text": "00:01:53,360"
+    },
+    {
+      "label": "16",
+      "text": "It has a long history of working in these areas, and although it may take a little longer to get an agreement, it should mean a better deal all around. So just how useful is this device of ours? Well, the amount of pure water it is capable of producing each day varies as the amount of sunlight available varies. However, on a hot day when the temperature is around about twenty-five to thirty degrees Celsius with the sun shining clearly through a blue sky, it produces anywhere from seven liters per day to as much as nine liters. Now, most people can survive on one to two liters per day."
+    },
+    {
+      "label": "17",
+      "text": "00:02:37,880"
+    },
+    {
+      "label": "18",
+      "text": "So even under difficult conditions, one family could live off one of these devices. So a normal size village would require several of these to supply all its needs. Okay, so let's look at the device in more detail. It weighs eight kilograms and is the size of a medium-sized suitcase. The SW-40 has no filters, no electronics, no moving parts, and uses no chemicals. So how does it work? Well, there's a rectangular box with a glass lid on it, and on the edge of the box is a steel frame to hold everything together."
+    },
+    {
+      "label": "19",
+      "text": "00:03:20,200"
+    },
+    {
+      "label": "20",
+      "text": "And inside the box is a piece of black plastic, which is divided up into pockets. You need an incline, so the water flows through the device. The optimum is twelve point five degrees to the horizontal, although it can be one or two degrees above or below that."
+    },
+    {
+      "label": "21",
+      "text": "00:03:39,780"
+    },
+    {
+      "label": "22",
+      "text": "Impure water is piped in at the top of the box and flows down through the little pockets until they're all full."
+    },
+    {
+      "label": "23",
+      "text": "00:03:48,240You then let Mother Nature in the form of the sun, do its work as it shines through the glass window. It produces infrared light which heats the water. At the same time, ultraviolet light from the sun, or UV as we more commonly call it, is also radiated. If there are germs present in the water, prolonged exposure to this type of light will kill them."
+    },
+    {
+      "label": "24",
+      "text": "00:04:14,520"
+    },
+    {
+      "label": "25",
+      "text": "Then, as the temperature of the water rises due to the sun's heat, the water vaporizes and condenses on the underside of the glass panel. The droplets of water slowly run down the glass to a collection tank ready to be taken away for drinking or whatever. So that's basically how it works. Now, what this means-"
+    },
+    {
+      "label": "26",
+      "text": "00:04:38,400"
+    },
+    {
+      "label": "27",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-36**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "ab56bb70-0d75-48fc-b91a-f23291014d61",
+          "prompt": "High levels of **31**_____ make bore water unsafe to drink.",
+          "answers": [
+            "salts"
+          ],
+          "rawAnswer": "salts",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Unfortunately, bore water may be dangerous to drink because it contains excessive amounts of salts"
+          },
+          "keywordPairs": [
+            {
+              "question": "high levels",
+              "article": "excessive amounts"
+            },
+            {
+              "question": "unsafe",
+              "article": "dangerous"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "c0a7ec10-8b27-4918-bd9f-1b5fea4475c0",
+          "prompt": "The SW40 produces water that is so pure it can be used in **32**_____ .",
+          "answers": [
+            "hospitals"
+          ],
+          "rawAnswer": "hospitals",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In fact, it even passed the rigorous testing standards applied by hospitals to determine whether water is sterile enough for use there"
+          },
+          "keywordPairs": [
+            {
+              "question": "so pure",
+              "article": "sterile enough"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "abe23c6b-1483-4075-a3af-39b985ebbb31",
+          "prompt": "One problem with the present method of production of the SW40 is that it is quite **33**_____ .",
+          "answers": [
+            "slow"
+          ],
+          "rawAnswer": "slow",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The present method involves a process called vacuum forming, which tends to be rather slow"
+          },
+          "keywordPairs": [
+            {
+              "question": "quite",
+              "article": "rather"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "6520ad86-38a3-4e42-a223-0d0ece6ca522",
+          "prompt": "The speaker hopes to acquire financial support from an agency called **34**_____ .",
+          "answers": [
+            "Health International"
+          ],
+          "rawAnswer": "Health International",
+          "evidence": {
+            "paragraph": "",
+            "quote": "my preferred option would be a global aid agency known as Health International that sponsors projects like ours"
+          },
+          "keywordPairs": [
+            {
+              "question": "financial support",
+              "article": "sponsors"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "d0ddf2a2-c155-4d35-b936-7b3e115e238a",
+          "prompt": "The SW40 has a maximum output of **35**_____ on a sunny day.",
+          "answers": [
+            "9",
+            "9 liters"
+          ],
+          "rawAnswer": "9|9 liters",
+          "evidence": {
+            "paragraph": "",
+            "quote": "on a hot day;it produces anywhere from seven liters per day to as much as nine liters"
+          },
+          "keywordPairs": [
+            {
+              "question": "maximum output",
+              "article": "as much as"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "671b90f8-8030-4e24-9558-cf73e6f11cd4",
+          "prompt": "Each SW40 produces enough water for a **36**_____ .",
+          "answers": [
+            "family"
+          ],
+          "rawAnswer": "family",
+          "evidence": {
+            "paragraph": "",
+            "quote": "even under difficult conditions, one family could live off one of these devices"
+          },
+          "keywordPairs": [
+            {
+              "question": "produces enough water for",
+              "article": "could live off"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "flow_chart",
+      "instruction": "**Questions 37-40**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.\n[图示暂缺]",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "0c8fc26c-47c6-4b12-9f8d-0e4422740400",
+          "prompt": "**Cross-section of SW40 Solar Water Purifier**\nInfra-red light heats water\nlid made of **37**_____",
+          "answers": [
+            "glass"
+          ],
+          "rawAnswer": "glass",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The SW-40 has;a rectangular box with a glass lid on it"
+          },
+          "missingImages": [
+            "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+          ],
+          "integrityWarning": "图示暂缺，题目文字完整，可按音频和文字作答。",
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37",
+          "diagramTextComplete": true
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "0ea42916-808d-4506-931f-e944133e4ca5",
+          "prompt": "best inclined at angle **38**_____",
+          "answers": [
+            "12.5"
+          ],
+          "rawAnswer": "12.5",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The optimum is twelve point five degrees to the horizontal"
+          },
+          "missingImages": [
+            "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+          ],
+          "integrityWarning": "图示暂缺，题目文字完整，可按音频和文字作答。",
+          "keywordPairs": [
+            {
+              "question": "best",
+              "article": "optimum"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38",
+          "diagramTextComplete": true
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "3f0f0fa5-4d6e-453e-a693-7cebb363766f",
+          "prompt": "UV light destroys **39**_____ .",
+          "answers": [
+            "germs"
+          ],
+          "rawAnswer": "germs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If there are germs present in the water, prolonged exposure to this type of light will kill them"
+          },
+          "missingImages": [
+            "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+          ],
+          "integrityWarning": "图示暂缺，题目文字完整，可按音频和文字作答。",
+          "keywordPairs": [
+            {
+              "question": "destroys",
+              "article": "kill"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39",
+          "diagramTextComplete": true
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "5412c868-a45f-436b-aa92-8adb253a30c7",
+          "prompt": "water **40**_____ containing pure water",
+          "answers": [
+            "collection tank"
+          ],
+          "rawAnswer": "collection tank",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The droplets of water slowly run down the glass to a collection tank ready to be taken away for drinking"
+          },
+          "missingImages": [
+            "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+          ],
+          "integrityWarning": "图示暂缺，题目文字完整，可按音频和文字作答。",
+          "keywordPairs": [
+            {
+              "question": "containing pure water",
+              "article": "ready to be taken away for drinking"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40",
+          "diagramTextComplete": true
+        }
+      ],
+      "images": [
+        "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题",
+    "流程填图题"
+  ],
+  "status": "ready",
+  "migrationNotes": [
+    {
+      "code": "diagram_unavailable_text_complete",
+      "severity": "warning",
+      "questionId": "0c8fc26c-47c6-4b12-9f8d-0e4422740400",
+      "sourceNumber": "37",
+      "detail": {
+        "urls": [
+          "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+        ],
+        "reason": "原站图示无法读取，关联题目暂不计分。"
+      }
+    },
+    {
+      "code": "diagram_unavailable_text_complete",
+      "severity": "warning",
+      "questionId": "0ea42916-808d-4506-931f-e944133e4ca5",
+      "sourceNumber": "38",
+      "detail": {
+        "urls": [
+          "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+        ],
+        "reason": "原站图示无法读取，关联题目暂不计分。"
+      }
+    },
+    {
+      "code": "diagram_unavailable_text_complete",
+      "severity": "warning",
+      "questionId": "3f0f0fa5-4d6e-453e-a693-7cebb363766f",
+      "sourceNumber": "39",
+      "detail": {
+        "urls": [
+          "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+        ],
+        "reason": "原站图示无法读取，关联题目暂不计分。"
+      }
+    },
+    {
+      "code": "diagram_unavailable_text_complete",
+      "severity": "warning",
+      "questionId": "5412c868-a45f-436b-aa92-8adb253a30c7",
+      "sourceNumber": "40",
+      "detail": {
+        "urls": [
+          "https://www.yaquan.site/s3-static/1776602068187_00da936a_questions_1776602068187_92vjze.png"
+        ],
+        "reason": "原站图示无法读取，关联题目暂不计分。"
+      }
+    }
+  ],
+  "transcriptHtml": "<p>00:00:00,140</p><p>You will hear a lecturer giving a talk to design and technology students about a new device which uses the sun to purify water. First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:20,420</p><p>For many parts of the world today, a lack of clean drinking water is a major problem. In some developing areas, bore water, which is water that comes out of the ground, is the only water available. </p><p>00:00:35,080</p><p>Unfortunately, bore water may be dangerous to drink because it contains excessive amounts of salts. In recent months, I've been working with a research team to develop a device that will help solve this problem. </p><p>00:00:49,560</p><p>What we came up with is a solar water purifier, which we have called the SW-40. </p><p>00:00:56,840</p><p>And this device not only makes bore water drinkable, it can even process seawater. In fact, it even passed the rigorous testing standards applied by hospitals to determine whether water is sterile enough for use there. </p><p>00:01:13,440</p><p>The only problem we do face at the moment is with its manufacturing. The present method involves a process called vacuum forming, which tends to be rather slow. </p><p>00:01:25,580</p><p>We'd like to change to an injection motive process, which is much faster but would cost quite a lot to switch to, around one million Australian dollars. There are a number of private companies that are very keen to go into partnership with us over this, but my preferred option would be a global aid agency known as Health International that sponsors projects like ours. </p><p>00:01:53,360</p><p>It has a long history of working in these areas, and although it may take a little longer to get an agreement, it should mean a better deal all around. So just how useful is this device of ours? Well, the amount of pure water it is capable of producing each day varies as the amount of sunlight available varies. However, on a hot day when the temperature is around about twenty-five to thirty degrees Celsius with the sun shining clearly through a blue sky, it produces anywhere from seven liters per day to as much as nine liters. Now, most people can survive on one to two liters per day. </p><p>00:02:37,880</p><p>So even under difficult conditions, one family could live off one of these devices. So a normal size village would require several of these to supply all its needs. Okay, so let's look at the device in more detail. It weighs eight kilograms and is the size of a medium-sized suitcase. The SW-40 has no filters, no electronics, no moving parts, and uses no chemicals. So how does it work? Well, there's a rectangular box with a glass lid on it, and on the edge of the box is a steel frame to hold everything together. </p><p>00:03:20,200</p><p>And inside the box is a piece of black plastic, which is divided up into pockets. You need an incline, so the water flows through the device. The optimum is twelve point five degrees to the horizontal, although it can be one or two degrees above or below that. </p><p>00:03:39,780</p><p>Impure water is piped in at the top of the box and flows down through the little pockets until they're all full. </p><p>00:03:48,240You then let Mother Nature in the form of the sun, do its work as it shines through the glass window. It produces infrared light which heats the water. At the same time, ultraviolet light from the sun, or UV as we more commonly call it, is also radiated. If there are germs present in the water, prolonged exposure to this type of light will kill them. </p><p>00:04:14,520</p><p>Then, as the temperature of the water rises due to the sun's heat, the water vaporizes and condenses on the underside of the glass panel. The droplets of water slowly run down the glass to a collection tank ready to be taken away for drinking or whatever. So that's basically how it works. Now, what this means- </p><p>00:04:38,400</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/f4bbc445-bc08-4f65-9dfd-dac9dfdddb87.mp3",
+    "durationSeconds": 285.864,
+    "sizeBytes": 4574355,
+    "sha256": "5e9189cc6bac366c1476a13a8ac279e714a2abb782f27003c16283eb91105951",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:27Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347733897_lnac7o_06ca0e27.mp3"
+}

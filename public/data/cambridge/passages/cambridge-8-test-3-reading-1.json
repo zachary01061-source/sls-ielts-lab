@@ -1,0 +1,368 @@
+{
+  "id": "cambridge-8-test-3-reading-1",
+  "title": "Striking Back at Lightning With Lasers",
+  "titleCn": "Striking Back at Lightning With Lasers",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 8,
+    "test": 3
+  },
+  "sourceQuestionId": "6901",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6901",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Striking Back at Lightning"
+    },
+    {
+      "label": "2",
+      "text": "With Lasers"
+    },
+    {
+      "label": "3",
+      "text": "Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death - out in the open, a lone golfer may be a lightning bolt's most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year."
+    },
+    {
+      "label": "4",
+      "text": "But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike."
+    },
+    {
+      "label": "5",
+      "text": "The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States' power grid from lightning strikes. 'We can cause the lightning to strike where we want it to using rockets, ' says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up."
+    },
+    {
+      "label": "6",
+      "text": "Bad behaviour"
+    },
+    {
+      "label": "7",
+      "text": "But while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1, 200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. 'Lightning is not perfectly well behaved, ' says Bernstein. 'Occasionally, it will take a branch and go someplace it wasn't supposed to go. '"
+    },
+    {
+      "label": "8",
+      "text": "And anyway, who would want to fire streams of rockets in a populated area? 'What goes up must come down, ' points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely - and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500, 000 invested so far, a promising system is just emerging from the laboratory."
+    },
+    {
+      "label": "9",
+      "text": "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun)would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds."
+    },
+    {
+      "label": "10",
+      "text": "A stumbling block"
+    },
+    {
+      "label": "11",
+      "text": "However, there is still a big stumbling block. The laser is no nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer."
+    },
+    {
+      "label": "12",
+      "text": "Bernstein says that Diels's system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. 'I cannot say I have money yet, but I'm working on it, ' says Bernstein. He reckons that the forthcoming field tests will be the turning point - and he's hoping for good news. Bernstein predicts 'an avalanche of interest and support' if all goes well. He expects to see cloud-zappers eventually costing $50, 000 to $100, 000 each."
+    },
+    {
+      "label": "13",
+      "text": "Other scientists could also benefit. With a lightning 'switch' at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of 'interactive meteorology' - not just forecasting the weather but controlling it. 'If we could discharge clouds, we might affect the weather, ' he says."
+    },
+    {
+      "label": "14",
+      "text": "And perhaps, says Diels, we'll be able to confront some other meteorological menaces. 'We think we could prevent hail by inducing lightning, ' he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 1-3\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "The main topic discussed in the text is",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6901_641867",
+          "options": [
+            {
+              "value": "A",
+              "text": "the damage caused to US golf courses and golf players by lightning strikes."
+            },
+            {
+              "value": "B",
+              "text": "the effect of lightning on power supplies in the US and in Japan."
+            },
+            {
+              "value": "C",
+              "text": "a variety of methods used in trying to control lightning strikes."
+            },
+            {
+              "value": "D",
+              "text": "a laser technique used in trying to control lightning strikes."
+            }
+          ],
+          "explanation": "定位词：main topic\n\n题目:本文讨论的主题是\n\nA闪电攻击对美国高尔夫场地和高尔夫选手造成的损失。\n\nB闪电对美国和日本电力供应的影响。\n\nC试图用来控制闪电袭击的各种方式。\n\nD一种试图用来控制闪电袭击的激光技术。\n\n正确翻译后，选项A和B比较容易排除，选项C比较具有迷惑性，但是只要看看文章标题，就不难发现本文主题是laser，所以正确答案是D。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "According to the text, every year lightning",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6901_216901",
+          "options": [
+            {
+              "value": "A",
+              "text": "does considerable damage to buildings during thunderstorms."
+            },
+            {
+              "value": "B",
+              "text": "kills or injures mainly golfers in the United States."
+            },
+            {
+              "value": "C",
+              "text": "kills or injures around 500 people throughout the world."
+            },
+            {
+              "value": "D",
+              "text": "damages more than 100 American power companies."
+            }
+          ],
+          "explanation": "定位词：lightning\n\n题目:根据文章,每年闪电会\n\nA在暴风雨期间对建筑物造成相当大的破坏。\n\nB在美国主要导致高尔夫球手死亡或受伤。\n\nC在全世界范围内导致500人死亡或受伤。\n\nD破坏了100多家美国电力公司。\n\n选项C和D中的具体数字是很好的定位词，可定位至文章第一段。文中提到，只是在美国，闪电每年就能杀伤500人，而不是世界范围内，因此排除选项C。而100这个数字在文中是100 million a year，说的是每年闪电会让电力公司损失超过一亿美元,而不是说毁掉100多家电力公司，因此排除选项D。文中提到了云层翻滚而来时在户外打高尔夫是非常危险的，并没有说每年因雷击而死伤的是高尔夫球手，因此排除选项B。文中提到：there is damage to property too. buildings属于property的范畴，因此正确答案为A。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Researchers at the University of Florida and at the University of New Mexico",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6901_858030",
+          "options": [
+            {
+              "value": "A",
+              "text": "receive funds from the same source."
+            },
+            {
+              "value": "B",
+              "text": "are using the same techniques."
+            },
+            {
+              "value": "C",
+              "text": "are employed by commercial companies."
+            },
+            {
+              "value": "D",
+              "text": "are in opposition to each other."
+            }
+          ],
+          "explanation": "定位词：University of Florida, University of New Mexico\n\n题目:佛罗里达大学和新墨西哥大学的研究员们\n\nA有同样的资金来源。\n\nB使用同样的技术。\n\nC受雇于商业公司。\n\nD互相反对。\n\n此题是不可过多联想的典型，越直白的想法越能解题。一般来讲，带有金钱的选项应该去掉，但是此题剑走偏锋，偏偏选了带funds一词的选项A。文中有两处支持这个答案：第一处在第三段： ...with support from the Electrical Power Research Institute(EPRI)...另一处在第五段：...which is backed by EPRL..两处暗示两项研究都得到了EPRI的资助,因此答案为A。\n\n选项B可以从文中说的一个主张用火箭，一个主张用激光来排除；选项C在文中并没有提及；选项D则是过多推理的结果，尽管使用技术不同，但是并不代表两者互相反对。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 4-6\n\nComplete the sentences below.\n\nWrite NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "EPRI receives financial support from [4] ______",
+          "answers": [
+            "power companies"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6901_583628",
+          "explanation": "题号：4\n\n定位词：EPRI, financial, support\n\n第三段:EPRI, which is funded by\n\npower companies...用EPRI定位到文章第三段， EPRI第一次出现之后即指出其是由电力公司资助的，原文中的funded等同于题千中的receives financial support from，因此答案应该填power companies。注意不要写成单数。\n\n题号：5\n\n定位词：Diels\n\n第五段:… try to use lasers to discharge lightning safely...\n\n用人名Diels在文中定位到第五段，从题目看出这里应填入一个副词，所以可以在人名周围寻找use或者use的替换词，并且在其周围找带有-ly形式的词，这样正确答案safely很快就能浮出水面了。\n\n题号：6\n\n定位词：difficulty, laser equipment\n\n第七段:The laser is no nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size...\n\n这道题目的定位稍微有一些困难，需要将difficulty一词与文章中的stumbling block联系起来，进而找到第七段中的laser一词。文中提到，该激光设备并不方便携带，它是个体积占据了一整间房间的庞然大物。看到这里，通过理解，考生们可以想到激光设备最大的问题就是体积太大，不好携带，所以正确答案是size。",
+          "promptHtml": "EPRI receives financial support from [4] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "The advantage of the technique being developed by Diels is that it can be used [5] ______.",
+          "answers": [
+            "safely"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6901_927611",
+          "explanation": "题号：4\n\n定位词：EPRI, financial, support\n\n第三段:EPRI, which is funded by\n\npower companies...用EPRI定位到文章第三段， EPRI第一次出现之后即指出其是由电力公司资助的，原文中的funded等同于题千中的receives financial support from，因此答案应该填power companies。注意不要写成单数。\n\n题号：5\n\n定位词：Diels\n\n第五段:… try to use lasers to discharge lightning safely...\n\n用人名Diels在文中定位到第五段，从题目看出这里应填入一个副词，所以可以在人名周围寻找use或者use的替换词，并且在其周围找带有-ly形式的词，这样正确答案safely很快就能浮出水面了。\n\n题号：6\n\n定位词：difficulty, laser equipment\n\n第七段:The laser is no nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size...\n\n这道题目的定位稍微有一些困难，需要将difficulty一词与文章中的stumbling block联系起来，进而找到第七段中的laser一词。文中提到，该激光设备并不方便携带，它是个体积占据了一整间房间的庞然大物。看到这里，通过理解，考生们可以想到激光设备最大的问题就是体积太大，不好携带，所以正确答案是size。",
+          "promptHtml": "The advantage of the technique being developed by Diels is that it can be used [5] ______."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "The main difficulty associated with using the laser equipment is related to its [6] ______",
+          "answers": [
+            "size"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6901_901819",
+          "explanation": "题号：4\n\n定位词：EPRI, financial, support\n\n第三段:EPRI, which is funded by\n\npower companies...用EPRI定位到文章第三段， EPRI第一次出现之后即指出其是由电力公司资助的，原文中的funded等同于题千中的receives financial support from，因此答案应该填power companies。注意不要写成单数。\n\n题号：5\n\n定位词：Diels\n\n第五段:… try to use lasers to discharge lightning safely...\n\n用人名Diels在文中定位到第五段，从题目看出这里应填入一个副词，所以可以在人名周围寻找use或者use的替换词，并且在其周围找带有-ly形式的词，这样正确答案safely很快就能浮出水面了。\n\n题号：6\n\n定位词：difficulty, laser equipment\n\n第七段:The laser is no nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size...\n\n这道题目的定位稍微有一些困难，需要将difficulty一词与文章中的stumbling block联系起来，进而找到第七段中的laser一词。文中提到，该激光设备并不方便携带，它是个体积占据了一整间房间的庞然大物。看到这里，通过理解，考生们可以想到激光设备最大的问题就是体积太大，不好携带，所以正确答案是size。",
+          "promptHtml": "The main difficulty associated with using the laser equipment is related to its [6] ______"
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>EPRI receives financial support from <strong>[4] ______</strong></p>\n\n<p>The advantage of the technique being developed by Diels is that it can be used <strong>[5] ______</strong>.</p>\n\n<p>The main difficulty associated with using the laser equipment is related to its <strong>[6] ______</strong></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 7-10\n\nComplete the summary using the list of words, A-I, below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Answer for gap 7.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6901_834840",
+          "explanation": "题号：7\n\n定位词：electrons\n\n第六段:...to extract electrons out of atoms...\n\n本题关键是要理解题目中的remove…from...与文中的extract...out of..属于同义替换，这里要表达的是从原子(atoms )中提取电荷( electrons)。故正确答案是B。\n\n题号：8\n\n定位词：directed at\n\n第六段:\n\nIf a laser could generate a line of ionization in the air all the way up to a storm cloud...\n\n注意文中generate是“产生\"的意思； directed at对应文中的all the way up to，其后的a storm cloud即对应空格处要填的内容。因此正确答案是C。\n\n题号：9\n\n定位词：less dangerous\n\n第五段：...who would want to fire streams of rockets in a populated area?\n\n... try to use lasers to discharge lightning safely...\n\n这道题比较麻烦，对于只是按照顺序寻找答案的考生，定位答案会比较困难。这里需要联系第五段中的信息，参照词库里的单词，推测出空格所在句的意思是“用激光控制闪电是比用火箭更安全( less dangerous )的方式”。正确答案是G。\n\n题号：10\n\n定位词：protection, aimed firstly at\n\n第六段:To stop the laser itself being struck... Instead it would be directed at a mirror...\n\nprotection对应文中的stop...being struck；at是解题关键词，即使不知道文中的directed和题目中的aimed是同义词，也可以从词组的形式上看出来两者是同位的，其后的名词即为答案。由此可知答案是D。",
+          "promptHtml": "Answer for gap 7."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Answer for gap 8.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6901_809587",
+          "explanation": "题号：7\n\n定位词：electrons\n\n第六段:...to extract electrons out of atoms...\n\n本题关键是要理解题目中的remove…from...与文中的extract...out of..属于同义替换，这里要表达的是从原子(atoms )中提取电荷( electrons)。故正确答案是B。\n\n题号：8\n\n定位词：directed at\n\n第六段:\n\nIf a laser could generate a line of ionization in the air all the way up to a storm cloud...\n\n注意文中generate是“产生\"的意思； directed at对应文中的all the way up to，其后的a storm cloud即对应空格处要填的内容。因此正确答案是C。\n\n题号：9\n\n定位词：less dangerous\n\n第五段：...who would want to fire streams of rockets in a populated area?\n\n... try to use lasers to discharge lightning safely...\n\n这道题比较麻烦，对于只是按照顺序寻找答案的考生，定位答案会比较困难。这里需要联系第五段中的信息，参照词库里的单词，推测出空格所在句的意思是“用激光控制闪电是比用火箭更安全( less dangerous )的方式”。正确答案是G。\n\n题号：10\n\n定位词：protection, aimed firstly at\n\n第六段:To stop the laser itself being struck... Instead it would be directed at a mirror...\n\nprotection对应文中的stop...being struck；at是解题关键词，即使不知道文中的directed和题目中的aimed是同义词，也可以从词组的形式上看出来两者是同位的，其后的名词即为答案。由此可知答案是D。",
+          "promptHtml": "Answer for gap 8."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6901_710494",
+          "explanation": "题号：7\n\n定位词：electrons\n\n第六段:...to extract electrons out of atoms...\n\n本题关键是要理解题目中的remove…from...与文中的extract...out of..属于同义替换，这里要表达的是从原子(atoms )中提取电荷( electrons)。故正确答案是B。\n\n题号：8\n\n定位词：directed at\n\n第六段:\n\nIf a laser could generate a line of ionization in the air all the way up to a storm cloud...\n\n注意文中generate是“产生\"的意思； directed at对应文中的all the way up to，其后的a storm cloud即对应空格处要填的内容。因此正确答案是C。\n\n题号：9\n\n定位词：less dangerous\n\n第五段：...who would want to fire streams of rockets in a populated area?\n\n... try to use lasers to discharge lightning safely...\n\n这道题比较麻烦，对于只是按照顺序寻找答案的考生，定位答案会比较困难。这里需要联系第五段中的信息，参照词库里的单词，推测出空格所在句的意思是“用激光控制闪电是比用火箭更安全( less dangerous )的方式”。正确答案是G。\n\n题号：10\n\n定位词：protection, aimed firstly at\n\n第六段:To stop the laser itself being struck... Instead it would be directed at a mirror...\n\nprotection对应文中的stop...being struck；at是解题关键词，即使不知道文中的directed和题目中的aimed是同义词，也可以从词组的形式上看出来两者是同位的，其后的名词即为答案。由此可知答案是D。",
+          "promptHtml": "Answer for gap 9."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Answer for gap 10.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6901_642040",
+          "explanation": "题号：7\n\n定位词：electrons\n\n第六段:...to extract electrons out of atoms...\n\n本题关键是要理解题目中的remove…from...与文中的extract...out of..属于同义替换，这里要表达的是从原子(atoms )中提取电荷( electrons)。故正确答案是B。\n\n题号：8\n\n定位词：directed at\n\n第六段:\n\nIf a laser could generate a line of ionization in the air all the way up to a storm cloud...\n\n注意文中generate是“产生\"的意思； directed at对应文中的all the way up to，其后的a storm cloud即对应空格处要填的内容。因此正确答案是C。\n\n题号：9\n\n定位词：less dangerous\n\n第五段：...who would want to fire streams of rockets in a populated area?\n\n... try to use lasers to discharge lightning safely...\n\n这道题比较麻烦，对于只是按照顺序寻找答案的考生，定位答案会比较困难。这里需要联系第五段中的信息，参照词库里的单词，推测出空格所在句的意思是“用激光控制闪电是比用火箭更安全( less dangerous )的方式”。正确答案是G。\n\n题号：10\n\n定位词：protection, aimed firstly at\n\n第六段:To stop the laser itself being struck... Instead it would be directed at a mirror...\n\nprotection对应文中的stop...being struck；at是解题关键词，即使不知道文中的directed和题目中的aimed是同义词，也可以从词组的形式上看出来两者是同位的，其后的名词即为答案。由此可知答案是D。",
+          "promptHtml": "Answer for gap 10."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "cloud-zappers"
+        },
+        {
+          "value": "B",
+          "text": "atoms"
+        },
+        {
+          "value": "C",
+          "text": "storm clouds"
+        },
+        {
+          "value": "D",
+          "text": "mirrors"
+        },
+        {
+          "value": "E",
+          "text": "technique"
+        },
+        {
+          "value": "F",
+          "text": "ions"
+        },
+        {
+          "value": "G",
+          "text": "rockets"
+        },
+        {
+          "value": "H",
+          "text": "conductors"
+        },
+        {
+          "value": "I",
+          "text": "thunder"
+        }
+      ],
+      "contextHtml": "<p>In this method, a laser is used to create a line of ionisation by removing electrons from <strong>[7] ______</strong>. This laser is then directed at <strong>[8] ______</strong> in order to control electrical charges, a method which is less dangerous than using <strong>[9] ______</strong>. As a protection for the lasers, the beams are aimed firstly at <strong>[10] ______</strong>.</p>\n"
+    },
+    {
+      "id": "g4",
+      "type": "ynng",
+      "instruction": "Questions 11-13\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Power companies have given Diels enough money to develop his laser.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6901_351676",
+          "explanation": "参考译文：电力公司已经向Diels提供了足够的资金来研发的激光器。\n\n定位词：Diels, money\n\n解题关键词：have given...enough money\n\n文中对应点：由定位词及顺序规律可以定位到第八段：\"I cannot say I have money yet, but I am working on it.\"\n\n(“我还不能说我已经拿到钱了,但是我正在为之努力。\")\n\n看到这句话，再联系上句：Bernstein says that Diels' system is attracting lots文中对应点of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system....Bernstein表示“ Diels的激光系统正在引起各电力公司的厂”泛兴趣。但他们还没有准备好EPRI提出的500万美元——开发一个......的商用系统的所需资金。)这两句话足以证明Diels的系统还没有得到足够的资金支持。\n\n答案：NO"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Obtaining money to improve the lasers will depend on tests in real storms.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6901_729098",
+          "explanation": "参考译文：获得改善激光器听需的资金依赖于在真正的暴风雨中进行的试验。\n\n定位词：obtaining money, tests in real storms\n\n解题关键词：tests in real storms\n\n文中对应第八段：第11题对应的原文下一句提到: He reckons that the forthcoming field tests will be the turning point..其中turning point是“转折点”的意思，联系上题中说到的，目前该项目还没有拿到钱，可知这句话的意思是field tests就是得到资金的转折点。field tests = tests in real storms\n\n答案：YES"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Weather forecasters are intensely interested in Diels's system.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6901_323822",
+          "explanation": "参考译文：天气预报员们对Diels的系统设备特别感兴趣\n\n定位词：Diels, weather forecasters\n\n解题关键词：intensely interested\n\n这是一道典型的完全未提及的题目，interest 一词出现在第八段的末尾，而weather forecasters这两个词也仅在第九段最后两句中出现：...not just forecasting the weather but controlling...而具体内容则完全不相干。\n\n答案：NOT GIVEN"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Striking Back at Lightning </strong></span></p><p><span><strong>With Lasers</strong></span></p><p>Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death - out in the open, a lone golfer may be a lightning bolt&#x27;s most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.</p><p>But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.</p><p>The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States&#x27; power grid from lightning strikes. &#x27;We can cause the lightning to strike where we want it to using rockets, &#x27; says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up.</p><p><strong>Bad behaviour</strong></p><p>But while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1, 200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. &#x27;Lightning is not perfectly well behaved, &#x27; says Bernstein. &#x27;Occasionally, it will take a branch and go someplace it wasn&#x27;t supposed to go. &#x27;</p><p>And anyway, who would want to fire streams of rockets in a populated area? &#x27;What goes up must come down, &#x27; points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely - and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500, 000 invested so far, a promising system is just emerging from the laboratory.</p><p>The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun)would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds.</p><p><strong>A stumbling block</strong></p><p>However, there is still a big stumbling block. The laser is no nifty portable: it&#x27;s a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer.</p><p>Bernstein says that Diels&#x27;s system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. &#x27;I cannot say I have money yet, but I&#x27;m working on it, &#x27; says Bernstein. He reckons that the forthcoming field tests will be the turning point - and he&#x27;s hoping for good news. Bernstein predicts &#x27;an avalanche of interest and support&#x27; if all goes well. He expects to see cloud-zappers eventually costing $50, 000 to $100, 000 each.</p><p>Other scientists could also benefit. With a lightning &#x27;switch&#x27; at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of &#x27;interactive meteorology&#x27; - not just forecasting the weather but controlling it. &#x27;If we could discharge clouds, we might affect the weather, &#x27; he says.</p><p>And perhaps, says Diels, we&#x27;ll be able to confront some other meteorological menaces. &#x27;We think we could prevent hail by inducing lightning, &#x27; he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back.</p>"
+}

@@ -1,0 +1,312 @@
+{
+  "id": "cambridge-12-test-6-reading-2",
+  "title": "The Lost City",
+  "titleCn": "The Lost City",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 12,
+    "test": 6
+  },
+  "sourceQuestionId": "6733",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6733",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Lost City"
+    },
+    {
+      "label": "2",
+      "text": "An explorer's encounter with the ruined city of Machu Picchu, the most famous"
+    },
+    {
+      "label": "3",
+      "text": "icon of the Inca civilisation"
+    },
+    {
+      "label": "4",
+      "text": "1"
+    },
+    {
+      "label": "5",
+      "text": "A When the US explorer and academic Hiram Bingham arrived in South America in 1911, he was ready for what was to be the greatest achievement of his life: the exploration of the remote hinterland to the west of Cusco, the old capital of the Inca empire in the Andes mountains of Peru. His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. Cusco lies on a high plateau at an elevation of more than 3,000 metres, and Bingham's plan was to descend from this plateau along the valley of the Urubamba river, which takes a circuitous route down to the Amazon and passes through an area of dramatic canyons and mountain ranges."
+    },
+    {
+      "label": "6",
+      "text": "2"
+    },
+    {
+      "label": "7",
+      "text": "B When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle. Almost all previous travellers had left the river at Ollantaytambo and taken a high pass across the mountains to rejoin the river lower down, thereby cutting a substantial corner, but also therefore never passing through the area around Machu Picchu."
+    },
+    {
+      "label": "8",
+      "text": "3"
+    },
+    {
+      "label": "9",
+      "text": "C On 24 July they were a few days into their descent of the valley. The day began slowly, with Bingham trying to arrange sufficient mules for the next stage of the trek. His companions showed no interest in accompanying him up the nearby hill to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before. The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill. In his book Lost City of the Incas, he relates that he made the ascent without having the least expectation that he would find anything at the top."
+    },
+    {
+      "label": "10",
+      "text": "4"
+    },
+    {
+      "label": "11",
+      "text": "D Bingham writes about the approach in vivid style in his book. First, as he climbs up the hill, he describes the ever-present possibility of deadly snakes, 'capable of making considerable springs when in pursuit of their prey'；not that he sees any. Then there's a sense of mounting discovery as he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial buildings of Machu Picchu. 'It seemed like an unbelievable dream ...the sight held me spellbound ...'he wrote."
+    },
+    {
+      "label": "12",
+      "text": "5"
+    },
+    {
+      "label": "13",
+      "text": "E We should remember, however, that Lost City of the Incas is a work of hindsight, not written until 1948, many years after his journey. His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said little about his discovery. At this stage, Bingham didn't realise the extent or the importance of the site, nor did he realise what use he could make of the discovery."
+    },
+    {
+      "label": "14",
+      "text": "6"
+    },
+    {
+      "label": "15",
+      "text": "F However, soon after returning it occurred to him that he could make a name for himself from this discovery. When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea. He wondered whether it could have been the birthplace of the very first Inca, Manco the Great, and whether it could also have been what chroniclers described as'the last city of the Incas'. This term refers to Vilcabamba, the settlement where the Incas had fled from Spanish invaders in the 1530s. Bingham made desperate attempts to prove this belief for nearly 40 years. Sadly, his vision of the site as both the beginning and end of the Inca civilisation, while a magnificent one, is inaccurate. We now know that Vilcabamba actually lies 65 kilometres away in the depths of the jungle."
+    },
+    {
+      "label": "16",
+      "text": "7"
+    },
+    {
+      "label": "17",
+      "text": "G One question that has perplexed visitors, historians and archaeologists alike ever since Bingham, is why the site seems to have been abandoned before the Spanish Conquest. There are no references to it by any of the Spanish chroniclers - and if they had known of its existence so close to Cusco they would certainly have come in search of gold. An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya, a country estate built by an Inca emperor to escape the cold winters of Cusco, where the elite could enjoy monumental architecture and spectacular views. Furthermore, the particular architecture of Machu Picchu suggests that it was constructed at the time of the greatest of all the Incas, the emperor Pachacuti (c. 1438-71). By custom, Pachacuti's descendants built other similar estates for their own use, and so Machu Picchu would have been abandoned after his death, some 50 years before the Spanish Conquest."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-20\n\nThe text has 7 sections.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Gap 14 (see above)",
+          "answers": [
+            "iv"
+          ],
+          "sourceCode": "Q6733_300526",
+          "explanation": "题号：14\n\n定位词：aim\n\nA段第二句：His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 本段描述了Bingham到达南美探寻印加古城的遗址,其中第二句非常明确地写出了此行目的： His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 选项中The aim of the trip含义符合，因此本题答案为iv。\n\n题号：15\n\n定位词：a new route\n\nB段第一句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本段的核心信息为Bingham一行并没有按照之前旅行者选择的路线: they had an advantage over travellers who had preceded them...Almost all previous travelers... 选项中a new route的说法与本段含义一致，因此本题答案为vi。\n\n题号：16\n\n定位词：\n\n定位词：lack of enthusiasm\n\nC段第四句：The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.\n\n本段写到Bingham在当地农民的介绍下了解到一座小山的存在，并独自爬上小山。但是从第四句中得知Bingham对会在小山上发现什么并没有太大的热情，这与选项中lack of enthusiasm的说法一致，因此本题答案为viii。\n\n题号：17\n\n定位词：dramatic description\n\nD段一至四句：Bingham writes about the approach in vivid style in his book...he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial building of Machu Picchu...\n\n本段描写了Bingham在书中生动描写了在小山上所看到的情景，其中第一句说到in vivid style，确定了整段的基调，之后出现了大量描述场景的说法，这与选项中dramatic description的说法一致， 因此本题答案为v。\n\n题号：18\n\n定位词：different accounts\n\nE段第二、三句：His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said lttle about his discovery.\n\n本段主要说明了Bingham在当时并没有意识到他所到之处的重要意义，同时人们对Bingham取得成就的认可，也是经历了一段时间才形成的，同时由于Bingham对同行者所谈甚少，他们对这段旅程的描述也不尽相同，因此本题答案为i。\n\n题号：19\n\n定位词：publishes his theory\n\nF段二至四句：When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea..\n\n本段写到Bingham将他的经历发表在杂志上: came to write the National Geographic magazine article that broke the story to the world，\n\n之后他提出所到之处是birthplace of the very first Inca，或者the last city of the Incas，并为了证实自己的说法做出了大量努力，也就是说，Bingham 已经将自己的想法公布于世，因此本题答案为vi。\n\n题号：20\n\n定位词：common belief\n\nG段第三句：An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya...\n\n本段首先提出了使很多人产生困感的问题，之后从第三句开始，对这一问题给出了普遍认同的答案: An idea which has gained wide acceptance over the past few years is that...，因此本题答案为i。",
+          "promptHtml": "Gap 14 (see above)"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Gap 15 (see above)",
+          "answers": [
+            "vi"
+          ],
+          "sourceCode": "Q6733_509819",
+          "explanation": "题号：14\n\n定位词：aim\n\nA段第二句：His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 本段描述了Bingham到达南美探寻印加古城的遗址,其中第二句非常明确地写出了此行目的： His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 选项中The aim of the trip含义符合，因此本题答案为iv。\n\n题号：15\n\n定位词：a new route\n\nB段第一句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本段的核心信息为Bingham一行并没有按照之前旅行者选择的路线: they had an advantage over travellers who had preceded them...Almost all previous travelers... 选项中a new route的说法与本段含义一致，因此本题答案为vi。\n\n题号：16\n\n定位词：\n\n定位词：lack of enthusiasm\n\nC段第四句：The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.\n\n本段写到Bingham在当地农民的介绍下了解到一座小山的存在，并独自爬上小山。但是从第四句中得知Bingham对会在小山上发现什么并没有太大的热情，这与选项中lack of enthusiasm的说法一致，因此本题答案为viii。\n\n题号：17\n\n定位词：dramatic description\n\nD段一至四句：Bingham writes about the approach in vivid style in his book...he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial building of Machu Picchu...\n\n本段描写了Bingham在书中生动描写了在小山上所看到的情景，其中第一句说到in vivid style，确定了整段的基调，之后出现了大量描述场景的说法，这与选项中dramatic description的说法一致， 因此本题答案为v。\n\n题号：18\n\n定位词：different accounts\n\nE段第二、三句：His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said lttle about his discovery.\n\n本段主要说明了Bingham在当时并没有意识到他所到之处的重要意义，同时人们对Bingham取得成就的认可，也是经历了一段时间才形成的，同时由于Bingham对同行者所谈甚少，他们对这段旅程的描述也不尽相同，因此本题答案为i。\n\n题号：19\n\n定位词：publishes his theory\n\nF段二至四句：When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea..\n\n本段写到Bingham将他的经历发表在杂志上: came to write the National Geographic magazine article that broke the story to the world，\n\n之后他提出所到之处是birthplace of the very first Inca，或者the last city of the Incas，并为了证实自己的说法做出了大量努力，也就是说，Bingham 已经将自己的想法公布于世，因此本题答案为vi。\n\n题号：20\n\n定位词：common belief\n\nG段第三句：An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya...\n\n本段首先提出了使很多人产生困感的问题，之后从第三句开始，对这一问题给出了普遍认同的答案: An idea which has gained wide acceptance over the past few years is that...，因此本题答案为i。",
+          "promptHtml": "Gap 15 (see above)"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Gap 16 (see above)",
+          "answers": [
+            "viii"
+          ],
+          "sourceCode": "Q6733_519264",
+          "explanation": "题号：14\n\n定位词：aim\n\nA段第二句：His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 本段描述了Bingham到达南美探寻印加古城的遗址,其中第二句非常明确地写出了此行目的： His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 选项中The aim of the trip含义符合，因此本题答案为iv。\n\n题号：15\n\n定位词：a new route\n\nB段第一句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本段的核心信息为Bingham一行并没有按照之前旅行者选择的路线: they had an advantage over travellers who had preceded them...Almost all previous travelers... 选项中a new route的说法与本段含义一致，因此本题答案为vi。\n\n题号：16\n\n定位词：\n\n定位词：lack of enthusiasm\n\nC段第四句：The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.\n\n本段写到Bingham在当地农民的介绍下了解到一座小山的存在，并独自爬上小山。但是从第四句中得知Bingham对会在小山上发现什么并没有太大的热情，这与选项中lack of enthusiasm的说法一致，因此本题答案为viii。\n\n题号：17\n\n定位词：dramatic description\n\nD段一至四句：Bingham writes about the approach in vivid style in his book...he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial building of Machu Picchu...\n\n本段描写了Bingham在书中生动描写了在小山上所看到的情景，其中第一句说到in vivid style，确定了整段的基调，之后出现了大量描述场景的说法，这与选项中dramatic description的说法一致， 因此本题答案为v。\n\n题号：18\n\n定位词：different accounts\n\nE段第二、三句：His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said lttle about his discovery.\n\n本段主要说明了Bingham在当时并没有意识到他所到之处的重要意义，同时人们对Bingham取得成就的认可，也是经历了一段时间才形成的，同时由于Bingham对同行者所谈甚少，他们对这段旅程的描述也不尽相同，因此本题答案为i。\n\n题号：19\n\n定位词：publishes his theory\n\nF段二至四句：When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea..\n\n本段写到Bingham将他的经历发表在杂志上: came to write the National Geographic magazine article that broke the story to the world，\n\n之后他提出所到之处是birthplace of the very first Inca，或者the last city of the Incas，并为了证实自己的说法做出了大量努力，也就是说，Bingham 已经将自己的想法公布于世，因此本题答案为vi。\n\n题号：20\n\n定位词：common belief\n\nG段第三句：An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya...\n\n本段首先提出了使很多人产生困感的问题，之后从第三句开始，对这一问题给出了普遍认同的答案: An idea which has gained wide acceptance over the past few years is that...，因此本题答案为i。",
+          "promptHtml": "Gap 16 (see above)"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Gap 17 (see above)",
+          "answers": [
+            "v"
+          ],
+          "sourceCode": "Q6733_624656",
+          "explanation": "题号：14\n\n定位词：aim\n\nA段第二句：His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 本段描述了Bingham到达南美探寻印加古城的遗址,其中第二句非常明确地写出了此行目的： His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 选项中The aim of the trip含义符合，因此本题答案为iv。\n\n题号：15\n\n定位词：a new route\n\nB段第一句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本段的核心信息为Bingham一行并没有按照之前旅行者选择的路线: they had an advantage over travellers who had preceded them...Almost all previous travelers... 选项中a new route的说法与本段含义一致，因此本题答案为vi。\n\n题号：16\n\n定位词：\n\n定位词：lack of enthusiasm\n\nC段第四句：The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.\n\n本段写到Bingham在当地农民的介绍下了解到一座小山的存在，并独自爬上小山。但是从第四句中得知Bingham对会在小山上发现什么并没有太大的热情，这与选项中lack of enthusiasm的说法一致，因此本题答案为viii。\n\n题号：17\n\n定位词：dramatic description\n\nD段一至四句：Bingham writes about the approach in vivid style in his book...he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial building of Machu Picchu...\n\n本段描写了Bingham在书中生动描写了在小山上所看到的情景，其中第一句说到in vivid style，确定了整段的基调，之后出现了大量描述场景的说法，这与选项中dramatic description的说法一致， 因此本题答案为v。\n\n题号：18\n\n定位词：different accounts\n\nE段第二、三句：His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said lttle about his discovery.\n\n本段主要说明了Bingham在当时并没有意识到他所到之处的重要意义，同时人们对Bingham取得成就的认可，也是经历了一段时间才形成的，同时由于Bingham对同行者所谈甚少，他们对这段旅程的描述也不尽相同，因此本题答案为i。\n\n题号：19\n\n定位词：publishes his theory\n\nF段二至四句：When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea..\n\n本段写到Bingham将他的经历发表在杂志上: came to write the National Geographic magazine article that broke the story to the world，\n\n之后他提出所到之处是birthplace of the very first Inca，或者the last city of the Incas，并为了证实自己的说法做出了大量努力，也就是说，Bingham 已经将自己的想法公布于世，因此本题答案为vi。\n\n题号：20\n\n定位词：common belief\n\nG段第三句：An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya...\n\n本段首先提出了使很多人产生困感的问题，之后从第三句开始，对这一问题给出了普遍认同的答案: An idea which has gained wide acceptance over the past few years is that...，因此本题答案为i。",
+          "promptHtml": "Gap 17 (see above)"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Gap 18 (see above)",
+          "answers": [
+            "i"
+          ],
+          "sourceCode": "Q6733_874882",
+          "explanation": "题号：14\n\n定位词：aim\n\nA段第二句：His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 本段描述了Bingham到达南美探寻印加古城的遗址,其中第二句非常明确地写出了此行目的： His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 选项中The aim of the trip含义符合，因此本题答案为iv。\n\n题号：15\n\n定位词：a new route\n\nB段第一句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本段的核心信息为Bingham一行并没有按照之前旅行者选择的路线: they had an advantage over travellers who had preceded them...Almost all previous travelers... 选项中a new route的说法与本段含义一致，因此本题答案为vi。\n\n题号：16\n\n定位词：\n\n定位词：lack of enthusiasm\n\nC段第四句：The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.\n\n本段写到Bingham在当地农民的介绍下了解到一座小山的存在，并独自爬上小山。但是从第四句中得知Bingham对会在小山上发现什么并没有太大的热情，这与选项中lack of enthusiasm的说法一致，因此本题答案为viii。\n\n题号：17\n\n定位词：dramatic description\n\nD段一至四句：Bingham writes about the approach in vivid style in his book...he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial building of Machu Picchu...\n\n本段描写了Bingham在书中生动描写了在小山上所看到的情景，其中第一句说到in vivid style，确定了整段的基调，之后出现了大量描述场景的说法，这与选项中dramatic description的说法一致， 因此本题答案为v。\n\n题号：18\n\n定位词：different accounts\n\nE段第二、三句：His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said lttle about his discovery.\n\n本段主要说明了Bingham在当时并没有意识到他所到之处的重要意义，同时人们对Bingham取得成就的认可，也是经历了一段时间才形成的，同时由于Bingham对同行者所谈甚少，他们对这段旅程的描述也不尽相同，因此本题答案为i。\n\n题号：19\n\n定位词：publishes his theory\n\nF段二至四句：When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea..\n\n本段写到Bingham将他的经历发表在杂志上: came to write the National Geographic magazine article that broke the story to the world，\n\n之后他提出所到之处是birthplace of the very first Inca，或者the last city of the Incas，并为了证实自己的说法做出了大量努力，也就是说，Bingham 已经将自己的想法公布于世，因此本题答案为vi。\n\n题号：20\n\n定位词：common belief\n\nG段第三句：An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya...\n\n本段首先提出了使很多人产生困感的问题，之后从第三句开始，对这一问题给出了普遍认同的答案: An idea which has gained wide acceptance over the past few years is that...，因此本题答案为i。",
+          "promptHtml": "Gap 18 (see above)"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Gap 19 (see above)",
+          "answers": [
+            "vii"
+          ],
+          "sourceCode": "Q6733_501235",
+          "explanation": "题号：14\n\n定位词：aim\n\nA段第二句：His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 本段描述了Bingham到达南美探寻印加古城的遗址,其中第二句非常明确地写出了此行目的： His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 选项中The aim of the trip含义符合，因此本题答案为iv。\n\n题号：15\n\n定位词：a new route\n\nB段第一句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本段的核心信息为Bingham一行并没有按照之前旅行者选择的路线: they had an advantage over travellers who had preceded them...Almost all previous travelers... 选项中a new route的说法与本段含义一致，因此本题答案为vi。\n\n题号：16\n\n定位词：\n\n定位词：lack of enthusiasm\n\nC段第四句：The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.\n\n本段写到Bingham在当地农民的介绍下了解到一座小山的存在，并独自爬上小山。但是从第四句中得知Bingham对会在小山上发现什么并没有太大的热情，这与选项中lack of enthusiasm的说法一致，因此本题答案为viii。\n\n题号：17\n\n定位词：dramatic description\n\nD段一至四句：Bingham writes about the approach in vivid style in his book...he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial building of Machu Picchu...\n\n本段描写了Bingham在书中生动描写了在小山上所看到的情景，其中第一句说到in vivid style，确定了整段的基调，之后出现了大量描述场景的说法，这与选项中dramatic description的说法一致， 因此本题答案为v。\n\n题号：18\n\n定位词：different accounts\n\nE段第二、三句：His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said lttle about his discovery.\n\n本段主要说明了Bingham在当时并没有意识到他所到之处的重要意义，同时人们对Bingham取得成就的认可，也是经历了一段时间才形成的，同时由于Bingham对同行者所谈甚少，他们对这段旅程的描述也不尽相同，因此本题答案为i。\n\n题号：19\n\n定位词：publishes his theory\n\nF段二至四句：When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea..\n\n本段写到Bingham将他的经历发表在杂志上: came to write the National Geographic magazine article that broke the story to the world，\n\n之后他提出所到之处是birthplace of the very first Inca，或者the last city of the Incas，并为了证实自己的说法做出了大量努力，也就是说，Bingham 已经将自己的想法公布于世，因此本题答案为vi。\n\n题号：20\n\n定位词：common belief\n\nG段第三句：An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya...\n\n本段首先提出了使很多人产生困感的问题，之后从第三句开始，对这一问题给出了普遍认同的答案: An idea which has gained wide acceptance over the past few years is that...，因此本题答案为i。",
+          "promptHtml": "Gap 19 (see above)"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Gap 20 (see above)",
+          "answers": [
+            "iii"
+          ],
+          "sourceCode": "Q6733_364724",
+          "explanation": "题号：14\n\n定位词：aim\n\nA段第二句：His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 本段描述了Bingham到达南美探寻印加古城的遗址,其中第二句非常明确地写出了此行目的： His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. 选项中The aim of the trip含义符合，因此本题答案为iv。\n\n题号：15\n\n定位词：a new route\n\nB段第一句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本段的核心信息为Bingham一行并没有按照之前旅行者选择的路线: they had an advantage over travellers who had preceded them...Almost all previous travelers... 选项中a new route的说法与本段含义一致，因此本题答案为vi。\n\n题号：16\n\n定位词：\n\n定位词：lack of enthusiasm\n\nC段第四句：The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.\n\n本段写到Bingham在当地农民的介绍下了解到一座小山的存在，并独自爬上小山。但是从第四句中得知Bingham对会在小山上发现什么并没有太大的热情，这与选项中lack of enthusiasm的说法一致，因此本题答案为viii。\n\n题号：17\n\n定位词：dramatic description\n\nD段一至四句：Bingham writes about the approach in vivid style in his book...he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial building of Machu Picchu...\n\n本段描写了Bingham在书中生动描写了在小山上所看到的情景，其中第一句说到in vivid style，确定了整段的基调，之后出现了大量描述场景的说法，这与选项中dramatic description的说法一致， 因此本题答案为v。\n\n题号：18\n\n定位词：different accounts\n\nE段第二、三句：His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said lttle about his discovery.\n\n本段主要说明了Bingham在当时并没有意识到他所到之处的重要意义，同时人们对Bingham取得成就的认可，也是经历了一段时间才形成的，同时由于Bingham对同行者所谈甚少，他们对这段旅程的描述也不尽相同，因此本题答案为i。\n\n题号：19\n\n定位词：publishes his theory\n\nF段二至四句：When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea..\n\n本段写到Bingham将他的经历发表在杂志上: came to write the National Geographic magazine article that broke the story to the world，\n\n之后他提出所到之处是birthplace of the very first Inca，或者the last city of the Incas，并为了证实自己的说法做出了大量努力，也就是说，Bingham 已经将自己的想法公布于世，因此本题答案为vi。\n\n题号：20\n\n定位词：common belief\n\nG段第三句：An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya...\n\n本段首先提出了使很多人产生困感的问题，之后从第三句开始，对这一问题给出了普遍认同的答案: An idea which has gained wide acceptance over the past few years is that...，因此本题答案为i。",
+          "promptHtml": "Gap 20 (see above)"
+        }
+      ],
+      "sourceType": "paragraph_main",
+      "sourceContentTypes": [
+        "311"
+      ],
+      "options": [
+        {
+          "value": "i",
+          "text": "Different accounts of the same journey"
+        },
+        {
+          "value": "ii",
+          "text": "Bingham gains support"
+        },
+        {
+          "value": "iii",
+          "text": "A common belief"
+        },
+        {
+          "value": "iv",
+          "text": "The aim of the trip"
+        },
+        {
+          "value": "v",
+          "text": "A dramatic description"
+        },
+        {
+          "value": "vi",
+          "text": "A new route"
+        },
+        {
+          "value": "vii",
+          "text": "Bingham publishes his theory"
+        },
+        {
+          "value": "viii",
+          "text": "Bingham's lack of enthusiasm"
+        }
+      ],
+      "contextHtml": ""
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 21-24\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Bingham went to South America in search of an Inca city.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6733_792932",
+          "explanation": "参考译文:Bingham到达南美是为了寻找印加古城。\n\n定位词:Bingham, South America\n\n文中对应点 A段第一、二句：When the US explorer and academic Hiram Bingham arrived in South America in 1911, he was ready for what was to be the greatest achievement of his life: ...the old capital of the Inca empire in the Andes mountains of Peru...\n\n关于Bingham到达South America的说法出现在第一段首句，并在本句中the remote hinterland to the west of Cusco之后出现了同位语：the old capital of the Inca empire in the Andes mountains of Peru，之后第二句中明确说到了His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation，这与题目中in search of an Inca city的说法一致， 因此本题答案为TRUE。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Bingham chose a particular route down the Urubamba valley because it was the most common route used by travellers.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6733_911839",
+          "explanation": "参考译文: Bingham选择了乌鲁班巴峡谷的特定路线，因为这是旅行者们最常走的。\n\n定位词: route, Urubamba\n\n对应B段第一、二句：When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had prceded them...Almost all previous travellers had left the river at Ollantaytambo and taken a high pass across the mountains to rejoin...\n\nB段第一句出现定位词Urubamba，之后对Bingham一行选择的路线进行了描述，从本段前两句可以看出，他们选择的路线与之前的旅行者不同：they had an advantage over travellers who had preceded them... Almost all previous travellers had...，并非the most common route，题目描述与原文信息相反。因此本题答案为FALSE"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Bingham understood the significance of Machu Picchu as soon as he saw it.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6733_809780",
+          "explanation": "参考译文: Bingham 一看到马丘比丘就意识到了它的重要性。\n\n定位词: the significance of Machu Pichu\n\n对应E段第一、二句: We should remember, however, that Lost City of the Incas is a work of hindsight, not written until 1948, many years after his journey. His journal entries of the time reveal a much more gradual appreciation of his achievement.\n\n关于Bingham的发现，出现在C段，但是在第五段开头写到，直到1948年Bingham的书才完成，并且人们是逐渐了解并认可他的成就的，也就是说初次发现马丘比丘时，Bingham并没有意识到其重要性。因此本题答案为FALSE。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Bingham returned to Machu Picchu in order to find evidence to support his theory.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6733_258024",
+          "explanation": "参考译文: Bingham返回马丘比丘以找寻支撑他理论的证据。\n\n定位词: support his theory\n\n文中对应点 F段第五句：Bingham made desperate attempts to prove this belief for nearly 40 years. F段写到Bingham认为所到之处或许是the birthplace of the very first Inca或者the last city of the Incas，之后在第五句写到Bingham made desperate attempts to prove this belief for nearly 40 years，但是是否returned to Machu Picchu in order to find evidence文章并没有提及，因此本题答案为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 25-26\n\nComplete the sentences below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "The track that took Bingham down the Urubamba valley had been created for the transportation of [25] ______",
+          "answers": [
+            "rubber"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6733_599569",
+          "explanation": "题号：25\n\n定位词：track, Urubamba\n\nB段第一句：When Bingham and his team set of fdown the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本题问到关于Bingham在Urubamba所走的路线，其中B段首句说到a track had recently been blasted down the valley canyon to enable rubber to be brought up...，而题目问建立这条track是为了运送什么，因此本题答案为rubber。\n\n题号：26\n\n定位词：found out about the ruins of Machu Picchu, Urubamba valley\n\nC段第三句：His companion showed no interest in accompanying him up the nearby hill to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before.\n\n本题为Bingham是如何发现the ruins of Machu Picchu的，从文中C段第三句可以看到，a local farmer, Melchor Arteaga, had told them about，所以Bingham是从这位local farmer处得知了这一信息，因此本题答案为farmer。",
+          "promptHtml": "The track that took Bingham down the Urubamba valley had been created for the transportation of [25] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Bingham found out about the ruins of Machu Picchu from a [26] ______ in the Urubamba valley.",
+          "answers": [
+            "farmer"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6733_730265",
+          "explanation": "题号：25\n\n定位词：track, Urubamba\n\nB段第一句：When Bingham and his team set of fdown the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.\n\n本题问到关于Bingham在Urubamba所走的路线，其中B段首句说到a track had recently been blasted down the valley canyon to enable rubber to be brought up...，而题目问建立这条track是为了运送什么，因此本题答案为rubber。\n\n题号：26\n\n定位词：found out about the ruins of Machu Picchu, Urubamba valley\n\nC段第三句：His companion showed no interest in accompanying him up the nearby hill to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before.\n\n本题为Bingham是如何发现the ruins of Machu Picchu的，从文中C段第三句可以看到，a local farmer, Melchor Arteaga, had told them about，所以Bingham是从这位local farmer处得知了这一信息，因此本题答案为farmer。",
+          "promptHtml": "Bingham found out about the ruins of Machu Picchu from a [26] ______ in the Urubamba valley."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>The track that took Bingham down the Urubamba valley had been created for the transportation of <strong>[25] ______</strong></p>\n\n<p>Bingham found out about the ruins of Machu Picchu from a <strong>[26] ______</strong><span> </span>in the Urubamba valley.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The Lost City</strong></span><br><em>An explorer&#x27;s encounter with the ruined city of Machu Picchu, the most famous<br>icon of the Inca civilisation</em></p><span>1<strong>[14] ______</strong></span><br><p><strong>A</strong>    When the US explorer and academic Hiram Bingham arrived in South America in 1911, he was ready for what was to be the greatest achievement of his life: the exploration of the remote hinterland to the west of Cusco, the old capital of the Inca empire in the Andes mountains of Peru. His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. Cusco lies on a high plateau at an elevation of more than 3,000 metres, and Bingham&#x27;s plan was to descend from this plateau along the valley of the Urubamba river, which takes a circuitous route down to the Amazon and passes through an area of dramatic canyons and mountain ranges.</p><span>2<strong>[15] ______</strong></span><br><p><strong>B</strong>    When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle. Almost all previous travellers had left the river at Ollantaytambo and taken a high pass across the mountains to rejoin the river lower down, thereby cutting a substantial corner, but also therefore never passing through the area around Machu Picchu.</p><span>3<strong>[16] ______</strong></span><br><p><strong>C</strong>    On 24 July they were a few days into their descent of the valley. The day began slowly, with Bingham trying to arrange sufficient mules for the next stage of the trek. His companions showed no interest in accompanying him up the nearby hill to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before. The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill. In his book <em>Lost City of the Incas</em>, he relates that he made the ascent without having the least expectation that he would find anything at the top.</p><span>4<strong>[17] ______</strong></span><br><p><strong>D</strong>    Bingham writes about the approach in vivid style in his book. First, as he climbs up the hill, he describes the ever-present possibility of deadly snakes, &#x27;capable of making considerable springs when in pursuit of their prey&#x27;；not that he sees any. Then there&#x27;s a sense of mounting discovery as he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial buildings of Machu Picchu. &#x27;It seemed like an unbelievable dream ...the sight held me spellbound ...&#x27;he wrote.</p><span>5<strong>[18] ______</strong></span><br><p><strong>E</strong>    We should remember, however, that Lost City of the Incas is a work of hindsight, not written until 1948, many years after his journey. His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said little about his discovery. At this stage, Bingham didn&#x27;t realise the extent or the importance of the site, nor did he realise what use he could make of the discovery.</p><span>6<strong>[19] ______</strong></span><br><p><strong>F</strong>    However, soon after returning it occurred to him that he could make a name for himself from this discovery. When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea. He wondered whether it could have been the birthplace of the very first Inca, Manco the Great, and whether it could also have been what chroniclers described as&#x27;the last city of the Incas&#x27;. This term refers to Vilcabamba, the settlement where the Incas had fled from Spanish invaders in the 1530s. Bingham made desperate attempts to prove this belief for nearly 40 years. Sadly, his vision of the site as both the beginning and end of the Inca civilisation, while a magnificent one, is inaccurate. We now know that Vilcabamba actually lies 65 kilometres away in the depths of the jungle.</p><span>7<strong>[20] ______</strong></span><br><p><strong>G</strong>    One question that has perplexed visitors, historians and archaeologists alike ever since Bingham, is why the site seems to have been abandoned before the Spanish Conquest. There are no references to it by any of the Spanish chroniclers - and if they had known of its existence so close to Cusco they would certainly have come in search of gold. An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya, a country estate built by an Inca emperor to escape the cold winters of Cusco, where the elite could enjoy monumental architecture and spectacular views. Furthermore, the particular architecture of Machu Picchu suggests that it was constructed at the time of the greatest of all the Incas, the emperor Pachacuti (c. 1438-71). By custom, Pachacuti&#x27;s descendants built other similar estates for their own use, and so Machu Picchu would have been abandoned after his death, some 50 years before the Spanish Conquest.</p>"
+}

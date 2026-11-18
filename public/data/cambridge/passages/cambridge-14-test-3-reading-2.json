@@ -1,0 +1,354 @@
+{
+  "id": "cambridge-14-test-3-reading-2",
+  "title": "Saving bugs to find new drugs",
+  "titleCn": "Saving bugs to find new drugs",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 14,
+    "test": 3
+  },
+  "sourceQuestionId": "6645",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6645",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Saving bugs to find new drugs"
+    },
+    {
+      "label": "2",
+      "text": "Zoologist Ross Piper looks at the potential of insects in pharmaceutical research"
+    },
+    {
+      "label": "3",
+      "text": "A More drugs than you might think are derived from, or inspired by, compounds found in living things. Looking to nature for the soothing and curing of our ailments is nothing new - we have been doing it for tens of thousands of years. You only have to look at other primates - such as the capuchin monkeys who rub themselves with toxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites - to realise that our ancient ancestors too probably had a basic grasp of medicine."
+    },
+    {
+      "label": "4",
+      "text": "B Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles."
+    },
+    {
+      "label": "5",
+      "text": "C Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products. With the ability to mine genomes for useful compounds, it is now evident that we have barely scratched the surface of nature's molecular diversity. This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting - the search for useful compounds in nature - firmly back on the map."
+    },
+    {
+      "label": "6",
+      "text": "D Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche. Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes. Their remarkable diversity exceeds that of every other group of animals on the planet combined. Yet even though insects are far and away the most diverse animals in existence, their potential as sources of therapeutic compounds is yet to be realised."
+    },
+    {
+      "label": "7",
+      "text": "E From the tiny proportion of insects that have been investigated, several promising compounds have been identified. For example, alloferon, an antimicrobial compound produced by blow fly larvae, is used as an antiviral and antitumor agent in South Korea and Russia. The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they produce. Meanwhile, a compound from the venom of the wasp Polybia paulista has potential in cancer treatment."
+    },
+    {
+      "label": "8",
+      "text": "F Why is it that insects have received relatively little attention in bioprospecting? Firstly, there are so many insects that, without some manner of targeted approach, investigating this huge variety of species is a daunting task. Secondly, insects are generally very small, and the glands inside them that secrete potentially useful compounds are smaller still. This can make it difficult to obtain sufficient quantities of the compound for subsequent testing. Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species. Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, can leave us with insufficient material to work with."
+    },
+    {
+      "label": "9",
+      "text": "G My colleagues and I at Aberystwyth University in the UK have developed an approach in which we use our knowledge of ecology as a guide to target our efforts. The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption. There are even more insects that are masters of exploiting filthy habitats, such as faeces and carcasses, where they are regularly challenged by thousands of micro-organisms. These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as or inspire new antibiotics."
+    },
+    {
+      "label": "10",
+      "text": "H Although natural history knowledge points us in the right direction, it doesn't solve the problems associated with obtaining useful compounds from insects. Fortunately, it is now possible to snip out the stretches of the insect's DNA that carry the codes for the interesting compounds and insert them into cell lines that allow larger quantities to be produced. And although the road from isolating and characterising compounds with desirable qualities to developing a commercial product is very long and full of pitfalls, the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring."
+    },
+    {
+      "label": "11",
+      "text": "I With every bit of wilderness that disappears, we deprive ourselves of potential medicines. As much as I'd love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation. I sincerely believe that all species, however small and seemingly insignificant, have a right to exist for their own sake. If we can shine a light on the darker recesses of nature's medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-20\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "mention of factors driving a renewed interest in natural medicinal compounds",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6645_864736-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "how recent technological advances have made insect research easier",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q6645_864736-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "examples of animals which use medicinal substances from nature",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6645_864736-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "reasons why it is challenging to use insects in drug research",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6645_864736-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "reference to how interest in drug research may benefit wildlife",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q6645_864736-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "a reason why nature-based medicines fell out of favour for a period",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6645_864736-6"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "an example of an insect-derived medicine in use at the moment",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6645_864736-7"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 21 and 22\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Which TWO of the following make insects interesting for drug research?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q6645_828277",
+          "options": [
+            {
+              "value": "A",
+              "text": "the huge number of individual insects in the world"
+            },
+            {
+              "value": "B",
+              "text": "the variety of substances insects have developed to protect themselves"
+            },
+            {
+              "value": "C",
+              "text": "the potential to extract and make use of insects' genetic codes"
+            },
+            {
+              "value": "D",
+              "text": "the similarities between different species of insect"
+            },
+            {
+              "value": "E",
+              "text": "the manageable size of most insects"
+            }
+          ],
+          "explanation": "题目译文：以下哪两个选项使昆虫受到药物研究的关注？\n\n选项A：昆虫在世界上的巨大数量。\n\n文中未提及由于数量庞大而使昆虫受到药物研究关注的信息。\n\n选项B：昆虫们可以产生各种物质保护自己。\n\n文中G段第二句说到，一些昆虫令我们非常感兴趣，它们分泌强力的毒药来捕杀猎物，这与B选项的表达一致，并且题目中的interesting在原文中以interest us的形式重现。\n\n选项C：提取和使用昆虫基因编码的潜在可能\n\n文中H段第二句写到，幸运的是，如今剪下昆虫基因中的片段已经成为可能，并且可以将携带我们关注的化合物相关的编码插人细胞系中以允许更大规模的化合物生产，这与C选项的表述一致。\n\n选项D：不同昆虫物种之间的相似性\n\n文中未提及这一信息使人们关注昆虫。\n\n选项E：多数昆虫可以被控制的数量\n\n文中未提及这一信息使人们关注昆虫。",
+          "setId": "Q6645_828277",
+          "blockId": "Q6645_828277"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Which TWO of the following make insects interesting for drug research?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q6645_828277",
+          "options": [
+            {
+              "value": "A",
+              "text": "the huge number of individual insects in the world"
+            },
+            {
+              "value": "B",
+              "text": "the variety of substances insects have developed to protect themselves"
+            },
+            {
+              "value": "C",
+              "text": "the potential to extract and make use of insects' genetic codes"
+            },
+            {
+              "value": "D",
+              "text": "the similarities between different species of insect"
+            },
+            {
+              "value": "E",
+              "text": "the manageable size of most insects"
+            }
+          ],
+          "explanation": "题目译文：以下哪两个选项使昆虫受到药物研究的关注？\n\n选项A：昆虫在世界上的巨大数量。\n\n文中未提及由于数量庞大而使昆虫受到药物研究关注的信息。\n\n选项B：昆虫们可以产生各种物质保护自己。\n\n文中G段第二句说到，一些昆虫令我们非常感兴趣，它们分泌强力的毒药来捕杀猎物，这与B选项的表达一致，并且题目中的interesting在原文中以interest us的形式重现。\n\n选项C：提取和使用昆虫基因编码的潜在可能\n\n文中H段第二句写到，幸运的是，如今剪下昆虫基因中的片段已经成为可能，并且可以将携带我们关注的化合物相关的编码插人细胞系中以允许更大规模的化合物生产，这与C选项的表述一致。\n\n选项D：不同昆虫物种之间的相似性\n\n文中未提及这一信息使人们关注昆虫。\n\n选项E：多数昆虫可以被控制的数量\n\n文中未提及这一信息使人们关注昆虫。",
+          "setId": "Q6645_828277",
+          "blockId": "Q6645_828277"
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 21 and 22</em></strong></p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Choose <strong>TWO</strong> correct answers.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the huge number of individual insects in the world"
+        },
+        {
+          "value": "B",
+          "text": "the variety of substances insects have developed to protect themselves"
+        },
+        {
+          "value": "C",
+          "text": "the potential to extract and make use of insects' genetic codes"
+        },
+        {
+          "value": "D",
+          "text": "the similarities between different species of insect"
+        },
+        {
+          "value": "E",
+          "text": "the manageable size of most insects"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 23- 26\n\nComplete the summary below.\n\nWrite ONE WORD ONLY in each gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Answer for gap 23.",
+          "answers": [
+            "ecology"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6645_730036",
+          "explanation": "题号：23\n\n定位词：Aberystwyth University,expertise\n\nG段第一句My colleagues and I at Aberystwyth University ... target our efforts.\n\n本题可以根据关键词定位至G段第一句，题目中Ross Piper and fellow zoologists与原文中的My colleagues and I一致，题目中的expertise在原文中与knowledge同义替换，之后的名词即为答案。\n\n因此本题答案为ecology。\n\n题号：24\n\n定位词：Interested in the compounds, preserve\n\nG段第二句The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption.\n\n题目的内容与G段第二句对应，题目中preserve在原文中被同义替换为keeping it fresh。\n\n因此本题答案为prey。\n\n题号：25\n\n定位词：protect,pathogenic bacteria and fungi\n\nG段第三句There are even more insects...challenged by thousands of micro-organisms\n\nG段第三句提到，更多的昆虫擅于探寻污秽的栖息地，例如粪便和尸体，而在这里它们通常会受到数以千计微生物的威胁，这与题目中的表达一致，而原文中where之后的修饰成分与25题空格之前的信息一致。\n\n因此本题答案为habitats.\n\n题号：26\n\n定位词：the development of drugs\n\nG段第四句These insects have many antimicrobial compounds...find many compounds that can serve as or inspire new antibiotics.\n\nG段第四句中能够与drugs同义替换的只有antibiotics。\n\n因此本题答案为antibiotics。",
+          "promptHtml": "Answer for gap 23."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "prey"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6645_132022",
+          "explanation": "题号：23\n\n定位词：Aberystwyth University,expertise\n\nG段第一句My colleagues and I at Aberystwyth University ... target our efforts.\n\n本题可以根据关键词定位至G段第一句，题目中Ross Piper and fellow zoologists与原文中的My colleagues and I一致，题目中的expertise在原文中与knowledge同义替换，之后的名词即为答案。\n\n因此本题答案为ecology。\n\n题号：24\n\n定位词：Interested in the compounds, preserve\n\nG段第二句The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption.\n\n题目的内容与G段第二句对应，题目中preserve在原文中被同义替换为keeping it fresh。\n\n因此本题答案为prey。\n\n题号：25\n\n定位词：protect,pathogenic bacteria and fungi\n\nG段第三句There are even more insects...challenged by thousands of micro-organisms\n\nG段第三句提到，更多的昆虫擅于探寻污秽的栖息地，例如粪便和尸体，而在这里它们通常会受到数以千计微生物的威胁，这与题目中的表达一致，而原文中where之后的修饰成分与25题空格之前的信息一致。\n\n因此本题答案为habitats.\n\n题号：26\n\n定位词：the development of drugs\n\nG段第四句These insects have many antimicrobial compounds...find many compounds that can serve as or inspire new antibiotics.\n\nG段第四句中能够与drugs同义替换的只有antibiotics。\n\n因此本题答案为antibiotics。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "habitats"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6645_354643",
+          "explanation": "题号：23\n\n定位词：Aberystwyth University,expertise\n\nG段第一句My colleagues and I at Aberystwyth University ... target our efforts.\n\n本题可以根据关键词定位至G段第一句，题目中Ross Piper and fellow zoologists与原文中的My colleagues and I一致，题目中的expertise在原文中与knowledge同义替换，之后的名词即为答案。\n\n因此本题答案为ecology。\n\n题号：24\n\n定位词：Interested in the compounds, preserve\n\nG段第二句The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption.\n\n题目的内容与G段第二句对应，题目中preserve在原文中被同义替换为keeping it fresh。\n\n因此本题答案为prey。\n\n题号：25\n\n定位词：protect,pathogenic bacteria and fungi\n\nG段第三句There are even more insects...challenged by thousands of micro-organisms\n\nG段第三句提到，更多的昆虫擅于探寻污秽的栖息地，例如粪便和尸体，而在这里它们通常会受到数以千计微生物的威胁，这与题目中的表达一致，而原文中where之后的修饰成分与25题空格之前的信息一致。\n\n因此本题答案为habitats.\n\n题号：26\n\n定位词：the development of drugs\n\nG段第四句These insects have many antimicrobial compounds...find many compounds that can serve as or inspire new antibiotics.\n\nG段第四句中能够与drugs同义替换的只有antibiotics。\n\n因此本题答案为antibiotics。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "antibiotics"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6645_742343",
+          "explanation": "题号：23\n\n定位词：Aberystwyth University,expertise\n\nG段第一句My colleagues and I at Aberystwyth University ... target our efforts.\n\n本题可以根据关键词定位至G段第一句，题目中Ross Piper and fellow zoologists与原文中的My colleagues and I一致，题目中的expertise在原文中与knowledge同义替换，之后的名词即为答案。\n\n因此本题答案为ecology。\n\n题号：24\n\n定位词：Interested in the compounds, preserve\n\nG段第二句The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption.\n\n题目的内容与G段第二句对应，题目中preserve在原文中被同义替换为keeping it fresh。\n\n因此本题答案为prey。\n\n题号：25\n\n定位词：protect,pathogenic bacteria and fungi\n\nG段第三句There are even more insects...challenged by thousands of micro-organisms\n\nG段第三句提到，更多的昆虫擅于探寻污秽的栖息地，例如粪便和尸体，而在这里它们通常会受到数以千计微生物的威胁，这与题目中的表达一致，而原文中where之后的修饰成分与25题空格之前的信息一致。\n\n因此本题答案为habitats.\n\n题号：26\n\n定位词：the development of drugs\n\nG段第四句These insects have many antimicrobial compounds...find many compounds that can serve as or inspire new antibiotics.\n\nG段第四句中能够与drugs同义替换的只有antibiotics。\n\n因此本题答案为antibiotics。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 23- 26</em></strong></p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><em>Complete the summary below.</em></p>\n\n\t\t\t<p><em>Write <strong>ONE WORD ONLY</strong> in each gap.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<p><span><strong>Research at Aberystwyth University</strong></span></p>\n\n<p>Ross Piper and fellow zoologists at Aberystwyth University are using their expertise in <strong>[23] ______</strong>when undertaking bioprospecting with insects. They are especially interested in the compounds that insects produce to overpower and preserve their <strong>[24] ______</strong> They are also interested in compounds which insects use to protect themselves from pathogenic bacteria and fungi found in their <strong>[25] ______</strong>Piper hopes that these substances will be useful in the development of drugs such as <strong>[26] ______</strong></p>\n",
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Saving bugs to find new drugs</strong></span></p><p><em>Zoologist Ross Piper looks at the potential of insects in pharmaceutical research</em></p><p><strong>A </strong>   More drugs than you might think are derived from, or inspired by, compounds found in living things. Looking to nature for the soothing and curing of our ailments is nothing new - we have been doing it for tens of thousands of years. You only have to look at other primates - such as the capuchin monkeys who rub themselves with toxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites - to realise that our ancient ancestors too probably had a basic grasp of medicine.</p><p><strong>B</strong>   Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles.</p><p><strong>C </strong>  Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products. With the ability to mine genomes for useful compounds, it is now evident that we have barely scratched the surface of nature&#x27;s molecular diversity. This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting - the search for useful compounds in nature - firmly back on the map.</p><p><strong>D </strong>  Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche. Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes. Their remarkable diversity exceeds that of every other group of animals on the planet combined. Yet even though insects are far and away the most diverse animals in existence, their potential as sources of therapeutic compounds is yet to be realised.</p><p><strong>E</strong>    From the tiny proportion of insects that have been investigated, several promising compounds have been identified. For example, alloferon, an antimicrobial compound produced by blow fly larvae, is used as an antiviral and antitumor agent in South Korea and Russia. The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they produce. Meanwhile, a compound from the venom of the wasp Polybia paulista has potential in cancer treatment.</p><p><strong>F </strong>   Why is it that insects have received relatively little attention in bioprospecting? Firstly, there are so many insects that, without some manner of targeted approach, investigating this huge variety of species is a daunting task. Secondly, insects are generally very small, and the glands inside them that secrete potentially useful compounds are smaller still. This can make it difficult to obtain sufficient quantities of the compound for subsequent testing. Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species. Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, can leave us with insufficient material to work with.</p><p><strong>G </strong>   My colleagues and I at Aberystwyth University in the UK have developed an approach in which we use our knowledge of ecology as a guide to target our efforts. The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption. There are even more insects that are masters of exploiting filthy habitats, such as faeces and carcasses, where they are regularly challenged by thousands of micro-organisms. These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as or inspire new antibiotics.</p><p><strong>H</strong>    Although natural history knowledge points us in the right direction, it doesn&#x27;t solve the problems associated with obtaining useful compounds from insects. Fortunately, it is now possible to snip out the stretches of the insect&#x27;s DNA that carry the codes for the interesting compounds and insert them into cell lines that allow larger quantities to be produced. And although the road from isolating and characterising compounds with desirable qualities to developing a commercial product is very long and full of pitfalls, the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring.</p><p><strong>I </strong>   With every bit of wilderness that disappears, we deprive ourselves of potential medicines. As much as I&#x27;d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation. I sincerely believe that all species, however small and seemingly insignificant, have a right to exist for their own sake. If we can shine a light on the darker recesses of nature&#x27;s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature.</p>"
+}

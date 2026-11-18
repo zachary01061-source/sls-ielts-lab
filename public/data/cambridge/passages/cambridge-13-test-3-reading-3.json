@@ -1,0 +1,311 @@
+{
+  "id": "cambridge-13-test-3-reading-3",
+  "title": "Whatever happened to the Harappan Civilisation?",
+  "titleCn": "Whatever happened to the Harappan Civilisation?",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 13,
+    "test": 3
+  },
+  "sourceQuestionId": "6703",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6703",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Whatever happened to the Harappan Civilisation?"
+    },
+    {
+      "label": "2",
+      "text": "New research sheds light on the disappearance of an ancient society"
+    },
+    {
+      "label": "3",
+      "text": "A The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years ago, but a thousand years later their cities were abandoned. The Harappan Civilisation was a sophisticated Bronze Age society who built 'megacities' and traded internationally in luxury craft products, and yet seemed to have left almost no depictions of themselves. But their lack of self-imagery - at a time when the Egyptians were carving and painting representations of themselves all over their temples - is only part of the mystery."
+    },
+    {
+      "label": "4",
+      "text": "B There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall, 'explains archaeologist Dr Cameron Petrie of the University of Cambridge. 'As populations increased, cities were built that had great baths, craft workshops, palaces and halls laid out in distinct sectors. Houses were arranged in blocks, with wide main streets and narrow alleyways, and many had their own wells and drainage systems. It was very much a “thriving” civilisation.' Then around 2100 BC, a transformation began. Streets went uncleaned, buildings started to be abandoned, and ritual structures fell out of use. After their final demise, a millennium passed before really large-scale cities appeared once more in South Asia."
+    },
+    {
+      "label": "5",
+      "text": "C Some have claimed that major glacier-fed rivers changed their course, dramatically affecting the water supply and agriculture; or that the cities could not cope with an increasing population, they exhausted their resource base, the trading economy broke down or they succumbed to invasion and conflict; and yet others that climate change caused an environmental change that affected food and water provision. 'It is unlikely that there was a single cause for the decline of the civilisation. But the fact is, until now, we have had little solid evidence from the area for most of the key elements,' said Petrie. 'A lot of the archaeological debate has really only been well- argued speculation.'"
+    },
+    {
+      "label": "6",
+      "text": "D A research team led by Petrie, together with Dr Ravindanath Singh of Banaras Hindu University in India, found early in their investigations that many of the archaeological sites were not where they were supposed to be, completely altering understanding of the way that this region was inhabited in the past. When they carried out a survey of how the larger area was settled in relation to sources of water, they found inaccuracies in the published geographic locations of ancient settlements ranging from several hundred metres to many kilometres. They realized that any attempts to use the existing data were likely to be fundamentally flawed. Over the course of several seasons of fieldwork they carried out new surveys, finding an astonishing 198 settlement sites that were previously unknown."
+    },
+    {
+      "label": "7",
+      "text": "E Now, research published by Dr Yama Dixit and Professor David Hodell, both from Cambridge's Department of Earth Sciences, has provided the first definitive evidence for climate change affecting the plains of north-western India, where hundreds of Harappan sites are known to have been situated. The researchers gathered shells of Melanoides tuberculata snails from the sediments of an ancient lake and used geochemical analysis as a means of tracing the climate history of the region. 'As today, the major source of water into the lake is likely to have been the summer monsoon,' says Dixit. 'But we have observed that there was an abrupt change about 4,100 years ago, when the amount of evaporation from the lake exceeded the rainfall一 indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions, which we still see today.'"
+    },
+    {
+      "label": "8",
+      "text": "F It has long been thought that other great Bronze Age civilisations also declined at a similar time, with a global-scale climate event being seen as the cause. While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations. 'Considering the vast area of the Harappan Civilisation with its variable weather systems, 'explains Singh, 'it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab.'"
+    },
+    {
+      "label": "9",
+      "text": "G Petrie and Singh's team is now examining archaeological records and trying to understand details of how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out whether they were grown under extreme conditions of water stress, and whether they were adjusting the combinations of crops they were growing for different weather systems. They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions or were more similar across larger areas. This gives us insight into the types of interactive networks that the population was involved in, and whether those changed."
+    },
+    {
+      "label": "10",
+      "text": "H Petrie believes that archaeologists are in a unique position to investigate how past societies responded to environmental and climatic change. 'By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.'"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 27- 31\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "proposed explanations for the decline of the Harappan Civilisation",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6703_804871-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "reference to a present-day application of some archaeological research findings",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q6703_804871-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "a difference between the Harappan Civilisation and another culture of the same period",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6703_804871-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "a description of some features of Harappan urban design",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6703_804871-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "reference to the discovery of errors made by previous archaeologists",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6703_804871-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 32-36\n\nComplete the summary below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Answer for gap 32.",
+          "answers": [
+            "shells"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6703_296762",
+          "explanation": "题号：32\n\n定位词：Yama Dixit, David Hodell, snails\n\n对应E段第一、二句：Now, research published by Dr Yama Dixit and Professor David Hodell, ... has provided the first definitive evidence for climate change affecting the plains of north-western India, where... The researchers gathered shells of Melanoides tuberculata snails from the... lake and used geochemical analysis...\n\n题目部分首先出现了人名Yama Dixit和David Hodell，并在第一句中写到the first definitive evidence of climate change，因此可以通过这一信息将题目定位在文中E段。本段首句的内容与题目部分一致，题目中的collecting与原文E段第二句gathered同义替换，snails 原词重现，因此可以在此处找到答案词shells。\n\n题号：33\n\n定位词：water levels\n\n对应E段第三句：'As today, the major source of water the lake is likely to have been the summer monsoon,' says Dixit. E段第三句提到the major source of water into into the lake，而题目中的结构为water levels in a___，因此不难判断此处空格对应原文中lake一词。本题答案为lake。\n\n题号：34\n\n定位词：evaporation,drought\n\n对应E段第四句：'But we have observed that..., when ... indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years...'\n\n本题说到less___than evaporation，这与原文中E段第四句的内容一致，原文 中写到the amount of evaporation from the lake exceeded the rainfall，比较的双方是evaporation和rainfall，而之后的indicative of a drought与题目中suggests that there was an extended period of drought一致。本题答案カrainfall。\n\n题号：35\n\nPetrie and Singh's team, archaeological records\n\n对应G段第一、二句：Petrie and Singh's team is now examining ... how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out...\n\n题目中的Petrie and Singh's team以及archaeological records都出现在原文G段第一句。题目中的to look at对应原文G段第二句They are analysing，因此本句的宾语grains与题目对应。本题答案为grains。\n\n题号：36\n\n定位词：They are also examining, links between\n\n对应G段第三句：They are also looking at whether the types of pottery used, and ..., were distinctive to specific regions or were more similar across larger areas.\n\n题目中They are also examining与原文中They are also looking at是同义替换关系，同时也都是带有also的并列结构，因此本题可以定位在G段第三句。本段中提到将pottery作为研究对象，因此题目中objects including____可以直接填写potter。本题答案为pottery。",
+          "promptHtml": "Answer for gap 32."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "lake"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6703_663121",
+          "explanation": "题号：32\n\n定位词：Yama Dixit, David Hodell, snails\n\n对应E段第一、二句：Now, research published by Dr Yama Dixit and Professor David Hodell, ... has provided the first definitive evidence for climate change affecting the plains of north-western India, where... The researchers gathered shells of Melanoides tuberculata snails from the... lake and used geochemical analysis...\n\n题目部分首先出现了人名Yama Dixit和David Hodell，并在第一句中写到the first definitive evidence of climate change，因此可以通过这一信息将题目定位在文中E段。本段首句的内容与题目部分一致，题目中的collecting与原文E段第二句gathered同义替换，snails 原词重现，因此可以在此处找到答案词shells。\n\n题号：33\n\n定位词：water levels\n\n对应E段第三句：'As today, the major source of water the lake is likely to have been the summer monsoon,' says Dixit. E段第三句提到the major source of water into into the lake，而题目中的结构为water levels in a___，因此不难判断此处空格对应原文中lake一词。本题答案为lake。\n\n题号：34\n\n定位词：evaporation,drought\n\n对应E段第四句：'But we have observed that..., when ... indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years...'\n\n本题说到less___than evaporation，这与原文中E段第四句的内容一致，原文 中写到the amount of evaporation from the lake exceeded the rainfall，比较的双方是evaporation和rainfall，而之后的indicative of a drought与题目中suggests that there was an extended period of drought一致。本题答案カrainfall。\n\n题号：35\n\nPetrie and Singh's team, archaeological records\n\n对应G段第一、二句：Petrie and Singh's team is now examining ... how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out...\n\n题目中的Petrie and Singh's team以及archaeological records都出现在原文G段第一句。题目中的to look at对应原文G段第二句They are analysing，因此本句的宾语grains与题目对应。本题答案为grains。\n\n题号：36\n\n定位词：They are also examining, links between\n\n对应G段第三句：They are also looking at whether the types of pottery used, and ..., were distinctive to specific regions or were more similar across larger areas.\n\n题目中They are also examining与原文中They are also looking at是同义替换关系，同时也都是带有also的并列结构，因此本题可以定位在G段第三句。本段中提到将pottery作为研究对象，因此题目中objects including____可以直接填写potter。本题答案为pottery。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Answer for gap 34.",
+          "answers": [
+            "rainfall"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6703_919613",
+          "explanation": "题号：32\n\n定位词：Yama Dixit, David Hodell, snails\n\n对应E段第一、二句：Now, research published by Dr Yama Dixit and Professor David Hodell, ... has provided the first definitive evidence for climate change affecting the plains of north-western India, where... The researchers gathered shells of Melanoides tuberculata snails from the... lake and used geochemical analysis...\n\n题目部分首先出现了人名Yama Dixit和David Hodell，并在第一句中写到the first definitive evidence of climate change，因此可以通过这一信息将题目定位在文中E段。本段首句的内容与题目部分一致，题目中的collecting与原文E段第二句gathered同义替换，snails 原词重现，因此可以在此处找到答案词shells。\n\n题号：33\n\n定位词：water levels\n\n对应E段第三句：'As today, the major source of water the lake is likely to have been the summer monsoon,' says Dixit. E段第三句提到the major source of water into into the lake，而题目中的结构为water levels in a___，因此不难判断此处空格对应原文中lake一词。本题答案为lake。\n\n题号：34\n\n定位词：evaporation,drought\n\n对应E段第四句：'But we have observed that..., when ... indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years...'\n\n本题说到less___than evaporation，这与原文中E段第四句的内容一致，原文 中写到the amount of evaporation from the lake exceeded the rainfall，比较的双方是evaporation和rainfall，而之后的indicative of a drought与题目中suggests that there was an extended period of drought一致。本题答案カrainfall。\n\n题号：35\n\nPetrie and Singh's team, archaeological records\n\n对应G段第一、二句：Petrie and Singh's team is now examining ... how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out...\n\n题目中的Petrie and Singh's team以及archaeological records都出现在原文G段第一句。题目中的to look at对应原文G段第二句They are analysing，因此本句的宾语grains与题目对应。本题答案为grains。\n\n题号：36\n\n定位词：They are also examining, links between\n\n对应G段第三句：They are also looking at whether the types of pottery used, and ..., were distinctive to specific regions or were more similar across larger areas.\n\n题目中They are also examining与原文中They are also looking at是同义替换关系，同时也都是带有also的并列结构，因此本题可以定位在G段第三句。本段中提到将pottery作为研究对象，因此题目中objects including____可以直接填写potter。本题答案为pottery。",
+          "promptHtml": "Answer for gap 34."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Answer for gap 35.",
+          "answers": [
+            "grains"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6703_384486",
+          "explanation": "题号：32\n\n定位词：Yama Dixit, David Hodell, snails\n\n对应E段第一、二句：Now, research published by Dr Yama Dixit and Professor David Hodell, ... has provided the first definitive evidence for climate change affecting the plains of north-western India, where... The researchers gathered shells of Melanoides tuberculata snails from the... lake and used geochemical analysis...\n\n题目部分首先出现了人名Yama Dixit和David Hodell，并在第一句中写到the first definitive evidence of climate change，因此可以通过这一信息将题目定位在文中E段。本段首句的内容与题目部分一致，题目中的collecting与原文E段第二句gathered同义替换，snails 原词重现，因此可以在此处找到答案词shells。\n\n题号：33\n\n定位词：water levels\n\n对应E段第三句：'As today, the major source of water the lake is likely to have been the summer monsoon,' says Dixit. E段第三句提到the major source of water into into the lake，而题目中的结构为water levels in a___，因此不难判断此处空格对应原文中lake一词。本题答案为lake。\n\n题号：34\n\n定位词：evaporation,drought\n\n对应E段第四句：'But we have observed that..., when ... indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years...'\n\n本题说到less___than evaporation，这与原文中E段第四句的内容一致，原文 中写到the amount of evaporation from the lake exceeded the rainfall，比较的双方是evaporation和rainfall，而之后的indicative of a drought与题目中suggests that there was an extended period of drought一致。本题答案カrainfall。\n\n题号：35\n\nPetrie and Singh's team, archaeological records\n\n对应G段第一、二句：Petrie and Singh's team is now examining ... how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out...\n\n题目中的Petrie and Singh's team以及archaeological records都出现在原文G段第一句。题目中的to look at对应原文G段第二句They are analysing，因此本句的宾语grains与题目对应。本题答案为grains。\n\n题号：36\n\n定位词：They are also examining, links between\n\n对应G段第三句：They are also looking at whether the types of pottery used, and ..., were distinctive to specific regions or were more similar across larger areas.\n\n题目中They are also examining与原文中They are also looking at是同义替换关系，同时也都是带有also的并列结构，因此本题可以定位在G段第三句。本段中提到将pottery作为研究对象，因此题目中objects including____可以直接填写potter。本题答案为pottery。",
+          "promptHtml": "Answer for gap 35."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Answer for gap 36.",
+          "answers": [
+            "pottery"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6703_164802",
+          "explanation": "题号：32\n\n定位词：Yama Dixit, David Hodell, snails\n\n对应E段第一、二句：Now, research published by Dr Yama Dixit and Professor David Hodell, ... has provided the first definitive evidence for climate change affecting the plains of north-western India, where... The researchers gathered shells of Melanoides tuberculata snails from the... lake and used geochemical analysis...\n\n题目部分首先出现了人名Yama Dixit和David Hodell，并在第一句中写到the first definitive evidence of climate change，因此可以通过这一信息将题目定位在文中E段。本段首句的内容与题目部分一致，题目中的collecting与原文E段第二句gathered同义替换，snails 原词重现，因此可以在此处找到答案词shells。\n\n题号：33\n\n定位词：water levels\n\n对应E段第三句：'As today, the major source of water the lake is likely to have been the summer monsoon,' says Dixit. E段第三句提到the major source of water into into the lake，而题目中的结构为water levels in a___，因此不难判断此处空格对应原文中lake一词。本题答案为lake。\n\n题号：34\n\n定位词：evaporation,drought\n\n对应E段第四句：'But we have observed that..., when ... indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years...'\n\n本题说到less___than evaporation，这与原文中E段第四句的内容一致，原文 中写到the amount of evaporation from the lake exceeded the rainfall，比较的双方是evaporation和rainfall，而之后的indicative of a drought与题目中suggests that there was an extended period of drought一致。本题答案カrainfall。\n\n题号：35\n\nPetrie and Singh's team, archaeological records\n\n对应G段第一、二句：Petrie and Singh's team is now examining ... how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out...\n\n题目中的Petrie and Singh's team以及archaeological records都出现在原文G段第一句。题目中的to look at对应原文G段第二句They are analysing，因此本句的宾语grains与题目对应。本题答案为grains。\n\n题号：36\n\n定位词：They are also examining, links between\n\n对应G段第三句：They are also looking at whether the types of pottery used, and ..., were distinctive to specific regions or were more similar across larger areas.\n\n题目中They are also examining与原文中They are also looking at是同义替换关系，同时也都是带有also的并列结构，因此本题可以定位在G段第三句。本段中提到将pottery作为研究对象，因此题目中objects including____可以直接填写potter。本题答案为pottery。",
+          "promptHtml": "Answer for gap 36."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Looking at evidence of climate change</strong></span></p>\n\n<p><br>\nYama Dixit and David Hodell have found the first definitive evidence of climate change affecting the plains of north-western India thousands of years ago. By collecting the <strong>[32] ______</strong> of snails and analysing them, they discovered evidence of a change in water levels in a <strong>[33] ______</strong>in the region. This occurred when there was less <strong>[34] ______</strong> than evaporation, and suggests that there was an extended period of drought.<br>\nPetrie and Singh’s team are using archaeological records to look at <strong>[35] ______</strong>from five millennia ago, in order to know whether people had adapted their agricultural practices to changing climatic conditions. They are also examining objects including <strong>[36] ______</strong> , so as to find out about links between inhabitants of different parts of the region and whether these changed over time.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 37-40\n\nChoose the correct answer and move it into the gap.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "[37] ______ Finding further information about changes to environmental conditions in the region is vital.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6703_159018",
+          "explanation": "题号：37\n\n译文：找到关于一个地区环境变化的更多信息至关重要。\n\n定位词：changes to environmental conditions\n\nF段说到：... it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappan and also from the Indian Punjab，此处的几个地点与题目中in the region对应，而essential与vial同义替换，在原文中找到相关的人名为Singh，本题答案为B。\n\n题号：38\n\n译文：研究之前的行为模式或许有长期价值。\n\n定位词：examining previous patterns of behaviour\n\n对之前行为模式的研究出现在文章G段，段首提到Petrie and Singh's team is now examining archaeological records and trying to understand details of how people led their lives...，之后对他们具体的研究内容进行了描述。而H段中指出了考古学家在研究过去人们如何应对环境和气候变化时的特殊作用，以及对当今政府和公众的指导意义，这部分均是围绕Petrie的叙述，因此直接对应人名即可。本题答案为A。\n\n题号：39\n\n译文：粗略计算可以预估水资源短缺的大概时间长度。\n\n定位词：the approximate length of a period of water shortage\n\n关于水资源短缺的信息出现在文章E段，其中说到当时水的来源主要是夏季季风，而由于湖泊的蒸发量超过了降雨量，导致发生干旱，而Hodell还说到We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions，也就是夏季季风的减弱持续了大约200年，而由于夏季季风与降雨量之间的关系，所以该内容与题目表述是一致的。本题答案为D。\n\n题号：40\n\n译文：关于哈拉帕文明衰落的信息是缺乏的。\n\n定位词：the decline of the Harappan Civilisation\n\nA段说到哈拉帕文明曾经非常繁荣，但关于他们自身的描述是缺失的。B段第一句中Cameron Petrie说到There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall，这一信息与题目表述一致，对应文中人名确认答案，本题答案为A。",
+          "promptHtml": "[37] ______ Finding further information about changes to environmental conditions in the region is vital."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "[38] ______ Examining previous patterns of behaviour may have long-term benefits.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6703_296903",
+          "explanation": "题号：37\n\n译文：找到关于一个地区环境变化的更多信息至关重要。\n\n定位词：changes to environmental conditions\n\nF段说到：... it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappan and also from the Indian Punjab，此处的几个地点与题目中in the region对应，而essential与vial同义替换，在原文中找到相关的人名为Singh，本题答案为B。\n\n题号：38\n\n译文：研究之前的行为模式或许有长期价值。\n\n定位词：examining previous patterns of behaviour\n\n对之前行为模式的研究出现在文章G段，段首提到Petrie and Singh's team is now examining archaeological records and trying to understand details of how people led their lives...，之后对他们具体的研究内容进行了描述。而H段中指出了考古学家在研究过去人们如何应对环境和气候变化时的特殊作用，以及对当今政府和公众的指导意义，这部分均是围绕Petrie的叙述，因此直接对应人名即可。本题答案为A。\n\n题号：39\n\n译文：粗略计算可以预估水资源短缺的大概时间长度。\n\n定位词：the approximate length of a period of water shortage\n\n关于水资源短缺的信息出现在文章E段，其中说到当时水的来源主要是夏季季风，而由于湖泊的蒸发量超过了降雨量，导致发生干旱，而Hodell还说到We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions，也就是夏季季风的减弱持续了大约200年，而由于夏季季风与降雨量之间的关系，所以该内容与题目表述是一致的。本题答案为D。\n\n题号：40\n\n译文：关于哈拉帕文明衰落的信息是缺乏的。\n\n定位词：the decline of the Harappan Civilisation\n\nA段说到哈拉帕文明曾经非常繁荣，但关于他们自身的描述是缺失的。B段第一句中Cameron Petrie说到There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall，这一信息与题目表述一致，对应文中人名确认答案，本题答案为A。",
+          "promptHtml": "[38] ______ Examining previous patterns of behaviour may have long-term benefits."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "[39] ______ Rough calculations indicate the approximate length of a period of water shortage.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6703_114026",
+          "explanation": "题号：37\n\n译文：找到关于一个地区环境变化的更多信息至关重要。\n\n定位词：changes to environmental conditions\n\nF段说到：... it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappan and also from the Indian Punjab，此处的几个地点与题目中in the region对应，而essential与vial同义替换，在原文中找到相关的人名为Singh，本题答案为B。\n\n题号：38\n\n译文：研究之前的行为模式或许有长期价值。\n\n定位词：examining previous patterns of behaviour\n\n对之前行为模式的研究出现在文章G段，段首提到Petrie and Singh's team is now examining archaeological records and trying to understand details of how people led their lives...，之后对他们具体的研究内容进行了描述。而H段中指出了考古学家在研究过去人们如何应对环境和气候变化时的特殊作用，以及对当今政府和公众的指导意义，这部分均是围绕Petrie的叙述，因此直接对应人名即可。本题答案为A。\n\n题号：39\n\n译文：粗略计算可以预估水资源短缺的大概时间长度。\n\n定位词：the approximate length of a period of water shortage\n\n关于水资源短缺的信息出现在文章E段，其中说到当时水的来源主要是夏季季风，而由于湖泊的蒸发量超过了降雨量，导致发生干旱，而Hodell还说到We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions，也就是夏季季风的减弱持续了大约200年，而由于夏季季风与降雨量之间的关系，所以该内容与题目表述是一致的。本题答案为D。\n\n题号：40\n\n译文：关于哈拉帕文明衰落的信息是缺乏的。\n\n定位词：the decline of the Harappan Civilisation\n\nA段说到哈拉帕文明曾经非常繁荣，但关于他们自身的描述是缺失的。B段第一句中Cameron Petrie说到There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall，这一信息与题目表述一致，对应文中人名确认答案，本题答案为A。",
+          "promptHtml": "[39] ______ Rough calculations indicate the approximate length of a period of water shortage."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "[40] ______ Information about the decline of the Harappan Civilisation has been lacking.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6703_210921",
+          "explanation": "题号：37\n\n译文：找到关于一个地区环境变化的更多信息至关重要。\n\n定位词：changes to environmental conditions\n\nF段说到：... it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappan and also from the Indian Punjab，此处的几个地点与题目中in the region对应，而essential与vial同义替换，在原文中找到相关的人名为Singh，本题答案为B。\n\n题号：38\n\n译文：研究之前的行为模式或许有长期价值。\n\n定位词：examining previous patterns of behaviour\n\n对之前行为模式的研究出现在文章G段，段首提到Petrie and Singh's team is now examining archaeological records and trying to understand details of how people led their lives...，之后对他们具体的研究内容进行了描述。而H段中指出了考古学家在研究过去人们如何应对环境和气候变化时的特殊作用，以及对当今政府和公众的指导意义，这部分均是围绕Petrie的叙述，因此直接对应人名即可。本题答案为A。\n\n题号：39\n\n译文：粗略计算可以预估水资源短缺的大概时间长度。\n\n定位词：the approximate length of a period of water shortage\n\n关于水资源短缺的信息出现在文章E段，其中说到当时水的来源主要是夏季季风，而由于湖泊的蒸发量超过了降雨量，导致发生干旱，而Hodell还说到We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions，也就是夏季季风的减弱持续了大约200年，而由于夏季季风与降雨量之间的关系，所以该内容与题目表述是一致的。本题答案为D。\n\n题号：40\n\n译文：关于哈拉帕文明衰落的信息是缺乏的。\n\n定位词：the decline of the Harappan Civilisation\n\nA段说到哈拉帕文明曾经非常繁荣，但关于他们自身的描述是缺失的。B段第一句中Cameron Petrie说到There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall，这一信息与题目表述一致，对应文中人名确认答案，本题答案为A。",
+          "promptHtml": "[40] ______ Information about the decline of the Harappan Civilisation has been lacking."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Cameron Petrie"
+        },
+        {
+          "value": "B",
+          "text": "Ravindanath Singh"
+        },
+        {
+          "value": "C",
+          "text": "Yama Dixit"
+        },
+        {
+          "value": "D",
+          "text": "David Hodell"
+        }
+      ],
+      "contextHtml": "<p><strong>[37] ______</strong> Finding further information about changes to environmental conditions in the region is vital. </p>\n\n<p><strong>[38] ______</strong> Examining previous patterns of behaviour may have long-term benefits. </p>\n\n<p><strong>[39] ______</strong> Rough calculations indicate the approximate length of a period of water shortage. </p>\n\n<p><strong>[40] ______</strong> Information about the decline of the Harappan Civilisation has been lacking. </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Whatever happened to the Harappan Civilisation?</span></strong></p><p><em>New research sheds light on the disappearance of an ancient society</em></p><p><strong>A  </strong>  The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years ago, but a thousand years later their cities were abandoned. The Harappan Civilisation was a sophisticated Bronze Age society who built &#x27;megacities&#x27; and traded internationally in luxury craft products, and yet seemed to have left almost no depictions of themselves. But their lack of self-imagery - at a time when the Egyptians were carving and painting representations of themselves all over their temples - is only part of the mystery.</p><p><strong>B </strong>   There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall, &#x27;explains archaeologist Dr Cameron Petrie of the University of Cambridge. &#x27;As populations increased, cities were built that had great baths, craft workshops, palaces and halls laid out in distinct sectors. Houses were arranged in blocks, with wide main streets and narrow alleyways, and many had their own wells and drainage systems. It was very much a “thriving” civilisation.&#x27; Then around 2100 BC, a transformation began. Streets went uncleaned, buildings started to be abandoned, and ritual structures fell out of use. After their final demise, a millennium passed before really large-scale cities appeared once more in South Asia.</p><p><strong>C</strong>    Some have claimed that major glacier-fed rivers changed their course, dramatically affecting the water supply and agriculture; or that the cities could not cope with an increasing population, they exhausted their resource base, the trading economy broke down or they succumbed to invasion and conflict; and yet others that climate change caused an environmental change that affected food and water provision. &#x27;It is unlikely that there was a single cause for the decline of the civilisation. But the fact is, until now, we have had little solid evidence from the area for most of the key elements,&#x27; said Petrie. &#x27;A lot of the archaeological debate has really only been well- argued speculation.&#x27;</p><p><strong>D</strong>    A research team led by Petrie, together with Dr Ravindanath Singh of Banaras Hindu University in India, found early in their investigations that many of the archaeological sites were not where they were supposed to be, completely altering understanding of the way that this region was inhabited in the past. When they carried out a survey of how the larger area was settled in relation to sources of water, they found inaccuracies in the published geographic locations of ancient settlements ranging from several hundred metres to many kilometres. They realized that any attempts to use the existing data were likely to be fundamentally flawed. Over the course of several seasons of fieldwork they carried out new surveys, finding an astonishing 198 settlement sites that were previously unknown.</p><p><strong>E </strong>   Now, research published by Dr Yama Dixit and Professor David Hodell, both from Cambridge&#x27;s Department of Earth Sciences, has provided the first definitive evidence for climate change affecting the plains of north-western India, where hundreds of Harappan sites are known to have been situated. The researchers gathered shells of Melanoides tuberculata snails from the sediments of an ancient lake and used geochemical analysis as a means of tracing the climate history of the region. &#x27;As today, the major source of water into the lake is likely to have been the summer monsoon,&#x27; says Dixit. &#x27;But we have observed that there was an abrupt change about 4,100 years ago, when the amount of evaporation from the lake exceeded the rainfall一 indicative of a drought.&#x27; Hodell adds: &#x27;We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions, which we still see today.&#x27;</p><p><strong>F</strong>    It has long been thought that other great Bronze Age civilisations also declined at a similar time, with a global-scale climate event being seen as the cause. While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations. &#x27;Considering the vast area of the Harappan Civilisation with its variable weather systems, &#x27;explains Singh, &#x27;it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab.&#x27;</p><p><strong>G</strong>    Petrie and Singh&#x27;s team is now examining archaeological records and trying to understand details of how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out whether they were grown under extreme conditions of water stress, and whether they were adjusting the combinations of crops they were growing for different weather systems. They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions or were more similar across larger areas. This gives us insight into the types of interactive networks that the population was involved in, and whether those changed.</p><p><strong>H</strong>    Petrie believes that archaeologists are in a unique position to investigate how past societies responded to environmental and climatic change. &#x27;By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.&#x27;</p>"
+}

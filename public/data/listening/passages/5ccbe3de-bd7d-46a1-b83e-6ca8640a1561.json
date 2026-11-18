@@ -1,0 +1,416 @@
+{
+  "id": "5ccbe3de-bd7d-46a1-b83e-6ca8640a1561",
+  "title": "Wind farms and birds",
+  "titleCn": "风力发电场对鸟类的影响",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/5ccbe3de-bd7d-46a1-b83e-6ca8640a1561",
+  "duration": 347,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,380"
+    },
+    {
+      "label": "2",
+      "text": "First, a bit of background. In recent years, people have been trying to exploit a number of different renewable forms of energy. One of these is wind power."
+    },
+    {
+      "label": "3",
+      "text": "00:00:11,380"
+    },
+    {
+      "label": "4",
+      "text": "Electricity can be generated from wind power by turbines, and at present, large numbers of these tall wind turbines are being erected in what are called wind farms. And the government is backing these as part of its moves towards sustainable energy production. But wind farms can be a problem for birds because they can fly into the turbines and injure themselves. So wildlife experts have been doing a number of studies recently trying to monitor the effects of wind farms on bird populations and suggest solutions. And that's what I'm going to look at today. Now, before I look in detail at specific studies of different birds, I want to make some general points. It has been established that the species in greatest danger from the turbines are those which, irrespective of their feeding or patterns of migration, collect together in significant numbers, either on the coast or inland."
+    },
+    {
+      "label": "5",
+      "text": "00:01:10,780"
+    },
+    {
+      "label": "6",
+      "text": "And as well as that, birds are often vulnerable when they're setting off on long sea migrations or when they're flying below cloud. So in my opinion, efforts should be made to site new wind farms responsibly, and that means avoiding low-lying areas and narrow valleys between mountains or hills."
+    },
+    {
+      "label": "7",
+      "text": "00:01:31,320"
+    },
+    {
+      "label": "8",
+      "text": "Now I'd like to look at some specific studies. Firstly, a project looking at one particular species of bird, the vulture."
+    },
+    {
+      "label": "9",
+      "text": "00:01:40,210"
+    },
+    {
+      "label": "10",
+      "text": "This investigation mainly focused on how high the birds fly and the correlation between this and weather conditions."
+    },
+    {
+      "label": "11",
+      "text": "00:01:47,800"
+    },
+    {
+      "label": "12",
+      "text": "One of the weather features they were looking at was wind speed. But as well as that, another thing they considered to do with the weather was the amount of cloud. Now, what emerged from this study was that these vultures tend to fly lower at times when the wind is very strong. And of course, this means that more birds are in danger of flying straight into the turbines."
+    },
+    {
+      "label": "13",
+      "text": "00:02:12,460"
+    },
+    {
+      "label": "14",
+      "text": "Now, the project team suggests that to deal with this problem, a fixed camera should be set up to film any birds in flight near the turbines, so that if necessary, the turbines can be switched off."
+    },
+    {
+      "label": "15",
+      "text": "00:02:25,180"
+    },
+    {
+      "label": "16",
+      "text": "Another survey looked at the nighttime or nocturnal habits of several species of birds. This study actually had a slightly wider scope. It looked at risks to these birds near other installations, not just wind farms. These were mainly airports, which for obvious reasons, tend to cause problems for birds."
+    },
+    {
+      "label": "17",
+      "text": "00:02:47,880"
+    },
+    {
+      "label": "18",
+      "text": "But the study also looked at what happened near tall structures such as radio transmitters. In the past, the most usual means of tracking the movements of birds at night were radar and thermal imaging. Now, the problem was that these methods were expensive because someone had to control the devices all through the night. And in addition to this, they weren't really reliable. So the researchers looked for an alternative that didn't need human intervention. And what they proposed as a priority was to create alarm systems that switch on whenever a bird passes a certain point, alerting monitors so that action can be taken."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 31-33**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "473fe314-17a3-48e0-b0c1-0f57be471f84",
+          "prompt": "**31** The speaker says he is going to report on",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "the research of wildlife experts",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So wildlife experts have been doing a number of studies recently trying to monitor the effects of wind farms on bird populations and suggest solutions. And that's what I'm going to look at today"
+          },
+          "keywordPairs": [
+            {
+              "question": "research",
+              "article": "studies"
+            }
+          ],
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31",
+          "options": [
+            {
+              "value": "A",
+              "text": "his own research"
+            },
+            {
+              "value": "B",
+              "text": "the research of wildlife experts"
+            },
+            {
+              "value": "C",
+              "text": "research carried out by the government"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "2d76a10a-d130-42e1-b1f5-7d4f9908e4df",
+          "prompt": "**32** Wind turbine farms are most dangerous to birds which",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "gather in large flocks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It has been established that the species in greatest danger from the turbines are those which, irrespective of their feeding or patterns of migration, collect together in significant numbers, either on the coast or inland"
+          },
+          "keywordPairs": [
+            {
+              "question": "most dangerous",
+              "article": "in greatest danger"
+            },
+            {
+              "question": "gather",
+              "article": "collect together"
+            },
+            {
+              "question": "large flocks",
+              "article": "significant numbers"
+            }
+          ],
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32",
+          "options": [
+            {
+              "value": "A",
+              "text": "live in coastal regions"
+            },
+            {
+              "value": "B",
+              "text": "gather in large flocks"
+            },
+            {
+              "value": "C",
+              "text": "feed on fish and other sea food"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "3893dc3c-8132-41ad-b413-31ae9071a417",
+          "prompt": "**33** The speaker implies that wind farms should be sited",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "on higher ground",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So in my opinion, efforts should be made to site new wind farms responsibly, and that means avoiding low-lying areas and narrow valleys between mountains or hills"
+          },
+          "keywordPairs": [
+            {
+              "question": "higher ground",
+              "article": "low-lying"
+            }
+          ],
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33",
+          "options": [
+            {
+              "value": "A",
+              "text": "in gaps between hills"
+            },
+            {
+              "value": "B",
+              "text": "along sea coasts"
+            },
+            {
+              "value": "C",
+              "text": "on higher ground"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 34-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "65049487-0a42-4fca-81f0-5caf2983acee",
+          "prompt": "| Study | Main focus | Problems | Proposed solutions |\n| --- | --- | --- | --- |\n| Vulture Study | Connection between how high they fly and weather conditions: quantity of **34**_____ | Vultures fly lower in strong winds, so are in more 35.....| Use a fixed 36..... to monitor bird activity |\n| Nocturnal Bird Survey | Bird movements at night, particularly near: - wind farm; 37..... | Previous tracking methods not practical because they were not very 38..... | Develop new 39..... systems Produce 40..... models for use |",
+          "answers": [
+            "cloud"
+          ],
+          "rawAnswer": "cloud",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the weather features they were looking at was wind speed. But as well as that, another thing they considered to do with the weather was the amount of cloud"
+          },
+          "keywordPairs": [
+            {
+              "question": "quantity",
+              "article": "amount"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34",
+          "blockId": "table-0640fb93ad3a3b26",
+          "blockPosition": 0,
+          "blockSize": 7
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "9e041eac-0ebd-415b-b01e-bd861b58432b",
+          "prompt": "| Study | Main focus | Problems | Proposed solutions |\n| --- | --- | --- | --- |\n| Vulture Study | Connection between how high they fly and weather conditions: quantity of **34**_____ | Vultures fly lower in strong winds, so are in more 35.....| Use a fixed 36..... to monitor bird activity |\n| Nocturnal Bird Survey | Bird movements at night, particularly near: - wind farm; 37..... | Previous tracking methods not practical because they were not very 38..... | Develop new 39..... systems Produce 40..... models for use |",
+          "answers": [
+            "danger"
+          ],
+          "rawAnswer": "danger",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, what emerged from this study was that these vultures tend to fly lower at times when the wind is very strong. And of course, this means that more birds are in danger of flying straight into the turbines"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35",
+          "blockId": "table-0640fb93ad3a3b26",
+          "blockPosition": 1,
+          "blockSize": 7
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "fd73c9a8-cefe-4cdd-b4f1-4b4aae679839",
+          "prompt": "| Study | Main focus | Problems | Proposed solutions |\n| --- | --- | --- | --- |\n| Vulture Study | Connection between how high they fly and weather conditions: quantity of **34**_____ | Vultures fly lower in strong winds, so are in more 35.....| Use a fixed 36..... to monitor bird activity |\n| Nocturnal Bird Survey | Bird movements at night, particularly near: - wind farm; 37..... | Previous tracking methods not practical because they were not very 38..... | Develop new 39..... systems Produce 40..... models for use |",
+          "answers": [
+            "camera"
+          ],
+          "rawAnswer": "camera",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, the project team suggests that to deal with this problem, a fixed camera should be set up to film any birds in flight near the turbines, so that if necessary, the turbines can be switched off"
+          },
+          "keywordPairs": [
+            {
+              "question": "monitor",
+              "article": "camera"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36",
+          "blockId": "table-0640fb93ad3a3b26",
+          "blockPosition": 2,
+          "blockSize": 7
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "940c1911-c7fe-4d2d-bf0b-fd2e0a8991ad",
+          "prompt": "| Study | Main focus | Problems | Proposed solutions |\n| --- | --- | --- | --- |\n| Vulture Study | Connection between how high they fly and weather conditions: quantity of **34**_____ | Vultures fly lower in strong winds, so are in more 35.....| Use a fixed 36..... to monitor bird activity |\n| Nocturnal Bird Survey | Bird movements at night, particularly near: - wind farm; 37..... | Previous tracking methods not practical because they were not very 38..... | Develop new 39..... systems Produce 40..... models for use |",
+          "answers": [
+            "airports"
+          ],
+          "rawAnswer": "airports",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This study actually had a slightly wider scope. It looked at risks to these birds near other installations, not just wind farms. These were mainly airports, which for obvious reasons, tend to cause problems for birds"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37",
+          "blockId": "table-0640fb93ad3a3b26",
+          "blockPosition": 3,
+          "blockSize": 7
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "21a3692d-2124-4b2a-aa49-78864d8b02f7",
+          "prompt": "| Study | Main focus | Problems | Proposed solutions |\n| --- | --- | --- | --- |\n| Vulture Study | Connection between how high they fly and weather conditions: quantity of **34**_____ | Vultures fly lower in strong winds, so are in more 35.....| Use a fixed 36..... to monitor bird activity |\n| Nocturnal Bird Survey | Bird movements at night, particularly near: - wind farm; 37..... | Previous tracking methods not practical because they were not very 38..... | Develop new 39..... systems Produce 40..... models for use |",
+          "answers": [
+            "reliable"
+          ],
+          "rawAnswer": "reliable",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the past, the most usual means of tracking the movements of birds at night were radar and thermal imaging. Now, the problem was that these methods were expensive because someone had to control the devices all through the night. And in addition to this, they weren't really reliable. So the researchers looked for an alternative that didn't need human intervention. And what they proposed as a priority was to create alarm systems that switch on whenever a bird passes a certain point, alerting monitors so that action can be taken"
+          },
+          "keywordPairs": [
+            {
+              "question": "Previous",
+              "article": "in the past"
+            },
+            {
+              "question": "methods",
+              "article": "means"
+            },
+            {
+              "question": "not very reliable",
+              "article": "weren't really reliable"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38",
+          "blockId": "table-0640fb93ad3a3b26",
+          "blockPosition": 4,
+          "blockSize": 7
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "b6715a25-45b4-4e61-b13b-345584e94c65",
+          "prompt": "| Study | Main focus | Problems | Proposed solutions |\n| --- | --- | --- | --- |\n| Vulture Study | Connection between how high they fly and weather conditions: quantity of **34**_____ | Vultures fly lower in strong winds, so are in more 35.....| Use a fixed 36..... to monitor bird activity |\n| Nocturnal Bird Survey | Bird movements at night, particularly near: - wind farm; 37..... | Previous tracking methods not practical because they were not very 38..... | Develop new 39..... systems Produce 40..... models for use |",
+          "answers": [
+            "alarm"
+          ],
+          "rawAnswer": "alarm",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And what they proposed as a priority was to create alarm systems that switch on whenever a bird passes a certain point, alerting monitors so that action can be taken"
+          },
+          "keywordPairs": [
+            {
+              "question": "develop new",
+              "article": "create"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39",
+          "blockId": "table-0640fb93ad3a3b26",
+          "blockPosition": 5,
+          "blockSize": 7
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "0bed8033-e1ef-431d-8e9a-86f4ec27f1e9",
+          "prompt": "| Study | Main focus | Problems | Proposed solutions |\n| --- | --- | --- | --- |\n| Vulture Study | Connection between how high they fly and weather conditions: quantity of **34**_____ | Vultures fly lower in strong winds, so are in more 35.....| Use a fixed 36..... to monitor bird activity |\n| Nocturnal Bird Survey | Bird movements at night, particularly near: - wind farm; 37..... | Previous tracking methods not practical because they were not very 38..... | Develop new 39..... systems Produce 40..... models for use |",
+          "answers": [
+            "computer"
+          ],
+          "rawAnswer": "computer",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And what they proposed as a priority was to create alarm systems that switch on whenever a bird passes a certain point, alerting monitors so that action can be taken"
+          },
+          "keywordPairs": [
+            {
+              "question": "Proposed solutions",
+              "article": "the suggestions put forward"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40",
+          "blockId": "table-0640fb93ad3a3b26",
+          "blockPosition": 6,
+          "blockSize": 7
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,380</p><p>First, a bit of background. In recent years, people have been trying to exploit a number of different renewable forms of energy. One of these is wind power. </p><p>00:00:11,380</p><p>Electricity can be generated from wind power by turbines, and at present, large numbers of these tall wind turbines are being erected in what are called wind farms. And the government is backing these as part of its moves towards sustainable energy production. But wind farms can be a problem for birds because they can fly into the turbines and injure themselves. So wildlife experts have been doing a number of studies recently trying to monitor the effects of wind farms on bird populations and suggest solutions. And that's what I'm going to look at today. Now, before I look in detail at specific studies of different birds, I want to make some general points. It has been established that the species in greatest danger from the turbines are those which, irrespective of their feeding or patterns of migration, collect together in significant numbers, either on the coast or inland. </p><p>00:01:10,780</p><p>And as well as that, birds are often vulnerable when they're setting off on long sea migrations or when they're flying below cloud. So in my opinion, efforts should be made to site new wind farms responsibly, and that means avoiding low-lying areas and narrow valleys between mountains or hills. </p><p>00:01:31,320</p><p>Now I'd like to look at some specific studies. Firstly, a project looking at one particular species of bird, the vulture. </p><p>00:01:40,210</p><p>This investigation mainly focused on how high the birds fly and the correlation between this and weather conditions. </p><p>00:01:47,800</p><p>One of the weather features they were looking at was wind speed. But as well as that, another thing they considered to do with the weather was the amount of cloud. Now, what emerged from this study was that these vultures tend to fly lower at times when the wind is very strong. And of course, this means that more birds are in danger of flying straight into the turbines. </p><p>00:02:12,460</p><p>Now, the project team suggests that to deal with this problem, a fixed camera should be set up to film any birds in flight near the turbines, so that if necessary, the turbines can be switched off. </p><p>00:02:25,180</p><p>Another survey looked at the nighttime or nocturnal habits of several species of birds. This study actually had a slightly wider scope. It looked at risks to these birds near other installations, not just wind farms. These were mainly airports, which for obvious reasons, tend to cause problems for birds. </p><p>00:02:47,880</p><p>But the study also looked at what happened near tall structures such as radio transmitters. In the past, the most usual means of tracking the movements of birds at night were radar and thermal imaging. Now, the problem was that these methods were expensive because someone had to control the devices all through the night. And in addition to this, they weren't really reliable. So the researchers looked for an alternative that didn't need human intervention. And what they proposed as a priority was to create alarm systems that switch on whenever a bird passes a certain point, alerting monitors so that action can be taken. <span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/5ccbe3de-bd7d-46a1-b83e-6ca8640a1561.mp3",
+    "durationSeconds": 226.152,
+    "sizeBytes": 904953,
+    "sha256": "80a0ea648042c50ac264e004a428f5cf54052c24ca3f33708ddcc0e19734d409",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:52:25Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786348364726_4hnww5_2e226e4d.mp3"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "cambridge-15-test-2-reading-1",
+  "title": "Could urban engineers learn from dance?",
+  "titleCn": "Could urban engineers learn from dance?",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 15,
+    "test": 2
+  },
+  "sourceQuestionId": "8127",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8127",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Could urban engineers learn from dance?"
+    },
+    {
+      "label": "2",
+      "text": "A The way we travel around cities has a major impact on whether they are sustainable. Transportation is estimated to account for 30% of energy consumption in most of the world's most developed nations, so lowering the need for energy-using vehicles is essential for decreasing the environmental impact of mobility. But as more and more people move to cities, it is important to think about other kinds of sustainable travel too. The ways we travel affect our physical and mental health, our social lives, our access to work and culture, and the air we breathe. Engineers are tasked with changing how we travel round cities through urban design, but the engineering industry still works on the assumptions that led to the creation of the energy-consuming transport systems we have now: the emphasis placed solely on efficiency, speed, and quantitative data. We need radical changes, to make it healthier, more enjoyable, and less environmentally damaging to travel around cities."
+    },
+    {
+      "label": "3",
+      "text": "B Dance might hold some of the answers. That is not to suggest everyone should dance their way to work, however healthy and happy it might make us, but rather that the techniques used by choreographers to experiment with and design movement in dance could provide engineers with tools to stimulate new ideas in city-making. Richard Sennett, an influential urbanist and sociologist who has transformed ideas about the way cities are made, argues that urban design has suffered from a separation between mind and body since the introduction of the architectural blueprint."
+    },
+    {
+      "label": "4",
+      "text": "C Whereas medieval builders improvised and adapted construction through their intimate knowledge of materials and personal experience of the conditions on a site, building designs are now conceived and stored in media technologies that detach the designer from the physical and social realities they are creating. While the design practices created by these new technologies are essential for managing the technical complexity of the modern city, they have the drawback of simplifying reality in the process."
+    },
+    {
+      "label": "5",
+      "text": "D To illustrate, Sennett discusses the Peachtree Center in Atlanta, USA, a development typical of the modernist approach to urban planning prevalent in the 1970s. Peachtree created a grid of streets and towers intended as a new pedestrian-friendly downtown for Atlanta. According to Sennett, this failed because its designers had invested too much faith in computer-aided design to tell them how it would operate. They failed to take into account that purpose-built street cafés could not operate in the hot sun without the protective awnings common in older buildings, and would need energy-consuming air conditioning instead, or that its giant car park would feel so unwelcoming that it would put people off getting out of their cars. What seems entirely predictable and controllable on screen has unexpected results when translated into reality."
+    },
+    {
+      "label": "6",
+      "text": "E The same is true in transport engineering, which uses models to predict and shape the way people move through the city. Again, these models are necessary, but they are built on specific world views in which certain forms of efficiency and safety are considered and other experiences of the city ignored. Designs that seem logical in models appear counter-intuitive in the actual experience of their users. The guard rails that will be familiar to anyone who has attempted to cross a British road, for example, were an engineering solution to pedestrian safety based on models that prioritise the smooth flow of traffic. On wide major roads, they often guide pedestrians to specific crossing points and slow down their progress across the road by using staggered access points to divide the crossing into two – one for each carriageway. In doing so they make crossings feel longer, introducing psychological barriers greatly impacting those that are the least mobile, and encouraging others to make dangerous crossings to get around the guard rails. These barriers don't just make it harder to cross the road: they divide communities and decrease opportunities for healthy transport. As a result, many are now being removed, causing disruption, cost, and waste."
+    },
+    {
+      "label": "7",
+      "text": "F If their designers had had the tools to think with their bodies – like dancers – and imagine how these barriers would feel, there might have been a better solution. In order to bring about fundamental changes to the ways we use our cities, engineering will need to develop a richer understanding of why people move in certain ways, and how this movement affects them. Choreography may not seem an obvious choice for tackling this problem. Yet it shares with engineering the aim of designing patterns of movement within limitations of space. It is an art form developed almost entirely by trying out ideas with the body, and gaining instant feedback on how the results feel. Choreographers have deep understanding of the psychological, aesthetic, and physical implications of different ways of moving."
+    },
+    {
+      "label": "8",
+      "text": "G Observing the choreographer Wayne McGregor, cognitive scientist David Kirsh described how he 'thinks with the body'. Kirsh argues that by using the body to simulate outcomes, McGregor is able to imagine solutions that would not be possible using purely abstract thought. This kind of physical knowledge is valued in many areas of expertise, but currently has no place in formal engineering design processes. A suggested method for transport engineers is to improvise design solutions and get instant feedback about how they would work from their own experience of them, or model designs at full scale in the way choreographers experiment with groups of dancers. Above all, perhaps, they might learn to design for emotional as well as functional effects."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1–6\n\nReading Passage 1 has seven paragraphs, A–G.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A–G, in boxes 1–6 on your answer sheet.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "reference to an appealing way of using dance that the writer is not proposing",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8127_875053-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "an example of a contrast between past and present approaches to building",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8127_875053-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "mention of an objective of both dance and engineering",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8127_875053-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "reference to an unforeseen problem arising from ignoring the climate",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8127_875053-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "why some measures intended to help people are being reversed",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8127_875053-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "reference to how transport has an impact on human lives",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8127_875053-6"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 7–13\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 7–13 on your answer sheet.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Answer for gap 7.",
+          "answers": [
+            "safety"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8127_930377",
+          "explanation": "7.\n\n定位词：Guide rail / British road / pedestrians\n\n文中对应点：E段第4句 ：The guard rails ...cross a British road, ... pedestrian safety\n\n题目解析：Guard rails were introduced on British roads to improve the ...of pedestrians,\n\n题干：英国在道路上安装了护栏，以提高行人的...\n\n首先通过标题迅速定位到E段，然后通过guide rail、British road、pedestrians 定位到第4句。文中表述：英国道路的护栏是一种保障行人安全的工程解决方案。因此此空应填safety安全。\n\n答案：safety\n\n8.\n\n定位词：Not disrupted\n\n文中对应点：E段第4句 ：... prioritise the smooth flow of traffic.\n\n题目解析：while ensuring that the movement of...is not disrupted.\n\n题干：同时确保...的移动不中断。\n\n通过not disrupted定位到第4句。文中表述：英国道路的护栏是一种基于优先考虑交通顺畅的模型，保障行人安全的工程解决方案。题干中的not disrupted与文中smooth flow同义，因此此空应填traffic交通。\n\n答案：traffic\n\n9.\n\n定位词：Pedestrian / access point\n\n文中对应点：E段第5句： ...guide pedestrians to specific crossing points ... access points ... one for each carriageway.\n\n题目解析：Pedestrians are led to access points, and encouraged to cross one... at a time.\n\n题干：行人被引导到出入口，并被鼓励穿过其中一个...在一个时间。\n\n通过pedestrian、access point定位到第5句。文中表述：在宽阔的主要道路上，他们经常引导行人到特定的过路点，并利用交错的过路点，把过路点分为两个，即每个行车道各一个，从而减慢行人过马路的速度。因此此空应填carriageway车道。\n\n答案：carriageway\n\n10.\n\n定位词：Psychological / less\n\n文中对应点：E段第6句... psychological barriers greatly impacting those that are the least mobile\n\n题目解析：An unintended effect is to create psychological difficulties in crossing the road, particularly for less... people.\n\n题干：一个意想不到的影响是在过马路时造成心理上的困难，特别是对于那些减少...的人。\n\n通过psychological、less定位到第6句。文中表述：这样做会使通过时间变得更长，给那些流动性最弱的人带来心理障碍。题干中less mobile与文中at least mobile 同义。因此此空应填mobile移动。\n\n答案：mobile\n\n11.\n\n定位词：Another / cross the road\n\n文中对应点：E段第6句and encouraging others to make dangerous crossings ...\n\n题目解析：Another result is that some people cross the road in a...way.\n\n题干： 另一个结果是有些人以...的方式过马路。\n\n通过another定位第6句后半句。文中表述：并鼓励其他人冒险越过护栏。题干中cross the road in a dangerous way 与文中make dangerous crossing 同义。因此此空应填dangerous.\n\n答案：dangerous\n\n12.\n\n定位词：separate\n\n文中对应点：E段第7句they divide communities\n\n题目解析：The guard rails separate...\n\n题干： 护栏分开了…\n\n通过separate定位到第7句中间部分。文中表述： 他们把社区分开。题干中separate与文中divide同义。因此此空应填communities社区。\n\n答案：communities\n\n13.\n\n定位词：more difficult / transport\n\n文中对应点：E段第7句and decrease opportunities for healthy transport.\n\n题目解析：make it more difficult to introduce forms of transport that are...\n\n题干： 使得引进...的交通工具变得更加困难。\n\n通过more difficult、transport定位到第7句后半部分。文中表述：减少健康交通的机会。题干中more difficult与文中decrease对应，更加困难导致减少。因此此空应填healthy。\n\n答案：healthy",
+          "promptHtml": "Answer for gap 7."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Answer for gap 8.",
+          "answers": [
+            "traffic"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8127_232987",
+          "explanation": "7.\n\n定位词：Guide rail / British road / pedestrians\n\n文中对应点：E段第4句 ：The guard rails ...cross a British road, ... pedestrian safety\n\n题目解析：Guard rails were introduced on British roads to improve the ...of pedestrians,\n\n题干：英国在道路上安装了护栏，以提高行人的...\n\n首先通过标题迅速定位到E段，然后通过guide rail、British road、pedestrians 定位到第4句。文中表述：英国道路的护栏是一种保障行人安全的工程解决方案。因此此空应填safety安全。\n\n答案：safety\n\n8.\n\n定位词：Not disrupted\n\n文中对应点：E段第4句 ：... prioritise the smooth flow of traffic.\n\n题目解析：while ensuring that the movement of...is not disrupted.\n\n题干：同时确保...的移动不中断。\n\n通过not disrupted定位到第4句。文中表述：英国道路的护栏是一种基于优先考虑交通顺畅的模型，保障行人安全的工程解决方案。题干中的not disrupted与文中smooth flow同义，因此此空应填traffic交通。\n\n答案：traffic\n\n9.\n\n定位词：Pedestrian / access point\n\n文中对应点：E段第5句： ...guide pedestrians to specific crossing points ... access points ... one for each carriageway.\n\n题目解析：Pedestrians are led to access points, and encouraged to cross one... at a time.\n\n题干：行人被引导到出入口，并被鼓励穿过其中一个...在一个时间。\n\n通过pedestrian、access point定位到第5句。文中表述：在宽阔的主要道路上，他们经常引导行人到特定的过路点，并利用交错的过路点，把过路点分为两个，即每个行车道各一个，从而减慢行人过马路的速度。因此此空应填carriageway车道。\n\n答案：carriageway\n\n10.\n\n定位词：Psychological / less\n\n文中对应点：E段第6句... psychological barriers greatly impacting those that are the least mobile\n\n题目解析：An unintended effect is to create psychological difficulties in crossing the road, particularly for less... people.\n\n题干：一个意想不到的影响是在过马路时造成心理上的困难，特别是对于那些减少...的人。\n\n通过psychological、less定位到第6句。文中表述：这样做会使通过时间变得更长，给那些流动性最弱的人带来心理障碍。题干中less mobile与文中at least mobile 同义。因此此空应填mobile移动。\n\n答案：mobile\n\n11.\n\n定位词：Another / cross the road\n\n文中对应点：E段第6句and encouraging others to make dangerous crossings ...\n\n题目解析：Another result is that some people cross the road in a...way.\n\n题干： 另一个结果是有些人以...的方式过马路。\n\n通过another定位第6句后半句。文中表述：并鼓励其他人冒险越过护栏。题干中cross the road in a dangerous way 与文中make dangerous crossing 同义。因此此空应填dangerous.\n\n答案：dangerous\n\n12.\n\n定位词：separate\n\n文中对应点：E段第7句they divide communities\n\n题目解析：The guard rails separate...\n\n题干： 护栏分开了…\n\n通过separate定位到第7句中间部分。文中表述： 他们把社区分开。题干中separate与文中divide同义。因此此空应填communities社区。\n\n答案：communities\n\n13.\n\n定位词：more difficult / transport\n\n文中对应点：E段第7句and decrease opportunities for healthy transport.\n\n题目解析：make it more difficult to introduce forms of transport that are...\n\n题干： 使得引进...的交通工具变得更加困难。\n\n通过more difficult、transport定位到第7句后半部分。文中表述：减少健康交通的机会。题干中more difficult与文中decrease对应，更加困难导致减少。因此此空应填healthy。\n\n答案：healthy",
+          "promptHtml": "Answer for gap 8."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "carriageway"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8127_975595",
+          "explanation": "7.\n\n定位词：Guide rail / British road / pedestrians\n\n文中对应点：E段第4句 ：The guard rails ...cross a British road, ... pedestrian safety\n\n题目解析：Guard rails were introduced on British roads to improve the ...of pedestrians,\n\n题干：英国在道路上安装了护栏，以提高行人的...\n\n首先通过标题迅速定位到E段，然后通过guide rail、British road、pedestrians 定位到第4句。文中表述：英国道路的护栏是一种保障行人安全的工程解决方案。因此此空应填safety安全。\n\n答案：safety\n\n8.\n\n定位词：Not disrupted\n\n文中对应点：E段第4句 ：... prioritise the smooth flow of traffic.\n\n题目解析：while ensuring that the movement of...is not disrupted.\n\n题干：同时确保...的移动不中断。\n\n通过not disrupted定位到第4句。文中表述：英国道路的护栏是一种基于优先考虑交通顺畅的模型，保障行人安全的工程解决方案。题干中的not disrupted与文中smooth flow同义，因此此空应填traffic交通。\n\n答案：traffic\n\n9.\n\n定位词：Pedestrian / access point\n\n文中对应点：E段第5句： ...guide pedestrians to specific crossing points ... access points ... one for each carriageway.\n\n题目解析：Pedestrians are led to access points, and encouraged to cross one... at a time.\n\n题干：行人被引导到出入口，并被鼓励穿过其中一个...在一个时间。\n\n通过pedestrian、access point定位到第5句。文中表述：在宽阔的主要道路上，他们经常引导行人到特定的过路点，并利用交错的过路点，把过路点分为两个，即每个行车道各一个，从而减慢行人过马路的速度。因此此空应填carriageway车道。\n\n答案：carriageway\n\n10.\n\n定位词：Psychological / less\n\n文中对应点：E段第6句... psychological barriers greatly impacting those that are the least mobile\n\n题目解析：An unintended effect is to create psychological difficulties in crossing the road, particularly for less... people.\n\n题干：一个意想不到的影响是在过马路时造成心理上的困难，特别是对于那些减少...的人。\n\n通过psychological、less定位到第6句。文中表述：这样做会使通过时间变得更长，给那些流动性最弱的人带来心理障碍。题干中less mobile与文中at least mobile 同义。因此此空应填mobile移动。\n\n答案：mobile\n\n11.\n\n定位词：Another / cross the road\n\n文中对应点：E段第6句and encouraging others to make dangerous crossings ...\n\n题目解析：Another result is that some people cross the road in a...way.\n\n题干： 另一个结果是有些人以...的方式过马路。\n\n通过another定位第6句后半句。文中表述：并鼓励其他人冒险越过护栏。题干中cross the road in a dangerous way 与文中make dangerous crossing 同义。因此此空应填dangerous.\n\n答案：dangerous\n\n12.\n\n定位词：separate\n\n文中对应点：E段第7句they divide communities\n\n题目解析：The guard rails separate...\n\n题干： 护栏分开了…\n\n通过separate定位到第7句中间部分。文中表述： 他们把社区分开。题干中separate与文中divide同义。因此此空应填communities社区。\n\n答案：communities\n\n13.\n\n定位词：more difficult / transport\n\n文中对应点：E段第7句and decrease opportunities for healthy transport.\n\n题目解析：make it more difficult to introduce forms of transport that are...\n\n题干： 使得引进...的交通工具变得更加困难。\n\n通过more difficult、transport定位到第7句后半部分。文中表述：减少健康交通的机会。题干中more difficult与文中decrease对应，更加困难导致减少。因此此空应填healthy。\n\n答案：healthy",
+          "promptHtml": "Answer for gap 9."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Answer for gap 10.",
+          "answers": [
+            "mobile"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8127_978650",
+          "explanation": "7.\n\n定位词：Guide rail / British road / pedestrians\n\n文中对应点：E段第4句 ：The guard rails ...cross a British road, ... pedestrian safety\n\n题目解析：Guard rails were introduced on British roads to improve the ...of pedestrians,\n\n题干：英国在道路上安装了护栏，以提高行人的...\n\n首先通过标题迅速定位到E段，然后通过guide rail、British road、pedestrians 定位到第4句。文中表述：英国道路的护栏是一种保障行人安全的工程解决方案。因此此空应填safety安全。\n\n答案：safety\n\n8.\n\n定位词：Not disrupted\n\n文中对应点：E段第4句 ：... prioritise the smooth flow of traffic.\n\n题目解析：while ensuring that the movement of...is not disrupted.\n\n题干：同时确保...的移动不中断。\n\n通过not disrupted定位到第4句。文中表述：英国道路的护栏是一种基于优先考虑交通顺畅的模型，保障行人安全的工程解决方案。题干中的not disrupted与文中smooth flow同义，因此此空应填traffic交通。\n\n答案：traffic\n\n9.\n\n定位词：Pedestrian / access point\n\n文中对应点：E段第5句： ...guide pedestrians to specific crossing points ... access points ... one for each carriageway.\n\n题目解析：Pedestrians are led to access points, and encouraged to cross one... at a time.\n\n题干：行人被引导到出入口，并被鼓励穿过其中一个...在一个时间。\n\n通过pedestrian、access point定位到第5句。文中表述：在宽阔的主要道路上，他们经常引导行人到特定的过路点，并利用交错的过路点，把过路点分为两个，即每个行车道各一个，从而减慢行人过马路的速度。因此此空应填carriageway车道。\n\n答案：carriageway\n\n10.\n\n定位词：Psychological / less\n\n文中对应点：E段第6句... psychological barriers greatly impacting those that are the least mobile\n\n题目解析：An unintended effect is to create psychological difficulties in crossing the road, particularly for less... people.\n\n题干：一个意想不到的影响是在过马路时造成心理上的困难，特别是对于那些减少...的人。\n\n通过psychological、less定位到第6句。文中表述：这样做会使通过时间变得更长，给那些流动性最弱的人带来心理障碍。题干中less mobile与文中at least mobile 同义。因此此空应填mobile移动。\n\n答案：mobile\n\n11.\n\n定位词：Another / cross the road\n\n文中对应点：E段第6句and encouraging others to make dangerous crossings ...\n\n题目解析：Another result is that some people cross the road in a...way.\n\n题干： 另一个结果是有些人以...的方式过马路。\n\n通过another定位第6句后半句。文中表述：并鼓励其他人冒险越过护栏。题干中cross the road in a dangerous way 与文中make dangerous crossing 同义。因此此空应填dangerous.\n\n答案：dangerous\n\n12.\n\n定位词：separate\n\n文中对应点：E段第7句they divide communities\n\n题目解析：The guard rails separate...\n\n题干： 护栏分开了…\n\n通过separate定位到第7句中间部分。文中表述： 他们把社区分开。题干中separate与文中divide同义。因此此空应填communities社区。\n\n答案：communities\n\n13.\n\n定位词：more difficult / transport\n\n文中对应点：E段第7句and decrease opportunities for healthy transport.\n\n题目解析：make it more difficult to introduce forms of transport that are...\n\n题干： 使得引进...的交通工具变得更加困难。\n\n通过more difficult、transport定位到第7句后半部分。文中表述：减少健康交通的机会。题干中more difficult与文中decrease对应，更加困难导致减少。因此此空应填healthy。\n\n答案：healthy",
+          "promptHtml": "Answer for gap 10."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Answer for gap 11.",
+          "answers": [
+            "dangerous"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8127_120291",
+          "explanation": "7.\n\n定位词：Guide rail / British road / pedestrians\n\n文中对应点：E段第4句 ：The guard rails ...cross a British road, ... pedestrian safety\n\n题目解析：Guard rails were introduced on British roads to improve the ...of pedestrians,\n\n题干：英国在道路上安装了护栏，以提高行人的...\n\n首先通过标题迅速定位到E段，然后通过guide rail、British road、pedestrians 定位到第4句。文中表述：英国道路的护栏是一种保障行人安全的工程解决方案。因此此空应填safety安全。\n\n答案：safety\n\n8.\n\n定位词：Not disrupted\n\n文中对应点：E段第4句 ：... prioritise the smooth flow of traffic.\n\n题目解析：while ensuring that the movement of...is not disrupted.\n\n题干：同时确保...的移动不中断。\n\n通过not disrupted定位到第4句。文中表述：英国道路的护栏是一种基于优先考虑交通顺畅的模型，保障行人安全的工程解决方案。题干中的not disrupted与文中smooth flow同义，因此此空应填traffic交通。\n\n答案：traffic\n\n9.\n\n定位词：Pedestrian / access point\n\n文中对应点：E段第5句： ...guide pedestrians to specific crossing points ... access points ... one for each carriageway.\n\n题目解析：Pedestrians are led to access points, and encouraged to cross one... at a time.\n\n题干：行人被引导到出入口，并被鼓励穿过其中一个...在一个时间。\n\n通过pedestrian、access point定位到第5句。文中表述：在宽阔的主要道路上，他们经常引导行人到特定的过路点，并利用交错的过路点，把过路点分为两个，即每个行车道各一个，从而减慢行人过马路的速度。因此此空应填carriageway车道。\n\n答案：carriageway\n\n10.\n\n定位词：Psychological / less\n\n文中对应点：E段第6句... psychological barriers greatly impacting those that are the least mobile\n\n题目解析：An unintended effect is to create psychological difficulties in crossing the road, particularly for less... people.\n\n题干：一个意想不到的影响是在过马路时造成心理上的困难，特别是对于那些减少...的人。\n\n通过psychological、less定位到第6句。文中表述：这样做会使通过时间变得更长，给那些流动性最弱的人带来心理障碍。题干中less mobile与文中at least mobile 同义。因此此空应填mobile移动。\n\n答案：mobile\n\n11.\n\n定位词：Another / cross the road\n\n文中对应点：E段第6句and encouraging others to make dangerous crossings ...\n\n题目解析：Another result is that some people cross the road in a...way.\n\n题干： 另一个结果是有些人以...的方式过马路。\n\n通过another定位第6句后半句。文中表述：并鼓励其他人冒险越过护栏。题干中cross the road in a dangerous way 与文中make dangerous crossing 同义。因此此空应填dangerous.\n\n答案：dangerous\n\n12.\n\n定位词：separate\n\n文中对应点：E段第7句they divide communities\n\n题目解析：The guard rails separate...\n\n题干： 护栏分开了…\n\n通过separate定位到第7句中间部分。文中表述： 他们把社区分开。题干中separate与文中divide同义。因此此空应填communities社区。\n\n答案：communities\n\n13.\n\n定位词：more difficult / transport\n\n文中对应点：E段第7句and decrease opportunities for healthy transport.\n\n题目解析：make it more difficult to introduce forms of transport that are...\n\n题干： 使得引进...的交通工具变得更加困难。\n\n通过more difficult、transport定位到第7句后半部分。文中表述：减少健康交通的机会。题干中more difficult与文中decrease对应，更加困难导致减少。因此此空应填healthy。\n\n答案：healthy",
+          "promptHtml": "Answer for gap 11."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Answer for gap 12.",
+          "answers": [
+            "communities"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8127_813548",
+          "explanation": "7.\n\n定位词：Guide rail / British road / pedestrians\n\n文中对应点：E段第4句 ：The guard rails ...cross a British road, ... pedestrian safety\n\n题目解析：Guard rails were introduced on British roads to improve the ...of pedestrians,\n\n题干：英国在道路上安装了护栏，以提高行人的...\n\n首先通过标题迅速定位到E段，然后通过guide rail、British road、pedestrians 定位到第4句。文中表述：英国道路的护栏是一种保障行人安全的工程解决方案。因此此空应填safety安全。\n\n答案：safety\n\n8.\n\n定位词：Not disrupted\n\n文中对应点：E段第4句 ：... prioritise the smooth flow of traffic.\n\n题目解析：while ensuring that the movement of...is not disrupted.\n\n题干：同时确保...的移动不中断。\n\n通过not disrupted定位到第4句。文中表述：英国道路的护栏是一种基于优先考虑交通顺畅的模型，保障行人安全的工程解决方案。题干中的not disrupted与文中smooth flow同义，因此此空应填traffic交通。\n\n答案：traffic\n\n9.\n\n定位词：Pedestrian / access point\n\n文中对应点：E段第5句： ...guide pedestrians to specific crossing points ... access points ... one for each carriageway.\n\n题目解析：Pedestrians are led to access points, and encouraged to cross one... at a time.\n\n题干：行人被引导到出入口，并被鼓励穿过其中一个...在一个时间。\n\n通过pedestrian、access point定位到第5句。文中表述：在宽阔的主要道路上，他们经常引导行人到特定的过路点，并利用交错的过路点，把过路点分为两个，即每个行车道各一个，从而减慢行人过马路的速度。因此此空应填carriageway车道。\n\n答案：carriageway\n\n10.\n\n定位词：Psychological / less\n\n文中对应点：E段第6句... psychological barriers greatly impacting those that are the least mobile\n\n题目解析：An unintended effect is to create psychological difficulties in crossing the road, particularly for less... people.\n\n题干：一个意想不到的影响是在过马路时造成心理上的困难，特别是对于那些减少...的人。\n\n通过psychological、less定位到第6句。文中表述：这样做会使通过时间变得更长，给那些流动性最弱的人带来心理障碍。题干中less mobile与文中at least mobile 同义。因此此空应填mobile移动。\n\n答案：mobile\n\n11.\n\n定位词：Another / cross the road\n\n文中对应点：E段第6句and encouraging others to make dangerous crossings ...\n\n题目解析：Another result is that some people cross the road in a...way.\n\n题干： 另一个结果是有些人以...的方式过马路。\n\n通过another定位第6句后半句。文中表述：并鼓励其他人冒险越过护栏。题干中cross the road in a dangerous way 与文中make dangerous crossing 同义。因此此空应填dangerous.\n\n答案：dangerous\n\n12.\n\n定位词：separate\n\n文中对应点：E段第7句they divide communities\n\n题目解析：The guard rails separate...\n\n题干： 护栏分开了…\n\n通过separate定位到第7句中间部分。文中表述： 他们把社区分开。题干中separate与文中divide同义。因此此空应填communities社区。\n\n答案：communities\n\n13.\n\n定位词：more difficult / transport\n\n文中对应点：E段第7句and decrease opportunities for healthy transport.\n\n题目解析：make it more difficult to introduce forms of transport that are...\n\n题干： 使得引进...的交通工具变得更加困难。\n\n通过more difficult、transport定位到第7句后半部分。文中表述：减少健康交通的机会。题干中more difficult与文中decrease对应，更加困难导致减少。因此此空应填healthy。\n\n答案：healthy",
+          "promptHtml": "Answer for gap 12."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Answer for gap 13.",
+          "answers": [
+            "healthy"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8127_895505",
+          "explanation": "7.\n\n定位词：Guide rail / British road / pedestrians\n\n文中对应点：E段第4句 ：The guard rails ...cross a British road, ... pedestrian safety\n\n题目解析：Guard rails were introduced on British roads to improve the ...of pedestrians,\n\n题干：英国在道路上安装了护栏，以提高行人的...\n\n首先通过标题迅速定位到E段，然后通过guide rail、British road、pedestrians 定位到第4句。文中表述：英国道路的护栏是一种保障行人安全的工程解决方案。因此此空应填safety安全。\n\n答案：safety\n\n8.\n\n定位词：Not disrupted\n\n文中对应点：E段第4句 ：... prioritise the smooth flow of traffic.\n\n题目解析：while ensuring that the movement of...is not disrupted.\n\n题干：同时确保...的移动不中断。\n\n通过not disrupted定位到第4句。文中表述：英国道路的护栏是一种基于优先考虑交通顺畅的模型，保障行人安全的工程解决方案。题干中的not disrupted与文中smooth flow同义，因此此空应填traffic交通。\n\n答案：traffic\n\n9.\n\n定位词：Pedestrian / access point\n\n文中对应点：E段第5句： ...guide pedestrians to specific crossing points ... access points ... one for each carriageway.\n\n题目解析：Pedestrians are led to access points, and encouraged to cross one... at a time.\n\n题干：行人被引导到出入口，并被鼓励穿过其中一个...在一个时间。\n\n通过pedestrian、access point定位到第5句。文中表述：在宽阔的主要道路上，他们经常引导行人到特定的过路点，并利用交错的过路点，把过路点分为两个，即每个行车道各一个，从而减慢行人过马路的速度。因此此空应填carriageway车道。\n\n答案：carriageway\n\n10.\n\n定位词：Psychological / less\n\n文中对应点：E段第6句... psychological barriers greatly impacting those that are the least mobile\n\n题目解析：An unintended effect is to create psychological difficulties in crossing the road, particularly for less... people.\n\n题干：一个意想不到的影响是在过马路时造成心理上的困难，特别是对于那些减少...的人。\n\n通过psychological、less定位到第6句。文中表述：这样做会使通过时间变得更长，给那些流动性最弱的人带来心理障碍。题干中less mobile与文中at least mobile 同义。因此此空应填mobile移动。\n\n答案：mobile\n\n11.\n\n定位词：Another / cross the road\n\n文中对应点：E段第6句and encouraging others to make dangerous crossings ...\n\n题目解析：Another result is that some people cross the road in a...way.\n\n题干： 另一个结果是有些人以...的方式过马路。\n\n通过another定位第6句后半句。文中表述：并鼓励其他人冒险越过护栏。题干中cross the road in a dangerous way 与文中make dangerous crossing 同义。因此此空应填dangerous.\n\n答案：dangerous\n\n12.\n\n定位词：separate\n\n文中对应点：E段第7句they divide communities\n\n题目解析：The guard rails separate...\n\n题干： 护栏分开了…\n\n通过separate定位到第7句中间部分。文中表述： 他们把社区分开。题干中separate与文中divide同义。因此此空应填communities社区。\n\n答案：communities\n\n13.\n\n定位词：more difficult / transport\n\n文中对应点：E段第7句and decrease opportunities for healthy transport.\n\n题目解析：make it more difficult to introduce forms of transport that are...\n\n题干： 使得引进...的交通工具变得更加困难。\n\n通过more difficult、transport定位到第7句后半部分。文中表述：减少健康交通的机会。题干中more difficult与文中decrease对应，更加困难导致减少。因此此空应填healthy。\n\n答案：healthy",
+          "promptHtml": "Answer for gap 13."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Guard rails</strong></span></p>\n\n<p>Guard rails were introduced on British roads to improve the <strong>[7] ______</strong>of pedestrians, while ensuring that the movement of <strong>[8] ______</strong>is not disrupted. Pedestrians are led to access points, and encouraged to cross one <strong>[9] ______</strong>at a time.</p>\n\n<p>An unintended effect is to create psychological difficulties in crossing the road, particularly for less <strong>[10] ______</strong>people. Another result is that some people cross the road in a <strong>[11] ______</strong>way. The guard rails separate <strong>[12] ______</strong>, and make it more difficult to introduce forms of transport that are <strong>[13] ______</strong>.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<div><h3><span><strong>Could urban engineers learn from dance?</strong></span></h3><p> </p><p><strong>A</strong>   The way we travel around cities has a major impact on whether they are sustainable. Transportation is estimated to account for 30% of energy consumption in most of the world&#x27;s most developed nations, so lowering the need for energy-using vehicles is essential for decreasing the environmental impact of mobility. But as more and more people move to cities, it is important to think about other kinds of sustainable travel too. The ways we travel affect our physical and mental health, our social lives, our access to work and culture, and the air we breathe. Engineers are tasked with changing how we travel round cities through urban design, but the engineering industry still works on the assumptions that led to the creation of the energy-consuming transport systems we have now: the emphasis placed solely on efficiency, speed, and quantitative data. We need radical changes, to make it healthier, more enjoyable, and less environmentally damaging to travel around cities.</p><p><strong>B</strong>   Dance might hold some of the answers. That is not to suggest everyone should dance their way to work, however healthy and happy it might make us, but rather that the techniques used by choreographers to experiment with and design movement in dance could provide engineers with tools to stimulate new ideas in city-making. Richard Sennett, an influential urbanist and sociologist who has transformed ideas about the way cities are made, argues that urban design has suffered from a separation between mind and body since the introduction of the architectural blueprint.</p><p><strong>C</strong>   Whereas medieval builders improvised and adapted construction through their intimate knowledge of materials and personal experience of the conditions on a site, building designs are now conceived and stored in media technologies that detach the designer from the physical and social realities they are creating. While the design practices created by these new technologies are essential for managing the technical complexity of the modern city, they have the drawback of simplifying reality in the process.</p><p><strong>D</strong>   To illustrate, Sennett discusses the Peachtree Center in Atlanta, USA, a development typical of the modernist approach to urban planning prevalent in the 1970s. Peachtree created a grid of streets and towers intended as a new pedestrian-friendly downtown for Atlanta. According to Sennett, this failed because its designers had invested too much faith in computer-aided design to tell them how it would operate. They failed to take into account that purpose-built street cafés could not operate in the hot sun without the protective awnings common in older buildings, and would need energy-consuming air conditioning instead, or that its giant car park would feel so unwelcoming that it would put people off getting out of their cars. What seems entirely predictable and controllable on screen has unexpected results when translated into reality.</p><p><b>E</b>   The same is true in transport engineering, which uses models to predict and shape the way people move through the city. Again, these models are necessary, but they are built on specific world views in which certain forms of efficiency and safety are considered and other experiences of the city ignored. Designs that seem logical in models appear counter-intuitive in the actual experience of their users. The guard rails that will be familiar to anyone who has attempted to cross a British road, for example, were an engineering solution to pedestrian safety based on models that prioritise the smooth flow of traffic. On wide major roads, they often guide pedestrians to specific crossing points and slow down their progress across the road by using staggered access points to divide the crossing into two – one for each carriageway. In doing so they make crossings feel longer, introducing psychological barriers greatly impacting those that are the least mobile, and encouraging others to make dangerous crossings to get around the guard rails. These barriers don&#x27;t just make it harder to cross the road: they divide communities and decrease opportunities for healthy transport. As a result, many are now being removed, causing disruption, cost, and waste.</p></div><p><b>F</b>   If their designers had had the tools to think with their bodies – like dancers – and imagine how these barriers would feel, there might have been a better solution. In order to bring about fundamental changes to the ways we use our cities, engineering will need to develop a richer understanding of why people move in certain ways, and how this movement affects them. Choreography may not seem an obvious choice for tackling this problem. Yet it shares with engineering the aim of designing patterns of movement within limitations of space. It is an art form developed almost entirely by trying out ideas with the body, and gaining instant feedback on how the results feel. Choreographers have deep understanding of the psychological, aesthetic, and physical implications of different ways of moving.</p><p><strong>G</strong>   Observing the choreographer Wayne McGregor, cognitive scientist David Kirsh described how he &#x27;thinks with the body&#x27;. Kirsh argues that by using the body to simulate outcomes, McGregor is able to imagine solutions that would not be possible using purely abstract thought. This kind of physical knowledge is valued in many areas of expertise, but currently has no place in formal engineering design processes. A suggested method for transport engineers is to improvise design solutions and get instant feedback about how they would work from their own experience of them, or model designs at full scale in the way choreographers experiment with groups of dancers. Above all, perhaps, they might learn to design for emotional as well as functional effects.</p>"
+}

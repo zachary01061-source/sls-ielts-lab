@@ -1,0 +1,319 @@
+{
+  "id": "cambridge-18-test-1-reading-2",
+  "title": "Forest management in Pennsylvania, USA",
+  "titleCn": "Forest management in Pennsylvania, USA",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 1
+  },
+  "sourceQuestionId": "8440",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8440",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Forest management in Pennsylvania, USA"
+    },
+    {
+      "label": "2",
+      "text": "How managing low-quality wood (also known as low-use wood) for bioenergy can encourage sustainable forest management"
+    },
+    {
+      "label": "3",
+      "text": "A"
+    },
+    {
+      "label": "4",
+      "text": "A tree’s ‘value’ depends on several factors including its species, size, form, condition, quality, function, and accessibility, and depends on the management goals for a given forest. The same tree can be valued very differently by each person who looks at it. A large, straight black cherry tree has high value as timber to be cut into logs or made into furniture, but for a landowner more interested in wildlife habitat, the real value of that stem (or trunk) may be the food it provides to animals. Likewise, if the tree suffers from black knot disease, its value for timber decreases, but to a woodworker interested in making bowls, it brings an opportunity for a unique and beautiful piece of art."
+    },
+    {
+      "label": "5",
+      "text": "B"
+    },
+    {
+      "label": "6",
+      "text": "In the past, Pennsylvania landowners were solely interested in the value of their trees as high-quality timber. The norm was to remove the stems of highest quality and leave behind poorly formed trees that were not as well suited to the site where they grew. This practice, called ‘high-grading’, has left a legacy of ‘low-use wood’ in the forests. Some people even call these ‘junk trees’, and they are abundant in Pennsylvania. These trees have lower economic value for traditional timber markets, compete for growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand* leaving it more vulnerable to poor weather and disease. Management that specifically targets low-use wood can help landowners manage these forest health issues, and wood energy markets help promote this."
+    },
+    {
+      "label": "7",
+      "text": "C"
+    },
+    {
+      "label": "8",
+      "text": "Wood energy markets can accept less expensive wood material of lower quality than would be suitable for traditional timber markets. Most wood used for energy in Pennsylvania is used to produce heat or electricity through combustion. Many schools and hospitals use wood boiler systems to heat and power their facilities, many homes are primarily heated with wood, and some coal plants incorporate wood into their coal streams to produce electricity. Wood can also be gasified for electrical generation and can even be made into liquid fuels like ethanol and gasoline for lorries and cars. All these products are made primarily from low-use wood. Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly or solely on the use of wood for those markets.* Stand – An area covered with trees that have common features (e.g. size)"
+    },
+    {
+      "label": "9",
+      "text": "D"
+    },
+    {
+      "label": "10",
+      "text": "One such approach is called a Timber Stand Improvement (TSI) Cut. In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the highest-valued stems that remain. Removing invasive plants might be another primary goal of a TSI Cut. The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife; they have a better chance to regenerate in a less crowded environment. TSI Cuts can be tailored to one farmer’s specific management goals for his or her land."
+    },
+    {
+      "label": "11",
+      "text": "E"
+    },
+    {
+      "label": "12",
+      "text": "Another approach that might yield a high amount of low-use wood is a Salvage Cut. With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few, it is important to remember that those working in the forests can help ease these issues through cutting procedures. These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem. They leave vigorous trees that have stayed healthy enough to survive the outbreak."
+    },
+    {
+      "label": "13",
+      "text": "F"
+    },
+    {
+      "label": "14",
+      "text": "A Shelterwood Cut, which only takes place in a mature forest that has already been thinned several times, involves removing all the mature trees when other seedlings have become established. This then allows the forester to decide which tree species are regenerated. It leaves a young forest where all trees are at a similar point in their growth. It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more."
+    },
+    {
+      "label": "15",
+      "text": "G"
+    },
+    {
+      "label": "16",
+      "text": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood. However, it is important to remember that some retention of"
+    },
+    {
+      "label": "17",
+      "text": "what many would classify as low-use wood is very important. The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil. In addition, trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals. They help control problem insects and increase the health and resilience of the forest. It is also important to remember that not all small trees are low-use. For example, many species like hawthorn provide food for wildlife. Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–18\n\nReading Passage 2 has seven paragraphs, A–G.\n\nWhich paragraph contains the following information?\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "bad outcomes for a forest when people focus only on its financial reward",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8440_211039-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "reference to the aspects of any tree that contribute to its worth",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8440_211039-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "mention of the potential use of wood to help run vehicles",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8440_211039-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "examples of insects that attack trees",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8440_211039-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "an alternative name for trees that produce low-use wood",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8440_211039-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 19–21\n\nLook at the following purposes (Questions 19–21) and the list of timber cuts below.\n\nMatch each purpose with the correct timber cut, A, B or C.\n\nDrag the correct letter, A, B or C, next to questions 19–21.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "to remove trees that are diseased [19] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8440_198931",
+          "explanation": "19. 本题的解题难度着实不算高，无论是题干中的remove和diseased，还是原文中用来进行同义替换的reduce和sick，都是雅思阅读文章中的基础认知和高频单词。唯一的难点可能来自于，考生其实是从上一段开始对比题干和尝试作答的，但看完了整个D段都还不能将A项选给任何一道题目，难免容易令人心中不平。但是本题型又确实有NB的提示有言在先，所以这种状况倒也在情理之中。因此，在拿出足够的耐心和细心看到此处后，考生应当可以比较笃定地为本题选出最合适的选项：B。\n\n20. 其实，如果考生对自己的阅读理解能力和精细比对能力都有足够信心的话，在确认应该看的三个段落中D段不包含正确答案、E段只包含第19题答案之后，就已经可以猜到本题和下一题都来自F段，因此都应选C作为正确答案。当然，如果在考场上追求万无一失地获得高分，还是不妨继续阅读F段，进而在最后一句话里看到替换题干中income的money和替换题干中across a number of years的over a decade or more，殊途同归，选定答案应为：C。\n\n21. 本题与上一道题类似，考生既可以选择直接使用排除法省时省力，也可以小心驶得万年船地认真阅读原本篇幅也不长的F段，进而在看到原文中“所有树木都处在一个类似的生长阶段”时，确认这是在同义替换本题题干信息，进而得出答案：C。",
+          "promptHtml": "to remove trees that are diseased [19] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "to generate income across a number of years [20] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8440_711906",
+          "explanation": "19. 本题的解题难度着实不算高，无论是题干中的remove和diseased，还是原文中用来进行同义替换的reduce和sick，都是雅思阅读文章中的基础认知和高频单词。唯一的难点可能来自于，考生其实是从上一段开始对比题干和尝试作答的，但看完了整个D段都还不能将A项选给任何一道题目，难免容易令人心中不平。但是本题型又确实有NB的提示有言在先，所以这种状况倒也在情理之中。因此，在拿出足够的耐心和细心看到此处后，考生应当可以比较笃定地为本题选出最合适的选项：B。\n\n20. 其实，如果考生对自己的阅读理解能力和精细比对能力都有足够信心的话，在确认应该看的三个段落中D段不包含正确答案、E段只包含第19题答案之后，就已经可以猜到本题和下一题都来自F段，因此都应选C作为正确答案。当然，如果在考场上追求万无一失地获得高分，还是不妨继续阅读F段，进而在最后一句话里看到替换题干中income的money和替换题干中across a number of years的over a decade or more，殊途同归，选定答案应为：C。\n\n21. 本题与上一道题类似，考生既可以选择直接使用排除法省时省力，也可以小心驶得万年船地认真阅读原本篇幅也不长的F段，进而在看到原文中“所有树木都处在一个类似的生长阶段”时，确认这是在同义替换本题题干信息，进而得出答案：C。",
+          "promptHtml": "to generate income across a number of years [20] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "to create a forest whose trees are close in age [21] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8440_270346",
+          "explanation": "19. 本题的解题难度着实不算高，无论是题干中的remove和diseased，还是原文中用来进行同义替换的reduce和sick，都是雅思阅读文章中的基础认知和高频单词。唯一的难点可能来自于，考生其实是从上一段开始对比题干和尝试作答的，但看完了整个D段都还不能将A项选给任何一道题目，难免容易令人心中不平。但是本题型又确实有NB的提示有言在先，所以这种状况倒也在情理之中。因此，在拿出足够的耐心和细心看到此处后，考生应当可以比较笃定地为本题选出最合适的选项：B。\n\n20. 其实，如果考生对自己的阅读理解能力和精细比对能力都有足够信心的话，在确认应该看的三个段落中D段不包含正确答案、E段只包含第19题答案之后，就已经可以猜到本题和下一题都来自F段，因此都应选C作为正确答案。当然，如果在考场上追求万无一失地获得高分，还是不妨继续阅读F段，进而在最后一句话里看到替换题干中income的money和替换题干中across a number of years的over a decade or more，殊途同归，选定答案应为：C。\n\n21. 本题与上一道题类似，考生既可以选择直接使用排除法省时省力，也可以小心驶得万年船地认真阅读原本篇幅也不长的F段，进而在看到原文中“所有树木都处在一个类似的生长阶段”时，确认这是在同义替换本题题干信息，进而得出答案：C。",
+          "promptHtml": "to create a forest whose trees are close in age [21] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "a TSI Cut"
+        },
+        {
+          "value": "B",
+          "text": "a Salvage Cut"
+        },
+        {
+          "value": "C",
+          "text": "a Shelterwood Cut"
+        }
+      ],
+      "contextHtml": "<p>to remove trees that are diseased <strong>[19] ______</strong> <br>\nto generate income across a number of years <strong>[20] ______</strong> <br>\nto create a forest whose trees are close in age <strong>[21] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 22–26\n\nComplete the sentences below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Some dead wood is removed to avoid the possibility of [22] ______.",
+          "answers": [
+            "fire"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8440_759959",
+          "explanation": "22. 本题定位不难，归根结底不过是考查考生是否认识题干中的avoid和对应原文中的prevention。找到了这一组对应，也就找到了它们想要阻止或避让的对象，即答案：fire。\n\n23. 本题原本距离上一题的位置就不远，且题干中的tops还一模一样地出现在了定位句中。原文句所说的“营养物质循环回到土壤中去”所达成的效果正是题干所说的“提升土壤质量”，考生可以由此锁定答案：nutrients。\n\n24. 本题的情况与上一题相仿，首先紧邻上一题的出处，其次原文句中还一模一样地包含habitats这个题干信息。考生即使并不认识这个答案词本身，也应该能通过上下文语境分析得出结论和锁定答案：cavities。\n\n25. 本题的定位在这几道题目中算是相对波折一些的。考生可以利用原词重现的small这个信息定位到本段倒数第二句，但是这句本身却没有给出可以用作食物的某个具体树种名称，需要考生耐心读到下一句时，才能无论是否认识这种植物的名称都可以根据上下文判定它就是野外动物的一种食物来源，进而锁定答案：hawthorn。\n\n26. 解题到了这里，留给本题的对应原文就剩下最后一句了。无论是题干中的should be left，还是原文中的should also stay，都显然不会成为影响考生理解的障碍，可以轻松锁定答案：rare。",
+          "promptHtml": "Some dead wood is removed to avoid the possibility of [22] ______."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "The [23] ______ from the tops of cut trees can help improve soil quality.",
+          "answers": [
+            "nutrients"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8440_854324",
+          "explanation": "22. 本题定位不难，归根结底不过是考查考生是否认识题干中的avoid和对应原文中的prevention。找到了这一组对应，也就找到了它们想要阻止或避让的对象，即答案：fire。\n\n23. 本题原本距离上一题的位置就不远，且题干中的tops还一模一样地出现在了定位句中。原文句所说的“营养物质循环回到土壤中去”所达成的效果正是题干所说的“提升土壤质量”，考生可以由此锁定答案：nutrients。\n\n24. 本题的情况与上一题相仿，首先紧邻上一题的出处，其次原文句中还一模一样地包含habitats这个题干信息。考生即使并不认识这个答案词本身，也应该能通过上下文语境分析得出结论和锁定答案：cavities。\n\n25. 本题的定位在这几道题目中算是相对波折一些的。考生可以利用原词重现的small这个信息定位到本段倒数第二句，但是这句本身却没有给出可以用作食物的某个具体树种名称，需要考生耐心读到下一句时，才能无论是否认识这种植物的名称都可以根据上下文判定它就是野外动物的一种食物来源，进而锁定答案：hawthorn。\n\n26. 解题到了这里，留给本题的对应原文就剩下最后一句了。无论是题干中的should be left，还是原文中的should also stay，都显然不会成为影响考生理解的障碍，可以轻松锁定答案：rare。",
+          "promptHtml": "The [23] ______ from the tops of cut trees can help improve soil quality."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Some damaged trees should be left, as their [24] ______ provide habitats for a range of creatures.",
+          "answers": [
+            "cavities"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8440_200723",
+          "explanation": "22. 本题定位不难，归根结底不过是考查考生是否认识题干中的avoid和对应原文中的prevention。找到了这一组对应，也就找到了它们想要阻止或避让的对象，即答案：fire。\n\n23. 本题原本距离上一题的位置就不远，且题干中的tops还一模一样地出现在了定位句中。原文句所说的“营养物质循环回到土壤中去”所达成的效果正是题干所说的“提升土壤质量”，考生可以由此锁定答案：nutrients。\n\n24. 本题的情况与上一题相仿，首先紧邻上一题的出处，其次原文句中还一模一样地包含habitats这个题干信息。考生即使并不认识这个答案词本身，也应该能通过上下文语境分析得出结论和锁定答案：cavities。\n\n25. 本题的定位在这几道题目中算是相对波折一些的。考生可以利用原词重现的small这个信息定位到本段倒数第二句，但是这句本身却没有给出可以用作食物的某个具体树种名称，需要考生耐心读到下一句时，才能无论是否认识这种植物的名称都可以根据上下文判定它就是野外动物的一种食物来源，进而锁定答案：hawthorn。\n\n26. 解题到了这里，留给本题的对应原文就剩下最后一句了。无论是题干中的should be left，还是原文中的should also stay，都显然不会成为影响考生理解的障碍，可以轻松锁定答案：rare。",
+          "promptHtml": "Some damaged trees should be left, as their [24] ______ provide habitats for a range of creatures."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Some trees that are small, such as [25] ______ , are a source of food for animals and insects.",
+          "answers": [
+            "hawthorn"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8440_931675",
+          "explanation": "22. 本题定位不难，归根结底不过是考查考生是否认识题干中的avoid和对应原文中的prevention。找到了这一组对应，也就找到了它们想要阻止或避让的对象，即答案：fire。\n\n23. 本题原本距离上一题的位置就不远，且题干中的tops还一模一样地出现在了定位句中。原文句所说的“营养物质循环回到土壤中去”所达成的效果正是题干所说的“提升土壤质量”，考生可以由此锁定答案：nutrients。\n\n24. 本题的情况与上一题相仿，首先紧邻上一题的出处，其次原文句中还一模一样地包含habitats这个题干信息。考生即使并不认识这个答案词本身，也应该能通过上下文语境分析得出结论和锁定答案：cavities。\n\n25. 本题的定位在这几道题目中算是相对波折一些的。考生可以利用原词重现的small这个信息定位到本段倒数第二句，但是这句本身却没有给出可以用作食物的某个具体树种名称，需要考生耐心读到下一句时，才能无论是否认识这种植物的名称都可以根据上下文判定它就是野外动物的一种食物来源，进而锁定答案：hawthorn。\n\n26. 解题到了这里，留给本题的对应原文就剩下最后一句了。无论是题干中的should be left，还是原文中的should also stay，都显然不会成为影响考生理解的障碍，可以轻松锁定答案：rare。",
+          "promptHtml": "Some trees that are small, such as [25] ______ , are a source of food for animals and insects."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Any trees that are [26] ______ should be left to grow, as they add to the variety of species in the forest.",
+          "answers": [
+            "rare"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8440_757610",
+          "explanation": "22. 本题定位不难，归根结底不过是考查考生是否认识题干中的avoid和对应原文中的prevention。找到了这一组对应，也就找到了它们想要阻止或避让的对象，即答案：fire。\n\n23. 本题原本距离上一题的位置就不远，且题干中的tops还一模一样地出现在了定位句中。原文句所说的“营养物质循环回到土壤中去”所达成的效果正是题干所说的“提升土壤质量”，考生可以由此锁定答案：nutrients。\n\n24. 本题的情况与上一题相仿，首先紧邻上一题的出处，其次原文句中还一模一样地包含habitats这个题干信息。考生即使并不认识这个答案词本身，也应该能通过上下文语境分析得出结论和锁定答案：cavities。\n\n25. 本题的定位在这几道题目中算是相对波折一些的。考生可以利用原词重现的small这个信息定位到本段倒数第二句，但是这句本身却没有给出可以用作食物的某个具体树种名称，需要考生耐心读到下一句时，才能无论是否认识这种植物的名称都可以根据上下文判定它就是野外动物的一种食物来源，进而锁定答案：hawthorn。\n\n26. 解题到了这里，留给本题的对应原文就剩下最后一句了。无论是题干中的should be left，还是原文中的should also stay，都显然不会成为影响考生理解的障碍，可以轻松锁定答案：rare。",
+          "promptHtml": "Any trees that are [26] ______ should be left to grow, as they add to the variety of species in the forest."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span>Some dead wood is removed to avoid the possibility of </span><strong>[22] ______</strong><span>.<br>\nThe </span><strong>[23] ______</strong><span> from the tops of cut trees can help improve soil quality.<br>\nSome damaged trees should be left, as their </span><strong>[24] ______</strong><span> provide habitats for a range of creatures.<br>\nSome trees that are small, such as </span><strong>[25] ______</strong><span> , are a source of food for animals and insects.<br>\nAny trees that are </span><strong>[26] ______</strong><span> should be left to grow, as they add to the variety of species in the forest.</span></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><strong>Forest management in Pennsylvania, USA</strong></span><br><em>How managing low-quality wood (also known as low-use wood) for bioenergy can encourage sustainable forest management</em></span></p><p><br><span>A <br>A tree’s ‘value’ depends on several factors including its species, size, form, condition, quality, function, and accessibility, and depends on the management goals for a given forest. The same tree can be valued very differently by each person who looks at it. A large, straight black cherry tree has high value as timber to be cut into logs or made into furniture, but for a landowner more interested in wildlife habitat, the real value of that stem (or trunk) may be the food it provides to animals. Likewise, if the tree suffers from black knot disease, its value for timber decreases, but to a woodworker interested in making bowls, it brings an opportunity for a unique and beautiful piece of art.<br>B <br>In the past, Pennsylvania landowners were solely interested in the value of their trees as high-quality timber. The norm was to remove the stems of highest quality and leave behind poorly formed trees that were not as well suited to the site where they grew. This practice, called ‘high-grading’, has left a legacy of ‘low-use wood’ in the forests. Some people even call these ‘junk trees’, and they are abundant in Pennsylvania. These trees have lower economic value for traditional timber markets, compete for growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand* leaving it more vulnerable to poor weather and disease. Management that specifically targets low-use wood can help landowners manage these forest health issues, and wood energy markets help promote this.<br>C <br>Wood energy markets can accept less expensive wood material of lower quality than would be suitable for traditional timber markets. Most wood used for energy in Pennsylvania is used to produce heat or electricity through combustion. Many schools and hospitals use wood boiler systems to heat and power their facilities, many homes are primarily heated with wood, and some coal plants incorporate wood into their coal streams to produce electricity. Wood can also be gasified for electrical generation and can even be made into liquid fuels like ethanol and gasoline for lorries and cars. All these products are made primarily from low-use wood. Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly or solely on the use of wood for those markets.* Stand – An area covered with trees that have common features (e.g. size)<br>D <br>One such approach is called a Timber Stand Improvement (TSI) Cut. In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the highest-valued stems that remain. Removing invasive plants might be another primary goal of a TSI Cut. The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife; they have a better chance to regenerate in a less crowded environment. TSI Cuts can be tailored to one farmer’s specific management goals for his or her land.<br>E <br>Another approach that might yield a high amount of low-use wood is a Salvage Cut. With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few, it is important to remember that those working in the forests can help ease these issues through cutting procedures. These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem. They leave vigorous trees that have stayed healthy enough to survive the outbreak.<br>F <br>A Shelterwood Cut, which only takes place in a mature forest that has already been thinned several times, involves removing all the mature trees when other seedlings have become established. This then allows the forester to decide which tree species are regenerated. It leaves a young forest where all trees are at a similar point in their growth. It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more.<br>G <br>Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood. However, it is important to remember that some retention of<br>what many would classify as low-use wood is very important. The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil. In addition, trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals. They help control problem insects and increase the health and resilience of the forest. It is also important to remember that not all small trees are low-use. For example, many species like hawthorn provide food for wildlife. Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity.</span></p>"
+}

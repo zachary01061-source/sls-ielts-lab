@@ -1,0 +1,1095 @@
+{
+  "records": [
+    {
+      "paperId": "902ee05c-f5af-400e-9b11-ebfadc7d3d78",
+      "title": "Forensic linguistics",
+      "part": 3,
+      "questionId": 5,
+      "sourceQuestionId": "519b3cb5-8a61-4ff9-9ca8-6b8da2a9d567",
+      "sourceNumber": "25-26",
+      "sourceSlotNumber": "25",
+      "type": "multi",
+      "answers": [
+        "A",
+        "E"
+      ],
+      "rawAnswer": "Voice Identification,Research Methods in Forensic Linguistics",
+      "integrityWarning": "参考答案与听力原文不一致，此题暂不计分。",
+      "reasonCodes": [
+        "source_key_evidence_conflict"
+      ]
+    },
+    {
+      "paperId": "902ee05c-f5af-400e-9b11-ebfadc7d3d78",
+      "title": "Forensic linguistics",
+      "part": 3,
+      "questionId": 6,
+      "sourceQuestionId": "519b3cb5-8a61-4ff9-9ca8-6b8da2a9d567",
+      "sourceNumber": "25-26",
+      "sourceSlotNumber": "26",
+      "type": "multi",
+      "answers": [
+        "A",
+        "E"
+      ],
+      "rawAnswer": "Voice Identification,Research Methods in Forensic Linguistics",
+      "integrityWarning": "参考答案与听力原文不一致，此题暂不计分。",
+      "reasonCodes": [
+        "source_key_evidence_conflict"
+      ]
+    },
+    {
+      "paperId": "c8537f14-dbcf-4b67-a248-84bcb62235f0",
+      "title": "The history of time measurement",
+      "part": 4,
+      "questionId": 10,
+      "sourceQuestionId": "017d24c6-07a4-4b4a-a08c-b24ab7cbac2d",
+      "sourceNumber": "40",
+      "sourceSlotNumber": "40",
+      "type": "text",
+      "answers": [],
+      "rawAnswer": "speed",
+      "integrityWarning": "同一道题的参考答案不一致，此题暂不计分。",
+      "reasonCodes": [
+        "overlapping_source_answer_conflict"
+      ]
+    },
+    {
+      "paperId": "b4831c1d-fb06-4883-a3d1-e6dd614cdad3",
+      "title": "New Job in pharmacy",
+      "part": 1,
+      "questionId": 4,
+      "sourceQuestionId": "da88d50d-38c4-4abf-ab53-69db2eecbc0c",
+      "sourceNumber": "4",
+      "sourceSlotNumber": "4",
+      "type": "text",
+      "answers": [
+        "January 22nd"
+      ],
+      "rawAnswer": "January 22nd",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "eca56aef-65d6-47fb-b76a-54f2d9e1561d",
+      "title": "Bridge to Brisbane fun run",
+      "part": 2,
+      "questionId": 5,
+      "sourceQuestionId": "8f07eeb2-1099-44cd-aaed-05d5857076e4",
+      "sourceNumber": "15",
+      "sourceSlotNumber": "15",
+      "type": "matching",
+      "answers": [
+        "A"
+      ],
+      "rawAnswer": "A",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "eca56aef-65d6-47fb-b76a-54f2d9e1561d",
+      "title": "Bridge to Brisbane fun run",
+      "part": 2,
+      "questionId": 6,
+      "sourceQuestionId": "097e3b6f-a0da-43b2-b383-1075dfe5a3a6",
+      "sourceNumber": "16",
+      "sourceSlotNumber": "16",
+      "type": "matching",
+      "answers": [
+        "H"
+      ],
+      "rawAnswer": "H",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "eca56aef-65d6-47fb-b76a-54f2d9e1561d",
+      "title": "Bridge to Brisbane fun run",
+      "part": 2,
+      "questionId": 7,
+      "sourceQuestionId": "01d63baf-fe4b-4f35-a4d2-d697a91644a6",
+      "sourceNumber": "17",
+      "sourceSlotNumber": "17",
+      "type": "matching",
+      "answers": [
+        "E"
+      ],
+      "rawAnswer": "E",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "eca56aef-65d6-47fb-b76a-54f2d9e1561d",
+      "title": "Bridge to Brisbane fun run",
+      "part": 2,
+      "questionId": 8,
+      "sourceQuestionId": "18435b5d-15d1-4a65-b03f-0e46e22ac379",
+      "sourceNumber": "18",
+      "sourceSlotNumber": "18",
+      "type": "matching",
+      "answers": [
+        "C"
+      ],
+      "rawAnswer": "C",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "eca56aef-65d6-47fb-b76a-54f2d9e1561d",
+      "title": "Bridge to Brisbane fun run",
+      "part": 2,
+      "questionId": 9,
+      "sourceQuestionId": "21d5a59e-3df6-452b-a636-ba04d3a78b27",
+      "sourceNumber": "19",
+      "sourceSlotNumber": "19",
+      "type": "matching",
+      "answers": [
+        "I"
+      ],
+      "rawAnswer": "I",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "eca56aef-65d6-47fb-b76a-54f2d9e1561d",
+      "title": "Bridge to Brisbane fun run",
+      "part": 2,
+      "questionId": 10,
+      "sourceQuestionId": "7562f2ee-1a45-43d6-8c12-ce43fad3f9d2",
+      "sourceNumber": "20",
+      "sourceSlotNumber": "20",
+      "type": "matching",
+      "answers": [
+        "I"
+      ],
+      "rawAnswer": "I",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "1a26625e-f028-42a2-b476-06498fe61059",
+      "title": "The history of sneakers",
+      "part": 4,
+      "questionId": 8,
+      "sourceQuestionId": "9303f879-4078-4685-b8b7-f0b4e17beee6",
+      "sourceNumber": "38-40",
+      "sourceSlotNumber": "38",
+      "type": "text",
+      "answers": [
+        "暂无"
+      ],
+      "rawAnswer": "暂无",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "fill_answer_slot_mismatch",
+        "missing_answer_placeholder",
+        "missing_answer_slot"
+      ]
+    },
+    {
+      "paperId": "1a26625e-f028-42a2-b476-06498fe61059",
+      "title": "The history of sneakers",
+      "part": 4,
+      "questionId": 9,
+      "sourceQuestionId": "9303f879-4078-4685-b8b7-f0b4e17beee6",
+      "sourceNumber": "38-40",
+      "sourceSlotNumber": "39",
+      "type": "text",
+      "answers": [],
+      "rawAnswer": "暂无",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "fill_answer_slot_mismatch",
+        "missing_answer_placeholder",
+        "missing_answer_slot"
+      ]
+    },
+    {
+      "paperId": "1a26625e-f028-42a2-b476-06498fe61059",
+      "title": "The history of sneakers",
+      "part": 4,
+      "questionId": 10,
+      "sourceQuestionId": "9303f879-4078-4685-b8b7-f0b4e17beee6",
+      "sourceNumber": "38-40",
+      "sourceSlotNumber": "40",
+      "type": "text",
+      "answers": [],
+      "rawAnswer": "暂无",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "fill_answer_slot_mismatch",
+        "missing_answer_placeholder",
+        "missing_answer_slot"
+      ]
+    },
+    {
+      "paperId": "bcf3d561-1be6-48f6-b578-a2e91da8066e",
+      "title": "Job hunting",
+      "part": 1,
+      "questionId": 2,
+      "sourceQuestionId": "4b5f5a60-6c0d-479b-8a7b-71026394ffc3",
+      "sourceNumber": "2",
+      "sourceSlotNumber": "2",
+      "type": "text",
+      "answers": [],
+      "rawAnswer": "Hitcher",
+      "integrityWarning": "同一道题的参考答案不一致，此题暂不计分。",
+      "reasonCodes": [
+        "overlapping_source_answer_conflict"
+      ]
+    },
+    {
+      "paperId": "130da205-04fb-4a67-9809-f167a3cc2d97",
+      "title": "Barton museum",
+      "part": 2,
+      "questionId": 8,
+      "sourceQuestionId": "66c242cc-906b-43de-ad8e-cd13bc57545d",
+      "sourceNumber": "18",
+      "sourceSlotNumber": "18",
+      "type": "matching",
+      "answers": [
+        "B"
+      ],
+      "rawAnswer": "B",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "130da205-04fb-4a67-9809-f167a3cc2d97",
+      "title": "Barton museum",
+      "part": 2,
+      "questionId": 9,
+      "sourceQuestionId": "ac7f1780-7a81-4696-984d-fb676c0c0d2c",
+      "sourceNumber": "19",
+      "sourceSlotNumber": "19",
+      "type": "matching",
+      "answers": [
+        "A"
+      ],
+      "rawAnswer": "A",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "130da205-04fb-4a67-9809-f167a3cc2d97",
+      "title": "Barton museum",
+      "part": 2,
+      "questionId": 10,
+      "sourceQuestionId": "5a3687cf-9623-4460-be68-16ffb16d4a6f",
+      "sourceNumber": "20",
+      "sourceSlotNumber": "20",
+      "type": "matching",
+      "answers": [
+        "D"
+      ],
+      "rawAnswer": "D",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "7c69281b-0fe6-48da-ad97-9f52536894ea",
+      "title": "Details of north residency questionnaire",
+      "part": 1,
+      "questionId": 6,
+      "sourceQuestionId": "9cbb68b4-a1d3-4e29-ab04-f8e8d752790d",
+      "sourceNumber": "6",
+      "sourceSlotNumber": "6",
+      "type": "text",
+      "answers": [
+        "once a month"
+      ],
+      "rawAnswer": "once a month",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "ab6f45ab-3982-4532-b80f-618f5ddd22c9",
+      "title": "Healthy hearing medical clinic & surgery",
+      "part": 2,
+      "questionId": 6,
+      "sourceQuestionId": "5fbc68f3-8c90-4c39-898b-b3d85bd2a564",
+      "sourceNumber": "16",
+      "sourceSlotNumber": "16",
+      "type": "matching",
+      "answers": [
+        "F"
+      ],
+      "rawAnswer": "F",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "ab6f45ab-3982-4532-b80f-618f5ddd22c9",
+      "title": "Healthy hearing medical clinic & surgery",
+      "part": 2,
+      "questionId": 7,
+      "sourceQuestionId": "135b2de9-7617-41bc-886e-e43cc4b000c9",
+      "sourceNumber": "17",
+      "sourceSlotNumber": "17",
+      "type": "matching",
+      "answers": [
+        "H"
+      ],
+      "rawAnswer": "H",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "ab6f45ab-3982-4532-b80f-618f5ddd22c9",
+      "title": "Healthy hearing medical clinic & surgery",
+      "part": 2,
+      "questionId": 8,
+      "sourceQuestionId": "f1c08d6c-73d9-450f-9164-68a1ccd77bb6",
+      "sourceNumber": "18",
+      "sourceSlotNumber": "18",
+      "type": "matching",
+      "answers": [
+        "B"
+      ],
+      "rawAnswer": "B",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "ab6f45ab-3982-4532-b80f-618f5ddd22c9",
+      "title": "Healthy hearing medical clinic & surgery",
+      "part": 2,
+      "questionId": 9,
+      "sourceQuestionId": "45af1e53-4a99-4e62-b011-860916c85df0",
+      "sourceNumber": "19",
+      "sourceSlotNumber": "19",
+      "type": "matching",
+      "answers": [
+        "D"
+      ],
+      "rawAnswer": "D",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "ab6f45ab-3982-4532-b80f-618f5ddd22c9",
+      "title": "Healthy hearing medical clinic & surgery",
+      "part": 2,
+      "questionId": 10,
+      "sourceQuestionId": "ffcdba7d-313b-495a-880b-f62bcdf6e799",
+      "sourceNumber": "20",
+      "sourceSlotNumber": "20",
+      "type": "matching",
+      "answers": [
+        "C"
+      ],
+      "rawAnswer": "C",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "d089d4ee-a9f6-4fd3-aacf-296d43d74602",
+      "title": "Morgan recruitment agency",
+      "part": 1,
+      "questionId": 4,
+      "sourceQuestionId": "90959ca6-aa25-46b4-8334-6ce0cb437408",
+      "sourceNumber": "4",
+      "sourceSlotNumber": "4",
+      "type": "text",
+      "answers": [
+        "28th August"
+      ],
+      "rawAnswer": "28th August",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "cb85b955-9670-4397-b6be-f87201c5382e",
+      "title": "Cranworth photographic society",
+      "part": 2,
+      "questionId": 5,
+      "sourceQuestionId": "fdb9478d-8b3d-4f9f-a3d6-da775a38bf43",
+      "sourceNumber": "15",
+      "sourceSlotNumber": "15",
+      "type": "text",
+      "answers": [],
+      "rawAnswer": "historical maps",
+      "integrityWarning": "同一道题的参考答案不一致，此题暂不计分。",
+      "reasonCodes": [
+        "overlapping_source_answer_conflict"
+      ]
+    },
+    {
+      "paperId": "67645a43-b07a-4152-b3d0-63e20a7139a8",
+      "title": "Suburbs",
+      "part": 4,
+      "questionId": 1,
+      "sourceQuestionId": "e19020fc-dc90-455a-97c9-a30865efc68f",
+      "sourceNumber": "31",
+      "sourceSlotNumber": "31",
+      "type": "text",
+      "answers": [
+        "wealthy residents"
+      ],
+      "rawAnswer": "wealthy residents",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "9112463f-ed8c-43b1-9861-0a8eeffa562c",
+      "title": "Birmingham automobile exhibition",
+      "part": 1,
+      "questionId": 3,
+      "sourceQuestionId": "9668c195-fa8b-4fb3-a06b-485ada25a862",
+      "sourceNumber": "3",
+      "sourceSlotNumber": "3",
+      "type": "text",
+      "answers": [
+        "test driving"
+      ],
+      "rawAnswer": "test driving",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "9112463f-ed8c-43b1-9861-0a8eeffa562c",
+      "title": "Birmingham automobile exhibition",
+      "part": 1,
+      "questionId": 8,
+      "sourceQuestionId": "eca74ec9-356a-428b-b447-bdedc28ef45c",
+      "sourceNumber": "8",
+      "sourceSlotNumber": "8",
+      "type": "text",
+      "answers": [
+        "city centre"
+      ],
+      "rawAnswer": "city centre",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "7c11f74f-75ec-4aaf-bbde-652fb42a1d84",
+      "title": "Student Part-time job",
+      "part": 1,
+      "questionId": 3,
+      "sourceQuestionId": "22dfd89b-dd88-4278-a4a8-251e35894363",
+      "sourceNumber": "3",
+      "sourceSlotNumber": "3",
+      "type": "text",
+      "answers": [],
+      "rawAnswer": "night",
+      "integrityWarning": "同一道题的参考答案不一致，此题暂不计分。",
+      "reasonCodes": [
+        "overlapping_source_answer_conflict"
+      ]
+    },
+    {
+      "paperId": "77046430-a7bb-4308-b993-d602cff4bfe3",
+      "title": "Hobson park",
+      "part": 2,
+      "questionId": 7,
+      "sourceQuestionId": "0133da03-0aa9-4414-a1d7-ff544dc88dde",
+      "sourceNumber": "17",
+      "sourceSlotNumber": "17",
+      "type": "matching",
+      "answers": [
+        "E"
+      ],
+      "rawAnswer": "E",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "77046430-a7bb-4308-b993-d602cff4bfe3",
+      "title": "Hobson park",
+      "part": 2,
+      "questionId": 8,
+      "sourceQuestionId": "fa8c44fe-9d0a-4493-bb8e-ab24d7ad6812",
+      "sourceNumber": "18",
+      "sourceSlotNumber": "18",
+      "type": "matching",
+      "answers": [
+        "B"
+      ],
+      "rawAnswer": "B",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "77046430-a7bb-4308-b993-d602cff4bfe3",
+      "title": "Hobson park",
+      "part": 2,
+      "questionId": 9,
+      "sourceQuestionId": "2fe0e19c-37f6-47c6-90cf-2ee1f92b3e55",
+      "sourceNumber": "19",
+      "sourceSlotNumber": "19",
+      "type": "matching",
+      "answers": [
+        "G"
+      ],
+      "rawAnswer": "G",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "77046430-a7bb-4308-b993-d602cff4bfe3",
+      "title": "Hobson park",
+      "part": 2,
+      "questionId": 10,
+      "sourceQuestionId": "8f77ab79-1502-4dcc-9b46-0dd0a41ac473",
+      "sourceNumber": "20",
+      "sourceSlotNumber": "20",
+      "type": "matching",
+      "answers": [
+        "D"
+      ],
+      "rawAnswer": "D",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "23676478-bd8f-4a45-a5a0-568580af58f6",
+      "title": "Accommodation and features",
+      "part": 2,
+      "questionId": 5,
+      "sourceQuestionId": "e2854132-a200-4736-a4ff-e0c2c20ac1a7",
+      "sourceNumber": "15",
+      "sourceSlotNumber": "15",
+      "type": "matching",
+      "answers": [
+        "E"
+      ],
+      "rawAnswer": "E",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "23676478-bd8f-4a45-a5a0-568580af58f6",
+      "title": "Accommodation and features",
+      "part": 2,
+      "questionId": 6,
+      "sourceQuestionId": "2173addc-6e55-4e4d-a1c5-2c3d044682ef",
+      "sourceNumber": "16",
+      "sourceSlotNumber": "16",
+      "type": "matching",
+      "answers": [
+        "I"
+      ],
+      "rawAnswer": "I",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "23676478-bd8f-4a45-a5a0-568580af58f6",
+      "title": "Accommodation and features",
+      "part": 2,
+      "questionId": 7,
+      "sourceQuestionId": "cabba323-d7a4-4c65-a69a-a0da794ee799",
+      "sourceNumber": "17",
+      "sourceSlotNumber": "17",
+      "type": "matching",
+      "answers": [
+        "J"
+      ],
+      "rawAnswer": "J",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "23676478-bd8f-4a45-a5a0-568580af58f6",
+      "title": "Accommodation and features",
+      "part": 2,
+      "questionId": 8,
+      "sourceQuestionId": "65a2bcda-2ce2-4133-8b39-01c4b740e7d9",
+      "sourceNumber": "18",
+      "sourceSlotNumber": "18",
+      "type": "matching",
+      "answers": [
+        "A"
+      ],
+      "rawAnswer": "A",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "23676478-bd8f-4a45-a5a0-568580af58f6",
+      "title": "Accommodation and features",
+      "part": 2,
+      "questionId": 9,
+      "sourceQuestionId": "d2e9c127-687e-411c-bb07-7cb51f01efdf",
+      "sourceNumber": "19",
+      "sourceSlotNumber": "19",
+      "type": "matching",
+      "answers": [
+        "C"
+      ],
+      "rawAnswer": "C",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "23676478-bd8f-4a45-a5a0-568580af58f6",
+      "title": "Accommodation and features",
+      "part": 2,
+      "questionId": 10,
+      "sourceQuestionId": "9a6c6a94-ad44-4876-ac9e-fe6c09dd056c",
+      "sourceNumber": "20",
+      "sourceSlotNumber": "20",
+      "type": "matching",
+      "answers": [
+        "G"
+      ],
+      "rawAnswer": "G",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "5a9d6d95-59cf-490c-a0c8-1f372029d55e",
+      "title": "Cross country running event",
+      "part": 2,
+      "questionId": 6,
+      "sourceQuestionId": "218dcc4f-be99-4f1d-899d-441af8d41c06",
+      "sourceNumber": "16",
+      "sourceSlotNumber": "16",
+      "type": "matching",
+      "answers": [],
+      "rawAnswer": "G",
+      "integrityWarning": "原站同题存在相互冲突的答案（G / H），暂不计分。",
+      "reasonCodes": [
+        "conflicting_source_answer_keys"
+      ]
+    },
+    {
+      "paperId": "4975f9ba-60cb-4c78-a46d-c4b83656e8d6",
+      "title": "Creton running sports club",
+      "part": 2,
+      "questionId": 3,
+      "sourceQuestionId": "91ddc6d5-c4cf-43f8-adda-6b46fc2eb651",
+      "sourceNumber": "13",
+      "sourceSlotNumber": "13",
+      "type": "text",
+      "answers": [
+        "sports equipment"
+      ],
+      "rawAnswer": "sports equipment",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "4975f9ba-60cb-4c78-a46d-c4b83656e8d6",
+      "title": "Creton running sports club",
+      "part": 2,
+      "questionId": 5,
+      "sourceQuestionId": "07383f23-15c8-4775-8810-cc1d44c691f0",
+      "sourceNumber": "15",
+      "sourceSlotNumber": "15",
+      "type": "text",
+      "answers": [
+        "town hall"
+      ],
+      "rawAnswer": "town hall",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "f5a6d28b-910c-4bde-8d98-7f095c21f3ce",
+      "title": "Durham country car show",
+      "part": 2,
+      "questionId": 6,
+      "sourceQuestionId": "32d19b6e-8874-4c6e-a860-e8468e2e0db7",
+      "sourceNumber": "16",
+      "sourceSlotNumber": "16",
+      "type": "text",
+      "answers": [
+        "racing car show"
+      ],
+      "rawAnswer": "racing car show",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "749ce0f7-51e5-40ff-9b68-fa75ff8396ab",
+      "title": "Parrot Bay travel agency survey",
+      "part": 1,
+      "questionId": 3,
+      "sourceQuestionId": "474c3c00-8142-4966-9a49-8e68738992f1",
+      "sourceNumber": "3",
+      "sourceSlotNumber": "3",
+      "type": "text",
+      "answers": [
+        "town hall"
+      ],
+      "rawAnswer": "town hall",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "749ce0f7-51e5-40ff-9b68-fa75ff8396ab",
+      "title": "Parrot Bay travel agency survey",
+      "part": 1,
+      "questionId": 6,
+      "sourceQuestionId": "4fe6b6cd-4f2e-441e-97b1-90f551230774",
+      "sourceNumber": "6",
+      "sourceSlotNumber": "6",
+      "type": "text",
+      "answers": [
+        "over 40"
+      ],
+      "rawAnswer": "over 40",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "3625df4e-5685-40d5-929d-8f15a133a8e3",
+      "title": "Enquiry on a power company",
+      "part": 1,
+      "questionId": 8,
+      "sourceQuestionId": "45eb427d-d93a-4921-9676-5861ef37eb70",
+      "sourceNumber": "8",
+      "sourceSlotNumber": "8",
+      "type": "text",
+      "answers": [
+        "central heating servicing"
+      ],
+      "rawAnswer": "central heating servicing",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "baabfd11-02d8-4443-be7c-a302aadf3241",
+      "title": "Moving office",
+      "part": 2,
+      "questionId": 7,
+      "sourceQuestionId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+      "sourceNumber": "17-18",
+      "sourceSlotNumber": "17",
+      "type": "multi",
+      "answers": [
+        "A"
+      ],
+      "rawAnswer": "keep your head up",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "multi_answer_unresolved"
+      ]
+    },
+    {
+      "paperId": "baabfd11-02d8-4443-be7c-a302aadf3241",
+      "title": "Moving office",
+      "part": 2,
+      "questionId": 8,
+      "sourceQuestionId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+      "sourceNumber": "17-18",
+      "sourceSlotNumber": "18",
+      "type": "multi",
+      "answers": [
+        "A"
+      ],
+      "rawAnswer": "keep your head up",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "multi_answer_unresolved"
+      ]
+    },
+    {
+      "paperId": "61dda84e-1472-440c-bcac-a077db09dd0a",
+      "title": "Rock festival site",
+      "part": 2,
+      "questionId": 1,
+      "sourceQuestionId": "f5aff2ba-f09d-45ab-a2a1-e012475f4f42",
+      "sourceNumber": "11",
+      "sourceSlotNumber": "11",
+      "type": "matching",
+      "answers": [
+        "D"
+      ],
+      "rawAnswer": "craft fair",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "61dda84e-1472-440c-bcac-a077db09dd0a",
+      "title": "Rock festival site",
+      "part": 2,
+      "questionId": 2,
+      "sourceQuestionId": "0628f5d4-c3a8-4826-8d44-49e93febfb25",
+      "sourceNumber": "12",
+      "sourceSlotNumber": "12",
+      "type": "matching",
+      "answers": [],
+      "rawAnswer": "fringe stage",
+      "integrityWarning": "原站同题存在相互冲突的答案（fringe stage / restaurant），暂不计分。",
+      "reasonCodes": [
+        "conflicting_source_answer_keys",
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "61dda84e-1472-440c-bcac-a077db09dd0a",
+      "title": "Rock festival site",
+      "part": 2,
+      "questionId": 3,
+      "sourceQuestionId": "9f221e79-24a0-4d77-bfaa-7ae2d735bd6b",
+      "sourceNumber": "14",
+      "sourceSlotNumber": "14",
+      "type": "matching",
+      "answers": [
+        "B"
+      ],
+      "rawAnswer": "band entrance",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "61dda84e-1472-440c-bcac-a077db09dd0a",
+      "title": "Rock festival site",
+      "part": 2,
+      "questionId": 4,
+      "sourceQuestionId": "0a25bf07-8f81-47de-84da-25697ad03d5d",
+      "sourceNumber": "15",
+      "sourceSlotNumber": "15",
+      "type": "matching",
+      "answers": [
+        "E"
+      ],
+      "rawAnswer": "exhibitions` entrance",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "61dda84e-1472-440c-bcac-a077db09dd0a",
+      "title": "Rock festival site",
+      "part": 2,
+      "questionId": 5,
+      "sourceQuestionId": "0e24f092-044f-4a20-b4e4-8e2e57241162",
+      "sourceNumber": "16",
+      "sourceSlotNumber": "16",
+      "type": "matching",
+      "answers": [
+        "A"
+      ],
+      "rawAnswer": "art exhibition",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "61dda84e-1472-440c-bcac-a077db09dd0a",
+      "title": "Rock festival site",
+      "part": 2,
+      "questionId": 6,
+      "sourceQuestionId": "af4c1c52-65f7-48ab-8ade-514d6f9d7823",
+      "sourceNumber": "17",
+      "sourceSlotNumber": "17",
+      "type": "matching",
+      "answers": [
+        "G"
+      ],
+      "rawAnswer": "lock-up garages",
+      "integrityWarning": "原站图示无法读取，该题暂不计分。",
+      "reasonCodes": [
+        "required_image_unavailable"
+      ]
+    },
+    {
+      "paperId": "8952fee9-b496-4e6d-a523-1395ed593486",
+      "title": "Animal sense",
+      "part": 4,
+      "questionId": 1,
+      "sourceQuestionId": "a1d041b8-13d2-48ed-a636-0baf7d0642e8",
+      "sourceNumber": "31",
+      "sourceSlotNumber": "31",
+      "type": "text",
+      "answers": [
+        "carbon dioxide"
+      ],
+      "rawAnswer": "carbon dioxide",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "8952fee9-b496-4e6d-a523-1395ed593486",
+      "title": "Animal sense",
+      "part": 4,
+      "questionId": 8,
+      "sourceQuestionId": "d798f429-0b60-474c-8ab2-b38803d38879",
+      "sourceNumber": "38",
+      "sourceSlotNumber": "38",
+      "type": "text",
+      "answers": [
+        "body shape"
+      ],
+      "rawAnswer": "body shape",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "9a09c403-895f-4d8d-b6a7-e726ca0e6abe",
+      "title": "Stone age man in Japan",
+      "part": 4,
+      "questionId": 2,
+      "sourceQuestionId": "02eafc13-f56e-4d70-afe1-e7cb87f81cfd",
+      "sourceNumber": "32",
+      "sourceSlotNumber": "32",
+      "type": "text",
+      "answers": [
+        "land bridge"
+      ],
+      "rawAnswer": "land bridge",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "d769f3cd-7a47-44c1-9f0d-8a7725c844a1",
+      "title": "Textiles with business studies",
+      "part": 4,
+      "questionId": 3,
+      "sourceQuestionId": "f08ea573-8a1e-438e-a89c-9db89f5e319b",
+      "sourceNumber": "33",
+      "sourceSlotNumber": "33",
+      "type": "text",
+      "answers": [
+        "global market"
+      ],
+      "rawAnswer": "global market",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "d769f3cd-7a47-44c1-9f0d-8a7725c844a1",
+      "title": "Textiles with business studies",
+      "part": 4,
+      "questionId": 8,
+      "sourceQuestionId": "5e1becf2-a3de-4225-a670-31a6c0a6fd67",
+      "sourceNumber": "38",
+      "sourceSlotNumber": "38",
+      "type": "text",
+      "answers": [
+        "business plan"
+      ],
+      "rawAnswer": "business plan",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "9c0169d8-6bb2-4604-abf7-8e1661734ae4",
+      "title": "Giving a quality speech",
+      "part": 4,
+      "questionId": 6,
+      "sourceQuestionId": "97f1eb71-81bb-4db4-bd4e-52b60f0743a1",
+      "sourceNumber": "36",
+      "sourceSlotNumber": "36",
+      "type": "text",
+      "answers": [
+        "sheet of paper"
+      ],
+      "rawAnswer": "sheet of paper",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    },
+    {
+      "paperId": "9c0169d8-6bb2-4604-abf7-8e1661734ae4",
+      "title": "Giving a quality speech",
+      "part": 4,
+      "questionId": 8,
+      "sourceQuestionId": "1329247d-bb76-492c-948b-9a7ea74fc8c7",
+      "sourceNumber": "38",
+      "sourceSlotNumber": "38",
+      "type": "text",
+      "answers": [
+        "one or two"
+      ],
+      "rawAnswer": "one or two",
+      "integrityWarning": null,
+      "reasonCodes": [
+        "key_exceeds_word_limit"
+      ]
+    }
+  ]
+}

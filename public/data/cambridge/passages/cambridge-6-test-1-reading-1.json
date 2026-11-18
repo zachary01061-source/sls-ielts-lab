@@ -1,0 +1,282 @@
+{
+  "id": "cambridge-6-test-1-reading-1",
+  "title": "AUSTRALIA'S SPORTING SUCCESS",
+  "titleCn": "AUSTRALIA'S SPORTING SUCCESS",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 6,
+    "test": 1
+  },
+  "sourceQuestionId": "7066",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7066",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "AUSTRALIA'S SPORTING SUCCESS"
+    },
+    {
+      "label": "2",
+      "text": "A They play hard, they play often, and they play to win. Australian sports teams win more than their fair share of titles, demolishing rivals with seeming ease. How do they do it? A big part of the secret is an extensive and expensive network of sporting academies underpinned by science and medicine. At the Australian Institute of Sport (AIS), hundreds of youngsters and pros live and train under the eyes of coaches. Another body, the Australian Sports Commission (ASC), finances programmes of excellence in a total of 96 sports for thousands of sportsmen and women. Both provide intensive coaching, training facilities and nutritional advice."
+    },
+    {
+      "label": "3",
+      "text": "B Inside the academies, science takes centre stage. The AIS employs more than 100 sports scientists and doctors, and collaborates with scores of others in universities and research centres. AIS scientists work across a number of sports, applying skills learned in one - such as building muscle strength in golfers - to others, such as swimming and squash. They are backed up by technicians who design instruments to collect data from athletes. They all focus on one aim: winning. 'We can't waste our time looking at ethereal scientific questions that don't help the coach work with an athlete and improve performance,' says Peter Fricker, chief of science at AIS."
+    },
+    {
+      "label": "4",
+      "text": "C A lot of their work comes down to measurement - everything from the exact angle of a swimmer's dive to the second-by-second power output of a cyclist. This data is used to wring improvements out of athletes. The focus is on individuals, tweaking performances to squeeze an extra hundredth of a second here, an extra millimetre there. No gain is too slight to bother with. It's the tiny, gradual improvements that add up to world-beating results. To demonstrate how the system works, Bruce Mason at AIS shows off the prototype of a 3D analysis tool for studying swimmers. A wire-frame model of a champion swimmer slices through the water, her arms moving in slow motion. Looking side-on, Mason measures the distance between strokes. From above, he analyses how her spine swivels. When fully developed, this system will enable him to build a biomechanical profile for coaches to use to help budding swimmers. Mason's contribution to sport also includes the development of the SWAN (SWimming ANalysis)system now used in Australian national competitions. It collects images from digital cameras running at 50 frames a second and breaks down each part of a swimmer's performance into factors that can be analysed individually - stroke length, stroke frequency, average duration of each stroke, velocity, start, lap and finish times, and so on. At the end of each race, SWAN spits out data on each swimmer"
+    },
+    {
+      "label": "5",
+      "text": "D 'Take a look,' says Mason, pulling out a sheet of data. He points out the data on the swimmers in second and third place, which shows that the one who finished third actually swam faster. So why did he finish 35 hundredths of a second down? 'His turn times were 44 hundredths of a second behind the other guy,' says Mason. 'If he can improve on his turns, he can do much better' This is the kind of accuracy that AIS scientists' research is bringing to a range of sports."
+    },
+    {
+      "label": "6",
+      "text": "With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete's clothes or running shoes to monitor heart rate, sweating, heat production or any other factor that might have an impact on an athlete's ability to run. There's more to it than simply measuring performance. Fricker gives the example of athletes who may be down with coughs and colds 11 or 12 times a year. After years of experimentation, AlS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A is present in athletes' saliva. If IgA levels suddenly fall below a certain level, training is eased or dropped altogether. Soon, IgA levels start rising again, and the danger passes. Since the tests were introduced, AIS athletes in all sports have been remarkably successful at staying healthy."
+    },
+    {
+      "label": "7",
+      "text": "E Using data is a complex business. Well before a championship, sports scientists and coaches start to prepare the athlete by developing a 'competition model', based on what they expect will be the winning times. 'You design the model to make that time,' says Mason. 'A start of this much, each free-swimming period has to be this fast, with a certain stroke frequency and stroke length, with turns done in these times.' All the training is then geared towards making the athlete hit those targets, both overall and for each segment of the race. Techniques like these have transformed Australia into arguably the world's most successful sporting nation."
+    },
+    {
+      "label": "8",
+      "text": "F Of course, there's nothing to stop other countries copying-and many have tried. Some years ago, the AIS unveiled coolant-lined jackets for endurance athletes. At the Atlanta Olympic Games in 1996, these sliced as much as two per cent off cyclists' and rowers' times. Now everyone uses them. The same has happened to the 'altitude tent', developed by AIS to replicate the effect of altitude training at sea level. But Australia's success story is about more than easily copied technological fixes, and up to now no nation has replicated its all-encompassing system."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1-7\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "a reference to the exchange of expertise between different sports",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7066_483084-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "an explanation of how visual imaging is employed in investigations",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q7066_483084-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "reason for narrowing the scope of research activity",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7066_483084-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "how some AIS ideas have been reproduced",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q7066_483084-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "how obstacles to optimum achievement can be investigated",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q7066_483084-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "an overview of the funded support of athletes",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7066_483084-6"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "how performance requirements are calculated before an event",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q7066_483084-7"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 8-11\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "cameras [8] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7066_515935",
+          "explanation": "题号：8\n\n答案：A\n\n文中对应C段：...SWAN system now used in Australian national competitions. It collects images from digital cameras.\n\ndigital cameras是对应词。而前一句已经提到该系统已广泛应用于澳大利亚各项全国赛事之中，而没有提到其他国家，因此可以判断应该只有澳大利亚人在使用。\n\n题号：9\n\n答案：B\n\n文中对应D段：...With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete's clothes…\n\n找到相同对应词sensor，读其前后的句子，发现有Melbourne，断定是澳大利亚人的发明。之后要特别留心动词develop运用现在进行时，表示正在开发；而且注意之后的定语从句采用了将来时，所以可以断定此发明还没有完成，应该属于将来的成果。因此选择B。\n\n题号：10\n\n答案：A\n\n文中对应D段： ...AIS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A…/Since the tests were introduced, AIS athletes in all sports have been…\n\n非常容易在前面第一句话中找到跟题目protein tests所对应的词语a test…protein。之后细读前后句，发现后面一句话对于此项科技成果的受益者文章中只提到AIS运动员，即澳大利亚体育学院的运动员，隶属于澳大利亚，所以应该选择A。\n\n题号：11\n\n答案：C\n\n文中对应F段：The same has happened to the 'altitude tent', developed by AIS to replicate the effect of altitude training at sea level.\n\n文章中很容易找到用引号括起来的题目中的名词短语，因此只要细心读原句，就会发现开头的'The same has happened...’同样的事情也发生......根据经验应该顺着文章向上追溯，发现跟'altitude tent’相同情况的是1996年奥运会上澳大利亚人受益的流线型散热运动服现在全世界都在用。因此’altitude tent'也被世界各国应用。所以答案应该选择C。且根据此段话大意可以了解文章只提到两种研究成果被别国运用，即高原帐篷和流线型散热服。所以可以间接判断前三项成果是由澳大利人独享的。",
+          "promptHtml": "cameras [8] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "sensors [9] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7066_445567",
+          "explanation": "题号：8\n\n答案：A\n\n文中对应C段：...SWAN system now used in Australian national competitions. It collects images from digital cameras.\n\ndigital cameras是对应词。而前一句已经提到该系统已广泛应用于澳大利亚各项全国赛事之中，而没有提到其他国家，因此可以判断应该只有澳大利亚人在使用。\n\n题号：9\n\n答案：B\n\n文中对应D段：...With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete's clothes…\n\n找到相同对应词sensor，读其前后的句子，发现有Melbourne，断定是澳大利亚人的发明。之后要特别留心动词develop运用现在进行时，表示正在开发；而且注意之后的定语从句采用了将来时，所以可以断定此发明还没有完成，应该属于将来的成果。因此选择B。\n\n题号：10\n\n答案：A\n\n文中对应D段： ...AIS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A…/Since the tests were introduced, AIS athletes in all sports have been…\n\n非常容易在前面第一句话中找到跟题目protein tests所对应的词语a test…protein。之后细读前后句，发现后面一句话对于此项科技成果的受益者文章中只提到AIS运动员，即澳大利亚体育学院的运动员，隶属于澳大利亚，所以应该选择A。\n\n题号：11\n\n答案：C\n\n文中对应F段：The same has happened to the 'altitude tent', developed by AIS to replicate the effect of altitude training at sea level.\n\n文章中很容易找到用引号括起来的题目中的名词短语，因此只要细心读原句，就会发现开头的'The same has happened...’同样的事情也发生......根据经验应该顺着文章向上追溯，发现跟'altitude tent’相同情况的是1996年奥运会上澳大利亚人受益的流线型散热运动服现在全世界都在用。因此’altitude tent'也被世界各国应用。所以答案应该选择C。且根据此段话大意可以了解文章只提到两种研究成果被别国运用，即高原帐篷和流线型散热服。所以可以间接判断前三项成果是由澳大利人独享的。",
+          "promptHtml": "sensors [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "protein tests [10] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7066_537180",
+          "explanation": "题号：8\n\n答案：A\n\n文中对应C段：...SWAN system now used in Australian national competitions. It collects images from digital cameras.\n\ndigital cameras是对应词。而前一句已经提到该系统已广泛应用于澳大利亚各项全国赛事之中，而没有提到其他国家，因此可以判断应该只有澳大利亚人在使用。\n\n题号：9\n\n答案：B\n\n文中对应D段：...With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete's clothes…\n\n找到相同对应词sensor，读其前后的句子，发现有Melbourne，断定是澳大利亚人的发明。之后要特别留心动词develop运用现在进行时，表示正在开发；而且注意之后的定语从句采用了将来时，所以可以断定此发明还没有完成，应该属于将来的成果。因此选择B。\n\n题号：10\n\n答案：A\n\n文中对应D段： ...AIS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A…/Since the tests were introduced, AIS athletes in all sports have been…\n\n非常容易在前面第一句话中找到跟题目protein tests所对应的词语a test…protein。之后细读前后句，发现后面一句话对于此项科技成果的受益者文章中只提到AIS运动员，即澳大利亚体育学院的运动员，隶属于澳大利亚，所以应该选择A。\n\n题号：11\n\n答案：C\n\n文中对应F段：The same has happened to the 'altitude tent', developed by AIS to replicate the effect of altitude training at sea level.\n\n文章中很容易找到用引号括起来的题目中的名词短语，因此只要细心读原句，就会发现开头的'The same has happened...’同样的事情也发生......根据经验应该顺着文章向上追溯，发现跟'altitude tent’相同情况的是1996年奥运会上澳大利亚人受益的流线型散热运动服现在全世界都在用。因此’altitude tent'也被世界各国应用。所以答案应该选择C。且根据此段话大意可以了解文章只提到两种研究成果被别国运用，即高原帐篷和流线型散热服。所以可以间接判断前三项成果是由澳大利人独享的。",
+          "promptHtml": "protein tests [10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "altitude tents [11] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q7066_598986",
+          "explanation": "题号：8\n\n答案：A\n\n文中对应C段：...SWAN system now used in Australian national competitions. It collects images from digital cameras.\n\ndigital cameras是对应词。而前一句已经提到该系统已广泛应用于澳大利亚各项全国赛事之中，而没有提到其他国家，因此可以判断应该只有澳大利亚人在使用。\n\n题号：9\n\n答案：B\n\n文中对应D段：...With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete's clothes…\n\n找到相同对应词sensor，读其前后的句子，发现有Melbourne，断定是澳大利亚人的发明。之后要特别留心动词develop运用现在进行时，表示正在开发；而且注意之后的定语从句采用了将来时，所以可以断定此发明还没有完成，应该属于将来的成果。因此选择B。\n\n题号：10\n\n答案：A\n\n文中对应D段： ...AIS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A…/Since the tests were introduced, AIS athletes in all sports have been…\n\n非常容易在前面第一句话中找到跟题目protein tests所对应的词语a test…protein。之后细读前后句，发现后面一句话对于此项科技成果的受益者文章中只提到AIS运动员，即澳大利亚体育学院的运动员，隶属于澳大利亚，所以应该选择A。\n\n题号：11\n\n答案：C\n\n文中对应F段：The same has happened to the 'altitude tent', developed by AIS to replicate the effect of altitude training at sea level.\n\n文章中很容易找到用引号括起来的题目中的名词短语，因此只要细心读原句，就会发现开头的'The same has happened...’同样的事情也发生......根据经验应该顺着文章向上追溯，发现跟'altitude tent’相同情况的是1996年奥运会上澳大利亚人受益的流线型散热运动服现在全世界都在用。因此’altitude tent'也被世界各国应用。所以答案应该选择C。且根据此段话大意可以了解文章只提到两种研究成果被别国运用，即高原帐篷和流线型散热服。所以可以间接判断前三项成果是由澳大利人独享的。",
+          "promptHtml": "altitude tents [11] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "are currently exclusively used by Australians"
+        },
+        {
+          "value": "B",
+          "text": "will be used in the future by Australians"
+        },
+        {
+          "value": "C",
+          "text": "are currently used by both Australians and their rivals"
+        }
+      ],
+      "contextHtml": "<p> cameras <strong>[8] ______</strong> </p>\n\n<p> sensors <strong>[9] ______</strong>  </p>\n\n<p> protein tests <strong>[10] ______</strong> </p>\n\n<p> altitude tents <strong>[11] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 12 and 13\n\nAnswer the questions below.\n\nChoose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text in each gap.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "What is produced to help an athlete plan their performance in an event? [12] ______",
+          "answers": [
+            "a competition model",
+            "competition model"
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceCode": "Q7066_512151",
+          "explanation": "题号：12\n\n对应help an athlete plan, produced /prepare the athlete by, developing\n\nHelp an athlete plan their performance对应上prepare the athlete by之后，要认真研究题目所问的是what is produced，断定所作答案必定要填一个名词。因此要细读原文发现有单间developing恰与produced相对应，中文意思是“开发\"，则答案必定是开发之后的名闻。\n\nTIPS:注意带引号的内容都含有比较重要的信息。正确答案为(a) competition model\n\n题号：13\n\n对应1996 Olympic Games, cyclists, improve\n\n1996 Olympic Games是一个很好的定位词。\n\n定好位后要认真研究题目。分析问句是'By how much...improve'，意思为“提高了多少\"，可以判断出答案需要写一个数字。因此仔细阅读相关语句找到sliced as much as two per cent off cyclists' and rowers' times. 很快就可以找到数字百分之二。\n\nTIPS：注意文章的题目要求是填写一个数字而非一个名词，很多考生因为找到1996而盲目地填上成果的名称\"coolant-lined jackets\"，实在是遗憾。因此，语法分析是本题解题的关键。正确答案是(by)2 per cent/%",
+          "promptHtml": "What is produced to help an athlete plan their performance in an event? [12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "By how much did some cyclists' performance improve at the 1996 Olympic Games? [13] ______",
+          "answers": [
+            "by 2 percent",
+            "2 percent",
+            "by 2%",
+            "2%",
+            "by two percent",
+            "two percent",
+            "by 2 per cent",
+            "2 per cent"
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceCode": "Q7066_109694",
+          "explanation": "题号：12\n\n对应help an athlete plan, produced /prepare the athlete by, developing\n\nHelp an athlete plan their performance对应上prepare the athlete by之后，要认真研究题目所问的是what is produced，断定所作答案必定要填一个名词。因此要细读原文发现有单间developing恰与produced相对应，中文意思是“开发\"，则答案必定是开发之后的名闻。\n\nTIPS:注意带引号的内容都含有比较重要的信息。正确答案为(a) competition model\n\n题号：13\n\n对应1996 Olympic Games, cyclists, improve\n\n1996 Olympic Games是一个很好的定位词。\n\n定好位后要认真研究题目。分析问句是'By how much...improve'，意思为“提高了多少\"，可以判断出答案需要写一个数字。因此仔细阅读相关语句找到sliced as much as two per cent off cyclists' and rowers' times. 很快就可以找到数字百分之二。\n\nTIPS：注意文章的题目要求是填写一个数字而非一个名词，很多考生因为找到1996而盲目地填上成果的名称\"coolant-lined jackets\"，实在是遗憾。因此，语法分析是本题解题的关键。正确答案是(by)2 per cent/%",
+          "promptHtml": "By how much did some cyclists&#x27; performance improve at the 1996 Olympic Games? [13] ______"
+        }
+      ],
+      "sourceType": "short_answer",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>What is produced to help an athlete plan their performance in an event? <strong>[12] ______</strong></p>\n\n<p>By how much did some cyclists&#x27; performance improve at the 1996 Olympic Games? <strong>[13] ______</strong></p>\n\n<p></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>AUSTRALIA&#x27;S SPORTING SUCCESS</span></strong></p><p><strong><span><img src=\"/api/guest/cambridge/media/images/773e710e8297af8f1556f4127f7e4711.png\" alt=\"\"></span></strong></p><p><strong>A</strong>  They play hard, they play often, and they play to win. Australian sports teams win more than their fair share of titles, demolishing rivals with seeming ease. How do they do it? A big part of the secret is an extensive and expensive network of sporting academies underpinned by science and medicine. At the Australian Institute of Sport (AIS), hundreds of youngsters and pros live and train under the eyes of coaches. Another body, the Australian Sports Commission (ASC), finances programmes of excellence in a total of 96 sports for thousands of sportsmen and women. Both provide intensive coaching, training facilities and nutritional advice.</p><p><strong>B</strong>  Inside the academies, science takes centre stage. The AIS employs more than 100 sports scientists and doctors, and collaborates with scores of others in universities and research centres. AIS scientists work across a number of sports, applying skills learned in one - such as building muscle strength in golfers - to others, such as swimming and squash. They are backed up by technicians who design instruments to collect data from athletes. They all focus on one aim: winning. &#x27;We can&#x27;t waste our time looking at ethereal scientific questions that don&#x27;t help the coach work with an athlete and improve performance,&#x27; says Peter Fricker, chief of science at AIS.</p><p><strong>C</strong>  A lot of their work comes down to measurement - everything from the exact angle of a swimmer&#x27;s dive to the second-by-second power output of a cyclist. This data is used to wring improvements out of athletes. The focus is on individuals, tweaking performances to squeeze an extra hundredth of a second here, an extra millimetre there. No gain is too slight to bother with. It&#x27;s the tiny, gradual improvements that add up to world-beating results. To demonstrate how the system works, Bruce Mason at AIS shows off the prototype of a 3D analysis tool for studying swimmers. A wire-frame model of a champion swimmer slices through the water, her arms moving in slow motion. Looking side-on, Mason measures the distance between strokes. From above, he analyses how her spine swivels. When fully developed, this system will enable him to build a biomechanical profile for coaches to use to help budding swimmers. Mason&#x27;s contribution to sport also includes the development of the SWAN (SWimming ANalysis)system now used in Australian national competitions. It collects images from digital cameras running at 50 frames a second and breaks down each part of a swimmer&#x27;s performance into factors that can be analysed individually - stroke length, stroke frequency, average duration of each stroke, velocity, start, lap and finish times, and so on. At the end of each race, SWAN spits out data on each swimmer</p><p><strong>D</strong>  &#x27;Take a look,&#x27; says Mason, pulling out a sheet of data. He points out the data on the swimmers in second and third place, which shows that the one who finished third actually swam faster. So why did he finish 35 hundredths of a second down? &#x27;His turn times were 44 hundredths of a second behind the other guy,&#x27; says Mason. &#x27;If he can improve on his turns, he can do much better&#x27; This is the kind of accuracy that AIS scientists&#x27; research is bringing to a range of sports.</p><p>With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete&#x27;s clothes or running shoes to monitor heart rate, sweating, heat production or any other factor that might have an impact on an athlete&#x27;s ability to run. There&#x27;s more to it than simply measuring performance. Fricker gives the example of athletes who may be down with coughs and colds 11 or 12 times a year. After years of experimentation, AlS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A is present in athletes&#x27; saliva. If IgA levels suddenly fall below a certain level, training is eased or dropped altogether. Soon, IgA levels start rising again, and the danger passes. Since the tests were introduced, AIS athletes in all sports have been remarkably successful at staying healthy.</p><p><strong>E</strong>  Using data is a complex business. Well before a championship, sports scientists and coaches start to prepare the athlete by developing a &#x27;competition model&#x27;, based on what they expect will be the winning times. &#x27;You design the model to make that time,&#x27; says Mason. &#x27;A start of this much, each free-swimming period has to be this fast, with a certain stroke frequency and stroke length, with turns done in these times.&#x27; All the training is then geared towards making the athlete hit those targets, both overall and for each segment of the race. Techniques like these have transformed Australia into arguably the world&#x27;s most successful sporting nation.</p><p><strong>F </strong> Of course, there&#x27;s nothing to stop other countries copying-and many have tried. Some years ago, the AIS unveiled coolant-lined jackets for endurance athletes. At the Atlanta Olympic Games in 1996, these sliced as much as two per cent off cyclists&#x27; and rowers&#x27; times. Now everyone uses them. The same has happened to the &#x27;altitude tent&#x27;, developed by AIS to replicate the effect of altitude training at sea level. But Australia&#x27;s success story is about more than easily copied technological fixes, and up to now no nation has replicated its all-encompassing system.</p>"
+}

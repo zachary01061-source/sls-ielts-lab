@@ -1,0 +1,424 @@
+{
+  "id": "cambridge-14-test-1-reading-2",
+  "title": "The growth of bike-sharing schemes around the world",
+  "titleCn": "The growth of bike-sharing schemes around the world",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 14,
+    "test": 1
+  },
+  "sourceQuestionId": "6627",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6627",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The growth of bike-sharing schemes around the world"
+    },
+    {
+      "label": "2",
+      "text": "How Dutch engineer Luud Schimmelpennink helped to devise urban bike-sharing schemes"
+    },
+    {
+      "label": "3",
+      "text": "A The original idea for an urban bike-sharing scheme dates back to a summer's day in Amsterdam in 1965. Provo, the organisation that came up with the idea, was a group of Dutch activists who wanted to change society. They believed the scheme, which was known as the Witte Fietsenplan, was an answer to the perceived threats of air pollution and consumerism. In the centre of Amsterdam, they painted a small number of used bikes white. They also distributed leaflets describing the dangers of cars and inviting people to use the white bikes. The bikes were then left unlocked at various locations around the city, to be used by anyone in need of transport."
+    },
+    {
+      "label": "4",
+      "text": "B Luud Schimmelpennink, a Dutch industrial engineer who still lives and cycles in Amsterdam, was heavily involved in the original scheme. He recalls how the scheme succeeded in attracting a great deal of attention - particularly when it came to publicising Provo's aims - but struggled to get off the ground. The police were opposed to Provo's initiatives and almost as soon as the white bikes were distributed around the city, they removed them. However, for Schimmelpennink and for bike-sharing schemes in general, this was just the beginning. 'The first Witte Fietsenplan was just a symbolic thing,' he says. 'We painted a few bikes white, that was all. Things got more serious when I became a member of the Amsterdam city council two years later.'"
+    },
+    {
+      "label": "5",
+      "text": "C Schimmelpennink seized this opportunity to present a more elaborate Witte Fietsenplan to the city council. 'My idea was that the municipality of Amsterdam would distribute 10,000 white bikes over the city, for everyone to use,' he explains. 'I made serious calculations. It turned out that a white bicycle - per person, per kilometer - would cost the municipality only 10% of what it contributed to public transport per person per kilometre.' Nevertheless, the council unanimously rejected the plan. 'They said that the bicycle belongs to the past. They saw a glorious future for the car,' says Schimmelpennink. But he was not in the least discouraged."
+    },
+    {
+      "label": "6",
+      "text": "D Schimmelpennink never stopped believing in bike- sharing, and in the mid-90s, two Danes asked for his help to set up a system in Copenhagen. The result was the world's first large-scale bike-share programme. It worked on a deposit: 'You dropped a coin in the bike and when you returned it, you got your money back.' After setting up the Danish system, Schimmelpennink decided to try his luck again in the Netherlands - and this time he succeeded in arousing the interest of the Dutch Ministry of Transport. 'Times had changed,' he recalls. 'People had become more environmentally conscious, and the Danish experiment had proved that bike-sharing was a real possibility' A new Witte Fietsenplan was launched in 1999in Amsterdam. However, riding a white bike was no longer free; it cost one guilder per trip and payment was made with a chip card developed by the Dutch bank Postbank. Schimmelpennink designed conspicuous, sturdy white bikes locked in special racks which could be opened with the chip card - the plan started with 250 bikes, distributed over five stations."
+    },
+    {
+      "label": "7",
+      "text": "E Theo Molenaar, who was a system designer for the project, worked alongside Schimmelpennink. 'I remember when we were testing the bike racks, he announced that he had already designed better ones. But of course, we had to go through with the ones we had.' The system, however, was prone to vandalism and theft. 'After every weekend there would always be a couple of bikes missing,' Molenaar says. 'I really have no idea what people did with them, because they could instantly be recognised as white bikes.' But the biggest blow came when Postbank decided to abolish the chip card, because it wasn't profitable. 'That chip card was pivotal to the system,' Molenaar says. 'To continue the project we would have needed to set up another system, but the business partner had lost interest.'"
+    },
+    {
+      "label": "8",
+      "text": "F Schimmelpennink was disappointed, but - characteristically - not for long, In 2002 he got a call from the French advertising corporation JC Decaux, who wanted to setup his bike -sharing scheme in Vienna. 'That went really well. After Vienna, they setup a system in Lyon. Then in 2007, Paris followed. That was a decisive moment in the history of bike-sharing.' The huge and unexpected success of the Parisian bike-sharing programme, which now boasts more than 20,000 bicycles, inspired cities all over the world to set up their own schemes, all modelled on Schimmelpennink's. ‘It's wonderful that this happened,' he says. 'But financially I didn't really benefit from it, because I never filed for a patent.'"
+    },
+    {
+      "label": "9",
+      "text": "G In Amsterdam today, 38% of all trips are made by bike and, along with Copenhagen, it is regarded as one of the two most cycle-friendly capitals in the world - but the city never got another Witte Fietsenplan. Molenaar believes this may be because everybody in Amsterdam already has a bike. Schimmelpennink, however, cannot see that this changes Amsterdam's need for a bike-sharing scheme. 'People who travel on the underground don't carry their bikes around. But often they need additional transport to reach their final destination.' Although he thinks it is strange that a city like Amsterdam does not have a successful bike-sharing scheme, he is optimistic about the future. 'In the '60s we didn't stand a chance because people were prepared to give their lives to keep cars in the city. But that mentality has totally changed. Today everybody longs for cities that are not dominated by cars.'"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-18\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a description of how people misused a bike-sharing scheme",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6627_992314-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "an explanation of why a proposed bike-sharing scheme was turned down",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6627_992314-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "a reference to a person being unable to profit from their work",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6627_992314-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "an explanation of the potential savings a bike- sharing scheme would bring",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6627_992314-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "a reference to the problems a bike-sharing scheme was intended to solve",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6627_992314-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 19 and 20\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Which TWO of the following statements are made in the text about the Amsterdam bike-sharing scheme of 1999?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q6627_434106",
+          "options": [
+            {
+              "value": "A",
+              "text": "It was initially opposed by a government department."
+            },
+            {
+              "value": "B",
+              "text": "It failed when a partner in the scheme withdrew support."
+            },
+            {
+              "value": "C",
+              "text": "It aimed to be more successful than the Copenhagen scheme."
+            },
+            {
+              "value": "D",
+              "text": "It was made possible by a change in people's attitudes."
+            },
+            {
+              "value": "E",
+              "text": "It attracted interest from a range of bike designers."
+            }
+          ],
+          "explanation": "题干译文：关于1999年的阿姆斯特丹共享单车计划，文中给出了以下哪两个表述？\n\n定位词：Amsterdam, 1999\n\n文中定位点：利用题干中关键词可以定位到D段倒数三句：A new Witte Fietsenplan was ...但解题相关信息基本涵盖D和E两段内容。\n\n本题定位不难，题干中有数字、大写信息可以帮助考生迅速找到出题段。但解题难度之所以高，主要来自于五个选项所提及的信息分布范围广，需要考生耐心读懂、读准正文中的表述，从而正确判断出哪两个选项说得对。\n\n选项A说：起初有一个政府部门反对它。这在定位段落中属于完全没有提及的信息。考生如果记性好，也许能想起来前文B段中提到过警方反对最初的共享单车计划，但那处的信息不能作为“反对此次计划”的证据。\n\n选项B说：当一个合作方撤回支持时它就失败了。这是一个正确答案，但距离1999年和阿姆斯特丹这两个题干定位信息比较远，考生需耐心看到E段的最后几句，才能找到相关信息。\n\n选项C说：它的目标是比哥本哈根计划更加成功。“哥本哈根计划”出现在D段的开头，但无论D段还是E段，都没有将这两个项目在任何维度上进行比较。\n\n选项D说：它之所以有可能开展，是因为人们态度上的变化。这是另一个正确答案。从D段的第五句开始，文中就提到了“时代改变，人们更加关注环保问题”。\n\n选项E说：它吸引了一系列自行车设计师的兴趣。从D段结尾和E段中都可得知，是Schimmelpennink本人设计了这些共享单车，过程中并没提到有其他设计师的参与。",
+          "setId": "Q6627_434106",
+          "blockId": "Q6627_434106"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Which TWO of the following statements are made in the text about the Amsterdam bike-sharing scheme of 1999?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q6627_434106",
+          "options": [
+            {
+              "value": "A",
+              "text": "It was initially opposed by a government department."
+            },
+            {
+              "value": "B",
+              "text": "It failed when a partner in the scheme withdrew support."
+            },
+            {
+              "value": "C",
+              "text": "It aimed to be more successful than the Copenhagen scheme."
+            },
+            {
+              "value": "D",
+              "text": "It was made possible by a change in people's attitudes."
+            },
+            {
+              "value": "E",
+              "text": "It attracted interest from a range of bike designers."
+            }
+          ],
+          "explanation": "题干译文：关于1999年的阿姆斯特丹共享单车计划，文中给出了以下哪两个表述？\n\n定位词：Amsterdam, 1999\n\n文中定位点：利用题干中关键词可以定位到D段倒数三句：A new Witte Fietsenplan was ...但解题相关信息基本涵盖D和E两段内容。\n\n本题定位不难，题干中有数字、大写信息可以帮助考生迅速找到出题段。但解题难度之所以高，主要来自于五个选项所提及的信息分布范围广，需要考生耐心读懂、读准正文中的表述，从而正确判断出哪两个选项说得对。\n\n选项A说：起初有一个政府部门反对它。这在定位段落中属于完全没有提及的信息。考生如果记性好，也许能想起来前文B段中提到过警方反对最初的共享单车计划，但那处的信息不能作为“反对此次计划”的证据。\n\n选项B说：当一个合作方撤回支持时它就失败了。这是一个正确答案，但距离1999年和阿姆斯特丹这两个题干定位信息比较远，考生需耐心看到E段的最后几句，才能找到相关信息。\n\n选项C说：它的目标是比哥本哈根计划更加成功。“哥本哈根计划”出现在D段的开头，但无论D段还是E段，都没有将这两个项目在任何维度上进行比较。\n\n选项D说：它之所以有可能开展，是因为人们态度上的变化。这是另一个正确答案。从D段的第五句开始，文中就提到了“时代改变，人们更加关注环保问题”。\n\n选项E说：它吸引了一系列自行车设计师的兴趣。从D段结尾和E段中都可得知，是Schimmelpennink本人设计了这些共享单车，过程中并没提到有其他设计师的参与。",
+          "setId": "Q6627_434106",
+          "blockId": "Q6627_434106"
+        }
+      ],
+      "contextHtml": "<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><em>Questions 19 and 20</em></strong></p>\n\n\t\t\t<p><em>Choose <strong>TWO</strong> correct answers.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "It was initially opposed by a government department."
+        },
+        {
+          "value": "B",
+          "text": "It failed when a partner in the scheme withdrew support."
+        },
+        {
+          "value": "C",
+          "text": "It aimed to be more successful than the Copenhagen scheme."
+        },
+        {
+          "value": "D",
+          "text": "It was made possible by a change in people's attitudes."
+        },
+        {
+          "value": "E",
+          "text": "It attracted interest from a range of bike designers."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 21 and 22\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Which TWO of the following statements are made in the text about Amsterdam today?",
+          "answers": [
+            "D",
+            "E"
+          ],
+          "sourceCode": "Q6627_252468",
+          "options": [
+            {
+              "value": "A",
+              "text": "The majority of residents would like to prevent all cars from entering the city."
+            },
+            {
+              "value": "B",
+              "text": "There is little likelihood of the city having another bike-sharing scheme."
+            },
+            {
+              "value": "C",
+              "text": "More trips in the city are made by bike than by any other form of transport."
+            },
+            {
+              "value": "D",
+              "text": "A bike-sharing scheme would benefit residents who use public transport."
+            },
+            {
+              "value": "E",
+              "text": "The city has a reputation as a place that welcomes cyclists."
+            }
+          ],
+          "explanation": "题干译文：关于现如今的阿姆斯特丹，文中给出了以下哪两个表述？\n\n定位词：Amsterdam, todayAmsterdam, today\n\n文中对应点：G段第一句：In Amsterdam today...\n\n本题的定位依然不难，在G段开头即给出了Amsterdam today的原词。雅思阅读选择题的难度基本都不在于定位，而是在于出题范围较大，对考生阅读文章内容的速度和准确度都提出了较高要求。这也是考生在复习备考过程中应当着重进行针对性练习的地方。\n\n选项A说：居民中的绝大多数都想要禁止所有的汽车进入城区。虽然G段最后一句确实提到“每个人都希望自己的城市不会受到汽车的统治”，但这与选项的激进表述还是非常不同的，不能将二者视作同义表述关系。\n\n选项B说：这座城市再拥有一项共享单车行动计划的可能性几乎为零。此选项具有一定的迷惑性，因为文中确实提到：截止到目前这座城市再没建立起另一个共享单车系统，也有人给出原因是“城里每个人都已经有一辆自行车了”；但是计划创立者Schimmelpennink本人仍认为这座城市需要共享单车，并给出理由为“坐地铁的人还需要交通工具来到达最终的工作地点”。实际上G段的大半篇幅都是在给出理由支持 Schimmelpennink这一看法的，因此目前还不能断言说未来这座城市将不会再有共享单车计划。\n\n选项C说：在这座城里，利用自行车出行的方式比任何其他形式的交通出行量都要多。G段开头只是给出了具体数据：在所有交通出行中有38%是利用自行车来完成的。这个数据并不具有压倒性的优势，后文中也没有任何地方将这个数据与其他交通出行方式进行比较。\n\n选项D说：一项共享单车计划将会令使用公共交通的居民们受益。这正是文中 Schimmelpennink认为阿姆斯特丹仍需要共享单车的原因：坐地铁的人不可能扛着自行车走来走去，所以在出了地铁以后还需要骑一段单车来到达工作地点。\n\n选项E说：这座城市作为一个欢迎骑行者的地方而颇负盛名。这个正确答案比D选项直白友好得多，在G段第一句话里就已点明：阿姆斯特丹和哥本哈根是世界上最为“骑行友好”的两个首都城市。",
+          "setId": "Q6627_252468",
+          "blockId": "Q6627_252468"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Which TWO of the following statements are made in the text about Amsterdam today?",
+          "answers": [
+            "D",
+            "E"
+          ],
+          "sourceCode": "Q6627_252468",
+          "options": [
+            {
+              "value": "A",
+              "text": "The majority of residents would like to prevent all cars from entering the city."
+            },
+            {
+              "value": "B",
+              "text": "There is little likelihood of the city having another bike-sharing scheme."
+            },
+            {
+              "value": "C",
+              "text": "More trips in the city are made by bike than by any other form of transport."
+            },
+            {
+              "value": "D",
+              "text": "A bike-sharing scheme would benefit residents who use public transport."
+            },
+            {
+              "value": "E",
+              "text": "The city has a reputation as a place that welcomes cyclists."
+            }
+          ],
+          "explanation": "题干译文：关于现如今的阿姆斯特丹，文中给出了以下哪两个表述？\n\n定位词：Amsterdam, todayAmsterdam, today\n\n文中对应点：G段第一句：In Amsterdam today...\n\n本题的定位依然不难，在G段开头即给出了Amsterdam today的原词。雅思阅读选择题的难度基本都不在于定位，而是在于出题范围较大，对考生阅读文章内容的速度和准确度都提出了较高要求。这也是考生在复习备考过程中应当着重进行针对性练习的地方。\n\n选项A说：居民中的绝大多数都想要禁止所有的汽车进入城区。虽然G段最后一句确实提到“每个人都希望自己的城市不会受到汽车的统治”，但这与选项的激进表述还是非常不同的，不能将二者视作同义表述关系。\n\n选项B说：这座城市再拥有一项共享单车行动计划的可能性几乎为零。此选项具有一定的迷惑性，因为文中确实提到：截止到目前这座城市再没建立起另一个共享单车系统，也有人给出原因是“城里每个人都已经有一辆自行车了”；但是计划创立者Schimmelpennink本人仍认为这座城市需要共享单车，并给出理由为“坐地铁的人还需要交通工具来到达最终的工作地点”。实际上G段的大半篇幅都是在给出理由支持 Schimmelpennink这一看法的，因此目前还不能断言说未来这座城市将不会再有共享单车计划。\n\n选项C说：在这座城里，利用自行车出行的方式比任何其他形式的交通出行量都要多。G段开头只是给出了具体数据：在所有交通出行中有38%是利用自行车来完成的。这个数据并不具有压倒性的优势，后文中也没有任何地方将这个数据与其他交通出行方式进行比较。\n\n选项D说：一项共享单车计划将会令使用公共交通的居民们受益。这正是文中 Schimmelpennink认为阿姆斯特丹仍需要共享单车的原因：坐地铁的人不可能扛着自行车走来走去，所以在出了地铁以后还需要骑一段单车来到达工作地点。\n\n选项E说：这座城市作为一个欢迎骑行者的地方而颇负盛名。这个正确答案比D选项直白友好得多，在G段第一句话里就已点明：阿姆斯特丹和哥本哈根是世界上最为“骑行友好”的两个首都城市。",
+          "setId": "Q6627_252468",
+          "blockId": "Q6627_252468"
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 21 and 22</em></strong></p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Choose <strong>TWO</strong> correct answers.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "The majority of residents would like to prevent all cars from entering the city."
+        },
+        {
+          "value": "B",
+          "text": "There is little likelihood of the city having another bike-sharing scheme."
+        },
+        {
+          "value": "C",
+          "text": "More trips in the city are made by bike than by any other form of transport."
+        },
+        {
+          "value": "D",
+          "text": "A bike-sharing scheme would benefit residents who use public transport."
+        },
+        {
+          "value": "E",
+          "text": "The city has a reputation as a place that welcomes cyclists."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "text",
+      "instruction": "Questions 23- 26\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage in each gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Answer for gap 23.",
+          "answers": [
+            "activists"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6627_588401",
+          "explanation": "题号：23\n\n题干问：属于这个群体的人们是_____。\n\n定位词：Dutch group, Provo\n\n文中对应点：A段第二句：Provo, the organisation that...\n\n空内需填名词，且可以根据上下文推断：应当是表明身份职业的名词。利用上一句题干中比较醒目的Dutch和Provo都可以定位到第一段的第一句里，但这句中并没有表示人物身份的信息，考生需再向后阅读一句，才能顺利锁定答案为：activists。\n\n题号：24\n\n题干问：他们对给环境造成的破坏和_____感到担忧。\n\n定位词：damage to the environment, and\n\n文中对应点：A段第三句：They believed the scheme which...\n\n空格内应当填名词。根据这个句子的结构，要填的答案必定在文章中与“对环境造成的破坏”相并列，考生只需沿着上一道题的定位处，向后文阅读并看懂文中的threats of air pollution就是破坏环境的一种形式，即可比较顺利地找到答案为：consumerism。\n\n题号：25\n\n题干问：除了把一些自行车涂成白色外，他们还分发了_____来谴责对汽车的使用。\n\n定位词：as well as, handed out, condemned, cars\n\n文中对应点：A段第五句：They also distributed...\n\n空格内仍填名词。本句题干中的as well as词组与上一句题干中的连接词and有异曲同工之妙，都是在提示考生：空格部分的内容与之前的题干部分形成了并列关系，因而在原文中找到了之前题干部分的相关内容以后，离正确答案也就不远了。具体到本句题干，前面说的是“把自行车涂成白色”，这正是考生按照文章顺序读到A段第四句时所遇到的信息，接下来继续寻找“人们在分发什么”，假如认识distribute这个同义表述词的话，当然可以直奔答案;但即使不认识这个单词，其实也可以利用第五句中also的提示或dangers of cars的提示，定位到相关处，对比题干得出答案为：leaflets。\n\n题号：26\n\n题干问：然而，这项计划并不很成功：几乎是Provo刚把自行车留在城里各处，_____就把它们弄走了。\n\n定位词：not, success, took away\n\n文中对应点：B段第三句：The police were opposed to...\n\n空格中还是填名词，且是发出“挪走自行车”这个动作的主语，可知答案应该是有着行动能力的某人或某群人。考生只需根据这个线索，从上一题结尾处向下文寻找相关信息，就能很快找到removed这个同义表述took away的简单词汇，从而得出答案应为： police。",
+          "promptHtml": "Answer for gap 23."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "consumerism"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6627_705999",
+          "explanation": "题号：23\n\n题干问：属于这个群体的人们是_____。\n\n定位词：Dutch group, Provo\n\n文中对应点：A段第二句：Provo, the organisation that...\n\n空内需填名词，且可以根据上下文推断：应当是表明身份职业的名词。利用上一句题干中比较醒目的Dutch和Provo都可以定位到第一段的第一句里，但这句中并没有表示人物身份的信息，考生需再向后阅读一句，才能顺利锁定答案为：activists。\n\n题号：24\n\n题干问：他们对给环境造成的破坏和_____感到担忧。\n\n定位词：damage to the environment, and\n\n文中对应点：A段第三句：They believed the scheme which...\n\n空格内应当填名词。根据这个句子的结构，要填的答案必定在文章中与“对环境造成的破坏”相并列，考生只需沿着上一道题的定位处，向后文阅读并看懂文中的threats of air pollution就是破坏环境的一种形式，即可比较顺利地找到答案为：consumerism。\n\n题号：25\n\n题干问：除了把一些自行车涂成白色外，他们还分发了_____来谴责对汽车的使用。\n\n定位词：as well as, handed out, condemned, cars\n\n文中对应点：A段第五句：They also distributed...\n\n空格内仍填名词。本句题干中的as well as词组与上一句题干中的连接词and有异曲同工之妙，都是在提示考生：空格部分的内容与之前的题干部分形成了并列关系，因而在原文中找到了之前题干部分的相关内容以后，离正确答案也就不远了。具体到本句题干，前面说的是“把自行车涂成白色”，这正是考生按照文章顺序读到A段第四句时所遇到的信息，接下来继续寻找“人们在分发什么”，假如认识distribute这个同义表述词的话，当然可以直奔答案;但即使不认识这个单词，其实也可以利用第五句中also的提示或dangers of cars的提示，定位到相关处，对比题干得出答案为：leaflets。\n\n题号：26\n\n题干问：然而，这项计划并不很成功：几乎是Provo刚把自行车留在城里各处，_____就把它们弄走了。\n\n定位词：not, success, took away\n\n文中对应点：B段第三句：The police were opposed to...\n\n空格中还是填名词，且是发出“挪走自行车”这个动作的主语，可知答案应该是有着行动能力的某人或某群人。考生只需根据这个线索，从上一题结尾处向下文寻找相关信息，就能很快找到removed这个同义表述took away的简单词汇，从而得出答案应为： police。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "leaflets"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6627_371160",
+          "explanation": "题号：23\n\n题干问：属于这个群体的人们是_____。\n\n定位词：Dutch group, Provo\n\n文中对应点：A段第二句：Provo, the organisation that...\n\n空内需填名词，且可以根据上下文推断：应当是表明身份职业的名词。利用上一句题干中比较醒目的Dutch和Provo都可以定位到第一段的第一句里，但这句中并没有表示人物身份的信息，考生需再向后阅读一句，才能顺利锁定答案为：activists。\n\n题号：24\n\n题干问：他们对给环境造成的破坏和_____感到担忧。\n\n定位词：damage to the environment, and\n\n文中对应点：A段第三句：They believed the scheme which...\n\n空格内应当填名词。根据这个句子的结构，要填的答案必定在文章中与“对环境造成的破坏”相并列，考生只需沿着上一道题的定位处，向后文阅读并看懂文中的threats of air pollution就是破坏环境的一种形式，即可比较顺利地找到答案为：consumerism。\n\n题号：25\n\n题干问：除了把一些自行车涂成白色外，他们还分发了_____来谴责对汽车的使用。\n\n定位词：as well as, handed out, condemned, cars\n\n文中对应点：A段第五句：They also distributed...\n\n空格内仍填名词。本句题干中的as well as词组与上一句题干中的连接词and有异曲同工之妙，都是在提示考生：空格部分的内容与之前的题干部分形成了并列关系，因而在原文中找到了之前题干部分的相关内容以后，离正确答案也就不远了。具体到本句题干，前面说的是“把自行车涂成白色”，这正是考生按照文章顺序读到A段第四句时所遇到的信息，接下来继续寻找“人们在分发什么”，假如认识distribute这个同义表述词的话，当然可以直奔答案;但即使不认识这个单词，其实也可以利用第五句中also的提示或dangers of cars的提示，定位到相关处，对比题干得出答案为：leaflets。\n\n题号：26\n\n题干问：然而，这项计划并不很成功：几乎是Provo刚把自行车留在城里各处，_____就把它们弄走了。\n\n定位词：not, success, took away\n\n文中对应点：B段第三句：The police were opposed to...\n\n空格中还是填名词，且是发出“挪走自行车”这个动作的主语，可知答案应该是有着行动能力的某人或某群人。考生只需根据这个线索，从上一题结尾处向下文寻找相关信息，就能很快找到removed这个同义表述took away的简单词汇，从而得出答案应为： police。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "However, the scheme was not a great success: almost as quickly as Provo left the bikes around the city, the [26] ______took them away. According to Schimmelpennink, the scheme was intended to be symbolic. The idea was to get people thinking about the issues.",
+          "answers": [
+            "police"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6627_219390",
+          "explanation": "题号：23\n\n题干问：属于这个群体的人们是_____。\n\n定位词：Dutch group, Provo\n\n文中对应点：A段第二句：Provo, the organisation that...\n\n空内需填名词，且可以根据上下文推断：应当是表明身份职业的名词。利用上一句题干中比较醒目的Dutch和Provo都可以定位到第一段的第一句里，但这句中并没有表示人物身份的信息，考生需再向后阅读一句，才能顺利锁定答案为：activists。\n\n题号：24\n\n题干问：他们对给环境造成的破坏和_____感到担忧。\n\n定位词：damage to the environment, and\n\n文中对应点：A段第三句：They believed the scheme which...\n\n空格内应当填名词。根据这个句子的结构，要填的答案必定在文章中与“对环境造成的破坏”相并列，考生只需沿着上一道题的定位处，向后文阅读并看懂文中的threats of air pollution就是破坏环境的一种形式，即可比较顺利地找到答案为：consumerism。\n\n题号：25\n\n题干问：除了把一些自行车涂成白色外，他们还分发了_____来谴责对汽车的使用。\n\n定位词：as well as, handed out, condemned, cars\n\n文中对应点：A段第五句：They also distributed...\n\n空格内仍填名词。本句题干中的as well as词组与上一句题干中的连接词and有异曲同工之妙，都是在提示考生：空格部分的内容与之前的题干部分形成了并列关系，因而在原文中找到了之前题干部分的相关内容以后，离正确答案也就不远了。具体到本句题干，前面说的是“把自行车涂成白色”，这正是考生按照文章顺序读到A段第四句时所遇到的信息，接下来继续寻找“人们在分发什么”，假如认识distribute这个同义表述词的话，当然可以直奔答案;但即使不认识这个单词，其实也可以利用第五句中also的提示或dangers of cars的提示，定位到相关处，对比题干得出答案为：leaflets。\n\n题号：26\n\n题干问：然而，这项计划并不很成功：几乎是Provo刚把自行车留在城里各处，_____就把它们弄走了。\n\n定位词：not, success, took away\n\n文中对应点：B段第三句：The police were opposed to...\n\n空格中还是填名词，且是发出“挪走自行车”这个动作的主语，可知答案应该是有着行动能力的某人或某群人。考生只需根据这个线索，从上一题结尾处向下文寻找相关信息，就能很快找到removed这个同义表述took away的简单词汇，从而得出答案应为： police。",
+          "promptHtml": "However, the scheme was not a great success: almost as quickly as Provo left the bikes around the city, the [26] ______took them away. According to Schimmelpennink, the scheme was intended to be symbolic. The idea was to get people thinking about the issues."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>The first urban bike-sharing scheme</strong></span></p>\n\n<p>The first bike-sharing scheme was the idea of the Dutch group Provo. The people who belonged to this group were <strong>[23] ______</strong>. They were concerned about damage to the environment and about <strong>[24] ______</strong> , and believed that the bike-sharing scheme would draw attention to these issues. As well as painting some bikes white, they handed out <strong>[25] ______</strong> that condemned the use of cars.</p>\n\n<p>However, the scheme was not a great success: almost as quickly as Provo left the bikes around the city, the <strong>[26] ______</strong>took them away. According to Schimmelpennink, the scheme was intended to be symbolic. The idea was to get people thinking about the issues.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The growth of bike-sharing schemes around the world</strong></span></p><p><em>How Dutch engineer Luud Schimmelpennink helped to devise urban bike-sharing schemes</em></p><p><strong>A</strong>   The original idea for an urban bike-sharing scheme dates back to a summer&#x27;s day in Amsterdam in 1965. Provo, the organisation that came up with the idea, was a group of Dutch activists who wanted to change society. They believed the scheme, which was known as the Witte Fietsenplan, was an answer to the perceived threats of air pollution and consumerism. In the centre of Amsterdam, they painted a small number of used bikes white. They also distributed leaflets describing the dangers of cars and inviting people to use the white bikes. The bikes were then left unlocked at various locations around the city, to be used by anyone in need of transport.</p><p><strong>B</strong>   Luud Schimmelpennink, a Dutch industrial engineer who still lives and cycles in Amsterdam, was heavily involved in the original scheme. He recalls how the scheme succeeded in attracting a great deal of attention - particularly when it came to publicising Provo&#x27;s aims - but struggled to get off the ground. The police were opposed to Provo&#x27;s initiatives and almost as soon as the white bikes were distributed around the city, they removed them. However, for Schimmelpennink and for bike-sharing schemes in general, this was just the beginning. &#x27;The first Witte Fietsenplan was just a symbolic thing,&#x27; he says. &#x27;We painted a few bikes white, that was all. Things got more serious when I became a member of the Amsterdam city council two years later.&#x27;</p><p><strong>C</strong>   Schimmelpennink seized this opportunity to present a more elaborate Witte Fietsenplan to the city council. &#x27;My idea was that the municipality of Amsterdam would distribute 10,000 white bikes over the city, for everyone to use,&#x27; he explains. &#x27;I made serious calculations. It turned out that a white bicycle - per person, per kilometer - would cost the municipality only 10% of what it contributed to public transport per person per kilometre.&#x27; Nevertheless, the council unanimously rejected the plan. &#x27;They said that the bicycle belongs to the past. They saw a glorious future for the car,&#x27; says Schimmelpennink. But he was not in the least discouraged.</p><p><strong>D</strong>   Schimmelpennink never stopped believing in bike- sharing, and in the mid-90s, two Danes asked for his help to set up a system in Copenhagen. The result was the world&#x27;s first large-scale bike-share programme. It worked on a deposit: &#x27;You dropped a coin in the bike and when you returned it, you got your money back.&#x27; After setting up the Danish system, Schimmelpennink decided to try his luck again in the Netherlands - and this time he succeeded in arousing the interest of the Dutch Ministry of Transport. &#x27;Times had changed,&#x27; he recalls. &#x27;People had become more environmentally conscious, and the Danish experiment had proved that bike-sharing was a real possibility&#x27; A new Witte Fietsenplan was launched in 1999in Amsterdam. However, riding a white bike was no longer free; it cost one guilder per trip and payment was made with a chip card developed by the Dutch bank Postbank. Schimmelpennink designed conspicuous, sturdy white bikes locked in special racks which could be opened with the chip card - the plan started with 250 bikes, distributed over five stations.</p><p><strong>E</strong>  Theo Molenaar, who was a system designer for the project, worked alongside Schimmelpennink. &#x27;I remember when we were testing the bike racks, he announced that he had already designed better ones. But of course, we had to go through with the ones we had.&#x27; The system, however, was prone to vandalism and theft. &#x27;After every weekend there would always be a couple of bikes missing,&#x27; Molenaar says. &#x27;I really have no idea what people did with them, because they could instantly be recognised as white bikes.&#x27; But the biggest blow came when Postbank decided to abolish the chip card, because it wasn&#x27;t profitable. &#x27;That chip card was pivotal to the system,&#x27; Molenaar says. &#x27;To continue the project we would have needed to set up another system, but the business partner had lost interest.&#x27;</p><p><strong>F</strong>   Schimmelpennink was disappointed, but - characteristically - not for long, In 2002 he got a call from the French advertising corporation JC Decaux, who wanted to setup his bike -sharing scheme in Vienna. &#x27;That went really well. After Vienna, they setup a system in Lyon. Then in 2007, Paris followed. That was a decisive moment in the history of bike-sharing.&#x27; The huge and unexpected success of the Parisian bike-sharing programme, which now boasts more than 20,000 bicycles, inspired cities all over the world to set up their own schemes, all modelled on Schimmelpennink&#x27;s. ‘It&#x27;s wonderful that this happened,&#x27; he says. &#x27;But financially I didn&#x27;t really benefit from it, because I never filed for a patent.&#x27;</p><p><strong>G   </strong>In Amsterdam today, 38% of all trips are made by bike and, along with Copenhagen, it is regarded as one of the two most cycle-friendly capitals in the world - but the city never got another Witte Fietsenplan. Molenaar believes this may be because everybody in Amsterdam already has a bike. Schimmelpennink, however, cannot see that this changes Amsterdam&#x27;s need for a bike-sharing scheme. &#x27;People who travel on the underground don&#x27;t carry their bikes around. But often they need additional transport to reach their final destination.&#x27; Although he thinks it is strange that a city like Amsterdam does not have a successful bike-sharing scheme, he is optimistic about the future. &#x27;In the &#x27;60s we didn&#x27;t stand a chance because people were prepared to give their lives to keep cars in the city. But that mentality has totally changed. Today everybody longs for cities that are not dominated by cars.&#x27;</p>"
+}

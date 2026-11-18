@@ -1,0 +1,361 @@
+{
+  "id": "3c8c158c-dc24-45df-a570-ce36d07ab6dc",
+  "title": "The seahorse（机经听写）",
+  "titleCn": "海马：雅思听力Part4高频机经",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/3c8c158c-dc24-45df-a570-ce36d07ab6dc",
+  "duration": 211,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,099"
+    },
+    {
+      "label": "2",
+      "text": "Part four: The Seahorse."
+    },
+    {
+      "label": "3",
+      "text": "00:00:04,079"
+    },
+    {
+      "label": "4",
+      "text": "The seahorse might have developed as a result of movements in the Earth's crust."
+    },
+    {
+      "label": "5",
+      "text": "00:00:09,479"
+    },
+    {
+      "label": "6",
+      "text": "These geological changes led to the formation of new habitats. These environments included stretches of shallow water and different types of vegetation, such as a specific kind of grass."
+    },
+    {
+      "label": "7",
+      "text": "00:00:23,260"
+    },
+    {
+      "label": "8",
+      "text": "Seahorses have several unique characteristics. They swim in an upright position and have skin that stretches over bony plates."
+    },
+    {
+      "label": "9",
+      "text": "00:00:31,619"
+    },
+    {
+      "label": "10",
+      "text": "A distinctive crown sits on top of their head. For movement, they rely on their dorsal and pectoral fins. They use their snout to catch food, and their favorite prey is shrimp."
+    },
+    {
+      "label": "11",
+      "text": "00:00:45,659"
+    },
+    {
+      "label": "12",
+      "text": "In seahorse reproduction, the female places her eggs into the male's pouch."
+    },
+    {
+      "label": "13",
+      "text": "00:00:51,399"
+    },
+    {
+      "label": "14",
+      "text": "Once they hatch, the young remain in the pouch for a period."
+    },
+    {
+      "label": "15",
+      "text": "00:00:55,919"
+    },
+    {
+      "label": "16",
+      "text": "During this time, the salt level is regulated to help them adjust to life in the ocean."
+    },
+    {
+      "label": "17",
+      "text": "00:01:02,359"
+    },
+    {
+      "label": "18",
+      "text": "Newborn seahorses face several challenges to survival. They can be eaten by predators or swept away by ocean currents."
+    },
+    {
+      "label": "19",
+      "text": "00:01:11,739"
+    },
+    {
+      "label": "20",
+      "text": "Among human-related dangers, fishing poses the greatest threat. In captivity, many seahorses struggle due to stress, which has been a major cause of low survival rates. However, captive breeding programs have helped lower the risk of disease."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "5977f3c4-1f5b-4622-9477-503401739648",
+          "prompt": "**New habitats were created, which had**\nstretches of **31**_____ water",
+          "answers": [
+            "shallow"
+          ],
+          "rawAnswer": "shallow",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These geological changes led to the formation of new habitats. These environments included stretches of shallow water and different types of vegetation"
+          },
+          "keywordPairs": [
+            {
+              "question": "were created",
+              "article": "the formation of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "264ddb54-4c7e-4872-9327-8e324dac5843",
+          "prompt": "different vegetation, including a type of **32**_____",
+          "answers": [
+            "grass"
+          ],
+          "rawAnswer": "grass",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These geological changes led to the formation of new habitats. These environments included stretches of shallow water and different types of vegetation, such as a specific kind of grass"
+          },
+          "keywordPairs": [
+            {
+              "question": "including",
+              "article": "such as"
+            },
+            {
+              "question": "a type of",
+              "article": "a specific kind of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "c1143e20-2073-4841-bc73-1f2996295bf1",
+          "prompt": "**Characteristics of seahorses**\nswim upright\nskin covers bony **33**_____",
+          "answers": [
+            "plates"
+          ],
+          "rawAnswer": "plates",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Seahorses have several unique characteristics. They swim in an upright position and have skin that stretches over bony plates"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "a14dade7-437c-4eac-88b2-25e775843316",
+          "prompt": "feature on their head is known as a **34**_____",
+          "answers": [
+            "crown"
+          ],
+          "rawAnswer": "crown",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A distinctive crown sits on top of their head"
+          },
+          "keywordPairs": [
+            {
+              "question": "feature",
+              "article": "A distinctive crown"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "822df965-9e15-4011-b0f7-94025da18e70",
+          "prompt": "swim using dorsal and pectoral fins\nuse their snout to feed\ntheir preferred diet is **35**_____",
+          "answers": [
+            "shrimp"
+          ],
+          "rawAnswer": "shrimp",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They use their snout to catch food, and their favorite prey is shrimp"
+          },
+          "keywordPairs": [
+            {
+              "question": "preferred diet",
+              "article": "favorite prey"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "8af86158-94da-4f74-bcc8-b662e2ce42d2",
+          "prompt": "**Reproduction**\nthe female deposits eggs in the male`s pouch\nafter hatching, the babies stay in the pouch\nthe level of **36**_____ is controlled to prepare them for ocean life",
+          "answers": [
+            "salt"
+          ],
+          "rawAnswer": "salt",
+          "evidence": {
+            "paragraph": "",
+            "quote": "During this time, the salt level is regulated to help them adjust to life in the ocean"
+          },
+          "keywordPairs": [
+            {
+              "question": "controlled",
+              "article": "regulated"
+            },
+            {
+              "question": "to prepare them for",
+              "article": "to help them adjust to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "f11d7cbb-842d-4cec-959d-d220981cc083",
+          "prompt": "**Survival**\nnewborn seahorses may be\n- caught by predators\n- carried away by ocean **37**_____",
+          "answers": [
+            "currents"
+          ],
+          "rawAnswer": "currents",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They can be eaten by predators or swept away by ocean currents"
+          },
+          "keywordPairs": [
+            {
+              "question": "carried",
+              "article": "swept"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "199e9f97-e1fe-44a8-adb4-219a030d7362",
+          "prompt": "Most significant human threat to seahorses **38**_____ .",
+          "answers": [
+            "fishing"
+          ],
+          "rawAnswer": "fishing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Among human-related dangers, fishing poses the greatest threat"
+          },
+          "keywordPairs": [
+            {
+              "question": "Most significant",
+              "article": "the greatest"
+            },
+            {
+              "question": "human threat",
+              "article": "human-related dangers"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "986653a5-2dec-486e-b1ca-de68d5c610ba",
+          "prompt": "Reason for poor survival rates of seahorses in captivity **39**_____ .",
+          "answers": [
+            "stress"
+          ],
+          "rawAnswer": "stress",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In captivity, many seahorses struggle due to stress, which has been a major cause of low survival rates"
+          },
+          "keywordPairs": [
+            {
+              "question": "poor",
+              "article": "low"
+            },
+            {
+              "question": "Reason for",
+              "article": "cause of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "60571e1b-576a-47e5-8eef-72072caf56c0",
+          "prompt": "Captive breeding programmes have now reduce the risk of **40**_____ .",
+          "answers": [
+            "disease"
+          ],
+          "rawAnswer": "disease",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, captive breeding programs have helped lower the risk of disease"
+          },
+          "keywordPairs": [
+            {
+              "question": "reduce",
+              "article": "lower"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,099</p><p>Part four: The Seahorse. </p><p>00:00:04,079</p><p>The seahorse might have developed as a result of movements in the Earth's crust. </p><p>00:00:09,479</p><p>These geological changes led to the formation of new habitats. These environments included stretches of shallow water and different types of vegetation, such as a specific kind of grass. </p><p>00:00:23,260</p><p>Seahorses have several unique characteristics. They swim in an upright position and have skin that stretches over bony plates. </p><p>00:00:31,619</p><p>A distinctive crown sits on top of their head. For movement, they rely on their dorsal and pectoral fins. They use their snout to catch food, and their favorite prey is shrimp. </p><p>00:00:45,659</p><p>In seahorse reproduction, the female places her eggs into the male's pouch. </p><p>00:00:51,399</p><p>Once they hatch, the young remain in the pouch for a period. </p><p>00:00:55,919</p><p>During this time, the salt level is regulated to help them adjust to life in the ocean. </p><p>00:01:02,359</p><p>Newborn seahorses face several challenges to survival. They can be eaten by predators or swept away by ocean currents. </p><p>00:01:11,739</p><p>Among human-related dangers, fishing poses the greatest threat. In captivity, many seahorses struggle due to stress, which has been a major cause of low survival rates. However, captive breeding programs have helped lower the risk of disease.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/3c8c158c-dc24-45df-a570-ce36d07ab6dc.mp3",
+    "durationSeconds": 90.024,
+    "sizeBytes": 1440915,
+    "sha256": "3d25ddd58dc1789dc0aadbd185c81ae6ab353bc366a447d4d7d154de19f79bfb",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:26Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775549495795_a9oqh5_e44bdded_cd49eb5f.mp3"
+}

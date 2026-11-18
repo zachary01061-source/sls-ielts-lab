@@ -1,0 +1,281 @@
+{
+  "id": "cambridge-17-test-4-reading-3",
+  "title": "Timur Gareyev – blindfold chess champion",
+  "titleCn": "Timur Gareyev – blindfold chess champion",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 4
+  },
+  "sourceQuestionId": "8394",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8394",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Timur Gareyev – blindfold chess champion"
+    },
+    {
+      "label": "2",
+      "text": "A Next month, a chess player named Timur Gareyev will take on nearly 50 opponents at once. But that is not the hard part. While his challengers will play the games as normal, Gareyev himself will be blindfolded. Even by world record standards, it sets a high bar for human performance. The 28-year-old already stands out in the rarefied world of blindfold chess. He has a fondness for bright clothes and unusual hairstyles, and he gets his kicks from the adventure sport of BASE jumping. He has already proved himself a strong chess player, too. In a 10-hour chess marathon in 2013, Gareyev played 33 games in his head simultaneously. He won 29 and lost none. The skill has become his brand: he calls himself the Blindfold King."
+    },
+    {
+      "label": "3",
+      "text": "B But Gareyev’s prowess has drawn interest from beyond the chess-playing community. In the hope of understanding how he and others like him can perform such mental feats, researchers at the University of California in Los Angeles (UCLA) called him in for tests. They now have their first results. ‘The ability to play a game of chess with your eyes closed is not a far reach for most accomplished players,’ said Jesse Rissman, who runs a memory lab at UCLA. ‘But the thing that’s so remarkable about Timur and a few other individuals is the number of games they can keep active at once. To me it is simply astonishing.’"
+    },
+    {
+      "label": "4",
+      "text": "C Gareyev learned to play chess in his native Uzbekistan when he was six years old. Tutored by his grandfather, he entered his first tournament aged eight and soon became obsessed with competitions. At 16, he was crowned Asia’s youngest ever chess grandmaster. He moved to the US soon after, and as a student helped his university win its first national chess championship. In 2013, Gareyev was ranked the third best chess player in the US."
+    },
+    {
+      "label": "5",
+      "text": "D To the uninitiated, blindfold chess seems to call for superhuman skill. But displays of the feat go back centuries. The first recorded game in Europe was played in 13th-century Florence. In 1947, the Argentinian grandmaster Miguel Najdorf played 45 simultaneous games in his mind, winning 39 in the 24-hour session."
+    },
+    {
+      "label": "6",
+      "text": "E Accomplished players can develop the skill of playing blind even without realising it. The nature of the game is to run through possible moves in the mind to see how they play out. From this, regular players develop a memory for the patterns the pieces make, the defences and attacks. ‘You recreate it in your mind,’ said Gareyev. ‘A lot of players are capable of doing what I’m doing.’ The real mental challenge comes from playing multiple games at once in the head. Not only must the positions of each piece on every board be memorised, they must be recalled faithfully when needed, updated with each player’s moves, and then reliably stored again, so the brain can move on to the next board. First moves can be tough to remember because they are fairly uninteresting. But the ends of games are taxing too, as exhaustion sets in. When Gareyev is tired, his recall can get patchy. He sometimes makes moves based on only a fragmented memory of the pieces’ positions."
+    },
+    {
+      "label": "7",
+      "text": "F The scientists first had Gareyev perform some standard memory tests. These assessed his ability to hold numbers, pictures and words in mind. One classic test measures how many numbers a person can repeat, both forwards and backwards, soon after hearing them. Most people manage about seven. ‘He was not exceptional on any of these standard tests,’ said Rissman. ‘We didn’t find anything other than playing chess that he seems to be supremely gifted at.’ But next came the brain scans. With Gareyev lying down in the machine, Rissman looked at how well connected the various regions of the chess player’s brain were. Though the results are tentative and as yet unpublished, the scans found much greater than average communication between parts of Gareyev’s brain that make up what is called the frontoparietal control network. Of 63 people scanned alongside the chess player, only one or two scored more highly on the measure. ‘You use this network in almost any complex task. It helps you to allocate attention, keep rules in mind, and work out whether you should be responding or not,’ said Rissman."
+    },
+    {
+      "label": "8",
+      "text": "G It was not the only hint of something special in Gareyev’s brain. The scans also suggest that Gareyev’s visual network is more highly connected to other brain parts than usual. Initial results suggest that the areas of his brain that process visual images – such as chess boards – may have stronger links to other brain regions, and so be more powerful than normal. While the analyses are not finalised yet, they may hold the first clues to Gareyev’s extraordinary ability."
+    },
+    {
+      "label": "9",
+      "text": "H For the world record attempt, Gareyev hopes to play 47 blindfold games at once in about 16 hours. He will need to win 80% to claim the title. ‘I don’t worry too much about the winning percentage, that’s never been an issue for me,’ he said. ‘The most important part of blindfold chess for me is that I have found the one thing that I can fully dedicate myself to. I miss having an obsession.’"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 27–32\n\nReading Passage 3 has eight paragraphs, A–H.\n\nWhich paragraph contains the following information?\n\nTick the correct answer for questions 27-32.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "a reference to earlier examples of blindfold chess",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8394_929678-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "an outline of what blindfold chess involves",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8394_929678-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "a claim that Gareyev’s skill is limited to chess",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8394_929678-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "why Gareyev’s skill is of interest to scientists",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8394_929678-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "an outline of Gareyev’s priorities",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8394_929678-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "a reason why the last part of a game may be difficult",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8394_929678-6"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 33–36\n\nDo the following statements agree with the information given in Reading Passage 3?\n\nChoose\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information about this",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "In the forthcoming games, all the participants will be blindfolded.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8394_560180",
+          "explanation": "本题的定位不难，因为全文开篇第一句就说到了即将展开的象棋对弈，考生只需再向下文阅读寻找选手情况，即可在第三句话里看到表达对比情况的信息：所有的对手都如常下棋，只有Gareyev自己会蒙上眼睛。即使在此处想杠一下“normal”这个词本身并没有提到是否蒙上眼睛，也可以通过全句使用了while表示不同和对比关系的上下文，推测出其他对手们肯定是没有蒙眼的，这与题干信息形成矛盾抵触，正确答案应为：FALSE。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Gareyev has won competitions in BASE jumping.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8394_573297",
+          "explanation": "本题的定位不算太难，因为“BASE jumping”这个信息原文出现在了A段里且距离上一道题位置并不算远。但原文里只说了Gareyev从这种运动中获得了极大的乐趣，并没有提及他是否在这个领域里也参加过比赛并获胜。不熟悉get sb’s kicks这个固定搭配用法的考生也许会由于不能确定它的意思而感到迟疑不绝(本文读者可移步前文“必背词汇”列表进行学习巩固)，这算是本题考查到的一个语言知识难点。一旦掌握了这个词组知识，就能看出“获得乐趣”与“赢得比赛”并不相关，而接下来向下文阅读几句、直到全段结束时，都再未提及这项运动的只言片语，可知答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "UCLA is the first university to carry out research into blindfold chess players",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8394_761110",
+          "explanation": "本题其实也不难定位，因为UCLA这个大写信息非常好找；然而原文中提及这所大学的时候只是作为对研究团队身份背景的介绍信息，完全没有给出“是否由这所大学率先开展了这个领域内研究”的任何相关内容，且直到下一题的信息已经出现也仍然如此，可以判定本题的正确答案也应为： NOT GIVEN。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Good chess players are likely to be able to play blindfold chess.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8394_755398",
+          "explanation": "本题虽然不像前两道题那样包含显眼的大写信息，但无论是题干句本身，还是对应的原文句，句式结构都不复杂，也没有使用什么困难生僻的词汇，考生应可比较轻松地看出题干中good与原文中accomplished两词之间的同义替换对应关系，继而得出正确答案应为：TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 37–40\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Answer for gap 37.",
+          "answers": [
+            "memory"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8394_728292",
+          "explanation": "37. 如果抛开答案出处位于全文比较靠后位置的F段这个因素，本题的定位可谓非常之友好。因为题干中的started by与相应原文中的first都是再基础不过的词汇了，考生只要足够耐心仔细地看到这一句，就能不费吹灰之力地看懂这一句，进而锁定本题答案应为：memory。\n\n38. 本题的解答难度也不高。首先，定位接近上一道题；其次，题干的理解难度适中。假如考生认识reverse这个词，就能同时回原文中寻找“正序”和“反序”这两个信息来定位；即使考生暂时还不认识这个单词，其实也可以根据题干中in reverse order与前面的in order形成的并列“and”关系，借以在原文中寻找“正序和另外某种不同于正序的order”这个信息。无论哪种情况，都能很快在正文中遇到forwards and backwards这个对应信息，进而判断出正确答案应为：numbers。\n\n39. 本题对于扎实推进平行阅读、逐句耐心看懂句意的考生会更为友好，因为题干中的“非比寻常量”这个信息在倒数第四句里的much greater than average这个表述中就已经有了明确的对应，进而对比寻找后也就可以得知答案应为：communication；然而如果把关注的重点放在directing attention这个限定说明上，则会在全段的最后一句话里的to allocate attention中才能得到最终确认。假如考生是在顺序平行阅读，那么读到此处相当于双重确认，自然也对自己的答案更加笃定。但如果反之，考生一开始若首先追求找到题干关键词的位置，则有可能在粗略浏览定位的过程中，先看到最后一句话里的题干原词attention，但却无法在这句话中找到相应答案，造成阅读时间精力的耗费。\n\n40. 本题的难度相对比较高。首先，是答案的定位处距离前几道题在原文中的位置可能略远，因为来自于下一个段落。不过其实在G段开头第一句，就有比较明确的信号告诉考生：从这里开始将会出现另一个讲述Gareyev大脑与众不同之处的信息。本题之所以略难的另一个原因在于对考生的灵活理解词汇能力的考查力度比较高。对应句中的process一词，在此句中采用的是相对较不常见的动词性用法“加工、处理”而非更为司空见惯的名词性用法“过程”；另外，题干中的input在对应原文中也采用了较为曲折隐晦的同义表达方式，因为如果从字典释义的角度来看，input是绝对没法和image进行直接同义替换的，考生需准确辨清词义、根据整个句子的完整意思表达，理解到“处理视觉图像”就是在“deal with某些类型的input”，继而得出正确答案应为：visual。",
+          "promptHtml": "Answer for gap 37."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Answer for gap 38.",
+          "answers": [
+            "numbers"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8394_291426",
+          "explanation": "37. 如果抛开答案出处位于全文比较靠后位置的F段这个因素，本题的定位可谓非常之友好。因为题干中的started by与相应原文中的first都是再基础不过的词汇了，考生只要足够耐心仔细地看到这一句，就能不费吹灰之力地看懂这一句，进而锁定本题答案应为：memory。\n\n38. 本题的解答难度也不高。首先，定位接近上一道题；其次，题干的理解难度适中。假如考生认识reverse这个词，就能同时回原文中寻找“正序”和“反序”这两个信息来定位；即使考生暂时还不认识这个单词，其实也可以根据题干中in reverse order与前面的in order形成的并列“and”关系，借以在原文中寻找“正序和另外某种不同于正序的order”这个信息。无论哪种情况，都能很快在正文中遇到forwards and backwards这个对应信息，进而判断出正确答案应为：numbers。\n\n39. 本题对于扎实推进平行阅读、逐句耐心看懂句意的考生会更为友好，因为题干中的“非比寻常量”这个信息在倒数第四句里的much greater than average这个表述中就已经有了明确的对应，进而对比寻找后也就可以得知答案应为：communication；然而如果把关注的重点放在directing attention这个限定说明上，则会在全段的最后一句话里的to allocate attention中才能得到最终确认。假如考生是在顺序平行阅读，那么读到此处相当于双重确认，自然也对自己的答案更加笃定。但如果反之，考生一开始若首先追求找到题干关键词的位置，则有可能在粗略浏览定位的过程中，先看到最后一句话里的题干原词attention，但却无法在这句话中找到相应答案，造成阅读时间精力的耗费。\n\n40. 本题的难度相对比较高。首先，是答案的定位处距离前几道题在原文中的位置可能略远，因为来自于下一个段落。不过其实在G段开头第一句，就有比较明确的信号告诉考生：从这里开始将会出现另一个讲述Gareyev大脑与众不同之处的信息。本题之所以略难的另一个原因在于对考生的灵活理解词汇能力的考查力度比较高。对应句中的process一词，在此句中采用的是相对较不常见的动词性用法“加工、处理”而非更为司空见惯的名词性用法“过程”；另外，题干中的input在对应原文中也采用了较为曲折隐晦的同义表达方式，因为如果从字典释义的角度来看，input是绝对没法和image进行直接同义替换的，考生需准确辨清词义、根据整个句子的完整意思表达，理解到“处理视觉图像”就是在“deal with某些类型的input”，继而得出正确答案应为：visual。",
+          "promptHtml": "Answer for gap 38."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Answer for gap 39.",
+          "answers": [
+            "communication"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8394_150333",
+          "explanation": "37. 如果抛开答案出处位于全文比较靠后位置的F段这个因素，本题的定位可谓非常之友好。因为题干中的started by与相应原文中的first都是再基础不过的词汇了，考生只要足够耐心仔细地看到这一句，就能不费吹灰之力地看懂这一句，进而锁定本题答案应为：memory。\n\n38. 本题的解答难度也不高。首先，定位接近上一道题；其次，题干的理解难度适中。假如考生认识reverse这个词，就能同时回原文中寻找“正序”和“反序”这两个信息来定位；即使考生暂时还不认识这个单词，其实也可以根据题干中in reverse order与前面的in order形成的并列“and”关系，借以在原文中寻找“正序和另外某种不同于正序的order”这个信息。无论哪种情况，都能很快在正文中遇到forwards and backwards这个对应信息，进而判断出正确答案应为：numbers。\n\n39. 本题对于扎实推进平行阅读、逐句耐心看懂句意的考生会更为友好，因为题干中的“非比寻常量”这个信息在倒数第四句里的much greater than average这个表述中就已经有了明确的对应，进而对比寻找后也就可以得知答案应为：communication；然而如果把关注的重点放在directing attention这个限定说明上，则会在全段的最后一句话里的to allocate attention中才能得到最终确认。假如考生是在顺序平行阅读，那么读到此处相当于双重确认，自然也对自己的答案更加笃定。但如果反之，考生一开始若首先追求找到题干关键词的位置，则有可能在粗略浏览定位的过程中，先看到最后一句话里的题干原词attention，但却无法在这句话中找到相应答案，造成阅读时间精力的耗费。\n\n40. 本题的难度相对比较高。首先，是答案的定位处距离前几道题在原文中的位置可能略远，因为来自于下一个段落。不过其实在G段开头第一句，就有比较明确的信号告诉考生：从这里开始将会出现另一个讲述Gareyev大脑与众不同之处的信息。本题之所以略难的另一个原因在于对考生的灵活理解词汇能力的考查力度比较高。对应句中的process一词，在此句中采用的是相对较不常见的动词性用法“加工、处理”而非更为司空见惯的名词性用法“过程”；另外，题干中的input在对应原文中也采用了较为曲折隐晦的同义表达方式，因为如果从字典释义的角度来看，input是绝对没法和image进行直接同义替换的，考生需准确辨清词义、根据整个句子的完整意思表达，理解到“处理视觉图像”就是在“deal with某些类型的input”，继而得出正确答案应为：visual。",
+          "promptHtml": "Answer for gap 39."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Answer for gap 40.",
+          "answers": [
+            "visual"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8394_259966",
+          "explanation": "37. 如果抛开答案出处位于全文比较靠后位置的F段这个因素，本题的定位可谓非常之友好。因为题干中的started by与相应原文中的first都是再基础不过的词汇了，考生只要足够耐心仔细地看到这一句，就能不费吹灰之力地看懂这一句，进而锁定本题答案应为：memory。\n\n38. 本题的解答难度也不高。首先，定位接近上一道题；其次，题干的理解难度适中。假如考生认识reverse这个词，就能同时回原文中寻找“正序”和“反序”这两个信息来定位；即使考生暂时还不认识这个单词，其实也可以根据题干中in reverse order与前面的in order形成的并列“and”关系，借以在原文中寻找“正序和另外某种不同于正序的order”这个信息。无论哪种情况，都能很快在正文中遇到forwards and backwards这个对应信息，进而判断出正确答案应为：numbers。\n\n39. 本题对于扎实推进平行阅读、逐句耐心看懂句意的考生会更为友好，因为题干中的“非比寻常量”这个信息在倒数第四句里的much greater than average这个表述中就已经有了明确的对应，进而对比寻找后也就可以得知答案应为：communication；然而如果把关注的重点放在directing attention这个限定说明上，则会在全段的最后一句话里的to allocate attention中才能得到最终确认。假如考生是在顺序平行阅读，那么读到此处相当于双重确认，自然也对自己的答案更加笃定。但如果反之，考生一开始若首先追求找到题干关键词的位置，则有可能在粗略浏览定位的过程中，先看到最后一句话里的题干原词attention，但却无法在这句话中找到相应答案，造成阅读时间精力的耗费。\n\n40. 本题的难度相对比较高。首先，是答案的定位处距离前几道题在原文中的位置可能略远，因为来自于下一个段落。不过其实在G段开头第一句，就有比较明确的信号告诉考生：从这里开始将会出现另一个讲述Gareyev大脑与众不同之处的信息。本题之所以略难的另一个原因在于对考生的灵活理解词汇能力的考查力度比较高。对应句中的process一词，在此句中采用的是相对较不常见的动词性用法“加工、处理”而非更为司空见惯的名词性用法“过程”；另外，题干中的input在对应原文中也采用了较为曲折隐晦的同义表达方式，因为如果从字典释义的角度来看，input是绝对没法和image进行直接同义替换的，考生需准确辨清词义、根据整个句子的完整意思表达，理解到“处理视觉图像”就是在“deal with某些类型的input”，继而得出正确答案应为：visual。",
+          "promptHtml": "Answer for gap 40."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>How the research was carried out</strong></span></p>\n\n<p><span>The researchers started by testing Gareyev’s </span><strong>[37] ______</strong><span> ; for example, he was required to recall a string of </span><strong>[38] ______</strong><span> in order and also in reverse order. Although his performance was normal, scans showed an unusual amount of </span><strong>[39] ______</strong><span> within the areas of Gareyev’s brain that are concerned with directing attention. In addition, the scans raised the possibility of unusual strength in the parts of his brain that deal with </span><strong>[40] ______</strong><span> input. </span><br>\n </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong><span>Timur Gareyev – blindfold chess champion </span></strong></span></p><p><br><span><strong>A</strong> Next month, a chess player named Timur Gareyev will take on nearly 50 opponents at once. But that is not the hard part. While his challengers will play the games as normal, Gareyev himself will be blindfolded. Even by world record standards, it sets a high bar for human performance. The 28-year-old already stands out in the rarefied world of blindfold chess. He has a fondness for bright clothes and unusual hairstyles, and he gets his kicks from the adventure sport of BASE jumping. He has already proved himself a strong chess player, too. In a 10-hour chess marathon in 2013, Gareyev played 33 games in his head simultaneously. He won 29 and lost none. The skill has become his brand: he calls himself the Blindfold King. </span></p><p><br><span><strong>B</strong> But Gareyev’s prowess has drawn interest from beyond the chess-playing community. In the hope of understanding how he and others like him can perform such mental feats, researchers at the University of California in Los Angeles (UCLA) called him in for tests. They now have their first results. ‘The ability to play a game of chess with your eyes closed is not a far reach for most accomplished players,’ said Jesse Rissman, who runs a memory lab at UCLA. ‘But the thing that’s so remarkable about Timur and a few other individuals is the number of games they can keep active at once. To me it is simply astonishing.’ </span></p><p><br><span><strong>C</strong> Gareyev learned to play chess in his native Uzbekistan when he was six years old. Tutored by his grandfather, he entered his first tournament aged eight and soon became obsessed with competitions. At 16, he was crowned Asia’s youngest ever chess grandmaster. He moved to the US soon after, and as a student helped his university win its first national chess championship. In 2013, Gareyev was ranked the third best chess player in the US. </span></p><p><br><span><strong>D </strong>To the uninitiated, blindfold chess seems to call for superhuman skill. But displays of the feat go back centuries. The first recorded game in Europe was played in 13th-century Florence. In 1947, the Argentinian grandmaster Miguel Najdorf played 45 simultaneous games in his mind, winning 39 in the 24-hour session. </span></p><p><br><span><strong>E</strong> Accomplished players can develop the skill of playing blind even without realising it. The nature of the game is to run through possible moves in the mind to see how they play out. From this, regular players develop a memory for the patterns the pieces make, the defences and attacks. ‘You recreate it in your mind,’ said Gareyev. ‘A lot of players are capable of doing what I’m doing.’ The real mental challenge comes from playing multiple games at once in the head. Not only must the positions of each piece on every board be memorised, they must be recalled faithfully when needed, updated with each player’s moves, and then reliably stored again, so the brain can move on to the next board. First moves can be tough to remember because they are fairly uninteresting. But the ends of games are taxing too, as exhaustion sets in. When Gareyev is tired, his recall can get patchy. He sometimes makes moves based on only a fragmented memory of the pieces’ positions. </span></p><p><br><span><strong>F</strong> The scientists first had Gareyev perform some standard memory tests. These assessed his ability to hold numbers, pictures and words in mind. One classic test measures how many numbers a person can repeat, both forwards and backwards, soon after hearing them. Most people manage about seven. ‘He was not exceptional on any of these standard tests,’ said Rissman. ‘We didn’t find anything other than playing chess that he seems to be supremely gifted at.’ But next came the brain scans. With Gareyev lying down in the machine, Rissman looked at how well connected the various regions of the chess player’s brain were. Though the results are tentative and as yet unpublished, the scans found much greater than average communication between parts of Gareyev’s brain that make up what is called the frontoparietal control network. Of 63 people scanned alongside the chess player, only one or two scored more highly on the measure. ‘You use this network in almost any complex task. It helps you to allocate attention, keep rules in mind, and work out whether you should be responding or not,’ said Rissman. </span></p><p><br><span><strong>G</strong> It was not the only hint of something special in Gareyev’s brain. The scans also suggest that Gareyev’s visual network is more highly connected to other brain parts than usual. Initial results suggest that the areas of his brain that process visual images – such as chess boards – may have stronger links to other brain regions, and so be more powerful than normal. While the analyses are not finalised yet, they may hold the first clues to Gareyev’s extraordinary ability. </span></p><p><br><span><strong>H</strong> For the world record attempt, Gareyev hopes to play 47 blindfold games at once in about 16 hours. He will need to win 80% to claim the title. ‘I don’t worry too much about the winning percentage, that’s never been an issue for me,’ he said. ‘The most important part of blindfold chess for me is that I have found the one thing that I can fully dedicate myself to. I miss having an obsession.’ </span></p>"
+}

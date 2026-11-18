@@ -1,0 +1,354 @@
+{
+  "id": "cambridge-18-test-2-listening-2",
+  "title": "Stanthorpe Twinning Association",
+  "titleCn": "Stanthorpe Twinning Association",
+  "subject": "listening",
+  "part": 2,
+  "duration": 437,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 2
+  },
+  "sourceQuestionId": "8448",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8448",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Hello everyone. It’s good to see that so many members of the public have shown up for our presentation on the new housing development planned on the outskirts of Nunston. I’m Mark Reynolds and I’m Communications Manager at the development."
+    },
+    {
+      "label": "2",
+      "text": "I’ll start by giving you a brief overview of our plans for the development. So one thing I’m sure you’ll want to know is why we’ve selected this particular site for a housing development. At present it’s being used for farming, like much of the land around Nunston. But because of the new industrial centre in Nunston, there’s a lot of demand for housing for employees in the region, as many employees are having to commute long distances at present. Of course, there’s also the fact that we have an international airport just 20 minutes’ drive away, but although that’s certainly convenient, it wasn’t one of our major criteria for choosing the site. We were more interested in the fact that there’s an excellent hospital just 15 kilometres away, and a large secondary school even closer than that. One drawback to the site is that it’s on quite a steep slope, but we’ve taken account of that in our planning so it shouldn’t be a major problem."
+    },
+    {
+      "label": "3",
+      "text": "We’ve had a lot of positive feedback about the plans. People like the wide variety of accommodation types and prices, and the fact that it’s only a short drive to get out into the countryside from the development. We were particularly pleased that so many people liked the designs for the layout of the development, with the majority of people saying it generally made a good impression and blended in well with the natural features of the landscape, with provision made for protecting trees and wildlife on the site. Some people have mentioned that they’d like to see more facilities for cyclists, and we’ll look at that, but the overall feedback has been that the design and facilities of the development make it seem a place where people of all ages can live together happily."
+    },
+    {
+      "label": "4",
+      "text": "OK. So I’ll put a map of the proposed development up on the screen. You’ll see it’s bounded on the south side by the main road, which then goes on to Nunston. Another boundary is formed by London Road, on the western side of the development. Inside the development there’ll be about 400 houses and 3 apartment blocks."
+    },
+    {
+      "label": "5",
+      "text": "There’ll also be a school for children up to 11 years old. If you look at the South Entrance at the bottom of the map, there’s a road from there that goes right up through the development. The school will be on that road, at the corner of the second turning to the left."
+    },
+    {
+      "label": "6",
+      "text": "A large sports centre is planned with facilities for indoor and outdoor activities. This will be on the western side of the development, just below the road that branches off from London Road."
+    },
+    {
+      "label": "7",
+      "text": "There’ll be a clinic where residents can go if they have any health problems. Can you see the lake towards the top of the map? The clinic will be just below this, to the right of a street of houses."
+    },
+    {
+      "label": "8",
+      "text": "There’ll also be a community centre for people of all ages. On the northeast side of the development, there’ll be a row of specially designed houses specifically for residents over 65, and the community centre will be adjoining this."
+    },
+    {
+      "label": "9",
+      "text": "We haven’t forgotten about shopping. There’ll be a supermarket between the two entrances to the development. We’re planning to leave the three large trees near London Road, and it’ll be just to the south of these."
+    },
+    {
+      "label": "10",
+      "text": "It’s planned to have a playground for younger children. If you look at the road that goes up from the South Entrance, you’ll see it curves round to the left at the top, and the playground will be in that curve, with nice views of the lake."
+    },
+    {
+      "label": "11",
+      "text": "OK, so now does anyone …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "multi",
+      "instruction": "Questions 11 and 14\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "What are the TWO main reasons why this site has been chosen for the housing development?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q8448_331014",
+          "options": [
+            {
+              "value": "A",
+              "text": "It has suitable geographical features."
+            },
+            {
+              "value": "B",
+              "text": "There is easy access to local facilities."
+            },
+            {
+              "value": "C",
+              "text": "It has good connections with the airport."
+            },
+            {
+              "value": "D",
+              "text": "The land is of little agricultural value."
+            },
+            {
+              "value": "E",
+              "text": "It will be convenient for workers."
+            }
+          ],
+          "explanation": "根据题干可知需要选择选址的原因。原文中的…why we’ve selected this particular site…提示答案即将出现。随后首先出现D选项中agricultural一词的同义替换farming，提到此地目前还是农耕用地，但未提及“几乎没有农耕价值”。随后的转折词But引出另一个原因，即工业园区的员工需要住房，因为目前通勤距离太远。employees替换E选项的workers，E选项中convenient一词需要整体理解原文答案句，即新建住房能让员工通勤距离变短，从而为其提供便利。下一句also一词提示另一个优点，即距离airport很近，C选项原词重现。但后文转折后予以否定，即it wasn’t one of our major criteria for choosing this site，故排除C选项。接下来，We were more interested in…引出更重要的原因，即距离医院和学校很近，对应B选项的easy access to local facilities，需要考生熟悉hospital和school的上义词替换facilities。最后原文提及房屋建在斜坡上，对应A选项的geographical features，但此处为缺点，而并非选址理由，故排除A选项。",
+          "setId": "Q8448_331014",
+          "blockId": "Q8448_331014"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "What are the TWO main reasons why this site has been chosen for the housing development?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q8448_331014",
+          "options": [
+            {
+              "value": "A",
+              "text": "It has suitable geographical features."
+            },
+            {
+              "value": "B",
+              "text": "There is easy access to local facilities."
+            },
+            {
+              "value": "C",
+              "text": "It has good connections with the airport."
+            },
+            {
+              "value": "D",
+              "text": "The land is of little agricultural value."
+            },
+            {
+              "value": "E",
+              "text": "It will be convenient for workers."
+            }
+          ],
+          "explanation": "根据题干可知需要选择选址的原因。原文中的…why we’ve selected this particular site…提示答案即将出现。随后首先出现D选项中agricultural一词的同义替换farming，提到此地目前还是农耕用地，但未提及“几乎没有农耕价值”。随后的转折词But引出另一个原因，即工业园区的员工需要住房，因为目前通勤距离太远。employees替换E选项的workers，E选项中convenient一词需要整体理解原文答案句，即新建住房能让员工通勤距离变短，从而为其提供便利。下一句also一词提示另一个优点，即距离airport很近，C选项原词重现。但后文转折后予以否定，即it wasn’t one of our major criteria for choosing this site，故排除C选项。接下来，We were more interested in…引出更重要的原因，即距离医院和学校很近，对应B选项的easy access to local facilities，需要考生熟悉hospital和school的上义词替换facilities。最后原文提及房屋建在斜坡上，对应A选项的geographical features，但此处为缺点，而并非选址理由，故排除A选项。",
+          "setId": "Q8448_331014",
+          "blockId": "Q8448_331014"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Which TWO aspects of the planned housing development have people given positive feedback about?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8448_762550",
+          "options": [
+            {
+              "value": "A",
+              "text": "the facilities for cyclists"
+            },
+            {
+              "value": "B",
+              "text": "the impact on the environment"
+            },
+            {
+              "value": "C",
+              "text": "the encouragement of good relations between residents"
+            },
+            {
+              "value": "D",
+              "text": "the low cost of all the accommodation"
+            },
+            {
+              "value": "E",
+              "text": "the rural location"
+            }
+          ],
+          "explanation": "本题需选出人们对这一新建住宅区给出的积极评价。题干的positive feedback原词重现。首先提到人们喜欢the wide variety of accommodation types and prices，即多样的种类和价格选择，可否定D选项。and后引出另一个原因，countryside对应E选项的rural，但并非住宅区位于乡村，而是距离乡村有很短的车程，因此排除E选项。接着提到人们喜欢住宅区的布局设计，随后提到…blended in well with the natural features of the landscape，其中的natural features对应B选项的environment，可初步确定B选项正确，原文紧接着提到protecting trees and wildlife…也和环保相关，可进一步确认B选项为正确选项之一。下一句中A选项的facilities for cyclists原词重现，但we’ll look at that表示将来会考虑，即目前还没有，故排除A选项。but后引出另一条反馈，即people of all ages can live together happily，对应C选项的good relations between residents，因此C选项为另一个正确选项。",
+          "setId": "Q8448_762550",
+          "blockId": "Q8448_762550"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Which TWO aspects of the planned housing development have people given positive feedback about?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8448_762550",
+          "options": [
+            {
+              "value": "A",
+              "text": "the facilities for cyclists"
+            },
+            {
+              "value": "B",
+              "text": "the impact on the environment"
+            },
+            {
+              "value": "C",
+              "text": "the encouragement of good relations between residents"
+            },
+            {
+              "value": "D",
+              "text": "the low cost of all the accommodation"
+            },
+            {
+              "value": "E",
+              "text": "the rural location"
+            }
+          ],
+          "explanation": "本题需选出人们对这一新建住宅区给出的积极评价。题干的positive feedback原词重现。首先提到人们喜欢the wide variety of accommodation types and prices，即多样的种类和价格选择，可否定D选项。and后引出另一个原因，countryside对应E选项的rural，但并非住宅区位于乡村，而是距离乡村有很短的车程，因此排除E选项。接着提到人们喜欢住宅区的布局设计，随后提到…blended in well with the natural features of the landscape，其中的natural features对应B选项的environment，可初步确定B选项正确，原文紧接着提到protecting trees and wildlife…也和环保相关，可进一步确认B选项为正确选项之一。下一句中A选项的facilities for cyclists原词重现，但we’ll look at that表示将来会考虑，即目前还没有，故排除A选项。but后引出另一条反馈，即people of all ages can live together happily，对应C选项的good relations between residents，因此C选项为另一个正确选项。",
+          "setId": "Q8448_762550",
+          "blockId": "Q8448_762550"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the facilities for cyclists"
+        },
+        {
+          "value": "B",
+          "text": "the impact on the environment"
+        },
+        {
+          "value": "C",
+          "text": "the encouragement of good relations between residents"
+        },
+        {
+          "value": "D",
+          "text": "the low cost of all the accommodation"
+        },
+        {
+          "value": "E",
+          "text": "the rural location"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 15–20\n\nChoose the correct letter, A–I, for Questions 15–20.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "School",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8448_288187-1"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Sports centre",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8448_288187-2"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Clinic",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8448_288187-3"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Community centre",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8448_288187-4"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Supermarket",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8448_288187-5"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Playground",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8448_288187-6"
+        }
+      ],
+      "contextHtml": "<p><em><span>Questions 15–20<br>\nChoose the correct letter, <strong>A–I</strong>, for Questions 15–20.</span></em></p>\n\n<p><em><span><img src=\"/api/guest/cambridge/media/images/cb3cf41a1162460f454c7bc753944d75.jpg\" alt=\"\"></span></em></p>\n",
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span>Hello everyone. It’s good to see that so many members of the public have shown up for our presentation on the new housing development planned on the outskirts of Nunston. I’m Mark Reynolds and I’m Communications Manager at the development.<br>\nI’ll start by giving you a brief overview of our plans for the development. So one thing I’m sure you’ll want to know is why we’ve selected this particular site for a housing development. At present it’s being used for farming, like much of the land around Nunston. But because of the new industrial centre in Nunston, there’s a lot of demand for housing for employees in the region, as many employees are having to commute long distances at present. Of course, there’s also the fact that we have an international airport just 20 minutes’ drive away, but although that’s certainly convenient, it wasn’t one of our major criteria for choosing the site. We were more interested in the fact that there’s an excellent hospital just 15 kilometres away, and a large secondary school even closer than that. One drawback to the site is that it’s on quite a steep slope, but we’ve taken account of that in our planning so it shouldn’t be a major problem.<br>\nWe’ve had a lot of positive feedback about the plans. People like the wide variety of accommodation types and prices, and the fact that it’s only a short drive to get out into the countryside from the development. We were particularly pleased that so many people liked the designs for the layout of the development, with the majority of people saying it generally made a good impression and blended in well with the natural features of the landscape, with provision made for protecting trees and wildlife on the site. Some people have mentioned that they’d like to see more facilities for cyclists, and we’ll look at that, but the overall feedback has been that the design and facilities of the development make it seem a place where people of all ages can live together happily.<br>\nOK. So I’ll put a map of the proposed development up on the screen. You’ll see it’s bounded on the south side by the main road, which then goes on to Nunston. Another boundary is formed by London Road, on the western side of the development. Inside the development there’ll be about 400 houses and 3 apartment blocks. <br>\nThere’ll also be a school for children up to 11 years old. If you look at the South Entrance at the bottom of the map, there’s a road from there that goes right up through the development. The school will be on that road, at the corner of the second turning to the left. <br>\nA large sports centre is planned with facilities for indoor and outdoor activities. This will be on the western side of the development, just below the road that branches off from London Road. <br>\nThere’ll be a clinic where residents can go if they have any health problems. Can you see the lake towards the top of the map? The clinic will be just below this, to the right of a street of houses. <br>\nThere’ll also be a community centre for people of all ages. On the northeast side of the development, there’ll be a row of specially designed houses specifically for residents over 65, and the community centre will be adjoining this.<br>\nWe haven’t forgotten about shopping. There’ll be a supermarket between the two entrances to the development. We’re planning to leave the three large trees near London Road, and it’ll be just to the south of these. <br>\nIt’s planned to have a playground for younger children. If you look at the road that goes up from the South Entrance, you’ll see it curves round to the left at the top, and the playground will be in that curve, with nice views of the lake. <br>\nOK, so now does anyone …</span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8448.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 437.219
+  }
+}

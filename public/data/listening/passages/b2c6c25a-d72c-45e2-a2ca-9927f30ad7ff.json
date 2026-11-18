@@ -1,0 +1,359 @@
+{
+  "id": "b2c6c25a-d72c-45e2-a2ca-9927f30ad7ff",
+  "title": "The land diving ceremony",
+  "titleCn": "瓦努阿图陆地蹦极仪式",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/b2c6c25a-d72c-45e2-a2ca-9927f30ad7ff",
+  "duration": 450,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,120"
+    },
+    {
+      "label": "2",
+      "text": "You will hear part of a lecture about land diving in Vanuatu."
+    },
+    {
+      "label": "3",
+      "text": "00:00:06,060"
+    },
+    {
+      "label": "4",
+      "text": "First, you have some time to look at questions one to ten."
+    },
+    {
+      "label": "5",
+      "text": "00:01:00,220"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions one to ten."
+    },
+    {
+      "label": "7",
+      "text": "00:01:07,240"
+    },
+    {
+      "label": "8",
+      "text": "Hello, everyone. My name is Thomas Johnson. Thank you for coming along to today's lecture. I have recently returned from a tour of the Pacific Islands, and today, I will speak on the topic of the land diving ceremonies of Pentecost Island in Vanuatu. You may have heard about this practice or have seen it on television, but it is still quite unbelievable to see it in person. For those who are not aware of it, I would like to give you a basic introduction. The practice involves the native people tying vines around their ankles and jumping off platforms in a way similar to bungee jumping. In fact, it is said to have been the original inspiration for bungee jumping. You might first wonder who the participants are in this ceremony. Well, only men can take part, whereas women are not allowed to participate, despite the fact that the legend from which the ceremony originates names a woman as the original diver. Boys can begin to participate around the ages of seven or eight as a rite of passage or initiation. However, other children are not included. The ceremonies are held each year during the dry season between April and June. This is for two reasons. Firstly, lianas, the vines which are used in the ceremony, are at their most elastic during this period. Secondly, the ceremony is said to celebrate and bring blessings on the annual yam harvest, and it is a great attraction for the villagers, with everyone attending to sing, dance, and encourage the bravery of the divers. The ceremony is also said to bring personal benefits to the divers, such as increasing the masculinity and strength of a man. Taking part is considered a kind of cleansing for the man. Now, I would like to provide you with some details about land diving. Well, the preparation of the towers is a major event for the village, and many men in the village prepare them for the ceremony in preceding weeks. The tower and platforms are built. Additionally, the soil is worked over to ensure it is moistened and raked to make it softer. If the soil is too dry, the diver will be injured when he touches the ground. You might wonder how the jumpers protect themselves from injury. During a dive, the diver tucks his head in. The optimal outcome is that the shoulders of the diver brush the ground, but this depends on the selection of the individual vine, which is chosen to suit each diver's height and weight, but without any scientific measurements. While it is impossible to eliminate every danger, such as the danger of hitting the ground or the tower itself, it is considered important if the length of the vine is incorrect. Obstacles such as rocks will need to be removed. Usually, around 15 to 25 men from each village will participate in the annual diving ceremony. Since their age and experience vary, they will dive from towers of various elevations. The lowest may be around 10 meters, while the highest may be over 30 meters. The boards, set at the various heights, are designed to break as the diver reaches the end of his dive, absorbing some of the impact. The Vanuatu Tourism Council encourages widespread reports about the ceremonies in the international media to boost tourism, which in turn supports the local economy and charity programs. Many of the local villages allow tourists to visit during their ceremonies, as it allows them to earn money. However, this practice is controversial, as some feel that it may have negative effects on the integrity and authenticity of the ceremony. For the same reason, commercial filming of important ceremonies has been under ban for more than 10 years. Only films for educational purposes are allowed. Now, let's begin to..."
+    },
+    {
+      "label": "9",
+      "text": "00:05:22,580"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of today's practice."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "69c8753d-149d-42d2-a417-adf75340f929",
+          "prompt": "**Land Diving in Vanuatu**\n\n**Participants**\n·Exclude **31**_____",
+          "answers": [
+            "women"
+          ],
+          "rawAnswer": "women",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Well, only men can take part, whereas women are not allowed to participate, despite the fact that the legend from which the ceremony originates names a woman as the original diver"
+          },
+          "keywordPairs": [
+            {
+              "question": "Exclude",
+              "article": "are not allowed to"
+            },
+            {
+              "question": "Participants",
+              "article": "take part"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "55f3a105-590a-4305-8727-8f300e5954fb",
+          "prompt": "and most **32**_____ .",
+          "answers": [
+            "children"
+          ],
+          "rawAnswer": "children",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Boys can begin to participate around the ages of seven or eight as a rite of passage or initiation. However, other children are not included"
+          },
+          "keywordPairs": [
+            {
+              "question": "Exclude",
+              "article": "are not included"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "d6e5dde8-9b85-448c-8f23-0f8c9602d3bd",
+          "prompt": "**Special meaning**\n·Bring good luck for the **33**_____ of a certain crop.",
+          "answers": [
+            "harvest"
+          ],
+          "rawAnswer": "harvest",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Secondly, the ceremony is said to celebrate and bring blessings on the annual yam harvest, and it is a great attraction for the villagers, with everyone attending to sing, dance, and encourage the bravery of the divers"
+          },
+          "keywordPairs": [
+            {
+              "question": "good luck for",
+              "article": "blessings on"
+            },
+            {
+              "question": "a certain crop",
+              "article": "yam"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "591074c4-466a-4539-9346-ca9fa27000ef",
+          "prompt": "·For men, the ceremony increases strengths and is regarded as a type of **34**_____ .",
+          "answers": [
+            "cleansing"
+          ],
+          "rawAnswer": "cleansing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The ceremony is also said to bring personal benefits to the divers, such as increasing the masculinity and strength of a man. Taking part is considered a kind of cleansing for the man"
+          },
+          "keywordPairs": [
+            {
+              "question": "For men",
+              "article": "for the man"
+            },
+            {
+              "question": "regarded as",
+              "article": "considered"
+            },
+            {
+              "question": "type",
+              "article": "kind"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "1762e0d6-b35e-471a-96e0-f1adf21dac3e",
+          "prompt": "**Details**\n·**35**_____ soil will cause injuries to divers.",
+          "answers": [
+            "dry"
+          ],
+          "rawAnswer": "dry",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Additionally, the soil is worked over to ensure it is moistened and raked to make it softer. If the soil is too dry, the diver will be injured when he touches the ground"
+          },
+          "keywordPairs": [
+            {
+              "question": "soil",
+              "article": "soil"
+            },
+            {
+              "question": "will cause injuries",
+              "article": "will be injured"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "09310673-fbd5-418b-9095-dbfbbaa3127d",
+          "prompt": "·Divers should touch the ground with their **36**_____ to avoid injury.",
+          "answers": [
+            "shoulders"
+          ],
+          "rawAnswer": "shoulders",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The optimal outcome is that the shoulders of the diver brush the ground, but this depends on the selection of the individual vine, which is chosen to suit each diver's height and weight, but without any scientific measurements"
+          },
+          "keywordPairs": [
+            {
+              "question": "touch",
+              "article": "brush"
+            },
+            {
+              "question": "avoid injury",
+              "article": "optimal outcome"
+            },
+            {
+              "question": "Divers",
+              "article": "diver"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "a9fce25c-90e3-403b-ae25-8f6f5eca3f07",
+          "prompt": "·Jumpers should get rid of barriers such as **37**_____ .",
+          "answers": [
+            "rocks"
+          ],
+          "rawAnswer": "rocks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Obstacles such as rocks will need to be removed"
+          },
+          "keywordPairs": [
+            {
+              "question": "barriers",
+              "article": "Obstacles"
+            },
+            {
+              "question": "get rid of",
+              "article": "will need to be removed"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "26fbba53-a6e1-4ce6-baa6-d3cd4c0f2583",
+          "prompt": "·Divers jump from towers of different heights because of their different age and **38**_____ .",
+          "answers": [
+            "experience"
+          ],
+          "rawAnswer": "experience",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Since their age and experience vary, they will dive from towers of various elevations"
+          },
+          "keywordPairs": [
+            {
+              "question": "different heights",
+              "article": "various elevations"
+            },
+            {
+              "question": "different age",
+              "article": "age vary"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "f3483e58-fe86-4192-890f-aa53257cda11",
+          "prompt": "**Today**\n·Purpose of reporting the ceremony: to develop **39**_____ directly.",
+          "answers": [
+            "tourism"
+          ],
+          "rawAnswer": "tourism",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The Vanuatu Tourism Council encourages widespread reports about the ceremonies in the international media to boost tourism, which in turn supports the local economy and charity programs"
+          },
+          "keywordPairs": [
+            {
+              "question": "Purpose of reporting the ceremony",
+              "article": "encourages widespread reports about the ceremonies"
+            },
+            {
+              "question": "develop",
+              "article": "boost"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "75dd8582-1ed7-4edd-9c9e-6ff0d5e1ff0b",
+          "prompt": "·Films for **40**_____ purposes are not allowed for over a decade.",
+          "answers": [
+            "commercial"
+          ],
+          "rawAnswer": "commercial",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For the same reason, commercial filming of important ceremonies has been under ban for more than 10 years. Only films for educational purposes are allowed"
+          },
+          "keywordPairs": [
+            {
+              "question": "Films",
+              "article": "filming"
+            },
+            {
+              "question": "not allowed",
+              "article": "has been under ban"
+            },
+            {
+              "question": "over a decade",
+              "article": "more than 10 years"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,120</p><p>You will hear part of a lecture about land diving in Vanuatu. </p><p>00:00:06,060</p><p>First, you have some time to look at questions one to ten. </p><p>00:01:00,220</p><p>Now listen carefully and answer questions one to ten. </p><p>00:01:07,240</p><p>Hello, everyone. My name is Thomas Johnson. Thank you for coming along to today's lecture. I have recently returned from a tour of the Pacific Islands, and today, I will speak on the topic of the land diving ceremonies of Pentecost Island in Vanuatu. You may have heard about this practice or have seen it on television, but it is still quite unbelievable to see it in person. For those who are not aware of it, I would like to give you a basic introduction. The practice involves the native people tying vines around their ankles and jumping off platforms in a way similar to bungee jumping. In fact, it is said to have been the original inspiration for bungee jumping. You might first wonder who the participants are in this ceremony. Well, only men can take part, whereas women are not allowed to participate, despite the fact that the legend from which the ceremony originates names a woman as the original diver. Boys can begin to participate around the ages of seven or eight as a rite of passage or initiation. However, other children are not included. The ceremonies are held each year during the dry season between April and June. This is for two reasons. Firstly, lianas, the vines which are used in the ceremony, are at their most elastic during this period. Secondly, the ceremony is said to celebrate and bring blessings on the annual yam harvest, and it is a great attraction for the villagers, with everyone attending to sing, dance, and encourage the bravery of the divers. The ceremony is also said to bring personal benefits to the divers, such as increasing the masculinity and strength of a man. Taking part is considered a kind of cleansing for the man. Now, I would like to provide you with some details about land diving. Well, the preparation of the towers is a major event for the village, and many men in the village prepare them for the ceremony in preceding weeks. The tower and platforms are built. Additionally, the soil is worked over to ensure it is moistened and raked to make it softer. If the soil is too dry, the diver will be injured when he touches the ground. You might wonder how the jumpers protect themselves from injury. During a dive, the diver tucks his head in. The optimal outcome is that the shoulders of the diver brush the ground, but this depends on the selection of the individual vine, which is chosen to suit each diver's height and weight, but without any scientific measurements. While it is impossible to eliminate every danger, such as the danger of hitting the ground or the tower itself, it is considered important if the length of the vine is incorrect. Obstacles such as rocks will need to be removed. Usually, around 15 to 25 men from each village will participate in the annual diving ceremony. Since their age and experience vary, they will dive from towers of various elevations. The lowest may be around 10 meters, while the highest may be over 30 meters. The boards, set at the various heights, are designed to break as the diver reaches the end of his dive, absorbing some of the impact. The Vanuatu Tourism Council encourages widespread reports about the ceremonies in the international media to boost tourism, which in turn supports the local economy and charity programs. Many of the local villages allow tourists to visit during their ceremonies, as it allows them to earn money. However, this practice is controversial, as some feel that it may have negative effects on the integrity and authenticity of the ceremony. For the same reason, commercial filming of important ceremonies has been under ban for more than 10 years. Only films for educational purposes are allowed. Now, let's begin to... </p><p>00:05:22,580</p><p>That is the end of today's practice.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/b2c6c25a-d72c-45e2-a2ca-9927f30ad7ff.mp3",
+    "durationSeconds": 329.616,
+    "sizeBytes": 1318899,
+    "sha256": "f20c299a5cad51d1ddbb430546bcf30afb1753319ace39dd350a6343a4f1c7c9",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:33:32Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1793182526214_7q25zc.mp3"
+}

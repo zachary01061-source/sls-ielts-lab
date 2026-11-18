@@ -1,0 +1,355 @@
+{
+  "id": "cambridge-19-test-3-reading-3",
+  "title": "Is the era of artificial speech translation upon us?",
+  "titleCn": "Is the era of artificial speech translation upon us?",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 3
+  },
+  "sourceQuestionId": "8510",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8510",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Is the era of artificial speech translation upon us?"
+    },
+    {
+      "label": "2",
+      "text": "Once the stuff of science fiction, technology that enables people to talk using different languages is now here. But how effective is it?"
+    },
+    {
+      "label": "3",
+      "text": "Noise, Alex Waibel tells me, is one of the major challenges that artificial speech translation has to meet. A device may be able to recognise speech in a laboratory, or a meeting room, but will struggle to cope with the kind of background noise I can hear in my office surrounding Professor Waibel as he speaks to me from Kyoto station in Japan. I’m struggling to follow him in English, on a scratchy line that reminds me we are nearly 10,000 kilometres apart – and that distance is still an obstacle to communication even if you’re speaking the same language, as we are. We haven’t reached the future yet. If we had, Waibel would have been able to speak more comfortably in his native German and I would have been able to hear his words in English."
+    },
+    {
+      "label": "4",
+      "text": "At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students can follow in English via an electronic translator. The system generates text that students can read on their laptops or phones, so the process is somewhat similar to subtitling. It helps that lecturers speak clearly, don’t have to compete with background chatter, and say much the same thing each year."
+    },
+    {
+      "label": "5",
+      "text": "The idea of artificial speech translation has been around for a long time. Douglas Adams’ science fiction novel, The Hitchhiker’s Guide to the Galaxy, published in 1979, featured a life form called the ‘Babel fish’ which, when placed in the ear, enabled a listener to understand any language in the universe. It came to represent one of those devices that technology enthusiasts dream of long before they become practically realisable, like TVs flat enough to hang on walls: objects that we once could only dream of having but that are now commonplace. Now devices that look like prototype Babel fish have started to appear, riding a wave of advances in artificial translation and voice recognition."
+    },
+    {
+      "label": "6",
+      "text": "At this stage, however, they seem to be regarded as eye-catching novelties rather than steps towards what Waibel calls ‘making a language-transparent society’. They tend to be domestic devices or applications suitable for hotel check-ins, for example, providing a practical alternative to speaking traveller’s English. The efficiency of the translator is less important than the social function. However, ‘Professionals are less inclined to be patient in a conversation,’ founder and CEO at Waverly Labs, Andrew Ochoa, observes. To redress this, Waverly is now preparing a new model for professional applications, which entails performance improvements in speech recognition, translation accuracy and the time it takes to deliver the translated speech."
+    },
+    {
+      "label": "7",
+      "text": "For a conversation, both speakers need to have devices called Pilots (translator earpieces) in their ears. ‘We find that there’s a barrier with sharing one of the earphones with a stranger,’ says Ochoa. That can’t have been totally unexpected. The problem would be solved if earpiece translators became sufficiently prevalent that strangers would be likely to already have their own in their ears. Whether that happens, and how quickly, will probably depend not so much on the earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general."
+    },
+    {
+      "label": "8",
+      "text": "Waibel highlights the significance of certain Asian nations, noting that voice translation has really taken off in countries such as Japan with a range of systems. There is still a long way to go, though. A translation system needs to be simultaneous, like the translator’s voice speaking over the foreign politician being interviewed on the TV, rather than in sections that oblige speakers to pause after every few remarks and wait for the translation to be delivered. It needs to work offline, for situations where internet access isn’t possible, and to address apprehensions about the amount of private speech data accumulating in the cloud, having been sent to servers for processing."
+    },
+    {
+      "label": "9",
+      "text": "Systems not only need to cope with physical challenges such as noise, they will also need to be socially aware by addressing people in the right way. Some cultural traditions demand solemn respect for academic status, for example, and it is only polite to respect this. Etiquette-sensitive artificial translators could relieve people of the need to know these differing cultural norms. At the same time, they might help to preserve local customs, slowing the spread of habits associated with international English, such as its readiness to get on first-name terms."
+    },
+    {
+      "label": "10",
+      "text": "Professors and other professionals will not outsource language awareness to software, though. If the technology matures into seamless, ubiquitous artificial speech translation, it will actually add value to language skills. Whether it will help people conduct their family lives or relationships is open to question – though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language."
+    },
+    {
+      "label": "11",
+      "text": "Whatever uses it is put to, though, it will never be as good as the real thing. Even if voice- morphing technology simulates the speaker’s voice, their lip movements won’t match, and they will look like they are in a dubbed movie. The contrast will underline the value of shared languages, and the value of learning them. Sharing a language can promote a sense of belonging and community, as with the international scientists who use English as a lingua franca, where their predecessors used Latin. Though the practical need for a common language will diminish, the social value of sharing one will persist. And software will never be a substitute for the subtle but vital understanding that comes with knowledge of a language."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27–30\n\nChoose the correct letter, A, B, C or D.\n\nWrite the correct letter in boxes 27–30 on your answer sheet.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "What does the reader learn about the conversation in the first paragraph?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8510_938705",
+          "options": [
+            {
+              "value": "A",
+              "text": "The speakers are communicating in different languages."
+            },
+            {
+              "value": "B",
+              "text": "Neither of the speakers is familiar with their environment."
+            },
+            {
+              "value": "C",
+              "text": "The topic of the conversation is difficult for both speakers."
+            },
+            {
+              "value": "D",
+              "text": "Aspects of the conversation are challenging for both speakers."
+            }
+          ],
+          "explanation": "译文：读者能在第一段里得知关于这场对话的什么情况？\n\n本题的难点就在于考生几乎需要读遍全段内容、一一比对四个选项，主要依靠排除法来否定三个并没有被提及的信息，才能确定最合适的答案应为D项：Aspects of the conversation are challenging for both speakers.（这场谈话的一些方面对于交谈双方来说都存在一定挑战。）这段从第一句话就开始引入了对这场交谈的介绍。随着段落表述的推进，读者可以依次了解到：语言翻译技术在实验室或会议室的安静环境下工作尚可，应用在远距离对话场景中则还要受到诸多因素的影响：周遭的噪音、电话中会传来沙沙的杂音，以及对方虽然母语为德语却不得不也讲英语方便作者听懂。这些共同对应了D项的总结陈述。\n\nA项：The speakers are communicating in different languages.（交谈双方在用不同的语言交流。）只要看懂了本段最后一句中would have been able to这个虚拟的表达，就能知道实际情况是Waibel教授这一方并不能使用自己更得心应手的母语德语，而是需要迁就作者也讲英语。这当然直接否定了本项。\n\nB项：Neither of the speakers is familiar with their environment.（交谈双方都对自己的环境并不熟悉。）第一段里并无任何地方提及二人是否熟悉自己的通话环境。如果一定要较真儿的话，作者身处自己的办公室中，按理来说也不会对周遭太过陌生。不过，无论怎么发挥，都应该不影响考生看出这并不是正确答案项。\n\nC项：The topic of the conversation is difficult for both speakers.（交谈的话题对谈话双方来说都很困难。）这一项更是完全不曾被提及的内容，考生只要看遍了第一段内容，就应该不会被这个选项干扰到。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "What assists the electronic translator during lectures at Karlsruhe Institute of Technology?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8510_177026",
+          "options": [
+            {
+              "value": "A",
+              "text": "the repeated content of lectures"
+            },
+            {
+              "value": "B",
+              "text": "the students’ reading skills"
+            },
+            {
+              "value": "C",
+              "text": "the languages used"
+            },
+            {
+              "value": "D",
+              "text": "the lecturers’ technical ability"
+            }
+          ],
+          "explanation": "译文：是什么在Karlsruhe技术学院的讲座中有助于电子翻译器工作？\n\n题干中的学院名称一模一样地出现在了第二段的第一句话里，因此定位不难。考生当然可以进而利用题干中assists这个提示信息直接定位到包含了help这个对应表述的第三句话，但其实这个做法也占不到什么太大便宜，反而可能导致缺少了一些衔接上下文的逻辑链条。本段篇幅并不长，一共只有三句话。因此，笔者还是想苦口婆心地提醒一遍：与其搜肠刮肚地寻找“偷懒”少看的办法，不如扎实锻炼自己扫读、略读、定位理解细节等阅读能力，反而“老实人不吃亏”，可以更有把握地锁定答案为A项：the repeated content of lectures（讲座的重复内容）。直接对应的第三句话里给出了若干个使得电子翻译技术在这所学院里工作更加顺畅的因素：讲座人说话清晰、没有什么背景杂音，以及每年都讲差不多相同的内容。用这几点来匹配四个选项，当然只有A项给出了对应的表达。关于这句话的详细分析，可参见前文“佳句赏析”的第二句。\n\nB项：the students’ reading skills（学生的阅读能力）第二段并没有提及与学生阅读能力相关的信息，是一个“无中生有”式的弱干扰选项。\n\nC项：the languages used（所使用的语言）与上一项类似，子虚乌有。\n\nD项：the lecturers’ technical ability（讲座人的技术能力）与另外两项类似，是文章中完全没有提到过的信息。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "When referring to The Hitchhiker’s Guide to the Galaxy, the writer suggests that",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8510_210711",
+          "options": [
+            {
+              "value": "A",
+              "text": "the Babel fish was considered undesirable at the time."
+            },
+            {
+              "value": "B",
+              "text": "this book was not seriously intending to predict the future."
+            },
+            {
+              "value": "C",
+              "text": "artificial speech translation was not a surprising development."
+            },
+            {
+              "value": "D",
+              "text": "some speech translation techniques are better than others."
+            }
+          ],
+          "explanation": "译文：在提及《银河系漫游指南》时，作者指出\n\n本题仍然需要考生几乎看遍全段，因为这个斜体的书名出现在全段第二句话里，然而考生却需要此前第一句话的背景铺垫才能更完整地理解段意。该段首先指出这种人工语音翻译的理念由来已久，然后跟进介绍科幻小说中曾畅想的一种万能语言翻译器Babel fish，接下来跟进指出这个科幻理念在现实生活中的象征意义，代表了这一类的很多其他技术也曾听起来匪夷所思但后来成为现实。有了对这样一轮表述的全盘理解，考生才能更加确认答案应为C项：artificial speech translation was not a surprising development.（人工语言翻译并非什么出人意料的发展。）\n\n本题中的另外三个选项，基本都属于“完全未在段中被提到”的类型，干扰性不大。\n\nA项：the Babel fish was considered undesirable at the time.（巴别鱼在当时被视为并没有什么吸引力。）\n\nB项：this book was not seriously intending to predict the future.（这本书并不真的旨在预测未来。）\n\nD项：some speech translation techniques are better than others.（一些语音翻译技术比另一些更好。）"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "What does the writer say about sharing earpieces?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8510_174621",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is something people will get used to doing."
+            },
+            {
+              "value": "B",
+              "text": "The reluctance to do this is understandable."
+            },
+            {
+              "value": "C",
+              "text": "The equipment will be unnecessary in the future."
+            },
+            {
+              "value": "D",
+              "text": "It is something few people need to worry about."
+            }
+          ],
+          "explanation": "译文：作者关于共享耳机这件事说了什么？\n\n本题对应处在第五段，与上一题的距离略远。不过题干中的sharing和earpieces还是原词重现的，所以不难定位。解答本题仍然需要考生看遍全段，因为需要反复对比四个选项的表述，才能在看完全段内容后最终确认答案应为B项：The reluctance to do this is understandable.（不愿这样去做是情有可原的。）第五段第二句话说“发现人们要跟一个陌生人共用翻译耳机是存在障碍的”，第三句话又跟进评论说，这倒也并不令人非常意外。综合来看就是在对应B项表述。\n\n本题中的另外三个选项，也都未在文中被提到，干扰性不大，但却要求考生在一一对比过之后才能确认这一点，因此工作量略大。\n\nA项：It is something people will get used to doing.（这是人们将会逐渐适应的一种做法。）\n\nC项：The equipment will be unnecessary in the future.（这种设备未来将再无存在必要。）\n\nD项：It is something few people need to worry about.（这是没什么人需要担心的事。）"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 31–34\n\nComplete each sentence with the correct ending, A–F, below.\n\nWrite the correct letter, A–F, in boxes 31–34 on your answer sheet.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Speech translation methods are developing fast in Japan[31] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8510_592669",
+          "explanation": "31. 译文：语言翻译方法在日本发展迅速\n\n本题的定位很有趣：假如考生并不认识第一段里的Kyoto是日本城市“京都”，反而不会受到任何干扰地来到第六段中找到原词重现的Japan；不过即使认识这个单词，使用平行阅读的考生也很快会发现第一段虽然提及京都但并没有题干所说的“技术迅猛发展”这个意思。在最终准确定位到第六段后，考生会发现本段采用了总分结构：第一句先铺垫在日本等亚洲国家，技术飞速发展，第二句再评价说仍然路漫漫其修远兮，接下来则列举种种细节支持之所以任重道远的论点。综合这些内容来对比所有选项，可知正确句尾应为C项：but they are far from perfect.（但是它们远未臻于完美。）\n\n32. 译文：使用翻译画外音方法的电视访谈很成功\n\n本题的定位嵌套在上一题的阅读范围里，因此考生在寻找上一题答案时其实就已经读到了相关内容。第六段第三句话说，电视里访谈政要的时候可以同步听到译员翻译后的声音，这对应的正确句尾为E项：because translation is immediate.（因为翻译是实时的。）\n\n33. 译文：未来的翻译系统应当恰当地称呼人们\n\n本题的定位紧邻上一题，出在第七段里。句首题干对应的是本段第一句话，addressing people in the right way这个原文表达与题干内容高度适配，不难找到；但这句话本身并没有更充足的信息供考生对应句尾选项，所以考生需要耐心再看下一句话，才能从“有些文化传统要求人们庄重对待学术地位，得尊重这种传统才算有礼貌”这个表达中，匹配到正确句尾应为F项：and have an awareness of good manners.（并关注到举止礼貌。）\n\n34. 译文：使用者也许可以保留自己的本地习俗\n\n本题的定位不难，紧跟上一题之后来自第七段的最后一句；但这句话的表述比较曲折隐晦，考生需要真正看懂它在说什么，也就是“国际通用英语中的固定做法是与人初识就用名字来称呼对方”，再结合此前几句话的表述，也就是“在有些文化中可能需要庄重严肃地进行称呼，也就是不一定上来就亲昵地称呼名字而是例如使用姓氏+头衔来更显尊敬正式”。把这两个方面的意思都理解到位，考生就能准确匹配到正确句尾应为B项：as systems do not need to conform to standard practices.（因为系统不需要遵从标准做法。）",
+          "promptHtml": "Speech translation methods are developing fast in Japan[31] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "TV interviews that use translation voiceover methods are successful[32] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8510_636222",
+          "explanation": "31. 译文：语言翻译方法在日本发展迅速\n\n本题的定位很有趣：假如考生并不认识第一段里的Kyoto是日本城市“京都”，反而不会受到任何干扰地来到第六段中找到原词重现的Japan；不过即使认识这个单词，使用平行阅读的考生也很快会发现第一段虽然提及京都但并没有题干所说的“技术迅猛发展”这个意思。在最终准确定位到第六段后，考生会发现本段采用了总分结构：第一句先铺垫在日本等亚洲国家，技术飞速发展，第二句再评价说仍然路漫漫其修远兮，接下来则列举种种细节支持之所以任重道远的论点。综合这些内容来对比所有选项，可知正确句尾应为C项：but they are far from perfect.（但是它们远未臻于完美。）\n\n32. 译文：使用翻译画外音方法的电视访谈很成功\n\n本题的定位嵌套在上一题的阅读范围里，因此考生在寻找上一题答案时其实就已经读到了相关内容。第六段第三句话说，电视里访谈政要的时候可以同步听到译员翻译后的声音，这对应的正确句尾为E项：because translation is immediate.（因为翻译是实时的。）\n\n33. 译文：未来的翻译系统应当恰当地称呼人们\n\n本题的定位紧邻上一题，出在第七段里。句首题干对应的是本段第一句话，addressing people in the right way这个原文表达与题干内容高度适配，不难找到；但这句话本身并没有更充足的信息供考生对应句尾选项，所以考生需要耐心再看下一句话，才能从“有些文化传统要求人们庄重对待学术地位，得尊重这种传统才算有礼貌”这个表达中，匹配到正确句尾应为F项：and have an awareness of good manners.（并关注到举止礼貌。）\n\n34. 译文：使用者也许可以保留自己的本地习俗\n\n本题的定位不难，紧跟上一题之后来自第七段的最后一句；但这句话的表述比较曲折隐晦，考生需要真正看懂它在说什么，也就是“国际通用英语中的固定做法是与人初识就用名字来称呼对方”，再结合此前几句话的表述，也就是“在有些文化中可能需要庄重严肃地进行称呼，也就是不一定上来就亲昵地称呼名字而是例如使用姓氏+头衔来更显尊敬正式”。把这两个方面的意思都理解到位，考生就能准确匹配到正确句尾应为B项：as systems do not need to conform to standard practices.（因为系统不需要遵从标准做法。）",
+          "promptHtml": "TV interviews that use translation voiceover methods are successful[32] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Future translation systems should address people appropriately[33] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8510_852625",
+          "explanation": "31. 译文：语言翻译方法在日本发展迅速\n\n本题的定位很有趣：假如考生并不认识第一段里的Kyoto是日本城市“京都”，反而不会受到任何干扰地来到第六段中找到原词重现的Japan；不过即使认识这个单词，使用平行阅读的考生也很快会发现第一段虽然提及京都但并没有题干所说的“技术迅猛发展”这个意思。在最终准确定位到第六段后，考生会发现本段采用了总分结构：第一句先铺垫在日本等亚洲国家，技术飞速发展，第二句再评价说仍然路漫漫其修远兮，接下来则列举种种细节支持之所以任重道远的论点。综合这些内容来对比所有选项，可知正确句尾应为C项：but they are far from perfect.（但是它们远未臻于完美。）\n\n32. 译文：使用翻译画外音方法的电视访谈很成功\n\n本题的定位嵌套在上一题的阅读范围里，因此考生在寻找上一题答案时其实就已经读到了相关内容。第六段第三句话说，电视里访谈政要的时候可以同步听到译员翻译后的声音，这对应的正确句尾为E项：because translation is immediate.（因为翻译是实时的。）\n\n33. 译文：未来的翻译系统应当恰当地称呼人们\n\n本题的定位紧邻上一题，出在第七段里。句首题干对应的是本段第一句话，addressing people in the right way这个原文表达与题干内容高度适配，不难找到；但这句话本身并没有更充足的信息供考生对应句尾选项，所以考生需要耐心再看下一句话，才能从“有些文化传统要求人们庄重对待学术地位，得尊重这种传统才算有礼貌”这个表达中，匹配到正确句尾应为F项：and have an awareness of good manners.（并关注到举止礼貌。）\n\n34. 译文：使用者也许可以保留自己的本地习俗\n\n本题的定位不难，紧跟上一题之后来自第七段的最后一句；但这句话的表述比较曲折隐晦，考生需要真正看懂它在说什么，也就是“国际通用英语中的固定做法是与人初识就用名字来称呼对方”，再结合此前几句话的表述，也就是“在有些文化中可能需要庄重严肃地进行称呼，也就是不一定上来就亲昵地称呼名字而是例如使用姓氏+头衔来更显尊敬正式”。把这两个方面的意思都理解到位，考生就能准确匹配到正确句尾应为B项：as systems do not need to conform to standard practices.（因为系统不需要遵从标准做法。）",
+          "promptHtml": "Future translation systems should address people appropriately[33] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Users may be able to maintain their local customs[34] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8510_672792",
+          "explanation": "31. 译文：语言翻译方法在日本发展迅速\n\n本题的定位很有趣：假如考生并不认识第一段里的Kyoto是日本城市“京都”，反而不会受到任何干扰地来到第六段中找到原词重现的Japan；不过即使认识这个单词，使用平行阅读的考生也很快会发现第一段虽然提及京都但并没有题干所说的“技术迅猛发展”这个意思。在最终准确定位到第六段后，考生会发现本段采用了总分结构：第一句先铺垫在日本等亚洲国家，技术飞速发展，第二句再评价说仍然路漫漫其修远兮，接下来则列举种种细节支持之所以任重道远的论点。综合这些内容来对比所有选项，可知正确句尾应为C项：but they are far from perfect.（但是它们远未臻于完美。）\n\n32. 译文：使用翻译画外音方法的电视访谈很成功\n\n本题的定位嵌套在上一题的阅读范围里，因此考生在寻找上一题答案时其实就已经读到了相关内容。第六段第三句话说，电视里访谈政要的时候可以同步听到译员翻译后的声音，这对应的正确句尾为E项：because translation is immediate.（因为翻译是实时的。）\n\n33. 译文：未来的翻译系统应当恰当地称呼人们\n\n本题的定位紧邻上一题，出在第七段里。句首题干对应的是本段第一句话，addressing people in the right way这个原文表达与题干内容高度适配，不难找到；但这句话本身并没有更充足的信息供考生对应句尾选项，所以考生需要耐心再看下一句话，才能从“有些文化传统要求人们庄重对待学术地位，得尊重这种传统才算有礼貌”这个表达中，匹配到正确句尾应为F项：and have an awareness of good manners.（并关注到举止礼貌。）\n\n34. 译文：使用者也许可以保留自己的本地习俗\n\n本题的定位不难，紧跟上一题之后来自第七段的最后一句；但这句话的表述比较曲折隐晦，考生需要真正看懂它在说什么，也就是“国际通用英语中的固定做法是与人初识就用名字来称呼对方”，再结合此前几句话的表述，也就是“在有些文化中可能需要庄重严肃地进行称呼，也就是不一定上来就亲昵地称呼名字而是例如使用姓氏+头衔来更显尊敬正式”。把这两个方面的意思都理解到位，考生就能准确匹配到正确句尾应为B项：as systems do not need to conform to standard practices.（因为系统不需要遵从标准做法。）",
+          "promptHtml": "Users may be able to maintain their local customs[34] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "but there are concerns about this."
+        },
+        {
+          "value": "B",
+          "text": "as systems do not need to conform to standard practices."
+        },
+        {
+          "value": "C",
+          "text": "but they are far from perfect."
+        },
+        {
+          "value": "D",
+          "text": "despite the noise issues."
+        },
+        {
+          "value": "E",
+          "text": "because translation is immediate."
+        },
+        {
+          "value": "F",
+          "text": "and have an awareness of good manners."
+        }
+      ],
+      "contextHtml": "<p><span><span><span><span><span><span><span><span>Speech translation</span></span></span></span> <span><span><span><span>methods are developing fast</span></span></span></span> <span><span><span><span>in Japan</span></span></span></span></span></span></span></span><strong>[31] ______</strong> </p>\n\n<p><span><span><span><span><span><span><span>TV interviews that use<span> translation voiceover methods are successful</span></span></span></span></span></span></span></span><strong>[32] ______</strong> <span><span><span><span><span><span><span> </span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span>Future translation systems <span>should address</span> <span>people appropriately</span></span></span></span></span></span></span></span><strong>[33] ______</strong> </p>\n\n<p><span><span><span><span><span><span><span><span>Users</span></span></span></span> <span><span><span><span>may</span></span></span></span> <span><span><span><span>be able to</span></span></span></span> <span><span><span><span>main</span></span></span></span><span><span><span><span>tain their</span></span></span></span> <span><span><span><span>local customs</span></span></span></span></span></span></span></span><strong>[34] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "instruction": "Questions 35–40\n\nDo the following statements agree with the views of the writer in Reading Passage 3?\n\nIn boxes 35–40 on your answer sheet, write\n\nYES if the statement agrees with the views of the writer\n\nNO if the statement contradicts the views of the writer\n\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Language translation systems will be seen as very useful throughout the academic and professional worlds.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8510_472497",
+          "explanation": "译文：语言翻译系统在整个学术和专业人士圈中都将被视为是非常有用的。\n\n本题的定位非常干脆利索，只要真正看懂第八段第一句话就能顺利作答，无需跟进阅读其他内容；但是这句对应原文本身的表述比较隐晦，所谓“教授们和其他专业人士不会把语言觉察力外包给软件”，其实表达的就是他们对这种技术的不屑一顾而不是视作非常有用。这与题干信息形成了矛盾抵触，由此可以确认答案应为NO。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "The overall value of automated translation to family life is yet to be shown.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8510_937260",
+          "explanation": "译文：自动翻译对家庭生活的总体价值还有待显现。\n\n本题题干中的family life到了原文中只是换成了复数形式family lives，因此不难定位；这句话的语法结构比较复杂，但相应表述is open to question说的正是题干中的yet to be shown，因此正确答案应为YES。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Automated translation could make life more difficult for immigrant families.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8510_720927",
+          "explanation": "译文：自动翻译有可能使得移民家庭的生活更加艰难。\n\n本题与上一题出自同一句话，考生只要看懂句意便能理解到，自动语言翻译可以让祖父母辈与孙儿辈跨越语言障碍而更好交流，因此当然是帮助移民生活变好而非变坏，这与题干表述形成了矛盾抵触，因此答案必然是NO。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Visual aspects of language translation are being considered by scientists.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8510_465839",
+          "explanation": "译文：科学家们正在考虑发展语言翻译的视觉维度。\n\n本题与下一题连续两道都是没有在原文被提及的信息，若是在更大文章篇幅中这样出题，难免会让不少考生感到纠结和自我怀疑。但是由于上一题位于全文倒数第二段的最后一句话，根据顺序原则，从本题开始的最后三道题充其量也只需要考生仔细看懂最后一段文章而已，因此考生可以更心平气和地阅读本段，确认并没有任何语句提到了visual aspects这个信息，从而笃定选择答案为NOT GIVEN。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "International scientists have found English easier to translate into otherlanguages than Latin.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8510_983037",
+          "explanation": "译文：国际科学家们发现英语比拉丁语更易于翻译成其他语言。\n\n本题除了有题干词Latin一模一样地出现在了原文最后一段之外，并无任何内容将英语和拉丁语进行了翻译难易程度上的比较，考生应当可以比较轻松地得出结论为NOT GIVEN。"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "As far as language is concerned, there is a difference between people’s social and practical needs.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8510_607625",
+          "explanation": "译文：就语言这个范畴而言，在人们的社交和使用需求方面存在着不同。\n\n本题定位简单，一来是因为定位原文所剩篇幅无几；二来则是题干中的social and practical needs在原文这句话里几乎是没有太大变化地呈现为practical needs和social value，且句子本身不难看懂。考生只需有时间来到此处，看懂原文说的是一种需求可能会减弱但另一种需求将长久存在，这当然与题干表述类似，因此答案应为YES。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>Is the era of artificial speech translation upon us?</b></p><p><i>Once the stuff of science fiction, technology that enables people to talk using different languages is now here. But how effective is it?</i></p><p>Noise, Alex Waibel tells me, is o<span>ne of the </span>major challenges that artificial speech translation has to meet. A device may be able to recognise speech in a laboratory, or a meeting room, but will struggle to cope with the kind of background noise I can hear in my office surrounding Professor Waibel as he speaks to me from Kyoto station in Japan. I’m struggling to follow him in English, on a scratchy line that reminds me we are nearly 10,000 kilometres apart – and that distance is still an obstacle to communication even if you’re speaking the same language, as we are. We haven’t reached the future yet. If we had, Waibel would have been able to speak more comfortably in his native German and I would have been able to hear his words in English.</p><p>At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students can follow in English via an electronic translator. The system generates text that students can read on their laptops or phones, so the process is somewhat similar to subtitling. It helps that lecturers speak clearly, don’t have to compete with background chatter, and say much the same thing each year.</p><p>The idea of artificial speech translation has been around for a long time. Douglas Adams’ science fiction novel, The Hitchhiker’s Guide to the Galaxy, published in 1979, featured a life form called the ‘Babel fish’ which, when placed in the ear, enabled a listener to understand any language in the universe. It came to represent one of those devices that technology enthusiasts dream of long before they become practically realisable, like TVs flat enough to hang on walls: objects that we once could only dream of having but that are now commonplace. Now devices that look like prototype Babel fish have started to appear, riding a wave of advances in artificial translation and voice recognition.</p><p>At this stage, however, they seem to be regarded as eye-catching novelties rather than steps towards what Waibel calls ‘making a language-transparent society’. They tend to be domestic devices or applications suitable for hotel check-ins, for example, providing a practical alternative to speaking traveller’s English. The efficiency of the translator is less important than the social function. However, ‘Professionals are less inclined to be patient in a conversation,’ founder and CEO at Waverly Labs, Andrew Ochoa, observes. To redress this, Waverly is now preparing a new model for professional applications, which entails performance improvements in speech recognition, translation accuracy and the time it takes to deliver the translated speech.</p><p>For a conversation, both speakers need to have devices called Pilots (translator earpieces) in their ears. ‘We find that there’s a barrier with sharing one of the earphones with a stranger,’ says Ochoa. That can’t have been totally unexpected. The problem would be solved if earpiece translators became sufficiently prevalent that strangers would be likely to already have their own in their ears. Whether that happens, and how quickly, will probably depend not so much on the earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general.</p><p>Waibel highlights the significance of certain Asian nations, noting that voice translation has really taken off in countries such as Japan with a range of systems. There is still a long way to go, though. A translation system needs to be simultaneous, like the translator’s voice speaking over the foreign politician being interviewed on the TV, rather than in sections that oblige speakers to pause after every few remarks and wait for the translation to be delivered. It needs to work offline, for situations where internet access isn’t possible, and to address apprehensions about the amount of private speech data accumulating in the cloud, having been sent to servers for processing.</p><p>Systems not only need to cope with physical challenges such as noise, they will also need to be socially aware by addressing people in the right way. Some cultural traditions demand solemn respect for academic status, for example, and it is only polite to respect this. Etiquette-sensitive artificial translators could relieve people of the need to know these differing cultural norms. At the same time, they might help to preserve local customs, slowing the spread of habits associated with international English, such as its readiness to get on first-name terms.</p><p>Professors and other professionals will not outsource language awareness to software, though. If the technology matures into seamless, ubiquitous artificial speech translation, it will actually add value to language skills. Whether it will help people conduct their family lives or relationships is open to question – though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language.</p><p>Whatever uses it is put to, though, it will never be as good as the real thing. Even if voice- morphing technology simulates the speaker’s voice, their lip movements won’t match, and they will look like they are in a dubbed movie. The contrast will underline the value of shared languages, and the value of learning them. Sharing a language can promote a sense of belonging and community, as with the international scientists who use English as a lingua franca, where their predecessors used Latin. Though the practical need for a common language will diminish, the social value of sharing one will persist. And software will never be a substitute for the subtle but vital understanding that comes with knowledge of a language.</p>"
+}

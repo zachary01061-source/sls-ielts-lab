@@ -1,0 +1,309 @@
+{
+  "id": "cf0d369a-7f7a-4b91-8cd7-8f37fe8c25b2",
+  "title": "The mangrove regeneration project",
+  "titleCn": "佛罗里达海岸红树林再生项目",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/cf0d369a-7f7a-4b91-8cd7-8f37fe8c25b2",
+  "duration": 423,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,620"
+    },
+    {
+      "label": "2",
+      "text": "You will hear part of a student presentation about a conservation project on the Florida coast of the United States."
+    },
+    {
+      "label": "3",
+      "text": "00:00:09,820"
+    },
+    {
+      "label": "4",
+      "text": "First, you have some time to look at questions thirty-one to forty on page seven."
+    },
+    {
+      "label": "5",
+      "text": "00:00:20,820"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "7",
+      "text": "00:01:12,520"
+    },
+    {
+      "label": "8",
+      "text": "Today, I'm going to be talking about the first year of a regeneration project in a mangrove forest. Mangrove forests are found along river estuaries and coastlines and are important because they prevent flooding by acting as a barrier between the land and sea. The mangrove trees have special roots, which can breathe and allow them to survive in thick, airless mud. They are also a very important habitat for wading birds, fish, and other animals. In the area where the project is taking place, there have been a number of problems since the area was first settled over one hundred years ago. Many of the mangrove trees were initially burnt as firewood by local farmers. The mangrove forests were also poisoned by settlers' farming methods because the farmers used fertilizer to increase crop yields, and this started to seep into the water, eventually killing part of the mangrove forest. Farming in the area wasn't successful, and what was left of the mangrove forest area wasn't valued by local people as crops couldn't be grown there. And so what happened was that the area started to be used as somewhere to dump trash."
+    },
+    {
+      "label": "9",
+      "text": "00:02:31,160"
+    },
+    {
+      "label": "10",
+      "text": "Action was urgently needed to protect the mangrove forest and prevent flooding, and so the Mangrove Regeneration Project was set up. The conservationists involved decided to construct a sand barrier around the forests, but unfortunately, this proved to be ineffective. The only way forward appeared to be to grow new mangroves from seed. Several species of mangrove inhabit the forests in this area of the United States, but it is the gray mangroves that we are concerned with here. The seed of this plant is about the size of an almond, and most seeds fall only when they are fully ripe."
+    },
+    {
+      "label": "11",
+      "text": "00:03:13,500"
+    },
+    {
+      "label": "12",
+      "text": "The Mangrove Regeneration Project first began three years ago. The first set of seedlings was planted in small pots and left to germinate in a hothouse. The plants thrived, and large roots appeared at the bottom of the pots. Ideally, these seedlings should have been conditioned with increasingly salty water before being planted in the sea. They had, in fact, only been watered with rain water. As the plants weren't used to a saline environment, it was decided to plant them out on the south side of a small island nearby. It was hoped that this would allow them to get used to salt water gradually since this part of the island was flooded every day at high tide. There were over one hundred plants planted in this particular spot, and it was necessary to protect them, not from the large number of wading birds which visit the area looking for food, but from the large rabbit colony living in the area. The process for the second set of seedlings was completely different. Young seedlings were collected from the forests and then taken to a new site. The seedlings were then planted in the seabed behind old mangrove roots for protection. However, this method did not prove very successful, and the vast majority of these seedlings were washed away in a storm. Luckily, the first set of seedlings survived, and this method is the one which the project will continue to use in the future."
+    },
+    {
+      "label": "13",
+      "text": "00:04:45,400"
+    },
+    {
+      "label": "14",
+      "text": "Now, I'd like to describe in more detail the process..."
+    },
+    {
+      "label": "15",
+      "text": "00:04:51,520"
+    },
+    {
+      "label": "16",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **NO MORE THAN TWO WORDS** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "24d6d5be-e42c-4f7d-b931-f44e116f3a24",
+          "prompt": "**Mangrove Forests**:\n· protect coastal areas from **31**_____ by the sea\n· an important habitat for wildlife",
+          "answers": [
+            "flooding"
+          ],
+          "rawAnswer": "flooding",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Mangrove forests are found along river estuaries and coastlines and are important because they prevent flooding by acting as a barrier between the land and sea"
+          },
+          "keywordPairs": [
+            {
+              "question": "coastal areas",
+              "article": "along river estuaries and coastlines"
+            },
+            {
+              "question": "protect",
+              "article": "prevent"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "5319e98f-8b54-4455-8c90-29524b600226",
+          "prompt": "**Problems**:\n· mangroves had been used by farmers as **32**_____",
+          "answers": [
+            "firewood"
+          ],
+          "rawAnswer": "firewood",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Many of the mangrove trees were initially burnt as firewood by local farmers"
+          },
+          "maxWords": 2,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "6585f1ea-ff54-4452-badb-d55682702c49",
+          "prompt": "· mangroves were poisoned by the use of **33**_____",
+          "answers": [
+            "fertilizer"
+          ],
+          "rawAnswer": "fertilizer",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The mangrove forests were also poisoned by settlers' farming methods because the farmers used fertilizer to increase crop yields, and this started to seep into the water, eventually killing part of the mangrove forest"
+          },
+          "maxWords": 2,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "edf0380f-01e2-40b9-a7f8-462b675cd103",
+          "prompt": "· local people used the mangroves as a place to put their **34**_____",
+          "answers": [
+            "trash"
+          ],
+          "rawAnswer": "trash",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And so what happened was that the area started to be used as somewhere to dump trash"
+          },
+          "keywordPairs": [
+            {
+              "question": "put",
+              "article": "dump"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "cef656a0-a3f1-40e9-957a-32e3e5a99db6",
+          "prompt": "**Actions taken to protect the mangroves**:\n· a barrier which was made of **35**_____ was constructed - but it failed",
+          "answers": [
+            "sand"
+          ],
+          "rawAnswer": "sand",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The conservationists involved decided to construct a sand barrier around the forests, but unfortunately, this proved to be ineffective"
+          },
+          "keywordPairs": [
+            {
+              "question": "failed",
+              "article": "ineffective"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "bd552610-6341-427e-aa6f-d1823f0c00cd",
+          "prompt": "· new mangroves had to be grown from seed\n· the seeds of the **36**_____ mangrove were used",
+          "answers": [
+            "gray"
+          ],
+          "rawAnswer": "gray",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Several species of mangrove inhabit the forests in this area of the United States, but it is the gray mangroves that we are concerned with here"
+          },
+          "maxWords": 2,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "530151fd-1578-4dc1-8cd6-a275345c55c0",
+          "prompt": "**First set of seedlings**:\n· kept in small pots in a **37**_____",
+          "answers": [
+            "hothouse"
+          ],
+          "rawAnswer": "hothouse",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The first set of seedlings was planted in small pots and left to germinate in a hothouse"
+          },
+          "keywordPairs": [
+            {
+              "question": "kept",
+              "article": "planted"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "507cc86d-7a74-4cdb-9e3c-4316ad223876",
+          "prompt": "· watered with **38**_____ water",
+          "answers": [
+            "rain"
+          ],
+          "rawAnswer": "rain",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They had, in fact, only been watered with rain water"
+          },
+          "maxWords": 2,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "107b2228-5dd4-4e2d-ac34-ecac3a6beade",
+          "prompt": "· planted out on south side of a small island\n· at risk from the large **39**_____ population",
+          "answers": [
+            "rabbit"
+          ],
+          "rawAnswer": "rabbit",
+          "evidence": {
+            "paragraph": "",
+            "quote": "it was necessary to protect them, not from the large number of wading birds which visit the area looking for food, but from the large rabbit colony living in the area"
+          },
+          "maxWords": 2,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "8f072dc5-29f2-428b-80c0-c5429089c32b",
+          "prompt": "**Second set of seedlings**:\n· planed in the seabed near established mangrove roots\n· the young plants were destroyed in a **40**_____\n\n**Results**:\nThe first set of seedlings was successful",
+          "answers": [
+            "storm"
+          ],
+          "rawAnswer": "storm",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, this method did not prove very successful, and the vast majority of these seedlings were washed away in a storm"
+          },
+          "keywordPairs": [
+            {
+              "question": "destroyed",
+              "article": "washed away"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,620</p><p>You will hear part of a student presentation about a conservation project on the Florida coast of the United States. </p><p>00:00:09,820</p><p>First, you have some time to look at questions thirty-one to forty on page seven. </p><p>00:00:20,820</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:12,520</p><p>Today, I'm going to be talking about the first year of a regeneration project in a mangrove forest. Mangrove forests are found along river estuaries and coastlines and are important because they prevent flooding by acting as a barrier between the land and sea. The mangrove trees have special roots, which can breathe and allow them to survive in thick, airless mud. They are also a very important habitat for wading birds, fish, and other animals. In the area where the project is taking place, there have been a number of problems since the area was first settled over one hundred years ago. Many of the mangrove trees were initially burnt as firewood by local farmers. The mangrove forests were also poisoned by settlers' farming methods because the farmers used fertilizer to increase crop yields, and this started to seep into the water, eventually killing part of the mangrove forest. Farming in the area wasn't successful, and what was left of the mangrove forest area wasn't valued by local people as crops couldn't be grown there. And so what happened was that the area started to be used as somewhere to dump trash. </p><p>00:02:31,160</p><p>Action was urgently needed to protect the mangrove forest and prevent flooding, and so the Mangrove Regeneration Project was set up. The conservationists involved decided to construct a sand barrier around the forests, but unfortunately, this proved to be ineffective. The only way forward appeared to be to grow new mangroves from seed. Several species of mangrove inhabit the forests in this area of the United States, but it is the gray mangroves that we are concerned with here. The seed of this plant is about the size of an almond, and most seeds fall only when they are fully ripe. </p><p>00:03:13,500</p><p>The Mangrove Regeneration Project first began three years ago. The first set of seedlings was planted in small pots and left to germinate in a hothouse. The plants thrived, and large roots appeared at the bottom of the pots. Ideally, these seedlings should have been conditioned with increasingly salty water before being planted in the sea. They had, in fact, only been watered with rain water. As the plants weren't used to a saline environment, it was decided to plant them out on the south side of a small island nearby. It was hoped that this would allow them to get used to salt water gradually since this part of the island was flooded every day at high tide. There were over one hundred plants planted in this particular spot, and it was necessary to protect them, not from the large number of wading birds which visit the area looking for food, but from the large rabbit colony living in the area. The process for the second set of seedlings was completely different. Young seedlings were collected from the forests and then taken to a new site. The seedlings were then planted in the seabed behind old mangrove roots for protection. However, this method did not prove very successful, and the vast majority of these seedlings were washed away in a storm. Luckily, the first set of seedlings survived, and this method is the one which the project will continue to use in the future. </p><p>00:04:45,400</p><p>Now, I'd like to describe in more detail the process... </p><p>00:04:51,520</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/cf0d369a-7f7a-4b91-8cd7-8f37fe8c25b2.mp3",
+    "durationSeconds": 302.952,
+    "sizeBytes": 4847763,
+    "sha256": "e6f82a60fe6ee734e9ab47a87b931617f13f242789e83b1b7db3db295b5692fa",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:56:03Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775403165379_vo05k5_eb1963da_898cdbea.mp3"
+}

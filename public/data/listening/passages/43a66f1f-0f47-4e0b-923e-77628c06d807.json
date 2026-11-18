@@ -1,0 +1,319 @@
+{
+  "id": "43a66f1f-0f47-4e0b-923e-77628c06d807",
+  "title": "A case study on fumigants",
+  "titleCn": "熏蒸剂案例研究：博物馆文物保护",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/43a66f1f-0f47-4e0b-923e-77628c06d807",
+  "duration": 368,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,200"
+    },
+    {
+      "label": "2",
+      "text": "In today's lecture, I'm gonna discuss a case study on fumigants. Fumigants are chemicals, usually gases, that destroy insects, bacteria, and other organisms. They're commonly used to protect stored food, but they can also be used in museums to prevent damage to paintings, furniture, and other historical objects."
+    },
+    {
+      "label": "3",
+      "text": "00:00:20,810"
+    },
+    {
+      "label": "4",
+      "text": "I'll begin by looking at some of the problems associated with traditional chemical fumigants. Then I'll describe a safer method that was tested on a museum object. Finally, we'll consider a possible biological alternative. Let's begin with the environmental effects of chemical fumigation. Although chemical fumigants can be highly effective, their use may have serious consequences for the atmosphere. In particular, some of the chemicals released during the process can affect the ozone layer. This is important because the ozone layer protects the Earth from harmful ultraviolet radiation. As a result, the use of traditional fumigants has now been restricted in many countries. One of the most common fumigants used in the past was methyl bromide. It was popular because it killed a wide range of insects in a relatively short time. However, it was later discovered that the chemical could cause damage to certain museum pieces. For example, if methyl bromide was used on a painting, it could reduce the strength of its color. In some cases, pigments became noticeably less bright after treatment. There were also health and safety concerns. Because the gas was dangerous to breathe, both the object and the chemical had to be completely contained. In the food industry, for example, food could be kept inside a sealed bag while the fumigant was introduced. This prevented the gas from escaping. However, the effectiveness and cost of fumigation depend on time and setting. Climate is crucial. In humid countries, extra equipment may be required to control the treatment conditions. That can make the process slower and more expensive."
+    },
+    {
+      "label": "5",
+      "text": "00:02:11,820"
+    },
+    {
+      "label": "6",
+      "text": "Now let's turn to an alternative method. Instead of using methyl bromide, researchers created an environment with almost no oxygen. The goal was to kill the insects without harming the objects. The total exposure time was 14 days. That's longer than some chemical treatments, but it was much safer, both for the objects and for the people carrying out the treatment. The object was placed in a sealed environment where air was removed and replaced with nitrogen. Since insects need oxygen, they eventually died. The method was tested on an old wooden sculpture that had been badly infested. At the end of the 14 days, the insects had been destroyed and the wood was unharmed. The study showed that nitrogen could be an effective alternative. However, the process requires careful control. Even a small leak could reduce its effectiveness."
+    },
+    {
+      "label": "7",
+      "text": "00:03:10,400"
+    },
+    {
+      "label": "8",
+      "text": "Finally, a different approach has been proposed by scientists. Some are studying chemicals found in the skins of certain frogs. These substances help protect the animals from infection. Researchers have found that they can destroy harmful microorganisms, so they act like natural pesticides, killing bacteria before they cause an infection. Scientists hope that similar compounds could one day protect food or artifacts without the environmental damage caused by traditional fumigants. However, they're not very effective in the presence of moisture. Water may dilute them or break them down, so more research is needed. To conclude, traditional fumigants work, but may harm the environment or the objects treated. Nitrogen treatment is safer, though slower, and natural chemicals could offer a new direction if we solve the moisture problem."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "90df2062-41c4-4543-9039-63399af85dd2",
+          "prompt": "**A case study on fumigants**\n\n**Problems with traditional fumigation**\nSome chemicals released during fumigation may damage the Earth's **31**_____ layer.",
+          "answers": [
+            "ozone"
+          ],
+          "rawAnswer": "ozone",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In particular, some of the chemicals released during the process can affect the ozone layer"
+          },
+          "keywordPairs": [
+            {
+              "question": "may damage",
+              "article": "can affect"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "ca107838-7fc3-4c44-bcd9-f3ace2ac7eb8",
+          "prompt": "After methyl bromide treatment, paintings may lose some of their original **32**_____ .",
+          "answers": [
+            "colour"
+          ],
+          "rawAnswer": "colour",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, if methyl bromide was used on a painting, it could reduce the strength of its color. In some cases, pigments became noticeably less bright after treatment"
+          },
+          "keywordPairs": [
+            {
+              "question": "lose some of their original colour",
+              "article": "pigments became noticeably less bright"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "ad409af5-7238-4935-89c3-e561420e544e",
+          "prompt": "To prevent dangerous gas from escaping, food can be placed inside a sealed **33**_____ .",
+          "answers": [
+            "bag"
+          ],
+          "rawAnswer": "bag",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the food industry, for example, food could be kept inside a sealed bag while the fumigant was introduced. This prevented the gas from escaping"
+          },
+          "keywordPairs": [
+            {
+              "question": "placed",
+              "article": "kept"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "aed8fc23-a568-40a6-a571-1a1604dd9077",
+          "prompt": "In countries with humid conditions, the treatment is often more **34**_____ because additional\nequipment is required.",
+          "answers": [
+            "expensive"
+          ],
+          "rawAnswer": "expensive",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In humid countries, extra equipment may be required to control the treatment conditions. That can make the process slower and more expensive"
+          },
+          "keywordPairs": [
+            {
+              "question": "additional",
+              "article": "extra"
+            },
+            {
+              "question": "treatment",
+              "article": "process"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "cbb94f23-8934-4c7f-be25-403a9392e1f7",
+          "prompt": "**An alternative treatment**\n·Researchers created an environment containing almost no oxygen.\n·The total **35**_____ period used in the experiment lasted fourteen days.",
+          "answers": [
+            "exposure"
+          ],
+          "rawAnswer": "exposure",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The total exposure time was 14 days"
+          },
+          "keywordPairs": [
+            {
+              "question": "period",
+              "article": "time"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "e96e070e-914f-4595-9881-bb231fbcb925",
+          "prompt": "·Air was removed from the sealed space and replaced with **36**_____ .",
+          "answers": [
+            "nitrogen"
+          ],
+          "rawAnswer": "nitrogen",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The object was placed in a sealed environment where air was removed and replaced with nitrogen"
+          },
+          "keywordPairs": [
+            {
+              "question": "space",
+              "article": "environment"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "e3ade132-dd8d-4d61-999b-064acf42e44d",
+          "prompt": "·The new method was tested on an old wooden **37**_____ that had been attacked by insects.\n·The treatment killed the insects without causing visible damage to the object.",
+          "answers": [
+            "sculpture"
+          ],
+          "rawAnswer": "sculpture",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The method was tested on an old wooden sculpture that had been badly infested"
+          },
+          "keywordPairs": [
+            {
+              "question": "attacked by insects",
+              "article": "badly infested"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "ec6c3f8e-778b-43e3-9c0e-ff8913662e02",
+          "prompt": "**A possible biological solution**\nScientists have examined protective substances found in the skin of certain **38**_____ .",
+          "answers": [
+            "frogs"
+          ],
+          "rawAnswer": "frogs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some are studying chemicals found in the skins of certain frogs"
+          },
+          "keywordPairs": [
+            {
+              "question": "examined",
+              "article": "studying"
+            },
+            {
+              "question": "protective substances",
+              "article": "chemicals"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "406be5a4-34ad-496a-9533-fe83e50ddade",
+          "prompt": "These natural chemicals behave in a similar way to **39**_____ , as they destroy harmful organisms.",
+          "answers": [
+            "pesticides"
+          ],
+          "rawAnswer": "pesticides",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers have found that they can destroy harmful microorganisms, so they act like natural pesticides, killing bacteria before they cause an infection"
+          },
+          "keywordPairs": [
+            {
+              "question": "behave in a similar way to",
+              "article": "act like"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "e2d7685d-94bc-4f37-9674-c033c78bbdb2",
+          "prompt": "One current limitation is that the substances become less effective when exposed to **40**_____ .",
+          "answers": [
+            "moisture"
+          ],
+          "rawAnswer": "moisture",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, they're not very effective in the presence of moisture. Water may dilute them or break them down, so more research is needed"
+          },
+          "keywordPairs": [
+            {
+              "question": "current limitation",
+              "article": "However"
+            },
+            {
+              "question": "become less effective",
+              "article": "not very effective"
+            },
+            {
+              "question": "exposed to",
+              "article": "in the presence of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,200</p><p>In today's lecture, I'm gonna discuss a case study on fumigants. Fumigants are chemicals, usually gases, that destroy insects, bacteria, and other organisms. They're commonly used to protect stored food, but they can also be used in museums to prevent damage to paintings, furniture, and other historical objects. </p><p>00:00:20,810</p><p>I'll begin by looking at some of the problems associated with traditional chemical fumigants. Then I'll describe a safer method that was tested on a museum object. Finally, we'll consider a possible biological alternative. Let's begin with the environmental effects of chemical fumigation. Although chemical fumigants can be highly effective, their use may have serious consequences for the atmosphere. In particular, some of the chemicals released during the process can affect the ozone layer. This is important because the ozone layer protects the Earth from harmful ultraviolet radiation. As a result, the use of traditional fumigants has now been restricted in many countries. One of the most common fumigants used in the past was methyl bromide. It was popular because it killed a wide range of insects in a relatively short time. However, it was later discovered that the chemical could cause damage to certain museum pieces. For example, if methyl bromide was used on a painting, it could reduce the strength of its color. In some cases, pigments became noticeably less bright after treatment. There were also health and safety concerns. Because the gas was dangerous to breathe, both the object and the chemical had to be completely contained. In the food industry, for example, food could be kept inside a sealed bag while the fumigant was introduced. This prevented the gas from escaping. However, the effectiveness and cost of fumigation depend on time and setting. Climate is crucial. In humid countries, extra equipment may be required to control the treatment conditions. That can make the process slower and more expensive. </p><p>00:02:11,820</p><p>Now let's turn to an alternative method. Instead of using methyl bromide, researchers created an environment with almost no oxygen. The goal was to kill the insects without harming the objects. The total exposure time was 14 days. That's longer than some chemical treatments, but it was much safer, both for the objects and for the people carrying out the treatment. The object was placed in a sealed environment where air was removed and replaced with nitrogen. Since insects need oxygen, they eventually died. The method was tested on an old wooden sculpture that had been badly infested. At the end of the 14 days, the insects had been destroyed and the wood was unharmed. The study showed that nitrogen could be an effective alternative. However, the process requires careful control. Even a small leak could reduce its effectiveness. </p><p>00:03:10,400</p><p>Finally, a different approach has been proposed by scientists. Some are studying chemicals found in the skins of certain frogs. These substances help protect the animals from infection. Researchers have found that they can destroy harmful microorganisms, so they act like natural pesticides, killing bacteria before they cause an infection. Scientists hope that similar compounds could one day protect food or artifacts without the environmental damage caused by traditional fumigants. However, they're not very effective in the presence of moisture. Water may dilute them or break them down, so more research is needed. To conclude, traditional fumigants work, but may harm the environment or the objects treated. Nitrogen treatment is safer, though slower, and natural chemicals could offer a new direction if we solve the moisture problem.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/43a66f1f-0f47-4e0b-923e-77628c06d807.mp3",
+    "durationSeconds": 247.752,
+    "sizeBytes": 991443,
+    "sha256": "d6eefb27b7cb68a520f3fc03f152270eb4949fee59d86bd02509e583f784fbd1",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:58:24Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786623234828_m23x0x_340f1227.mp3"
+}

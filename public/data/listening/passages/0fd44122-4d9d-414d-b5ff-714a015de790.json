@@ -1,0 +1,363 @@
+{
+  "id": "0fd44122-4d9d-414d-b5ff-714a015de790",
+  "title": "Research on bird in Australia",
+  "titleCn": "澳洲鸟类栖息地研究与保护措施",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/0fd44122-4d9d-414d-b5ff-714a015de790",
+  "duration": 503,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:03,800"
+    },
+    {
+      "label": "2",
+      "text": "Part four. You will hear part of a lecture on bird research in Australia. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:01:00,020"
+    },
+    {
+      "label": "4",
+      "text": "Now, listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:01:07,100"
+    },
+    {
+      "label": "6",
+      "text": "Good afternoon. This is the third session of the series of lectures on wildlife. For this lecture, we're going to look at two studies on the habitats of birds and protection measures taken in Australia, including the basic methodology and related areas of research. Now, let me give you some background information about the first research project on birds. The study was carried out by R.B. Cunningham and his team from the Australian National University in nineteen ninety-five. The primary goal was to detect the breeding habits and resting sites of some birds, especially those protected species in urban regions. These species included birds like peregrine falcons and kestrels in Australia. The bird dataset consisted of a total of a hundred and fifty-three species recorded from nine hundred and forty-six sites. One might expect that in order to obtain valid data on their distribution patterns and population densities, researchers had to count through binoculars. Instead, they managed to estimate with various standard distance sampling methods like random sampling. In addition, a mapping system was used to study their companionship behavior. It recorded proposed birds' nesting sites to monitor the mating behavior of targeted species. To obtain valid data of birds' whereabouts, researchers attached identity tags to birds' legs transmitting radio signals. The tagging process was done when the birds were between five and seven days of age. After the initial tagging, data was collected from subsets of radio-tagged birds, making it possible to assess the trends of birds over fifteen months. So what did they find? Well, as it turned out, many of the birds tagged had the tendency to nest in the same habitat where they grew up. Their nesting sites were quite varied and included freshwater reed beds, tidal reed beds, agricultural crops, and man-made sites. Even though naturally occurring nests were common, birds sometimes accidentally nested in man-made devices like power towers, chimneys, and tunnels. This research also studied the impact of humans on bird communities and found out that pollution had contributed greatly to the declining birth rates of some species, which were considered to be extinct or threatened to vanish from the study area. These species are dependent on natural forests because of their breeding holes. They will become extinct when local natural forests continue to be polluted heavily. A number of measures were thus taken by members from local animal conservation organizations to boost their alarming survival rates. Firstly, breeding boxes were placed in trees taking on the role of breeding holes that were contaminated. Protection guidelines were also introduced strictly prohibiting killing, disturbance, and habitat destruction. A further measure was taken to ensure the safety of birds from wind farms. In fact, birds are sometimes shedded by wind turbine blades. A great deal of work was done on how to prevent them from colliding with turbines. A case in point was protecting space for bird migration by ensuring that migratory routes were kept free. Falcons generally cope well with wind turbines, but not in weather conditions where visibility is bad. So with knowledge of how fast falcons fly, bird stations in Northern Australia can notify wind farms further south of the falcon's approach so that turbines can be shut down as they pass by."
+    },
+    {
+      "label": "7",
+      "text": "00:04:40,740"
+    },
+    {
+      "label": "8",
+      "text": "Then another piece of research was done a couple of years later by Conway in two thousand and six. His team detected the calling frequency of seabirds flying at night. Acoustic signals are important communication tools for birds. These signals can indicate social cohesion, prey location, and breeding behavior. Courtship songs are common among various species during mating seasons. Males produce calling songs that attract distant females, and then courtship songs will induce nearby females to respond. Surveyors also took recordings of the sounds of all the individual birds detected. A tablet PC was used to process detailed information like sound pitch, spectrum, length, and timing of surveys. To minimize the disturbance on the bird community, all the sounds were recorded from a distance using microphones to detect noise. They found that the probability of call events was much higher for solitary birds communicating early and late in the day. Further analyses indicated that during foraging, the frequency of calls was significantly greater for birds encountering schooling fish, and birds called sooner after a catch in these foraging scenarios compared with when only single fish were encountered. The results of this study showed that increased calling activity in the presence of more profitable prey could be of crucial importance to seabirds that benefit from group foraging. So does anyone have more questions on...?"
+    },
+    {
+      "label": "9",
+      "text": "00:06:14,600"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of part four. You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "c13cdbd9-aa3b-4969-beed-6cc66decbb7f",
+          "prompt": "**The Study Cunningham in 1995**\n**31** It aimed to study birds which were _____ in cities",
+          "answers": [
+            "protected"
+          ],
+          "rawAnswer": "protected",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The primary goal was to detect the breeding habits and resting sites of some birds, especially those protected species in urban regions"
+          },
+          "keywordPairs": [
+            {
+              "question": "It aimed to study",
+              "article": "The primary goal was to detect"
+            },
+            {
+              "question": "birds which were;in cities",
+              "article": "some birds, especially those;species in urban regions"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "42264e37-1547-463c-9772-956f95d06a6f",
+          "prompt": "·**Methodology**\n·**32** Researchers were able to _____ rather than count the number of birds by some methods, such as random sampling.",
+          "answers": [
+            "estimate"
+          ],
+          "rawAnswer": "estimate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One might expect that in order to obtain valid data on their distribution patterns and population densities, researchers had to count through binoculars. Instead, they managed to estimate with various standard distance sampling methods like random sampling"
+          },
+          "keywordPairs": [
+            {
+              "question": "able to",
+              "article": "managed to"
+            },
+            {
+              "question": "rather than",
+              "article": "Instead"
+            },
+            {
+              "question": "the number of birds",
+              "article": "population densities"
+            },
+            {
+              "question": "by some methods, such as random sampling",
+              "article": "with various standard distance sampling methods like random sampling"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "fda01db7-4614-4eda-b795-5f16c557496a",
+          "prompt": "·**33** Researcher studied bird`s companionship habits using a _____ system.",
+          "answers": [
+            "mapping"
+          ],
+          "rawAnswer": "mapping",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In addition, a mapping system was used to study their companionship behavior"
+          },
+          "keywordPairs": [
+            {
+              "question": "studied bird`s companionship habits",
+              "article": "study their companionship behavior"
+            },
+            {
+              "question": "using a;system",
+              "article": "a;system was used to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "c8ca717d-e4cc-4808-94d9-5e94501b249a",
+          "prompt": "·**34** Research attached tags to birds` leg to identify their _____ over time.",
+          "answers": [
+            "whereabouts"
+          ],
+          "rawAnswer": "whereabouts",
+          "evidence": {
+            "paragraph": "",
+            "quote": "to obtain valid data of birds' whereabouts, researchers attached identity tags to birds legs transmitting radio signals"
+          },
+          "keywordPairs": [
+            {
+              "question": "to identify",
+              "article": "To obtain valid data of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "f0e4fccd-11b5-4076-8a2e-c237ead2510c",
+          "prompt": "**Findings**\n·Birds tended to choose the same nesting site in which they were raised\n·**35** Human activities such _____ had a negative effect on the reproduction of birds",
+          "answers": [
+            "pollution"
+          ],
+          "rawAnswer": "pollution",
+          "evidence": {
+            "paragraph": "",
+            "quote": "and found out that pollution had contributed greatly to the declining birth rates of some species"
+          },
+          "keywordPairs": [
+            {
+              "question": "Human activities",
+              "article": "the impact of humans"
+            },
+            {
+              "question": "had a negative effect on",
+              "article": "had contributed greatly to"
+            },
+            {
+              "question": "the reproduction of birds",
+              "article": "the declining birth rates of some species"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "059e3215-29e8-4311-899c-d9293748205c",
+          "prompt": "**Measures taken by local organization**\n·**36** To increase birds` of rate _____ in various ways",
+          "answers": [
+            "survival"
+          ],
+          "rawAnswer": "survival",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A number of measures were thus taken by members from local animal conservation organizations to boost their alarming survival rates"
+          },
+          "keywordPairs": [
+            {
+              "question": "increase",
+              "article": "boost"
+            },
+            {
+              "question": "in various ways",
+              "article": "A number of measures;were taken"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "2056a9bb-7e86-487f-942d-4dae7bf21f4a",
+          "prompt": "·**37** To reduce the dangers caused by _____ farms, e.g. colliding with turbines",
+          "answers": [
+            "wind"
+          ],
+          "rawAnswer": "wind",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A further measure was taken to ensure the safety of birds from wind farms. In fact, birds are sometimes sheared by wind turbine blades;prevent them from colliding with turbines"
+          },
+          "keywordPairs": [
+            {
+              "question": "to reduce the dangers",
+              "article": "to ensure the safety of birds;prevent them from colliding"
+            },
+            {
+              "question": "colliding with turbines",
+              "article": "colliding with turbines;sheared by wind turbine blades"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "04213471-b586-4cd9-b71d-42bb273ad3f6",
+          "prompt": "**The Study by Conway in 2006**\n·**38** Researchers monitored the _____ of birds` nocturnal callings during flight.",
+          "answers": [
+            "frequency"
+          ],
+          "rawAnswer": "frequency",
+          "evidence": {
+            "paragraph": "",
+            "quote": "His team detected the calling frequency of sea birds flying at night"
+          },
+          "keywordPairs": [
+            {
+              "question": "monitored",
+              "article": "detected"
+            },
+            {
+              "question": "birds` nocturnal callings during flight",
+              "article": "the calling;of seabirds flying at night"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "8cd111c0-8e8f-419d-b2e2-d9d903442e75",
+          "prompt": "·**39**_____ were taken to listen to birds` sounds",
+          "answers": [
+            "recordings"
+          ],
+          "rawAnswer": "recordings",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Surveyors also took recordings of the sounds of all the individual birds detected"
+          },
+          "keywordPairs": [
+            {
+              "question": "were taken",
+              "article": "took"
+            },
+            {
+              "question": "to listen to birds` sounds",
+              "article": "of the sounds of all the individual birds detected"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "146cc702-9fee-444d-958c-b958421f35c8",
+          "prompt": "·**40** Data could be collected through noise detection devices placed at a great _____ .",
+          "answers": [
+            "distance"
+          ],
+          "rawAnswer": "distance",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To minimize the disturbance on the bird community, all the sounds were recorded from a distance using microphones to detect noise"
+          },
+          "keywordPairs": [
+            {
+              "question": "Data could be collected",
+              "article": "一、第 40 题答案对应的关键原文 To minimize the disturbance on the bird community, all the sounds were recorded from a distance using microphones to detect noise.答案：distance 二、题干与原文的同义表达 / 逻辑对应 题干原句：Data could be collected through noise detection devices placed at a great 40________ .二者的同义替换及逻辑对应如下： 表格 题干内容\t原文内容\t同义 / 对应解析 Data could be collected\tall the sounds were recorded"
+            },
+            {
+              "question": "through noise detection devices",
+              "article": "using microphones to detect noise"
+            },
+            {
+              "question": "placed at a great",
+              "article": "from a"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:03,800</p><p>Part four. You will hear part of a lecture on bird research in Australia. First, you have some time to look at questions thirty-one to forty. </p><p>00:01:00,020</p><p>Now, listen carefully and answer questions thirty-one to forty. </p><p>00:01:07,100</p><p>Good afternoon. This is the third session of the series of lectures on wildlife. For this lecture, we're going to look at two studies on the habitats of birds and protection measures taken in Australia, including the basic methodology and related areas of research. Now, let me give you some background information about the first research project on birds. The study was carried out by R.B. Cunningham and his team from the Australian National University in nineteen ninety-five. The primary goal was to detect the breeding habits and resting sites of some birds, especially those protected species in urban regions. These species included birds like peregrine falcons and kestrels in Australia. The bird dataset consisted of a total of a hundred and fifty-three species recorded from nine hundred and forty-six sites. One might expect that in order to obtain valid data on their distribution patterns and population densities, researchers had to count through binoculars. Instead, they managed to estimate with various standard distance sampling methods like random sampling. In addition, a mapping system was used to study their companionship behavior. It recorded proposed birds' nesting sites to monitor the mating behavior of targeted species. To obtain valid data of birds' whereabouts, researchers attached identity tags to birds' legs transmitting radio signals. The tagging process was done when the birds were between five and seven days of age. After the initial tagging, data was collected from subsets of radio-tagged birds, making it possible to assess the trends of birds over fifteen months. So what did they find? Well, as it turned out, many of the birds tagged had the tendency to nest in the same habitat where they grew up. Their nesting sites were quite varied and included freshwater reed beds, tidal reed beds, agricultural crops, and man-made sites. Even though naturally occurring nests were common, birds sometimes accidentally nested in man-made devices like power towers, chimneys, and tunnels. This research also studied the impact of humans on bird communities and found out that pollution had contributed greatly to the declining birth rates of some species, which were considered to be extinct or threatened to vanish from the study area. These species are dependent on natural forests because of their breeding holes. They will become extinct when local natural forests continue to be polluted heavily. A number of measures were thus taken by members from local animal conservation organizations to boost their alarming survival rates. Firstly, breeding boxes were placed in trees taking on the role of breeding holes that were contaminated. Protection guidelines were also introduced strictly prohibiting killing, disturbance, and habitat destruction. A further measure was taken to ensure the safety of birds from wind farms. In fact, birds are sometimes shedded by wind turbine blades. A great deal of work was done on how to prevent them from colliding with turbines. A case in point was protecting space for bird migration by ensuring that migratory routes were kept free. Falcons generally cope well with wind turbines, but not in weather conditions where visibility is bad. So with knowledge of how fast falcons fly, bird stations in Northern Australia can notify wind farms further south of the falcon's approach so that turbines can be shut down as they pass by. </p><p>00:04:40,740</p><p>Then another piece of research was done a couple of years later by Conway in two thousand and six. His team detected the calling frequency of seabirds flying at night. Acoustic signals are important communication tools for birds. These signals can indicate social cohesion, prey location, and breeding behavior. Courtship songs are common among various species during mating seasons. Males produce calling songs that attract distant females, and then courtship songs will induce nearby females to respond. Surveyors also took recordings of the sounds of all the individual birds detected. A tablet PC was used to process detailed information like sound pitch, spectrum, length, and timing of surveys. To minimize the disturbance on the bird community, all the sounds were recorded from a distance using microphones to detect noise. They found that the probability of call events was much higher for solitary birds communicating early and late in the day. Further analyses indicated that during foraging, the frequency of calls was significantly greater for birds encountering schooling fish, and birds called sooner after a catch in these foraging scenarios compared with when only single fish were encountered. The results of this study showed that increased calling activity in the presence of more profitable prey could be of crucial importance to seabirds that benefit from group foraging. So does anyone have more questions on...? </p><p>00:06:14,600</p><p>That is the end of part four. You now have one minute to check your answers to part four.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/0fd44122-4d9d-414d-b5ff-714a015de790.mp3",
+    "durationSeconds": 382.944,
+    "sizeBytes": 6127635,
+    "sha256": "910bc4504e4da6804cc160cb4b172fdd2dd0530d957c1f21a254ff28bf7c3583",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:34Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1774273202491_sarkus_6d150c80_db35fc50.mp3"
+}

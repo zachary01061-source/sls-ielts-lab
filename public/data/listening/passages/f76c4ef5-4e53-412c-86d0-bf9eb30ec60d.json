@@ -1,0 +1,335 @@
+{
+  "id": "f76c4ef5-4e53-412c-86d0-bf9eb30ec60d",
+  "title": "Birds in New Zealand",
+  "titleCn": "新西兰鸟类及其保护",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/f76c4ef5-4e53-412c-86d0-bf9eb30ec60d",
+  "duration": 424,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,180"
+    },
+    {
+      "label": "2",
+      "text": "Section four. You will hear part of a lecture in a zoology course talking about New Zealand birds and their protection. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:33,360"
+    },
+    {
+      "label": "4",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:40,600"
+    },
+    {
+      "label": "6",
+      "text": "Ladies and gentlemen, good afternoon. In this session, we're going to talk about birds indigenous to New Zealand, delving into the facts and analyzing methods of protecting these species from extinction. It may be a surprise to you to know that there are thousands of bird species that are endemic to New Zealand. In other words, they are rarely found anywhere else throughout the world. Because quite a large number of these birds make a living on a diet of freshly caught fish, they often nest alongside the coastline or follow the neighboring river if necessary to track freshwater fish. Once they have mated, the female will collect twigs and pieces of debris to build nests where she can hatch her eggs under safe circumstances out of the reach of predators. When the first immigrants landed on New Zealand roughly seven centuries ago, rats were carried on the ships with them. The rats flourished in the warm climate and gradually became a threat to the native bird populations, particularly to the flightless species. In nineteen eighty-four, researchers discovered that just three pairs of flightless bird species remained in existence, and that even these faced severe pressure. Now, New Zealand is a global pioneer in facilitating the recovery of severely endangered species from the brink of extinction. Every year, researchers conduct certain surveys aimed at monitoring the fluctuation in the levels of bird numbers and species living in New Zealand."
+    },
+    {
+      "label": "7",
+      "text": "00:02:08,020"
+    },
+    {
+      "label": "8",
+      "text": "Owing to migration patterns of a few bird species, it is far from easy to accurately estimate the bird numbers, since many may have flown to other regions in search of mates and warmer climates, and thus may not be included in the investigation. Probably, there is a sensitive link between bird numbers and environmental influences, especially those closely linked to human activities. Routine activities such as farming or building houses can have a massive impact on the local populations. Forests that play a role of a habitat for thousands of birds can be entirely eradicated to produce fields for cropping or to provide wood for construction, which has a catastrophic impact. It is not only the activities of humans that threaten the living conditions of bird species, but the population of many predatory animal species has dramatically risen in New Zealand. One of these predators is the Mantani snake, which was introduced from Australia and has decimated the population of Kildeer birds. These birds nest on the ground and often return to find their eggs have been devoured by the egg-eating snakes. One cannot dismiss, of course, the disadvantages that nature itself imposes on the survival of many bird species. Natural disasters such as storms can be devastating, tearing apart forests and leaving thousands of destroyed nests in their wake. Monsoons flood the rivers and often drown many of the flightless bird species that are unable to escape. Unfortunately, illegal hunting, which is the greatest threat to bird species in New Zealand, is nearly impossible to prohibit. Several bird species, which are going to be extinct, now appear on display at the National Zoo, and there is such a crucial need that urgent policies are adopted to protect them. The zoo recently employed an expert in bird protection who strongly suggested that a guard should be employed to protect their birds from poachers. The expert also lays much stress on the fact that the birds can be haunted by quite a stressed situation where the public can approach them too closely, suggesting that the administration install a fence network to keep the public a safe distance away from the birds. In spite of this threat to birds in captivity, it is the freely roaming birds that are most at risk. Many efforts are being made to educate the public in terms of how they can contribute towards protecting birds that are living in the wild. Finally, research has indicated that one of the most feasible measures of keeping the public notified about the significance of protecting the bird population is through the media. I advise you all to read the related articles in specialist journals and also do some research on the Internet. Everyone can make your own contribution if you put your mind to it."
+    },
+    {
+      "label": "9",
+      "text": "00:04:57,160"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "52b65f2f-2f68-4e69-ba00-ca494a279b94",
+          "prompt": "**Facts**\n· The birds often build their nests along the coastline or besides the **31**_____ .",
+          "answers": [
+            "river"
+          ],
+          "rawAnswer": "river",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Because quite a large number of these birds make a living on a diet of freshly caught fish, they often nest alongside the coastline or follow the neighboring river if necessary to track freshwater fish"
+          },
+          "keywordPairs": [
+            {
+              "question": "besides",
+              "article": "alongside"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "be839461-cd6a-4539-9f0f-76ab0b6295c4",
+          "prompt": "· In 1984, researchers suggested that there were only **32**_____ of this kind of bird left.",
+          "answers": [
+            "3 pairs"
+          ],
+          "rawAnswer": "3 pairs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In nineteen eighty-four, researchers discovered that just three pairs of flightless bird species remained in existence, and that even these faced severe pressure"
+          },
+          "keywordPairs": [
+            {
+              "question": "suggested",
+              "article": "discovered"
+            },
+            {
+              "question": "only",
+              "article": "just"
+            },
+            {
+              "question": "left",
+              "article": "remained in existence"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "c86f7df2-8332-4cd2-9420-5c34bb454dc9",
+          "prompt": "· It seems hard to **33**_____ the number of birds precisely.",
+          "answers": [
+            "estimate"
+          ],
+          "rawAnswer": "estimate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Owing to migration patterns of a few bird species, it is far from easy to accurately estimate the bird numbers, since many may have flown to other regions in search of mates and warmer climates, and thus may not be included in the investigation"
+          },
+          "keywordPairs": [
+            {
+              "question": "hard",
+              "article": "far from easy"
+            },
+            {
+              "question": "precisely",
+              "article": "accurately"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "7080b825-1223-4a37-90cf-fffc0ea57ac2",
+          "prompt": "**Influencing factors**\n· Human activities, such as **34**_____ as well as constructing homes, threaten this bird population.",
+          "answers": [
+            "farming"
+          ],
+          "rawAnswer": "farming",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Routine activities such as farming or building houses can have a massive impact on the local populations"
+          },
+          "keywordPairs": [
+            {
+              "question": "constructing homes",
+              "article": "building houses"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "81b44ce3-a6bb-42d4-8467-4173e47691dd",
+          "prompt": "· The birds are influenced by many species which can eat their **35**_____ .",
+          "answers": [
+            "eggs"
+          ],
+          "rawAnswer": "eggs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These birds nest on the ground and often return to find their eggs have been devoured by the egg-eating snakes"
+          },
+          "keywordPairs": [
+            {
+              "question": "eat",
+              "article": "devoured"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "f5dc6d3f-bbc2-49ad-9e7c-d3b770bd128a",
+          "prompt": "· Natural disasters including **36**_____ can also reduce the population of the birds.",
+          "answers": [
+            "storms"
+          ],
+          "rawAnswer": "storms",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Natural disasters such as storms can be devastating, tearing apart forests and leaving thousands of destroyed nests in their wake"
+          },
+          "keywordPairs": [
+            {
+              "question": "including",
+              "article": "such as"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "b63c2dba-3263-498a-9c34-5a296de1f2c7",
+          "prompt": "**Ways of protection**\n· The zoo should recruit a **37**_____ to prevent the birds from being poached.",
+          "answers": [
+            "guard"
+          ],
+          "rawAnswer": "guard",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The zoo recently employed an expert in bird protection who strongly suggested that a guard should be employed to protect their birds from poachers"
+          },
+          "keywordPairs": [
+            {
+              "question": "recruit",
+              "article": "be employed"
+            },
+            {
+              "question": "prevent",
+              "article": "protect"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "faac1d71-565c-4d56-b993-8b284cfd3c6e",
+          "prompt": "· The organizer could build a **38**_____ to prevent the public from getting closer.",
+          "answers": [
+            "fence"
+          ],
+          "rawAnswer": "fence",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the administration install a fence network to keep the public a safe distance away from the birds"
+          },
+          "keywordPairs": [
+            {
+              "question": "build",
+              "article": "install"
+            },
+            {
+              "question": "prevent the public from getting closer",
+              "article": "keep the public a safe distance away"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "45152c0f-f0b4-4e91-8e59-1949f4741ea6",
+          "prompt": "· People should make more of an effort to protect **39**_____ birds.",
+          "answers": [
+            "wild"
+          ],
+          "rawAnswer": "wild",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Many efforts are being made to educate the public in terms of how they can contribute towards protecting birds that are living in the wild"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "5694198b-b18b-4d67-b70f-a28fe30c5912",
+          "prompt": "· Through the **40**_____ , people will know more about bird protection.",
+          "answers": [
+            "media"
+          ],
+          "rawAnswer": "media",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, research has indicated that one of the most feasible measures of keeping the public notified about the significance of protecting the bird population is through the media"
+          },
+          "keywordPairs": [
+            {
+              "question": "people will know more",
+              "article": "keeping the public notified"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,180</p><p>Section four. You will hear part of a lecture in a zoology course talking about New Zealand birds and their protection. First, you have some time to look at questions thirty-one to forty.</p><p>00:00:33,360</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:40,600</p><p>Ladies and gentlemen, good afternoon. In this session, we're going to talk about birds indigenous to New Zealand, delving into the facts and analyzing methods of protecting these species from extinction. It may be a surprise to you to know that there are thousands of bird species that are endemic to New Zealand. In other words, they are rarely found anywhere else throughout the world. Because quite a large number of these birds make a living on a diet of freshly caught fish, they often nest alongside the coastline or follow the neighboring river if necessary to track freshwater fish. Once they have mated, the female will collect twigs and pieces of debris to build nests where she can hatch her eggs under safe circumstances out of the reach of predators. When the first immigrants landed on New Zealand roughly seven centuries ago, rats were carried on the ships with them. The rats flourished in the warm climate and gradually became a threat to the native bird populations, particularly to the flightless species. In nineteen eighty-four, researchers discovered that just three pairs of flightless bird species remained in existence, and that even these faced severe pressure. Now, New Zealand is a global pioneer in facilitating the recovery of severely endangered species from the brink of extinction. Every year, researchers conduct certain surveys aimed at monitoring the fluctuation in the levels of bird numbers and species living in New Zealand. </p><p>00:02:08,020</p><p>Owing to migration patterns of a few bird species, it is far from easy to accurately estimate the bird numbers, since many may have flown to other regions in search of mates and warmer climates, and thus may not be included in the investigation. Probably, there is a sensitive link between bird numbers and environmental influences, especially those closely linked to human activities. Routine activities such as farming or building houses can have a massive impact on the local populations. Forests that play a role of a habitat for thousands of birds can be entirely eradicated to produce fields for cropping or to provide wood for construction, which has a catastrophic impact. It is not only the activities of humans that threaten the living conditions of bird species, but the population of many predatory animal species has dramatically risen in New Zealand. One of these predators is the Mantani snake, which was introduced from Australia and has decimated the population of Kildeer birds. These birds nest on the ground and often return to find their eggs have been devoured by the egg-eating snakes. One cannot dismiss, of course, the disadvantages that nature itself imposes on the survival of many bird species. Natural disasters such as storms can be devastating, tearing apart forests and leaving thousands of destroyed nests in their wake. Monsoons flood the rivers and often drown many of the flightless bird species that are unable to escape. Unfortunately, illegal hunting, which is the greatest threat to bird species in New Zealand, is nearly impossible to prohibit. Several bird species, which are going to be extinct, now appear on display at the National Zoo, and there is such a crucial need that urgent policies are adopted to protect them. The zoo recently employed an expert in bird protection who strongly suggested that a guard should be employed to protect their birds from poachers. The expert also lays much stress on the fact that the birds can be haunted by quite a stressed situation where the public can approach them too closely, suggesting that the administration install a fence network to keep the public a safe distance away from the birds. In spite of this threat to birds in captivity, it is the freely roaming birds that are most at risk. Many efforts are being made to educate the public in terms of how they can contribute towards protecting birds that are living in the wild. Finally, research has indicated that one of the most feasible measures of keeping the public notified about the significance of protecting the bird population is through the media. I advise you all to read the related articles in specialist journals and also do some research on the Internet. Everyone can make your own contribution if you put your mind to it. </p><p>00:04:57,160</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/f76c4ef5-4e53-412c-86d0-bf9eb30ec60d.mp3",
+    "durationSeconds": 303.192,
+    "sizeBytes": 1213113,
+    "sha256": "71e139954d55ae96b39f8a66c78b0c135d5902b16b11658dde831ef98b56b109",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:31:14Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346504199_x3v13o_1f25846f.mp3"
+}

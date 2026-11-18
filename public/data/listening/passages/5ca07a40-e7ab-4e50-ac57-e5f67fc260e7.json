@@ -1,0 +1,385 @@
+{
+  "id": "5ca07a40-e7ab-4e50-ac57-e5f67fc260e7",
+  "title": "Stanley island",
+  "titleCn": "斯坦利岛旅游攻略：交通、住宿与雨林徒步",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/5ca07a40-e7ab-4e50-ac57-e5f67fc260e7",
+  "duration": 355,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:02,020"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer questions eleven to fifteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:09,380"
+    },
+    {
+      "label": "4",
+      "text": "Welcome once again to the show where we give you travel tips on popular tourist destinations in the Pacific region. And today, our focus is on beautiful Stanley Island. Now before we get started, a word of warning. The seaplane service to the island was discontinued last week, so for the next month at least, the sole link to the island is provided by the old ferry service since plans to run a hovercraft service to the island have been delayed. So what is there to see and do on Stanley Island? Well, the main tourist areas are on the north, south, and east coasts of the island. As far as recreation goes, in the south you'll find several leisure parklands such as Waterworld and Fantasy Island, which seem well-equipped and reasonably priced. If it's golf you're after, the eighteen-hole course in the south of the island is currently being turned into a conference center. But don't despair, there are two excellent courses just thirty minutes away on the east coast."
+    },
+    {
+      "label": "5",
+      "text": "00:01:15,980"
+    },
+    {
+      "label": "6",
+      "text": "The south of the island has many large resorts and hotels with plenty of children's activities and clubs. This part of the island caters mainly for those seeking luxury to medium-class accommodation. But the east coast has basic apartment complexes with fully equipped kitchens so that at least you can cook for yourself."
+    },
+    {
+      "label": "7",
+      "text": "00:01:37,080"
+    },
+    {
+      "label": "8",
+      "text": "For those who like to get back to nature, you'll probably find the south coast rather overdeveloped. The rainforest areas on the west coast are largely inaccessible because of the surrounding mountains, but those on the north coast are within easy reach and a local agency runs guided treks through the jungle."
+    },
+    {
+      "label": "9",
+      "text": "00:01:57,760"
+    },
+    {
+      "label": "10",
+      "text": "If you're into water sports, all of the areas have something to offer."
+    },
+    {
+      "label": "11",
+      "text": "00:02:05,080"
+    },
+    {
+      "label": "12",
+      "text": "Before you hear the rest of the program, you have some time to look at questions sixteen to twenty."
+    },
+    {
+      "label": "13",
+      "text": "00:02:20,420"
+    },
+    {
+      "label": "14",
+      "text": "Now listen and answer questions sixteen to twenty."
+    },
+    {
+      "label": "15",
+      "text": "00:02:43,100"
+    },
+    {
+      "label": "16",
+      "text": "Now here are a few bits of advice for those visiting the island for the first time to make your stay safer and more enjoyable. The island is generally safe, but it's as well to take a few precautions. If you're on any medication, bring this with you. It may not be available on the island. And it's also a good idea for everyone to pack some insect spray in their luggage. If you're thinking of going into the more mountainous region in the west of the island, let someone know where you're going. And remember, the reception for your mobile phone may be unreliable, so don't depend on that. Take your own water. Don't drink out of rivers. You're likely to come across lots of monkeys. They're cute, but watch out as they can bite."
+    },
+    {
+      "label": "17",
+      "text": "00:03:33,920"
+    },
+    {
+      "label": "18",
+      "text": "Finally, when you're back in the more inhabited areas, take a break from steak and do try the local seafood. It's fresh and very good value."
+    },
+    {
+      "label": "19",
+      "text": "00:03:47,120"
+    },
+    {
+      "label": "20",
+      "text": "That is the end of Part two. You now have forty-five seconds to check your answers to Part two."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "660168fc-0939-442a-903d-f009c38f6225",
+          "prompt": "**11** At the present time, Stanley Island can be reached by",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "ferry",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The seaplane service to the island was discontinued last week, so for the next month at least, the sole link to the island is provided by the old ferry service since plans to run a hovercraft service to the island have been delayed"
+          },
+          "keywordPairs": [
+            {
+              "question": "At the present time",
+              "article": "for the next month at least"
+            },
+            {
+              "question": "can be reached by",
+              "article": "the sole link to the island is provided by"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "hovercraft"
+            },
+            {
+              "value": "B",
+              "text": "plane"
+            },
+            {
+              "value": "C",
+              "text": "ferry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 12-15**\nWhere can the following facilities and attractions be found?\nWrite the correct letter, **A, B** or **C**, next to questions **12-15**.",
+      "questions": [
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "730cd01e-5f50-42be-bfad-9280f6901eb3",
+          "prompt": "golf courses",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "The East Coast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If it's golf you're after, the eighteen-hole course in the south of the island is currently being turned into a conference center. But don't despair, there are two excellent courses just thirty minutes away on the east coast"
+          },
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "4188a5c6-a256-408e-a9d0-9195f2bf778d",
+          "prompt": "family hotels",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "The South Coast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The south of the island has many large resorts and hotels with plenty of children's activities and clubs. This part of the island caters mainly for those seeking luxury to medium-class accommodation"
+          },
+          "keywordPairs": [
+            {
+              "question": "family",
+              "article": "children's activities and clubs"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "48403497-2b5d-486f-8831-02bad4943e17",
+          "prompt": "self-catering flats",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "The East Coast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But the east coast has basic apartment complexes with fully equipped kitchens so that at least you can cook for yourself"
+          },
+          "keywordPairs": [
+            {
+              "question": "self-catering",
+              "article": "cook for yourself"
+            },
+            {
+              "question": "flats",
+              "article": "apartment complexes"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "047bdaa9-5f5f-4893-bef4-27309975e304",
+          "prompt": "nature walks",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "The North Coast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For those who like to get back to nature, you'll probably find the south coast rather overdeveloped. The rainforest areas on the west coast are largely inaccessible because of the surrounding mountains, but those on the north coast are within easy reach and a local agency runs guided treks through the jungle"
+          },
+          "keywordPairs": [
+            {
+              "question": "nature walks",
+              "article": "guided treks through the jungle"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "The North Coast"
+        },
+        {
+          "value": "B",
+          "text": "The South Coast"
+        },
+        {
+          "value": "C",
+          "text": "The East Coast"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 16-20**\nComplete the form below.\nWrite **NO MORE THAN TWO WORD AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "b615e287-4379-471e-8def-af6a87490f73",
+          "prompt": "**Advice to Visitors**\n\n- Bring your own **16**_____ and insect spray.",
+          "answers": [
+            "medication"
+          ],
+          "rawAnswer": "medication",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you're on any medication, bring this with you. It may not be available on the island. And it's also a good idea for everyone to pack some insect spray in their luggage"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "638ef03c-d73d-44cc-84f9-bca3f69f1ffb",
+          "prompt": "-It may not be possible to use your **17**_____ in the western area.",
+          "answers": [
+            "mobile phone"
+          ],
+          "rawAnswer": "mobile phone",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you're thinking of going into the more mountainous region in the west of the island, let someone know where you're going. And remember, the reception for your mobile phone may be unreliable, so don't depend on that"
+          },
+          "keywordPairs": [
+            {
+              "question": "western area",
+              "article": "mountainous region in the west of the island"
+            },
+            {
+              "question": "may not be possible to use",
+              "article": "reception for your mobile phone may be unreliable"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "b8e1a2a9-384f-4aa8-981b-fdbef62dee42",
+          "prompt": "-Don`t drink water from **18**_____ .",
+          "answers": [
+            "rivers"
+          ],
+          "rawAnswer": "rivers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Take your own water. Don't drink out of rivers"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "4ddf273c-1726-4b3d-8023-b35f9a811cc9",
+          "prompt": "-Be careful of the **19**_____ as they bite.",
+          "answers": [
+            "monkeys"
+          ],
+          "rawAnswer": "monkeys",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You're likely to come across lots of monkeys. They're cute, but watch out as they can bite"
+          },
+          "keywordPairs": [
+            {
+              "question": "Be careful of",
+              "article": "watch out"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "3eaca6da-c999-4a64-af7f-1877e4a99dcd",
+          "prompt": "-remember to try the local **20**_____",
+          "answers": [
+            "seafood"
+          ],
+          "rawAnswer": "seafood",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, when you're back in the more inhabited areas, take a break from steak and do try the local seafood. It's fresh and very good value"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "配对题",
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:02,020</p><p>Now listen carefully and answer questions eleven to fifteen. </p><p>00:00:09,380</p><p>Welcome once again to the show where we give you travel tips on popular tourist destinations in the Pacific region. And today, our focus is on beautiful Stanley Island. Now before we get started, a word of warning. The seaplane service to the island was discontinued last week, so for the next month at least, the sole link to the island is provided by the old ferry service since plans to run a hovercraft service to the island have been delayed. So what is there to see and do on Stanley Island? Well, the main tourist areas are on the north, south, and east coasts of the island. As far as recreation goes, in the south you'll find several leisure parklands such as Waterworld and Fantasy Island, which seem well-equipped and reasonably priced. If it's golf you're after, the eighteen-hole course in the south of the island is currently being turned into a conference center. But don't despair, there are two excellent courses just thirty minutes away on the east coast. </p><p>00:01:15,980</p><p>The south of the island has many large resorts and hotels with plenty of children's activities and clubs. This part of the island caters mainly for those seeking luxury to medium-class accommodation. But the east coast has basic apartment complexes with fully equipped kitchens so that at least you can cook for yourself. </p><p>00:01:37,080</p><p>For those who like to get back to nature, you'll probably find the south coast rather overdeveloped. The rainforest areas on the west coast are largely inaccessible because of the surrounding mountains, but those on the north coast are within easy reach and a local agency runs guided treks through the jungle. </p><p>00:01:57,760</p><p>If you're into water sports, all of the areas have something to offer. </p><p>00:02:05,080</p><p>Before you hear the rest of the program, you have some time to look at questions sixteen to twenty. </p><p>00:02:20,420</p><p>Now listen and answer questions sixteen to twenty. </p><p>00:02:43,100</p><p>Now here are a few bits of advice for those visiting the island for the first time to make your stay safer and more enjoyable. The island is generally safe, but it's as well to take a few precautions. If you're on any medication, bring this with you. It may not be available on the island. And it's also a good idea for everyone to pack some insect spray in their luggage. If you're thinking of going into the more mountainous region in the west of the island, let someone know where you're going. And remember, the reception for your mobile phone may be unreliable, so don't depend on that. Take your own water. Don't drink out of rivers. You're likely to come across lots of monkeys. They're cute, but watch out as they can bite. </p><p>00:03:33,920</p><p>Finally, when you're back in the more inhabited areas, take a break from steak and do try the local seafood. It's fresh and very good value. </p><p>00:03:47,120</p>That is the end of Part two. You now have forty-five seconds to check your answers to Part two.",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/5ca07a40-e7ab-4e50-ac57-e5f67fc260e7.mp3",
+    "durationSeconds": 234.24,
+    "sizeBytes": 3748371,
+    "sha256": "9ac5e5dabbc153cdcbd34599dbb6861e11b47840a06b787b4c5749ffcf2c871a",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:32Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347793989_82jwpl_661e4ead.mp3"
+}

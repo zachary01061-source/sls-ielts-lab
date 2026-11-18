@@ -1,0 +1,337 @@
+{
+  "id": "fec02e57-4b03-496f-b247-f9e9c6eafd7d",
+  "title": "The preservation of organisms and fossils",
+  "titleCn": "化石的形成与保存：绿山化石公园讲座",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/fec02e57-4b03-496f-b247-f9e9c6eafd7d",
+  "duration": 326,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,200"
+    },
+    {
+      "label": "2",
+      "text": "Welcome everyone to today's talk on fossils and their preservation here at Green Mountain Fossil Park."
+    },
+    {
+      "label": "3",
+      "text": "00:00:08,620"
+    },
+    {
+      "label": "4",
+      "text": "Our goal is to give you an overview of how fossils are formed and classified, as well as how you can acquire them as souvenirs."
+    },
+    {
+      "label": "5",
+      "text": "00:00:17,700"
+    },
+    {
+      "label": "6",
+      "text": "Let's start with the three main types of fossils found here. The first type is transitional fossils, which are quite rare. These fossils display characteristics that bridge the evolutionary gap between ancestral species and their modern descendants. A well-known example would be fossils that show traits of both dinosaurs and birds."
+    },
+    {
+      "label": "7",
+      "text": "00:00:42,020"
+    },
+    {
+      "label": "8",
+      "text": "Next, the second type is actual fossilized remains of ancient organisms, which is categorized under preserved ones."
+    },
+    {
+      "label": "9",
+      "text": "00:00:51,560"
+    },
+    {
+      "label": "10",
+      "text": "Unlike the first type, preserved fossils maintain much of the original structure, making it possible to see distinct features of plants or animals. The third category is ichnofossils, which can help to trace fossil size and forms through the actual remains of an organism, but instead provide evidence of their activity. These include footprints, burrows, or tunnels left behind by prehistoric creatures. Now, let's explore how fossils are formed. One way is when an organism gets trapped in volcanic ash, which preserves it in great detail. However, a more common process is petrifaction."
+    },
+    {
+      "label": "11",
+      "text": "00:01:34,660"
+    },
+    {
+      "label": "12",
+      "text": "The first step is that after an animal dies, it gets buried in the mud or silt. Over time, the mud surrounding the remains dries and hardens, creating a protective layer. Eventually, the bones decay and are replaced by minerals in the surrounding soil, which leaves behind a stone-like fossilized structure."
+    },
+    {
+      "label": "13",
+      "text": "00:01:57,480"
+    },
+    {
+      "label": "14",
+      "text": "This process allows us to uncover fossils millions of years later, providing valuable insights into prehistoric life."
+    },
+    {
+      "label": "15",
+      "text": "00:02:06,520"
+    },
+    {
+      "label": "16",
+      "text": "Now, if you'd like to take home a fossil as a souvenir, there are two places you can purchase them. You can visit the shop outside the park or explore the fossils available at the park's exhibitions. As for the prices, don't worry, most fossils can be afforded by customers, although larger ones can be quite expensive."
+    },
+    {
+      "label": "17",
+      "text": "00:02:28,440"
+    },
+    {
+      "label": "18",
+      "text": "During your visit, you will come across various tools that will help you learn more about fossils. For example, a tape measure is provided next to each fossil, so you can record the dimensions of the specimen. Another one is a notebook and pen, which will allow you to document different types of rocks, as geology plays an essential role in fossil studies."
+    },
+    {
+      "label": "19",
+      "text": "00:02:52,900"
+    },
+    {
+      "label": "20",
+      "text": "If you have a camera, feel free to take photos of the fossils. This can help you review details later and compare different formations. Lastly, a compass can help explore soft sediments, which are often key indicators of fossil locations. If you have any questions, feel free to ask our staff members. Enjoy your visit, and we hope this experience sparks a deeper interest in the fascinating world of fossils."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **NO MORE THAN TWO WORDS** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "6e48c27f-081c-4eff-9b0b-ffdb2dbe3619",
+          "prompt": "**Three types of fossils**:\n·Transitional fossils: rare, show evidence of evolutionary change\n·**31**_____ fossils: actual fossilised remains",
+          "answers": [
+            "preserved"
+          ],
+          "rawAnswer": "preserved",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Next, the second type is actual fossilized remains of ancient organisms, which is categorized under preserved ones"
+          },
+          "maxWords": 2,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "218a8433-d915-49fb-a249-ae5984886112",
+          "prompt": "·lchno-fossils:**32**_____ indirect evidence of animals, e.g. footprints or tunnels",
+          "answers": [
+            "provide"
+          ],
+          "rawAnswer": "provide",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The third category is ichnofossils, which can help to trace fossil size and forms;but instead provide indirect evidence of their activity"
+          },
+          "maxWords": 2,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "c02a540b-6f4a-4572-a989-90cedd79f18c",
+          "prompt": "**How fossils are formed**:\n·Organism trapped in volcanic ash: an organism is quickly buried under volcanic ash.\n\n**·Petrification**\n**Step 1**: An animal is **33**_____ in the mud after death.",
+          "answers": [
+            "buried"
+          ],
+          "rawAnswer": "buried",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The first step is that after an animal dies, it gets buried in the mud or silt"
+          },
+          "maxWords": 2,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "fe679893-7d94-4dd2-9d3f-2a4549727584",
+          "prompt": "** Step 2**:The mud dries and hardens over time.\n** Step 3**:Soil rich in **34**_____ replace the bones, leaving behind a stone-like fossilized shape.",
+          "answers": [
+            "minerals"
+          ],
+          "rawAnswer": "minerals",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Eventually, the bones decay and are replaced by minerals in the surrounding soil"
+          },
+          "keywordPairs": [
+            {
+              "question": "soil rich in",
+              "article": "surrounding soil"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "09580a8b-cc2e-43cb-a61e-68a72aa48a25",
+          "prompt": "**Purchasing fossils**:\n·Where to buy: Shop outside the park or from the park`s **35**_____",
+          "answers": [
+            "exhibitions"
+          ],
+          "rawAnswer": "exhibitions",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You can visit the shop outside the park or explore the fossils available at the park's exhibitions"
+          },
+          "keywordPairs": [
+            {
+              "question": "buy",
+              "article": "purchase"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "51823c34-5a3b-49e0-a62b-5aa0706be148",
+          "prompt": "·Prices: Generally affordable, but big fossil is very **36**_____",
+          "answers": [
+            "expensive"
+          ],
+          "rawAnswer": "expensive",
+          "evidence": {
+            "paragraph": "",
+            "quote": "most fossils can be afforded by customers, although larger ones can be quite expensive"
+          },
+          "keywordPairs": [
+            {
+              "question": "big",
+              "article": "larger"
+            },
+            {
+              "question": "very",
+              "article": "quite"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "55c2f216-e79e-4e6d-894e-8760447a7151",
+          "prompt": "| **Functions of different types of tools** |\n| --- | --- |\n| Tools | Function or Purpose |\n| a **37**_____ | record the dimensions of each fossil |\n| a note and pen | record the types of 38..... |\n| a camera | record the 39..... |\n| a compass | detect 40..... locate |",
+          "answers": [
+            "tape measure"
+          ],
+          "rawAnswer": "tape measure",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, a tape measure is provided next to each fossil, so you can record the dimensions of the specimen"
+          },
+          "maxWords": 2,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37",
+          "blockId": "table-4e6f7a33051e0277",
+          "blockPosition": 0,
+          "blockSize": 4
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "8f45dbe6-45fa-4cbf-8f28-f8d8cb9544f1",
+          "prompt": "| **Functions of different types of tools** |\n| --- | --- |\n| Tools | Function or Purpose |\n| a **37**_____ | record the dimensions of each fossil |\n| a note and pen | record the types of 38..... |\n| a camera | record the 39..... |\n| a compass | detect 40..... locate |",
+          "answers": [
+            "rocks"
+          ],
+          "rawAnswer": "rocks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another one is a notebook and pen, which will allow you to document different types of rocks, as geology plays an essential role in fossil studies"
+          },
+          "keywordPairs": [
+            {
+              "question": "Record",
+              "article": "document"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38",
+          "blockId": "table-4e6f7a33051e0277",
+          "blockPosition": 1,
+          "blockSize": 4
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "73594210-d539-4d56-bcc4-6da5c9f5eb7e",
+          "prompt": "| **Functions of different types of tools** |\n| --- | --- |\n| Tools | Function or Purpose |\n| a **37**_____ | record the dimensions of each fossil |\n| a note and pen | record the types of 38..... |\n| a camera | record the 39..... |\n| a compass | detect 40..... locate |",
+          "answers": [
+            "details"
+          ],
+          "rawAnswer": "details",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you have a camera, feel free to take photos of the fossils. This can help you review details later and compare different formations"
+          },
+          "maxWords": 2,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39",
+          "blockId": "table-4e6f7a33051e0277",
+          "blockPosition": 2,
+          "blockSize": 4
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "b87ec02d-7c15-4fe1-9039-c3277e5d757b",
+          "prompt": "| **Functions of different types of tools** |\n| --- | --- |\n| Tools | Function or Purpose |\n| a **37**_____ | record the dimensions of each fossil |\n| a note and pen | record the types of 38..... |\n| a camera | record the 39..... |\n| a compass | detect 40..... locate |",
+          "answers": [
+            "soft sediments"
+          ],
+          "rawAnswer": "soft sediments",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Lastly, a compass can help explore soft sediments, which are often key indicators of fossil locations"
+          },
+          "keywordPairs": [
+            {
+              "question": "Detect",
+              "article": "explore"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40",
+          "blockId": "table-4e6f7a33051e0277",
+          "blockPosition": 3,
+          "blockSize": 4
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,200</p><p>Welcome everyone to today's talk on fossils and their preservation here at Green Mountain Fossil Park. </p><p>00:00:08,620</p><p>Our goal is to give you an overview of how fossils are formed and classified, as well as how you can acquire them as souvenirs. </p><p>00:00:17,700</p><p>Let's start with the three main types of fossils found here. The first type is transitional fossils, which are quite rare. These fossils display characteristics that bridge the evolutionary gap between ancestral species and their modern descendants. A well-known example would be fossils that show traits of both dinosaurs and birds. </p><p>00:00:42,020</p><p>Next, the second type is actual fossilized remains of ancient organisms, which is categorized under preserved ones. </p><p>00:00:51,560</p><p>Unlike the first type, preserved fossils maintain much of the original structure, making it possible to see distinct features of plants or animals. The third category is ichnofossils, which can help to trace fossil size and forms through the actual remains of an organism, but instead provide evidence of their activity. These include footprints, burrows, or tunnels left behind by prehistoric creatures. Now, let's explore how fossils are formed. One way is when an organism gets trapped in volcanic ash, which preserves it in great detail. However, a more common process is petrifaction. </p><p>00:01:34,660</p><p>The first step is that after an animal dies, it gets buried in the mud or silt. Over time, the mud surrounding the remains dries and hardens, creating a protective layer. Eventually, the bones decay and are replaced by minerals in the surrounding soil, which leaves behind a stone-like fossilized structure. </p><p>00:01:57,480</p><p>This process allows us to uncover fossils millions of years later, providing valuable insights into prehistoric life. </p><p>00:02:06,520</p><p>Now, if you'd like to take home a fossil as a souvenir, there are two places you can purchase them. You can visit the shop outside the park or explore the fossils available at the park's exhibitions. As for the prices, don't worry, most fossils can be afforded by customers, although larger ones can be quite expensive. </p><p>00:02:28,440</p><p>During your visit, you will come across various tools that will help you learn more about fossils. For example, a tape measure is provided next to each fossil, so you can record the dimensions of the specimen. Another one is a notebook and pen, which will allow you to document different types of rocks, as geology plays an essential role in fossil studies. </p><p>00:02:52,900</p><p>If you have a camera, feel free to take photos of the fossils. This can help you review details later and compare different formations. Lastly, a compass can help explore soft sediments, which are often key indicators of fossil locations. If you have any questions, feel free to ask our staff members. Enjoy your visit, and we hope this experience sparks a deeper interest in the fascinating world of fossils.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/fec02e57-4b03-496f-b247-f9e9c6eafd7d.mp3",
+    "durationSeconds": 205.035102,
+    "sizeBytes": 4921761,
+    "sha256": "a70d84fce84df1060a2f17a0d71306f3ef854fc2e0c3b46415850316fe0c4f39",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:26Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/preservation_organisms_fossils_e7bf2244.mp3"
+}

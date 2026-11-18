@@ -1,0 +1,510 @@
+{
+  "id": "92a33f31-0ae8-4b68-afd4-34d1fc97a950",
+  "title": "Space tourism feasibility study",
+  "titleCn": "太空旅游可行性研究：学生讨论",
+  "part": 3,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/92a33f31-0ae8-4b68-afd4-34d1fc97a950",
+  "duration": 361,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "You will hear two university students, Mark and Lena, discussing a feasibility study on space tourism."
+    },
+    {
+      "label": "2",
+      "text": "Mark: Hi Lena. Are you ready to work on our space tourism feasibility study?"
+    },
+    {
+      "label": "3",
+      "text": "Lena: Yes, Mark. I’ve been reading up on the history. It’s absolutely fascinating."
+    },
+    {
+      "label": "4",
+      "text": "Mark: I was looking at early proposals. You’d think the astronomical cost of initial test flights would be the most shocking thing. But honestly, what really blew my mind was just how far back the original concepts were drafted; I had no idea people were seriously planning this decades ago."
+    },
+    {
+      "label": "5",
+      "text": "Lena: True. Now, the industry faces massive hurdles. Many articles claim that finding civilians willing to risk their lives is the main barrier."
+    },
+    {
+      "label": "6",
+      "text": "Mark: I read that too. People are understandably scared."
+    },
+    {
+      "label": "7",
+      "text": "Lena: Actually, there is a huge waiting list. From what I’ve researched, the absolute biggest hurdle these corporations are struggling with is actually engineering launch vehicles that won’t fail; ensuring that level of reliability is the bottleneck."
+    },
+    {
+      "label": "8",
+      "text": "Mark: Yeah, safety is the priority. And then there’s the environmental side. I honestly think the backlash over emissions could shut down the whole industry."
+    },
+    {
+      "label": "9",
+      "text": "LENA: I don’t think it’ll be banned completely. But regulatory bodies will force them to innovate. The only viable way forward is for companies to transition completely to developing eco-friendly propellants."
+    },
+    {
+      "label": "10",
+      "text": "Mark: You’re right, shifting to greener fuel types will be mandatory."
+    },
+    {
+      "label": "11",
+      "text": "Lena: Okay, what about the section on passenger preparation? I was thinking we could discuss the physical fitness tests they have to pass."
+    },
+    {
+      "label": "12",
+      "text": "Mark: We could, but the physical stuff is heavily documented. What’s much more compelling, and what the class would find unusual, is how they get civilians mentally ready to be in such a confined, hostile environment. Let’s focus on that."
+    },
+    {
+      "label": "13",
+      "text": "Lena: Good point, the psychological conditioning aspect is more unique."
+    },
+    {
+      "label": "14",
+      "text": "Mark: Great. And for the conclusion? I’d love to talk about where we might go next, like hotels on the Moon or potential Mars bases."
+    },
+    {
+      "label": "15",
+      "text": "Lena: Those destinations are exciting, but maybe too sci-fi. It would be much more grounded to end by analyzing exactly when these companies realistically expect to start regular, scheduled commercial operations."
+    },
+    {
+      "label": "16",
+      "text": "Mark: Yeah, focusing on projected dates makes much more sense."
+    },
+    {
+      "label": "17",
+      "text": "Lena: Perfect. Now, we need to match some logistical issues with the proposed solutions. First, launch noise. It’s simply too loud."
+    },
+    {
+      "label": "18",
+      "text": "Mark: Right. One paper suggested restricting flight durations, but that doesn’t solve it. The most viable proposal is constructing the launch pads out at sea, away from major cities."
+    },
+    {
+      "label": "19",
+      "text": "Lena: Yes, moving to offshore platforms solves the noise complaint completely."
+    },
+    {
+      "label": "20",
+      "text": "Mark: What about passenger motion sickness? Standard medication makes people drowsy."
+    },
+    {
+      "label": "21",
+      "text": "Lena: Instead of drugs, the new approach is to have passengers use computer-simulated environments before the flight, so their brains adapt to the visual disconnect."
+    },
+    {
+      "label": "22",
+      "text": "Mark: That VR exposure makes sense."
+    },
+    {
+      "label": "23",
+      "text": "Lena: And spacesuit design? They need to be custom-fitted, which is incredibly expensive."
+    },
+    {
+      "label": "24",
+      "text": "Mark: The breakthrough there is using additive manufacturing. They can scan a person’s body and just manufacture the suit layer by layer on demand."
+    },
+    {
+      "label": "25",
+      "text": "Lena: Exactly, using 3D printers will cut costs."
+    },
+    {
+      "label": "26",
+      "text": "Mark: Now, food storage. Fresh food spoils quickly, and traditional paste is heavy."
+    },
+    {
+      "label": "27",
+      "text": "Lena: I read about a startup that is compressing all the essential daily vitamins and calories into a tablet form, which saves massive amounts of space and weight."
+    },
+    {
+      "label": "28",
+      "text": "Mark: Utilizing those concentrated capsules is brilliant."
+    },
+    {
+      "label": "29",
+      "text": "Lena: Finally, waste management. It’s a huge hygiene risk."
+    },
+    {
+      "label": "30",
+      "text": "Mark: The current manual methods are pretty gross. The recommendation is to install self- contained, robotic disposal mechanisms that handle everything without human intervention."
+    },
+    {
+      "label": "31",
+      "text": "Lena: Agreed, relying on automated machinery is the safest option."
+    },
+    {
+      "label": "32",
+      "text": "Mark: Alright, we have a solid outline!"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 21–25**\nChoose the correct letter, **A, B**, or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "21",
+          "sourceQuestionId": "72842594-6e30-4a56-b814-5ba5f0c0a0ae",
+          "prompt": "**21** What surprised Mark most about the history of space tourism?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "the extremely early dates of the original proposals",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I was looking at early proposals. You’d think the astronomical cost of initial test flights would be the most shocking thing. But honestly, what really blew my mind was just how far back the original concepts were drafted; I had no idea people were seriously planning this decades ago"
+          },
+          "keywordPairs": [
+            {
+              "question": "what really blew my mind",
+              "article": "surprised most"
+            },
+            {
+              "question": "decades ago",
+              "article": "extremely early dates"
+            }
+          ],
+          "sourceSlot": 21,
+          "sourceSlotNumber": "21",
+          "options": [
+            {
+              "value": "A",
+              "text": "the extremely early dates of the original proposals"
+            },
+            {
+              "value": "B",
+              "text": "the astronomical cost of the initial test flights"
+            },
+            {
+              "value": "C",
+              "text": "the lack of public interest in the early stages"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "22",
+          "sourceQuestionId": "90f11dd6-465d-48ed-8929-342c48037a12",
+          "prompt": "**22** Lena argues that the biggest challenge for current space tourism companies is",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "developing launch vehicles that are completely reliable.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Many articles claim that finding civilians willing to risk their lives is the main barrier. Actually, there is a huge waiting list. From what I’ve researched, the absolute biggest hurdle these corporations are struggling with is actually engineering launch vehicles that won’t fail; ensuring that level of reliability is the bottleneck"
+          },
+          "keywordPairs": [
+            {
+              "question": "corporations",
+              "article": "companies"
+            },
+            {
+              "question": "absolute biggest hurdle",
+              "article": "biggest challenge"
+            },
+            {
+              "question": "won’t fail",
+              "article": "completely reliable"
+            },
+            {
+              "question": "engineering",
+              "article": "developing"
+            }
+          ],
+          "sourceSlot": 22,
+          "sourceSlotNumber": "22",
+          "options": [
+            {
+              "value": "A",
+              "text": "finding enough civilians willing to risk the journey."
+            },
+            {
+              "value": "B",
+              "text": "securing sufficient funding from government bodies."
+            },
+            {
+              "value": "C",
+              "text": "developing launch vehicles that are completely reliable."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "23",
+          "sourceQuestionId": "6ae8cb40-a1e9-4e71-a958-77369c9aca9c",
+          "prompt": "**23** What do Mark and Lena agree must happen regarding the environmental impact?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "Companies will be forced to utilize eco-friendly propellants.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Yeah, safety is the priority. And then there’s the environmental side. I honestly think the backlash over emissions could shut down the whole industry;I don’t think it’ll be banned completely. But regulatory bodies will force them to innovate. The only viable way forward is for companies to transition completely to developing eco-friendly propellants;You’re right, shifting to greener fuel types will be mandatory"
+          },
+          "keywordPairs": [
+            {
+              "question": "forced",
+              "article": "mandatory"
+            },
+            {
+              "question": "utilize eco-friendly propellants",
+              "article": "transition to developing eco-friendly propellants"
+            }
+          ],
+          "sourceSlot": 23,
+          "sourceSlotNumber": "23",
+          "options": [
+            {
+              "value": "A",
+              "text": "The industry could be shut down due to public backlash."
+            },
+            {
+              "value": "B",
+              "text": "Companies will be forced to utilize eco-friendly propellants."
+            },
+            {
+              "value": "C",
+              "text": "Regulatory bodies will ban short-duration tourist flights."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "24",
+          "sourceQuestionId": "d8517621-5f73-43b8-8959-e0b5a8e46e47",
+          "prompt": "**24** For their presentation on ‘passenger preparation’, they decide to focus on",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "the psychological conditioning required.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Okay, what about the section on passenger preparation? I was thinking we could discuss the physical fitness tests they have to pass;We could, but the physical stuff is heavily documented. What’s much more compelling, and what the class would find unusual, is how they get civilians mentally ready to be in such a confined, hostile environment. Let’s focus on that"
+          },
+          "keywordPairs": [
+            {
+              "question": "mentally ready",
+              "article": "psychological conditioning"
+            }
+          ],
+          "sourceSlot": 24,
+          "sourceSlotNumber": "24",
+          "options": [
+            {
+              "value": "A",
+              "text": "the standard physical fitness tests."
+            },
+            {
+              "value": "B",
+              "text": "the psychological conditioning required."
+            },
+            {
+              "value": "C",
+              "text": "the emergency procedures and protocols."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "25",
+          "sourceQuestionId": "3e58e68b-5094-4e49-abf8-f00cb5ffca06",
+          "prompt": "**25** They agree to conclude their feasibility study by examining",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "the projected timeline for regular commercial operations.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Great. And for the conclusion? I’d love to talk about where we might go next, like hotels on the Moon or potential Mars bases;Those destinations are exciting, but maybe too sci-fi. It would be much more grounded to end by analyzing exactly when these companies realistically expect to start regular, scheduled commercial operations"
+          },
+          "keywordPairs": [
+            {
+              "question": "conclude their study",
+              "article": "end by analyzing"
+            },
+            {
+              "question": "projected timeline",
+              "article": "expect to start"
+            }
+          ],
+          "sourceSlot": 25,
+          "sourceSlotNumber": "25",
+          "options": [
+            {
+              "value": "A",
+              "text": "the projected timeline for regular commercial operations."
+            },
+            {
+              "value": "B",
+              "text": "the potential for future destinations like Mars."
+            },
+            {
+              "value": "C",
+              "text": "the changes needed in international space law."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 26–30**\nWhat solution do Mark and Lena propose for each of the following logistical issues?\nChoose **FIVE** answers from the box and write the correct letter, **A–F**, next to Questions **26–30**.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "26",
+          "sourceQuestionId": "e92ef575-f2cf-4433-9f07-d3635400a31e",
+          "prompt": "Launch noise",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "construct offshore facilities",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One paper suggested restricting flight durations, but that doesn’t solve it. The most viable proposal is constructing the launch pads out at sea, away from major cities"
+          },
+          "keywordPairs": [
+            {
+              "question": "offshore facilities",
+              "article": "pads out at sea"
+            }
+          ],
+          "sourceSlot": 26,
+          "sourceSlotNumber": "26"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "27",
+          "sourceQuestionId": "db1deeac-6125-4bef-bfbc-1515304a80b3",
+          "prompt": "Passenger motion sickness",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "utilize computer-simulated environments",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Instead of drugs, the new approach is to have passengers use computer-simulated environments before the flight, so their brains adapt to the visual disconnect"
+          },
+          "sourceSlot": 27,
+          "sourceSlotNumber": "27"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "28",
+          "sourceQuestionId": "831097db-1919-4668-8343-2f4c8b424de8",
+          "prompt": "Spacesuit design",
+          "answers": [
+            "D"
+          ],
+          "rawAnswer": "employ 3D printing technology",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The breakthrough there is using additive manufacturing. They can scan a person’s body and just manufacture the suit layer by layer on demand;using 3D printers will cut costs"
+          },
+          "sourceSlot": 28,
+          "sourceSlotNumber": "28"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "29",
+          "sourceQuestionId": "c26c81ba-3e4e-44cf-9cdb-9e8110f92b90",
+          "prompt": "Food storage",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "develop pill-based nutrition",
+          "evidence": {
+            "paragraph": "",
+            "quote": "compressing all the essential daily vitamins and calories into a tablet form, which saves massive amounts of space and weight"
+          },
+          "keywordPairs": [
+            {
+              "question": "pill-based nutrition",
+              "article": "tablet form"
+            }
+          ],
+          "sourceSlot": 29,
+          "sourceSlotNumber": "29"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "30",
+          "sourceQuestionId": "f1520a0d-e3ee-4dd8-955c-339d02343923",
+          "prompt": "Waste management",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "implement fully automated systems",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The recommendation is to install self- contained, robotic disposal mechanisms that handle everything without human intervention.\nLena: Agreed, relying on automated machinery is the safest option"
+          },
+          "keywordPairs": [
+            {
+              "question": "fully automated systems",
+              "article": "automated machinery"
+            }
+          ],
+          "sourceSlot": 30,
+          "sourceSlotNumber": "30"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "implement fully automated systems"
+        },
+        {
+          "value": "B",
+          "text": "construct offshore facilities"
+        },
+        {
+          "value": "C",
+          "text": "utilize computer-simulated environments"
+        },
+        {
+          "value": "D",
+          "text": "employ 3D printing technology"
+        },
+        {
+          "value": "E",
+          "text": "develop pill-based nutrition"
+        },
+        {
+          "value": "F",
+          "text": "restrict overall flight durations"
+        },
+        {
+          "value": "G",
+          "text": "logistical Issues"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "配对题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>You will hear two university students, Mark and Lena, discussing a feasibility study on space tourism.</p><p>Mark: Hi Lena. Are you ready to work on our space tourism feasibility study?</p><p>Lena: Yes, Mark. I’ve been reading up on the history. It’s absolutely fascinating.</p><p>Mark: I was looking at early proposals. You’d think the astronomical cost of initial test flights would be the most shocking thing. But honestly, what really blew my mind was just how far back the original concepts were drafted; I had no idea people were seriously planning this decades ago.</p><p>Lena: True. Now, the industry faces massive hurdles. Many articles claim that finding civilians willing to risk their lives is the main barrier.</p><p>Mark: I read that too. People are understandably scared.</p><p>Lena: Actually, there is a huge waiting list. From what I’ve researched, the absolute biggest hurdle these corporations are struggling with is actually engineering launch vehicles that won’t fail; ensuring that level of reliability is the bottleneck.</p><p>Mark: Yeah, safety is the priority. And then there’s the environmental side. I honestly think the backlash over emissions could shut down the whole industry.</p><p>LENA: I don’t think it’ll be banned completely. But regulatory bodies will force them to innovate. The only viable way forward is for companies to transition completely to developing eco-friendly propellants.</p><p>Mark: You’re right, shifting to greener fuel types will be mandatory.</p><p>Lena: Okay, what about the section on passenger preparation? I was thinking we could discuss the physical fitness tests they have to pass.</p><p>Mark: We could, but the physical stuff is heavily documented. What’s much more compelling, and what the class would find unusual, is how they get civilians mentally ready to be in such a confined, hostile environment. Let’s focus on that.</p><p>Lena: Good point, the psychological conditioning aspect is more unique.</p><p>Mark: Great. And for the conclusion? I’d love to talk about where we might go next, like hotels on the Moon or potential Mars bases.</p><p>Lena: Those destinations are exciting, but maybe too sci-fi. It would be much more grounded to end by analyzing exactly when these companies realistically expect to start regular, scheduled commercial operations.</p><p>Mark: Yeah, focusing on projected dates makes much more sense.</p><p>Lena: Perfect. Now, we need to match some logistical issues with the proposed solutions. First, launch noise. It’s simply too loud.</p><p>Mark: Right. One paper suggested restricting flight durations, but that doesn’t solve it. The most viable proposal is constructing the launch pads out at sea, away from major cities.</p><p>Lena: Yes, moving to offshore platforms solves the noise complaint completely.</p><p>Mark: What about passenger motion sickness? Standard medication makes people drowsy.</p><p>Lena: Instead of drugs, the new approach is to have passengers use computer-simulated environments before the flight, so their brains adapt to the visual disconnect.</p><p>Mark: That VR exposure makes sense.</p><p>Lena: And spacesuit design? They need to be custom-fitted, which is incredibly expensive.</p><p>Mark: The breakthrough there is using additive manufacturing. They can scan a person’s body and just manufacture the suit layer by layer on demand.</p><p>Lena: Exactly, using 3D printers will cut costs.</p><p>Mark: Now, food storage. Fresh food spoils quickly, and traditional paste is heavy.</p><p>Lena: I read about a startup that is compressing all the essential daily vitamins and calories into a tablet form, which saves massive amounts of space and weight.</p><p>Mark: Utilizing those concentrated capsules is brilliant.</p><p>Lena: Finally, waste management. It’s a huge hygiene risk.</p><p>Mark: The current manual methods are pretty gross. The recommendation is to install self- contained, robotic disposal mechanisms that handle everything without human intervention.</p><p>Lena: Agreed, relying on automated machinery is the safest option.</p><p>Mark: Alright, we have a solid outline!<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/92a33f31-0ae8-4b68-afd4-34d1fc97a950.mp3",
+    "durationSeconds": 240.927313,
+    "sizeBytes": 3890299,
+    "sha256": "d8b4d67e6257fc0670104dce8dc970de031a7ae360f1729b3a5900c7b7d8ae78",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:21:56Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1780737122742_3gvnuq_1b347563.mp3"
+}

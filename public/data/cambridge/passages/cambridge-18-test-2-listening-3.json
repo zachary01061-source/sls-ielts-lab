@@ -1,0 +1,445 @@
+{
+  "id": "cambridge-18-test-2-listening-3",
+  "title": "C18T2L3",
+  "titleCn": "C18T2L3",
+  "subject": "listening",
+  "part": 3,
+  "duration": 428,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 2
+  },
+  "sourceQuestionId": "8449",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8449",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Adam: So, Michelle, shall we make a start on our presentation? We haven’t got that much time left."
+    },
+    {
+      "label": "2",
+      "text": "Michelle: No, Adam. But at least we’ve done all the background reading. I found it really interesting – I’d never even heard of the Laki eruption before this."
+    },
+    {
+      "label": "3",
+      "text": "Adam: Me neither. I suppose 1783 is a long time ago."
+    },
+    {
+      "label": "4",
+      "text": "Michelle: But it was a huge eruption and it had such devastating consequences."
+    },
+    {
+      "label": "5",
+      "text": "Adam: I know. It was great there were so many primary sources to look at. It really gives you a sense of how catastrophic the volcano was. People were really trying to make sense of the science for the first time."
+    },
+    {
+      "label": "6",
+      "text": "Michelle: That’s right. But what I found more significant was how it impacted directly and indirectly on political events, as well as having massive social and economic consequences."
+    },
+    {
+      "label": "7",
+      "text": "Adam: I know. That should be the main focus of our presentation."
+    },
+    {
+      "label": "8",
+      "text": "Michelle: The observations made by people at the time were interesting, weren’t they? I mean, they all gave a pretty consistent account of what happened, even if they didn’t always use the same terminology."
+    },
+    {
+      "label": "9",
+      "text": "Adam: Yeah. I was surprised there were so many weather stations established by that time – so, you know, you can see how the weather changed, often by the hour."
+    },
+    {
+      "label": "10",
+      "text": "Michelle: Right. Writers at the time talked about the Laki haze to describe the volcanic fog that spread across Europe. They all realised that this wasn’t the sort of fog they were used to – and of course this was in pre-industrial times – so they hadn’t experienced sulphur-smelling fog before."
+    },
+    {
+      "label": "11",
+      "text": "Adam: No, that’s true."
+    },
+    {
+      "label": "12",
+      "text": "Michelle: Reports from the period blamed the haze for an increase in headaches, respiratory issues and asthma attacks. And they all describe how it covered the sun and made it look a strange red colour."
+    },
+    {
+      "label": "13",
+      "text": "Adam: Must have been very weird."
+    },
+    {
+      "label": "14",
+      "text": "Michelle: It’s interesting that Benjamin Franklin wrote about the haze. Did you read that? He was the American ambassador in Paris at the time."
+    },
+    {
+      "label": "15",
+      "text": "Adam: Yeah. At first no one realised that the haze was caused by the volcanic eruption in Iceland."
+    },
+    {
+      "label": "16",
+      "text": "Michelle: It was Benjamin Franklin who realised that before anyone else."
+    },
+    {
+      "label": "17",
+      "text": "Adam: He’s often credited with that, apparently. But a French naturalist beat him to it – I can’t remember his name. I’d have to look it up. Then other naturalists had the same idea – all independently of each other."
+    },
+    {
+      "label": "18",
+      "text": "Michelle: Oh right. We should talk about the immediate impact of the eruption, which was obviously enormous – especially in Iceland, where so many people died."
+    },
+    {
+      "label": "19",
+      "text": "Adam: Mmm. You’d expect that – and the fact that the volcanic ash drifted so swiftly – but not that the effects would go on for so long. Or that two years after the eruption, strange weather events were being reported as far away as North America and North Africa."
+    },
+    {
+      "label": "20",
+      "text": "Michelle: No. I found all that hard to believe too. It must have been terrible – and there was nothing anyone could do about it, even if they knew the ash cloud was coming in their direction."
+    },
+    {
+      "label": "21",
+      "text": "Michelle: We should run through some of the terrible consequences of the eruption experienced in different countries. There’s quite a varied range."
+    },
+    {
+      "label": "22",
+      "text": "Adam: Starting with Iceland, where the impact on farming was devastating."
+    },
+    {
+      "label": "23",
+      "text": "Michelle: Mmm. One of the most dramatic things there was the effect on livestock as they grazed in the fields. They were poisoned because they ate vegetation that had been contaminated with fluorine as a result of the volcanic fallout."
+    },
+    {
+      "label": "24",
+      "text": "Adam: That was horrible. In Egypt, the bizarre weather patterns led to a severe drought and as a result the Nile didn’t flood, which meant the crops all failed."
+    },
+    {
+      "label": "25",
+      "text": "Michelle: It’s so far from where the eruption happened and yet the famine there led to more people dying than any other country. It was worse than the plague."
+    },
+    {
+      "label": "26",
+      "text": "Adam: OK. Then in the UK the mortality rate went up a lot – presumably from respiratory illnesses. According to one report it was about double the usual number and included an unusually high percentage of people under the age of 25."
+    },
+    {
+      "label": "27",
+      "text": "Michelle: Mmm. I think people will be surprised to hear that the weather in the USA was badly affected too. George Washington even makes a note in his diary that they were snowbound until March in Virginia. That was before he became president."
+    },
+    {
+      "label": "28",
+      "text": "Adam: Yes, and there was ice floating down the Mississippi, which was unprecedented."
+    },
+    {
+      "label": "29",
+      "text": "Michelle: Astonishing, really. Anyway, what do you think …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 21–24\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Why do the students think the Laki eruption of 1783 is so important?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8449_999605",
+          "options": [
+            {
+              "value": "A",
+              "text": "It was the most severe eruption in modern times."
+            },
+            {
+              "value": "B",
+              "text": "It led to the formal study of volcanoes."
+            },
+            {
+              "value": "C",
+              "text": "It had a profound effect on society."
+            }
+          ],
+          "explanation": "本题需要选择1783年拉基火山喷发的重要性。首先女生提到it was a huge eruption，对应A选项的severe eruption，但未提及the most，故排除A选项。接下来男生提到make sense of the science for the first time，对应B选项的formal study，但女生随后提到But what I found more significant，表示她认为有更重要的原因，故排除B选项。此处significant对应题干的important。后文的political events和social and economic consequences对应C选项的society，选项中的profound effect在原文中替换为impacted directly and indirectly。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "What surprised Adam about observations made at the time?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8449_165992",
+          "options": [
+            {
+              "value": "A",
+              "text": "the number of places producing them"
+            },
+            {
+              "value": "B",
+              "text": "the contradictions in them"
+            },
+            {
+              "value": "C",
+              "text": "the lack of scientific data to support them"
+            }
+          ],
+          "explanation": "读题可知本题需选出男生Adam对当时的观测感到惊讶的方面。题干observation一词原词重现，可用于题目大致定位。之后男生直接提及surprised的原因为so many weather stations。so many对应A选项的number，该选项中的places producing them指的是产生观测结果的地方，即原文的weather stations，因此A选项正确。答案出现之前女生提及的they all gave a pretty consistent account…为B选项的反义描述，且男生并未表现出surprised，故排除。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "According to Michelle, what did the contemporary sources say about the Laki haze?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8449_539574",
+          "options": [
+            {
+              "value": "A",
+              "text": "People thought it was similar to ordinary fog."
+            },
+            {
+              "value": "B",
+              "text": "It was associated with health issues."
+            },
+            {
+              "value": "C",
+              "text": "It completely blocked out the sun for weeks."
+            }
+          ],
+          "explanation": "题干中的haze原词重现。首先出现they all realised that this wasn’t the sort of fog they were used to，可否定A选项。随后出现…blamed the haze for an increase in headaches, respiratory issues…，可对应B选项的health issues。随后提到covered the sun，对应C选项的blocked out the sun，但紧接着说到make it look a strange red colour，可知并不是完全遮挡了太阳，和C选项的completely不符，另外for weeks在此处也并未提及，故排除C选项。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Adam corrects Michelle when she claims that Benjamin Franklin",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8449_333215",
+          "options": [
+            {
+              "value": "A",
+              "text": "came to the wrong conclusion about the cause of the haze."
+            },
+            {
+              "value": "B",
+              "text": "was the first to identify the reason for the haze."
+            },
+            {
+              "value": "C",
+              "text": "supported the opinions of other observers about the haze."
+            }
+          ],
+          "explanation": "题干中的Benjamin Franklin容易定位，需要听取男生纠正了女生的哪条信息。男生首先提到no one realised that the haze was caused by…，对应B选项的reason for the haze，接下来女生说富兰克林realised that before anyone else，对应B选项first to identify…。男生首先承认了这是普遍看法，随后在转折词But之后进行了纠正—— a French naturalist beat him to it，即法国的一位博物学家先于富兰克林发现了导致雾霾的原因是火山爆发。此处原文请参考前文“文本解析”第四句的解析。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO issues following the Laki eruption surprised the students?",
+          "answers": [
+            "A",
+            "B"
+          ],
+          "sourceCode": "Q8449_398085",
+          "options": [
+            {
+              "value": "A",
+              "text": "how widespread the effects were"
+            },
+            {
+              "value": "B",
+              "text": "how long-lasting the effects were"
+            },
+            {
+              "value": "C",
+              "text": "the number of deaths it caused"
+            },
+            {
+              "value": "D",
+              "text": "the speed at which the volcanic ash cloud spread"
+            },
+            {
+              "value": "E",
+              "text": "how people ignored the warning signs"
+            }
+          ],
+          "explanation": "本题需要选出两位学生对拉基火山喷发带来的哪两方面后续影响感到惊讶。原文女生说到talk about the immediate impact，可提示此题出现。女生首先提到so many people died，对应C选项的the number of deaths。但男生说You’d expect that，和题干的surprised不符，故否定C选项。随后并列词and引出另一个在预料范围内的事情，即the volcanic ash drifted so swiftly，对应D选项的the speed…spread，同样与题干的surprised不符，故排除D选项。随后的but not that引出预料之外的影响，so long对应B选项的long-lasting。Or之后引出并列的另一个超出预料的影响，as far away as…对应A选项中的widespread。因此本题的两个正确选项为A和B。",
+          "setId": "Q8449_398085",
+          "blockId": "Q8449_398085"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO issues following the Laki eruption surprised the students?",
+          "answers": [
+            "A",
+            "B"
+          ],
+          "sourceCode": "Q8449_398085",
+          "options": [
+            {
+              "value": "A",
+              "text": "how widespread the effects were"
+            },
+            {
+              "value": "B",
+              "text": "how long-lasting the effects were"
+            },
+            {
+              "value": "C",
+              "text": "the number of deaths it caused"
+            },
+            {
+              "value": "D",
+              "text": "the speed at which the volcanic ash cloud spread"
+            },
+            {
+              "value": "E",
+              "text": "how people ignored the warning signs"
+            }
+          ],
+          "explanation": "本题需要选出两位学生对拉基火山喷发带来的哪两方面后续影响感到惊讶。原文女生说到talk about the immediate impact，可提示此题出现。女生首先提到so many people died，对应C选项的the number of deaths。但男生说You’d expect that，和题干的surprised不符，故否定C选项。随后并列词and引出另一个在预料范围内的事情，即the volcanic ash drifted so swiftly，对应D选项的the speed…spread，同样与题干的surprised不符，故排除D选项。随后的but not that引出预料之外的影响，so long对应B选项的long-lasting。Or之后引出并列的另一个超出预料的影响，as far away as…对应A选项中的widespread。因此本题的两个正确选项为A和B。",
+          "setId": "Q8449_398085",
+          "blockId": "Q8449_398085"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "how widespread the effects were"
+        },
+        {
+          "value": "B",
+          "text": "how long-lasting the effects were"
+        },
+        {
+          "value": "C",
+          "text": "the number of deaths it caused"
+        },
+        {
+          "value": "D",
+          "text": "the speed at which the volcanic ash cloud spread"
+        },
+        {
+          "value": "E",
+          "text": "how people ignored the warning signs"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 27–30\n\nWhat comment do the students make about the impact of the Laki eruption on the\n\nfollowing countries?\n\nChoose FOUR answers from the box and drag the correct answer, A–F, to Questions 27–30.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Iceland [27] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8449_344559",
+          "explanation": "27. 选项D中的animals替换为原文的livestock，sickness替换为poisoned。原文在答案句前一句出现farming，和B选项的agriculture同义替换，但predictable并未提及，可排除。\n\n28. 选项A中的loss of life对应原文的dying，最高级most severe在原文中替换为比较级more… than any other country，考生需要能够识别这一替换形式。答案句的前一句提到了the crops all failed，也可联想到B选项的agriculture，但同样由于未提及predictable而排除。答案句中提到的famine可联想到E选项的food，但food prices并未提及，故排除。\n\n29. 选项C中的deaths对应原文的mortality rate，需要学生对mortality rate这一表达比较熟悉。increase对应原文went up以及double；young people对应原文people under the age of 25。\n\n30. 选项F中的winter对应原文的snowbound以及ice。particularly harsh体现在until March（被雪困住的时间长）以及ice floating down…which was unprecedented（之前没出现过这种情况）。",
+          "promptHtml": "Iceland [27] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Egypt [28] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8449_450513",
+          "explanation": "27. 选项D中的animals替换为原文的livestock，sickness替换为poisoned。原文在答案句前一句出现farming，和B选项的agriculture同义替换，但predictable并未提及，可排除。\n\n28. 选项A中的loss of life对应原文的dying，最高级most severe在原文中替换为比较级more… than any other country，考生需要能够识别这一替换形式。答案句的前一句提到了the crops all failed，也可联想到B选项的agriculture，但同样由于未提及predictable而排除。答案句中提到的famine可联想到E选项的food，但food prices并未提及，故排除。\n\n29. 选项C中的deaths对应原文的mortality rate，需要学生对mortality rate这一表达比较熟悉。increase对应原文went up以及double；young people对应原文people under the age of 25。\n\n30. 选项F中的winter对应原文的snowbound以及ice。particularly harsh体现在until March（被雪困住的时间长）以及ice floating down…which was unprecedented（之前没出现过这种情况）。",
+          "promptHtml": "Egypt [28] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "UK [29] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8449_466158",
+          "explanation": "27. 选项D中的animals替换为原文的livestock，sickness替换为poisoned。原文在答案句前一句出现farming，和B选项的agriculture同义替换，但predictable并未提及，可排除。\n\n28. 选项A中的loss of life对应原文的dying，最高级most severe在原文中替换为比较级more… than any other country，考生需要能够识别这一替换形式。答案句的前一句提到了the crops all failed，也可联想到B选项的agriculture，但同样由于未提及predictable而排除。答案句中提到的famine可联想到E选项的food，但food prices并未提及，故排除。\n\n29. 选项C中的deaths对应原文的mortality rate，需要学生对mortality rate这一表达比较熟悉。increase对应原文went up以及double；young people对应原文people under the age of 25。\n\n30. 选项F中的winter对应原文的snowbound以及ice。particularly harsh体现在until March（被雪困住的时间长）以及ice floating down…which was unprecedented（之前没出现过这种情况）。",
+          "promptHtml": "UK [29] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "USA [30] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8449_514183",
+          "explanation": "27. 选项D中的animals替换为原文的livestock，sickness替换为poisoned。原文在答案句前一句出现farming，和B选项的agriculture同义替换，但predictable并未提及，可排除。\n\n28. 选项A中的loss of life对应原文的dying，最高级most severe在原文中替换为比较级more… than any other country，考生需要能够识别这一替换形式。答案句的前一句提到了the crops all failed，也可联想到B选项的agriculture，但同样由于未提及predictable而排除。答案句中提到的famine可联想到E选项的food，但food prices并未提及，故排除。\n\n29. 选项C中的deaths对应原文的mortality rate，需要学生对mortality rate这一表达比较熟悉。increase对应原文went up以及double；young people对应原文people under the age of 25。\n\n30. 选项F中的winter对应原文的snowbound以及ice。particularly harsh体现在until March（被雪困住的时间长）以及ice floating down…which was unprecedented（之前没出现过这种情况）。",
+          "promptHtml": "USA [30] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "This country suffered the most severe loss of life."
+        },
+        {
+          "value": "B",
+          "text": "The impact on agriculture was predictable."
+        },
+        {
+          "value": "C",
+          "text": "There was a significant increase in deaths of young people."
+        },
+        {
+          "value": "D",
+          "text": "Animals suffered from a sickness."
+        },
+        {
+          "value": "E",
+          "text": "This country saw the highest rise in food prices in the world."
+        },
+        {
+          "value": "F",
+          "text": "It caused a particularly harsh winter."
+        }
+      ],
+      "contextHtml": "<p><span><strong>Countries</strong><br>\nIceland </span><strong>[27] ______</strong> <br>\n<span>Egypt </span><strong>[28] ______</strong> <br>\n<span>UK </span> <strong>[29] ______</strong> <br>\n<span>USA </span> <strong>[30] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span><span>Adam: So, Michelle, shall we make a start on our presentation? We haven’t got that much time left.</span></span></p>\n\n<p><span><span>Michelle: No, Adam. But at least we’ve done all the background reading. I found it really interesting – I’d never even heard of the Laki eruption before this.</span></span></p>\n\n<p><span><span>Adam: Me neither. I suppose 1783 is a long time ago.</span></span></p>\n\n<p><span><span>Michelle: But it was a huge eruption and it had such devastating consequences.</span></span></p>\n\n<p><span><span>Adam: I know. It was great there were so many primary sources to look at. It really gives you a sense of how catastrophic the volcano was. People were really trying to make sense of the science for the first time.</span></span></p>\n\n<p><span><span>Michelle: That’s right. But what I found more significant was how it impacted directly and indirectly on political events, as well as having massive social and economic consequences.</span></span></p>\n\n<p><span><span>Adam: I know. That should be the main focus of our presentation.</span></span></p>\n\n<p><span><span>Michelle: The observations made by people at the time were interesting, weren’t they? I mean, they all gave a pretty consistent account of what happened, even if they didn’t always use the same terminology.</span></span></p>\n\n<p><span><span>Adam: Yeah. I was surprised there were so many weather stations established by that time – so, you know, you can see how the weather changed, often by the hour.</span></span></p>\n\n<p><span><span>Michelle: Right. Writers at the time talked about the Laki haze to describe the volcanic fog that spread across Europe. They all realised that this wasn’t the sort of fog they were used to – and of course this was in pre-industrial times – so they hadn’t experienced sulphur-smelling fog before.</span></span></p>\n\n<p><span><span>Adam: No, that’s true.</span></span></p>\n\n<p><span><span>Michelle: Reports from the period blamed the haze for an increase in headaches, respiratory issues and asthma attacks. And they all describe how it covered the sun and made it look a strange red colour.</span></span></p>\n\n<p><span><span>Adam: Must have been very weird.</span></span></p>\n\n<p><span><span>Michelle: It’s interesting that Benjamin Franklin wrote about the haze. Did you read that? He was the American ambassador in Paris at the time.</span></span></p>\n\n<p><span><span>Adam: Yeah. At first no one realised that the haze was caused by the volcanic eruption in Iceland.</span></span></p>\n\n<p><span><span>Michelle: It was Benjamin Franklin who realised that before anyone else.</span></span></p>\n\n<p><span><span>Adam: He’s often credited with that, apparently. But a French naturalist beat him to it – I can’t remember his name. I’d have to look it up. Then other naturalists had the same idea – all independently of each other.</span></span></p>\n\n<p><span><span>Michelle: Oh right. We should talk about the immediate impact of the eruption, which was obviously enormous – especially in Iceland, where so many people died.</span></span></p>\n\n<p><span><span>Adam: Mmm. You’d expect that – and the fact that the volcanic ash drifted so swiftly – but not that the effects would go on for so long. Or that two years after the eruption, strange weather events were being reported as far away as North America and North Africa.</span></span></p>\n\n<p><span><span>Michelle: No. I found all that hard to believe too. It must have been terrible – and there was nothing anyone could do about it, even if they knew the ash cloud was coming in their direction.</span></span></p>\n\n<p><span><span>Michelle: We should run through some of the terrible consequences of the eruption experienced in different countries. There’s quite a varied range.</span></span></p>\n\n<p><span><span>Adam: Starting with Iceland, where the impact on farming was devastating.</span></span></p>\n\n<p><span><span>Michelle: Mmm. One of the most dramatic things there was the effect on livestock as they grazed in the fields. They were poisoned because they ate vegetation that had been contaminated with fluorine as a result of the volcanic fallout.</span></span></p>\n\n<p><span><span>Adam: That was horrible. In Egypt, the bizarre weather patterns led to a severe drought and as a result the Nile didn’t flood, which meant the crops all failed.</span></span></p>\n\n<p><span><span>Michelle: It’s so far from where the eruption happened and yet the famine there led to more people dying than any other country. It was worse than the plague.</span></span></p>\n\n<p><span><span>Adam: OK. Then in the UK the mortality rate went up a lot – presumably from respiratory illnesses. According to one report it was about double the usual number and included an unusually high percentage of people under the age of 25.</span></span></p>\n\n<p><span><span>Michelle: Mmm. I think people will be surprised to hear that the weather in the USA was badly affected too. George Washington even makes a note in his diary that they were snowbound until March in Virginia. That was before he became president.</span></span></p>\n\n<p><span><span>Adam: Yes, and there was ice floating down the Mississippi, which was unprecedented.</span></span></p>\n\n<p><span><span>Michelle: Astonishing, really. Anyway, what do you think …</span></span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8449.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 428.024
+  }
+}

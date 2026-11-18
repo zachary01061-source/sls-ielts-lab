@@ -1,0 +1,314 @@
+{
+  "id": "cambridge-8-test-1-reading-1",
+  "title": "A Chronicle of Timekeeping",
+  "titleCn": "A Chronicle of Timekeeping",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 8,
+    "test": 1
+  },
+  "sourceQuestionId": "6966",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6966",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "A Chronicle of Timekeeping"
+    },
+    {
+      "label": "2",
+      "text": "Our conception of time depends on the way we measure it"
+    },
+    {
+      "label": "3",
+      "text": "A According to archaeological evidence, at least 5, 000 years ago, and long before the advent of the Roman Empire, the Babylonians began to measure time, introducing calendars to co-ordinate communal activities, to plan the shipment of goods and, in particular, to regulate planting and harvesting. They based their calendars on three natural cycles: the solar day, marked by the successive periods of light and darkness as the earth rotates on its axis; the lunar month, following the phases of the moon as it orbits the earth; and the solar year, defined by the changing seasons that accompany our planet's revolution around the sun."
+    },
+    {
+      "label": "4",
+      "text": "B Before the invention of artificial light, the moon had greater social impact. And, for those living near the equator in particular, its waxing and waning was more conspicuous than the passing of the seasons. Hence, the calendars that were developed at the lower latitudes were influenced more by the lunar cycle than by the solar year. In more northern climes, however, where seasonal agriculture was practised, the solar year became more crucial. As the Roman Empire expanded northward, it organised its activity chart for the most part around the solar year."
+    },
+    {
+      "label": "5",
+      "text": "C Centuries before the Roman Empire, the Egyptians had formulated a municipal calendar having 12 months of 30 days, with five days added to approximate the solar year. Each period of ten days was marked by the appearance of special groups of stars called decans. At the rise of the star Sirius just before sunrise, which occurred around the all-important annual flooding of the Nile, 12 decans could be seen spanning the heavens. The cosmic significance the Egyptians placed in the 12 decans led them to develop a system in which each interval of darkness (and later, each interval of daylight) was divided into a dozen equal parts. These periods became known as temporal hours because their duration varied according to the changing length of days and nights with the passing of the seasons. Summer hours were long, winter ones short; only at the spring and autumn equinoxes were the hours of daylight and darkness equal. Temporal hours, which were first adopted by the Greeks and then the Romans, who disseminated them through Europe, remained in use for more than 2, 500 years."
+    },
+    {
+      "label": "6",
+      "text": "D In order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun's shadow. The sundial's counterpart, the water clock, was designed to measure temporal hours at night. One of the first water clocks was a basin with a small hole near the bottom through which the water dripped out. The falling water level denoted the passing hour as it dipped below hour lines inscribed on the inner surface. Although these devices performed satisfactorily around the Mediterranean, they could not always be depended on in the cloudy and often freezing weather of northern Europe."
+    },
+    {
+      "label": "7",
+      "text": "E The advent of the mechanical clock meant that although it could be adjusted to maintain temporal hours, it was naturally suited to keeping equal ones. With these, however, arose the question of when to begin counting, and so, in the early 14th century, a number of systems evolved. The schemes that divided the day into 24 equal parts varied according to the start of the count: Italian hours began at sunset, Babylonian hours at sunrise, astronomical hours at midday and 'great clock' hours, used for some large public clocks in Germany, at midnight. Eventually these were superseded by 'small clock', or French, hours, which split the day into two 12-hour periods commencing at midnight."
+    },
+    {
+      "label": "8",
+      "text": "F The earliest recorded weight-driven mechanical clock was built in 1283 in Bedfordshire in England. The revolutionary aspect of this new timekeeper was neither the descending weight that provided its motive force nor the gear wheels (which had been around for at least 1, 300 years) that transferred the power; it was the part called the escapement. In the early 1400s came the invention of the coiled spring or fusee which maintained constant force to the gear wheels of the timekeeper despite the changing tension of its mainspring. By the 16th century, a pendulum clock had been devised, but the pendulum swung in a large arc and thus was not very efficient."
+    },
+    {
+      "label": "9",
+      "text": "G To address this, a variation on the original escapement was invented in 1670, in England. It was called the anchor escapement, which was a lever-based device shaped like a ship's anchor. The motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel, in turn allowing it to turn a precise amount. Unlike the original form used in early pendulum clocks, the anchor escapement permitted the pendulum to travel in a very small arc. Moreover, this invention allowed the use of a long pendulum which could beat once a second and thus led to the development of a new floor-standing case design, which became known as the grandfather clock."
+    },
+    {
+      "label": "10",
+      "text": "H Today, highly accurate timekeeping instruments set the beat for most electronic devices. Nearly all computers contain a quartz-crystal clock to regulate their operation. Moreover, not only do time signals beamed down from Global Positioning System satellites calibrate the functions of precision navigation equipment, they do so as well for mobile phones, instant stock-trading systems and nationwide power-distribution grids. So integral have these time-based technologies become to day-to-day existence that our dependency on them is recognised only when they fail to work."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1-4\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "a description of an early timekeeping invention affected by cold temperatures",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6966_965935-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "an explanation of the importance of geography in the development of the calendar in farming communities",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6966_965935-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "a description of the origins of the pendulum clock",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6966_965935-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "details of the simultaneous efforts of different societies to calculate time using uniform hours",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6966_965935-4"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 5-8\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "[5] ______ They devised a civil calendar in which the months were equal in length.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6966_405594",
+          "explanation": "题号：5\n\n译文:他们发明了一种月份等长的民用日历。\n\n定位词：civil calendar, months, equal\n\nC段: ..., the Egyptians had formulated a municipal calendar having 12 months of 30 day...\n\n该句提到埃及人制定了市政日历,规定一年有12个月，每月有30天。所以答案为B。\n\n题号：6\n\n译文:他们将一天均分为两部分。\n\n定位词：day, two equal halves\n\nE段:...or French hours, which split the day into two 12-hour periods commencing at midnight.\n\n.......即法国时间所取代，它将一天分成两个12小时时段,从午夜开始算起。所以答案为F。\n\n题号：7\n\n译文:他们为一种计时器设计了一个新的柜式外形。\n\n定位词：new cabinet shape\n\nG段: ... and thus led to the development of a new floor standing case design ..此句中的floor standing case design就对应着cabinet shape,且该段第- -行就出现了England 这个代表国家的词汇。所以答案为D。\n\n题号：8\n\n译文:他们创造出了一种日光来安排公共事务和工作日程。\n\n定位词：organise, public, events\n\nA段: ... the Babylonians began to measure time, introducing calendars to co-ordinate communal activities, to plan the shipment of goods and, in particular, to regulate planting and harvesting.\n\n此句中的co-ordinate( 协调)对应题干中的organise ; communal activities对应public events。所以答案为A。",
+          "promptHtml": "[5] ______ They devised a civil calendar in which the months were equal in length."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "[6] ______ They divided the day into two equal halves.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6966_551712",
+          "explanation": "题号：5\n\n译文:他们发明了一种月份等长的民用日历。\n\n定位词：civil calendar, months, equal\n\nC段: ..., the Egyptians had formulated a municipal calendar having 12 months of 30 day...\n\n该句提到埃及人制定了市政日历,规定一年有12个月，每月有30天。所以答案为B。\n\n题号：6\n\n译文:他们将一天均分为两部分。\n\n定位词：day, two equal halves\n\nE段:...or French hours, which split the day into two 12-hour periods commencing at midnight.\n\n.......即法国时间所取代，它将一天分成两个12小时时段,从午夜开始算起。所以答案为F。\n\n题号：7\n\n译文:他们为一种计时器设计了一个新的柜式外形。\n\n定位词：new cabinet shape\n\nG段: ... and thus led to the development of a new floor standing case design ..此句中的floor standing case design就对应着cabinet shape,且该段第- -行就出现了England 这个代表国家的词汇。所以答案为D。\n\n题号：8\n\n译文:他们创造出了一种日光来安排公共事务和工作日程。\n\n定位词：organise, public, events\n\nA段: ... the Babylonians began to measure time, introducing calendars to co-ordinate communal activities, to plan the shipment of goods and, in particular, to regulate planting and harvesting.\n\n此句中的co-ordinate( 协调)对应题干中的organise ; communal activities对应public events。所以答案为A。",
+          "promptHtml": "[6] ______ They divided the day into two equal halves."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "[7] ______ They developed a new cabinet shape for a type of timekeeper.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6966_714706",
+          "explanation": "题号：5\n\n译文:他们发明了一种月份等长的民用日历。\n\n定位词：civil calendar, months, equal\n\nC段: ..., the Egyptians had formulated a municipal calendar having 12 months of 30 day...\n\n该句提到埃及人制定了市政日历,规定一年有12个月，每月有30天。所以答案为B。\n\n题号：6\n\n译文:他们将一天均分为两部分。\n\n定位词：day, two equal halves\n\nE段:...or French hours, which split the day into two 12-hour periods commencing at midnight.\n\n.......即法国时间所取代，它将一天分成两个12小时时段,从午夜开始算起。所以答案为F。\n\n题号：7\n\n译文:他们为一种计时器设计了一个新的柜式外形。\n\n定位词：new cabinet shape\n\nG段: ... and thus led to the development of a new floor standing case design ..此句中的floor standing case design就对应着cabinet shape,且该段第- -行就出现了England 这个代表国家的词汇。所以答案为D。\n\n题号：8\n\n译文:他们创造出了一种日光来安排公共事务和工作日程。\n\n定位词：organise, public, events\n\nA段: ... the Babylonians began to measure time, introducing calendars to co-ordinate communal activities, to plan the shipment of goods and, in particular, to regulate planting and harvesting.\n\n此句中的co-ordinate( 协调)对应题干中的organise ; communal activities对应public events。所以答案为A。",
+          "promptHtml": "[7] ______ They developed a new cabinet shape for a type of timekeeper."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______ They created a calendar to organise public events and work schedules.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6966_762018",
+          "explanation": "题号：5\n\n译文:他们发明了一种月份等长的民用日历。\n\n定位词：civil calendar, months, equal\n\nC段: ..., the Egyptians had formulated a municipal calendar having 12 months of 30 day...\n\n该句提到埃及人制定了市政日历,规定一年有12个月，每月有30天。所以答案为B。\n\n题号：6\n\n译文:他们将一天均分为两部分。\n\n定位词：day, two equal halves\n\nE段:...or French hours, which split the day into two 12-hour periods commencing at midnight.\n\n.......即法国时间所取代，它将一天分成两个12小时时段,从午夜开始算起。所以答案为F。\n\n题号：7\n\n译文:他们为一种计时器设计了一个新的柜式外形。\n\n定位词：new cabinet shape\n\nG段: ... and thus led to the development of a new floor standing case design ..此句中的floor standing case design就对应着cabinet shape,且该段第- -行就出现了England 这个代表国家的词汇。所以答案为D。\n\n题号：8\n\n译文:他们创造出了一种日光来安排公共事务和工作日程。\n\n定位词：organise, public, events\n\nA段: ... the Babylonians began to measure time, introducing calendars to co-ordinate communal activities, to plan the shipment of goods and, in particular, to regulate planting and harvesting.\n\n此句中的co-ordinate( 协调)对应题干中的organise ; communal activities对应public events。所以答案为A。",
+          "promptHtml": "[8] ______ They created a calendar to organise public events and work schedules."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Babylonians"
+        },
+        {
+          "value": "B",
+          "text": "Egyptians"
+        },
+        {
+          "value": "C",
+          "text": "Greeks"
+        },
+        {
+          "value": "D",
+          "text": "English"
+        },
+        {
+          "value": "E",
+          "text": "Germans"
+        },
+        {
+          "value": "F",
+          "text": "French"
+        }
+      ],
+      "contextHtml": "<p><strong>[5] ______</strong> They devised a civil calendar in which the months were equal in length. <br>\n<strong>[6] ______</strong> They divided the day into two equal halves. <br>\n<strong>[7] ______</strong> They developed a new cabinet shape for a type of timekeeper. <br>\n<strong>[8] ______</strong> They created a calendar to organise public events and work schedules.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 9-13\n\nLabel the diagram below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nWrite your answers in boxes 9-13.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "[9] ______",
+          "answers": [
+            "ship's anchor",
+            "anchor",
+            "an anchor",
+            "the anchor"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6966_459018",
+          "explanation": "题号：9\n\n定位词：escapement, resembling\n\nIt was called the anchor escapement, which was a lever-based device shaped like a ship's anchor.\n\n通过定位词很容易找到文中定位句，此句中的like对应resembling，所以答案为(ship's) anchor / (an/the)anchor。\n\n题号：10\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n按照顺序原则，此空应从第9题定位句处往后看，图中要填的是整个轮的名称，为名词，所以答案为( escape ) wheel。\n\n题号：11\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n此题与第10题同时解出，图中要填的是轮上齿的名称，为名词,所以答案为tooth。\n\n题号：12\n\n定位词：beats, each\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n通过定位词很容易找到文中定位句，图中要填的是beats这个动作的发出者，为名词，所以答案为(long)pendulum。\n\n题号：13\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n此题可与第12题同时解出，此句中的once对应题干中的each，所以答案为second。",
+          "promptHtml": "[9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "[10] ______",
+          "answers": [
+            "escape wheel",
+            "wheel"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6966_130098",
+          "explanation": "题号：9\n\n定位词：escapement, resembling\n\nIt was called the anchor escapement, which was a lever-based device shaped like a ship's anchor.\n\n通过定位词很容易找到文中定位句，此句中的like对应resembling，所以答案为(ship's) anchor / (an/the)anchor。\n\n题号：10\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n按照顺序原则，此空应从第9题定位句处往后看，图中要填的是整个轮的名称，为名词，所以答案为( escape ) wheel。\n\n题号：11\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n此题与第10题同时解出，图中要填的是轮上齿的名称，为名词,所以答案为tooth。\n\n题号：12\n\n定位词：beats, each\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n通过定位词很容易找到文中定位句，图中要填的是beats这个动作的发出者，为名词，所以答案为(long)pendulum。\n\n题号：13\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n此题可与第12题同时解出，此句中的once对应题干中的each，所以答案为second。",
+          "promptHtml": "[10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "[11] ______",
+          "answers": [
+            "tooth"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6966_279275",
+          "explanation": "题号：9\n\n定位词：escapement, resembling\n\nIt was called the anchor escapement, which was a lever-based device shaped like a ship's anchor.\n\n通过定位词很容易找到文中定位句，此句中的like对应resembling，所以答案为(ship's) anchor / (an/the)anchor。\n\n题号：10\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n按照顺序原则，此空应从第9题定位句处往后看，图中要填的是整个轮的名称，为名词，所以答案为( escape ) wheel。\n\n题号：11\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n此题与第10题同时解出，图中要填的是轮上齿的名称，为名词,所以答案为tooth。\n\n题号：12\n\n定位词：beats, each\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n通过定位词很容易找到文中定位句，图中要填的是beats这个动作的发出者，为名词，所以答案为(long)pendulum。\n\n题号：13\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n此题可与第12题同时解出，此句中的once对应题干中的each，所以答案为second。",
+          "promptHtml": "[11] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "[12] ______",
+          "answers": [
+            "long pendulum",
+            "pendulum"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6966_964957",
+          "explanation": "题号：9\n\n定位词：escapement, resembling\n\nIt was called the anchor escapement, which was a lever-based device shaped like a ship's anchor.\n\n通过定位词很容易找到文中定位句，此句中的like对应resembling，所以答案为(ship's) anchor / (an/the)anchor。\n\n题号：10\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n按照顺序原则，此空应从第9题定位句处往后看，图中要填的是整个轮的名称，为名词，所以答案为( escape ) wheel。\n\n题号：11\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n此题与第10题同时解出，图中要填的是轮上齿的名称，为名词,所以答案为tooth。\n\n题号：12\n\n定位词：beats, each\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n通过定位词很容易找到文中定位句，图中要填的是beats这个动作的发出者，为名词，所以答案为(long)pendulum。\n\n题号：13\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n此题可与第12题同时解出，此句中的once对应题干中的each，所以答案为second。",
+          "promptHtml": "[12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "[13] ______",
+          "answers": [
+            "second"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6966_740647",
+          "explanation": "题号：9\n\n定位词：escapement, resembling\n\nIt was called the anchor escapement, which was a lever-based device shaped like a ship's anchor.\n\n通过定位词很容易找到文中定位句，此句中的like对应resembling，所以答案为(ship's) anchor / (an/the)anchor。\n\n题号：10\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n按照顺序原则，此空应从第9题定位句处往后看，图中要填的是整个轮的名称，为名词，所以答案为( escape ) wheel。\n\n题号：11\n\nThe motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel …\n\n此题与第10题同时解出，图中要填的是轮上齿的名称，为名词,所以答案为tooth。\n\n题号：12\n\n定位词：beats, each\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n通过定位词很容易找到文中定位句，图中要填的是beats这个动作的发出者，为名词，所以答案为(long)pendulum。\n\n题号：13\n\nMoreover, this invention allowed the use of a long pendulum which could beat once a second and…\n\n此题可与第12题同时解出，此句中的once对应题干中的each，所以答案为second。",
+          "promptHtml": "[13] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><strong><span>How the 1670 lever-based device worked</span></strong></p>\n\n<p><strong><span><img src=\"/api/guest/cambridge/media/images/f36837c5fcfba302d73cfeb2df9374e6.png\" alt=\"\"></span></strong></p>\n\n<p><strong>[9] ______</strong></p>\n\n<p><strong>[10] ______</strong></p>\n\n<p><strong>[11] ______</strong></p>\n\n<p><strong>[12] ______</strong></p>\n\n<p><strong>[13] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>A Chronicle of Timekeeping</strong></span></p><p><span><strong>Our conception of time depends on the way we measure it</strong></span></p><p><span><strong><img src=\"/api/guest/cambridge/media/images/19eb3239e58603761a2b7023f320401e.png\" alt=\"\"></strong></span></p><p><strong>A</strong>    According to archaeological evidence, at least 5, 000 years ago, and long before the advent of the Roman Empire, the Babylonians began to measure time, introducing calendars to co-ordinate communal activities, to plan the shipment of goods and, in particular, to regulate planting and harvesting. They based their calendars on three natural cycles: the solar day, marked by the successive periods of light and darkness as the earth rotates on its axis; the lunar month, following the phases of the moon as it orbits the earth; and the solar year, defined by the changing seasons that accompany our planet&#x27;s revolution around the sun.</p><p><strong>B</strong>    Before the invention of artificial light, the moon had greater social impact. And, for those living near the equator in particular, its waxing and waning was more conspicuous than the passing of the seasons. Hence, the calendars that were developed at the lower latitudes were influenced more by the lunar cycle than by the solar year. In more northern climes, however, where seasonal agriculture was practised, the solar year became more crucial. As the Roman Empire expanded northward, it organised its activity chart for the most part around the solar year.</p><p><strong>C</strong>    Centuries before the Roman Empire, the Egyptians had formulated a municipal calendar having 12 months of 30 days, with five days added to approximate the solar year. Each period of ten days was marked by the appearance of special groups of stars called decans. At the rise of the star Sirius just before sunrise, which occurred around the all-important annual flooding of the Nile, 12 decans could be seen spanning the heavens. The cosmic significance the Egyptians placed in the 12 decans led them to develop a system in which each interval of darkness (and later, each interval of daylight) was divided into a dozen equal parts. These periods became known as temporal hours because their duration varied according to the changing length of days and nights with the passing of the seasons. Summer hours were long, winter ones short; only at the spring and autumn equinoxes were the hours of daylight and darkness equal. Temporal hours, which were first adopted by the Greeks and then the Romans, who disseminated them through Europe, remained in use for more than 2, 500 years.</p><p><strong>D</strong>    In order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun&#x27;s shadow. The sundial&#x27;s counterpart, the water clock, was designed to measure temporal hours at night. One of the first water clocks was a basin with a small hole near the bottom through which the water dripped out. The falling water level denoted the passing hour as it dipped below hour lines inscribed on the inner surface. Although these devices performed satisfactorily around the Mediterranean, they could not always be depended on in the cloudy and often freezing weather of northern Europe.</p><p><strong>E</strong>    The advent of the mechanical clock meant that although it could be adjusted to maintain temporal hours, it was naturally suited to keeping equal ones. With these, however, arose the question of when to begin counting, and so, in the early 14th century, a number of systems evolved. The schemes that divided the day into 24 equal parts varied according to the start of the count: Italian hours began at sunset, Babylonian hours at sunrise, astronomical hours at midday and &#x27;great clock&#x27; hours, used for some large public clocks in Germany, at midnight. Eventually these were superseded by &#x27;small clock&#x27;, or French, hours, which split the day into two 12-hour periods commencing at midnight.</p><p><strong>F</strong>    The earliest recorded weight-driven mechanical clock was built in 1283 in Bedfordshire in England. The revolutionary aspect of this new timekeeper was neither the descending weight that provided its motive force nor the gear wheels (which had been around for at least 1, 300 years) that transferred the power; it was the part called the escapement. In the early 1400s came the invention of the coiled spring or fusee which maintained constant force to the gear wheels of the timekeeper despite the changing tension of its mainspring. By the 16th century, a pendulum clock had been devised, but the pendulum swung in a large arc and thus was not very efficient.</p><p><strong>G</strong>    To address this, a variation on the original escapement was invented in 1670, in England. It was called the anchor escapement, which was a lever-based device shaped like a ship&#x27;s anchor. The motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel, in turn allowing it to turn a precise amount. Unlike the original form used in early pendulum clocks, the anchor escapement permitted the pendulum to travel in a very small arc. Moreover, this invention allowed the use of a long pendulum which could beat once a second and thus led to the development of a new floor-standing case design, which became known as the grandfather clock.</p><p><strong>H</strong>    Today, highly accurate timekeeping instruments set the beat for most electronic devices. Nearly all computers contain a quartz-crystal clock to regulate their operation. Moreover, not only do time signals beamed down from Global Positioning System satellites calibrate the functions of precision navigation equipment, they do so as well for mobile phones, instant stock-trading systems and nationwide power-distribution grids. So integral have these time-based technologies become to day-to-day existence that our dependency on them is recognised only when they fail to work.</p>"
+}

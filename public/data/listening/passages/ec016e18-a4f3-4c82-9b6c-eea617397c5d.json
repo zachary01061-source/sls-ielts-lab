@@ -1,0 +1,259 @@
+{
+  "id": "ec016e18-a4f3-4c82-9b6c-eea617397c5d",
+  "title": "Introduction to the evening course",
+  "titleCn": "晚间课程介绍与校园新规通知",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/ec016e18-a4f3-4c82-9b6c-eea617397c5d",
+  "duration": 299,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,080"
+    },
+    {
+      "label": "2",
+      "text": "Well, we are back to school now and back to work, so let us all adjust, and in case your notes are dusty, you can go clean them up. It's a new session. First up, we will be making slight adjustments to some of our classes this time around. Last session, we used to have our evening classes by 8:00 PM, but now it has been shifted up to 7:30 PM. This enables you to have time to rest before the next day, as we noticed that the evening classes took too much time, and many times you were all tired before it was over."
+    },
+    {
+      "label": "3",
+      "text": "00:00:32,229"
+    },
+    {
+      "label": "4",
+      "text": "The center manager used to be in charge of addressing negative feedback from students. As new duties have been assigned to the manager, the administrative officer will now take over the responsibility for handling complaints. Additionally, we have received complaints regarding the distance of the drinking water access from the main building. To address this, a new access point will be added on the ground floor, clearly marked with signage. However, following an incident last session involving spillage, hot drinks will no longer be permitted in the computer room."
+    },
+    {
+      "label": "5",
+      "text": "00:01:04,960"
+    },
+    {
+      "label": "6",
+      "text": "Please consume them only in the common room. It is also important to note that this session you would need a permit to park in the parking lot."
+    },
+    {
+      "label": "7",
+      "text": "00:01:13,240"
+    },
+    {
+      "label": "8",
+      "text": "Due to the congestion in recent times and the fact that we want to be able to regulate who uses the lot, if you do not get a permit, you would get a fine. In the same vein of trying to up security measures, staying on your own to study after midnight would not be open to everyone without permission. You would have to see the security officer for that. Please note that this semester will run for the usual 13 weeks, including one week for a break, with this course spanning 12 weeks."
+    },
+    {
+      "label": "9",
+      "text": "00:01:42,800"
+    },
+    {
+      "label": "10",
+      "text": "It is expedient that you study well and keep striving to graduate with flying colors. There would be a few public holidays as declared by the government, and you would find them also indicated on the school calendar."
+    },
+    {
+      "label": "11",
+      "text": "00:01:54,960"
+    },
+    {
+      "label": "12",
+      "text": "By the way, if you have not gotten your semester handbook, please see the head of your department. They would tell you what to do. According to recommendation, our fire drill remains once in a month as it has always been. This is for everyone's safety. Last semester, we noticed that lots of valuables were reported missing. This semester, we are taking steps to prevent such incidents from recurring."
+    },
+    {
+      "label": "13",
+      "text": "00:02:20,620"
+    },
+    {
+      "label": "14",
+      "text": "The installation of lockers serves as a measure to enhance security and minimize the risk of theft. Do remember to use them. Also, we do not want to find things lying aimlessly around. We have directed our cleaning staff to pick such items up and put them away. We might not be able to accept requests for retrieval until the end of the semester. We recently received some complaints about the cashless policy on tutorial fees. Well, we always want to make life easier for our students and so have reviewed it this semester. If you chose to pay the initial fees through electronic modes last month, you can now settle."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 11-20**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "c117fd97-a08f-4797-8d0c-945122de4147",
+          "prompt": "**Introduction to the Evening Course**\n\n**Class time**\n- evening class starts at: **11**_____ pm",
+          "answers": [
+            "7:30"
+          ],
+          "rawAnswer": "7:30",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Last session, we used to have our evening classes by 8:00 PM, but now it has been shifted up to 7:30 PM"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "f18ef0ad-1195-4645-9cf0-c9593ee69c21",
+          "prompt": "**Feedback**\n- submit complaints to the **12**_____",
+          "answers": [
+            "administrative officer"
+          ],
+          "rawAnswer": "administrative officer",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As new duties have been assigned to the manager, the administrative officer will now take over the responsibility for handling complaints"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "bdcdcbb9-0e71-4bcb-967a-f9583c76c817",
+          "prompt": "**Beverage**:\n- drinking water available on the ground floor\n- hot drinks:in the **13**_____",
+          "answers": [
+            "common room"
+          ],
+          "rawAnswer": "common room",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, following an incident last session involving spillage, hot drinks will no longer be permitted in the computer room"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "39480e56-b0fc-4a57-abf4-c090d6052ea1",
+          "prompt": "- Parking:a **14**_____ required.",
+          "answers": [
+            "permit"
+          ],
+          "rawAnswer": "permit",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is also important to note that this session you would need a permit to park in the parking lot"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "fa47451a-40e1-4c84-a8d0-6608eee3632a",
+          "prompt": "- Late-night private study: ask the **15**_____ for permission",
+          "answers": [
+            "security officer"
+          ],
+          "rawAnswer": "security officer",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Due to the congestion in recent times and the fact that we want to be able to regulate who uses the lot, if you do not get a permit, you would get a fine. In the same vein of trying to up security measures, staying on your own to study after midnight would not be open to everyone without permission. You would have to see the security officer for that"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "54719ede-7260-463e-9824-98c36f9fc967",
+          "prompt": "**Important facts of the new course**\n- The course will last for **16**_____ .",
+          "answers": [
+            "12 weeks"
+          ],
+          "rawAnswer": "12 weeks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Please note that this semester will run for the usual 13 weeks, including one week for a break, with this course spanning 12 weeks"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "2b43a987-e97c-40fe-b752-989401aefd30",
+          "prompt": "- The **17**_____ is once a month.",
+          "answers": [
+            "fire drill"
+          ],
+          "rawAnswer": "fire drill",
+          "evidence": {
+            "paragraph": "",
+            "quote": "According to recommendation, our fire drill remains once in a month as it has always been. This is for everyone's safety"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "ed27317e-568d-4c9d-889d-c2bf4c14f004",
+          "prompt": "- Valuable belongings are to be kept in the **18**_____ for safe storage.",
+          "answers": [
+            "lockers"
+          ],
+          "rawAnswer": "lockers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The installation of lockers serves as a measure to enhance security and minimize the risk of theft. Do remember to use them"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "a8e42191-6c62-46b4-9338-4a3132123a45",
+          "prompt": "- The unpaid tutorial fees can be paid by **19**_____ .\n(本篇无20题）",
+          "answers": [
+            "electronic modes"
+          ],
+          "rawAnswer": "electronic modes",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you chose to pay the initial fees through electronic modes last month, you can now settle"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        }
+      ]
+    }
+  ],
+  "questionCount": 9,
+  "types": [
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,080</p><p>Well, we are back to school now and back to work, so let us all adjust, and in case your notes are dusty, you can go clean them up. It's a new session. First up, we will be making slight adjustments to some of our classes this time around. Last session, we used to have our evening classes by 8:00 PM, but now it has been shifted up to 7:30 PM. This enables you to have time to rest before the next day, as we noticed that the evening classes took too much time, and many times you were all tired before it was over. </p><p>00:00:32,229</p><p>The center manager used to be in charge of addressing negative feedback from students. As new duties have been assigned to the manager, the administrative officer will now take over the responsibility for handling complaints. Additionally, we have received complaints regarding the distance of the drinking water access from the main building. To address this, a new access point will be added on the ground floor, clearly marked with signage. However, following an incident last session involving spillage, hot drinks will no longer be permitted in the computer room. </p><p>00:01:04,960</p><p>Please consume them only in the common room. It is also important to note that this session you would need a permit to park in the parking lot. </p><p>00:01:13,240</p><p>Due to the congestion in recent times and the fact that we want to be able to regulate who uses the lot, if you do not get a permit, you would get a fine. In the same vein of trying to up security measures, staying on your own to study after midnight would not be open to everyone without permission. You would have to see the security officer for that. Please note that this semester will run for the usual 13 weeks, including one week for a break, with this course spanning 12 weeks. </p><p>00:01:42,800</p><p>It is expedient that you study well and keep striving to graduate with flying colors. There would be a few public holidays as declared by the government, and you would find them also indicated on the school calendar. </p><p>00:01:54,960</p><p>By the way, if you have not gotten your semester handbook, please see the head of your department. They would tell you what to do. According to recommendation, our fire drill remains once in a month as it has always been. This is for everyone's safety. Last semester, we noticed that lots of valuables were reported missing. This semester, we are taking steps to prevent such incidents from recurring. </p><p>00:02:20,620</p><p>The installation of lockers serves as a measure to enhance security and minimize the risk of theft. Do remember to use them. Also, we do not want to find things lying aimlessly around. We have directed our cleaning staff to pick such items up and put them away. We might not be able to accept requests for retrieval until the end of the semester. We recently received some complaints about the cashless policy on tutorial fees. Well, we always want to make life easier for our students and so have reviewed it this semester. If you chose to pay the initial fees through electronic modes last month, you can now settle.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/ec016e18-a4f3-4c82-9b6c-eea617397c5d.mp3",
+    "durationSeconds": 178.992,
+    "sizeBytes": 2864403,
+    "sha256": "34ee78040f9ce8e912e24cd55e839720eb33712e93c7bad1f0a458ece3ee957a",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:57:35Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347168446_sgphep_b35580e4.mp3"
+}

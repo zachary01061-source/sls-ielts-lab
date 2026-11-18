@@ -1,0 +1,259 @@
+{
+  "id": "f0a01adc-240a-44dc-9ed6-b73326c40109",
+  "title": "Tourism in Ancient Roman（机经听写）",
+  "titleCn": "古罗马旅游与度假胜地",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/f0a01adc-240a-44dc-9ed6-b73326c40109",
+  "duration": 233,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,080"
+    },
+    {
+      "label": "2",
+      "text": "Tourism in ancient Roman."
+    },
+    {
+      "label": "3",
+      "text": "00:00:03,880"
+    },
+    {
+      "label": "4",
+      "text": "In ancient Rome, tourists often embarked on journeys to the Bay of Naples by horse to seek a respite from the city's summer heat."
+    },
+    {
+      "label": "5",
+      "text": "00:00:13,340"
+    },
+    {
+      "label": "6",
+      "text": "One of the favorite destinations was the seaside town of Baiae, known as perhaps the first-ever resort."
+    },
+    {
+      "label": "7",
+      "text": "00:00:22,080"
+    },
+    {
+      "label": "8",
+      "text": "Here, most ordinary Romans found accommodation in boarding houses and hired a guide to help them explore the area. The most popular day trip for these tourists was to visit the magnificent temples nearby. Some wealthy Romans enjoyed their vacations in luxurious summer villas with a beautiful garden extending to the sea. Julius Caesar himself often stayed in the Bay of Naples for both relaxation and health benefits. The City of Naples was particularly renowned for attracting writers who would often retreat there to find inspiration and share their works with the public."
+    },
+    {
+      "label": "9",
+      "text": "00:01:03,360"
+    },
+    {
+      "label": "10",
+      "text": "Travel beyond the immediate vicinity of Rome began to flourish during the reign of Augustus, 27 BC to 14 AD. Thanks to government actions that eliminated the threat of pirates, distant travel became safer and more appealing. Wealthy Romans started to see travel as an essential part of their education."
+    },
+    {
+      "label": "11",
+      "text": "00:01:27,800"
+    },
+    {
+      "label": "12",
+      "text": "In Greece, tourists would visit sites steeped in history and myths, bringing the stories they had read and heard to life. Egypt, with its exotic allure, offered Roman tourists the experience of a Nile cruise, complete with many servants to attend to their every need, making their journey both luxurious and memorable."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Question 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "78b4738d-12c7-44a9-9c6c-a71cebe9f9eb",
+          "prompt": "·In ancient Rome, tourists often embarked on journeys to the Bay of Naples by **31**_____ to seek a respite from the city's summer heat.",
+          "answers": [
+            "horse"
+          ],
+          "rawAnswer": "horse",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In ancient Rome, tourists often embarked on journeys to the Bay of Naples by horse to seek a respite from the city's summer heat"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "68f87851-ee3e-4ec7-b6e3-431791dcc274",
+          "prompt": "·One of the favorite destinations was the seaside town of Baiae, known as perhaps the first-ever **32**_____ .",
+          "answers": [
+            "resort"
+          ],
+          "rawAnswer": "resort",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the favorite destinations was the seaside town of Baiae, known as perhaps the first-ever resort"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "d5fcee94-e81c-4650-91a1-d6cf9798195a",
+          "prompt": "·Here, most ordinary Romans found accommodation in boarding houses and hired a **33**_____ to help them explore the area.",
+          "answers": [
+            "guide"
+          ],
+          "rawAnswer": "guide",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Here, most ordinary Romans found accommodation in boarding houses and hired a guide to help them explore the area"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "7a2cb328-c1d7-4f99-b579-2bdcaabb8df5",
+          "prompt": "·The most popular day-trip for these tourists was to visit the magnificent **34**_____ nearby.",
+          "answers": [
+            "temples"
+          ],
+          "rawAnswer": "temples",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The most popular day trip for these tourists was to visit the magnificent temples nearby"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "b6c7cd66-d380-4d1c-b7e9-75799e911932",
+          "prompt": "·Some wealthy Romans enjoyed their vacations in luxurious summer villas with a beautiful **35**_____ extending to the sea.",
+          "answers": [
+            "garden"
+          ],
+          "rawAnswer": "garden",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some wealthy Romans enjoyed their vacations in luxurious summer villas with a beautiful garden extending to the sea"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "d72513c9-4c5b-48ee-8ae3-a35ddefd16f0",
+          "prompt": "·Julius Caesar himself often stayed in the Bay of Naples for both relaxation and health benefits.\n·The city of Naples was particularly renowned for attracting **36**_____ who would often retreat there to find inspiration and share their works with the public.",
+          "answers": [
+            "writers"
+          ],
+          "rawAnswer": "writers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The City of Naples was particularly renowned for attracting writers who would often retreat there to find inspiration and share their works with the public"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "ff70b4b7-3291-48ce-8f7d-8f66032373b2",
+          "prompt": "·Thanks to government actions that eliminated the threat of **37**_____ distant travel became safer and more appealing.",
+          "answers": [
+            "pirates"
+          ],
+          "rawAnswer": "pirates",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Thanks to government actions that eliminated the threat of pirates, distant travel became safer and more appealing"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "d9759667-ca73-4e50-b3e7-49b6a45a81bb",
+          "prompt": "·Wealthy Romans started to see travel as an essential part of their **38**_____ .",
+          "answers": [
+            "education"
+          ],
+          "rawAnswer": "education",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Wealthy Romans started to see travel as an essential part of their education"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "414bacb2-0cc9-42db-ac0a-3320725193be",
+          "prompt": "·In Greece, tourists would visit sites steeped in history and **39**_____ bringing the stories they had read and heard to life.",
+          "answers": [
+            "myths"
+          ],
+          "rawAnswer": "myths",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In Greece, tourists would visit sites steeped in history and myths, bringing the stories they had read and heard to life"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "3abd3e7b-c0ee-4313-9009-9a52d098ae6a",
+          "prompt": "·Egypt, with its exotic allure, offered Roman tourists the experience of a Nile cruise, complete with many **40**_____ to attend to their every need, making their journey both luxurious and memorable.",
+          "answers": [
+            "servants"
+          ],
+          "rawAnswer": "servants",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Egypt, with its exotic allure, offered Roman tourists the experience of a Nile cruise, complete with many servants to attend to their every need, making their journey both luxurious and memorable"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,080</p><p>Tourism in ancient Roman. </p><p>00:00:03,880</p><p>In ancient Rome, tourists often embarked on journeys to the Bay of Naples by horse to seek a respite from the city's summer heat. </p><p>00:00:13,340</p><p>One of the favorite destinations was the seaside town of Baiae, known as perhaps the first-ever resort. </p><p>00:00:22,080</p><p>Here, most ordinary Romans found accommodation in boarding houses and hired a guide to help them explore the area. The most popular day trip for these tourists was to visit the magnificent temples nearby. Some wealthy Romans enjoyed their vacations in luxurious summer villas with a beautiful garden extending to the sea. Julius Caesar himself often stayed in the Bay of Naples for both relaxation and health benefits. The City of Naples was particularly renowned for attracting writers who would often retreat there to find inspiration and share their works with the public. </p><p>00:01:03,360</p><p>Travel beyond the immediate vicinity of Rome began to flourish during the reign of Augustus, 27 BC to 14 AD. Thanks to government actions that eliminated the threat of pirates, distant travel became safer and more appealing. Wealthy Romans started to see travel as an essential part of their education. </p><p>00:01:27,800</p><p>In Greece, tourists would visit sites steeped in history and myths, bringing the stories they had read and heard to life. Egypt, with its exotic allure, offered Roman tourists the experience of a Nile cruise, complete with many servants to attend to their every need, making their journey both luxurious and memorable.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/f0a01adc-240a-44dc-9ed6-b73326c40109.mp3",
+    "durationSeconds": 112.770563,
+    "sizeBytes": 1820984,
+    "sha256": "e342fdd4789bf79bb745200da41644cd309f51fc606e83fabbeff2db18404fee",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:52:15Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1788500105349_969e6a5d_1788500105349_d6qchl.mp3"
+}

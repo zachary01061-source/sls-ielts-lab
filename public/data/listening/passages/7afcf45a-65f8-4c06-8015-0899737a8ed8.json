@@ -1,0 +1,357 @@
+{
+  "id": "7afcf45a-65f8-4c06-8015-0899737a8ed8",
+  "title": "Ethics in engineering",
+  "titleCn": "工程伦理与桥梁坍塌灾难",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/7afcf45a-65f8-4c06-8015-0899737a8ed8",
+  "duration": 412,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,120"
+    },
+    {
+      "label": "2",
+      "text": "Today we're starting a series of lectures on ethics in engineering. That is engineering principles relating to right and wrong conduct and the sorts of moral responsibilities that you will have to uphold in your professional lives."
+    },
+    {
+      "label": "3",
+      "text": "00:00:17,560"
+    },
+    {
+      "label": "4",
+      "text": "I'm gonna start by giving you a brief outline of the history of ethics in engineering. It was, of course, only in the nineteenth century that engineering really emerged as a profession. Initially, ethical issues were considered to be a personal matter, something to be decided in accordance with one's own principles and values. However, things gradually changed as the profession grew and as engineering projects became larger and more complex. A need began to be felt for a more codified set of principles that all engineers would agree to follow. Unfortunately, it took three major disasters to bring about this change in attitude. All three of these involved the collapse of bridges."
+    },
+    {
+      "label": "5",
+      "text": "00:01:08,760"
+    },
+    {
+      "label": "6",
+      "text": "The first, known as the Ashtabula River Railroad disaster, happened in eighteen seventy-six in the USA, and we now think it was probably caused by metal fatigue."
+    },
+    {
+      "label": "7",
+      "text": "00:01:20,820"
+    },
+    {
+      "label": "8",
+      "text": "Then in eighteen seventy-nine, there was a second disaster, this time in Scotland. This occurred because engineers had failed to correctly calculate the effects that wind would have on the structure. The third collapse occurred in nineteen oh seven in Canada. This was also due to an engineering design problem. The weight of the structure was so great that it could not support itself, and it collapsed. Public outcry over disasters such as these eventually led to the establishment of professional societies for engineers in most industrializing societies."
+    },
+    {
+      "label": "9",
+      "text": "00:01:59,720"
+    },
+    {
+      "label": "10",
+      "text": "Another different type of disaster also had an impact on the development of professional engineering organizations, and I'd like to talk about this in a little more detail."
+    },
+    {
+      "label": "11",
+      "text": "00:02:10,979"
+    },
+    {
+      "label": "12",
+      "text": "This incident, which happened early in the twentieth century, is known as the Boston Molasses disaster."
+    },
+    {
+      "label": "13",
+      "text": "00:02:19,380"
+    },
+    {
+      "label": "14",
+      "text": "At the time, molasses was used rather than sugar as the principal sweetener in the USA. It was also used in the manufacture of a number of other important products."
+    },
+    {
+      "label": "15",
+      "text": "00:02:31,600"
+    },
+    {
+      "label": "16",
+      "text": "One company in the city of Boston had a large amount of molasses waiting to be transferred to another factory. The molasses, more than eight million liters of thick, sticky liquid, was stored in a tank. Suddenly, this collapsed, unleashing a wave of molasses up to five meters high. Nearby buildings were swept off their foundations and crashed to the ground. The wave also swept away a considerable stretch of railway track. Many streets round the factory were covered with a thick layer of sticky brown molasses."
+    },
+    {
+      "label": "17",
+      "text": "00:03:14,120"
+    },
+    {
+      "label": "18",
+      "text": "Local residents were furious as they felt that the company was to blame. They banded together and succeeded in bringing about a trial, charging the company with negligence. After three years, the company was found responsible for the accident and required to pay out in damages the equivalent of six or seven million dollars in today's money."
+    },
+    {
+      "label": "19",
+      "text": "00:03:38,660"
+    },
+    {
+      "label": "20",
+      "text": "Even today, no one is absolutely sure about the immediate causes of the accident. However, it is certainly clear that not enough safety tests were carried out. Had these been done in accordance with the standards now applicable, then the accident would almost certainly have been prevented. It seems that the collapse was probably brought about by fermentation of the molasses, which led to an increase in pressure. This increase probably exerted too much force against a fatigue crack or some other weakness."
+    },
+    {
+      "label": "21",
+      "text": "00:04:15,880"
+    },
+    {
+      "label": "22",
+      "text": "However, this was one of the main incidents which led to increased legislation in the nineteen twenties to regulate engineers and the engineering profession. It is the reason why we can now only operate if we have gained a license. This requires us always to be conscientious about doing everything necessary to avoid disasters, however time-consuming or expensive this may sometimes seem. Let's move on now to another-"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "1e9d620c-0bc0-4a41-990b-401897a37fe6",
+          "prompt": "**Ethics - principles relating to right and wrong conduct **\n·At first, engineers saw ethics as a **31**_____ issue.",
+          "answers": [
+            "personal"
+          ],
+          "rawAnswer": "personal",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Initially, ethical issues were considered to be a personal matter, something to be decided in accordance with one's own principles and values"
+          },
+          "keywordPairs": [
+            {
+              "question": "At first",
+              "article": "Initially"
+            },
+            {
+              "question": "engineers saw ethics as",
+              "article": "ethical issues were considered to be"
+            },
+            {
+              "question": "issue",
+              "article": "matter"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "64ece681-9d1a-4afc-b8e0-6706f3f6d109",
+          "prompt": "·Attitudes changed because of three disasters involving the collapse of **32**_____ .",
+          "answers": [
+            "bridges"
+          ],
+          "rawAnswer": "bridges",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Unfortunately, it took three major disasters to bring about this change in attitude. All three of these involved the collapse of bridges"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "dd28b6ec-c36b-4e2c-8b22-2fccadecad10",
+          "prompt": "- 1876 - USA (metal fatigue)\n- 1879 - Scotland (the impact of **33**_____ on the structure was miscalculated)",
+          "answers": [
+            "wind"
+          ],
+          "rawAnswer": "wind",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Then in eighteen seventy-nine, there was a second disaster, this time in Scotland. This occurred because engineers had failed to correctly calculate the effects that wind would have on the structure"
+          },
+          "keywordPairs": [
+            {
+              "question": "impact",
+              "article": "effects"
+            },
+            {
+              "question": "miscalculated",
+              "article": "failed to correctly calculate"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "7580e470-40f3-468e-bb28-d84a4186c447",
+          "prompt": "- 1907 - Canada (the structure could not support its own **34**_____ )",
+          "answers": [
+            "weight"
+          ],
+          "rawAnswer": "weight",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The weight of the structure was so great that it could not support itself, and it collapsed"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "8c4a8f9e-7757-42aa-9dca-aa96bc4d6292",
+          "prompt": "**Boston Molasses Disaster**\n·At the time, Molasses was the main **35**_____ used in the USA.",
+          "answers": [
+            "sweetener"
+          ],
+          "rawAnswer": "sweetener",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At the time, molasses was used rather than sugar as the principal sweetener in the USA"
+          },
+          "keywordPairs": [
+            {
+              "question": "main",
+              "article": "principal"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "6f4ad194-2759-424c-b36f-0751f70ae3a8",
+          "prompt": "·Boston company : collapse of a **36**_____ released 8 million liters of molasses.",
+          "answers": [
+            "tank"
+          ],
+          "rawAnswer": "tank",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The molasses, more than eight million liters of thick, sticky liquid, was stored in a tank. Suddenly, this collapsed"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "be107fe6-92a7-4cb5-85c4-231cbdc85de6",
+          "prompt": "·The wave of molasses destroyed buildings and the railway.\n·Local residents insisted on a **37**_____ of the molasses company.\n·The company had to pay compensation.",
+          "answers": [
+            "trial"
+          ],
+          "rawAnswer": "trial",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Local residents were furious as they felt that the company was to blame. They banded together and succeeded in bringing about a trial, charging the company with negligence"
+          },
+          "keywordPairs": [
+            {
+              "question": "insisted on",
+              "article": "succeeded in bringing about"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "2ff93c67-bf3f-4dd2-bd73-75c7a8fcb5f6",
+          "prompt": "·Probable causes of the accident:\n- Insufficient **38**_____ checks.",
+          "answers": [
+            "safety"
+          ],
+          "rawAnswer": "safety",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, it is certainly clear that not enough safety tests were carried out"
+          },
+          "keywordPairs": [
+            {
+              "question": "Insufficient",
+              "article": "not enough"
+            },
+            {
+              "question": "checks",
+              "article": "tests"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "85399b69-6cbd-422a-ba1a-27d90571256b",
+          "prompt": "- Fermentation raised the **39**_____ to a dangerous level.",
+          "answers": [
+            "pressure"
+          ],
+          "rawAnswer": "pressure",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It seems that the collapse was probably brought about by fermentation of the molasses, which led to an increase in pressure"
+          },
+          "keywordPairs": [
+            {
+              "question": "raised",
+              "article": "led to an increase in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "375b33ff-c9fe-473b-b1de-1a13cf545b9d",
+          "prompt": "·It is now obligatory for engineers to have a **40**_____ .",
+          "answers": [
+            "license"
+          ],
+          "rawAnswer": "license",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is the reason why we can now only operate if we have gained a license"
+          },
+          "keywordPairs": [
+            {
+              "question": "obligatory",
+              "article": "only operate if we have gained"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,120</p><p>Today we're starting a series of lectures on ethics in engineering. That is engineering principles relating to right and wrong conduct and the sorts of moral responsibilities that you will have to uphold in your professional lives. </p><p>00:00:17,560</p><p>I'm gonna start by giving you a brief outline of the history of ethics in engineering. It was, of course, only in the nineteenth century that engineering really emerged as a profession. Initially, ethical issues were considered to be a personal matter, something to be decided in accordance with one's own principles and values. However, things gradually changed as the profession grew and as engineering projects became larger and more complex. A need began to be felt for a more codified set of principles that all engineers would agree to follow. Unfortunately, it took three major disasters to bring about this change in attitude. All three of these involved the collapse of bridges. </p><p>00:01:08,760</p><p>The first, known as the Ashtabula River Railroad disaster, happened in eighteen seventy-six in the USA, and we now think it was probably caused by metal fatigue. </p><p>00:01:20,820</p><p>Then in eighteen seventy-nine, there was a second disaster, this time in Scotland. This occurred because engineers had failed to correctly calculate the effects that wind would have on the structure. The third collapse occurred in nineteen oh seven in Canada. This was also due to an engineering design problem. The weight of the structure was so great that it could not support itself, and it collapsed. Public outcry over disasters such as these eventually led to the establishment of professional societies for engineers in most industrializing societies. </p><p>00:01:59,720</p><p>Another different type of disaster also had an impact on the development of professional engineering organizations, and I'd like to talk about this in a little more detail. </p><p>00:02:10,979</p><p>This incident, which happened early in the twentieth century, is known as the Boston Molasses disaster. </p><p>00:02:19,380</p><p>At the time, molasses was used rather than sugar as the principal sweetener in the USA. It was also used in the manufacture of a number of other important products. </p><p>00:02:31,600</p><p>One company in the city of Boston had a large amount of molasses waiting to be transferred to another factory. The molasses, more than eight million liters of thick, sticky liquid, was stored in a tank. Suddenly, this collapsed, unleashing a wave of molasses up to five meters high. Nearby buildings were swept off their foundations and crashed to the ground. The wave also swept away a considerable stretch of railway track. Many streets round the factory were covered with a thick layer of sticky brown molasses. </p><p>00:03:14,120</p><p>Local residents were furious as they felt that the company was to blame. They banded together and succeeded in bringing about a trial, charging the company with negligence. After three years, the company was found responsible for the accident and required to pay out in damages the equivalent of six or seven million dollars in today's money. </p><p>00:03:38,660</p><p>Even today, no one is absolutely sure about the immediate causes of the accident. However, it is certainly clear that not enough safety tests were carried out. Had these been done in accordance with the standards now applicable, then the accident would almost certainly have been prevented. It seems that the collapse was probably brought about by fermentation of the molasses, which led to an increase in pressure. This increase probably exerted too much force against a fatigue crack or some other weakness. </p><p>00:04:15,880</p><p>However, this was one of the main incidents which led to increased legislation in the nineteen twenties to regulate engineers and the engineering profession. It is the reason why we can now only operate if we have gained a license. This requires us always to be conscientious about doing everything necessary to avoid disasters, however time-consuming or expensive this may sometimes seem. Let's move on now to another-<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/7afcf45a-65f8-4c06-8015-0899737a8ed8.mp3",
+    "durationSeconds": 291.168,
+    "sizeBytes": 1165017,
+    "sha256": "ce91e29300b9678ab093c50b3d61a1ac9ad293899c12169fcc1723bf8ffccf15",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:30:44Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792996848520_q99ywu.mp3"
+}

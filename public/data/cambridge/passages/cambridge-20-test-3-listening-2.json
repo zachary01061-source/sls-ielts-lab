@@ -1,0 +1,274 @@
+{
+  "id": "cambridge-20-test-3-listening-2",
+  "title": "Bidcaster Community Archaeology Project",
+  "titleCn": "Bidcaster Community Archaeology Project",
+  "subject": "listening",
+  "part": 2,
+  "duration": 467,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 3
+  },
+  "sourceQuestionId": "8543",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8543",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Hello, I’m Hayden. I’m one of the archaeologists investigating the site here at Bidcaster. This is the third summer for this community project, and most of the people digging here are volunteers. I’m a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country. As you can see, we’re next to Bidcaster Castle, which is great because the owners let us use their facilities.So, how did we get to where we are today? Many archaeology projects happen when an ancient object is found, and in our case, that object was a gold coin. Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels. Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand.When the story of the gold coin hit the news, Peter Swift, an amateur historian, contacted me to say he believed there had been a village on this site, centuries before the castle was built. Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river. We knew then we were onto something.Over the three summers the team has been here, we’ve found the remains of several buildings, and more broken pots than you can count! Normally you’d expect to find brooches and other jewellery, but we’re still waiting to uncover any such items. The people who once lived here were skilled at making tools from animal bones, as you’ll see when you visit the exhibition.Besides the discovery of the village, we’ve also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system. At one point we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall.This summer’s work will end soon, but we’ll be back next summer. In the meantime, we’re putting on a series of guided tours for school groups this autumn. Oh and, maybe you saw the TV documentary about our project. That suggested the objects we’ve found are going to the town’s museum, but we don’t know that for sure yet.When you enter the site, please make sure you keep to the paths at all times. There are a few other things – the highlights of the site, if you like – that I want to mention. Take a look at the map; our present location is marked at the bottom.This year we’ve identified the foundations of an ancient bridge. And it’s really exciting today because a team of divers are in the river searching for lost objects. To reach the bridge, take the main path ahead of you, go straight on and keep going till the path bends to the left. You’ll see a smaller track leading off to the right. Follow that to take you to the river, where the divers are.You might be interested to see the rubbish pit. This is very near the castle walls in the northwest corner of the site. It actually dates to the time of the castle and not the ancient village. We found oyster shells and fish bones, and we assume they were thrown from the castle kitchen above.One area we excavated in the first summer uncovered the site of a meeting hall. We knew it was an important building because it had two rows of post holes, deep enough to support a large roof. It’s the largest structure in the central area of the site, next to the current excavation area.Last year we discovered a fish pond in the ancient village. Normally these were beside a river. The pond here is further away, but it’s possible the river has moved slightly. Anyway, to get there from here, you turn right at the first information board you come to, and follow the path into the trees. Before you come out of the trees, you’ll see it on your right. If you reach the river, you’ve gone too far.So, does anyone …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 11–16\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Who was responsible for starting the community project?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8543_702858",
+          "options": [
+            {
+              "value": "A",
+              "text": "the castle owners"
+            },
+            {
+              "value": "B",
+              "text": "a national charity"
+            },
+            {
+              "value": "C",
+              "text": "the local council"
+            }
+          ],
+          "explanation": "本题需要注意题干里的starting在原文中的对应。原文中先提及town council，对应C选项的local council，但在原文中为讲话者的自我介绍的相关内容。之后原文中讲到NHA，这是一个慈善机构，charity原词重现，对应B选项；所在句中sets up（sets为第三人称单数形式）对应题干中的starting，set up sth或set sth up意为“创建，建立，开办”。在原文中，A选项的owners原词重现，但相关内容为let us use their facilities让我们使用他们的设施设备，不符合题干问题。因此本题答案为B。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "How was the gold coin found?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8543_673776",
+          "options": [
+            {
+              "value": "A",
+              "text": "Heavy rain had removed some of the soil."
+            },
+            {
+              "value": "B",
+              "text": "The ground was dug up by wild rabbits."
+            },
+            {
+              "value": "C",
+              "text": "A person with a metal detector searched the area."
+            }
+          ],
+          "explanation": "原文中gold coin原词重现，对应本题题干。接下来原文先提及硬币常被发现的方式，people using metal detectors和wild animals like rabbits看似对应C和B选项，且其中部分关键词原词重现，但之后一句讲到这里的情况和上述两类常见方式不同。原文中说…a rainstorm washed away some of the earth and sand，rainstorm意为“暴风雨”，对应A选项中的Heavy rain；wash sth away或wash away sth表示“（水）冲掉，冲走”，因此washed away对应选项的removed；earth在此处意为“土，泥，泥土”，对应选项的soil。因此本题答案为A。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "What led the archaeologists to believe there was an ancient village on this site?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8543_613100",
+          "options": [
+            {
+              "value": "A",
+              "text": "the lucky discovery of old records"
+            },
+            {
+              "value": "B",
+              "text": "the bases of several structures visible in the grass"
+            },
+            {
+              "value": "C",
+              "text": "the unusual stones found near the castle"
+            }
+          ],
+          "explanation": "原文中village和on this site原词重现，centuries before…对应题干中的ancient。接下来原文的Just by chance对应A选项的lucky，chance在此处表示“碰巧，偶然”，team对应题干中的archaeologists，found some old maps and documents对应A选项的discovery of old records。之后的原文中还出现了ruined buildings on the grassy area，以及outer stone walls of the castle，看似是B和C选项的部分内容，但不符合本题的题干问题，仅是描述A选项时涉及到的信息。因此本题答案为A。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What are the team still hoping to find?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8543_740714",
+          "options": [
+            {
+              "value": "A",
+              "text": "everyday pottery"
+            },
+            {
+              "value": "B",
+              "text": "animal bones"
+            },
+            {
+              "value": "C",
+              "text": "pieces of jewellery"
+            }
+          ],
+          "explanation": "本题需要注意题干问题中问的是hoping to find。原文中先提到we’ve found，之后提及pots，对应A选项中的pottery，但已经发现的不符合本题题干hoping to find，排除A。原文中下一句讲到brooches and other jewellery，brooch意为“饰针，胸针，领针”，jewellery（另一写法为jewelry）意为“珠宝，首饰”，对应C选项；紧跟着原文说we’re still waiting to uncover，对应题干hoping to find。之后在原文中B选项的animal bones原词重现，但相关内容是说，曾经住在这里的人们能够熟练使用动物骨头制作工具，不符合题干，排除B。因此本题答案为C。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "What was found on the other side of the river to the castle?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8543_835300",
+          "options": [
+            {
+              "value": "A",
+              "text": "the remains of a large palace"
+            },
+            {
+              "value": "B",
+              "text": "the outline of fields"
+            },
+            {
+              "value": "C",
+              "text": "a number of small huts"
+            }
+          ],
+          "explanation": "原文中on the other side of the river原词重现，所述内容是已经发现evidence of human activity，暂时没有具体化到本题选项相关信息。紧跟着原文提及no other houses or huts so far，C选项的huts虽原词重现，但相关内容被否定，排除C。接下来原文讲到，可以看到borders of an ancient field system，border意为“边界”，对应B选项中的outline，outline意为“轮廓线，略图”，原文的fields对应选项的field system。之后原文还涉及到与A选项有关的信息，a long wall以及ancient palace看似对应A，选项中remains在这里用作名词，意为“古迹，遗迹，遗址”，但原文的具体表述是原本以为，但结果是a modern wall，与A不符。因此本题答案为B。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "What do the team plan to do after work ends this summer?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8543_446656",
+          "options": [
+            {
+              "value": "A",
+              "text": "prepare a display for a museum"
+            },
+            {
+              "value": "B",
+              "text": "take part in a television programme"
+            },
+            {
+              "value": "C",
+              "text": "start to organise school visits"
+            }
+          ],
+          "explanation": "在原文中，this summer、work以及end定位较为明显，对应本题题干。之后原文中讲到we’re putting on…，put on sth或put sth on可以表示“开动，发动，使运行” ,“专门提供”以及“举办”等意思；原文中guided tours表示“有导游的观光”，guided tours和school groups对应C选项的school visits。另外原文提到的TV documentary看似对应B选项，A选项中的museum原词重现，但这部分内容最后说but we don’t know that for sure yet。因此本题答案为C选项。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 17–20\n\nLabel the map below.\n\nDrag the correct letter, A–G, next to Questions 17–20.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "bridge foundations",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8543_663401-1"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "rubbish pit",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8543_663401-2"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "meeting hall",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8543_663401-3"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "fish pond",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8543_663401-4"
+        }
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/c123e56557f98e9ad2c0de34222f6dec.jpg\" alt=\"原题配图\"></p>\n",
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Hello, I’m Hayden. I’m one of the archaeologists investigating the site here at Bidcaster. This is the third summer for this community project, and most of the people digging here are volunteers. I’m a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country. As you can see, we’re next to Bidcaster Castle, which is great because the owners let us use their facilities.So, how did we get to where we are today? Many archaeology projects happen when an ancient object is found, and in our case, that object was a gold coin. Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels. Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand.When the story of the gold coin hit the news, Peter Swift, an amateur historian, contacted me to say he believed there had been a village on this site, centuries before the castle was built. Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river. We knew then we were onto something.Over the three summers the team has been here, we’ve found the remains of several buildings, and more broken pots than you can count! Normally you’d expect to find brooches and other jewellery, but we’re still waiting to uncover any such items. The people who once lived here were skilled at making tools from animal bones, as you’ll see when you visit the exhibition.Besides the discovery of the village, we’ve also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system. At one point we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall.This summer’s work will end soon, but we’ll be back next summer. In the meantime, we’re putting on a series of guided tours for school groups this autumn. Oh and, maybe you saw the TV documentary about our project. That suggested the objects we’ve found are going to the town’s museum, but we don’t know that for sure yet.When you enter the site, please make sure you keep to the paths at all times. There are a few other things – the highlights of the site, if you like – that I want to mention. Take a look at the map; our present location is marked at the bottom.This year we’ve identified the foundations of an ancient bridge. And it’s really exciting today because a team of divers are in the river searching for lost objects. To reach the bridge, take the main path ahead of you, go straight on and keep going till the path bends to the left. You’ll see a smaller track leading off to the right. Follow that to take you to the river, where the divers are.You might be interested to see the rubbish pit. This is very near the castle walls in the northwest corner of the site. It actually dates to the time of the castle and not the ancient village. We found oyster shells and fish bones, and we assume they were thrown from the castle kitchen above.One area we excavated in the first summer uncovered the site of a meeting hall. We knew it was an important building because it had two rows of post holes, deep enough to support a large roof. It’s the largest structure in the central area of the site, next to the current excavation area.Last year we discovered a fish pond in the ancient village. Normally these were beside a river. The pond here is further away, but it’s possible the river has moved slightly. Anyway, to get there from here, you turn right at the first information board you come to, and follow the path into the trees. Before you come out of the trees, you’ll see it on your right. If you reach the river, you’ve gone too far.So, does anyone …</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8543.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 467.304
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "id": "cambridge-15-test-2-listening-2",
+  "title": "Minster Park",
+  "titleCn": "Minster Park",
+  "subject": "listening",
+  "part": 2,
+  "duration": 423,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 15,
+    "test": 2
+  },
+  "sourceQuestionId": "8128",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8128",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Woman: I'm very pleased to welcome this evening's guest speaker, Mark Logan, who's going to tell us about the recent transformation of Minster Park. Over to you, Mark."
+    },
+    {
+      "label": "2",
+      "text": "Mark: Thank you. I'm sure you're all familiar with Minster Park. It's been a feature of the city for well over a century, and has been the responsibility of the city council for most of that time. What perhaps isn't so well known is the origin of the park: unlike many public parks that started in private ownership, as the garden of a large house, for instance, Minster was some waste land, which people living nearby started planting with flowers in 1892. It was unclear who actually owned the land, and this wasn't settled until 20 years later, when the council took possession of it."
+    },
+    {
+      "label": "3",
+      "text": "You may have noticed the statue near one of the entrances. It's of Diane Gosforth, who played a key role in the history of the park. Once the council had become the legal owner, it planned to sell the land for housing. Many local people wanted it to remain a place that everyone could go to, to enjoy the fresh air and natural environment -- remember the park is in a densely populated residential area. Diane Gosforth was one of those people, and she organised petitions and demonstrations, which eventually made the council change its mind about the future of the land."
+    },
+    {
+      "label": "4",
+      "text": "Soon after this the First World War broke out, in 1914, and most of the park was dug up and planted with vegetables, which were sold locally. At one stage the army considered taking it over for troop exercises and got as far as contacting the city council, then decided the park was too small to be of use. There were occasional public meetings during the war, in an area that had been retained as grass."
+    },
+    {
+      "label": "5",
+      "text": "After the war, the park was turned back more or less to how it had been before 1914, and continued almost unchanged until recently. Plans for transforming it were drawn up at various times, most recently in 2013, though they were revised in 2015, before any work had started. The changes finally got going in 2016, and were finished on schedule last year."
+    },
+    {
+      "label": "6",
+      "text": "OK, let me tell you about some of the changes that have been made -- and some things that have been retained. If you look at this map, you'll see the familiar outline of the park, with the river forming the northern boundary, and a gate in each of the other three walls. The statue of Diane Gosforth has been moved: it used to be close to the south gate, but it's now immediately to the north of the lily pond, almost in the centre of the park, which makes it much more visible."
+    },
+    {
+      "label": "7",
+      "text": "There's a new area of wooden sculptures, which are on the river bank, where the path from the east gate makes a sharp bend. There are two areas that are particularly intended for children. The playground has been enlarged and improved, and that's between the river and the path that leads from the pond to the river. Then there's a new maze, a circular series of paths, separated by low hedges. That's near the west gate -- you go north from there towards the river and then turn left to reach it. There have been tennis courts in the park for many years, and they've been doubled, from four to eight. They're still in the south-west corner of the park, where there's a right-angle bend in the path. Something else I'd like to mention is the new fitness area. This is right next to the lily pond on the same side as the west gate. Now, as you're all gardeners, I'm sure you'll like to hear about the plants that have been chosen for the park."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 11–14\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "The park was originally established",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8128_244003",
+          "options": [
+            {
+              "value": "A",
+              "text": "as an amenity provided by the city council."
+            },
+            {
+              "value": "B",
+              "text": "as land belonging to a private house."
+            },
+            {
+              "value": "C",
+              "text": "as a shared area set up by the local community."
+            }
+          ],
+          "explanation": "11.通过题干originally并比对选项可知提示本题需要选择公园最初建立者或拥有者。originally在原文中替换为同根词origin；unlike一词否定了B选项；选项 C中的local community对应原文中的people living nearby，而shared area这一信息在原文替换为unclear who actually owned the land；A选项council原词重现，但时间位于B选项之后，和题干originally不符。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Why is there a statue of Diane Gosforth in the park?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8128_368752",
+          "options": [
+            {
+              "value": "A",
+              "text": "She was a resident who helped to lead a campaign."
+            },
+            {
+              "value": "B",
+              "text": "She was a council member responsible for giving the public access."
+            },
+            {
+              "value": "C",
+              "text": "She was a senior worker at the park for many years."
+            }
+          ],
+          "explanation": "12.通过statue 和人名Diane Gosforth很容易定位。但对单词理解有一定要求。选项A中campaign对应原文中的petitions and demonstrations；而动词lead对应原文organised；选项B中council一词有提及，但根据原文可知Diane 是当地居民之一，并非council的成员；C选项关键词senior worker原文未提及。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "During the First World War, the park was mainly used for",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8128_530798",
+          "options": [
+            {
+              "value": "A",
+              "text": "exercises by troops."
+            },
+            {
+              "value": "B",
+              "text": "growing vegetables."
+            },
+            {
+              "value": "C",
+              "text": "public meetings."
+            }
+          ],
+          "explanation": "13.专有名词First World War容易定位。关键词mainly提示考生选择一战期间公园的主要用途。B选项vegetables原文重现，grow替换为plant；后续首先出现A选项的关键词exercises和troops，军队希望将公园用作士兵操练的场地，但后文通过too…to…这一结构进行否定；随后C选项public meetings原文重现，但前面的occasional和题干mainly矛盾。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "When did the physical transformation of the park begin?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8128_835191",
+          "options": [
+            {
+              "value": "A",
+              "text": "2013"
+            },
+            {
+              "value": "B",
+              "text": "2015"
+            },
+            {
+              "value": "C",
+              "text": "2016"
+            }
+          ],
+          "explanation": "14.本题考察年份信息，错误选项易被设置为干扰项。需要考生准确理解题干中的physical一词，这里指“实际存在的”，意味着需要选出改造实际开始的年份。原文中2013年是最近一期改造规划起草的年份，而原文revise一词提示该规划于2015年进行了修订，before any work had started提示此时改造尚未开始，可以帮助初步判断答案为C。紧接着提到2016年才开始动工。finally got going对应题干中的physical，可以再次确认答案。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 15–20\n\nLabel the map below.\n\nWrite the correct letter, A–I, next to Questions 15–20.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "15. statue of Diane Gosforth [15] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8128_799406",
+          "explanation": "15.\n\n题干：statue of Diane Gosforth\n\n原文：…it's now immediately to the north of the lily pond, almost in the centre of the park.\n\n必备表达：to the north of…\n\nin the centre of…\n\n16.\n\n题干：wooden sculptures\n\n原文：…on the river bank, where the path from the east gate makes a sharp bend.\n\n必备表达：on the river banka\n\nsharp bend\n\n17.\n\n题干：playground\n\n原文：…between the river and the path that leads from the pond to the river.\n\n必备表达：between…and…\n\nlead from…to…\n\n18.\n\n题干：maze\n\n原文：…near the west gate – you go north from there towards the river and then turn left to reach it.\n\n必备表达：near\n\ngo north from…\n\ntowards…\n\nturn left\n\n19.\n\n题干：tennis courts\n\n原文：…in the south-west corner of the park. where there's a right-angle bend in the path.\n\n必备表达：in the south-west corner\n\na right-angle bend\n\n20.\n\n题干：fitness area\n\n原文：…right next to the lily pond on the same side as the west gate.\n\n必备表达：next to\n\non the same side as...",
+          "promptHtml": "15. statue of Diane Gosforth [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "16. wooden sculptures [16] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8128_425235",
+          "explanation": "15.\n\n题干：statue of Diane Gosforth\n\n原文：…it's now immediately to the north of the lily pond, almost in the centre of the park.\n\n必备表达：to the north of…\n\nin the centre of…\n\n16.\n\n题干：wooden sculptures\n\n原文：…on the river bank, where the path from the east gate makes a sharp bend.\n\n必备表达：on the river banka\n\nsharp bend\n\n17.\n\n题干：playground\n\n原文：…between the river and the path that leads from the pond to the river.\n\n必备表达：between…and…\n\nlead from…to…\n\n18.\n\n题干：maze\n\n原文：…near the west gate – you go north from there towards the river and then turn left to reach it.\n\n必备表达：near\n\ngo north from…\n\ntowards…\n\nturn left\n\n19.\n\n题干：tennis courts\n\n原文：…in the south-west corner of the park. where there's a right-angle bend in the path.\n\n必备表达：in the south-west corner\n\na right-angle bend\n\n20.\n\n题干：fitness area\n\n原文：…right next to the lily pond on the same side as the west gate.\n\n必备表达：next to\n\non the same side as...",
+          "promptHtml": "16. wooden sculptures [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "17. playground [17] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8128_856223",
+          "explanation": "15.\n\n题干：statue of Diane Gosforth\n\n原文：…it's now immediately to the north of the lily pond, almost in the centre of the park.\n\n必备表达：to the north of…\n\nin the centre of…\n\n16.\n\n题干：wooden sculptures\n\n原文：…on the river bank, where the path from the east gate makes a sharp bend.\n\n必备表达：on the river banka\n\nsharp bend\n\n17.\n\n题干：playground\n\n原文：…between the river and the path that leads from the pond to the river.\n\n必备表达：between…and…\n\nlead from…to…\n\n18.\n\n题干：maze\n\n原文：…near the west gate – you go north from there towards the river and then turn left to reach it.\n\n必备表达：near\n\ngo north from…\n\ntowards…\n\nturn left\n\n19.\n\n题干：tennis courts\n\n原文：…in the south-west corner of the park. where there's a right-angle bend in the path.\n\n必备表达：in the south-west corner\n\na right-angle bend\n\n20.\n\n题干：fitness area\n\n原文：…right next to the lily pond on the same side as the west gate.\n\n必备表达：next to\n\non the same side as...",
+          "promptHtml": "17. playground [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "18. maze [18] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8128_136886",
+          "explanation": "15.\n\n题干：statue of Diane Gosforth\n\n原文：…it's now immediately to the north of the lily pond, almost in the centre of the park.\n\n必备表达：to the north of…\n\nin the centre of…\n\n16.\n\n题干：wooden sculptures\n\n原文：…on the river bank, where the path from the east gate makes a sharp bend.\n\n必备表达：on the river banka\n\nsharp bend\n\n17.\n\n题干：playground\n\n原文：…between the river and the path that leads from the pond to the river.\n\n必备表达：between…and…\n\nlead from…to…\n\n18.\n\n题干：maze\n\n原文：…near the west gate – you go north from there towards the river and then turn left to reach it.\n\n必备表达：near\n\ngo north from…\n\ntowards…\n\nturn left\n\n19.\n\n题干：tennis courts\n\n原文：…in the south-west corner of the park. where there's a right-angle bend in the path.\n\n必备表达：in the south-west corner\n\na right-angle bend\n\n20.\n\n题干：fitness area\n\n原文：…right next to the lily pond on the same side as the west gate.\n\n必备表达：next to\n\non the same side as...",
+          "promptHtml": "18. maze [18] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "19. tennis courts [19] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8128_208216",
+          "explanation": "15.\n\n题干：statue of Diane Gosforth\n\n原文：…it's now immediately to the north of the lily pond, almost in the centre of the park.\n\n必备表达：to the north of…\n\nin the centre of…\n\n16.\n\n题干：wooden sculptures\n\n原文：…on the river bank, where the path from the east gate makes a sharp bend.\n\n必备表达：on the river banka\n\nsharp bend\n\n17.\n\n题干：playground\n\n原文：…between the river and the path that leads from the pond to the river.\n\n必备表达：between…and…\n\nlead from…to…\n\n18.\n\n题干：maze\n\n原文：…near the west gate – you go north from there towards the river and then turn left to reach it.\n\n必备表达：near\n\ngo north from…\n\ntowards…\n\nturn left\n\n19.\n\n题干：tennis courts\n\n原文：…in the south-west corner of the park. where there's a right-angle bend in the path.\n\n必备表达：in the south-west corner\n\na right-angle bend\n\n20.\n\n题干：fitness area\n\n原文：…right next to the lily pond on the same side as the west gate.\n\n必备表达：next to\n\non the same side as...",
+          "promptHtml": "19. tennis courts [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "20. fitness area [20] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8128_830660",
+          "explanation": "15.\n\n题干：statue of Diane Gosforth\n\n原文：…it's now immediately to the north of the lily pond, almost in the centre of the park.\n\n必备表达：to the north of…\n\nin the centre of…\n\n16.\n\n题干：wooden sculptures\n\n原文：…on the river bank, where the path from the east gate makes a sharp bend.\n\n必备表达：on the river banka\n\nsharp bend\n\n17.\n\n题干：playground\n\n原文：…between the river and the path that leads from the pond to the river.\n\n必备表达：between…and…\n\nlead from…to…\n\n18.\n\n题干：maze\n\n原文：…near the west gate – you go north from there towards the river and then turn left to reach it.\n\n必备表达：near\n\ngo north from…\n\ntowards…\n\nturn left\n\n19.\n\n题干：tennis courts\n\n原文：…in the south-west corner of the park. where there's a right-angle bend in the path.\n\n必备表达：in the south-west corner\n\na right-angle bend\n\n20.\n\n题干：fitness area\n\n原文：…right next to the lily pond on the same side as the west gate.\n\n必备表达：next to\n\non the same side as...",
+          "promptHtml": "20. fitness area [20] ______"
+        }
+      ],
+      "sourceType": "map",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/0f645f26a254f6cc571c14f450850385.png\" alt=\"原题配图\"></p>\n\n<p>15. statue of Diane Gosforth <strong>[15] ______</strong><br>\n16. wooden sculptures <strong>[16] ______</strong><br>\n17. playground <strong>[17] ______</strong><br>\n18. maze <strong>[18] ______</strong><br>\n19. tennis courts <strong>[19] ______</strong><br>\n20. fitness area <strong>[20] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Woman: I&#x27;m very pleased to welcome this evening&#x27;s guest speaker, Mark Logan, who&#x27;s going to tell us about the recent transformation of Minster Park. Over to you, Mark.</p>\n\n<p>Mark: Thank you. I&#x27;m sure you&#x27;re all familiar with Minster Park. It&#x27;s been a feature of the city for well over a century, and has been the responsibility of the city council for most of that time. What perhaps isn&#x27;t so well known is the origin of the park: unlike many public parks that started in private ownership, as the garden of a large house, for instance, Minster was some waste land, which people living nearby started planting with flowers in 1892. It was unclear who actually owned the land, and this wasn&#x27;t settled until 20 years later, when the council took possession of it.</p>\n\n<p>You may have noticed the statue near one of the entrances. It&#x27;s of Diane Gosforth, who played a key role in the history of the park. Once the council had become the legal owner, it planned to sell the land for housing. Many local people wanted it to remain a place that everyone could go to, to enjoy the fresh air and natural environment -- remember the park is in a densely populated residential area. Diane Gosforth was one of those people, and she organised petitions and demonstrations, which eventually made the council change its mind about the future of the land.</p>\n\n<p>Soon after this the First World War broke out, in 1914, and most of the park was dug up and planted with vegetables, which were sold locally. At one stage the army considered taking it over for troop exercises and got as far as contacting the city council, then decided the park was too small to be of use. There were occasional public meetings during the war, in an area that had been retained as grass.</p>\n\n<p>After the war, the park was turned back more or less to how it had been before 1914, and continued almost unchanged until recently. Plans for transforming it were drawn up at various times, most recently in 2013, though they were revised in 2015, before any work had started. The changes finally got going in 2016, and were finished on schedule last year.</p>\n\n<p>OK, let me tell you about some of the changes that have been made -- and some things that have been retained. If you look at this map, you&#x27;ll see the familiar outline of the park, with the river forming the northern boundary, and a gate in each of the other three walls. The statue of Diane Gosforth has been moved: it used to be close to the south gate, but it&#x27;s now immediately to the north of the lily pond, almost in the centre of the park, which makes it much more visible.</p>\n\n<p>There&#x27;s a new area of wooden sculptures, which are on the river bank, where the path from the east gate makes a sharp bend. There are two areas that are particularly intended for children. The playground has been enlarged and improved, and that&#x27;s between the river and the path that leads from the pond to the river. Then there&#x27;s a new maze, a circular series of paths, separated by low hedges. That&#x27;s near the west gate -- you go north from there towards the river and then turn left to reach it. There have been tennis courts in the park for many years, and they&#x27;ve been doubled, from four to eight. They&#x27;re still in the south-west corner of the park, where there&#x27;s a right-angle bend in the path. Something else I&#x27;d like to mention is the new fitness area. This is right next to the lily pond on the same side as the west gate. Now, as you&#x27;re all gardeners, I&#x27;m sure you&#x27;ll like to hear about the plants that have been chosen for the park.</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8128.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 423.497
+  }
+}

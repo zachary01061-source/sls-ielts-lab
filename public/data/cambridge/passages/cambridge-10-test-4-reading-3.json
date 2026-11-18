@@ -1,0 +1,390 @@
+{
+  "id": "cambridge-10-test-4-reading-3",
+  "title": "When evolution runs backwards",
+  "titleCn": "When evolution runs backwards",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 10,
+    "test": 4
+  },
+  "sourceQuestionId": "6856",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6856",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "When evolution runs backwards"
+    },
+    {
+      "label": "2",
+      "text": "Evolution isn’t supposed to run backwards - yet an increasing number"
+    },
+    {
+      "label": "3",
+      "text": "of examples show that it does and that it can sometimes represent the"
+    },
+    {
+      "label": "4",
+      "text": "future of a species"
+    },
+    {
+      "label": "5",
+      "text": "The description of any animal as an 'evolutionary throwback' is controversial. For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards' . But as more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten. Not only are evolutionary throwbacks possible, they sometimes play an important role in the forward march of evolution."
+    },
+    {
+      "label": "6",
+      "text": "The technical term for an evolutionary throwback is an 'atavism' , from the Latin atavus, meaning forefather. The word has ugly connotations thanks largely to Cesare Lombroso, a 19th-century Italian medic who argued that criminals were born not made and could be identified by certain physical features that were throwbacks to a primitive, sub-human state."
+    },
+    {
+      "label": "7",
+      "text": "While Lombroso was measuring criminals, a Belgian palaeontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion. In 1890 he proposed that evolution was irreversible: that 'an organism is unable to return, even partially, to a previous stage already realised in the ranks of its ancestors'. Early 20th-century biologists came to a similar conclusion, though they qualified it in terms of probability, stating that there is no reason why evolution cannot run backwards- it is just very unlikely. And so the idea of irreversibility in evolution stuck and came to be known as 'Dollo' s law '."
+    },
+    {
+      "label": "8",
+      "text": "If Dollo's law is right, atavisms should occur only very rarely, if at all. Yet almost since the idea took root, exceptions have been cropping up. In 1919, for example, a humpback whale with a pair of leg-like appendages over a metre long, complete with a full set of limb bones, was caught off Vancouver Island in Canada. Explorer Roy Chapman Andrews argued at the time that the whale must be a throwback to a land-living ancestor. 'I can see no other explanation,' he wrote in 1921."
+    },
+    {
+      "label": "9",
+      "text": "Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear? In 1994, Rudolf Raff and colleagues at Indiana University in the USA decided to use genetics to put a number on the probability of evolution going into reverse. They reasoned that while some evolutionary changes involve the loss of genes and are therefore irreversible, others may be the result of genes being switched off. If these silent genes are somehow switched back on, they argued, long-lost traits could reappear."
+    },
+    {
+      "label": "10",
+      "text": "Raff's team went on to calculate the likelihood of it happening. Silent genes accumulate random mutations, they reasoned, eventually rendering them useless. So how long can a gene survive in a species if it is no longer used? The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive as long as 10 million years. In other words, throwbacks are possible, but only to the relatively recent evolutionary past."
+    },
+    {
+      "label": "11",
+      "text": "As a possible example, the team pointed to the mole salamanders of Mexico and California. Like most amphibians these begin life in a juvenile 'tadpole' state, then metamorphose into the adult form - except for one species, the axolotl, which famously lives its entire life as a juvenile. The simplest explanation for this is that the axolotl lineage alone lost the ability to metamorphose, while others retained it. From a detailed analysis of the salamanders’ family tree, however, it is clear that the other lineages evolved from an ancestor that itself had lost the ability to metamorphose. In other words, metamorphosis in mole salamanders is an atavism. The salamander example fits with Raff's 10-million-year time frame."
+    },
+    {
+      "label": "12",
+      "text": "More recently, however, examples have been reported that break the time limit, suggesting that silent genes may not be the whole story. In a paper published last year, biologist Gunter Wagner of Yale University reported some work on the evolutionary history of a group of South American lizards called Bachia. Many of these have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs. Other species, however, sport up to four toes on their hind legs. The simplest explanation is that the toed lineages never lost their toes, but Wagner begs to differ. According to his analysis of the Bachia family tree, the toed species re-evolved toes from toeless ancestors and, what is more, digit loss and gain has occurred on more than one occasion over tens of millions of years."
+    },
+    {
+      "label": "13",
+      "text": "So what's going on? One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales. Another more intriguing possibility is that the genetic information needed to make toes somehow survived for tens or perhaps hundreds of millions of years in the lizards and was reactivated. These atavistic traits provided an advantage and spread through the population, effectively reversing evolution."
+    },
+    {
+      "label": "14",
+      "text": "But if silent genes degrade within 6 to 10 million years, how can long-lost traits be reactivated over longer timescales? The answer may lie in the womb. Early embryos of many species develop ancestral features. Snake embryos, for example, sprout hind limb buds. Later in development these features disappear thanks to developmental programs that say 'lose the leg'. If for any reason this does not happen, the ancestral feature may not disappear, leading to an atavism."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27- 31\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "When discussing the theory developed by Louis Dollo, the writer says that",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6856_750081",
+          "options": [
+            {
+              "value": "A",
+              "text": "it was immediately referred to as Dollo's law."
+            },
+            {
+              "value": "B",
+              "text": "it supported the possibility of evolutionary throwbacks."
+            },
+            {
+              "value": "C",
+              "text": "it was modified by biologists in the early twentieth century,"
+            },
+            {
+              "value": "D",
+              "text": "it was based on many years of research."
+            }
+          ],
+          "explanation": "题目：当讨论Louis Dollo所创立的理论时，\n\n第三段：…a Belgian palaecontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion. In 1890 he proposed that evolution was irreversible: ...Early 20th-centurybiologists came to a similar conclusion, though they qualified it in terms of probability stating that there is no reason why evolution cannot run backwards it is just very unlikely. And so the idea of irreversibility in evolution stuck and came to be known as 'Dollo's law' .\n\n作者认为A项说“它立刻就被命名为Dollo法则”，而原文明确说到此理论是经过另外些生物学家补充说明进行修改后逐步命名的，与此相矛盾。B项说“它支持了进化倒退的可能性”，可是Dollo法则的核心内容即认为“进化是不可倒退的\" ,因此此项错误。C项说“它在20世纪初由一些生物学家进行了修改\" ,正是本段第三句所说内容，为正确答案。D项说“它是建立在多年研究的基础之上”,这是原文中完全没有提及的内容。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "The humpback whale caught off Vancouver Island is mentioned because of",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6856_665802",
+          "options": [
+            {
+              "value": "A",
+              "text": "he exceptional size of its body."
+            },
+            {
+              "value": "B",
+              "text": "the way it exemplifies Dollo's law."
+            },
+            {
+              "value": "C",
+              "text": "the amount of local controversy it caused."
+            },
+            {
+              "value": "D",
+              "text": "the reason given for its unusual features."
+            }
+          ],
+          "explanation": "题目：之所以会提到温哥华岛外围捕到的座头鲸是因为\n\n第四段：Yet almost since the idea took root, exception shave been cropping up In 1919, for example, a humpback whale with a pair of leg-like appendages over a metre long, complete with a full set of limb bones, was caught of Vancouver Island in Canada. Explorer Roy Chapman Andrews argued at the time that the whale must be a throwback to a land-living ancestor. 'I can see no other explanation,' he wrote in 1921.\n\nA项说“它身体的尺寸大得非比寻常”，而原文中并未提及座头鲸的身体大小。B项说“它很好地代表了Dollo法则”，但原文意在说明有很多例子可以反驳Dollo法则，座头鯨就是其中之一，与选项内容相矛盾。C项说“它在当地引发了一定量的矛盾看法”，这在原文中并无提及。D项说“对它不同一般的特点给出的原因”,原文中正是在提到座头鲸后由一位探索家给出了自己的看法，是正确选项。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "What is said about 'silent genes'？",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6856_577661",
+          "options": [
+            {
+              "value": "A",
+              "text": "heir numbers vary according to species."
+            },
+            {
+              "value": "B",
+              "text": "Raff disagreed with the use of the term."
+            },
+            {
+              "value": "C",
+              "text": "They could lead to the re-emergence of certain characteristics."
+            },
+            {
+              "value": "D",
+              "text": "They can have an unlimited life span."
+            }
+          ],
+          "explanation": "题目：关于“沉默基因\"文中说了什么?\n\n第五段最后一句：…If these silent genes are somehow switched back on, they argued, long-lost traits could reappear.\n\nA项说“它们的数量根据物种而有所不同”，但文中并未提及数量。B项说\"Raff不同意使用这个术语\"，也属于未提及信息。C项说“它们可能导致，些特征的重新出现\"，正是原文中意思的简单同义替换，为正确答案。D项说“它们可以有无限的寿命”,这条信息在本段中属于未提及，在下一段文章中则由Raff的团队分析认为它们可以持续存在最高达上千万年的时间，与选项相矛盾。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "The writer mentions the mole salamander because",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6856_116941",
+          "options": [
+            {
+              "value": "A",
+              "text": "it exemplifies what happens in the development of most amphibians."
+            },
+            {
+              "value": "B",
+              "text": "it suggests that Raffs theory is correct."
+            },
+            {
+              "value": "C",
+              "text": "it has lost and regained more than one ability."
+            },
+            {
+              "value": "D",
+              "text": "its ancestors have become the subject of extensive research."
+            }
+          ],
+          "explanation": "题目：作者之所以提到钝口螈类是因为\n\n第七段：As a possible example, the team pointed to the mole salamanders of Mexico and California ... In other words, metamorphosis in mole salamanders is an atavism. The salamander example fits with Raff's 10-million-year timeframe.\n\nA项说“它代表了大多数两栖类动物的发展过程”,但本文提及这种生物主要是为了列举其中的例外性成员蝾螈，而非以这个物种来代表所有两栖类，因此不是正确答案;但这个选项具有颇大迷感性，需要考生耐心通读全段才能更准确地选择。B项说“它显示Raff的理论是正确的\"，文意确实如此，但从“mole salamanders” 这个定位词出现在第七段开头，直到最后一句话给出定论为止，这个正确选项对考生的耐心读长句能力提出了较高挑战。C项说“它丢失和重新获得了不止一种能力\"，这是原文中完全不曾提及的信息。D项说“它的祖先成了被广泛研究的对象”，这也是文中没有提到的信息。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Which of the following does Wagner claim?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6856_186053",
+          "options": [
+            {
+              "value": "A",
+              "text": "Members of the Bachia lizard family have lost and regained certain features several times."
+            },
+            {
+              "value": "B",
+              "text": "Evidence shows that the evolution of the Bachia lizard is due to the environment."
+            },
+            {
+              "value": "C",
+              "text": "His research into South American lizards supports Raff's assertions."
+            },
+            {
+              "value": "D",
+              "text": "His findings will apply to other species of South American lizards."
+            }
+          ],
+          "explanation": "题目：以下哪个是Wagner的宣称?\n\n第八段：…In a paper published last year, biologistGunter Wagner of Yale University… According to his analysis of the Bachia family tree, the toed species re evolved toes from toeless ancestors and, what is more, digit loss and gain has occurred on more than one occasion over tens of millions of years.\n\nA项说“Bachia蜥蜴家族的成员有若干次丢失重新获得了某些特征”，这是正确答案，但与第30题有着类似的难点，即需要考生大范围阅读此段，才可得出结论。B项说“证据显示Bachia蜥蜴的进化是由于环的原因”，这是原文未提及的信息。C项说“他对南美蜥蝎的研究支持了Raff的点”,但本段中列举Wagner的研究成果恰恰对Raff的时间框架理论提出反例，这与选项内相矛盾。D项说“他的发现将适用于南美蜥蝎的其他种”，这也是原文中未曾提及的信息。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 32-36\n\nComplete each sentence with the correct ending，A-G, below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "For a long time biologists rejected [32] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6856_922017",
+          "explanation": "题号：32\n\n译文：很长时间以来生物学家都抗拒\n\n第一段：For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards'.\n\n本题的定位靠前，理解难度也不高，唯一可能对考生解题构成一定障碍的就是reluctant与reject二者之间的同义替换。正确答案为选项F: the possibility of evolution being reversible.“进化可以倒退的可能性”。\n\n题号：33\n\n译文：关于进化倒退现象的两种相反观点其代表为\n\n第三段：While Lombroso was measuring criminals, a Belgjan palacontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion.\n\n要顺利解答此题，考生最好按照原文行文顺序逐句理解其大意，则可知关于“进化倒退现象是否可能”这个议题存在着两种彼此相反的观点，而其代表者分别为Lombroso和Dollo,答案为选项G: Dollo's findings and the convictions held by Lombroso. \"Dollo 的研究发现和Lombroso所持有的观念”\n\n题号：34\n\n译文：进化倒退现象的例子导致了\n\n第五段：Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear?\n\n本题的定位距离上一题较远，对考生连读几句掌握其大意的能力要求也比较高。由于有了众多进化倒退的例证，就导致接下来的问题的提出，即正确选项A：the question of how certain long-lost traits could reappear.“某些消失已久的特征如何可以重新出现的问题”。\n\n题号：35\n\n译文：鯊鱼和虎鲸之所以被提到是为了例证\n\n第九段：One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales.\n\n此题的定位并不困难，读懂sharks和killer whale 这两个定位词所在的句子即可解答。正确选项为B: the occurrence of a particular feature in different species.“某个特征在不同物种身上的同时出现”。\n\n题号：36\n\n译文：对于Wagner研究发现的解释之一是\n\n第八段：n a paper published last year, biologist Gunter Wagner of Yale University reported. The simplest explanation is that the toed lineages never lost their toes …此题的位置虽然与上一题定位逆序，但胜在有Wagner这个大写专有名词。真正的挑战来自于对定位段中连续几个长句子的准确阅读和理解，在Wagner发表了其研究发现后，对此的解释之一是有趾蜥蜴从未丢失过其爪趾，也就是负责此特征的基因信息没有改变过。正确选项为D: the continued existence of certain genetic information.“ 某些基因信息的持续存在”。",
+          "promptHtml": "For a long time biologists rejected [32] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Opposing views on evolutionary throwbacks are represented by [33] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6856_398091",
+          "explanation": "题号：32\n\n译文：很长时间以来生物学家都抗拒\n\n第一段：For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards'.\n\n本题的定位靠前，理解难度也不高，唯一可能对考生解题构成一定障碍的就是reluctant与reject二者之间的同义替换。正确答案为选项F: the possibility of evolution being reversible.“进化可以倒退的可能性”。\n\n题号：33\n\n译文：关于进化倒退现象的两种相反观点其代表为\n\n第三段：While Lombroso was measuring criminals, a Belgjan palacontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion.\n\n要顺利解答此题，考生最好按照原文行文顺序逐句理解其大意，则可知关于“进化倒退现象是否可能”这个议题存在着两种彼此相反的观点，而其代表者分别为Lombroso和Dollo,答案为选项G: Dollo's findings and the convictions held by Lombroso. \"Dollo 的研究发现和Lombroso所持有的观念”\n\n题号：34\n\n译文：进化倒退现象的例子导致了\n\n第五段：Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear?\n\n本题的定位距离上一题较远，对考生连读几句掌握其大意的能力要求也比较高。由于有了众多进化倒退的例证，就导致接下来的问题的提出，即正确选项A：the question of how certain long-lost traits could reappear.“某些消失已久的特征如何可以重新出现的问题”。\n\n题号：35\n\n译文：鯊鱼和虎鲸之所以被提到是为了例证\n\n第九段：One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales.\n\n此题的定位并不困难，读懂sharks和killer whale 这两个定位词所在的句子即可解答。正确选项为B: the occurrence of a particular feature in different species.“某个特征在不同物种身上的同时出现”。\n\n题号：36\n\n译文：对于Wagner研究发现的解释之一是\n\n第八段：n a paper published last year, biologist Gunter Wagner of Yale University reported. The simplest explanation is that the toed lineages never lost their toes …此题的位置虽然与上一题定位逆序，但胜在有Wagner这个大写专有名词。真正的挑战来自于对定位段中连续几个长句子的准确阅读和理解，在Wagner发表了其研究发现后，对此的解释之一是有趾蜥蜴从未丢失过其爪趾，也就是负责此特征的基因信息没有改变过。正确选项为D: the continued existence of certain genetic information.“ 某些基因信息的持续存在”。",
+          "promptHtml": "Opposing views on evolutionary throwbacks are represented by [33] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Examples of evolutionary throwbacks have led to [34] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6856_669312",
+          "explanation": "题号：32\n\n译文：很长时间以来生物学家都抗拒\n\n第一段：For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards'.\n\n本题的定位靠前，理解难度也不高，唯一可能对考生解题构成一定障碍的就是reluctant与reject二者之间的同义替换。正确答案为选项F: the possibility of evolution being reversible.“进化可以倒退的可能性”。\n\n题号：33\n\n译文：关于进化倒退现象的两种相反观点其代表为\n\n第三段：While Lombroso was measuring criminals, a Belgjan palacontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion.\n\n要顺利解答此题，考生最好按照原文行文顺序逐句理解其大意，则可知关于“进化倒退现象是否可能”这个议题存在着两种彼此相反的观点，而其代表者分别为Lombroso和Dollo,答案为选项G: Dollo's findings and the convictions held by Lombroso. \"Dollo 的研究发现和Lombroso所持有的观念”\n\n题号：34\n\n译文：进化倒退现象的例子导致了\n\n第五段：Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear?\n\n本题的定位距离上一题较远，对考生连读几句掌握其大意的能力要求也比较高。由于有了众多进化倒退的例证，就导致接下来的问题的提出，即正确选项A：the question of how certain long-lost traits could reappear.“某些消失已久的特征如何可以重新出现的问题”。\n\n题号：35\n\n译文：鯊鱼和虎鲸之所以被提到是为了例证\n\n第九段：One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales.\n\n此题的定位并不困难，读懂sharks和killer whale 这两个定位词所在的句子即可解答。正确选项为B: the occurrence of a particular feature in different species.“某个特征在不同物种身上的同时出现”。\n\n题号：36\n\n译文：对于Wagner研究发现的解释之一是\n\n第八段：n a paper published last year, biologist Gunter Wagner of Yale University reported. The simplest explanation is that the toed lineages never lost their toes …此题的位置虽然与上一题定位逆序，但胜在有Wagner这个大写专有名词。真正的挑战来自于对定位段中连续几个长句子的准确阅读和理解，在Wagner发表了其研究发现后，对此的解释之一是有趾蜥蜴从未丢失过其爪趾，也就是负责此特征的基因信息没有改变过。正确选项为D: the continued existence of certain genetic information.“ 某些基因信息的持续存在”。",
+          "promptHtml": "Examples of evolutionary throwbacks have led to [34] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "The shark and killer whale are mentioned to exemplify [35] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6856_712858",
+          "explanation": "题号：32\n\n译文：很长时间以来生物学家都抗拒\n\n第一段：For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards'.\n\n本题的定位靠前，理解难度也不高，唯一可能对考生解题构成一定障碍的就是reluctant与reject二者之间的同义替换。正确答案为选项F: the possibility of evolution being reversible.“进化可以倒退的可能性”。\n\n题号：33\n\n译文：关于进化倒退现象的两种相反观点其代表为\n\n第三段：While Lombroso was measuring criminals, a Belgjan palacontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion.\n\n要顺利解答此题，考生最好按照原文行文顺序逐句理解其大意，则可知关于“进化倒退现象是否可能”这个议题存在着两种彼此相反的观点，而其代表者分别为Lombroso和Dollo,答案为选项G: Dollo's findings and the convictions held by Lombroso. \"Dollo 的研究发现和Lombroso所持有的观念”\n\n题号：34\n\n译文：进化倒退现象的例子导致了\n\n第五段：Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear?\n\n本题的定位距离上一题较远，对考生连读几句掌握其大意的能力要求也比较高。由于有了众多进化倒退的例证，就导致接下来的问题的提出，即正确选项A：the question of how certain long-lost traits could reappear.“某些消失已久的特征如何可以重新出现的问题”。\n\n题号：35\n\n译文：鯊鱼和虎鲸之所以被提到是为了例证\n\n第九段：One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales.\n\n此题的定位并不困难，读懂sharks和killer whale 这两个定位词所在的句子即可解答。正确选项为B: the occurrence of a particular feature in different species.“某个特征在不同物种身上的同时出现”。\n\n题号：36\n\n译文：对于Wagner研究发现的解释之一是\n\n第八段：n a paper published last year, biologist Gunter Wagner of Yale University reported. The simplest explanation is that the toed lineages never lost their toes …此题的位置虽然与上一题定位逆序，但胜在有Wagner这个大写专有名词。真正的挑战来自于对定位段中连续几个长句子的准确阅读和理解，在Wagner发表了其研究发现后，对此的解释之一是有趾蜥蜴从未丢失过其爪趾，也就是负责此特征的基因信息没有改变过。正确选项为D: the continued existence of certain genetic information.“ 某些基因信息的持续存在”。",
+          "promptHtml": "The shark and killer whale are mentioned to exemplify [35] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "One explanation for the findings of Wagner's research is [36] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6856_805639",
+          "explanation": "题号：32\n\n译文：很长时间以来生物学家都抗拒\n\n第一段：For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards'.\n\n本题的定位靠前，理解难度也不高，唯一可能对考生解题构成一定障碍的就是reluctant与reject二者之间的同义替换。正确答案为选项F: the possibility of evolution being reversible.“进化可以倒退的可能性”。\n\n题号：33\n\n译文：关于进化倒退现象的两种相反观点其代表为\n\n第三段：While Lombroso was measuring criminals, a Belgjan palacontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion.\n\n要顺利解答此题，考生最好按照原文行文顺序逐句理解其大意，则可知关于“进化倒退现象是否可能”这个议题存在着两种彼此相反的观点，而其代表者分别为Lombroso和Dollo,答案为选项G: Dollo's findings and the convictions held by Lombroso. \"Dollo 的研究发现和Lombroso所持有的观念”\n\n题号：34\n\n译文：进化倒退现象的例子导致了\n\n第五段：Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear?\n\n本题的定位距离上一题较远，对考生连读几句掌握其大意的能力要求也比较高。由于有了众多进化倒退的例证，就导致接下来的问题的提出，即正确选项A：the question of how certain long-lost traits could reappear.“某些消失已久的特征如何可以重新出现的问题”。\n\n题号：35\n\n译文：鯊鱼和虎鲸之所以被提到是为了例证\n\n第九段：One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales.\n\n此题的定位并不困难，读懂sharks和killer whale 这两个定位词所在的句子即可解答。正确选项为B: the occurrence of a particular feature in different species.“某个特征在不同物种身上的同时出现”。\n\n题号：36\n\n译文：对于Wagner研究发现的解释之一是\n\n第八段：n a paper published last year, biologist Gunter Wagner of Yale University reported. The simplest explanation is that the toed lineages never lost their toes …此题的位置虽然与上一题定位逆序，但胜在有Wagner这个大写专有名词。真正的挑战来自于对定位段中连续几个长句子的准确阅读和理解，在Wagner发表了其研究发现后，对此的解释之一是有趾蜥蜴从未丢失过其爪趾，也就是负责此特征的基因信息没有改变过。正确选项为D: the continued existence of certain genetic information.“ 某些基因信息的持续存在”。",
+          "promptHtml": "One explanation for the findings of Wagner&#x27;s research is [36] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the question of how certain long-lost traits could reappear."
+        },
+        {
+          "value": "B",
+          "text": "the occurrence of a particular feature in different species."
+        },
+        {
+          "value": "C",
+          "text": "parallels drawn between behaviour and appearance."
+        },
+        {
+          "value": "D",
+          "text": "the continued existence of certain genetic information."
+        },
+        {
+          "value": "E",
+          "text": "the doubts felt about evolutionary throwbacks."
+        },
+        {
+          "value": "F",
+          "text": "the possibility of evolution being reversible."
+        },
+        {
+          "value": "G",
+          "text": "Dollo's findings and the convictions held by Lombroso."
+        }
+      ],
+      "contextHtml": "<p>For a long time biologists rejected <strong>[32] ______</strong> </p>\n\n<p>Opposing views on evolutionary throwbacks are represented by <strong>[33] ______</strong></p>\n\n<p>Examples of evolutionary throwbacks have led to <strong>[34] ______</strong></p>\n\n<p>The shark and killer whale are mentioned to exemplify <strong>[35] ______</strong> </p>\n\n<p>One explanation for the findings of Wagner&#x27;s research is <strong>[36] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "instruction": "Questions 37- 40\n\nDo the following statements agree with the claims of the writer in Reading Passage 3?\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Wagner was the first person to do research on South American lizards.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6856_506507",
+          "explanation": "译文: Wagner是对南美蜥蝎进行研究的第一人。\n\n定位词：Wagner, first person, South American lizards\n\n第八段：In a paper published last year, biologist Gunter Wagner of Yale University reported some work on the evolutionary history of a group of South American lizards called Bachia ...文章只引用了Wagner的论文结果，并未提及他是否是第一个在此领城进行研究的人，因此答案为NOT GIVEN。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Wagner believes that Bachia lizards with toes had toeless ancestors.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6856_708198",
+          "explanation": "译文: Wagner相信有趾的Bachia蜥蜴有着无趾的祖先。\n\n定位词：Wagner, Bachia lizards, toeless ancestors\n\n第八段：According to his analysis of the Bachia family tree, the toed species re-evolved toes from toeless ancestors and...本题的定位不难，对同义替换的理解也不难，答案为YES。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "The temporary occurrence of long-lost traits in embryos is rare.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6856_807041",
+          "explanation": "译文：胚胎中那些消失已久特征的暂时出现是很稀少的现象。\n\n定位词：long-lost traits, embryos\n\n第十段：But if silent genes degrade withir6 to 10 million years, how can long-lost traits be reactivated over longer timescales? The answer may lie in the womb. Early embryos of many species develop ancestral features.要做对此题并不需要考生具备很大的词汇量，像womb“子宫”和embryo“胚胎”这样的略生僻词汇即使都不认识也不影响解题。但此题需要考生对细节信息的关注到位，原文说“许多物种的早期胚胎都发畏出过祖先的特征”，此现象属于普遍而非少见，与题干信息相矛盾，因此答案为NO。"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Evolutionary throwbacks might be caused by developmental problems in the womb.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6856_700314",
+          "explanation": "译文：进化返祖现象也许是由子官中的发育问题所引起的。\n\n定位词：Caused by, developmental problems, womb\n\n第十段：Later in development these caused by, features disappear thanks to developmental programs that problems, say \"lose the leg'; If for any reason this does not happen, the ancestral feature may not disappear, leading to an atavism.\n\n此题的定位紧跟上一题，不难寻找，但需要考生对这几句话之间的逻辑联系有比较到位的理解，答案为YES。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>When evolution runs backwards</strong></span><br><em><span>Evolution isn’t supposed to run backwards - yet an increasing number<br>of examples show that it does and that it can sometimes represent the<br>future of a species</span></em></p><p>The description of any animal as an &#x27;evolutionary throwback&#x27; is controversial. For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says &#x27;evolution cannot run backwards&#x27; . But as more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten. Not only are evolutionary throwbacks possible, they sometimes play an important role in the forward march of evolution.</p><p>The technical term for an evolutionary throwback is an &#x27;atavism&#x27; , from the Latin atavus, meaning forefather. The word has ugly connotations thanks largely to Cesare Lombroso, a 19th-century Italian medic who argued that criminals were born not made and could be identified by certain physical features that were throwbacks to a primitive, sub-human state.</p><p>While Lombroso was measuring criminals, a Belgian palaeontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion. In 1890 he proposed that evolution was irreversible: that &#x27;an organism is unable to return, even partially, to a previous stage already realised in the ranks of its ancestors&#x27;. Early 20th-century biologists came to a similar conclusion, though they qualified it in terms of probability, stating that there is no reason why evolution cannot run backwards- it is just very unlikely. And so the idea of irreversibility in evolution stuck and came to be known as &#x27;Dollo&#x27; s law &#x27;.</p><p>If Dollo&#x27;s law is right, atavisms should occur only very rarely, if at all. Yet almost since the idea took root, exceptions have been cropping up. In 1919, for example, a humpback whale with a pair of leg-like appendages over a metre long, complete with a full set of limb bones, was caught off Vancouver Island in Canada. Explorer Roy Chapman Andrews argued at the time that the whale must be a throwback to a land-living ancestor. &#x27;I can see no other explanation,&#x27; he wrote in 1921.</p><p>Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear? In 1994, Rudolf Raff and colleagues at Indiana University in the USA decided to use genetics to put a number on the probability of evolution going into reverse. They reasoned that while some evolutionary changes involve the loss of genes and are therefore irreversible, others may be the result of genes being switched off. If these silent genes are somehow switched back on, they argued, long-lost traits could reappear.</p><p>Raff&#x27;s team went on to calculate the likelihood of it happening. Silent genes accumulate random mutations, they reasoned, eventually rendering them useless. So how long can a gene survive in a species if it is no longer used? The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive as long as 10 million years. In other words, throwbacks are possible, but only to the relatively recent evolutionary past.</p><p>As a possible example, the team pointed to the mole salamanders of Mexico and California. Like most amphibians these begin life in a juvenile &#x27;tadpole&#x27; state, then metamorphose into the adult form - except for one species, the axolotl, which famously lives its entire life as a juvenile. The simplest explanation for this is that the axolotl lineage alone lost the ability to metamorphose, while others retained it. From a detailed analysis of the salamanders’ family tree, however, it is clear that the other lineages evolved from an ancestor that itself had lost the ability to metamorphose. In other words, metamorphosis in mole salamanders is an atavism. The salamander example fits with Raff&#x27;s 10-million-year time frame.</p><p>More recently, however, examples have been reported that break the time limit, suggesting that silent genes may not be the whole story. In a paper published last year, biologist Gunter Wagner of Yale University reported some work on the evolutionary history of a group of South American lizards called Bachia. Many of these have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs. Other species, however, sport up to four toes on their hind legs. The simplest explanation is that the toed lineages never lost their toes, but Wagner begs to differ. According to his analysis of the Bachia family tree, the toed species re-evolved toes from toeless ancestors and, what is more, digit loss and gain has occurred on more than one occasion over tens of millions of years.</p><p>So what&#x27;s going on? One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales. Another more intriguing possibility is that the genetic information needed to make toes somehow survived for tens or perhaps hundreds of millions of years in the lizards and was reactivated. These atavistic traits provided an advantage and spread through the population, effectively reversing evolution.</p><p>But if silent genes degrade within 6 to 10 million years, how can long-lost traits be reactivated over longer timescales? The answer may lie in the womb. Early embryos of many species develop ancestral features. Snake embryos, for example, sprout hind limb buds. Later in development these features disappear thanks to developmental programs that say &#x27;lose the leg&#x27;. If for any reason this does not happen, the ancestral feature may not disappear, leading to an atavism.</p><p><br> </p>"
+}

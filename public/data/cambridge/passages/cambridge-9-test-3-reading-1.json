@@ -1,0 +1,286 @@
+{
+  "id": "cambridge-9-test-3-reading-1",
+  "title": "Attitudes to Language",
+  "titleCn": "Attitudes to Language",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 9,
+    "test": 3
+  },
+  "sourceQuestionId": "6907",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6907",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Attitudes to Language"
+    },
+    {
+      "label": "2",
+      "text": "It is not easy to be systematic and objective about language study. Popular linguistic debate regularly deteriorates into invective and polemic. Language belongs to everyone, so most people feel they have a right to hold an opinion about it. And when opinions differ, emotions can run high. Arguments can start as easily over minor points of usage as over major policies of linguistic education."
+    },
+    {
+      "label": "3",
+      "text": "Language, moreover, is a very public behavior, so it is easy for different usages to be noted and criticised. No part of society or social behavior is exempt. Linguistic factors influence how we judge personality, intelligence, social status, educational standards, job aptitude, and many other areas of identity and social survival. As a result, it is easy to hurt, and to be hurt, when language use is unfeelingly attacked."
+    },
+    {
+      "label": "4",
+      "text": "In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others, and that this ought to be imposed on the whole of the speech community. The view is propounded especially in relation to grammar and vocabulary, and frequently with reference to pronunciation. The variety which is favoured, in this account, is usually a version of the 'standard' written language, especially as encountered in literature, or in the formal spoken language which most closely reflects this style. Adherents to this variety are said to speak or write 'correctly'; deviations from it are said to be 'incorrect'."
+    },
+    {
+      "label": "5",
+      "text": "All the main languages have been studied prescriptively, especially in the 18th century approach to the writing of grammars and dictionaries. The aims of these early grammarians were threefold: (a) they wanted to codify the principles of their languages, to show that there was a system beneath the apparent chaos of usage; (b) they wanted a means of settling disputes over usage, and (c) they wanted to point out what they felt to be common errors, in order to 'improve' the language. The authoritarian nature of the approach is best characterised by its reliance on 'rules' of grammar. Some usages are 'prescribed', to be learnt and followed accurately; others are 'proscribed', to be avoided. In this early period, there were no half-measures: usage was either right or wrong, and it was the task of the grammarian not simply to record alternatives, but to pronounce judgment upon them."
+    },
+    {
+      "label": "6",
+      "text": "These attitudes are still with us, and they motivate a widespread concern that linguistic standards should be maintained. Nevertheless, there is an alternative point of view that is concerned less with standards than with the facts of linguistic usage. This approach is summarised in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change. In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that 'the custom of speaking is the original and only just standard of any language'. Linguistic issues, it is argued, cannot be solved by logic and legislation. And this view has become the tenet of the modern linguistic approach to grammatical analysis."
+    },
+    {
+      "label": "7",
+      "text": "In our own time, the opposition between 'descriptivists' and 'prescriptivists' has often become extreme, with both sides painting unreal pictures of the other. Descriptive grammarians have been presented as people who do not care about standards, because of the way they see all forms of usage as equally valid. Prescriptive grammarians have been presented as blind adherents to a historical tradition. The opposition has even been presented in quasi-political terms—of radical liberalism vs elitist conservatism."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "instruction": "Question 1-8\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "There are understandable reasons why arguments occur about language.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6907_574443",
+          "explanation": "参考译文：对于语言的争论，其原因是可以理解的。\n\n定位词：reasons, arguments occur\n\n解题关键词：understandable reasons\n\n文中对应第一段第一行：Popular linguistic debate regularly deteriorated into invective and polemic. Language belongs to everyone, so most people feel they have a right to hold an opinion about it. 语言学上的普通争论通常会升级为谩骂和论战。语言属于所有人，所以大多数人认为他们有权保留自己对语言的看法。本题解题关键是：题干要判断对于语言的争论，原因是否可以理解。原文陈述，语言属于所有人，大多数人有权保留对语言的看法，所以人们的观点会产生分歧是可以理解的。题干与原文完全一致。\n\n答案：YES"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "People feel more strongly about language education than about small differences in language usage.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6907_315162",
+          "explanation": "参考译文：人们对待语言教育的态度要比对待语言用法中微小差异的态度更加强烈。\n\n定位词：language education, language usage\n\n解题关键词：more strongly…than...\n\n文中对应第一段第三行：And when opinions differ, emotions can run high. Arguments can start as easily over minor points of usage as over major policies of linguistic education. 而当看法出现分歧时，人们可能变得情绪激动。语言用法方面的一点小事，就能像语言学教育政策中的重大问题一样很容易引起争论。本题解题关键是：题干要判断人们对待语言教育的态度是否比对待语言用法的态度更加强烈。原文陈述，语言用法方面的一点小事都能像语言学教育政策中的大事一样引起争论，这说明对待语言用法与语言学教育政策的态度同样强烈。题干与原文所述观点不一致。\n\n答案：NO"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Our assessment of a person's intelligence is affected by the way he or she uses language.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6907_755723",
+          "explanation": "参考译文：使用语言的方式会影响人们对一一个人智力的评估。\n\n定位词：intelligence, affect\n\n解题关键词：person's intelligence…is affected...by language\n\n文中对应第二段第二行：No part of society or social behaviour is exempt. Linguistic factors influence how we judge personality, intelligence, social status, educational standards, job aptitude, and many other areas of identity and social survival. 所有社会组成部分或者社会行为无一例外。语言因素影响我们如何判断一个人的个性、智力、社会地位、教育程度、工作能力以及许多身份与社会生存的其他方面。本题解题关键是：题干要判断使用语言的方式是否会影响人们对一个人智力的评估。原文陈述，语言因素影响我们如何判断一个人的个性、智力……题干与原文完全一致。\n\n答案：YES"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Prescriptive grammar books cost a lot of money to buy in the 18th century.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6907_390413",
+          "explanation": "参考译文：在18世纪，规定性的语法书价格很高。\n\n定位词：prescriptive, 18th century\n\n解题关键词：cost a lot of money\n\n文中对应第四段第一行：All the main languages have been studied prescriptively, especially in the 18th century approach to the wring of grammars and dictionaries. 对所有主要语言的研究都是约定俗成的，尤其在18世纪对语法与词典的编写过程中。用定位词定位到的这句话中没有提到书的价格高低与否。\n\n答案：NOT GIVEN"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Prescriptivism still exists today.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6907_169905",
+          "explanation": "参考译文：现在规定主义仍然存在。\n\n定位词：prescriptivism, today\n\n解题关键词：still exists\n\n文中对应第五段第一行：These attitudes are still with us, and they motivate a widespread concern that linguistic standards should be maintained. 这些态度现在仍然伴随着我们，并且引起人们对保留语言标准的广泛关注。本题解题关键是：题干要判断现在规定主义是否仍然存在。原文陈述，这些态度现在仍然伴随着我们，题干与原文完全一致。\n\n答案：YES"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "According to descriptivists it is pointless to try to stop language change.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6907_291824",
+          "explanation": "参考译文：描述派认为，阻止语言变化毫无意义。\n\n定位词：descriptivists, language change\n\n解题关键词：pointless, stop\n\n文中对应第五段第三行：This approach is summarized in the statement .... , and not to attempt the impossible tasks of evaluating language variation or haling language change. 该观点可以总结为：语法家的任务是描述而不是规定，是记录语言多样性的实例而不是试图完成评价语言的差异或阻止语言的改变这种不可能完成的任务。本题解题关键是：题干要判断对于描述派来说，阻止语言变化是否毫无意义。原文陈述，语法家的任务……不是阻止语言的改变这种不可能完成的任务。题干中阻止语言变化毫无意义=语法家的任务并非阻止语言改变这种不可能完成的任务。题干与原文完全一致。\n\n答案：YES"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Descriptivism only appeared after the 18th century.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6907_971305",
+          "explanation": "参考译文：描述主义只有在18世纪后才出现。\n\n定位词：after the 18th century\n\n解题关键词：only\n\n文中对应第五段倒数第六行：In the second half of the 18th century, .... , whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language'. 在18世纪后半期，我们已经发现了该观点的支持者，比如Joseph Priestley，他在1761年编写的《英语语法入门》中坚持认为，“说话的习惯是最原始的、也是所有语言的唯一标准”。本题解题关键是：题干中出现ONLY，所以主要判断描述主义是否只有到18世纪后才出现。原文陈述，18世纪后半期，我们已经发现了该观点的支持者，那就意味着在这个时间以前，已经有了描述主义的观点。题干与原文陈述的时间有出人，不一致。ONLY至今仍然在考场上活跃，考查答案为NO/FALSE的概率依然很高。\n\n答案：NO"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Both descriptivists and prescriptivists have been misrepresented.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6907_940267",
+          "explanation": "参考译文：对于规定派和描述派的描述都有失真实。\n\n定位词：descriptivists, prescriptivists\n\n解题关键词：both…have been misrepresented\n\n文中对应第六段第一行：In our own time, the opposition between ’escriptivists' and prescriptivists' has often become extreme, with both sides painting unreal pictures of the other. 在我们这个时代，“描述派”与“规定派”之间的对立经常变得很极端，双方经常互相误解。本题解题关键是：题干要判断针对这两派的描述是否有失真实。原文陈述，“描述派”与“规定派”之间的对立经常变得很极端，双方经常互相误解。题干与原文完全一致。\n\n答案：YES"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Question 9-12\n\nComplete the summary using the list of words, A-I, below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q6907_653964",
+          "explanation": "题号：9\n\n定位词：correct form of language\n\n答案位置在第三段第一行和倒数第二行：In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others… Adherents to this variety are said to speak or write ‘correctly’; deviations from it are said to be ‘incorrect'. 就其最普通的意义而言，规定主义认为某种语言向来就比其他语言具有更高的价值……该语言的支持者其说话或者写作的方法被称为“正确的”方法，而任何偏差都被认为是“错误的”。\n\n原文中陈述，规定主义认为某种语言的说话或写作方法只有一种“正确的”方法，那么持这种看法的人就是规定派、规定主义者，把prescriptivists带入空格中，解释为：根据规定主义者，语言只有一种正确的形式。因此选H。\n\n题号：10\n\n定位词：approach, grammatical\n\n答案位置在第四段第六行：The authoritarian nature of the approach is best characterized by its reliance on ‘rules’ of grammar. 该方法对语法“规则”的依赖最能体现出其独裁的本质。\n\n解释为：推崇规定主义的语言学家非常强调语法规则。因此选F。\n\n题号：11\n\n定位词：Joseph Priestley\n\n答案位置在第五段倒数第五行：In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley... 在18世纪后半期，我们已经发现了该观点的支持者，比如Joseph Priestley。由此往前找，找到这句This approach is summarised in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change. 该观点可以总结为：语法家的任务是描述而不是规定，是记录语言多样性的实例而不是试图完成评价语言的差异或阻止语言的改变这样不可能完成的任务。说明Joseph Priestley是描述主义者的代表。因此选A。\n\n题号：12\n\n定位词：Joseph Priestley, grammer\n\n答案位置同上，后半句：…such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language'.……比如Joseph Priestley，他在1761年编写的《英语语法人门》中坚持认为，“说话的习惯是最原始的、也是所有语言的唯一标准”。the custom of speaking = C popular speech，即认为语法应该建立在通俗语言的基础上。因此选C。",
+          "promptHtml": "Answer for gap 9."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Answer for gap 10.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6907_997898",
+          "explanation": "题号：9\n\n定位词：correct form of language\n\n答案位置在第三段第一行和倒数第二行：In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others… Adherents to this variety are said to speak or write ‘correctly’; deviations from it are said to be ‘incorrect'. 就其最普通的意义而言，规定主义认为某种语言向来就比其他语言具有更高的价值……该语言的支持者其说话或者写作的方法被称为“正确的”方法，而任何偏差都被认为是“错误的”。\n\n原文中陈述，规定主义认为某种语言的说话或写作方法只有一种“正确的”方法，那么持这种看法的人就是规定派、规定主义者，把prescriptivists带入空格中，解释为：根据规定主义者，语言只有一种正确的形式。因此选H。\n\n题号：10\n\n定位词：approach, grammatical\n\n答案位置在第四段第六行：The authoritarian nature of the approach is best characterized by its reliance on ‘rules’ of grammar. 该方法对语法“规则”的依赖最能体现出其独裁的本质。\n\n解释为：推崇规定主义的语言学家非常强调语法规则。因此选F。\n\n题号：11\n\n定位词：Joseph Priestley\n\n答案位置在第五段倒数第五行：In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley... 在18世纪后半期，我们已经发现了该观点的支持者，比如Joseph Priestley。由此往前找，找到这句This approach is summarised in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change. 该观点可以总结为：语法家的任务是描述而不是规定，是记录语言多样性的实例而不是试图完成评价语言的差异或阻止语言的改变这样不可能完成的任务。说明Joseph Priestley是描述主义者的代表。因此选A。\n\n题号：12\n\n定位词：Joseph Priestley, grammer\n\n答案位置同上，后半句：…such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language'.……比如Joseph Priestley，他在1761年编写的《英语语法人门》中坚持认为，“说话的习惯是最原始的、也是所有语言的唯一标准”。the custom of speaking = C popular speech，即认为语法应该建立在通俗语言的基础上。因此选C。",
+          "promptHtml": "Answer for gap 10."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Answer for gap 11.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6907_657082",
+          "explanation": "题号：9\n\n定位词：correct form of language\n\n答案位置在第三段第一行和倒数第二行：In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others… Adherents to this variety are said to speak or write ‘correctly’; deviations from it are said to be ‘incorrect'. 就其最普通的意义而言，规定主义认为某种语言向来就比其他语言具有更高的价值……该语言的支持者其说话或者写作的方法被称为“正确的”方法，而任何偏差都被认为是“错误的”。\n\n原文中陈述，规定主义认为某种语言的说话或写作方法只有一种“正确的”方法，那么持这种看法的人就是规定派、规定主义者，把prescriptivists带入空格中，解释为：根据规定主义者，语言只有一种正确的形式。因此选H。\n\n题号：10\n\n定位词：approach, grammatical\n\n答案位置在第四段第六行：The authoritarian nature of the approach is best characterized by its reliance on ‘rules’ of grammar. 该方法对语法“规则”的依赖最能体现出其独裁的本质。\n\n解释为：推崇规定主义的语言学家非常强调语法规则。因此选F。\n\n题号：11\n\n定位词：Joseph Priestley\n\n答案位置在第五段倒数第五行：In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley... 在18世纪后半期，我们已经发现了该观点的支持者，比如Joseph Priestley。由此往前找，找到这句This approach is summarised in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change. 该观点可以总结为：语法家的任务是描述而不是规定，是记录语言多样性的实例而不是试图完成评价语言的差异或阻止语言的改变这样不可能完成的任务。说明Joseph Priestley是描述主义者的代表。因此选A。\n\n题号：12\n\n定位词：Joseph Priestley, grammer\n\n答案位置同上，后半句：…such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language'.……比如Joseph Priestley，他在1761年编写的《英语语法人门》中坚持认为，“说话的习惯是最原始的、也是所有语言的唯一标准”。the custom of speaking = C popular speech，即认为语法应该建立在通俗语言的基础上。因此选C。",
+          "promptHtml": "Answer for gap 11."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Answer for gap 12.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6907_725313",
+          "explanation": "题号：9\n\n定位词：correct form of language\n\n答案位置在第三段第一行和倒数第二行：In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others… Adherents to this variety are said to speak or write ‘correctly’; deviations from it are said to be ‘incorrect'. 就其最普通的意义而言，规定主义认为某种语言向来就比其他语言具有更高的价值……该语言的支持者其说话或者写作的方法被称为“正确的”方法，而任何偏差都被认为是“错误的”。\n\n原文中陈述，规定主义认为某种语言的说话或写作方法只有一种“正确的”方法，那么持这种看法的人就是规定派、规定主义者，把prescriptivists带入空格中，解释为：根据规定主义者，语言只有一种正确的形式。因此选H。\n\n题号：10\n\n定位词：approach, grammatical\n\n答案位置在第四段第六行：The authoritarian nature of the approach is best characterized by its reliance on ‘rules’ of grammar. 该方法对语法“规则”的依赖最能体现出其独裁的本质。\n\n解释为：推崇规定主义的语言学家非常强调语法规则。因此选F。\n\n题号：11\n\n定位词：Joseph Priestley\n\n答案位置在第五段倒数第五行：In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley... 在18世纪后半期，我们已经发现了该观点的支持者，比如Joseph Priestley。由此往前找，找到这句This approach is summarised in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change. 该观点可以总结为：语法家的任务是描述而不是规定，是记录语言多样性的实例而不是试图完成评价语言的差异或阻止语言的改变这样不可能完成的任务。说明Joseph Priestley是描述主义者的代表。因此选A。\n\n题号：12\n\n定位词：Joseph Priestley, grammer\n\n答案位置同上，后半句：…such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language'.……比如Joseph Priestley，他在1761年编写的《英语语法人门》中坚持认为，“说话的习惯是最原始的、也是所有语言的唯一标准”。the custom of speaking = C popular speech，即认为语法应该建立在通俗语言的基础上。因此选C。",
+          "promptHtml": "Answer for gap 12."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Descriptivists"
+        },
+        {
+          "value": "B",
+          "text": "language experts"
+        },
+        {
+          "value": "C",
+          "text": "popular speech"
+        },
+        {
+          "value": "D",
+          "text": "formal language"
+        },
+        {
+          "value": "E",
+          "text": "evaluation"
+        },
+        {
+          "value": "F",
+          "text": "rules"
+        },
+        {
+          "value": "G",
+          "text": "modern linguists"
+        },
+        {
+          "value": "H",
+          "text": "prescriptivists"
+        },
+        {
+          "value": "I",
+          "text": "change"
+        }
+      ],
+      "contextHtml": "<p><span><strong>The language debate</strong></span></p>\n\n<p>According to <strong>[9] ______</strong> , there is only one correct form of language. Linguists who take this approach to language place great importance on grammatical <strong>[10] ______</strong> . Conversely, the view of <strong>[11] ______</strong> , such as Joseph Priestley, is that grammar should be based on <strong>[12] ______</strong> . </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "choice",
+      "instruction": "Question 13\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "What is the writer's purpose in Reading Passage 1?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6907_866284",
+          "options": [
+            {
+              "value": "A",
+              "text": "to argue in favour of a particular approach to writing dictionaries and grammar books"
+            },
+            {
+              "value": "B",
+              "text": "to present a historical account of differing views of language"
+            },
+            {
+              "value": "C",
+              "text": "to describe the differences between spoken and written language"
+            },
+            {
+              "value": "D",
+              "text": "to show how a certain view of language has been discredited."
+            }
+          ],
+          "explanation": "题目：文章作者的写作意图是什么？\n\nA 争论以赞成编写词典和语法书的一种具体方式\n\nB 通过历史实例展示关于语言的不同观点\n\nC 描述口语和书面语的区别\n\nD 展现对于语言的某种看法是饱受怀疑的\n\n首先剔除A、C两个选项。选项A：争论的是编写词典和语法书具体的方式，原文中根本没有论述，只有第四段第二行提到了grammars and dictionaries，但不是作者的意图；选项C：描述口语和书面语的区别，这与原文也没有直接关系。不过有的学生会在第三段看到选项中的spoken language，陈述如下：The variety which is favoured, in this account, is usually a version of the ‘standard’ written language, especially as encountered in literature, or in the formal spoken language which most closely reflects this style. 这里提到的具有更高价值的语言通常指的是“标准\"书面语言，尤其是在文学作品或最能体现这一特点的正式口语中。这里提到的是细节，并不是作者的意图。因此只剩下在选项B、D中推敲。选项D：展现对于语言的某种看法是饱受怀疑的，这不是通篇陈述的内容，构不成作者的写作意图。所以按排除法选出选项B：通过历史实例展示关于语言的不同观点。其实作者写作的主要目的，从最概括文章内容的标题Attitudes to language就能看出来，是关于对语言的各种看法和态度，与选项B十分吻合。故答案是B。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Attitudes to Language</strong></span></p><p>It is not easy to be systematic and objective about language study. Popular linguistic debate regularly deteriorates into invective and polemic. Language belongs to everyone, so most people feel they have a right to hold an opinion about it. And when opinions differ, emotions can run high. Arguments can start as easily over minor points of usage as over major policies of linguistic education.</p><p>Language, moreover, is a very public behavior, so it is easy for different usages to be noted and criticised. No part of society or social behavior is exempt. Linguistic factors influence how we judge personality, intelligence, social status, educational standards, job aptitude, and many other areas of identity and social survival. As a result, it is easy to hurt, and to be hurt, when language use is unfeelingly attacked.</p><p>In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others, and that this ought to be imposed on the whole of the speech community. The view is propounded especially in relation to grammar and vocabulary, and frequently with reference to pronunciation. The variety which is favoured, in this account, is usually a version of the &#x27;standard&#x27; written language, especially as encountered in literature, or in the formal spoken language which most closely reflects this style. Adherents to this variety are said to speak or write &#x27;correctly&#x27;; deviations from it are said to be &#x27;incorrect&#x27;.</p><p>All the main languages have been studied prescriptively, especially in the 18th century approach to the writing of grammars and dictionaries. The aims of these early grammarians were threefold: (a) they wanted to codify the principles of their languages, to show that there was a system beneath the apparent chaos of usage; (b) they wanted a means of settling disputes over usage, and (c) they wanted to point out what they felt to be common errors, in order to &#x27;improve&#x27; the language. The authoritarian nature of the approach is best characterised by its reliance on &#x27;rules&#x27; of grammar. Some usages are &#x27;prescribed&#x27;, to be learnt and followed accurately; others are &#x27;proscribed&#x27;, to be avoided. In this early period, there were no half-measures: usage was either right or wrong, and it was the task of the grammarian not simply to record alternatives, but to pronounce judgment upon them.</p><p>These attitudes are still with us, and they motivate a widespread concern that linguistic standards should be maintained. Nevertheless, there is an alternative point of view that is concerned less with standards than with the facts of linguistic usage. This approach is summarised in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change. In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that &#x27;the custom of speaking is the original and only just standard of any language&#x27;. Linguistic issues, it is argued, cannot be solved by logic and legislation. And this view has become the tenet of the modern linguistic approach to grammatical analysis.</p><p>In our own time, the opposition between &#x27;descriptivists&#x27; and &#x27;prescriptivists&#x27; has often become extreme, with both sides painting unreal pictures of the other. Descriptive grammarians have been presented as people who do not care about standards, because of the way they see all forms of usage as equally valid. Prescriptive grammarians have been presented as blind adherents to a historical tradition. The opposition has even been presented in quasi-political terms—of radical liberalism vs elitist conservatism.</p>"
+}

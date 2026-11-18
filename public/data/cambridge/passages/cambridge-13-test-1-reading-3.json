@@ -1,0 +1,373 @@
+{
+  "id": "cambridge-13-test-1-reading-3",
+  "title": "Artificial artists",
+  "titleCn": "Artificial artists",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 13,
+    "test": 1
+  },
+  "sourceQuestionId": "6670",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6670",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Artificial artists"
+    },
+    {
+      "label": "2",
+      "text": "Can computers really create works of art?"
+    },
+    {
+      "label": "3",
+      "text": "The Painting Fool is one of a growing number of computer programs which, so their makers claim, possess creative talents. Classical music by an artificial composer has had audiences enraptured, and even tricked them into believing a human was behind the score. Artworks painted by a robot have sold for thousands of dollars and been hung in prestigious galleries. And software has been built which creates art that could not have been imagined by the programmer."
+    },
+    {
+      "label": "4",
+      "text": "Human beings are the only species to perform sophisticated creative acts regularly. If we can break this process down into computer code, where does that leave human creativity? 'This is a question at the very core of humanity,' says Geraint Wiggins, a computational creativity researcher at Goldsmiths, University of London. 'It scares a lot of people. They are worried that it is taking something special away from what it means to be human.'"
+    },
+    {
+      "label": "5",
+      "text": "To some extent, we are all familiar with computerised art. The question is: where does the work of the artist stop and the creativity of the computer begin? Consider one of the oldest machine artists, Aaron, a robot that has had paintings exhibited in London's Tate Modern and the San Francisco Museum of Modern Art. Aaron can pick up a paintbrush and paint on canvas on its own. Impressive perhaps, but it is still little more than a tool to realise the programmer's own creative ideas."
+    },
+    {
+      "label": "6",
+      "text": "Simon Colton, the designer of the Painting Fool, is keen to make sure his creation doesn't attract the same criticism. Unlike earlier 'artists'such as Aaron, the Painting Fool only needs minimal direction and can come up with its own concepts by going online for material. The software runs its own web searches and trawls through social media sites. It is now beginning to display a kind of imagination too, creating pictures from scratch. One of its original works is a series of fuzzy landscapes, depicting trees and sky. While some might say they have a mechanical look, Colton argues that such reactions arise from people's double standards towards software-produced and human-produced art. After all, he says, consider that the Painting Fool painted the landscapes without referring to a photo. 'If a child painted a new scene from its head, you'd say it has a certain level of imagination,' he points out. The same should be true of a machine.' Software bugs can also lead to unexpected results. Some of the Painting Fool's paintings of a chair came out in black and white, thanks to a technical glitch. This gives the work an eerie, ghostlike quality. Human artists like the renowned Ellsworth Kelly are lauded for limiting their colour palette - so why should computers be any different?"
+    },
+    {
+      "label": "7",
+      "text": "Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'. Others, though, are fascinated by the prospect that a computer might create something as original and subtle as our best artists. So far, only one has come close. Composer David Cope invented a program called Experiments in Musical Intelligence, or EMI. Not only did EMI create compositions in Cope's style, but also that of the most revered classical composers, including Bach, Chopin and Mozart. Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. Not everyone was impressed however. Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him for his deliberately vague explanation of how the software worked. Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas which still rely completely on the original artist's creative impulses. When audiences found out the truth they were often outraged with Cope, and one music lover even tried to punch him. Amid such controversy, Cope destroyed EMI's vital databases."
+    },
+    {
+      "label": "8",
+      "text": "But why did so many people love the music, yet recoil when they discovered how it was composed? A study by computer scientist David Moffat of Glasgow Caledonian University provides a clue. He asked both expert musicians and non-experts to assess six compositions. The participants weren't told beforehand whether the tunes were composed by humans or computers, but were asked to guess, and then rate how much they liked each one. People who thought the composer was a computer tended to dislike the piece more than those who believed it was human. This was true even among the experts, who might have been expected to be more objective in their analyses."
+    },
+    {
+      "label": "9",
+      "text": "Where does this prejudice come from? Paul Bloom of Yale University has a suggestion: he reckons part of the pleasure we get from art stems from the creative process behind the work. This can give it an 'irresistible essence', says Bloom. Meanwhile, experiments by Justin Kruger of New York University have shown that people's enjoyment of an artwork increases if they think more time and effort was needed to create it. Similarly, Colton thinks that when people experience art, they wonder what the artist might have been thinking or what the artist is trying to tell them. It seems obvious, therefore, that with computers producing art, this speculation is cut short - there's nothing to explore. But as technology becomes increasingly complex, finding those greater depths in computer art could become possible. This is precisely why Colton asks the Painting Fool to tap into online social networks for its inspiration: hopefully this way it will choose themes that will already be meaningful to us."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27-31\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "What is the writer suggesting about computer-produced works in the first paragraph?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6670_260095",
+          "options": [
+            {
+              "value": "A",
+              "text": "People should acceptance of them can vary considerably."
+            },
+            {
+              "value": "B",
+              "text": "A great deal of progress has already been attained in this field."
+            },
+            {
+              "value": "C",
+              "text": "They have had more success in some artistic genres than in others."
+            },
+            {
+              "value": "D",
+              "text": "The advances are not as significant as the public believes them to be."
+            }
+          ],
+          "explanation": "译文：作者在第一段里对电脑创作的作品提出了什么看法？\n\n定位词：first paragraph\n\n第一段篇幅并不长，一共只有四句话，主题也比较统一，都是在说由人工智能创作的音乐和绘画作品已经取得了哪些成就，对应的正确答案正是B项：在这个领域中已经取得了相当多的成就。\n\nA项说“人们对它们的接受度可以有相当大的差别”；C项说“它们在某些艺术类型上取得了比另一些类型上更多的成功”；D项说“这些进步并没有公众所相信的那样巨大”；都是原文中并未提及的信息，没有太大的混淆性。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "According to Geraint Wiggins, why are many people worried by computer art?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6670_488062",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is aesthetically inferior to human art"
+            },
+            {
+              "value": "B",
+              "text": "It may ultimately supersede human art."
+            },
+            {
+              "value": "C",
+              "text": "It undermines a fundamental human quality."
+            },
+            {
+              "value": "D",
+              "text": "It will lead to a deterioration in human ability."
+            }
+          ],
+          "explanation": "译文：按照Geraint Wiggins的说法，为什么有许多人会对电脑艺术感到担忧?\n\n定位词：Geraint Wiggins\n\n对应第二段最后三句：‘This is a question at the very core of humanity,’ says Geraint Wiggins, ... ‘It scares a lot of people. They are worried that it is taking something special away from what it means to be human.’\n\n利用Geraint Wiggins人名大写可以比较快速地按照顺序定位到第二段里。此人一共说了三句话，大意比较一致，都是在说电脑创作挑战了人之所以为人的本质性、核心性地位，对应正确选项为C：它损害了一种基本人性属性。\n\nA项说“它就审美角度而言不如人类艺术”；B项说“它也许最终会超越人类艺术”；D项说“它会导致人类能力的退化”；这些都不是Wiggins表达的意思，可以依次排除。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "What is a key difference between Aaron and the Painting Fool?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6670_197590",
+          "options": [
+            {
+              "value": "A",
+              "text": "its programmer’s background"
+            },
+            {
+              "value": "B",
+              "text": "public response to its work"
+            },
+            {
+              "value": "C",
+              "text": "the source of its subject matter"
+            },
+            {
+              "value": "D",
+              "text": "the technical standard of its output"
+            }
+          ],
+          "explanation": "译文：Aaron与“绘画愚人”之间最关键的差别是什么？\n\n定位词：Aaron, Painting Fool\n\n第四段第二句：Unlike earlier ‘artists’ such as Aaron, the Painting Fool only needs minimal direction and can come up with its own concepts by going online for material.\n\n本题的定位可以根据题干中的两个大写名称找到文章中的相应句子。本题解题难度依然不低，首要原因就在于考生有可能不熟悉subject matter这个词组的意思是“题材，主题\" ；再者，仅根据定位的这一句话，意思其实并不非常明确，考生需结合前文阅读到的文章大意，再对比后文接下来的进一步细节描述，明白Painting Fool与之前各种软件的区别正是在于“并非只是执行创造者的编程指令，而是有了一定的搜索筛选的自主性”这一点，才能准确锁定正确选项为C：其创作主题的来源。\n\nA项说“其编程者的背景”；B项说“公众对其作品的反应”；D项说“其作品的技术标准”；这些内容都未在文章中提及过。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "What point does Simon Colton make in the fourth paragraph?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6670_579353",
+          "options": [
+            {
+              "value": "A",
+              "text": "Software-produced art is often dismissed as childish and simplistic."
+            },
+            {
+              "value": "B",
+              "text": "The same concepts of creativity should not be applied to all forms of art."
+            },
+            {
+              "value": "C",
+              "text": "It is unreasonable to expect a machine to be as imaginative as a human being."
+            },
+            {
+              "value": "D",
+              "text": "People tend to judge computer art and human art according to different criteria."
+            }
+          ],
+          "explanation": "译文：Simon Colton在第四段中提出了什么观点？\n\n定位词：Simon Colton, fourth paragraph\n\n第四段第六、八、九句:..., Colton argues that such reactions arise from people's double standards towards software-produced and human-produced art. ... 'If a child painted a new scene from its head, you'd say it has a certain level of imagination,' he points out. 'he same should be true of a machine.'\n\n本题的难度在于Simon Colton此人在整个第四段里多次发表看法，考生需耐心正确读懂多句话的句意。反复对比四个选项，才能最终找到正确答案为选项D：人们往往会按照不同的标准来评判电脑艺术和人类艺术。\n\nA项说“电脑软件创作的艺术经常被轻视为是孩子气和幼稚的”；B项说“创造性的相同概念不应当被运用在所有艺术形式上”；C项说“期待一台机器像人类那样富于想象力是不合理的”；这些描述中虽然似是而非地提及了几个在第四段中出现过的词汇，但细看其意思都不符合文中Simon Colton的观点表达。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "The writer refers to the paintings of a chair as an example of computer art which",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6670_543526",
+          "options": [
+            {
+              "value": "A",
+              "text": "achieves a particularly striking effect."
+            },
+            {
+              "value": "B",
+              "text": "exhibits a certain level of genuine artistic skill."
+            },
+            {
+              "value": "C",
+              "text": "closely resembles that of a well-known artist."
+            },
+            {
+              "value": "D",
+              "text": "highlights the technical limitations of the software."
+            }
+          ],
+          "explanation": "译文：作者提到了关于一把椅子的绘画作品，是想作为哪种电脑艺术的例子？\n\n定位词：chair\n\n第四段倒数第二、三句话：Some of the Painting Fool's paintings of a chair came out in black and white, thanks to a technical glitch...\n\n要找到chair在原文中的定位并不困难，且前面的两道题也都是定位在同样的第四段里，考生对本段前文的信息有一定了解，可以帮助解题；然而此题选项信息的迷惑性比较大，尤其是C项和D项。考生需仔细对比题干意思和段落信息，逐步排除其他选项。正确答案为A：取得了尤其令人震撼的效果。\n\nB 项说“展示出了一定水平的真正艺术技巧”，这在文中并没有提及，因为电脑的自主性是体现在搜索素材方面而非创作技巧；C项说“与一位著名艺术家的作品非常相似”，由于段中确实也提到了一位著名人类艺术家善于只使用调色板中的少数颜色来进行创作，因此本项的确具有相当大的迷惑性，但仔细阅读对比的话还是能够辨析出，文章里提及这位著名艺术家主要是想为“人们应当对电脑创作和人类创作一视同仁”这个观点作为佐证，二者之间的相似处并不是作者想要强调的“电脑艺术的特点”；D项说“突出显示了软件的技术局限性”，虽然文章中确实提及之所以创作出这组黑白椅子画作是由于软件故障，但这也依然并非是“电脑艺术特征”这个问题的对应答案。"
+        }
+      ],
+      "contextHtml": "<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><em>Questions 27-31 </em></strong></p>\n\n\t\t\t<p><em>Choose the correct answer.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 32-37\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Simon Colton says it is important to consider the long-term view when [32] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6670_453250",
+          "explanation": "题号：32\n\n定位词：Simon Colton, long-time view\n\n对应第五段第一句：Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'.\n\n本题的定位对考生来说有一定困难，原因在于此人在文章的第四和第五段中多次出现，考生需耐心确认到底是哪一句话对应了此处的句首信息。不过，由于之前的选择题已经集中在第四段里出了三个问题，考生已经出于解题需要比较全面地阅读了该段内容，因此继续向第五段寻找Colton的其他看法帮助解题就成为了比较顺理成章的动作。题干问“Simon Colton认为什么时候要考虑长久观点是很重要的”，通过对比选项内容可知，正确答案应为D项：比较人类和电脑的艺术成就时。\n\n题号：33\n\n定位词：David Cope, EMI\n\n对应第五段第六句：Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. 本题的题干问“David Cope的EMI软件是如何令人们吃惊的”。定位基本紧跟上题，又有大写名称辅助，唯一的麻烦在于考生不能仅凭包含David Cope和EMI的一句话就找到答案，而是应该耐心读过三句，才能顺利对比选定正确答案为A项：创造出了与人类艺术实际上真假难分的作品。\n\n题号：34\n\n定位词：Geraint Wiggins, Cope\n\n对应五段第八句：Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him... 本题有两个大写人名帮助定位，且定位到的句子即是出题处，无需向前向后多读其他内容，只需专心读懂定位句即可。题干问“Geraint Wiggins批评Cope没有做什么”，回到原文考生即使不认识blast和condemn这两个与题干criticise形成同义替换关系的动词，也可以借助for这个相同的结构确定答案的出处，对比选项可知正确答案为E项：透露他的程序的技术细节。\n\n题号：35\n\n定位词：Douglas Hofstadter, EMI\n\n对应第五段第九句:Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas... 题干问“Douglas Hofstadter宣称EMI是在做什么”。 本题定位紧跟上题，且也有大写帮助定位，考生只需找到原文句，即使不认识诸如replica这样略显生僻的 词汇，应该也能凭借雅思阅读中高频出现的rely on与 dependent on的同义替换关系，找到正确选项C：创作出的作品要完全依赖其创造者的想象力。\n\n题号：36\n\n定位词：Audiences, EMI, angry\n\n对应第五段第十句：When audiences found out...even tried to punch him. 题干问“听过EMI所创作音乐的观众在什么之后感到了愤怒”。本题的定位不难，考生只需从上题位置继续向后文阅读一句，即可凭借关键词定位到答案相关处；但有趣的是，这句话里的相关信息只是简单提到了found out the truth （发现了真相），却并没有明确说出这个“真相”到底是什么。不过一路读来段落内容其实一直在讲“电脑创作”这个主题，因此仍是不难找到正确答案为G项：发现它是电脑程序的产物。\n\n题号：37\n\n定位词：David Moffat, participants\n\n对应第六段第三、四句：He asked both expert musicians ... then rate how much they liked each one. 题干问“David Moffat研究中的参与者们不得不在没有做什么的情况下去评估音乐”。本题最明显的定位帮助是大写人名，但人名所在的原文句并不包含解题内容，考生需继续向下阅读两句才能确定答案。其中最直接对应答案的第六段第四句略复杂，本句详细解析可以参见前文“佳句赏析”中的第四句。正确答案为B项：知道作品到底是人类还是电脑创作的。",
+          "promptHtml": "Simon Colton says it is important to consider the long-term view when [32] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "David Cope's EMI software surprised people by [33] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6670_235496",
+          "explanation": "题号：32\n\n定位词：Simon Colton, long-time view\n\n对应第五段第一句：Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'.\n\n本题的定位对考生来说有一定困难，原因在于此人在文章的第四和第五段中多次出现，考生需耐心确认到底是哪一句话对应了此处的句首信息。不过，由于之前的选择题已经集中在第四段里出了三个问题，考生已经出于解题需要比较全面地阅读了该段内容，因此继续向第五段寻找Colton的其他看法帮助解题就成为了比较顺理成章的动作。题干问“Simon Colton认为什么时候要考虑长久观点是很重要的”，通过对比选项内容可知，正确答案应为D项：比较人类和电脑的艺术成就时。\n\n题号：33\n\n定位词：David Cope, EMI\n\n对应第五段第六句：Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. 本题的题干问“David Cope的EMI软件是如何令人们吃惊的”。定位基本紧跟上题，又有大写名称辅助，唯一的麻烦在于考生不能仅凭包含David Cope和EMI的一句话就找到答案，而是应该耐心读过三句，才能顺利对比选定正确答案为A项：创造出了与人类艺术实际上真假难分的作品。\n\n题号：34\n\n定位词：Geraint Wiggins, Cope\n\n对应五段第八句：Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him... 本题有两个大写人名帮助定位，且定位到的句子即是出题处，无需向前向后多读其他内容，只需专心读懂定位句即可。题干问“Geraint Wiggins批评Cope没有做什么”，回到原文考生即使不认识blast和condemn这两个与题干criticise形成同义替换关系的动词，也可以借助for这个相同的结构确定答案的出处，对比选项可知正确答案为E项：透露他的程序的技术细节。\n\n题号：35\n\n定位词：Douglas Hofstadter, EMI\n\n对应第五段第九句:Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas... 题干问“Douglas Hofstadter宣称EMI是在做什么”。 本题定位紧跟上题，且也有大写帮助定位，考生只需找到原文句，即使不认识诸如replica这样略显生僻的 词汇，应该也能凭借雅思阅读中高频出现的rely on与 dependent on的同义替换关系，找到正确选项C：创作出的作品要完全依赖其创造者的想象力。\n\n题号：36\n\n定位词：Audiences, EMI, angry\n\n对应第五段第十句：When audiences found out...even tried to punch him. 题干问“听过EMI所创作音乐的观众在什么之后感到了愤怒”。本题的定位不难，考生只需从上题位置继续向后文阅读一句，即可凭借关键词定位到答案相关处；但有趣的是，这句话里的相关信息只是简单提到了found out the truth （发现了真相），却并没有明确说出这个“真相”到底是什么。不过一路读来段落内容其实一直在讲“电脑创作”这个主题，因此仍是不难找到正确答案为G项：发现它是电脑程序的产物。\n\n题号：37\n\n定位词：David Moffat, participants\n\n对应第六段第三、四句：He asked both expert musicians ... then rate how much they liked each one. 题干问“David Moffat研究中的参与者们不得不在没有做什么的情况下去评估音乐”。本题最明显的定位帮助是大写人名，但人名所在的原文句并不包含解题内容，考生需继续向下阅读两句才能确定答案。其中最直接对应答案的第六段第四句略复杂，本句详细解析可以参见前文“佳句赏析”中的第四句。正确答案为B项：知道作品到底是人类还是电脑创作的。",
+          "promptHtml": "David Cope&#x27;s EMI software surprised people by [33] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Geraint Wiggins criticised Cope for not [34] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6670_338497",
+          "explanation": "题号：32\n\n定位词：Simon Colton, long-time view\n\n对应第五段第一句：Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'.\n\n本题的定位对考生来说有一定困难，原因在于此人在文章的第四和第五段中多次出现，考生需耐心确认到底是哪一句话对应了此处的句首信息。不过，由于之前的选择题已经集中在第四段里出了三个问题，考生已经出于解题需要比较全面地阅读了该段内容，因此继续向第五段寻找Colton的其他看法帮助解题就成为了比较顺理成章的动作。题干问“Simon Colton认为什么时候要考虑长久观点是很重要的”，通过对比选项内容可知，正确答案应为D项：比较人类和电脑的艺术成就时。\n\n题号：33\n\n定位词：David Cope, EMI\n\n对应第五段第六句：Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. 本题的题干问“David Cope的EMI软件是如何令人们吃惊的”。定位基本紧跟上题，又有大写名称辅助，唯一的麻烦在于考生不能仅凭包含David Cope和EMI的一句话就找到答案，而是应该耐心读过三句，才能顺利对比选定正确答案为A项：创造出了与人类艺术实际上真假难分的作品。\n\n题号：34\n\n定位词：Geraint Wiggins, Cope\n\n对应五段第八句：Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him... 本题有两个大写人名帮助定位，且定位到的句子即是出题处，无需向前向后多读其他内容，只需专心读懂定位句即可。题干问“Geraint Wiggins批评Cope没有做什么”，回到原文考生即使不认识blast和condemn这两个与题干criticise形成同义替换关系的动词，也可以借助for这个相同的结构确定答案的出处，对比选项可知正确答案为E项：透露他的程序的技术细节。\n\n题号：35\n\n定位词：Douglas Hofstadter, EMI\n\n对应第五段第九句:Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas... 题干问“Douglas Hofstadter宣称EMI是在做什么”。 本题定位紧跟上题，且也有大写帮助定位，考生只需找到原文句，即使不认识诸如replica这样略显生僻的 词汇，应该也能凭借雅思阅读中高频出现的rely on与 dependent on的同义替换关系，找到正确选项C：创作出的作品要完全依赖其创造者的想象力。\n\n题号：36\n\n定位词：Audiences, EMI, angry\n\n对应第五段第十句：When audiences found out...even tried to punch him. 题干问“听过EMI所创作音乐的观众在什么之后感到了愤怒”。本题的定位不难，考生只需从上题位置继续向后文阅读一句，即可凭借关键词定位到答案相关处；但有趣的是，这句话里的相关信息只是简单提到了found out the truth （发现了真相），却并没有明确说出这个“真相”到底是什么。不过一路读来段落内容其实一直在讲“电脑创作”这个主题，因此仍是不难找到正确答案为G项：发现它是电脑程序的产物。\n\n题号：37\n\n定位词：David Moffat, participants\n\n对应第六段第三、四句：He asked both expert musicians ... then rate how much they liked each one. 题干问“David Moffat研究中的参与者们不得不在没有做什么的情况下去评估音乐”。本题最明显的定位帮助是大写人名，但人名所在的原文句并不包含解题内容，考生需继续向下阅读两句才能确定答案。其中最直接对应答案的第六段第四句略复杂，本句详细解析可以参见前文“佳句赏析”中的第四句。正确答案为B项：知道作品到底是人类还是电脑创作的。",
+          "promptHtml": "Geraint Wiggins criticised Cope for not [34] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Douglas Hofstadter claimed that EMI was [35] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6670_207429",
+          "explanation": "题号：32\n\n定位词：Simon Colton, long-time view\n\n对应第五段第一句：Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'.\n\n本题的定位对考生来说有一定困难，原因在于此人在文章的第四和第五段中多次出现，考生需耐心确认到底是哪一句话对应了此处的句首信息。不过，由于之前的选择题已经集中在第四段里出了三个问题，考生已经出于解题需要比较全面地阅读了该段内容，因此继续向第五段寻找Colton的其他看法帮助解题就成为了比较顺理成章的动作。题干问“Simon Colton认为什么时候要考虑长久观点是很重要的”，通过对比选项内容可知，正确答案应为D项：比较人类和电脑的艺术成就时。\n\n题号：33\n\n定位词：David Cope, EMI\n\n对应第五段第六句：Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. 本题的题干问“David Cope的EMI软件是如何令人们吃惊的”。定位基本紧跟上题，又有大写名称辅助，唯一的麻烦在于考生不能仅凭包含David Cope和EMI的一句话就找到答案，而是应该耐心读过三句，才能顺利对比选定正确答案为A项：创造出了与人类艺术实际上真假难分的作品。\n\n题号：34\n\n定位词：Geraint Wiggins, Cope\n\n对应五段第八句：Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him... 本题有两个大写人名帮助定位，且定位到的句子即是出题处，无需向前向后多读其他内容，只需专心读懂定位句即可。题干问“Geraint Wiggins批评Cope没有做什么”，回到原文考生即使不认识blast和condemn这两个与题干criticise形成同义替换关系的动词，也可以借助for这个相同的结构确定答案的出处，对比选项可知正确答案为E项：透露他的程序的技术细节。\n\n题号：35\n\n定位词：Douglas Hofstadter, EMI\n\n对应第五段第九句:Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas... 题干问“Douglas Hofstadter宣称EMI是在做什么”。 本题定位紧跟上题，且也有大写帮助定位，考生只需找到原文句，即使不认识诸如replica这样略显生僻的 词汇，应该也能凭借雅思阅读中高频出现的rely on与 dependent on的同义替换关系，找到正确选项C：创作出的作品要完全依赖其创造者的想象力。\n\n题号：36\n\n定位词：Audiences, EMI, angry\n\n对应第五段第十句：When audiences found out...even tried to punch him. 题干问“听过EMI所创作音乐的观众在什么之后感到了愤怒”。本题的定位不难，考生只需从上题位置继续向后文阅读一句，即可凭借关键词定位到答案相关处；但有趣的是，这句话里的相关信息只是简单提到了found out the truth （发现了真相），却并没有明确说出这个“真相”到底是什么。不过一路读来段落内容其实一直在讲“电脑创作”这个主题，因此仍是不难找到正确答案为G项：发现它是电脑程序的产物。\n\n题号：37\n\n定位词：David Moffat, participants\n\n对应第六段第三、四句：He asked both expert musicians ... then rate how much they liked each one. 题干问“David Moffat研究中的参与者们不得不在没有做什么的情况下去评估音乐”。本题最明显的定位帮助是大写人名，但人名所在的原文句并不包含解题内容，考生需继续向下阅读两句才能确定答案。其中最直接对应答案的第六段第四句略复杂，本句详细解析可以参见前文“佳句赏析”中的第四句。正确答案为B项：知道作品到底是人类还是电脑创作的。",
+          "promptHtml": "Douglas Hofstadter claimed that EMI was [35] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Audiences who had listened to EMI's music became angry after [36] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6670_978941",
+          "explanation": "题号：32\n\n定位词：Simon Colton, long-time view\n\n对应第五段第一句：Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'.\n\n本题的定位对考生来说有一定困难，原因在于此人在文章的第四和第五段中多次出现，考生需耐心确认到底是哪一句话对应了此处的句首信息。不过，由于之前的选择题已经集中在第四段里出了三个问题，考生已经出于解题需要比较全面地阅读了该段内容，因此继续向第五段寻找Colton的其他看法帮助解题就成为了比较顺理成章的动作。题干问“Simon Colton认为什么时候要考虑长久观点是很重要的”，通过对比选项内容可知，正确答案应为D项：比较人类和电脑的艺术成就时。\n\n题号：33\n\n定位词：David Cope, EMI\n\n对应第五段第六句：Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. 本题的题干问“David Cope的EMI软件是如何令人们吃惊的”。定位基本紧跟上题，又有大写名称辅助，唯一的麻烦在于考生不能仅凭包含David Cope和EMI的一句话就找到答案，而是应该耐心读过三句，才能顺利对比选定正确答案为A项：创造出了与人类艺术实际上真假难分的作品。\n\n题号：34\n\n定位词：Geraint Wiggins, Cope\n\n对应五段第八句：Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him... 本题有两个大写人名帮助定位，且定位到的句子即是出题处，无需向前向后多读其他内容，只需专心读懂定位句即可。题干问“Geraint Wiggins批评Cope没有做什么”，回到原文考生即使不认识blast和condemn这两个与题干criticise形成同义替换关系的动词，也可以借助for这个相同的结构确定答案的出处，对比选项可知正确答案为E项：透露他的程序的技术细节。\n\n题号：35\n\n定位词：Douglas Hofstadter, EMI\n\n对应第五段第九句:Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas... 题干问“Douglas Hofstadter宣称EMI是在做什么”。 本题定位紧跟上题，且也有大写帮助定位，考生只需找到原文句，即使不认识诸如replica这样略显生僻的 词汇，应该也能凭借雅思阅读中高频出现的rely on与 dependent on的同义替换关系，找到正确选项C：创作出的作品要完全依赖其创造者的想象力。\n\n题号：36\n\n定位词：Audiences, EMI, angry\n\n对应第五段第十句：When audiences found out...even tried to punch him. 题干问“听过EMI所创作音乐的观众在什么之后感到了愤怒”。本题的定位不难，考生只需从上题位置继续向后文阅读一句，即可凭借关键词定位到答案相关处；但有趣的是，这句话里的相关信息只是简单提到了found out the truth （发现了真相），却并没有明确说出这个“真相”到底是什么。不过一路读来段落内容其实一直在讲“电脑创作”这个主题，因此仍是不难找到正确答案为G项：发现它是电脑程序的产物。\n\n题号：37\n\n定位词：David Moffat, participants\n\n对应第六段第三、四句：He asked both expert musicians ... then rate how much they liked each one. 题干问“David Moffat研究中的参与者们不得不在没有做什么的情况下去评估音乐”。本题最明显的定位帮助是大写人名，但人名所在的原文句并不包含解题内容，考生需继续向下阅读两句才能确定答案。其中最直接对应答案的第六段第四句略复杂，本句详细解析可以参见前文“佳句赏析”中的第四句。正确答案为B项：知道作品到底是人类还是电脑创作的。",
+          "promptHtml": "Audiences who had listened to EMI&#x27;s music became angry after [36] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "The participants in David Moffat's study had to assess music without [37] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6670_224718",
+          "explanation": "题号：32\n\n定位词：Simon Colton, long-time view\n\n对应第五段第一句：Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'.\n\n本题的定位对考生来说有一定困难，原因在于此人在文章的第四和第五段中多次出现，考生需耐心确认到底是哪一句话对应了此处的句首信息。不过，由于之前的选择题已经集中在第四段里出了三个问题，考生已经出于解题需要比较全面地阅读了该段内容，因此继续向第五段寻找Colton的其他看法帮助解题就成为了比较顺理成章的动作。题干问“Simon Colton认为什么时候要考虑长久观点是很重要的”，通过对比选项内容可知，正确答案应为D项：比较人类和电脑的艺术成就时。\n\n题号：33\n\n定位词：David Cope, EMI\n\n对应第五段第六句：Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. 本题的题干问“David Cope的EMI软件是如何令人们吃惊的”。定位基本紧跟上题，又有大写名称辅助，唯一的麻烦在于考生不能仅凭包含David Cope和EMI的一句话就找到答案，而是应该耐心读过三句，才能顺利对比选定正确答案为A项：创造出了与人类艺术实际上真假难分的作品。\n\n题号：34\n\n定位词：Geraint Wiggins, Cope\n\n对应五段第八句：Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him... 本题有两个大写人名帮助定位，且定位到的句子即是出题处，无需向前向后多读其他内容，只需专心读懂定位句即可。题干问“Geraint Wiggins批评Cope没有做什么”，回到原文考生即使不认识blast和condemn这两个与题干criticise形成同义替换关系的动词，也可以借助for这个相同的结构确定答案的出处，对比选项可知正确答案为E项：透露他的程序的技术细节。\n\n题号：35\n\n定位词：Douglas Hofstadter, EMI\n\n对应第五段第九句:Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas... 题干问“Douglas Hofstadter宣称EMI是在做什么”。 本题定位紧跟上题，且也有大写帮助定位，考生只需找到原文句，即使不认识诸如replica这样略显生僻的 词汇，应该也能凭借雅思阅读中高频出现的rely on与 dependent on的同义替换关系，找到正确选项C：创作出的作品要完全依赖其创造者的想象力。\n\n题号：36\n\n定位词：Audiences, EMI, angry\n\n对应第五段第十句：When audiences found out...even tried to punch him. 题干问“听过EMI所创作音乐的观众在什么之后感到了愤怒”。本题的定位不难，考生只需从上题位置继续向后文阅读一句，即可凭借关键词定位到答案相关处；但有趣的是，这句话里的相关信息只是简单提到了found out the truth （发现了真相），却并没有明确说出这个“真相”到底是什么。不过一路读来段落内容其实一直在讲“电脑创作”这个主题，因此仍是不难找到正确答案为G项：发现它是电脑程序的产物。\n\n题号：37\n\n定位词：David Moffat, participants\n\n对应第六段第三、四句：He asked both expert musicians ... then rate how much they liked each one. 题干问“David Moffat研究中的参与者们不得不在没有做什么的情况下去评估音乐”。本题最明显的定位帮助是大写人名，但人名所在的原文句并不包含解题内容，考生需继续向下阅读两句才能确定答案。其中最直接对应答案的第六段第四句略复杂，本句详细解析可以参见前文“佳句赏析”中的第四句。正确答案为B项：知道作品到底是人类还是电脑创作的。",
+          "promptHtml": "The participants in David Moffat&#x27;s study had to assess music without [37] ______"
+        }
+      ],
+      "contextHtml": "<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><em>Questions 32-37</em></strong></p>\n\n\t\t\t<p><em>Choose the correct answer and move it into the gap.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<p> Simon Colton says it is important to consider the long-term view when <strong>[32] ______</strong> </p>\n\n<p> David Cope&#x27;s EMI software surprised people by <strong>[33] ______</strong> </p>\n\n<p> Geraint Wiggins criticised Cope for not <strong>[34] ______</strong> </p>\n\n<p> Douglas Hofstadter claimed that EMI was <strong>[35] ______</strong> </p>\n\n<p> Audiences who had listened to EMI&#x27;s music became angry after <strong>[36] ______</strong> </p>\n\n<p> The participants in David Moffat&#x27;s study had to assess music without <strong>[37] ______</strong> </p>\n\n<p></p>\n",
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "generating work that was virtually indistinguishable from that of humans."
+        },
+        {
+          "value": "B",
+          "text": "knowing whether it was the work of humans or software."
+        },
+        {
+          "value": "C",
+          "text": "producing work entirely dependent on the imagination of its creator."
+        },
+        {
+          "value": "D",
+          "text": "comparing the artistic achievements of humans and computers."
+        },
+        {
+          "value": "E",
+          "text": "revealing the technical details of his program."
+        },
+        {
+          "value": "F",
+          "text": "persuading the public to appreciate computer art."
+        },
+        {
+          "value": "G",
+          "text": "discovering that it was the product of a computer program."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "instruction": "Questions 38-40\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Moffat's research may help explain people's reactions to EMI.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6670_175571",
+          "explanation": "译文: Moffat的研究也许有助于解释人们对EMI的反应。\n\n定位词：Moffat, EMI\n\n对应第六段第一、二句：But why did so many... recoil when they discovered how it was composed? A study...provides a clue.\n\n本题有人名大写帮助定位，虽然包含Moffat本身的句子并没有直接提及EMI，但内容直接与前一段对EMI的描述相关，对于做完了上一个句子匹配题的考生来说，不难得出正确答案为YES。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "The non-experts in Moffat's study all responded in a predictable way.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6670_863964",
+          "explanation": "译文： Moffat研究中的非专业人士全都做出了预料之中的反应。\n\n定位词：non-experts, Moffat, predictable\n\n本题对应第六段与，上一道题共用同样的大写人名定位，不难寻找。但考生需比较耐心地看懂接下来的几个句子，了解到在此实验中，无论专家还是门外汉都做出了类似的反应，而人们却本来期待专业人士会给出更为客观的判断评估的。在这个描述内容中，始终没有提及过是否对非专业人员的反应做出过预期，由此可得正确答案为NOT GIVEN。"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Justin Kruger's findings cast doubt on Paul Bloom's theory about people's prejudice towards computer art.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6670_900284",
+          "explanation": "译文: Justin Kruger的发现对Paul Bloom关于人们对待电脑艺术存在偏见的理论提出了质疑。\n\n定位词：Justin Kruger, Paul Bloom 第七段第二、四句：\n\nPaul Bloom...reckons part of the pleasure we get from art stems from the creative process behind the work. ...Meanwhile, experiments by Justin Kruger of New York University have shown that people's enjoyment of an artwork increases if they think more time and effort was needed to create it.\n\n本题中的两个人名位于同一段的前后位置，虽然文中并未直接提及这两人的观点到底是一致还是彼此矛盾冲突的，但考生在认真看过两人的观点表达后，不难看出两人提出的理论大同小异，是互相支持赞同的关系，这与题干信息相抵触，因此可得出正确答案为NO。"
+        }
+      ],
+      "contextHtml": "<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><em>Questions 38-40</em></strong></p>\n\n\t\t\t<p><em>Choose <strong>YES</strong> if the statement agrees with the claims of the writer, </em></p>\n\n\t\t\t<p><em>choose <strong>NO</strong> if the statement contradicts the claims of the writer, </em></p>\n\n\t\t\t<p><em>or choose <strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Artificial artists</strong></span></p><p><em>Can computers really create works of art?</em></p><p>The Painting Fool is one of a growing number of computer programs which, so their makers claim, possess creative talents. Classical music by an artificial composer has had audiences enraptured, and even tricked them into believing a human was behind the score. Artworks painted by a robot have sold for thousands of dollars and been hung in prestigious galleries. And software has been built which creates art that could not have been imagined by the programmer.</p><p>Human beings are the only species to perform sophisticated creative acts regularly. If we can break this process down into computer code, where does that leave human creativity? &#x27;This is a question at the very core of humanity,&#x27; says Geraint Wiggins, a computational creativity researcher at Goldsmiths, University of London. &#x27;It scares a lot of people. They are worried that it is taking something special away from what it means to be human.&#x27;</p><p>To some extent, we are all familiar with computerised art. The question is: where does the work of the artist stop and the creativity of the computer begin? Consider one of the oldest machine artists, Aaron, a robot that has had paintings exhibited in London&#x27;s Tate Modern and the San Francisco Museum of Modern Art. Aaron can pick up a paintbrush and paint on canvas on its own. Impressive perhaps, but it is still little more than a tool to realise the programmer&#x27;s own creative ideas.</p><p>Simon Colton, the designer of the Painting Fool, is keen to make sure his creation doesn&#x27;t attract the same criticism. Unlike earlier &#x27;artists&#x27;such as Aaron, the Painting Fool only needs minimal direction and can come up with its own concepts by going online for material. The software runs its own web searches and trawls through social media sites. It is now beginning to display a kind of imagination too, creating pictures from scratch. One of its original works is a series of fuzzy landscapes, depicting trees and sky. While some might say they have a mechanical look, Colton argues that such reactions arise from people&#x27;s double standards towards software-produced and human-produced art. After all, he says, consider that the Painting Fool painted the landscapes without referring to a photo. &#x27;If a child painted a new scene from its head, you&#x27;d say it has a certain level of imagination,&#x27; he points out. The same should be true of a machine.&#x27; Software bugs can also lead to unexpected results. Some of the Painting Fool&#x27;s paintings of a chair came out in black and white, thanks to a technical glitch. This gives the work an eerie, ghostlike quality. Human artists like the renowned Ellsworth Kelly are lauded for limiting their colour palette - so why should computers be any different?</p><p>Researchers like Colton don&#x27;t believe it is right to measure machine creativity directly to that of humans who &#x27;have had millennia to develop our skills&#x27;. Others, though, are fascinated by the prospect that a computer might create something as original and subtle as our best artists. So far, only one has come close. Composer David Cope invented a program called Experiments in Musical Intelligence, or EMI. Not only did EMI create compositions in Cope&#x27;s style, but also that of the most revered classical composers, including Bach, Chopin and Mozart. Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. Not everyone was impressed however. Some, such as Wiggins, have blasted Cope&#x27;s work as pseudoscience, and condemned him for his deliberately vague explanation of how the software worked. Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas which still rely completely on the original artist&#x27;s creative impulses. When audiences found out the truth they were often outraged with Cope, and one music lover even tried to punch him. Amid such controversy, Cope destroyed EMI&#x27;s vital databases.</p><p>But why did so many people love the music, yet recoil when they discovered how it was composed? A study by computer scientist David Moffat of Glasgow Caledonian University provides a clue. He asked both expert musicians and non-experts to assess six compositions. The participants weren&#x27;t told beforehand whether the tunes were composed by humans or computers, but were asked to guess, and then rate how much they liked each one. People who thought the composer was a computer tended to dislike the piece more than those who believed it was human. This was true even among the experts, who might have been expected to be more objective in their analyses.</p><p>Where does this prejudice come from? Paul Bloom of Yale University has a suggestion: he reckons part of the pleasure we get from art stems from the creative process behind the work. This can give it an &#x27;irresistible essence&#x27;, says Bloom. Meanwhile, experiments by Justin Kruger of New York University have shown that people&#x27;s enjoyment of an artwork increases if they think more time and effort was needed to create it. Similarly, Colton thinks that when people experience art, they wonder what the artist might have been thinking or what the artist is trying to tell them. It seems obvious, therefore, that with computers producing art, this speculation is cut short - there&#x27;s nothing to explore. But as technology becomes increasingly complex, finding those greater depths in computer art could become possible. This is precisely why Colton asks the Painting Fool to tap into online social networks for its inspiration: hopefully this way it will choose themes that will already be meaningful to us.</p>"
+}

@@ -1,0 +1,468 @@
+{
+  "id": "08108dca-cc5f-4af7-909b-2cca7770f4f6",
+  "title": "International week celebration",
+  "titleCn": "国际周庆祝活动：小镇年度国际文化节",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/08108dca-cc5f-4af7-909b-2cca7770f4f6",
+  "duration": 407,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:02,720"
+    },
+    {
+      "label": "2",
+      "text": "Next week is our town's International Week, which has been going on annually for several years. Today, we have George Johnson, the organizer of International Week, to talk about it. George, how did it all begin?"
+    },
+    {
+      "label": "3",
+      "text": "00:00:18,740"
+    },
+    {
+      "label": "4",
+      "text": "Well, I was with a group of businessmen in town one February day five years ago, and we were discussing what we could do for livening things up in August when the weather's good and the kids are out of school till September. And someone said, \"Hey, we've got people from all over the world living here. Let's have an international celebration and get people to show off things about their home country.\" And we all agreed. The first year, the celebration lasted just one day, and it featured three countries. It was a great success and was written about in our local newspaper. And so the next year, even though it cost more, the organizers expanded it to an international week, and so many people were eager to feature their countries. On each of the first six days of the week, one country is designated to star, and then on the seventh day, weather permitting, we have a street party near the town hall with music provided by the radio station and food and games. Everyone has a ball. Of course, we move it to the school gym if it rains like last year, but nobody minds. Our year starts in January when we ask for applications. To apply to have a day for their country, people don't need to belong to a particular country association. They can just be a group who identify themselves with a particular country. They submit a formal plan to us. They don't need to worry at this stage about funding, but some grants are available. The organizing committee has to select the ones with the best ideas. The organizing committee arranges for places for the country to do whatever they want. Unfortunately, for large outdoor activities, we aren't allowed to use the local stadium because they've got other commitments, but the community center lets us use its parking lot. The hall is kind of small, but it has been kind enough to permit us to make use of its classrooms."
+    },
+    {
+      "label": "5",
+      "text": "00:02:33,800"
+    },
+    {
+      "label": "6",
+      "text": "Local people have been very generous. A lot of business people let us have things like tables and amplifiers for the week. The organizing committee handles all the administration, and the town library has been great about featuring books about the countries."
+    },
+    {
+      "label": "7",
+      "text": "00:02:51,960"
+    },
+    {
+      "label": "8",
+      "text": "Before you hear the rest of the program, you have some time to look at questions seventeen to twenty."
+    },
+    {
+      "label": "9",
+      "text": "00:02:59,560"
+    },
+    {
+      "label": "10",
+      "text": "Now, for each country's day, we ask them to have one special event like a show or exhibition or demonstration. For example, some people could show how they make traditional handicrafts, or it might just be an exhibition, say, photographs of the country."
+    },
+    {
+      "label": "11",
+      "text": "00:03:17,980"
+    },
+    {
+      "label": "12",
+      "text": "Interesting. Now [beeping], what are the special events this year?"
+    },
+    {
+      "label": "13",
+      "text": "00:03:22,760"
+    },
+    {
+      "label": "14",
+      "text": "Fantastic things. [beeping] Monday is Mexico Day, and these ladies and gentlemen are going to put on a show that's hotter than those chili peppers they're famous for eating. They'll be singing and playing songs, and those drums will make you want to get up and move around. Then Tuesday is South Africa Day, and they've got an exhibition of dresses and robes used in traditional ceremonies and dances, and they are magnificent. Apparently, some of them are worth more than their weight in gold. Next, Wednesday is Indonesia Day. They have an exhibition where you'll definitely get your money's worth. Two ladies will put on their chef's hat to demonstrate how they prepare those dishes and sauces they're famous for. Let's see. That brings us to Thursday, Canada Day. We think of them as fit outdoorsmen and ice hockey players, but they've arranged to have some of their countrymen show us how they use just a knife and blocks of wood from Native American trees to make absolutely lovely statues of birds and bears and other animals famous in local legends. So next is Friday, Italy Day."
+    },
+    {
+      "label": "15",
+      "text": "00:04:40,460"
+    },
+    {
+      "label": "16",
+      "text": "That is the end of section two. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-16**\nChoose the correct answer **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "22059e2e-ccb7-4e38-8212-9348ef1cac83",
+          "prompt": "**11** The businessmen think it is a good idea to hold the international week in",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "August",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Well, I was with a group of businessmen in town one February day five years ago, and we were discussing what we could do for livening things up in August when the weather's good and the kids are out of school till September. And someone said, \"Hey, we've got people from all over the world living here. Let's have an international celebration and get people to show off things about their home country.\" And we all agreed"
+          },
+          "keywordPairs": [
+            {
+              "question": "think it is a good idea",
+              "article": "And we all agreed"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "February"
+            },
+            {
+              "value": "B",
+              "text": "August"
+            },
+            {
+              "value": "C",
+              "text": "September"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "b57924bf-6924-4ab4-99a4-740adb1ac084",
+          "prompt": "**12** Why did they change the celebration from one day to a week?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "people would like to show off their countries",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The first year, the celebration lasted just one day;It was a great success;And so the next year, even though it cost more, the organizers expanded it to an international week, and so many people were eager to feature their countries"
+          },
+          "keywordPairs": [
+            {
+              "question": "change",
+              "article": "expanded"
+            },
+            {
+              "question": "show off",
+              "article": "eager to feature"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "it was reported by the media"
+            },
+            {
+              "value": "B",
+              "text": "they want to raise additional money"
+            },
+            {
+              "value": "C",
+              "text": "people would like to show off their countries"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "652cdd4a-e7c8-4615-b707-fd6de1cb6e34",
+          "prompt": "**13** In bad weather, where did they hold the activity last time?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "school gym",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Of course, we move it to the school gym if it rains like last year, but nobody minds"
+          },
+          "keywordPairs": [
+            {
+              "question": "bad weather",
+              "article": "rains"
+            },
+            {
+              "question": "last time",
+              "article": "last year"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "school gym"
+            },
+            {
+              "value": "B",
+              "text": "radio station"
+            },
+            {
+              "value": "C",
+              "text": "town hall"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "5adb9557-6bb8-4b29-aa16-731cf855ced8",
+          "prompt": "**14** In order to apply for the celebration, people should",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "provide a good proposal",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To apply to have a day for their country, people don't need to belong to a particular country association;They submit a formal plan to us;The organizing committee has to select the ones with the best ideas"
+          },
+          "keywordPairs": [
+            {
+              "question": "provide a good proposal",
+              "article": "submit a formal plan"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "provide a good proposal"
+            },
+            {
+              "value": "B",
+              "text": "be a member of a country"
+            },
+            {
+              "value": "C",
+              "text": "pay a small application fee"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "7abb6a14-4b44-46ae-bcd9-7a2da4e6d863",
+          "prompt": "**15** Where do they hold big outdoor activities?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "parking lot",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Unfortunately, for large outdoor activities, we aren't allowed to use the local stadium because they've got other commitments, but the community center lets us use its parking lot"
+          },
+          "keywordPairs": [
+            {
+              "question": "big",
+              "article": "large"
+            },
+            {
+              "question": "hold",
+              "article": "use"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "community center"
+            },
+            {
+              "value": "B",
+              "text": "local stadium"
+            },
+            {
+              "value": "C",
+              "text": "parking lot"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "cf005103-ca7d-4f1f-9706-ad5b10283f84",
+          "prompt": "**16** What do the businessmen provide to the international week?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "furniture and equipment",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Local people have been very generous. A lot of business people let us have things like tables and amplifiers for the week"
+          },
+          "keywordPairs": [
+            {
+              "question": "provide",
+              "article": "let"
+            },
+            {
+              "question": "furniture and equipment",
+              "article": "tables and amplifiers"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16",
+          "options": [
+            {
+              "value": "A",
+              "text": "pay for the cost of the administration"
+            },
+            {
+              "value": "B",
+              "text": "furniture and equipment"
+            },
+            {
+              "value": "C",
+              "text": "books of different countries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 17-20**\nChoose the correct letter from **A-G**.\nWhat features do the following countries have?\n\n**Countries**",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "ab1bc115-dbd3-4cee-99ad-e03471daffe8",
+          "prompt": "Mexico",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "music",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Monday is Mexico Day, and these ladies and gentlemen are going to put on a show that's hotter than those chili peppers they're famous for eating. They'll be singing and playing songs, and those drums will make you want to get up and move around"
+          },
+          "keywordPairs": [
+            {
+              "question": "music",
+              "article": "singing and playing songs"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "11e1cecf-6b27-4744-ac5c-ae599c2d4082",
+          "prompt": "South Africa",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "costumes",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Then Tuesday is South Africa Day, and they've got an exhibition of dresses and robes used in traditional ceremonies and dances, and they are magnificent"
+          },
+          "keywordPairs": [
+            {
+              "question": "costumes",
+              "article": "traditional ceremonies and dances"
+            },
+            {
+              "question": "features",
+              "article": "got an exhibition of"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "995a8950-0501-43aa-a3a0-00753ff85f35",
+          "prompt": "Indonesia",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "cookery",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Next, Wednesday is Indonesia Day. They have an exhibition where you'll definitely get your money's worth. Two ladies will put on their chef's hat to demonstrate how they prepare those dishes and sauces they're famous for"
+          },
+          "keywordPairs": [
+            {
+              "question": "cookery",
+              "article": "prepare those dishes and sauces"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "2bd62e9c-3ed4-4358-8ca8-7ae55108bfbd",
+          "prompt": "Canada",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "wood carving",
+          "evidence": {
+            "paragraph": "",
+            "quote": "That brings us to Thursday, Canada Day;but they've arranged to have some of their countrymen show us how they use just a knife and blocks of wood from Native American trees to make absolutely lovely statues of birds and bears and other animals famous in local legends"
+          },
+          "keywordPairs": [
+            {
+              "question": "wood carving",
+              "article": "use just a knife and blocks of wood from Native American trees to make"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "music"
+        },
+        {
+          "value": "B",
+          "text": "dance"
+        },
+        {
+          "value": "C",
+          "text": "wood carving"
+        },
+        {
+          "value": "D",
+          "text": "sports"
+        },
+        {
+          "value": "E",
+          "text": "cookery"
+        },
+        {
+          "value": "F",
+          "text": "costumes"
+        },
+        {
+          "value": "G",
+          "text": "photos"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "配对题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:02,720</p><p>Next week is our town's International Week, which has been going on annually for several years. Today, we have George Johnson, the organizer of International Week, to talk about it. George, how did it all begin? </p><p>00:00:18,740</p><p>Well, I was with a group of businessmen in town one February day five years ago, and we were discussing what we could do for livening things up in August when the weather's good and the kids are out of school till September. And someone said, \"Hey, we've got people from all over the world living here. Let's have an international celebration and get people to show off things about their home country.\" And we all agreed. The first year, the celebration lasted just one day, and it featured three countries. It was a great success and was written about in our local newspaper. And so the next year, even though it cost more, the organizers expanded it to an international week, and so many people were eager to feature their countries. On each of the first six days of the week, one country is designated to star, and then on the seventh day, weather permitting, we have a street party near the town hall with music provided by the radio station and food and games. Everyone has a ball. Of course, we move it to the school gym if it rains like last year, but nobody minds. Our year starts in January when we ask for applications. To apply to have a day for their country, people don't need to belong to a particular country association. They can just be a group who identify themselves with a particular country. They submit a formal plan to us. They don't need to worry at this stage about funding, but some grants are available. The organizing committee has to select the ones with the best ideas. The organizing committee arranges for places for the country to do whatever they want. Unfortunately, for large outdoor activities, we aren't allowed to use the local stadium because they've got other commitments, but the community center lets us use its parking lot. The hall is kind of small, but it has been kind enough to permit us to make use of its classrooms. </p><p>00:02:33,800</p><p>Local people have been very generous. A lot of business people let us have things like tables and amplifiers for the week. The organizing committee handles all the administration, and the town library has been great about featuring books about the countries. </p><p>00:02:51,960</p><p>Before you hear the rest of the program, you have some time to look at questions seventeen to twenty. </p><p>00:02:59,560</p><p>Now, for each country's day, we ask them to have one special event like a show or exhibition or demonstration. For example, some people could show how they make traditional handicrafts, or it might just be an exhibition, say, photographs of the country. </p><p>00:03:17,980</p><p>Interesting. Now [beeping], what are the special events this year? </p><p>00:03:22,760</p><p>Fantastic things. [beeping] Monday is Mexico Day, and these ladies and gentlemen are going to put on a show that's hotter than those chili peppers they're famous for eating. They'll be singing and playing songs, and those drums will make you want to get up and move around. Then Tuesday is South Africa Day, and they've got an exhibition of dresses and robes used in traditional ceremonies and dances, and they are magnificent. Apparently, some of them are worth more than their weight in gold. Next, Wednesday is Indonesia Day. They have an exhibition where you'll definitely get your money's worth. Two ladies will put on their chef's hat to demonstrate how they prepare those dishes and sauces they're famous for. Let's see. That brings us to Thursday, Canada Day. We think of them as fit outdoorsmen and ice hockey players, but they've arranged to have some of their countrymen show us how they use just a knife and blocks of wood from Native American trees to make absolutely lovely statues of birds and bears and other animals famous in local legends. So next is Friday, Italy Day. </p><p>00:04:40,460</p><p>That is the end of section two. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/08108dca-cc5f-4af7-909b-2cca7770f4f6.mp3",
+    "durationSeconds": 286.944,
+    "sizeBytes": 4591635,
+    "sha256": "506b0437b6f55fcd3d9056fb476ff4acd74a3cf639c69a96b247479124276277",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:05:34Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775576225271_e1923g_78268873_e5d9bc41.mp3"
+}

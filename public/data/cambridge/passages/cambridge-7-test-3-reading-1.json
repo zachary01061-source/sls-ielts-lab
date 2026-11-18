@@ -1,0 +1,308 @@
+{
+  "id": "cambridge-7-test-3-reading-1",
+  "title": "Ant Intelligence",
+  "titleCn": "Ant Intelligence",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 3
+  },
+  "sourceQuestionId": "7001",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7001",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Ant Intelligence"
+    },
+    {
+      "label": "2",
+      "text": "When we think of intelligent members of the animal kingdom, the creatures that spring immediately to mind are apes and monkeys. But in fact the social lives of some members of the insect kingdom are sufficiently complex to suggest more than a hint of intelligence. Among these, the world of the ant has come in for considerable scrutiny lately, and the idea that ants demonstrate sparks of cognition has certainly not been rejected by those involved in these investigations."
+    },
+    {
+      "label": "3",
+      "text": "Ants store food, repel attackers and use chemical signals to contact one another in case of attack. Such chemical communication can be compared to the human use of visual and auditory channels (as in religious chants, advertising images and jingles, political slogans and martial music) to arouse and propagate moods and attitudes. The biologist Lewis Thomas wrote, 'Ants are so much like human beings as to be an embarrassment. They farm fungi, raise aphids* as livestock, launch armies to war, use chemical sprays to alarm and confuse enemies, capture slaves, engage in child labour, exchange information ceaselessly. They do everything but watch television.' However, in ants there is no cultural transmission everything must be encoded in the genes - whereas in humans the opposite is true. Only basic instincts are carried in the genes of a newborn baby, other skills being learned from others in the community as the child grows up. It may seem that this cultural continuity gives us a huge advantage over ants. They have never mastered fire nor progressed. Their fungus farming and aphid herding crafts are sophisticated when compared to the agricultural skills of humans five thousand years ago but have been totally overtaken by modern human agribusiness."
+    },
+    {
+      "label": "4",
+      "text": "Or have they? The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy. Moreover, recent evidence suggests that the crop farming of ants may be more sophisticated and adaptable than was thought."
+    },
+    {
+      "label": "5",
+      "text": "Ants were farmers fifty million years before humans were. Ants can't digest the cellulose in leaves - but some fungi can. The ants therefore cultivate these fungi in their nests, bringing them leaves to feed on, and then use them as a source of food. Farmer ants secrete antibiotics to control other fungi that might act as 'weeds', and spread waste to fertilise the crop."
+    },
+    {
+      "label": "6",
+      "text": "It was once thought that the fungus that ants cultivate was a single type that they had propagated, essentially unchanged from the distant past. Not so. Ulrich Mueller of Maryland and his colleagues genetically screened 862 different types of fungi taken from ants' nests. These turned out to be highly diverse: it seems that ants are continually domesticating new species. Even more impressively, DNA analysis of the fungi suggests that the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies."
+    },
+    {
+      "label": "7",
+      "text": "Whereas prehistoric man had no exposure to urban lifestyles - the forcing house of intelligence - the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels."
+    },
+    {
+      "label": "8",
+      "text": "When we survey Mexico City, Tokyo, Los Angeles, we are amazed at what has been accomplished by humans. Yet Hoelldobler and Wilson's magnificent work for ant lovers, The Ants, describes a supercolony of the ant Formica yessensis on the Ishikari Coast of Hokkaido. This 'megalopolis' was reported to be composed of 360 million workers and a million queens living in 4,500 interconnected nests across a territory of 2.7 square kilometres."
+    },
+    {
+      "label": "9",
+      "text": "Such enduring and intricately meshed levels of technical achievement outstrip by far anything achieved by our distant ancestors. We hail as masterpieces the cave paintings in southern France and elsewhere, dating back some 20,000 years. Ant societies existed in something like their present form more than seventy million years ago. Beside this, prehistoric man looks technologically primitive. Is this then some kind of intelligence, albeit of a different kind?"
+    },
+    {
+      "label": "10",
+      "text": "Research conducted at Oxford, Sussex and Zürich Universities has shown that when desert ants return from a foraging trip, they navigate by integrating bearings and distances, which they continuously update in their heads. They combine the evidence of visual landmarks with a mental library of local directions, all within a framework which is consulted and updated. So ants can learn too."
+    },
+    {
+      "label": "11",
+      "text": "And in a twelve-year programme of work, Ryabko and Reznikova have found evidence that ants can transmit very complex messages. Scouts who had located food in a maze returned to mobilise their foraging teams. They engaged in contact sessions, at the end of which the scout was removed in order to observe what her team might do. Often the foragers proceeded to the exact spot in the maze where the food had been. Elaborate precautions were taken to prevent the foraging team using odour clues. Discussion now centres on whether the route through the maze is communicated as a 'left-right' sequence of turns or as a 'compass bearing and distance' message."
+    },
+    {
+      "label": "12",
+      "text": "During the course of this exhaustive study, Reznikova has grown so attached to her laboratory ants that she feels she knows them as individuals - even without the paint spots used to mark them. It's no surprise that Edward Wilson, in his essay, 'In the company of ants', advises readers who ask what to do with the ants in their kitchen to: 'Watch where you step. Be careful of little lives.'"
+    },
+    {
+      "label": "13",
+      "text": "* aphids: small insects of a different species from ants"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-6\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Ants use the same channels of communication as humans do.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7001_425167",
+          "explanation": "参考译文：蚂蚁使用的沟通渠道与人类相同。\n\n定位词：channels, communication, humans\n\n第二段：Such chemical communication can be compared to the human use of visual and auditory channels to…‘Ants are much like human beings as to be embarrassment…’\n\n此题可以通过定位词迅速定位第二段的这两句话。两句话中都是说明蚂蚁的生物行为与人类非常相似，而题目中则说是“相同”，与原文相悖，因此答案很明显应该是FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "City life is one factor that encourages the development of intelligence.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7001_431358",
+          "explanation": "参考译文：城市生活是促进智能发展的一个因素。\n\n定位词：city life, intelligence\n\n第七段:Whereas prehistoric man had no exposure to urban lifestyle—the forcing house of intelligence—...此题的定位比较有难度，定位词并未以原形出现。但若根据顺序原则由第3题的定位段落(第八段)向前查找会比较容易。文章与题目出现同义转换:urban life—city life; forcing house—encourages该题的解题关键在于是否能正确理解文中短语forcing house的含义它的含义为“温床\"，与题中解题关键字encourages完全吻合。因此此题答案为TRUE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Ants can build large cities more quickly than humans do.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7001_625317",
+          "explanation": "参考译文：蚂蚁可以比人类更快地修建大型城市。\n\n定位词：build large cities\n\n第八段:…we're amazed at what has been accomplished by humans.第九段:Such enduring and intricately meshed levels of technical achievement outstrip by far anything achieved by our distant ancestors.文章第八段提到了人类建造城市的例子，第九段指出蚂蚁的技术远远超过我们的祖先，但是文章并未提到蚂蚁和人类的建造速度，也未对此作任何的比较。此题属于典型的文章未提及型题目，因此应该选择NOTGIVEN。TIPS：由于蚂蚁与人类的建造速度本身就属于两个无法比较的项目,因此该题属于典型的“不存在的比较关系”类，在考场上可以凭解题技巧直接将其判定为NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Some ants can find their way by making calculations based on distance and position.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7001_960680",
+          "explanation": "参考译文：一些蚂蚁可以通过基于距离和位置而进行的计算来寻找路线。\n\n定位词：find their way, making calculations\n\n第十段:…they navigate by integrating bearings and distances…译文：它们通过整合方向和距离来导航。此题通过定位词可以迅速定位到第十段该句，且该句含义与题目一致。文章与题目出现同义转换:find their way—navigate; making calculations integrating; bearings—position因此此题答案为TRUE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "In one experiment, foraging teams were able to use their sense of smell to find food.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7001_508864",
+          "explanation": "参考译文：在一个实验里，寻找食物的蚂蚁能够通过嗅觉找到食物。\n\n定位词：foraging teams\n\n第十一段：Elaborate precautions were taken to prevent the foraging team using odour clues.\n\n此题利用定位词很容易定位，且文中定位处出现prevent…using odour clues,其含义为防止使用气味线索，而题干中的解题要点为蚂蚁使用嗅觉寻找食物。很明显，此题题干与原文内容相悖，因此答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "The essay, 'In the company of ants', explores ant communication.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7001_443535",
+          "explanation": "参考译文：题目为《与蚂蚁相伴》的文章探究了蚂蚁的信息交流。\n\n定位词：In the company of ants”\n\n末段:…in his essay, 'In the company of ants '，advises readers who ask what to do with the ants in their kitchen to: ‘Watch where you step. Be careful of little lives.’\n\n此题定位非常容易。在定位句中，作者仅仅强调了需要将蚂蚁视为有智能的生命来对待，对于题干中的解题点“蚂蚁的信息交流”是否进行研究并未提及。此题属于典型的“题干信息文章部分提及”，因此此题答案为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 7-13\n\nComplete the summary using the list of words, A-O, below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Answer for gap 7.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q7001_879372",
+          "explanation": "题号：7\n\n定位词：cultivate，they can digest\n\n第五段：Ants can’t digest the cellulose in leave—but some fungi can. The ants therefore cultivate these fungi in their nests.此题通过在定位段落第五段中扫描定位词，可以将其定位在第二至四行，其含义为“蚂蚁不能消化叶子中的纤维素，但是一些真菌可以。因此蚂蚁在自己的巢中培养这些真菌”。题干中此题应填一个名词，且根据其后信息判断出该名同在经过转变后能被蚂蚁消化，于是可以直接选出答案C。\n\n题号：8\n\n定位词：weed-killers\n\n第五段：Farmer ants secrete antibiotics to control other fungi that might act as \"weeds\"...按照顺序原则在第7题后扫描定位词可以迅速定位。通过阅读此空之后的题干信息可推出所填单词应为名间，且其行为为kill weeds；通过扫描定位句，其中满足条件的词为antibiotics，但在同库中并未出现，此时只能选出其上下义词，即为选项M。\n\n题号：9\n\n定位词：unwanted materials\n\n第五段：…and spread waste to fertilise the crop.此题在文中定位紧接着上一题。通过题干中空格之前的信息可以判断出所填词为复数名词，且其等价于unwanted materials在文中定位处找到其对应词waste，且其作用为fertilise the crop：在题目所给同库中的复数名词里进行快速扫描，答案只能为F。\n\n题号：10\n\n定位词：new species, neighbouring ant colonies\n\n第六段：…the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.-通过分析空格判断出所填词应为v+ing形式( and前后结构相同)，在文中定位句中对应词为swapping and sharing (交换和分享)；在题目所给同库中满足v+ing形式的词里进行快速扫描，答案只能为D。\n\n题号：11\n\n定位词：agribusiness, methods\n\n第四段：The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy.-此题出现了乱序，但是通过扫描定位词还是可以迅速在文中找到对应词。首先是出现在第三段最后一句话中的agribusiness，接下来才是第四段第二句中的farming methods，通过分析题干中空格前后的信息，判定所填单词应为形容词，且其修饰对象为methods；在文中定位处的对应词为sustainable，对应答案N。\n\n题号：12\n\nAffect\n\n此题定位同第1 1题。由于空格之前为动词，所以应回原文找寻该动词或其同义词；在文中定位处对应词为ruin，所以答案为其后单词environment，即O选项。\n\n题号：13\n\n定位词：waste\n\n定位方法及解题技巧同上题。文中定位处对应词为use enormous amounts of，所以答案为其后单词energy，即E选项。",
+          "promptHtml": "Answer for gap 7."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Answer for gap 8.",
+          "answers": [
+            "M"
+          ],
+          "sourceCode": "Q7001_567954",
+          "explanation": "题号：7\n\n定位词：cultivate，they can digest\n\n第五段：Ants can’t digest the cellulose in leave—but some fungi can. The ants therefore cultivate these fungi in their nests.此题通过在定位段落第五段中扫描定位词，可以将其定位在第二至四行，其含义为“蚂蚁不能消化叶子中的纤维素，但是一些真菌可以。因此蚂蚁在自己的巢中培养这些真菌”。题干中此题应填一个名词，且根据其后信息判断出该名同在经过转变后能被蚂蚁消化，于是可以直接选出答案C。\n\n题号：8\n\n定位词：weed-killers\n\n第五段：Farmer ants secrete antibiotics to control other fungi that might act as \"weeds\"...按照顺序原则在第7题后扫描定位词可以迅速定位。通过阅读此空之后的题干信息可推出所填单词应为名间，且其行为为kill weeds；通过扫描定位句，其中满足条件的词为antibiotics，但在同库中并未出现，此时只能选出其上下义词，即为选项M。\n\n题号：9\n\n定位词：unwanted materials\n\n第五段：…and spread waste to fertilise the crop.此题在文中定位紧接着上一题。通过题干中空格之前的信息可以判断出所填词为复数名词，且其等价于unwanted materials在文中定位处找到其对应词waste，且其作用为fertilise the crop：在题目所给同库中的复数名词里进行快速扫描，答案只能为F。\n\n题号：10\n\n定位词：new species, neighbouring ant colonies\n\n第六段：…the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.-通过分析空格判断出所填词应为v+ing形式( and前后结构相同)，在文中定位句中对应词为swapping and sharing (交换和分享)；在题目所给同库中满足v+ing形式的词里进行快速扫描，答案只能为D。\n\n题号：11\n\n定位词：agribusiness, methods\n\n第四段：The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy.-此题出现了乱序，但是通过扫描定位词还是可以迅速在文中找到对应词。首先是出现在第三段最后一句话中的agribusiness，接下来才是第四段第二句中的farming methods，通过分析题干中空格前后的信息，判定所填单词应为形容词，且其修饰对象为methods；在文中定位处的对应词为sustainable，对应答案N。\n\n题号：12\n\nAffect\n\n此题定位同第1 1题。由于空格之前为动词，所以应回原文找寻该动词或其同义词；在文中定位处对应词为ruin，所以答案为其后单词environment，即O选项。\n\n题号：13\n\n定位词：waste\n\n定位方法及解题技巧同上题。文中定位处对应词为use enormous amounts of，所以答案为其后单词energy，即E选项。",
+          "promptHtml": "Answer for gap 8."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q7001_397701",
+          "explanation": "题号：7\n\n定位词：cultivate，they can digest\n\n第五段：Ants can’t digest the cellulose in leave—but some fungi can. The ants therefore cultivate these fungi in their nests.此题通过在定位段落第五段中扫描定位词，可以将其定位在第二至四行，其含义为“蚂蚁不能消化叶子中的纤维素，但是一些真菌可以。因此蚂蚁在自己的巢中培养这些真菌”。题干中此题应填一个名词，且根据其后信息判断出该名同在经过转变后能被蚂蚁消化，于是可以直接选出答案C。\n\n题号：8\n\n定位词：weed-killers\n\n第五段：Farmer ants secrete antibiotics to control other fungi that might act as \"weeds\"...按照顺序原则在第7题后扫描定位词可以迅速定位。通过阅读此空之后的题干信息可推出所填单词应为名间，且其行为为kill weeds；通过扫描定位句，其中满足条件的词为antibiotics，但在同库中并未出现，此时只能选出其上下义词，即为选项M。\n\n题号：9\n\n定位词：unwanted materials\n\n第五段：…and spread waste to fertilise the crop.此题在文中定位紧接着上一题。通过题干中空格之前的信息可以判断出所填词为复数名词，且其等价于unwanted materials在文中定位处找到其对应词waste，且其作用为fertilise the crop：在题目所给同库中的复数名词里进行快速扫描，答案只能为F。\n\n题号：10\n\n定位词：new species, neighbouring ant colonies\n\n第六段：…the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.-通过分析空格判断出所填词应为v+ing形式( and前后结构相同)，在文中定位句中对应词为swapping and sharing (交换和分享)；在题目所给同库中满足v+ing形式的词里进行快速扫描，答案只能为D。\n\n题号：11\n\n定位词：agribusiness, methods\n\n第四段：The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy.-此题出现了乱序，但是通过扫描定位词还是可以迅速在文中找到对应词。首先是出现在第三段最后一句话中的agribusiness，接下来才是第四段第二句中的farming methods，通过分析题干中空格前后的信息，判定所填单词应为形容词，且其修饰对象为methods；在文中定位处的对应词为sustainable，对应答案N。\n\n题号：12\n\nAffect\n\n此题定位同第1 1题。由于空格之前为动词，所以应回原文找寻该动词或其同义词；在文中定位处对应词为ruin，所以答案为其后单词environment，即O选项。\n\n题号：13\n\n定位词：waste\n\n定位方法及解题技巧同上题。文中定位处对应词为use enormous amounts of，所以答案为其后单词energy，即E选项。",
+          "promptHtml": "Answer for gap 9."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Answer for gap 10.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q7001_762422",
+          "explanation": "题号：7\n\n定位词：cultivate，they can digest\n\n第五段：Ants can’t digest the cellulose in leave—but some fungi can. The ants therefore cultivate these fungi in their nests.此题通过在定位段落第五段中扫描定位词，可以将其定位在第二至四行，其含义为“蚂蚁不能消化叶子中的纤维素，但是一些真菌可以。因此蚂蚁在自己的巢中培养这些真菌”。题干中此题应填一个名词，且根据其后信息判断出该名同在经过转变后能被蚂蚁消化，于是可以直接选出答案C。\n\n题号：8\n\n定位词：weed-killers\n\n第五段：Farmer ants secrete antibiotics to control other fungi that might act as \"weeds\"...按照顺序原则在第7题后扫描定位词可以迅速定位。通过阅读此空之后的题干信息可推出所填单词应为名间，且其行为为kill weeds；通过扫描定位句，其中满足条件的词为antibiotics，但在同库中并未出现，此时只能选出其上下义词，即为选项M。\n\n题号：9\n\n定位词：unwanted materials\n\n第五段：…and spread waste to fertilise the crop.此题在文中定位紧接着上一题。通过题干中空格之前的信息可以判断出所填词为复数名词，且其等价于unwanted materials在文中定位处找到其对应词waste，且其作用为fertilise the crop：在题目所给同库中的复数名词里进行快速扫描，答案只能为F。\n\n题号：10\n\n定位词：new species, neighbouring ant colonies\n\n第六段：…the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.-通过分析空格判断出所填词应为v+ing形式( and前后结构相同)，在文中定位句中对应词为swapping and sharing (交换和分享)；在题目所给同库中满足v+ing形式的词里进行快速扫描，答案只能为D。\n\n题号：11\n\n定位词：agribusiness, methods\n\n第四段：The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy.-此题出现了乱序，但是通过扫描定位词还是可以迅速在文中找到对应词。首先是出现在第三段最后一句话中的agribusiness，接下来才是第四段第二句中的farming methods，通过分析题干中空格前后的信息，判定所填单词应为形容词，且其修饰对象为methods；在文中定位处的对应词为sustainable，对应答案N。\n\n题号：12\n\nAffect\n\n此题定位同第1 1题。由于空格之前为动词，所以应回原文找寻该动词或其同义词；在文中定位处对应词为ruin，所以答案为其后单词environment，即O选项。\n\n题号：13\n\n定位词：waste\n\n定位方法及解题技巧同上题。文中定位处对应词为use enormous amounts of，所以答案为其后单词energy，即E选项。",
+          "promptHtml": "Answer for gap 10."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Answer for gap 11.",
+          "answers": [
+            "N"
+          ],
+          "sourceCode": "Q7001_323315",
+          "explanation": "题号：7\n\n定位词：cultivate，they can digest\n\n第五段：Ants can’t digest the cellulose in leave—but some fungi can. The ants therefore cultivate these fungi in their nests.此题通过在定位段落第五段中扫描定位词，可以将其定位在第二至四行，其含义为“蚂蚁不能消化叶子中的纤维素，但是一些真菌可以。因此蚂蚁在自己的巢中培养这些真菌”。题干中此题应填一个名词，且根据其后信息判断出该名同在经过转变后能被蚂蚁消化，于是可以直接选出答案C。\n\n题号：8\n\n定位词：weed-killers\n\n第五段：Farmer ants secrete antibiotics to control other fungi that might act as \"weeds\"...按照顺序原则在第7题后扫描定位词可以迅速定位。通过阅读此空之后的题干信息可推出所填单词应为名间，且其行为为kill weeds；通过扫描定位句，其中满足条件的词为antibiotics，但在同库中并未出现，此时只能选出其上下义词，即为选项M。\n\n题号：9\n\n定位词：unwanted materials\n\n第五段：…and spread waste to fertilise the crop.此题在文中定位紧接着上一题。通过题干中空格之前的信息可以判断出所填词为复数名词，且其等价于unwanted materials在文中定位处找到其对应词waste，且其作用为fertilise the crop：在题目所给同库中的复数名词里进行快速扫描，答案只能为F。\n\n题号：10\n\n定位词：new species, neighbouring ant colonies\n\n第六段：…the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.-通过分析空格判断出所填词应为v+ing形式( and前后结构相同)，在文中定位句中对应词为swapping and sharing (交换和分享)；在题目所给同库中满足v+ing形式的词里进行快速扫描，答案只能为D。\n\n题号：11\n\n定位词：agribusiness, methods\n\n第四段：The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy.-此题出现了乱序，但是通过扫描定位词还是可以迅速在文中找到对应词。首先是出现在第三段最后一句话中的agribusiness，接下来才是第四段第二句中的farming methods，通过分析题干中空格前后的信息，判定所填单词应为形容词，且其修饰对象为methods；在文中定位处的对应词为sustainable，对应答案N。\n\n题号：12\n\nAffect\n\n此题定位同第1 1题。由于空格之前为动词，所以应回原文找寻该动词或其同义词；在文中定位处对应词为ruin，所以答案为其后单词environment，即O选项。\n\n题号：13\n\n定位词：waste\n\n定位方法及解题技巧同上题。文中定位处对应词为use enormous amounts of，所以答案为其后单词energy，即E选项。",
+          "promptHtml": "Answer for gap 11."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Answer for gap 12.",
+          "answers": [
+            "O"
+          ],
+          "sourceCode": "Q7001_990198",
+          "explanation": "题号：7\n\n定位词：cultivate，they can digest\n\n第五段：Ants can’t digest the cellulose in leave—but some fungi can. The ants therefore cultivate these fungi in their nests.此题通过在定位段落第五段中扫描定位词，可以将其定位在第二至四行，其含义为“蚂蚁不能消化叶子中的纤维素，但是一些真菌可以。因此蚂蚁在自己的巢中培养这些真菌”。题干中此题应填一个名词，且根据其后信息判断出该名同在经过转变后能被蚂蚁消化，于是可以直接选出答案C。\n\n题号：8\n\n定位词：weed-killers\n\n第五段：Farmer ants secrete antibiotics to control other fungi that might act as \"weeds\"...按照顺序原则在第7题后扫描定位词可以迅速定位。通过阅读此空之后的题干信息可推出所填单词应为名间，且其行为为kill weeds；通过扫描定位句，其中满足条件的词为antibiotics，但在同库中并未出现，此时只能选出其上下义词，即为选项M。\n\n题号：9\n\n定位词：unwanted materials\n\n第五段：…and spread waste to fertilise the crop.此题在文中定位紧接着上一题。通过题干中空格之前的信息可以判断出所填词为复数名词，且其等价于unwanted materials在文中定位处找到其对应词waste，且其作用为fertilise the crop：在题目所给同库中的复数名词里进行快速扫描，答案只能为F。\n\n题号：10\n\n定位词：new species, neighbouring ant colonies\n\n第六段：…the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.-通过分析空格判断出所填词应为v+ing形式( and前后结构相同)，在文中定位句中对应词为swapping and sharing (交换和分享)；在题目所给同库中满足v+ing形式的词里进行快速扫描，答案只能为D。\n\n题号：11\n\n定位词：agribusiness, methods\n\n第四段：The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy.-此题出现了乱序，但是通过扫描定位词还是可以迅速在文中找到对应词。首先是出现在第三段最后一句话中的agribusiness，接下来才是第四段第二句中的farming methods，通过分析题干中空格前后的信息，判定所填单词应为形容词，且其修饰对象为methods；在文中定位处的对应词为sustainable，对应答案N。\n\n题号：12\n\nAffect\n\n此题定位同第1 1题。由于空格之前为动词，所以应回原文找寻该动词或其同义词；在文中定位处对应词为ruin，所以答案为其后单词environment，即O选项。\n\n题号：13\n\n定位词：waste\n\n定位方法及解题技巧同上题。文中定位处对应词为use enormous amounts of，所以答案为其后单词energy，即E选项。",
+          "promptHtml": "Answer for gap 12."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Answer for gap 13.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q7001_796432",
+          "explanation": "题号：7\n\n定位词：cultivate，they can digest\n\n第五段：Ants can’t digest the cellulose in leave—but some fungi can. The ants therefore cultivate these fungi in their nests.此题通过在定位段落第五段中扫描定位词，可以将其定位在第二至四行，其含义为“蚂蚁不能消化叶子中的纤维素，但是一些真菌可以。因此蚂蚁在自己的巢中培养这些真菌”。题干中此题应填一个名词，且根据其后信息判断出该名同在经过转变后能被蚂蚁消化，于是可以直接选出答案C。\n\n题号：8\n\n定位词：weed-killers\n\n第五段：Farmer ants secrete antibiotics to control other fungi that might act as \"weeds\"...按照顺序原则在第7题后扫描定位词可以迅速定位。通过阅读此空之后的题干信息可推出所填单词应为名间，且其行为为kill weeds；通过扫描定位句，其中满足条件的词为antibiotics，但在同库中并未出现，此时只能选出其上下义词，即为选项M。\n\n题号：9\n\n定位词：unwanted materials\n\n第五段：…and spread waste to fertilise the crop.此题在文中定位紧接着上一题。通过题干中空格之前的信息可以判断出所填词为复数名词，且其等价于unwanted materials在文中定位处找到其对应词waste，且其作用为fertilise the crop：在题目所给同库中的复数名词里进行快速扫描，答案只能为F。\n\n题号：10\n\n定位词：new species, neighbouring ant colonies\n\n第六段：…the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.-通过分析空格判断出所填词应为v+ing形式( and前后结构相同)，在文中定位句中对应词为swapping and sharing (交换和分享)；在题目所给同库中满足v+ing形式的词里进行快速扫描，答案只能为D。\n\n题号：11\n\n定位词：agribusiness, methods\n\n第四段：The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy.-此题出现了乱序，但是通过扫描定位词还是可以迅速在文中找到对应词。首先是出现在第三段最后一句话中的agribusiness，接下来才是第四段第二句中的farming methods，通过分析题干中空格前后的信息，判定所填单词应为形容词，且其修饰对象为methods；在文中定位处的对应词为sustainable，对应答案N。\n\n题号：12\n\nAffect\n\n此题定位同第1 1题。由于空格之前为动词，所以应回原文找寻该动词或其同义词；在文中定位处对应词为ruin，所以答案为其后单词environment，即O选项。\n\n题号：13\n\n定位词：waste\n\n定位方法及解题技巧同上题。文中定位处对应词为use enormous amounts of，所以答案为其后单词energy，即E选项。",
+          "promptHtml": "Answer for gap 13."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "aphids"
+        },
+        {
+          "value": "B",
+          "text": "agricultural"
+        },
+        {
+          "value": "C",
+          "text": "cellulose"
+        },
+        {
+          "value": "D",
+          "text": "exchanging"
+        },
+        {
+          "value": "E",
+          "text": "energy"
+        },
+        {
+          "value": "F",
+          "text": "fertilizers"
+        },
+        {
+          "value": "G",
+          "text": "food"
+        },
+        {
+          "value": "H",
+          "text": "fungi"
+        },
+        {
+          "value": "I",
+          "text": "growing"
+        },
+        {
+          "value": "J",
+          "text": "interbreeding"
+        },
+        {
+          "value": "K",
+          "text": "natural"
+        },
+        {
+          "value": "L",
+          "text": "other species"
+        },
+        {
+          "value": "M",
+          "text": "secretions"
+        },
+        {
+          "value": "N",
+          "text": "sustainable"
+        },
+        {
+          "value": "O",
+          "text": "environment"
+        }
+      ],
+      "contextHtml": "<p><strong>Ants as farmers</strong></p>\n\n<p>Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert <strong>[7] ______</strong> into a form which they can digest. They use their own natural <strong>[8] ______</strong> as weed-killers and also use unwanted materials as <strong>[9] ______</strong>  . Genetic analysis shows they constantly upgrade these fungi by developing new species and by <strong>[10] ______</strong> species with neighbouring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use <strong>[11] ______</strong> methods, they do not affect the <strong>[12] ______</strong> and do not waste <strong>[13] ______</strong> .</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Ant Intelligence</strong></span></p><p><span><strong><img src=\"/api/guest/cambridge/media/images/21d6a1ef739a2b0a0a8d99193575d6c9.png\" alt=\"\"></strong></span></p><p>When we think of intelligent members of the animal kingdom, the creatures that spring immediately to mind are apes and monkeys. But in fact the social lives of some members of the insect kingdom are sufficiently complex to suggest more than a hint of intelligence. Among these, the world of the ant has come in for considerable scrutiny lately, and the idea that ants demonstrate sparks of cognition has certainly not been rejected by those involved in these investigations.</p><p>Ants store food, repel attackers and use chemical signals to contact one another in case of attack. Such chemical communication can be compared to the human use of visual and auditory channels (as in religious chants, advertising images and jingles, political slogans and martial music) to arouse and propagate moods and attitudes. The biologist Lewis Thomas wrote, &#x27;Ants are so much like human beings as to be an embarrassment. They farm fungi, raise aphids* as livestock, launch armies to war, use chemical sprays to alarm and confuse enemies, capture slaves, engage in child labour, exchange information ceaselessly. They do everything but watch television.&#x27; However, in ants there is no cultural transmission everything must be encoded in the genes - whereas in humans the opposite is true. Only basic instincts are carried in the genes of a newborn baby, other skills being learned from others in the community as the child grows up. It may seem that this cultural continuity gives us a huge advantage over ants. They have never mastered fire nor progressed. Their fungus farming and aphid herding crafts are sophisticated when compared to the agricultural skills of humans five thousand years ago but have been totally overtaken by modern human agribusiness.</p><p>Or have they? The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy. Moreover, recent evidence suggests that the crop farming of ants may be more sophisticated and adaptable than was thought.</p><p>Ants were farmers fifty million years before humans were. Ants can&#x27;t digest the cellulose in leaves - but some fungi can. The ants therefore cultivate these fungi in their nests, bringing them leaves to feed on, and then use them as a source of food. Farmer ants secrete antibiotics to control other fungi that might act as &#x27;weeds&#x27;, and spread waste to fertilise the crop.</p><p>It was once thought that the fungus that ants cultivate was a single type that they had propagated, essentially unchanged from the distant past. Not so. Ulrich Mueller of Maryland and his colleagues genetically screened 862 different types of fungi taken from ants&#x27; nests. These turned out to be highly diverse: it seems that ants are continually domesticating new species. Even more impressively, DNA analysis of the fungi suggests that the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies.</p><p>Whereas prehistoric man had no exposure to urban lifestyles - the forcing house of intelligence - the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels.</p><p>When we survey Mexico City, Tokyo, Los Angeles, we are amazed at what has been accomplished by humans. Yet Hoelldobler and Wilson&#x27;s magnificent work for ant lovers, The Ants, describes a supercolony of the ant Formica yessensis on the Ishikari Coast of Hokkaido. This &#x27;megalopolis&#x27; was reported to be composed of 360 million workers and a million queens living in 4,500 interconnected nests across a territory of 2.7 square kilometres.</p><p>Such enduring and intricately meshed levels of technical achievement outstrip by far anything achieved by our distant ancestors. We hail as masterpieces the cave paintings in southern France and elsewhere, dating back some 20,000 years. Ant societies existed in something like their present form more than seventy million years ago. Beside this, prehistoric man looks technologically primitive. Is this then some kind of intelligence, albeit of a different kind?</p><p>Research conducted at Oxford, Sussex and Zürich Universities has shown that when desert ants return from a foraging trip, they navigate by integrating bearings and distances, which they continuously update in their heads. They combine the evidence of visual landmarks with a mental library of local directions, all within a framework which is consulted and updated. So ants can learn too.</p><p>And in a twelve-year programme of work, Ryabko and Reznikova have found evidence that ants can transmit very complex messages. Scouts who had located food in a maze returned to mobilise their foraging teams. They engaged in contact sessions, at the end of which the scout was removed in order to observe what her team might do. Often the foragers proceeded to the exact spot in the maze where the food had been. Elaborate precautions were taken to prevent the foraging team using odour clues. Discussion now centres on whether the route through the maze is communicated as a &#x27;left-right&#x27; sequence of turns or as a &#x27;compass bearing and distance&#x27; message.</p><p>During the course of this exhaustive study, Reznikova has grown so attached to her laboratory ants that she feels she knows them as individuals - even without the paint spots used to mark them. It&#x27;s no surprise that Edward Wilson, in his essay, &#x27;In the company of ants&#x27;, advises readers who ask what to do with the ants in their kitchen to: &#x27;Watch where you step. Be careful of little lives.&#x27;</p><p>* aphids: small insects of a different species from ants</p>"
+}

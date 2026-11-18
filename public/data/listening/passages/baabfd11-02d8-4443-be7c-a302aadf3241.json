@@ -1,0 +1,645 @@
+{
+  "id": "baabfd11-02d8-4443-be7c-a302aadf3241",
+  "title": "Moving office",
+  "titleCn": "公司搬迁新办公室通知",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/baabfd11-02d8-4443-be7c-a302aadf3241",
+  "duration": 395,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,920"
+    },
+    {
+      "label": "2",
+      "text": "Thank you for coming to today's meeting, everyone. I'd like to give you some information about moving to our new office building so that you know what the plans are. So first, let me explain why we're moving. Even though we've taken on quite a few new employees over the last year, we still have plenty of space here, but the problem is where we are. But we've now found the perfect place in the city center. Originally, we chose this building in the suburbs because the rent was much cheaper, but our clients aren't always keen on coming out here."
+    },
+    {
+      "label": "3",
+      "text": "00:00:34,780"
+    },
+    {
+      "label": "4",
+      "text": "I visited the new office last week, and I'm pretty sure that you'll find the greatest advantage is the huge windows. I'm not sure we'll need desk lamps at all. Of course, we'll have everything checked out to make sure we can control the temperature of each office, and we may have to put some room dividers in some offices so that you're not disturbed by your colleagues' conversations."
+    },
+    {
+      "label": "5",
+      "text": "00:00:57,480"
+    },
+    {
+      "label": "6",
+      "text": "We've just set a date for the move. The finance department wanted us to wait until after the end of the tax year, April, but we've decided to move earlier. As soon as the sales conference is over in January, we'll move. That'll give us plenty of time to organize everything before you start taking your annual holidays."
+    },
+    {
+      "label": "7",
+      "text": "00:01:22,280"
+    },
+    {
+      "label": "8",
+      "text": "We've already put quite a bit of information about the move on the company website, like restaurants and cafes around the new office, but we're still checking bus routes and things like that, so transport information will be up by next Monday. Another thing still to get confirmed is which car park we can use and how many people can use it."
+    },
+    {
+      "label": "9",
+      "text": "00:01:43,460"
+    },
+    {
+      "label": "10",
+      "text": "Okay, let's move on to some practical things you have to do now. Don't worry yet about taking home your photos and things like that. That can be sorted out much nearer the time, along with getting rid of any unwanted paperwork. We need to find out how many new desks and chairs to order. So could you make a list of any of the ones you use that are scratched or broken?"
+    },
+    {
+      "label": "11",
+      "text": "00:02:06,260"
+    },
+    {
+      "label": "12",
+      "text": "Just one thing, all documents containing non-confidential information can go into the general packing boxes. But when it comes to documents containing confidential information, you'll need to put these in special bags. You'll be given gray plastic ones for this. So one thing to do now is go through your filing cabinets and identify which folders are confidential."
+    },
+    {
+      "label": "13",
+      "text": "00:02:31,580"
+    },
+    {
+      "label": "14",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty on page four."
+    },
+    {
+      "label": "15",
+      "text": "00:02:51,360"
+    },
+    {
+      "label": "16",
+      "text": "Now listen and answer questions seventeen to twenty."
+    },
+    {
+      "label": "17",
+      "text": "00:03:15,940"
+    },
+    {
+      "label": "18",
+      "text": "Now, to help you prepare for the move, I'd like to talk about lifting heavy things. You shouldn't really have to do this because a removal company will be used, but you might want to move a box out of your way or something. It's surprising how often people don't remember to use the handles on the boxes, although they all have them. You've all had the leaflet explaining that you should keep your back straight and your head up when lifting. And it also tells you to stand with your feet firmly on the ground and a little bit apart. So I think that's clear. But the leaflet emphasizes the importance of not twisting to the left or right once you've picked something up. And if you're like me, that's easy to forget."
+    },
+    {
+      "label": "19",
+      "text": "00:03:58,580"
+    },
+    {
+      "label": "20",
+      "text": "I'd also like to talk about papers. If they've been stored for a long time, they can get mold on them, a sort of fungus. And as soon as you start moving them, the fungus gets disturbed. As you know, you can't open the windows in this building, but I suggest you use the gloves that we'll provide. We'll also get some face masks, but we've been advised that these shouldn't be necessary. What you should do is drink one or two liters of water a day. That's essential."
+    },
+    {
+      "label": "21",
+      "text": "00:04:26,140"
+    },
+    {
+      "label": "22",
+      "text": "Often, the best time to do this sort of work is after your afternoon break so that you can leave the building soon afterwards."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-16**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "c04d39c2-d475-442b-9c08-647bcb20cdce",
+          "prompt": "**11** What reason does the manager give for moving to a new office building?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "by in a central location",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the problem is where we are. But we've now found the perfect place in the city center"
+          },
+          "keywordPairs": [
+            {
+              "question": "reason for",
+              "article": "why"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "to have more space"
+            },
+            {
+              "value": "B",
+              "text": "to pay less rent"
+            },
+            {
+              "value": "C",
+              "text": "by in a central location"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "09ac0e3e-9912-44c7-a1a4-3687cf08151f",
+          "prompt": "**12** What is best about the new office building?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "the amount of natural light",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I'm pretty sure that you'll find the greatest advantage is the huge windows. I'm not sure we'll need desk lamps at all"
+          },
+          "keywordPairs": [
+            {
+              "question": "best",
+              "article": "greatest"
+            },
+            {
+              "question": "amount of natural light",
+              "article": "huge windows"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "the air-conditioning system"
+            },
+            {
+              "value": "B",
+              "text": "the amount of natural light"
+            },
+            {
+              "value": "C",
+              "text": "the low level of noise"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "4f5f6285-828b-43ed-a161-6972f0a35dfe",
+          "prompt": "**13** When will the office move take place?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "after the sales conference",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As soon as the sales conference is over in January, we'll move"
+          },
+          "keywordPairs": [
+            {
+              "question": "take place",
+              "article": "move"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "after the sales conference"
+            },
+            {
+              "value": "B",
+              "text": "after the end of the tax year"
+            },
+            {
+              "value": "C",
+              "text": "after the annual holiday period"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "374b4531-3da5-4034-b207-8805b3eff6e7",
+          "prompt": "**14** What information about the new location is already on the company website?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "places to eat",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We've already put quite a bit of information about the move on the company website, like restaurants and cafes around the new office"
+          },
+          "keywordPairs": [
+            {
+              "question": "places to eat",
+              "article": "restaurants and cafes"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "where to park"
+            },
+            {
+              "value": "B",
+              "text": "places to eat"
+            },
+            {
+              "value": "C",
+              "text": "public transport"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "5f9da416-9cdf-4147-87d4-c623343ace9a",
+          "prompt": "**15** What practical thing must staff do now?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "give details of managed furniture",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We need to find out how many new desks and chairs to order. So could you make a list of any of the ones you use that are scratched or broken"
+          },
+          "keywordPairs": [
+            {
+              "question": "give details",
+              "article": "make a list"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "give details of managed furniture"
+            },
+            {
+              "value": "B",
+              "text": "throw away unnecessary papers"
+            },
+            {
+              "value": "C",
+              "text": "take home personal items"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "75cca270-d43e-4461-b121-26612ce4d216",
+          "prompt": "**16** Staff will need to put folders containing confidential details",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "into grey plastic bags",
+          "evidence": {
+            "paragraph": "",
+            "quote": "documents containing confidential information, you'll need to put these in special bags. You'll be given gray plastic ones for this"
+          },
+          "keywordPairs": [
+            {
+              "question": "details",
+              "article": "information"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16",
+          "options": [
+            {
+              "value": "A",
+              "text": "into packing boxes"
+            },
+            {
+              "value": "B",
+              "text": "into grey plastic bags"
+            },
+            {
+              "value": "C",
+              "text": "into new filling cabinets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "sourceType": "multiple_choice",
+      "instruction": "**Questions 17 and 18**\nChoose **TWO** letter, **A-E**.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "17-18",
+          "sourceQuestionId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+          "prompt": "**17-18** Which **TWO** things do people often forget when lifting heavy things?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "keep your head up",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It's surprising how often people don't remember to use the handles on the boxes;the leaflet emphasizes;not twisting to the left or right once you've picked something up. And if you're like me, that's easy to forget"
+          },
+          "keywordPairs": [
+            {
+              "question": "often forget",
+              "article": "don't remember"
+            },
+            {
+              "question": "lifting heavy things",
+              "article": "picking something up"
+            },
+            {
+              "question": "do not lean to one side",
+              "article": "not twisting to the left or right"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17",
+          "blockId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+          "blockPosition": 0,
+          "blockSize": 2,
+          "setId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+          "options": [
+            {
+              "value": "A",
+              "text": "keep your head up"
+            },
+            {
+              "value": "B",
+              "text": "do not bend your back"
+            },
+            {
+              "value": "C",
+              "text": "do not lean to one side"
+            },
+            {
+              "value": "D",
+              "text": "use handle"
+            },
+            {
+              "value": "E",
+              "text": "stand with feet apart"
+            }
+          ],
+          "unscorable": true
+        },
+        {
+          "id": 8,
+          "sourceNumber": "17-18",
+          "sourceQuestionId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+          "prompt": "**17-18** Which **TWO** things do people often forget when lifting heavy things?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "keep your head up",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It's surprising how often people don't remember to use the handles on the boxes;the leaflet emphasizes;not twisting to the left or right once you've picked something up. And if you're like me, that's easy to forget"
+          },
+          "keywordPairs": [
+            {
+              "question": "often forget",
+              "article": "don't remember"
+            },
+            {
+              "question": "lifting heavy things",
+              "article": "picking something up"
+            },
+            {
+              "question": "do not lean to one side",
+              "article": "not twisting to the left or right"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18",
+          "blockId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+          "blockPosition": 1,
+          "blockSize": 2,
+          "setId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+          "options": [
+            {
+              "value": "A",
+              "text": "keep your head up"
+            },
+            {
+              "value": "B",
+              "text": "do not bend your back"
+            },
+            {
+              "value": "C",
+              "text": "do not lean to one side"
+            },
+            {
+              "value": "D",
+              "text": "use handle"
+            },
+            {
+              "value": "E",
+              "text": "stand with feet apart"
+            }
+          ],
+          "unscorable": true
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "keep your head up"
+        },
+        {
+          "value": "B",
+          "text": "do not bend your back"
+        },
+        {
+          "value": "C",
+          "text": "do not lean to one side"
+        },
+        {
+          "value": "D",
+          "text": "use handle"
+        },
+        {
+          "value": "E",
+          "text": "stand with feet apart"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "sourceType": "multiple_choice",
+      "instruction": "**Questions 19 and 20**\nChoose **TWO** letter, **A-E**.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceNumber": "19-20",
+          "sourceQuestionId": "e00106e5-80fa-473f-becf-e2fb7c6c271f",
+          "prompt": "**19-20** Choose **TWO** things should staff do when moving papers?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "rawAnswer": "wear gloves,drink plenty of water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "but I suggest you use the gloves that we'll provide. We'll also get some face masks, but we've been advised that these shouldn't be necessary. What you should do is drink one or two liters of water a day. That's essential"
+          },
+          "keywordPairs": [
+            {
+              "question": "wear",
+              "article": "use"
+            },
+            {
+              "question": "plenty",
+              "article": "one or two liters of"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19",
+          "blockId": "e00106e5-80fa-473f-becf-e2fb7c6c271f",
+          "blockPosition": 0,
+          "blockSize": 2,
+          "setId": "e00106e5-80fa-473f-becf-e2fb7c6c271f",
+          "options": [
+            {
+              "value": "A",
+              "text": "wears face mask"
+            },
+            {
+              "value": "B",
+              "text": "open windows"
+            },
+            {
+              "value": "C",
+              "text": "wear gloves"
+            },
+            {
+              "value": "D",
+              "text": "take frequent breaks"
+            },
+            {
+              "value": "E",
+              "text": "drink plenty of water"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "sourceNumber": "19-20",
+          "sourceQuestionId": "e00106e5-80fa-473f-becf-e2fb7c6c271f",
+          "prompt": "**19-20** Choose **TWO** things should staff do when moving papers?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "rawAnswer": "wear gloves,drink plenty of water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "but I suggest you use the gloves that we'll provide. We'll also get some face masks, but we've been advised that these shouldn't be necessary. What you should do is drink one or two liters of water a day. That's essential"
+          },
+          "keywordPairs": [
+            {
+              "question": "wear",
+              "article": "use"
+            },
+            {
+              "question": "plenty",
+              "article": "one or two liters of"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20",
+          "blockId": "e00106e5-80fa-473f-becf-e2fb7c6c271f",
+          "blockPosition": 1,
+          "blockSize": 2,
+          "setId": "e00106e5-80fa-473f-becf-e2fb7c6c271f",
+          "options": [
+            {
+              "value": "A",
+              "text": "wears face mask"
+            },
+            {
+              "value": "B",
+              "text": "open windows"
+            },
+            {
+              "value": "C",
+              "text": "wear gloves"
+            },
+            {
+              "value": "D",
+              "text": "take frequent breaks"
+            },
+            {
+              "value": "E",
+              "text": "drink plenty of water"
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "wears face mask"
+        },
+        {
+          "value": "B",
+          "text": "open windows"
+        },
+        {
+          "value": "C",
+          "text": "wear gloves"
+        },
+        {
+          "value": "D",
+          "text": "take frequent breaks"
+        },
+        {
+          "value": "E",
+          "text": "drink plenty of water"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "多选题"
+  ],
+  "status": "review",
+  "migrationNotes": [
+    {
+      "code": "multi_answer_unresolved",
+      "severity": "error",
+      "questionId": "466e0024-b738-4ab3-83e5-eca9e4d70dbc",
+      "sourceNumber": "17-18",
+      "detail": {
+        "answer": "keep your head up",
+        "expectedSlots": 2,
+        "mappedOptions": [
+          "A"
+        ]
+      }
+    }
+  ],
+  "transcriptHtml": "<p>00:00:00,920</p><p>Thank you for coming to today's meeting, everyone. I'd like to give you some information about moving to our new office building so that you know what the plans are. So first, let me explain why we're moving. Even though we've taken on quite a few new employees over the last year, we still have plenty of space here, but the problem is where we are. But we've now found the perfect place in the city center. Originally, we chose this building in the suburbs because the rent was much cheaper, but our clients aren't always keen on coming out here. </p><p>00:00:34,780</p><p>I visited the new office last week, and I'm pretty sure that you'll find the greatest advantage is the huge windows. I'm not sure we'll need desk lamps at all. Of course, we'll have everything checked out to make sure we can control the temperature of each office, and we may have to put some room dividers in some offices so that you're not disturbed by your colleagues' conversations. </p><p>00:00:57,480</p><p>We've just set a date for the move. The finance department wanted us to wait until after the end of the tax year, April, but we've decided to move earlier. As soon as the sales conference is over in January, we'll move. That'll give us plenty of time to organize everything before you start taking your annual holidays. </p><p>00:01:22,280</p><p>We've already put quite a bit of information about the move on the company website, like restaurants and cafes around the new office, but we're still checking bus routes and things like that, so transport information will be up by next Monday. Another thing still to get confirmed is which car park we can use and how many people can use it. </p><p>00:01:43,460</p><p>Okay, let's move on to some practical things you have to do now. Don't worry yet about taking home your photos and things like that. That can be sorted out much nearer the time, along with getting rid of any unwanted paperwork. We need to find out how many new desks and chairs to order. So could you make a list of any of the ones you use that are scratched or broken? </p><p>00:02:06,260</p><p>Just one thing, all documents containing non-confidential information can go into the general packing boxes. But when it comes to documents containing confidential information, you'll need to put these in special bags. You'll be given gray plastic ones for this. So one thing to do now is go through your filing cabinets and identify which folders are confidential. </p><p>00:02:31,580</p><p>Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty on page four. </p><p>00:02:51,360</p><p>Now listen and answer questions seventeen to twenty. </p><p>00:03:15,940</p><p>Now, to help you prepare for the move, I'd like to talk about lifting heavy things. You shouldn't really have to do this because a removal company will be used, but you might want to move a box out of your way or something. It's surprising how often people don't remember to use the handles on the boxes, although they all have them. You've all had the leaflet explaining that you should keep your back straight and your head up when lifting. And it also tells you to stand with your feet firmly on the ground and a little bit apart. So I think that's clear. But the leaflet emphasizes the importance of not twisting to the left or right once you've picked something up. And if you're like me, that's easy to forget. </p><p>00:03:58,580</p><p>I'd also like to talk about papers. If they've been stored for a long time, they can get mold on them, a sort of fungus. And as soon as you start moving them, the fungus gets disturbed. As you know, you can't open the windows in this building, but I suggest you use the gloves that we'll provide. We'll also get some face masks, but we've been advised that these shouldn't be necessary. What you should do is drink one or two liters of water a day. That's essential. </p><p>00:04:26,140</p><p>Often, the best time to do this sort of work is after your afternoon break so that you can leave the building soon afterwards.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/baabfd11-02d8-4443-be7c-a302aadf3241.mp3",
+    "durationSeconds": 274.076735,
+    "sizeBytes": 1096546,
+    "sha256": "748033c2baf852df59f4bbe8001fe5c51deafbe209b9b7fa6b74822acb2dd664",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:09:17Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777382946365_s3tnej_e3f3f293.mp3"
+}

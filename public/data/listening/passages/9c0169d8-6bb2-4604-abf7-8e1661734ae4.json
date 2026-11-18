@@ -1,0 +1,315 @@
+{
+  "id": "9c0169d8-6bb2-4604-abf7-8e1661734ae4",
+  "title": "Giving a quality speech",
+  "titleCn": "如何做一场高质量的演讲",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/9c0169d8-6bb2-4604-abf7-8e1661734ae4",
+  "duration": 425,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,420"
+    },
+    {
+      "label": "2",
+      "text": "Section four."
+    },
+    {
+      "label": "3",
+      "text": "00:00:03,240"
+    },
+    {
+      "label": "4",
+      "text": "You will hear part of a lecture about how to give a quality speech. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:22,600"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "7",
+      "text": "00:00:59,400"
+    },
+    {
+      "label": "8",
+      "text": "Good morning. Today I am going to cover the daunting task of giving a quality speech, a thought that makes most of us cringe. In fact, ninety percent of all people feel nervous about public speaking, about ten percent of whom are described as genuinely terrified. Hopefully, when we are finished here today, you all will be in the ten percent of the population who do not feel nervous at all. Did you know that lecturers tend to get more nervous if the speech they are giving is an important one? It makes sense, right? You probably wouldn't be nearly as nervous to address your residence hall about the proper use of the recycle and compost bins as you might be if you were asked to give the graduation speech to your entire five thousand student class. So what is it that makes some people completely comfortable in front of crowds? Some people think that the ability to give a good speech is a gift that others are simply born with. This is almost never the case. Public speaking can be learned with practice."
+    },
+    {
+      "label": "9",
+      "text": "00:02:00,200"
+    },
+    {
+      "label": "10",
+      "text": "The first most important thing you can do to improve your confidence in delivering a speech is to prepare a quality speech. Honestly, while the content of your speech is relatively important, the audience will really only remember the last sentence you say. It is a good idea to structure the rest of your speech to lead up to this last point to really drive your message home. This is a good way to ensure that your speech is well-organized."
+    },
+    {
+      "label": "11",
+      "text": "00:02:31,380"
+    },
+    {
+      "label": "12",
+      "text": "Once you are confident in the quality of the speech you have written, the rest is just about your stage presence. Let's go through some do's and don'ts of public speaking. First, you want to command the attention of the room. Do not, I repeat, do not proceed with your speech until the audience is paying attention. Even Martin Luther King Jr.'s I Have a Dream speech wouldn't have made any difference in the world without the undivided attention of his audience. To continue with the I Have a Dream example, one of the reasons that MLK was such an effective orator was his ability to speak with passion and engage with his audience. That sort of charisma does not come from reading straight from paper. Don't get me wrong, it is a good idea to write your main ideas down on a note card, sheet of paper or something. But one factor that will consistently lead to a boring, forgettable speech is writing down your entire speech. Do not write your full speech down. If you are constantly reading your paper, you are not making eye contact with your audience and thus failing to really express the feeling that goes with your ideas."
+    },
+    {
+      "label": "13",
+      "text": "00:03:42,020"
+    },
+    {
+      "label": "14",
+      "text": "I advise you write one or two ideas, so if you suddenly draw a blank, you have something to jog your memory. If you've written a good speech that you believe in, those ideas should be sufficient to keep you on track. Once you have those ideas written down, give your speech a few practice runs in front of the mirror, into your sound recorder on your phone, or with a friend before it comes time to address a crowd. That way, you can hear how the ideas come across, make sure there are no abrupt transitions, and find out whether you are talking too fast or too slow. Timing is important. Make sure you time yourself beforehand to see how long your speech is. That is pretty much it. With practice, you'll be able to deliver an expert speech that engages and even maybe inspires your audience. Just remember, speak with emotion. No one wants to listen to someone reading from a script. As I come to a close in my speech, I'll point out that I have employed all of these tips that I have covered. I practiced my speech ahead of time and timed it, and I can even show you my one small index card with just three simple bullets on it. It's as easy as that."
+    },
+    {
+      "label": "15",
+      "text": "00:04:58,000"
+    },
+    {
+      "label": "16",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "a3bd5445-4f5c-4e9e-bb8a-4c64147a5075",
+          "prompt": "**Reasons for nerviousness**\n· Lecturers often feel more nervous if a speech is **31**_____ .",
+          "answers": [
+            "important"
+          ],
+          "rawAnswer": "important",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Did you know that lecturers tend to get more nervous if the speech they are giving is an important one"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "6fa07145-9f74-4797-97b1-2f5096846be8",
+          "prompt": "· Many think that the ability to make a good public speaking is **32**_____ , while in fact it is a skill that can be learned by anyone.",
+          "answers": [
+            "a gift"
+          ],
+          "rawAnswer": "a gift",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some people think that the ability to give a good speech is a gift that others are simply born with"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "c267832c-42e7-40bc-be67-4a16e09c23ac",
+          "prompt": "**How to prepare a quality speech**\n· The audience will only remember the **33**_____ sentence for speech.",
+          "answers": [
+            "last"
+          ],
+          "rawAnswer": "last",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Honestly, while the content of your speech is relatively important, the audience will really only remember the last sentence you say"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "382bb7d0-3ad7-4ea0-88fa-40b9600952d9",
+          "prompt": "· Ensure that your speech is **34**_____ .",
+          "answers": [
+            "well-organised"
+          ],
+          "rawAnswer": "well-organised",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This is a good way to ensure that your speech is well-organized"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "301a4a2a-4cae-4a99-9d05-29fbfd24c198",
+          "prompt": "**Do`s and Don`ts**\n· Don`t start your speech until audience is **35**_____ .",
+          "answers": [
+            "paying attention"
+          ],
+          "rawAnswer": "paying attention",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Do not, I repeat, do not proceed with your speech until the audience is paying attention"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "97f1eb71-81bb-4db4-bd4e-52b60f0743a1",
+          "prompt": "· You can make your main ideas or notes on cards or a **36**_____ .",
+          "answers": [
+            "sheet of paper"
+          ],
+          "rawAnswer": "sheet of paper",
+          "evidence": {
+            "paragraph": "",
+            "quote": "it is a good idea to write your main ideas down on a note card, sheet of paper or something"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36",
+          "unscorable": true
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "12eb129e-c52a-4003-9c02-83fafcbd3d10",
+          "prompt": "· You do not need to write down the **37**_____ speech.",
+          "answers": [
+            "entire"
+          ],
+          "rawAnswer": "entire",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But one factor that will consistently lead to a boring, forgettable speech is writing down your entire speech;Do not write your full speech down"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "1329247d-bb76-492c-948b-9a7ea74fc8c7",
+          "prompt": "· You can just write **38**_____ ideas.",
+          "answers": [
+            "one or two"
+          ],
+          "rawAnswer": "one or two",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I advise you write one or two ideas"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38",
+          "unscorable": true
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "f7714217-d13a-4c93-b385-4360e7e1fa2a",
+          "prompt": "· Remember to **39**_____ yourself to see how long your speech will be.",
+          "answers": [
+            "time"
+          ],
+          "rawAnswer": "time",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Make sure you time yourself beforehand to see how long your speech is"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "915476ee-d90d-4ff9-859c-4b52799103fb",
+          "prompt": "· Don`t just **40**_____ a script.",
+          "answers": [
+            "read"
+          ],
+          "rawAnswer": "read",
+          "evidence": {
+            "paragraph": "",
+            "quote": "No one wants to listen to someone reading from a script"
+          },
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "review",
+  "migrationNotes": [
+    {
+      "code": "key_exceeds_word_limit",
+      "severity": "error",
+      "questionId": "97f1eb71-81bb-4db4-bd4e-52b60f0743a1",
+      "sourceNumber": "36",
+      "detail": {
+        "answers": [
+          "sheet of paper"
+        ],
+        "maxWords": 2,
+        "allowNumber": true
+      }
+    },
+    {
+      "code": "key_exceeds_word_limit",
+      "severity": "error",
+      "questionId": "1329247d-bb76-492c-948b-9a7ea74fc8c7",
+      "sourceNumber": "38",
+      "detail": {
+        "answers": [
+          "one or two"
+        ],
+        "maxWords": 2,
+        "allowNumber": true
+      }
+    }
+  ],
+  "transcriptHtml": "<p>00:00:00,420</p><p>Section four. </p><p>00:00:03,240</p><p>You will hear part of a lecture about how to give a quality speech. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:22,600</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:59,400</p><p>Good morning. Today I am going to cover the daunting task of giving a quality speech, a thought that makes most of us cringe. In fact, ninety percent of all people feel nervous about public speaking, about ten percent of whom are described as genuinely terrified. Hopefully, when we are finished here today, you all will be in the ten percent of the population who do not feel nervous at all. Did you know that lecturers tend to get more nervous if the speech they are giving is an important one? It makes sense, right? You probably wouldn't be nearly as nervous to address your residence hall about the proper use of the recycle and compost bins as you might be if you were asked to give the graduation speech to your entire five thousand student class. So what is it that makes some people completely comfortable in front of crowds? Some people think that the ability to give a good speech is a gift that others are simply born with. This is almost never the case. Public speaking can be learned with practice. </p><p>00:02:00,200</p><p>The first most important thing you can do to improve your confidence in delivering a speech is to prepare a quality speech. Honestly, while the content of your speech is relatively important, the audience will really only remember the last sentence you say. It is a good idea to structure the rest of your speech to lead up to this last point to really drive your message home. This is a good way to ensure that your speech is well-organized. </p><p>00:02:31,380</p><p>Once you are confident in the quality of the speech you have written, the rest is just about your stage presence. Let's go through some do's and don'ts of public speaking. First, you want to command the attention of the room. Do not, I repeat, do not proceed with your speech until the audience is paying attention. Even Martin Luther King Jr.'s I Have a Dream speech wouldn't have made any difference in the world without the undivided attention of his audience. To continue with the I Have a Dream example, one of the reasons that MLK was such an effective orator was his ability to speak with passion and engage with his audience. That sort of charisma does not come from reading straight from paper. Don't get me wrong, it is a good idea to write your main ideas down on a note card, sheet of paper or something. But one factor that will consistently lead to a boring, forgettable speech is writing down your entire speech. Do not write your full speech down. If you are constantly reading your paper, you are not making eye contact with your audience and thus failing to really express the feeling that goes with your ideas. </p><p>00:03:42,020</p><p>I advise you write one or two ideas, so if you suddenly draw a blank, you have something to jog your memory. If you've written a good speech that you believe in, those ideas should be sufficient to keep you on track. Once you have those ideas written down, give your speech a few practice runs in front of the mirror, into your sound recorder on your phone, or with a friend before it comes time to address a crowd. That way, you can hear how the ideas come across, make sure there are no abrupt transitions, and find out whether you are talking too fast or too slow. Timing is important. Make sure you time yourself beforehand to see how long your speech is. That is pretty much it. With practice, you'll be able to deliver an expert speech that engages and even maybe inspires your audience. Just remember, speak with emotion. No one wants to listen to someone reading from a script. As I come to a close in my speech, I'll point out that I have employed all of these tips that I have covered. I practiced my speech ahead of time and timed it, and I can even show you my one small index card with just three simple bullets on it. It's as easy as that. </p><p>00:04:58,000</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/9c0169d8-6bb2-4604-abf7-8e1661734ae4.mp3",
+    "durationSeconds": 304.2,
+    "sizeBytes": 1217132,
+    "sha256": "4c694b52ad9c1fc70b02fbc880a1b5c08b3003feaca901ae8f9337efff6fd86f",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:33:26Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786349188960_93e85z_dff26ae4.mp3"
+}

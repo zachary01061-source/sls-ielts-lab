@@ -1,0 +1,257 @@
+{
+  "id": "cambridge-17-test-4-reading-1",
+  "title": "Bats to the rescue",
+  "titleCn": "Bats to the rescue",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 4
+  },
+  "sourceQuestionId": "8392",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8392",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Bats to the rescue"
+    },
+    {
+      "label": "2",
+      "text": "How Madagascar’s bats are helping to save the rainforest"
+    },
+    {
+      "label": "3",
+      "text": "There are few places in the world where relations between agriculture and conservation are more strained. Madagascar’s forests are being converted to agricultural land at a rate of one percent every year. Much of this destruction is fuelled by the cultivation of the country’s main staple crop: rice. And a key reason for this destruction is that insect pests are destroying vast quantities of what is grown by local subsistence farmers, leading them to clear forest to create new paddy fields. The result is devastating habitat and biodiversity loss on the island, but not all species are suffering. In fact, some of the island’s insectivorous bats are currently thriving and this has important implications for farmers and conservationists alike."
+    },
+    {
+      "label": "4",
+      "text": "Enter University of Cambridge zoologist Ricardo Rocha. He’s passionate about conservation, and bats. More specifically, he’s interested in how bats are responding to human activity and deforestation in particular. Rocha’s new study shows that several species of bats are giving Madagascar’s rice farmers a vital pest control service by feasting on plagues of insects. And this, he believes, can ease the financial pressure on farmers to turn forest into fields."
+    },
+    {
+      "label": "5",
+      "text": "Bats comprise roughly one-fifth of all mammal species in Madagascar and thirty-six recorded bat species are native to the island, making it one of the most important regions for conservation of this animal group anywhere in the world."
+    },
+    {
+      "label": "6",
+      "text": "Co-leading an international team of scientists, Rocha found that several species of indigenous bats are taking advantage of habitat modification to hunt insects swarming above the country’s rice fields. They include the Malagasy mouse-eared bat, Major’s long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters’ wrinkle-lipped bat."
+    },
+    {
+      "label": "7",
+      "text": "‘These winner species are providing a valuable free service to Madagascar as biological pest suppressors,’ says Rocha. ‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and grass webworm. The damage which these insects cause puts the island’s farmers under huge financial pressure and that encourages deforestation.’"
+    },
+    {
+      "label": "8",
+      "text": "The study, now published in the journal Agriculture, Ecosystems and Environment, set out to investigate the feeding activity of insectivorous bats in the farmland bordering the Ranomafana National Park in the southeast of the country."
+    },
+    {
+      "label": "9",
+      "text": "Rocha and his team used state-of-the-art ultrasonic recorders to record over a thousand bat ‘feeding buzzes’ (echolocation sequences used by bats to target their prey) at 54 sites, in order to identify the favourite feeding spots of the bats. They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites."
+    },
+    {
+      "label": "10",
+      "text": "The recordings revealed that bat activity over rice fields was much higher than it was in continuous forest – seven times higher over rice fields which were on flat ground, and sixteen times higher over fields on the sides of hills – leaving no doubt that the animals are preferentially foraging in these man-made ecosystems. The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these crops more susceptible to insect pest infestations. DNA analysis showed that all six species of bat had fed on economically important insect pests. While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that the bats were consuming pests of other crops, including the black twig borer (which infests coffee plants), the sugarcane cicada, the macadamia nut-borer, and the sober tabby (a pest of citrus fruits)."
+    },
+    {
+      "label": "11",
+      "text": "‘The effectiveness of bats as pest controllers has already been proven in the USA and Catalonia,’ said co-author James Kemp, from the University of Lisbon. ‘But our study is the first to show this happening in Madagascar, where the stakes for both farmers and conservationists are so high.’"
+    },
+    {
+      "label": "12",
+      "text": "Local people may have a further reason to be grateful to their bats. While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats feed not just on crop pests but also on mosquitoes – carriers of malaria, Rift Valley fever virus and elephantiasis – as well as blackflies, which spread river blindness."
+    },
+    {
+      "label": "13",
+      "text": "Rocha points out that the relationship is complicated. When food is scarce, bats become a crucial source of protein for local people. Even the children will hunt them. And as well as roosting in trees, the bats sometimes roost in buildings, but are not welcomed there because they make them unclean. At the same time, however, they are associated with sacred caves and the ancestors, so they can be viewed as beings between worlds, which makes them very significant in the culture of the people. And one potential problem is that while these bats are benefiting from farming, at the same time deforestation is reducing the places where they can roost, which could have long-term effects on their numbers. Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing bat houses.’"
+    },
+    {
+      "label": "14",
+      "text": "Rocha and his colleagues believe that maximising bat populations can help to boost crop yields and promote sustainable livelihoods. The team is now calling for further research to quantify this contribution. ‘I’m very optimistic,’ says Rocha. ‘If we give nature a hand, we can speed up the process of regeneration.’"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1–6\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Many Madagascan forests are being destroyed by attacks from insects",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8392_932956",
+          "explanation": "判断题是一种非常考验考生能否耐心阅读、细心关注细节表达和分辨句意的题型。考生需要牢记这个题型特点，才能更好地绕开许多出题陷阱。比如本题的出题方式就非常“狡诈”：虽然定位不难，考生能轻而易举地在开篇第一段的第二句话里就看到与“森林”有关的信息，但本句说的却是“森林变农田”。接下来的一句话说的是造成这种情况的助燃因素：这个国家的主食作物是水稻。至此还没有出现与“昆虫”有关的信息，且“种植水稻”与“森林破坏”之间的关联好像并不直白分明，因此考生还是无法笃定结论，仍需继续向下文中阅读寻找。在第四句话里，终于有了更细节的解释说明：是因为昆虫侵害影响了水稻产量，因此农夫需要开垦出更多的稻田种粮食，所以只能砍伐森林。结合了这三句话的意思之后终于可知：造成森林破坏的直接原因是农民砍伐开垦耕地，而非间接导致了这个动作的昆虫攻击，这与题干的表达是矛盾抵触的，因而正确答案为：FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Loss of habitat has badly affected insectivorous bats in Madagascar.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8392_580081",
+          "explanation": "与上一道题相比，本题可谓是友好多了。首先是定位处接近上一题，考生在完成了第1题的解答后，在紧邻的下一句原文里就可看到“栖息地丧失”这个相关信息；虽然这一句话还没有充分提供答题信息、考生仍需再看下一句，但这两句话的表达都非常直白好懂。其次，解答此题只需要考生掌握thrive这个高频出现在剑桥真题阅读文章中的核心单词，即可顺利得出结论。退一万步来说，即使仍然不认识此词(如是，请移步前文“必背词汇”列表)，其实根据这两句话的上下文也能进行合理地推测：前一句说确实栖息地和生物多样性受损了，但也不是所有物种都深受其苦；下一句说有一些蝙蝠就正在thrive。很显然这些蝙蝠是作为“并未受苦”的例证被举出来的，这与题干说“蝙蝠受到很坏的影响”形成了矛盾抵触。无论是哪种情况，考生均可比较笃定地确认此题答案应为：FALSE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Ricardo Rocha has carried out studies of bats in different parts of the world.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8392_566848",
+          "explanation": "本题虽然包含了大写人名信息作为定位，然而却并不非常好找。因为这个人名在第二段开头处就出现了，然而一句句依次读下来就会发现，第二段和第三段的全文尽管侃侃而谈了蝙蝠研究的诸多细节，却始终闭口不提这位学者是否还在其它地方做过研究。这种时候，考生的读题耐心和自信心恐怕会受到不小的挑战，但只需牢记判断题“一次对比两道题题干信息”这个原则，就能在第四段已经连续遇到第4、5题的解题信息而仍没有说到本题相关内容时，比较笃定地判断出正确答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Habitat modification has resulted in indigenous bats in Madagascar becoming useful to farmers.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8392_594054",
+          "explanation": "本题的解答对于考生来说应该有一定难度，因为虽然题干中habitat modification这个信息一模一样地出现在了第四段的第一句话里，然而这句话表达的意思却只是“蝙蝠在充分利用这种栖息地的变化”而没有提及“这种行为是否对农人们有利”。继续耐心向下文中阅读的话，考生会先遇到第5题解题相关的蝙蝠品种名称，这又难免考验了考生对于第4题定位准确性的自信。不过，判断题虽然在绝大多数情况下顺序出题，但在之前的剑桥真题阅读文章中，也曾出现过非常偶然的小乱序情况。知晓这一特点的考生应该可以更加稳健地把控自己的总体阅读和解题动作，耐心向后文中继续阅读和获得更多信息，从而在相距不远的第五段里最终找到明确的同义表述，得出正确答案为：TRUE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "The Malagasy mouse-eared bat is more common than other indigenous bat species in Madagascar.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8392_378842",
+          "explanation": "本题的解答与上一道题其实是交织在一起的，且前后出现了小小的乱序，因而间接提高了解题难度。不过，如上一题中所说，考生只需熟悉判断题“顺序出题极少数情况下有乱序”这个特点、抱定“一次寻找对比两道题信息”的解题原则，不难首先在第四段最后一句里找到叫这个名字的蝙蝠种类，再通过对后文几句话的阅读，确认文中并没有对这几个本地品种的常见与否进行比较，从而确认答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Bats may feed on paddy swarming caterpillars and grass webworms.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8392_202559",
+          "explanation": "本题应该算是这个判断题中最为友好的一道（没有之一）了。考生也许不一定认识这两种被捕食对象的昆虫名称，但它们全都一模一样地出现在了原文对应句里，且考生只需认真读懂本句便可看出这是一个非常直白的同义表述，因此答案应为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 7–13\n\nComplete the table below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "• DNA analysis of bat [7] ______",
+          "answers": [
+            "droppings"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8392_530846",
+          "explanation": "7. 本题的定位非常友好。首先，题干中的大写提示DNA所在的原文句就是本题的出处句，考生完全没有需要多读内容的负担；其次，考生只需看出题干中的名词analysis在原文中仅仅只是替换成了动词的analyse，即可通过对比得出答案应为：droppings。\n\n8. 本题的定位依然毫不困难，因为与空格中并列的几种作物都原词重现在了原文中相应的出题句里。只不过，出题句的句式略显复杂，需要考生耐心对比排除，最终锁定到底哪一种作物才是空格中所缺失的内容：coffee。\n\n9. 本题定位继续友好，题目考查方式与上一题类似：考生同样可以通过题干信息的原词重现在原文中找到对应句，也同样需要对这个比较复杂的句子进行耐心阅读分析，从而通过锁定与“黑蝇”形成并列关系的对象，得出答案应为：mosquitoes。\n\n10. 本题仍可利用food一词在原文中定位到出题句，考生需格外注意题干中的“rich in ......”这个部分，是后置的定语，修饰说明食物的属性特点。考生只需看出来这一点，再耐心看懂句意，即可得出答案：protein。\n\n11. 本题的出处距离上一题很近，且原文句里直接出现了buildings和roost这两个题干中原词。句子本身的结构也不复杂，考生看懂句意后即可得出正确答案应为：unclean。\n\n12. 在本题中，虽然不像前几题里那样有题干词汇直接原词重现在文章出题句中的美事，但无论是important与significant这对再基础不过的同义替换对应，还是句子本身简单直白的表述，都不难提示考生看懂句意和分析对比，进而确认空格中所缺失的答案应为：culture。\n\n13. 本题的定位略不容易，尤其是如果考生不熟悉相对灵活宽松的同义替换方式、执着于必须在原文中找到题干里每一个信息的对应才肯罢休的话，可能就会在解答此题时遭遇一定困难。特别是空格前的special一词，如果非要在原文里找个“特殊的”对象，恐怕会反复阅读而不得。不过，虽然题干信息回到对应原文中都被替换掉了，且采用了更为意译的表述方式，但一来解题到了此处，已经没有剩下多少篇幅，考生应可打起精神一鼓作气；二来句子的结构也不复杂，更未使用什么长难怪的生僻词汇，因此考生应当也可以在耐心阅读和对比后，锁定正确答案应为：houses。",
+          "promptHtml": "• DNA analysis of bat [7] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "− ate pests of rice, [8] ______ , sugarcane, nuts and fruit",
+          "answers": [
+            "coffee"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8392_967672",
+          "explanation": "7. 本题的定位非常友好。首先，题干中的大写提示DNA所在的原文句就是本题的出处句，考生完全没有需要多读内容的负担；其次，考生只需看出题干中的名词analysis在原文中仅仅只是替换成了动词的analyse，即可通过对比得出答案应为：droppings。\n\n8. 本题的定位依然毫不困难，因为与空格中并列的几种作物都原词重现在了原文中相应的出题句里。只不过，出题句的句式略显复杂，需要考生耐心对比排除，最终锁定到底哪一种作物才是空格中所缺失的内容：coffee。\n\n9. 本题定位继续友好，题目考查方式与上一题类似：考生同样可以通过题干信息的原词重现在原文中找到对应句，也同样需要对这个比较复杂的句子进行耐心阅读分析，从而通过锁定与“黑蝇”形成并列关系的对象，得出答案应为：mosquitoes。\n\n10. 本题仍可利用food一词在原文中定位到出题句，考生需格外注意题干中的“rich in ......”这个部分，是后置的定语，修饰说明食物的属性特点。考生只需看出来这一点，再耐心看懂句意，即可得出答案：protein。\n\n11. 本题的出处距离上一题很近，且原文句里直接出现了buildings和roost这两个题干中原词。句子本身的结构也不复杂，考生看懂句意后即可得出正确答案应为：unclean。\n\n12. 在本题中，虽然不像前几题里那样有题干词汇直接原词重现在文章出题句中的美事，但无论是important与significant这对再基础不过的同义替换对应，还是句子本身简单直白的表述，都不难提示考生看懂句意和分析对比，进而确认空格中所缺失的答案应为：culture。\n\n13. 本题的定位略不容易，尤其是如果考生不熟悉相对灵活宽松的同义替换方式、执着于必须在原文中找到题干里每一个信息的对应才肯罢休的话，可能就会在解答此题时遭遇一定困难。特别是空格前的special一词，如果非要在原文里找个“特殊的”对象，恐怕会反复阅读而不得。不过，虽然题干信息回到对应原文中都被替换掉了，且采用了更为意译的表述方式，但一来解题到了此处，已经没有剩下多少篇幅，考生应可打起精神一鼓作气；二来句子的结构也不复杂，更未使用什么长难怪的生僻词汇，因此考生应当也可以在耐心阅读和对比后，锁定正确答案应为：houses。",
+          "promptHtml": "− ate pests of rice, [8] ______ , sugarcane, nuts and fruit"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "− prevent the spread of disease by eating [9] ______ and blackflies",
+          "answers": [
+            "mosquitoes"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8392_602177",
+          "explanation": "7. 本题的定位非常友好。首先，题干中的大写提示DNA所在的原文句就是本题的出处句，考生完全没有需要多读内容的负担；其次，考生只需看出题干中的名词analysis在原文中仅仅只是替换成了动词的analyse，即可通过对比得出答案应为：droppings。\n\n8. 本题的定位依然毫不困难，因为与空格中并列的几种作物都原词重现在了原文中相应的出题句里。只不过，出题句的句式略显复杂，需要考生耐心对比排除，最终锁定到底哪一种作物才是空格中所缺失的内容：coffee。\n\n9. 本题定位继续友好，题目考查方式与上一题类似：考生同样可以通过题干信息的原词重现在原文中找到对应句，也同样需要对这个比较复杂的句子进行耐心阅读分析，从而通过锁定与“黑蝇”形成并列关系的对象，得出答案应为：mosquitoes。\n\n10. 本题仍可利用food一词在原文中定位到出题句，考生需格外注意题干中的“rich in ......”这个部分，是后置的定语，修饰说明食物的属性特点。考生只需看出来这一点，再耐心看懂句意，即可得出答案：protein。\n\n11. 本题的出处距离上一题很近，且原文句里直接出现了buildings和roost这两个题干中原词。句子本身的结构也不复杂，考生看懂句意后即可得出正确答案应为：unclean。\n\n12. 在本题中，虽然不像前几题里那样有题干词汇直接原词重现在文章出题句中的美事，但无论是important与significant这对再基础不过的同义替换对应，还是句子本身简单直白的表述，都不难提示考生看懂句意和分析对比，进而确认空格中所缺失的答案应为：culture。\n\n13. 本题的定位略不容易，尤其是如果考生不熟悉相对灵活宽松的同义替换方式、执着于必须在原文中找到题干里每一个信息的对应才肯罢休的话，可能就会在解答此题时遭遇一定困难。特别是空格前的special一词，如果非要在原文里找个“特殊的”对象，恐怕会反复阅读而不得。不过，虽然题干信息回到对应原文中都被替换掉了，且采用了更为意译的表述方式，但一来解题到了此处，已经没有剩下多少篇幅，考生应可打起精神一鼓作气；二来句子的结构也不复杂，更未使用什么长难怪的生僻词汇，因此考生应当也可以在耐心阅读和对比后，锁定正确答案应为：houses。",
+          "promptHtml": "− prevent the spread of disease by eating [9] ______ and blackflies"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "− they provide food rich in [10] ______",
+          "answers": [
+            "protein"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8392_680820",
+          "explanation": "7. 本题的定位非常友好。首先，题干中的大写提示DNA所在的原文句就是本题的出处句，考生完全没有需要多读内容的负担；其次，考生只需看出题干中的名词analysis在原文中仅仅只是替换成了动词的analyse，即可通过对比得出答案应为：droppings。\n\n8. 本题的定位依然毫不困难，因为与空格中并列的几种作物都原词重现在了原文中相应的出题句里。只不过，出题句的句式略显复杂，需要考生耐心对比排除，最终锁定到底哪一种作物才是空格中所缺失的内容：coffee。\n\n9. 本题定位继续友好，题目考查方式与上一题类似：考生同样可以通过题干信息的原词重现在原文中找到对应句，也同样需要对这个比较复杂的句子进行耐心阅读分析，从而通过锁定与“黑蝇”形成并列关系的对象，得出答案应为：mosquitoes。\n\n10. 本题仍可利用food一词在原文中定位到出题句，考生需格外注意题干中的“rich in ......”这个部分，是后置的定语，修饰说明食物的属性特点。考生只需看出来这一点，再耐心看懂句意，即可得出答案：protein。\n\n11. 本题的出处距离上一题很近，且原文句里直接出现了buildings和roost这两个题干中原词。句子本身的结构也不复杂，考生看懂句意后即可得出正确答案应为：unclean。\n\n12. 在本题中，虽然不像前几题里那样有题干词汇直接原词重现在文章出题句中的美事，但无论是important与significant这对再基础不过的同义替换对应，还是句子本身简单直白的表述，都不难提示考生看懂句意和分析对比，进而确认空格中所缺失的答案应为：culture。\n\n13. 本题的定位略不容易，尤其是如果考生不熟悉相对灵活宽松的同义替换方式、执着于必须在原文中找到题干里每一个信息的对应才肯罢休的话，可能就会在解答此题时遭遇一定困难。特别是空格前的special一词，如果非要在原文里找个“特殊的”对象，恐怕会反复阅读而不得。不过，虽然题干信息回到对应原文中都被替换掉了，且采用了更为意译的表述方式，但一来解题到了此处，已经没有剩下多少篇幅，考生应可打起精神一鼓作气；二来句子的结构也不复杂，更未使用什么长难怪的生僻词汇，因此考生应当也可以在耐心阅读和对比后，锁定正确答案应为：houses。",
+          "promptHtml": "− they provide food rich in [10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "− the buildings where they roost become [11] ______",
+          "answers": [
+            "unclean"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8392_276670",
+          "explanation": "7. 本题的定位非常友好。首先，题干中的大写提示DNA所在的原文句就是本题的出处句，考生完全没有需要多读内容的负担；其次，考生只需看出题干中的名词analysis在原文中仅仅只是替换成了动词的analyse，即可通过对比得出答案应为：droppings。\n\n8. 本题的定位依然毫不困难，因为与空格中并列的几种作物都原词重现在了原文中相应的出题句里。只不过，出题句的句式略显复杂，需要考生耐心对比排除，最终锁定到底哪一种作物才是空格中所缺失的内容：coffee。\n\n9. 本题定位继续友好，题目考查方式与上一题类似：考生同样可以通过题干信息的原词重现在原文中找到对应句，也同样需要对这个比较复杂的句子进行耐心阅读分析，从而通过锁定与“黑蝇”形成并列关系的对象，得出答案应为：mosquitoes。\n\n10. 本题仍可利用food一词在原文中定位到出题句，考生需格外注意题干中的“rich in ......”这个部分，是后置的定语，修饰说明食物的属性特点。考生只需看出来这一点，再耐心看懂句意，即可得出答案：protein。\n\n11. 本题的出处距离上一题很近，且原文句里直接出现了buildings和roost这两个题干中原词。句子本身的结构也不复杂，考生看懂句意后即可得出正确答案应为：unclean。\n\n12. 在本题中，虽然不像前几题里那样有题干词汇直接原词重现在文章出题句中的美事，但无论是important与significant这对再基础不过的同义替换对应，还是句子本身简单直白的表述，都不难提示考生看懂句意和分析对比，进而确认空格中所缺失的答案应为：culture。\n\n13. 本题的定位略不容易，尤其是如果考生不熟悉相对灵活宽松的同义替换方式、执着于必须在原文中找到题干里每一个信息的对应才肯罢休的话，可能就会在解答此题时遭遇一定困难。特别是空格前的special一词，如果非要在原文里找个“特殊的”对象，恐怕会反复阅读而不得。不过，虽然题干信息回到对应原文中都被替换掉了，且采用了更为意译的表述方式，但一来解题到了此处，已经没有剩下多少篇幅，考生应可打起精神一鼓作气；二来句子的结构也不复杂，更未使用什么长难怪的生僻词汇，因此考生应当也可以在耐心阅读和对比后，锁定正确答案应为：houses。",
+          "promptHtml": "− the buildings where they roost become [11] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "− they play an important role in local [12] ______",
+          "answers": [
+            "culture"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8392_554774",
+          "explanation": "7. 本题的定位非常友好。首先，题干中的大写提示DNA所在的原文句就是本题的出处句，考生完全没有需要多读内容的负担；其次，考生只需看出题干中的名词analysis在原文中仅仅只是替换成了动词的analyse，即可通过对比得出答案应为：droppings。\n\n8. 本题的定位依然毫不困难，因为与空格中并列的几种作物都原词重现在了原文中相应的出题句里。只不过，出题句的句式略显复杂，需要考生耐心对比排除，最终锁定到底哪一种作物才是空格中所缺失的内容：coffee。\n\n9. 本题定位继续友好，题目考查方式与上一题类似：考生同样可以通过题干信息的原词重现在原文中找到对应句，也同样需要对这个比较复杂的句子进行耐心阅读分析，从而通过锁定与“黑蝇”形成并列关系的对象，得出答案应为：mosquitoes。\n\n10. 本题仍可利用food一词在原文中定位到出题句，考生需格外注意题干中的“rich in ......”这个部分，是后置的定语，修饰说明食物的属性特点。考生只需看出来这一点，再耐心看懂句意，即可得出答案：protein。\n\n11. 本题的出处距离上一题很近，且原文句里直接出现了buildings和roost这两个题干中原词。句子本身的结构也不复杂，考生看懂句意后即可得出正确答案应为：unclean。\n\n12. 在本题中，虽然不像前几题里那样有题干词汇直接原词重现在文章出题句中的美事，但无论是important与significant这对再基础不过的同义替换对应，还是句子本身简单直白的表述，都不难提示考生看懂句意和分析对比，进而确认空格中所缺失的答案应为：culture。\n\n13. 本题的定位略不容易，尤其是如果考生不熟悉相对灵活宽松的同义替换方式、执着于必须在原文中找到题干里每一个信息的对应才肯罢休的话，可能就会在解答此题时遭遇一定困难。特别是空格前的special一词，如果非要在原文里找个“特殊的”对象，恐怕会反复阅读而不得。不过，虽然题干信息回到对应原文中都被替换掉了，且采用了更为意译的表述方式，但一来解题到了此处，已经没有剩下多少篇幅，考生应可打起精神一鼓作气；二来句子的结构也不复杂，更未使用什么长难怪的生僻词汇，因此考生应当也可以在耐心阅读和对比后，锁定正确答案应为：houses。",
+          "promptHtml": "− they play an important role in local [12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "• farmers should provide special [13] ______ to support the bat population",
+          "answers": [
+            "houses"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8392_386504",
+          "explanation": "7. 本题的定位非常友好。首先，题干中的大写提示DNA所在的原文句就是本题的出处句，考生完全没有需要多读内容的负担；其次，考生只需看出题干中的名词analysis在原文中仅仅只是替换成了动词的analyse，即可通过对比得出答案应为：droppings。\n\n8. 本题的定位依然毫不困难，因为与空格中并列的几种作物都原词重现在了原文中相应的出题句里。只不过，出题句的句式略显复杂，需要考生耐心对比排除，最终锁定到底哪一种作物才是空格中所缺失的内容：coffee。\n\n9. 本题定位继续友好，题目考查方式与上一题类似：考生同样可以通过题干信息的原词重现在原文中找到对应句，也同样需要对这个比较复杂的句子进行耐心阅读分析，从而通过锁定与“黑蝇”形成并列关系的对象，得出答案应为：mosquitoes。\n\n10. 本题仍可利用food一词在原文中定位到出题句，考生需格外注意题干中的“rich in ......”这个部分，是后置的定语，修饰说明食物的属性特点。考生只需看出来这一点，再耐心看懂句意，即可得出答案：protein。\n\n11. 本题的出处距离上一题很近，且原文句里直接出现了buildings和roost这两个题干中原词。句子本身的结构也不复杂，考生看懂句意后即可得出正确答案应为：unclean。\n\n12. 在本题中，虽然不像前几题里那样有题干词汇直接原词重现在文章出题句中的美事，但无论是important与significant这对再基础不过的同义替换对应，还是句子本身简单直白的表述，都不难提示考生看懂句意和分析对比，进而确认空格中所缺失的答案应为：culture。\n\n13. 本题的定位略不容易，尤其是如果考生不熟悉相对灵活宽松的同义替换方式、执着于必须在原文中找到题干里每一个信息的对应才肯罢休的话，可能就会在解答此题时遭遇一定困难。特别是空格前的special一词，如果非要在原文里找个“特殊的”对象，恐怕会反复阅读而不得。不过，虽然题干信息回到对应原文中都被替换掉了，且采用了更为意译的表述方式，但一来解题到了此处，已经没有剩下多少篇幅，考生应可打起精神一鼓作气；二来句子的结构也不复杂，更未使用什么长难怪的生僻词汇，因此考生应当也可以在耐心阅读和对比后，锁定正确答案应为：houses。",
+          "promptHtml": "• farmers should provide special [13] ______ to support the bat population"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"2\"><span><strong>The study carried out by Rocha&#x27;s team</strong></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong><span>Aim  </span></strong></td>\n\t\t\t<td><span>• to investigate the feeding habits of bats in farmland near the Ranomafana National Park</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong><span>Method</span></strong></td>\n\t\t\t<td><span>• ultrasonic recording to identify favourite feeding spots<br>\n\t\t\t• DNA analysis of bat </span><strong>[7] ______</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Findings</strong></td>\n\t\t\t<td><span>• the bats<br>\n\t\t\t  − were most active in rice fields located on hills<br>\n\t\t\t  − ate pests of rice, </span><strong>[8] ______</strong><span> , sugarcane, nuts and fruit<br>\n\t\t\t  − prevent the spread of disease by eating </span><strong>[9] ______</strong><span> and blackflies<br>\n\t\t\t• local attitudes to bats are mixed:<br>\n\t\t\t  − they provide food rich in </span><strong>[10] ______</strong><br>\n\t\t\t<span>  − the buildings where they roost become </span><strong>[11] ______</strong><br>\n\t\t\t<span>  − they play an important role in local </span><strong>[12] ______</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span><strong>Recommendation</strong></span></td>\n\t\t\t<td><span>• farmers should provide special </span><strong>[13] ______</strong><span> to support the bat population</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><strong>Bats to the rescue </strong></span></span><br><span>How Madagascar’s bats are helping to save the rainforest </span></p><p><span>There are few places in the world where relations between agriculture and conservation are more strained. Madagascar’s forests are being converted to agricultural land at a rate of one percent every year. Much of this destruction is fuelled by the cultivation of the country’s main staple crop: rice. And a key reason for this destruction is that insect pests are destroying vast quantities of what is grown by local subsistence farmers, leading them to clear forest to create new paddy fields. The result is devastating habitat and biodiversity loss on the island, but not all species are suffering. In fact, some of the island’s insectivorous bats are currently thriving and this has important implications for farmers and conservationists alike. </span><br><br><span>Enter University of Cambridge zoologist Ricardo Rocha. He’s passionate about conservation, and bats. More specifically, he’s interested in how bats are responding to human activity and deforestation in particular. Rocha’s new study shows that several species of bats are giving Madagascar’s rice farmers a vital pest control service by feasting on plagues of insects. And this, he believes, can ease the financial pressure on farmers to turn forest into fields. </span><br><br><span>Bats comprise roughly one-fifth of all mammal species in Madagascar and thirty-six recorded bat species are native to the island, making it one of the most important regions for conservation of this animal group anywhere in the world. </span></p><p><span>Co-leading an international team of scientists, Rocha found that several species of indigenous bats are taking advantage of habitat modification to hunt insects swarming above the country’s rice fields. They include the Malagasy mouse-eared bat, Major’s long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters’ wrinkle-lipped bat. </span></p><p><span>‘These winner species are providing a valuable free service to Madagascar as biological pest suppressors,’ says Rocha. ‘We found that six species of bat are preying on rice pests, including the paddy swarming caterpillar and grass webworm. The damage which these insects cause puts the island’s farmers under huge financial pressure and that encourages deforestation.’ </span></p><p><span>The study, now published in the journal <em>Agriculture, Ecosystems and Environment</em>, set out to investigate the feeding activity of insectivorous bats in the farmland bordering the Ranomafana National Park in the southeast of the country. </span></p><p><span>Rocha and his team used state-of-the-art ultrasonic recorders to record over a thousand bat ‘feeding buzzes’ (echolocation sequences used by bats to target their prey) at 54 sites, in order to identify the favourite feeding spots of the bats. They next used DNA barcoding techniques to analyse droppings collected from bats at the different sites. </span></p><p><span>The recordings revealed that bat activity over rice fields was much higher than it was in continuous forest – seven times higher over rice fields which were on flat ground, and sixteen times higher over fields on the sides of hills – leaving no doubt that the animals are preferentially foraging in these man-made ecosystems. The researchers suggest that the bats favour these fields because lack of water and nutrient run-off make these crops more susceptible to insect pest infestations. DNA analysis showed that all six species of bat had fed on economically important insect pests. While the findings indicated that rice farming benefits most from the bats, the scientists also found indications that the bats were consuming pests of other crops, including the black twig borer (which infests coffee plants), the sugarcane cicada, the macadamia nut-borer, and the sober tabby (a pest of citrus fruits). </span></p><p><span>‘The effectiveness of bats as pest controllers has already been proven in the USA and Catalonia,’ said co-author James Kemp, from the University of Lisbon. ‘But our study is the first to show this happening in Madagascar, where the stakes for both farmers and conservationists are so high.’ <br><br>Local people may have a further reason to be grateful to their bats. While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats feed not just on crop pests but also on mosquitoes – carriers of malaria, Rift Valley fever virus and elephantiasis – as well as blackflies, which spread river blindness. </span></p><p><span>Rocha points out that the relationship is complicated. When food is scarce, bats become a crucial source of protein for local people. Even the children will hunt them. And as well as roosting in trees, the bats sometimes roost in buildings, but are not welcomed there because they make them unclean. At the same time, however, they are associated with sacred caves and the ancestors, so they can be viewed as beings between worlds, which makes them very significant in the culture of the people. And one potential problem is that while these bats are benefiting from farming, at the same time deforestation is reducing the places where they can roost, which could have long-term effects on their numbers. Rocha says, ‘With the right help, we hope that farmers can promote this mutually beneficial relationship by installing bat houses.’ </span></p><p><span>Rocha and his colleagues believe that maximising bat populations can help to boost crop yields and promote sustainable livelihoods. The team is now calling for further research to quantify this contribution. ‘I’m very optimistic,’ says Rocha. ‘If we give nature a hand, we can speed up the process of regeneration.’ </span></p>"
+}

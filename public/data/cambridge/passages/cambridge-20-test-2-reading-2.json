@@ -1,0 +1,420 @@
+{
+  "id": "cambridge-20-test-2-reading-2",
+  "title": "Procrastination",
+  "titleCn": "Procrastination",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 2
+  },
+  "sourceQuestionId": "8555",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8555",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Procrastination"
+    },
+    {
+      "label": "2",
+      "text": "A psychologist explains why we put off important tasks and how we can break this habit"
+    },
+    {
+      "label": "3",
+      "text": "A Procrastination is the habit of delaying a necessary task, usually by focusing on less urgent, more enjoyable, and easier activities instead. We all do it from time to time. We might be composing a message to a friend who we have to let down, or putting together an important report for college or work; we’re doing our best to avoid doing the job at hand, but deep down we know that we should just be getting on with it. Unfortunately, berating ourselves won’t stop us procrastinating again. In fact, it’s one of the worst things we can do. This matters because, as my research shows, procrastination doesn’t just waste time, but is actually linked to other problems, too."
+    },
+    {
+      "label": "4",
+      "text": "B Contrary to popular belief, procrastination is not due to laziness or poor time management. Scientific studies suggest procrastination is, in fact, caused by poor mood management. This makes sense if we consider that people are more likely to put off starting or completing tasks that they are really not keen to do. If just thinking about the task threatens our sense of self-worth or makes us anxious, we will be more likely to put it off. Research involving brain imaging has found that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate compared to those who don’t procrastinate frequently."
+    },
+    {
+      "label": "5",
+      "text": "C Tasks that are emotionally loaded or difficult, such as preparing for exams, are prime candidates for procrastination. People with low self-esteem are more likely to procrastinate. Another group of people who tend to procrastinate are perfectionists, who worry their work will be judged harshly by others. We know that if we don’t finish that report or complete those home repairs, then what we did can’t be evaluated. When we avoid such tasks, we also avoid the negative emotions associated with them. This is rewarding, and it conditions us to use procrastination to repair our mood. If we engage in more enjoyable tasks instead, we get another mood boost. In the long run, however, procrastination isn’t an effective way of managing emotions. The ‘mood repair’ we experience is temporary. Afterwards, people tend to be left with a sense of guilt that not only increases their negative mood, but also reinforces their tendency to procrastinate."
+    },
+    {
+      "label": "6",
+      "text": "D So why is this such a problem? When most people think of the costs of procrastination, they think of the toll on productivity. For example, studies have shown that procrastination negatively impacts on student performance. But putting off reading textbooks and writing essays may affect other areas of students’ lives. In one study of over 3,000 German students over a six-month period, those who reported procrastinating over their university work were also more likely to engage in study-related misconduct, such as cheating and plagiarism. But the behaviour that procrastination was most closely linked with was using fraudulent excuses to get deadline extensions. Other research shows that employees on average spend almost a quarter of their workday procrastinating, and again this is linked with negative outcomes. In fact, in one US survey of over 22,000 employees, participants who said they regularly procrastinated had less annual income and less employment stability. For every one-point increase on a measure of chronic procrastination, annual income decreased by US$15,000."
+    },
+    {
+      "label": "7",
+      "text": "E Procrastination also correlates with serious health and well-being problems. A tendency to procrastinate is linked to poor mental health, including higher levels of depression and anxiety. Across numerous studies, I’ve found people who regularly procrastinate report a greater number of health issues, such as headaches, flu and colds, and digestive issues. They also experience higher levels of stress and poor sleep quality. They are less likely to practise healthy behaviours, such as eating a healthy diet and regularly exercising, and use destructive coping strategies to manage their stress. In one study of over 700 people, I found people prone to procrastination had a 63% greater risk of poor heart health after accounting for other personality traits and demographics."
+    },
+    {
+      "label": "8",
+      "text": "F Finding better ways of managing our emotions is one route out of the vicious cycle of procrastination. An important first step is to manage our environment and how we view the task. There are a number of evidence-based strategies that can help us fend off distractions that can occupy our minds when we should be focusing on the thing we should be getting on with. For example, reminding ourselves about why the task is important and valuable can increase positive feelings towards it. Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle. We should admit that we feel bad, but not be overly critical of ourselves. We should remind ourselves that we’re not the first person to procrastinate, nor the last. Doing this can take the edge off the negative feelings we have about ourselves when we procrastinate. This can all make it easier to get back on track."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–16\n\nReading Passage 2 has six paragraphs, A–F.\n\nWhich paragraph contains the following information?\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "mention of false assumptions about why people procrastinate",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8555_152050-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "reference to the realisation that others also procrastinate",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8555_152050-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "neurological evidence of a link between procrastination and emotion",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8555_152050-3"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 17–22\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Many people think that procrastination is the result of [17] ______. Others believe it to be the result of an inability to organise time efficiently.",
+          "answers": [
+            "laziness"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8555_101743",
+          "explanation": "17. 译文：许多人认为拖延是____的结果。\n\n如果考生采用了平行阅读的方法来兼顾解答本篇中的全部三个题型，那么在第一个题型中寻找第14题时，其实也就同时能获得解答本题的线索：B段第一句说“拖延与大众看法相反，并非由于懒惰或时间管理不佳”，其实正是交代了大众看法对拖延的归因。不过，由于本句中出现了两个并列的原因：laziness和poor time management，仅凭这一句无法确定到底空格内应当选填哪一个；考生仍需再对比这句之后的另一句，看到下一句说“其他人相信拖延是未能有效管理时间所致”，由此排除掉了poor time management这个内容，可以敲定空格内的答案应为laziness。\n\n18. 译文：我们最容易推迟完成的是那些有可能损害我们的自我价值感或导致我们感觉____的任务。\n\n本题题干中的信息在原文中进行了比较多的同义替换，因此考生如果只聚焦于寻找单词之间的严格对应，恐怕难以又快又准地找到出题处，反而是耐心逐句读懂大致句意后，能更准确地锁定答案出处。首先，题干中的最高级most likely在原文中成了比较级的表达方式more likely；其次，与空格形成了并列关系的另一种消极感受damage our self-esteem在原文中替换成了threaten our sense of self-worth；最后，空格前的动词部分从题干中的cause us to feel换成了原文中简单直白的make us。不过，由于这些词汇本身的认知难度其实并不高，所以考生只要读懂了意思，就不难锁定空格内的答案应为anxious。\n\n19. 译文：将经常拖延人群与其他人进行比较的研究甚至发现二者负责调节情绪和辨别____的脑区域都不一样。\n\n本题的出处与上一个题型中的第16题来自同一个句子，采用平行阅读的考生可以再次在读懂这个句子、同时解答出两道题目时感受这种方法一石二鸟的好处。这个句子的语法结构略复杂，但看懂句意就能知晓，在习惯性拖延和不怎么拖延的两群人身上，负责两种功能的脑区域是不一样的。其中一种功能是几乎与题干中regulating emotions没什么区别的emotion regulation，另一种则是detection of threats。由于detection的意思已经由题干中的finding进行了表达，于是空格内的答案就应为threats。\n\n20. 译文：为参加____做准备就可以算是这类任务的一个典型代表。\n\n题干这句话中使用了such task这个向前指代的表述，明确告诉考生只看这句话本身是不够的，需要结合前一句话一起阅读，才能真正理解空格中到底需要什么内容。所谓“这类任务”，是说造成我们拖延的任务往往令人情绪负重或较为困难，这句话里的emotionally loaded and difficult几乎是一模一样地出现在了C段第一句话里，发挥了极大的定位价值。考生只需完整读懂全句，就能根据such as preparing for exams这个举例提示，确认空格中的答案应为exams。\n\n21. 译文：容易拖延的人要么是____，要么是自我价值感低。\n\n本题的定位紧随上一题，题干中的low self-esteem一模一样地出现在了C段第二句，提示考生答案应当就在附近。接下来耐心读懂第三句就能看出，第二句里描述的一类容易拖延的人是因为自视较低，而第三句则并列描述了另一个容易拖延的人群，即完美主义者，由此可知空格内的答案应为perfectionists。\n\n22. 译文：这之后常常会伴随而来一种____的感觉，令我们情绪更糟并导致更多拖延。\n\n本题与第17题有些类似，考生如果只看挖空句本身，将会由于不清楚句首的it到底指代什么而无法获得完整语境；反之，如果加上对前一句题干的理解：“拖延只是一种短期的情绪管理措施”，考生就能更顺利地据此定位到C段倒数第二句所说的“这种情绪修复只是temporary暂时的”。跟进读完本段最后一句话，就能知晓：此后随之而来的就是愧疚感，而愧疚感不但增加了人们的消极情绪，而且还加强了他们的拖延倾向。对比题干可知，空格内的答案应为guilt。",
+          "promptHtml": "Many people think that procrastination is the result of [17] ______. Others believe it to be the result of an inability to organise time efficiently."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Answer for gap 18.",
+          "answers": [
+            "anxious"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8555_411374",
+          "explanation": "17. 译文：许多人认为拖延是____的结果。\n\n如果考生采用了平行阅读的方法来兼顾解答本篇中的全部三个题型，那么在第一个题型中寻找第14题时，其实也就同时能获得解答本题的线索：B段第一句说“拖延与大众看法相反，并非由于懒惰或时间管理不佳”，其实正是交代了大众看法对拖延的归因。不过，由于本句中出现了两个并列的原因：laziness和poor time management，仅凭这一句无法确定到底空格内应当选填哪一个；考生仍需再对比这句之后的另一句，看到下一句说“其他人相信拖延是未能有效管理时间所致”，由此排除掉了poor time management这个内容，可以敲定空格内的答案应为laziness。\n\n18. 译文：我们最容易推迟完成的是那些有可能损害我们的自我价值感或导致我们感觉____的任务。\n\n本题题干中的信息在原文中进行了比较多的同义替换，因此考生如果只聚焦于寻找单词之间的严格对应，恐怕难以又快又准地找到出题处，反而是耐心逐句读懂大致句意后，能更准确地锁定答案出处。首先，题干中的最高级most likely在原文中成了比较级的表达方式more likely；其次，与空格形成了并列关系的另一种消极感受damage our self-esteem在原文中替换成了threaten our sense of self-worth；最后，空格前的动词部分从题干中的cause us to feel换成了原文中简单直白的make us。不过，由于这些词汇本身的认知难度其实并不高，所以考生只要读懂了意思，就不难锁定空格内的答案应为anxious。\n\n19. 译文：将经常拖延人群与其他人进行比较的研究甚至发现二者负责调节情绪和辨别____的脑区域都不一样。\n\n本题的出处与上一个题型中的第16题来自同一个句子，采用平行阅读的考生可以再次在读懂这个句子、同时解答出两道题目时感受这种方法一石二鸟的好处。这个句子的语法结构略复杂，但看懂句意就能知晓，在习惯性拖延和不怎么拖延的两群人身上，负责两种功能的脑区域是不一样的。其中一种功能是几乎与题干中regulating emotions没什么区别的emotion regulation，另一种则是detection of threats。由于detection的意思已经由题干中的finding进行了表达，于是空格内的答案就应为threats。\n\n20. 译文：为参加____做准备就可以算是这类任务的一个典型代表。\n\n题干这句话中使用了such task这个向前指代的表述，明确告诉考生只看这句话本身是不够的，需要结合前一句话一起阅读，才能真正理解空格中到底需要什么内容。所谓“这类任务”，是说造成我们拖延的任务往往令人情绪负重或较为困难，这句话里的emotionally loaded and difficult几乎是一模一样地出现在了C段第一句话里，发挥了极大的定位价值。考生只需完整读懂全句，就能根据such as preparing for exams这个举例提示，确认空格中的答案应为exams。\n\n21. 译文：容易拖延的人要么是____，要么是自我价值感低。\n\n本题的定位紧随上一题，题干中的low self-esteem一模一样地出现在了C段第二句，提示考生答案应当就在附近。接下来耐心读懂第三句就能看出，第二句里描述的一类容易拖延的人是因为自视较低，而第三句则并列描述了另一个容易拖延的人群，即完美主义者，由此可知空格内的答案应为perfectionists。\n\n22. 译文：这之后常常会伴随而来一种____的感觉，令我们情绪更糟并导致更多拖延。\n\n本题与第17题有些类似，考生如果只看挖空句本身，将会由于不清楚句首的it到底指代什么而无法获得完整语境；反之，如果加上对前一句题干的理解：“拖延只是一种短期的情绪管理措施”，考生就能更顺利地据此定位到C段倒数第二句所说的“这种情绪修复只是temporary暂时的”。跟进读完本段最后一句话，就能知晓：此后随之而来的就是愧疚感，而愧疚感不但增加了人们的消极情绪，而且还加强了他们的拖延倾向。对比题干可知，空格内的答案应为guilt。",
+          "promptHtml": "Answer for gap 18."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Answer for gap 19.",
+          "answers": [
+            "threats"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8555_109862",
+          "explanation": "17. 译文：许多人认为拖延是____的结果。\n\n如果考生采用了平行阅读的方法来兼顾解答本篇中的全部三个题型，那么在第一个题型中寻找第14题时，其实也就同时能获得解答本题的线索：B段第一句说“拖延与大众看法相反，并非由于懒惰或时间管理不佳”，其实正是交代了大众看法对拖延的归因。不过，由于本句中出现了两个并列的原因：laziness和poor time management，仅凭这一句无法确定到底空格内应当选填哪一个；考生仍需再对比这句之后的另一句，看到下一句说“其他人相信拖延是未能有效管理时间所致”，由此排除掉了poor time management这个内容，可以敲定空格内的答案应为laziness。\n\n18. 译文：我们最容易推迟完成的是那些有可能损害我们的自我价值感或导致我们感觉____的任务。\n\n本题题干中的信息在原文中进行了比较多的同义替换，因此考生如果只聚焦于寻找单词之间的严格对应，恐怕难以又快又准地找到出题处，反而是耐心逐句读懂大致句意后，能更准确地锁定答案出处。首先，题干中的最高级most likely在原文中成了比较级的表达方式more likely；其次，与空格形成了并列关系的另一种消极感受damage our self-esteem在原文中替换成了threaten our sense of self-worth；最后，空格前的动词部分从题干中的cause us to feel换成了原文中简单直白的make us。不过，由于这些词汇本身的认知难度其实并不高，所以考生只要读懂了意思，就不难锁定空格内的答案应为anxious。\n\n19. 译文：将经常拖延人群与其他人进行比较的研究甚至发现二者负责调节情绪和辨别____的脑区域都不一样。\n\n本题的出处与上一个题型中的第16题来自同一个句子，采用平行阅读的考生可以再次在读懂这个句子、同时解答出两道题目时感受这种方法一石二鸟的好处。这个句子的语法结构略复杂，但看懂句意就能知晓，在习惯性拖延和不怎么拖延的两群人身上，负责两种功能的脑区域是不一样的。其中一种功能是几乎与题干中regulating emotions没什么区别的emotion regulation，另一种则是detection of threats。由于detection的意思已经由题干中的finding进行了表达，于是空格内的答案就应为threats。\n\n20. 译文：为参加____做准备就可以算是这类任务的一个典型代表。\n\n题干这句话中使用了such task这个向前指代的表述，明确告诉考生只看这句话本身是不够的，需要结合前一句话一起阅读，才能真正理解空格中到底需要什么内容。所谓“这类任务”，是说造成我们拖延的任务往往令人情绪负重或较为困难，这句话里的emotionally loaded and difficult几乎是一模一样地出现在了C段第一句话里，发挥了极大的定位价值。考生只需完整读懂全句，就能根据such as preparing for exams这个举例提示，确认空格中的答案应为exams。\n\n21. 译文：容易拖延的人要么是____，要么是自我价值感低。\n\n本题的定位紧随上一题，题干中的low self-esteem一模一样地出现在了C段第二句，提示考生答案应当就在附近。接下来耐心读懂第三句就能看出，第二句里描述的一类容易拖延的人是因为自视较低，而第三句则并列描述了另一个容易拖延的人群，即完美主义者，由此可知空格内的答案应为perfectionists。\n\n22. 译文：这之后常常会伴随而来一种____的感觉，令我们情绪更糟并导致更多拖延。\n\n本题与第17题有些类似，考生如果只看挖空句本身，将会由于不清楚句首的it到底指代什么而无法获得完整语境；反之，如果加上对前一句题干的理解：“拖延只是一种短期的情绪管理措施”，考生就能更顺利地据此定位到C段倒数第二句所说的“这种情绪修复只是temporary暂时的”。跟进读完本段最后一句话，就能知晓：此后随之而来的就是愧疚感，而愧疚感不但增加了人们的消极情绪，而且还加强了他们的拖延倾向。对比题干可知，空格内的答案应为guilt。",
+          "promptHtml": "Answer for gap 19."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Answer for gap 20.",
+          "answers": [
+            "exams"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8555_696924",
+          "explanation": "17. 译文：许多人认为拖延是____的结果。\n\n如果考生采用了平行阅读的方法来兼顾解答本篇中的全部三个题型，那么在第一个题型中寻找第14题时，其实也就同时能获得解答本题的线索：B段第一句说“拖延与大众看法相反，并非由于懒惰或时间管理不佳”，其实正是交代了大众看法对拖延的归因。不过，由于本句中出现了两个并列的原因：laziness和poor time management，仅凭这一句无法确定到底空格内应当选填哪一个；考生仍需再对比这句之后的另一句，看到下一句说“其他人相信拖延是未能有效管理时间所致”，由此排除掉了poor time management这个内容，可以敲定空格内的答案应为laziness。\n\n18. 译文：我们最容易推迟完成的是那些有可能损害我们的自我价值感或导致我们感觉____的任务。\n\n本题题干中的信息在原文中进行了比较多的同义替换，因此考生如果只聚焦于寻找单词之间的严格对应，恐怕难以又快又准地找到出题处，反而是耐心逐句读懂大致句意后，能更准确地锁定答案出处。首先，题干中的最高级most likely在原文中成了比较级的表达方式more likely；其次，与空格形成了并列关系的另一种消极感受damage our self-esteem在原文中替换成了threaten our sense of self-worth；最后，空格前的动词部分从题干中的cause us to feel换成了原文中简单直白的make us。不过，由于这些词汇本身的认知难度其实并不高，所以考生只要读懂了意思，就不难锁定空格内的答案应为anxious。\n\n19. 译文：将经常拖延人群与其他人进行比较的研究甚至发现二者负责调节情绪和辨别____的脑区域都不一样。\n\n本题的出处与上一个题型中的第16题来自同一个句子，采用平行阅读的考生可以再次在读懂这个句子、同时解答出两道题目时感受这种方法一石二鸟的好处。这个句子的语法结构略复杂，但看懂句意就能知晓，在习惯性拖延和不怎么拖延的两群人身上，负责两种功能的脑区域是不一样的。其中一种功能是几乎与题干中regulating emotions没什么区别的emotion regulation，另一种则是detection of threats。由于detection的意思已经由题干中的finding进行了表达，于是空格内的答案就应为threats。\n\n20. 译文：为参加____做准备就可以算是这类任务的一个典型代表。\n\n题干这句话中使用了such task这个向前指代的表述，明确告诉考生只看这句话本身是不够的，需要结合前一句话一起阅读，才能真正理解空格中到底需要什么内容。所谓“这类任务”，是说造成我们拖延的任务往往令人情绪负重或较为困难，这句话里的emotionally loaded and difficult几乎是一模一样地出现在了C段第一句话里，发挥了极大的定位价值。考生只需完整读懂全句，就能根据such as preparing for exams这个举例提示，确认空格中的答案应为exams。\n\n21. 译文：容易拖延的人要么是____，要么是自我价值感低。\n\n本题的定位紧随上一题，题干中的low self-esteem一模一样地出现在了C段第二句，提示考生答案应当就在附近。接下来耐心读懂第三句就能看出，第二句里描述的一类容易拖延的人是因为自视较低，而第三句则并列描述了另一个容易拖延的人群，即完美主义者，由此可知空格内的答案应为perfectionists。\n\n22. 译文：这之后常常会伴随而来一种____的感觉，令我们情绪更糟并导致更多拖延。\n\n本题与第17题有些类似，考生如果只看挖空句本身，将会由于不清楚句首的it到底指代什么而无法获得完整语境；反之，如果加上对前一句题干的理解：“拖延只是一种短期的情绪管理措施”，考生就能更顺利地据此定位到C段倒数第二句所说的“这种情绪修复只是temporary暂时的”。跟进读完本段最后一句话，就能知晓：此后随之而来的就是愧疚感，而愧疚感不但增加了人们的消极情绪，而且还加强了他们的拖延倾向。对比题干可知，空格内的答案应为guilt。",
+          "promptHtml": "Answer for gap 20."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Answer for gap 21.",
+          "answers": [
+            "perfectionists"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8555_882351",
+          "explanation": "17. 译文：许多人认为拖延是____的结果。\n\n如果考生采用了平行阅读的方法来兼顾解答本篇中的全部三个题型，那么在第一个题型中寻找第14题时，其实也就同时能获得解答本题的线索：B段第一句说“拖延与大众看法相反，并非由于懒惰或时间管理不佳”，其实正是交代了大众看法对拖延的归因。不过，由于本句中出现了两个并列的原因：laziness和poor time management，仅凭这一句无法确定到底空格内应当选填哪一个；考生仍需再对比这句之后的另一句，看到下一句说“其他人相信拖延是未能有效管理时间所致”，由此排除掉了poor time management这个内容，可以敲定空格内的答案应为laziness。\n\n18. 译文：我们最容易推迟完成的是那些有可能损害我们的自我价值感或导致我们感觉____的任务。\n\n本题题干中的信息在原文中进行了比较多的同义替换，因此考生如果只聚焦于寻找单词之间的严格对应，恐怕难以又快又准地找到出题处，反而是耐心逐句读懂大致句意后，能更准确地锁定答案出处。首先，题干中的最高级most likely在原文中成了比较级的表达方式more likely；其次，与空格形成了并列关系的另一种消极感受damage our self-esteem在原文中替换成了threaten our sense of self-worth；最后，空格前的动词部分从题干中的cause us to feel换成了原文中简单直白的make us。不过，由于这些词汇本身的认知难度其实并不高，所以考生只要读懂了意思，就不难锁定空格内的答案应为anxious。\n\n19. 译文：将经常拖延人群与其他人进行比较的研究甚至发现二者负责调节情绪和辨别____的脑区域都不一样。\n\n本题的出处与上一个题型中的第16题来自同一个句子，采用平行阅读的考生可以再次在读懂这个句子、同时解答出两道题目时感受这种方法一石二鸟的好处。这个句子的语法结构略复杂，但看懂句意就能知晓，在习惯性拖延和不怎么拖延的两群人身上，负责两种功能的脑区域是不一样的。其中一种功能是几乎与题干中regulating emotions没什么区别的emotion regulation，另一种则是detection of threats。由于detection的意思已经由题干中的finding进行了表达，于是空格内的答案就应为threats。\n\n20. 译文：为参加____做准备就可以算是这类任务的一个典型代表。\n\n题干这句话中使用了such task这个向前指代的表述，明确告诉考生只看这句话本身是不够的，需要结合前一句话一起阅读，才能真正理解空格中到底需要什么内容。所谓“这类任务”，是说造成我们拖延的任务往往令人情绪负重或较为困难，这句话里的emotionally loaded and difficult几乎是一模一样地出现在了C段第一句话里，发挥了极大的定位价值。考生只需完整读懂全句，就能根据such as preparing for exams这个举例提示，确认空格中的答案应为exams。\n\n21. 译文：容易拖延的人要么是____，要么是自我价值感低。\n\n本题的定位紧随上一题，题干中的low self-esteem一模一样地出现在了C段第二句，提示考生答案应当就在附近。接下来耐心读懂第三句就能看出，第二句里描述的一类容易拖延的人是因为自视较低，而第三句则并列描述了另一个容易拖延的人群，即完美主义者，由此可知空格内的答案应为perfectionists。\n\n22. 译文：这之后常常会伴随而来一种____的感觉，令我们情绪更糟并导致更多拖延。\n\n本题与第17题有些类似，考生如果只看挖空句本身，将会由于不清楚句首的it到底指代什么而无法获得完整语境；反之，如果加上对前一句题干的理解：“拖延只是一种短期的情绪管理措施”，考生就能更顺利地据此定位到C段倒数第二句所说的“这种情绪修复只是temporary暂时的”。跟进读完本段最后一句话，就能知晓：此后随之而来的就是愧疚感，而愧疚感不但增加了人们的消极情绪，而且还加强了他们的拖延倾向。对比题干可知，空格内的答案应为guilt。",
+          "promptHtml": "Answer for gap 21."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Procrastination is only a short-term measure for managing emotions. It’s often followed by a feeling of [22] ______which worsens our mood and leads to more procrastination.",
+          "answers": [
+            "guilt"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8555_566785",
+          "explanation": "17. 译文：许多人认为拖延是____的结果。\n\n如果考生采用了平行阅读的方法来兼顾解答本篇中的全部三个题型，那么在第一个题型中寻找第14题时，其实也就同时能获得解答本题的线索：B段第一句说“拖延与大众看法相反，并非由于懒惰或时间管理不佳”，其实正是交代了大众看法对拖延的归因。不过，由于本句中出现了两个并列的原因：laziness和poor time management，仅凭这一句无法确定到底空格内应当选填哪一个；考生仍需再对比这句之后的另一句，看到下一句说“其他人相信拖延是未能有效管理时间所致”，由此排除掉了poor time management这个内容，可以敲定空格内的答案应为laziness。\n\n18. 译文：我们最容易推迟完成的是那些有可能损害我们的自我价值感或导致我们感觉____的任务。\n\n本题题干中的信息在原文中进行了比较多的同义替换，因此考生如果只聚焦于寻找单词之间的严格对应，恐怕难以又快又准地找到出题处，反而是耐心逐句读懂大致句意后，能更准确地锁定答案出处。首先，题干中的最高级most likely在原文中成了比较级的表达方式more likely；其次，与空格形成了并列关系的另一种消极感受damage our self-esteem在原文中替换成了threaten our sense of self-worth；最后，空格前的动词部分从题干中的cause us to feel换成了原文中简单直白的make us。不过，由于这些词汇本身的认知难度其实并不高，所以考生只要读懂了意思，就不难锁定空格内的答案应为anxious。\n\n19. 译文：将经常拖延人群与其他人进行比较的研究甚至发现二者负责调节情绪和辨别____的脑区域都不一样。\n\n本题的出处与上一个题型中的第16题来自同一个句子，采用平行阅读的考生可以再次在读懂这个句子、同时解答出两道题目时感受这种方法一石二鸟的好处。这个句子的语法结构略复杂，但看懂句意就能知晓，在习惯性拖延和不怎么拖延的两群人身上，负责两种功能的脑区域是不一样的。其中一种功能是几乎与题干中regulating emotions没什么区别的emotion regulation，另一种则是detection of threats。由于detection的意思已经由题干中的finding进行了表达，于是空格内的答案就应为threats。\n\n20. 译文：为参加____做准备就可以算是这类任务的一个典型代表。\n\n题干这句话中使用了such task这个向前指代的表述，明确告诉考生只看这句话本身是不够的，需要结合前一句话一起阅读，才能真正理解空格中到底需要什么内容。所谓“这类任务”，是说造成我们拖延的任务往往令人情绪负重或较为困难，这句话里的emotionally loaded and difficult几乎是一模一样地出现在了C段第一句话里，发挥了极大的定位价值。考生只需完整读懂全句，就能根据such as preparing for exams这个举例提示，确认空格中的答案应为exams。\n\n21. 译文：容易拖延的人要么是____，要么是自我价值感低。\n\n本题的定位紧随上一题，题干中的low self-esteem一模一样地出现在了C段第二句，提示考生答案应当就在附近。接下来耐心读懂第三句就能看出，第二句里描述的一类容易拖延的人是因为自视较低，而第三句则并列描述了另一个容易拖延的人群，即完美主义者，由此可知空格内的答案应为perfectionists。\n\n22. 译文：这之后常常会伴随而来一种____的感觉，令我们情绪更糟并导致更多拖延。\n\n本题与第17题有些类似，考生如果只看挖空句本身，将会由于不清楚句首的it到底指代什么而无法获得完整语境；反之，如果加上对前一句题干的理解：“拖延只是一种短期的情绪管理措施”，考生就能更顺利地据此定位到C段倒数第二句所说的“这种情绪修复只是temporary暂时的”。跟进读完本段最后一句话，就能知晓：此后随之而来的就是愧疚感，而愧疚感不但增加了人们的消极情绪，而且还加强了他们的拖延倾向。对比题干可知，空格内的答案应为guilt。",
+          "promptHtml": "Procrastination is only a short-term measure for managing emotions. It’s often followed by a feeling of [22] ______which worsens our mood and leads to more procrastination."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><b>What makes us procrastinate?</b></p>\n\n\t\t\t<p>Many people think that procrastination is the result of <strong>[17] ______</strong>. Others believe it to be the result of an inability to organise time efficiently.</p>\n\n\t\t\t<p>But scientific studies suggest that procrastination is actually due to poor mood management. The tasks we are most likely to put off are those that could damage our self-esteem or cause us to feel <strong>[18] ______</strong> when we think about them. Research comparing chronic procrastinators with other people even found differences in the brain regions associated with regulating emotions and identifying <strong>[19] ______</strong>.</p>\n\n\t\t\t<p>Emotionally loaded and difficult tasks often cause us to procrastinate. Getting ready to take <strong>[20] ______</strong> might be a typical example of one such task. People who are likely to procrastinate tend to be either <strong>[21] ______</strong> or those with low self-esteem.</p>\n\n\t\t\t<p>Procrastination is only a short-term measure for managing emotions. It’s often followed by a feeling of <strong>[22] ______</strong>which worsens our mood and leads to more procrastination.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 23 and 24\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Which TWO comparisons between employees who often procrastinate and those who do not are mentioned in the text?",
+          "answers": [
+            "A",
+            "C"
+          ],
+          "sourceCode": "Q8555_191551",
+          "options": [
+            {
+              "value": "A",
+              "text": "Their salaries are lower."
+            },
+            {
+              "value": "B",
+              "text": "The quality of their work is inferior."
+            },
+            {
+              "value": "C",
+              "text": "They don’t keep their jobs for as long."
+            },
+            {
+              "value": "D",
+              "text": "They don’t enjoy their working lives as much."
+            },
+            {
+              "value": "E",
+              "text": "They have poorer relationships with colleagues."
+            }
+          ],
+          "explanation": "译文：文中提到了经常拖延的员工与不经常拖延的员工之间在哪两个方面的比较？\n\n选项A：Their salaries are lower.\n\n译文：他们的薪资更低。\n\n这正是D段倒数第二句里所说的less annual income的同义表述。考生只要认识salary和income这两个基础词汇，应该就不难选对本项。\n\n选项B：The quality of their work is inferior.\n\n译文：他们的工作质量更差。\n\nD段围绕着“拖延之所以会造成问题”这个中心来展开，而前大半段的篇幅描述的是拖延给“学生”这个人群带来的危害。从本段的倒数第三句话开始，话题才涉及到“员工”这个人群；而看遍这三句话也不曾出现对其工作质量的提及，因而本项可被排除。\n\n选项C：They don’t keep their jobs for as long.\n\n译文：他们不会持续在职那么久。\n\n这个选项的表述对应的正是倒数第二句话里的less employment stability，是这组多选题的另一个正确答案。\n\n选项D：They don’t enjoy their working lives as much.\n\n译文：他们没有那么享受自己的职业人生。\n\n本项与B项类似，没有在D段里被提及过。\n\n选项E：They have poorer relationships with colleagues.\n\n译文：他们与同事的关系更差。\n\n这也是一个未提及选项。",
+          "setId": "Q8555_191551",
+          "blockId": "Q8555_191551"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Which TWO comparisons between employees who often procrastinate and those who do not are mentioned in the text?",
+          "answers": [
+            "A",
+            "C"
+          ],
+          "sourceCode": "Q8555_191551",
+          "options": [
+            {
+              "value": "A",
+              "text": "Their salaries are lower."
+            },
+            {
+              "value": "B",
+              "text": "The quality of their work is inferior."
+            },
+            {
+              "value": "C",
+              "text": "They don’t keep their jobs for as long."
+            },
+            {
+              "value": "D",
+              "text": "They don’t enjoy their working lives as much."
+            },
+            {
+              "value": "E",
+              "text": "They have poorer relationships with colleagues."
+            }
+          ],
+          "explanation": "译文：文中提到了经常拖延的员工与不经常拖延的员工之间在哪两个方面的比较？\n\n选项A：Their salaries are lower.\n\n译文：他们的薪资更低。\n\n这正是D段倒数第二句里所说的less annual income的同义表述。考生只要认识salary和income这两个基础词汇，应该就不难选对本项。\n\n选项B：The quality of their work is inferior.\n\n译文：他们的工作质量更差。\n\nD段围绕着“拖延之所以会造成问题”这个中心来展开，而前大半段的篇幅描述的是拖延给“学生”这个人群带来的危害。从本段的倒数第三句话开始，话题才涉及到“员工”这个人群；而看遍这三句话也不曾出现对其工作质量的提及，因而本项可被排除。\n\n选项C：They don’t keep their jobs for as long.\n\n译文：他们不会持续在职那么久。\n\n这个选项的表述对应的正是倒数第二句话里的less employment stability，是这组多选题的另一个正确答案。\n\n选项D：They don’t enjoy their working lives as much.\n\n译文：他们没有那么享受自己的职业人生。\n\n本项与B项类似，没有在D段里被提及过。\n\n选项E：They have poorer relationships with colleagues.\n\n译文：他们与同事的关系更差。\n\n这也是一个未提及选项。",
+          "setId": "Q8555_191551",
+          "blockId": "Q8555_191551"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Their salaries are lower."
+        },
+        {
+          "value": "B",
+          "text": "The quality of their work is inferior."
+        },
+        {
+          "value": "C",
+          "text": "They don’t keep their jobs for as long."
+        },
+        {
+          "value": "D",
+          "text": "They don’t enjoy their working lives as much."
+        },
+        {
+          "value": "E",
+          "text": "They have poorer relationships with colleagues."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO recommendations for getting out of a cycle of procrastination does the writer give?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8555_298387",
+          "options": [
+            {
+              "value": "A",
+              "text": "not judging ourselves harshly"
+            },
+            {
+              "value": "B",
+              "text": "setting ourselves manageable aims"
+            },
+            {
+              "value": "C",
+              "text": "rewarding ourselves for tasks achieved"
+            },
+            {
+              "value": "D",
+              "text": "prioritising tasks according to their importance"
+            },
+            {
+              "value": "E",
+              "text": "avoiding things that stop us concentrating on our tasks"
+            }
+          ],
+          "explanation": "译文：作者关于走出拖延循环圈给到了哪两个建议？\n\n选项A：not judging ourselves harshly\n\n译文：不要苛刻地批评自己\n\nF段的一整段内容都是在给出如何走出拖延恶性循环的一些建议，因此考生解答这道多选题时，最稳妥的方法应当是每读几句原文、对比全部五个选项寻找是否存在对应，直至能笃定选完两个正确答案或将整段内容过滤对比完毕为止。F段的第五和六句分别说，“原谅自己和共情有助于打破拖延循环，我们应当承认自己感觉不好，但不用过度苛责自己。”这个表述对应的正是A项内容。\n\n选项B：setting ourselves manageable aims\n\n译文：为自己制定可处理的目标\n\n如果更加意译选项的话，其实也就是“别给自己制定过高因而很难完成的不切实际目标”。这个建议本身听起来是非常合理的，可惜却并未在正文中被提及过。\n\n选项C：rewarding ourselves for tasks achieved\n\n译文：因为完成了任务而奖励自己\n\n这个表述无疑也是帮助人们一步步提升情绪的好建议，但它与B项一样，都不是原文里提到的内容。\n\n选项D：prioritising tasks according to their importance\n\n译文：根据重要性来给任务分出轻重缓急\n\n同理，本项也是没有在文章里出现过的好建议。\n\n选项E：avoiding things that stop us concentrating on our tasks\n\n译文：避开那些会阻碍我们聚焦任务的因素",
+          "setId": "Q8555_298387",
+          "blockId": "Q8555_298387"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO recommendations for getting out of a cycle of procrastination does the writer give?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8555_298387",
+          "options": [
+            {
+              "value": "A",
+              "text": "not judging ourselves harshly"
+            },
+            {
+              "value": "B",
+              "text": "setting ourselves manageable aims"
+            },
+            {
+              "value": "C",
+              "text": "rewarding ourselves for tasks achieved"
+            },
+            {
+              "value": "D",
+              "text": "prioritising tasks according to their importance"
+            },
+            {
+              "value": "E",
+              "text": "avoiding things that stop us concentrating on our tasks"
+            }
+          ],
+          "explanation": "译文：作者关于走出拖延循环圈给到了哪两个建议？\n\n选项A：not judging ourselves harshly\n\n译文：不要苛刻地批评自己\n\nF段的一整段内容都是在给出如何走出拖延恶性循环的一些建议，因此考生解答这道多选题时，最稳妥的方法应当是每读几句原文、对比全部五个选项寻找是否存在对应，直至能笃定选完两个正确答案或将整段内容过滤对比完毕为止。F段的第五和六句分别说，“原谅自己和共情有助于打破拖延循环，我们应当承认自己感觉不好，但不用过度苛责自己。”这个表述对应的正是A项内容。\n\n选项B：setting ourselves manageable aims\n\n译文：为自己制定可处理的目标\n\n如果更加意译选项的话，其实也就是“别给自己制定过高因而很难完成的不切实际目标”。这个建议本身听起来是非常合理的，可惜却并未在正文中被提及过。\n\n选项C：rewarding ourselves for tasks achieved\n\n译文：因为完成了任务而奖励自己\n\n这个表述无疑也是帮助人们一步步提升情绪的好建议，但它与B项一样，都不是原文里提到的内容。\n\n选项D：prioritising tasks according to their importance\n\n译文：根据重要性来给任务分出轻重缓急\n\n同理，本项也是没有在文章里出现过的好建议。\n\n选项E：avoiding things that stop us concentrating on our tasks\n\n译文：避开那些会阻碍我们聚焦任务的因素",
+          "setId": "Q8555_298387",
+          "blockId": "Q8555_298387"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "not judging ourselves harshly"
+        },
+        {
+          "value": "B",
+          "text": "setting ourselves manageable aims"
+        },
+        {
+          "value": "C",
+          "text": "rewarding ourselves for tasks achieved"
+        },
+        {
+          "value": "D",
+          "text": "prioritising tasks according to their importance"
+        },
+        {
+          "value": "E",
+          "text": "avoiding things that stop us concentrating on our tasks"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>Procrastination</b></p><p><em>A psychologist explains why we put off important tasks and how we can break this habit</em></p><p><strong>A </strong>     Procrastination is the habit of delaying a necessary task, usually by focusing on less urgent, more enjoyable, and easier activities instead. We all do it from time to time. We might be composing a message to a friend who we have to let down, or putting together an important report for college or work; we’re doing our best to avoid doing the job at hand, but deep down we know that we should just be getting on with it. Unfortunately, berating ourselves won’t stop us procrastinating again. In fact, it’s one of the worst things we can do. This matters because, as my research shows, procrastination doesn’t just waste time, but is actually linked to other problems, too.</p><p><strong>B </strong>     Contrary to popular belief, procrastination is not due to laziness or poor time management. Scientific studies suggest procrastination is, in fact, caused by poor mood management. This makes sense if we consider that people are more likely to put off starting or completing tasks that they are really not keen to do. If just thinking about the task threatens our sense of self-worth or makes us anxious, we will be more likely to put it off. Research involving brain imaging has found that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate compared to those who don’t procrastinate frequently.</p><p><strong>C</strong>      Tasks that are emotionally loaded or difficult, such as preparing for exams, are prime candidates for procrastination. People with low self-esteem are more likely to procrastinate. Another group of people who tend to procrastinate are perfectionists, who worry their work will be judged harshly by others. We know that if we don’t finish that report or complete those home repairs, then what we did can’t be evaluated. When we avoid such tasks, we also avoid the negative emotions associated with them. This is rewarding, and it conditions us to use procrastination to repair our mood. If we engage in more enjoyable tasks instead, we get another mood boost. In the long run, however, procrastination isn’t an effective way of managing emotions. The ‘mood repair’ we experience is temporary. Afterwards, people tend to be left with a sense of guilt that not only increases their negative mood, but also reinforces their tendency to procrastinate.</p><p><strong>D</strong>     So why is this such a problem? When most people think of the costs of procrastination, they think of the toll on productivity. For example, studies have shown that procrastination negatively impacts on student performance. But putting off reading textbooks and writing essays may affect other areas of students’ lives. In one study of over 3,000 German students over a six-month period, those who reported procrastinating over their university work were also more likely to engage in study-related misconduct, such as cheating and plagiarism. But the behaviour that procrastination was most closely linked with was using fraudulent excuses to get deadline extensions. Other research shows that employees on average spend almost a quarter of their workday procrastinating, and again this is linked with negative outcomes. In fact, in one US survey of over 22,000 employees, participants who said they regularly procrastinated had less annual income and less employment stability. For every one-point increase on a measure of chronic procrastination, annual income decreased by US$15,000.</p><p><strong>E </strong>     Procrastination also correlates with serious health and well-being problems. A tendency to procrastinate is linked to poor mental health, including higher levels of depression and anxiety. Across numerous studies, I’ve found people who regularly procrastinate report a greater number of health issues, such as headaches, flu and colds, and digestive issues. They also experience higher levels of stress and poor sleep quality. They are less likely to practise healthy behaviours, such as eating a healthy diet and regularly exercising, and use destructive coping strategies to manage their stress. In one study of over 700 people, I found people prone to procrastination had a 63% greater risk of poor heart health after accounting for other personality traits and demographics.</p><p><strong>F</strong>      Finding better ways of managing our emotions is one route out of the vicious cycle of procrastination. An important first step is to manage our environment and how we view the task. There are a number of evidence-based strategies that can help us fend off distractions that can occupy our minds when we should be focusing on the thing we should be getting on with. For example, reminding ourselves about why the task is important and valuable can increase positive feelings towards it. Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle. We should admit that we feel bad, but not be overly critical of ourselves. We should remind ourselves that we’re not the first person to procrastinate, nor the last. Doing this can take the edge off the negative feelings we have about ourselves when we procrastinate. This can all make it easier to get back on track.</p>"
+}

@@ -1,0 +1,6742 @@
+{
+  "summary": {
+    "catalogParts": 448,
+    "rawFilesFound": 448,
+    "readyParts": 448,
+    "questionCount": 5120,
+    "playableParts": 448,
+    "pendingAudioParts": 0,
+    "pendingExports": 0,
+    "conversionIssueParts": 0,
+    "sourceTypes": {
+      "101": 1035,
+      "216": 354,
+      "201": 797,
+      "203": 696,
+      "223": 65,
+      "208": 163,
+      "311": 33,
+      "202": 1
+    }
+  },
+  "missingExports": [],
+  "parts": [
+    {
+      "id": "cambridge-5-test-1-listening-1",
+      "qid": "6954",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "201": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-1-listening-2",
+      "qid": "6955",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-1-listening-3",
+      "qid": "6956",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-1-listening-4",
+      "qid": "6957",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-1-reading-1",
+      "qid": "6958",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 1,
+        "216": 1,
+        "203": 6
+      },
+      "articleWordCount": 790,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-1-reading-2",
+      "qid": "6959",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "201": 3,
+        "203": 4
+      },
+      "articleWordCount": 938,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-1-reading-3",
+      "qid": "6960",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 6,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": 888,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-2-listening-1",
+      "qid": "7013",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-2-listening-2",
+      "qid": "7015",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 6,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-2-listening-3",
+      "qid": "7020",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-2-listening-4",
+      "qid": "7022",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-2-reading-1",
+      "qid": "7026",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "216": 2,
+        "201": 1,
+        "203": 3
+      },
+      "articleWordCount": 863,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-2-reading-2",
+      "qid": "7029",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 7,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 887,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-2-reading-3",
+      "qid": "7031",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "203": 3
+      },
+      "articleWordCount": 905,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-3-listening-1",
+      "qid": "7057",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-3-listening-2",
+      "qid": "7059",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 6,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-3-listening-3",
+      "qid": "7061",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-3-listening-4",
+      "qid": "7063",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-3-reading-1",
+      "qid": "7065",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "203": 3
+      },
+      "articleWordCount": 974,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-3-reading-2",
+      "qid": "7067",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 6,
+        "208": 1
+      },
+      "articleWordCount": 837,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-3-reading-3",
+      "qid": "7070",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "203": 6,
+        "201": 3
+      },
+      "articleWordCount": 898,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-4-listening-1",
+      "qid": "7076",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-4-listening-2",
+      "qid": "7082",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 3
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-4-listening-3",
+      "qid": "7084",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "201": 3,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-4-listening-4",
+      "qid": "7086",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-4-reading-1",
+      "qid": "7088",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 956,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-4-reading-2",
+      "qid": "7090",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 2,
+        "203": 3
+      },
+      "articleWordCount": 904,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-5-test-4-reading-3",
+      "qid": "7093",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 761,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-1-listening-1",
+      "qid": "7058",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 3
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-1-listening-2",
+      "qid": "7060",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-1-listening-3",
+      "qid": "7062",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 1,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-1-listening-4",
+      "qid": "7064",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "201": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-1-reading-1",
+      "qid": "7066",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 878,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-1-reading-2",
+      "qid": "7068",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "203": 5,
+        "208": 1
+      },
+      "articleWordCount": 873,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-1-reading-3",
+      "qid": "7069",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "216": 1
+      },
+      "articleWordCount": 927,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-2-listening-1",
+      "qid": "7000",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-2-listening-2",
+      "qid": "7007",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "201": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-2-listening-3",
+      "qid": "7009",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-2-listening-4",
+      "qid": "7012",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 7,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-2-reading-1",
+      "qid": "7016",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 5,
+        "208": 1
+      },
+      "articleWordCount": 948,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-2-reading-2",
+      "qid": "7025",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 2
+      },
+      "articleWordCount": 795,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-2-reading-3",
+      "qid": "7027",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "203": 9
+      },
+      "articleWordCount": 892,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-3-listening-1",
+      "qid": "7021",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-3-listening-2",
+      "qid": "7023",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 3,
+        "223": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-3-listening-3",
+      "qid": "7024",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-3-listening-4",
+      "qid": "7028",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-3-reading-1",
+      "qid": "7041",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "203": 4,
+        "201": 4
+      },
+      "articleWordCount": 772,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-3-reading-2",
+      "qid": "7042",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 6,
+        "208": 1
+      },
+      "articleWordCount": 921,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-3-reading-3",
+      "qid": "7043",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 5,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 865,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-4-listening-1",
+      "qid": "6976",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-4-listening-2",
+      "qid": "7044",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-4-listening-3",
+      "qid": "7050",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "201": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-4-listening-4",
+      "qid": "7051",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-4-reading-1",
+      "qid": "6984",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "203": 6
+      },
+      "articleWordCount": 722,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-4-reading-2",
+      "qid": "6987",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "203": 6,
+        "201": 1
+      },
+      "articleWordCount": 719,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-6-test-4-reading-3",
+      "qid": "6991",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "311": 1,
+        "201": 5,
+        "216": 1
+      },
+      "articleWordCount": 783,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-1-listening-1",
+      "qid": "6968",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-1-listening-2",
+      "qid": "6973",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-1-listening-3",
+      "qid": "6977",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "201": 4
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-1-listening-4",
+      "qid": "6981",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-1-reading-1",
+      "qid": "7122",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 2
+      },
+      "articleWordCount": 875,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-1-reading-2",
+      "qid": "7123",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "203": 6
+      },
+      "articleWordCount": 815,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-1-reading-3",
+      "qid": "7124",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "203": 6,
+        "208": 1
+      },
+      "articleWordCount": 926,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-2-listening-1",
+      "qid": "6967",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-2-listening-2",
+      "qid": "6970",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 3
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-2-listening-3",
+      "qid": "6971",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 7,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-2-listening-4",
+      "qid": "6975",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-2-reading-1",
+      "qid": "6979",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 4,
+        "208": 1,
+        "201": 3
+      },
+      "articleWordCount": 1015,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-2-reading-2",
+      "qid": "6983",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "203": 4,
+        "216": 1
+      },
+      "articleWordCount": 883,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-2-reading-3",
+      "qid": "6986",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "311": 1,
+        "203": 5,
+        "208": 1,
+        "201": 1
+      },
+      "articleWordCount": 1162,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-3-listening-1",
+      "qid": "6985",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 3
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-3-listening-2",
+      "qid": "6989",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "202": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-3-listening-3",
+      "qid": "6997",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-3-listening-4",
+      "qid": "6999",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-3-reading-1",
+      "qid": "7001",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 6,
+        "208": 1
+      },
+      "articleWordCount": 901,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-3-reading-2",
+      "qid": "7008",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "311": 1,
+        "216": 1,
+        "208": 1,
+        "201": 1
+      },
+      "articleWordCount": 813,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-3-reading-3",
+      "qid": "7014",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 7,
+        "208": 1,
+        "201": 1
+      },
+      "articleWordCount": 943,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-4-listening-1",
+      "qid": "6969",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-4-listening-2",
+      "qid": "6972",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-4-listening-3",
+      "qid": "6978",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-4-listening-4",
+      "qid": "6982",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 3,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-4-reading-1",
+      "qid": "6988",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 865,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-4-reading-2",
+      "qid": "6990",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "208": 1
+      },
+      "articleWordCount": 893,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-7-test-4-reading-3",
+      "qid": "6998",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 3,
+        "208": 2
+      },
+      "articleWordCount": 736,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-1-listening-1",
+      "qid": "6887",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-1-listening-2",
+      "qid": "6896",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-1-listening-3",
+      "qid": "6898",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-1-listening-4",
+      "qid": "6902",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-1-reading-1",
+      "qid": "6966",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 911,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-1-reading-2",
+      "qid": "6974",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "203": 7
+      },
+      "articleWordCount": 879,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-1-reading-3",
+      "qid": "6980",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 888,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-2-listening-1",
+      "qid": "6925",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-2-listening-2",
+      "qid": "6926",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 7,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-2-listening-3",
+      "qid": "6927",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-2-listening-4",
+      "qid": "6928",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-2-reading-1",
+      "qid": "6929",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 773,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-2-reading-2",
+      "qid": "6930",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "208": 2
+      },
+      "articleWordCount": 883,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-2-reading-3",
+      "qid": "6932",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": 758,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-3-listening-1",
+      "qid": "6885",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "201": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-3-listening-2",
+      "qid": "6891",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-3-listening-3",
+      "qid": "6895",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-3-listening-4",
+      "qid": "6899",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-3-reading-1",
+      "qid": "6901",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 3,
+        "216": 1,
+        "208": 1,
+        "203": 3
+      },
+      "articleWordCount": 884,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-3-reading-2",
+      "qid": "6903",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 1,
+        "203": 8
+      },
+      "articleWordCount": 1010,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-3-reading-3",
+      "qid": "6910",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "216": 1,
+        "203": 4
+      },
+      "articleWordCount": 838,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-4-listening-1",
+      "qid": "6931",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-4-listening-2",
+      "qid": "6941",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 3,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-4-listening-3",
+      "qid": "6944",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-4-listening-4",
+      "qid": "6945",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-4-reading-1",
+      "qid": "6947",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 4,
+        "201": 4
+      },
+      "articleWordCount": 872,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-4-reading-2",
+      "qid": "6946",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "203": 4,
+        "208": 1
+      },
+      "articleWordCount": 740,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-8-test-4-reading-3",
+      "qid": "6948",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 4,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 778,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-1-listening-1",
+      "qid": "6809",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-1-listening-2",
+      "qid": "6810",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "201": 3
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-1-listening-3",
+      "qid": "6814",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "201": 10
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-1-listening-4",
+      "qid": "6816",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-1-reading-1",
+      "qid": "6817",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 840,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-1-reading-2",
+      "qid": "6839",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "216": 1,
+        "203": 6
+      },
+      "articleWordCount": 1102,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-1-reading-3",
+      "qid": "6844",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "216": 2,
+        "203": 3,
+        "201": 1
+      },
+      "articleWordCount": 784,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-2-listening-1",
+      "qid": "6855",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-2-listening-2",
+      "qid": "6857",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "201": 3,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-2-listening-3",
+      "qid": "6858",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-2-listening-4",
+      "qid": "6862",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-2-reading-1",
+      "qid": "6865",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 920,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-2-reading-2",
+      "qid": "6869",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "203": 5
+      },
+      "articleWordCount": 872,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-2-reading-3",
+      "qid": "6875",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "203": 6,
+        "208": 1
+      },
+      "articleWordCount": 902,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-3-listening-1",
+      "qid": "6866",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-3-listening-2",
+      "qid": "6867",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 3,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-3-listening-3",
+      "qid": "6871",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-3-listening-4",
+      "qid": "6900",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-3-reading-1",
+      "qid": "6907",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 8,
+        "208": 1,
+        "201": 1
+      },
+      "articleWordCount": 607,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-3-reading-2",
+      "qid": "6913",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "201": 1,
+        "216": 1
+      },
+      "articleWordCount": 764,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-3-reading-3",
+      "qid": "6924",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "203": 3
+      },
+      "articleWordCount": 850,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-4-listening-1",
+      "qid": "6868",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "201": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-4-listening-2",
+      "qid": "6870",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 2,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-4-listening-3",
+      "qid": "6872",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-4-listening-4",
+      "qid": "6874",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-4-reading-1",
+      "qid": "6877",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 906,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-4-reading-2",
+      "qid": "6884",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 886,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-9-test-4-reading-3",
+      "qid": "6886",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "201": 6,
+        "203": 4
+      },
+      "articleWordCount": 907,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-1-listening-1",
+      "qid": "6796",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-1-listening-2",
+      "qid": "6802",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-1-listening-3",
+      "qid": "6803",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-1-listening-4",
+      "qid": "6805",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-1-reading-1",
+      "qid": "6806",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 5,
+        "216": 2
+      },
+      "articleWordCount": 846,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-1-reading-2",
+      "qid": "6812",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "203": 5
+      },
+      "articleWordCount": 858,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-1-reading-3",
+      "qid": "6815",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1,
+        "203": 5
+      },
+      "articleWordCount": 952,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-2-listening-1",
+      "qid": "6873",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-2-listening-2",
+      "qid": "6876",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-2-listening-3",
+      "qid": "6883",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-2-listening-4",
+      "qid": "6889",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-2-reading-1",
+      "qid": "6897",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "203": 6
+      },
+      "articleWordCount": 943,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-2-reading-2",
+      "qid": "6905",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 828,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-2-reading-3",
+      "qid": "6911",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "201": 4,
+        "203": 5
+      },
+      "articleWordCount": 942,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-3-listening-1",
+      "qid": "6824",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-3-listening-2",
+      "qid": "6835",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-3-listening-3",
+      "qid": "6837",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-3-listening-4",
+      "qid": "6840",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-3-reading-1",
+      "qid": "6825",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 777,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-3-reading-2",
+      "qid": "6842",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "203": 3,
+        "201": 1
+      },
+      "articleWordCount": 885,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-3-reading-3",
+      "qid": "6845",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "201": 4,
+        "203": 5
+      },
+      "articleWordCount": 969,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-4-listening-1",
+      "qid": "6830",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-4-listening-2",
+      "qid": "6836",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-4-listening-3",
+      "qid": "6838",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-4-listening-4",
+      "qid": "6841",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 3,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-4-reading-1",
+      "qid": "6843",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 7
+      },
+      "articleWordCount": 772,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-4-reading-2",
+      "qid": "6848",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "208": 1,
+        "223": 1
+      },
+      "articleWordCount": 940,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-10-test-4-reading-3",
+      "qid": "6856",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "208": 1,
+        "203": 4
+      },
+      "articleWordCount": 960,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-1-listening-1",
+      "qid": "6734",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-1-listening-2",
+      "qid": "6736",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-1-listening-3",
+      "qid": "6743",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "201": 10
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-1-listening-4",
+      "qid": "6747",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-1-reading-1",
+      "qid": "6749",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 6
+      },
+      "articleWordCount": 765,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-1-reading-2",
+      "qid": "6751",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 790,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-1-reading-3",
+      "qid": "6754",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 913,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-2-listening-1",
+      "qid": "6776",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-2-listening-2",
+      "qid": "6778",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 3,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-2-listening-3",
+      "qid": "6781",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-2-listening-4",
+      "qid": "6783",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-2-reading-1",
+      "qid": "6785",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 4,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 866,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-2-reading-2",
+      "qid": "6788",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "216": 1,
+        "201": 1
+      },
+      "articleWordCount": 882,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-2-reading-3",
+      "qid": "6794",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 5,
+        "208": 1,
+        "203": 6
+      },
+      "articleWordCount": 903,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-3-listening-1",
+      "qid": "6777",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-3-listening-2",
+      "qid": "6779",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-3-listening-3",
+      "qid": "6780",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-3-listening-4",
+      "qid": "6782",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-3-reading-1",
+      "qid": "6784",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 4
+      },
+      "articleWordCount": 856,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-3-reading-2",
+      "qid": "6786",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 5,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 883,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-3-reading-3",
+      "qid": "6787",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "223": 1,
+        "216": 1
+      },
+      "articleWordCount": 758,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-4-listening-1",
+      "qid": "6804",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-4-listening-2",
+      "qid": "6807",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-4-listening-3",
+      "qid": "6808",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 7
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-4-listening-4",
+      "qid": "6811",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-4-reading-1",
+      "qid": "6813",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 4,
+        "208": 2
+      },
+      "articleWordCount": 858,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-4-reading-2",
+      "qid": "6823",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "203": 5,
+        "208": 1
+      },
+      "articleWordCount": 846,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-11-test-4-reading-3",
+      "qid": "6826",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "208": 1,
+        "203": 4
+      },
+      "articleWordCount": 846,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-5-listening-1",
+      "qid": "6705",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-5-listening-2",
+      "qid": "6707",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-5-listening-3",
+      "qid": "6711",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 3,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-5-listening-4",
+      "qid": "6713",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-5-reading-1",
+      "qid": "6716",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 5,
+        "216": 1
+      },
+      "articleWordCount": 736,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-5-reading-2",
+      "qid": "6719",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 771,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-5-reading-3",
+      "qid": "6721",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "216": 1,
+        "203": 4
+      },
+      "articleWordCount": 769,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-6-listening-1",
+      "qid": "6710",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-6-listening-2",
+      "qid": "6715",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-6-listening-3",
+      "qid": "6717",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-6-listening-4",
+      "qid": "6720",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-6-reading-1",
+      "qid": "6722",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "208": 1,
+        "201": 2
+      },
+      "articleWordCount": 912,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-6-reading-2",
+      "qid": "6733",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 4,
+        "216": 1
+      },
+      "articleWordCount": 829,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-6-reading-3",
+      "qid": "6737",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "203": 5,
+        "223": 1
+      },
+      "articleWordCount": 899,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-7-listening-1",
+      "qid": "6735",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-7-listening-2",
+      "qid": "6738",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 5,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-7-listening-3",
+      "qid": "6740",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "201": 4
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-7-listening-4",
+      "qid": "6746",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-7-reading-1",
+      "qid": "6748",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "216": 1
+      },
+      "articleWordCount": 756,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-7-reading-2",
+      "qid": "6752",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "223": 1,
+        "216": 1
+      },
+      "articleWordCount": 823,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-7-reading-3",
+      "qid": "6755",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": 864,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-8-listening-1",
+      "qid": "6750",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-8-listening-2",
+      "qid": "6753",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-8-listening-3",
+      "qid": "6761",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-8-listening-4",
+      "qid": "6765",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-8-reading-1",
+      "qid": "6768",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 752,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-8-reading-2",
+      "qid": "6769",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "208": 1,
+        "203": 4
+      },
+      "articleWordCount": 930,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-12-test-8-reading-3",
+      "qid": "6770",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "203": 4,
+        "216": 1
+      },
+      "articleWordCount": 884,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-1-reading-1",
+      "qid": "6663",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 6
+      },
+      "articleWordCount": 830,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-1-reading-2",
+      "qid": "6665",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 884,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-1-reading-3",
+      "qid": "6670",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "208": 1,
+        "203": 3
+      },
+      "articleWordCount": 919,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-1-listening-1",
+      "qid": "6671",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-1-listening-2",
+      "qid": "6680",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 3,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-1-listening-3",
+      "qid": "6682",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-1-listening-4",
+      "qid": "6688",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-2-listening-1",
+      "qid": "6677",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-2-listening-2",
+      "qid": "6678",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-2-listening-3",
+      "qid": "6679",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-2-listening-4",
+      "qid": "6681",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-2-reading-1",
+      "qid": "6689",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 4
+      },
+      "articleWordCount": 815,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-2-reading-2",
+      "qid": "6690",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 847,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-2-reading-3",
+      "qid": "6691",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "208": 2
+      },
+      "articleWordCount": 946,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-3-listening-1",
+      "qid": "6692",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-3-listening-2",
+      "qid": "6693",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "201": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-3-listening-3",
+      "qid": "6694",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-3-listening-4",
+      "qid": "6695",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-3-reading-1",
+      "qid": "6701",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 812,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-3-reading-2",
+      "qid": "6702",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "216": 1,
+        "223": 1
+      },
+      "articleWordCount": 897,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-3-reading-3",
+      "qid": "6703",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 898,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-4-listening-1",
+      "qid": "6704",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-4-listening-2",
+      "qid": "6706",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-4-listening-3",
+      "qid": "6708",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-4-listening-4",
+      "qid": "6709",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-4-reading-1",
+      "qid": "6712",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 8,
+        "216": 1
+      },
+      "articleWordCount": 868,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-4-reading-2",
+      "qid": "6714",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "208": 1,
+        "223": 1
+      },
+      "articleWordCount": 943,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-13-test-4-reading-3",
+      "qid": "6718",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 3,
+        "208": 1,
+        "203": 6
+      },
+      "articleWordCount": 911,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-1-listening-1",
+      "qid": "6620",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-1-listening-2",
+      "qid": "6621",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-1-listening-3",
+      "qid": "6623",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-1-listening-4",
+      "qid": "6630",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-1-reading-1",
+      "qid": "6622",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 887,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-1-reading-2",
+      "qid": "6627",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": 923,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-1-reading-3",
+      "qid": "6632",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "203": 4,
+        "216": 1
+      },
+      "articleWordCount": 854,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-2-reading-1",
+      "qid": "6631",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 8,
+        "216": 1
+      },
+      "articleWordCount": 870,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-2-reading-2",
+      "qid": "6636",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "223": 1,
+        "216": 1
+      },
+      "articleWordCount": 894,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-2-reading-3",
+      "qid": "6638",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "216": 1,
+        "203": 3
+      },
+      "articleWordCount": 790,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-2-listening-1",
+      "qid": "6633",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-2-listening-2",
+      "qid": "6634",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-2-listening-3",
+      "qid": "6635",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-2-listening-4",
+      "qid": "6637",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-3-reading-1",
+      "qid": "6644",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "203": 3,
+        "208": 1
+      },
+      "articleWordCount": 889,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-3-reading-2",
+      "qid": "6645",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "201": 1,
+        "216": 1
+      },
+      "articleWordCount": 869,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-3-reading-3",
+      "qid": "6647",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "203": 5,
+        "216": 1
+      },
+      "articleWordCount": 893,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-3-listening-1",
+      "qid": "6646",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-3-listening-2",
+      "qid": "6648",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-3-listening-3",
+      "qid": "6654",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-3-listening-4",
+      "qid": "6655",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-4-listening-1",
+      "qid": "6656",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-4-listening-2",
+      "qid": "6657",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "201": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-4-listening-3",
+      "qid": "6658",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-4-listening-4",
+      "qid": "6659",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-4-reading-1",
+      "qid": "6660",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 799,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-4-reading-2",
+      "qid": "6661",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "203": 5,
+        "201": 2
+      },
+      "articleWordCount": 798,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-14-test-4-reading-3",
+      "qid": "6662",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 7,
+        "216": 1,
+        "201": 1
+      },
+      "articleWordCount": 850,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-1-listening-1",
+      "qid": "7854",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-1-listening-2",
+      "qid": "7876",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-1-listening-3",
+      "qid": "7877",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "201": 3
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-1-listening-4",
+      "qid": "7878",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-1-reading-1",
+      "qid": "7879",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "203": 3
+      },
+      "articleWordCount": 860,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-1-reading-2",
+      "qid": "8109",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 784,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-1-reading-3",
+      "qid": "8115",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 6,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 907,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-2-listening-1",
+      "qid": "8126",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-2-listening-2",
+      "qid": "8128",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-2-listening-3",
+      "qid": "8129",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-2-listening-4",
+      "qid": "8130",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-2-reading-1",
+      "qid": "8127",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "223": 1,
+        "216": 1
+      },
+      "articleWordCount": 915,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-2-reading-2",
+      "qid": "8131",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 940,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-2-reading-3",
+      "qid": "8132",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "208": 1,
+        "203": 4
+      },
+      "articleWordCount": 934,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-3-listening-1",
+      "qid": "8113",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-3-listening-2",
+      "qid": "8116",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-3-listening-3",
+      "qid": "8117",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-3-listening-4",
+      "qid": "8118",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-3-reading-1",
+      "qid": "8119",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 864,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-3-reading-2",
+      "qid": "8122",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "311": 1,
+        "216": 1
+      },
+      "articleWordCount": 811,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-3-reading-3",
+      "qid": "8123",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 2,
+        "201": 4
+      },
+      "articleWordCount": 948,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-4-listening-1",
+      "qid": "8114",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-4-listening-2",
+      "qid": "8120",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-4-listening-3",
+      "qid": "8121",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-4-listening-4",
+      "qid": "8151",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-4-reading-1",
+      "qid": "8149",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "203": 5
+      },
+      "articleWordCount": 897,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-4-reading-2",
+      "qid": "8152",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 766,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-15-test-4-reading-3",
+      "qid": "8158",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "208": 1,
+        "201": 4,
+        "203": 5
+      },
+      "articleWordCount": 792,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-1-reading-1",
+      "qid": "8320",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 806,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-1-reading-2",
+      "qid": "8321",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "216": 1,
+        "201": 1
+      },
+      "articleWordCount": 826,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-1-reading-3",
+      "qid": "8322",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 2
+      },
+      "articleWordCount": 836,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-1-listening-1",
+      "qid": "8351",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-1-listening-2",
+      "qid": "8352",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-1-listening-3",
+      "qid": "8353",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-1-listening-4",
+      "qid": "8354",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-2-reading-1",
+      "qid": "8323",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 8,
+        "216": 1
+      },
+      "articleWordCount": 927,
+      "articleImageCount": 1,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-2-reading-2",
+      "qid": "8324",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 3,
+        "208": 1,
+        "203": 6
+      },
+      "articleWordCount": 900,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-2-reading-3",
+      "qid": "8325",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1,
+        "203": 5
+      },
+      "articleWordCount": 755,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-2-listening-1",
+      "qid": "8355",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-2-listening-2",
+      "qid": "8356",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 6,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-2-listening-3",
+      "qid": "8357",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-2-listening-4",
+      "qid": "8358",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-3-reading-1",
+      "qid": "8326",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 5,
+        "216": 1
+      },
+      "articleWordCount": 813,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-3-reading-2",
+      "qid": "8327",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 960,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-3-reading-3",
+      "qid": "8328",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 6,
+        "223": 1,
+        "216": 1
+      },
+      "articleWordCount": 866,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-3-listening-1",
+      "qid": "8359",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-3-listening-2",
+      "qid": "8360",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-3-listening-3",
+      "qid": "8361",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-3-listening-4",
+      "qid": "8362",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-4-reading-1",
+      "qid": "8329",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "203": 4
+      },
+      "articleWordCount": 875,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-4-reading-2",
+      "qid": "8330",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1,
+        "203": 4
+      },
+      "articleWordCount": 921,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-4-reading-3",
+      "qid": "8331",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "201": 3,
+        "203": 5
+      },
+      "articleWordCount": 879,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-4-listening-1",
+      "qid": "8363",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-4-listening-2",
+      "qid": "8364",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-4-listening-3",
+      "qid": "8365",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-16-test-4-listening-4",
+      "qid": "8366",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-1-listening-1",
+      "qid": "8367",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-1-listening-2",
+      "qid": "8368",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 7
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-1-listening-3",
+      "qid": "8369",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-1-listening-4",
+      "qid": "8370",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-1-reading-1",
+      "qid": "8375",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 7
+      },
+      "articleWordCount": 886,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-1-reading-2",
+      "qid": "8376",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 896,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-1-reading-3",
+      "qid": "8377",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "203": 4,
+        "201": 5
+      },
+      "articleWordCount": 975,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-2-listening-1",
+      "qid": "8371",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-2-listening-2",
+      "qid": "8372",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-2-listening-3",
+      "qid": "8373",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-2-listening-4",
+      "qid": "8374",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-2-reading-1",
+      "qid": "8378",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 8
+      },
+      "articleWordCount": 783,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-2-reading-2",
+      "qid": "8379",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 819,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-2-reading-3",
+      "qid": "8380",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "203": 5,
+        "208": 1
+      },
+      "articleWordCount": 922,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-3-listening-1",
+      "qid": "8381",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-3-listening-2",
+      "qid": "8382",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-3-listening-3",
+      "qid": "8383",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-3-listening-4",
+      "qid": "8384",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-3-reading-1",
+      "qid": "8385",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 8
+      },
+      "articleWordCount": 804,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-3-reading-2",
+      "qid": "8386",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "201": 1,
+        "216": 1
+      },
+      "articleWordCount": 928,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-3-reading-3",
+      "qid": "8387",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "203": 4,
+        "208": 1
+      },
+      "articleWordCount": 1006,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-4-listening-1",
+      "qid": "8388",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-4-listening-2",
+      "qid": "8389",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-4-listening-3",
+      "qid": "8390",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-4-listening-4",
+      "qid": "8391",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-4-reading-1",
+      "qid": "8392",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 870,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-4-reading-2",
+      "qid": "8393",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 956,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-17-test-4-reading-3",
+      "qid": "8394",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "203": 4,
+        "216": 1
+      },
+      "articleWordCount": 868,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-1-listening-1",
+      "qid": "8435",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-1-listening-2",
+      "qid": "8436",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-1-listening-3",
+      "qid": "8437",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-1-listening-4",
+      "qid": "8438",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-1-reading-1",
+      "qid": "8439",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "216": 2,
+        "203": 6
+      },
+      "articleWordCount": 749,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-1-reading-2",
+      "qid": "8440",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 844,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-1-reading-3",
+      "qid": "8441",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 928,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-2-listening-1",
+      "qid": "8447",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-2-listening-2",
+      "qid": "8448",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 2,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-2-listening-3",
+      "qid": "8449",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-2-listening-4",
+      "qid": "8450",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-2-reading-1",
+      "qid": "8451",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 801,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-2-reading-2",
+      "qid": "8452",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 6,
+        "203": 4,
+        "208": 1
+      },
+      "articleWordCount": 979,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-2-reading-3",
+      "qid": "8453",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 790,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-3-listening-1",
+      "qid": "8459",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-3-listening-2",
+      "qid": "8460",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-3-listening-3",
+      "qid": "8461",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-3-listening-4",
+      "qid": "8462",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-3-reading-1",
+      "qid": "8463",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 888,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-3-reading-2",
+      "qid": "8464",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "311": 1,
+        "201": 3,
+        "216": 1
+      },
+      "articleWordCount": 944,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-3-reading-3",
+      "qid": "8465",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1,
+        "203": 5
+      },
+      "articleWordCount": 926,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-4-listening-1",
+      "qid": "8471",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-4-listening-2",
+      "qid": "8472",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-4-listening-3",
+      "qid": "8473",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-4-listening-4",
+      "qid": "8474",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-4-reading-1",
+      "qid": "8475",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 786,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-4-reading-2",
+      "qid": "8476",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 3,
+        "208": 1,
+        "203": 4
+      },
+      "articleWordCount": 935,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-18-test-4-reading-3",
+      "qid": "8477",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 4,
+        "208": 1,
+        "201": 4
+      },
+      "articleWordCount": 931,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-1-listening-1",
+      "qid": "8488",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-1-listening-2",
+      "qid": "8489",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-1-listening-3",
+      "qid": "8485",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-1-listening-4",
+      "qid": "8490",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-1-reading-1",
+      "qid": "8502",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 897,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-1-reading-2",
+      "qid": "8503",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": 977,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-1-reading-3",
+      "qid": "8504",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1,
+        "203": 4
+      },
+      "articleWordCount": 925,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-2-listening-1",
+      "qid": "8487",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-2-listening-2",
+      "qid": "8491",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-2-listening-3",
+      "qid": "8500",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-2-listening-4",
+      "qid": "8501",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-2-reading-1",
+      "qid": "8505",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 6
+      },
+      "articleWordCount": 883,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-2-reading-2",
+      "qid": "8511",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 811,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-2-reading-3",
+      "qid": "8512",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 1,
+        "203": 5,
+        "201": 3
+      },
+      "articleWordCount": 1046,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-3-listening-1",
+      "qid": "8492",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-3-listening-2",
+      "qid": "8493",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "208": 1,
+        "201": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-3-listening-3",
+      "qid": "8494",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-3-listening-4",
+      "qid": "8495",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-3-reading-1",
+      "qid": "8508",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 7,
+        "216": 1
+      },
+      "articleWordCount": 752,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-3-reading-2",
+      "qid": "8509",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 891,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-3-reading-3",
+      "qid": "8510",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1,
+        "203": 6
+      },
+      "articleWordCount": 953,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-4-listening-1",
+      "qid": "8497",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 2
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-4-listening-2",
+      "qid": "8498",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 4,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-4-listening-3",
+      "qid": "8499",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 5,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-4-listening-4",
+      "qid": "8496",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-4-reading-1",
+      "qid": "8506",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 826,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-4-reading-2",
+      "qid": "8507",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 906,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-19-test-4-reading-3",
+      "qid": "8513",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "216": 1,
+        "203": 5
+      },
+      "articleWordCount": 817,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-1-listening-1",
+      "qid": "8534",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-1-listening-2",
+      "qid": "8535",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-1-listening-3",
+      "qid": "8536",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "201": 7
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-1-listening-4",
+      "qid": "8537",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-1-reading-1",
+      "qid": "8550",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "203": 6,
+        "216": 1
+      },
+      "articleWordCount": 816,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-1-reading-2",
+      "qid": "8554",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 921,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-1-reading-3",
+      "qid": "8558",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 4,
+        "208": 1,
+        "203": 5
+      },
+      "articleWordCount": 956,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-2-listening-1",
+      "qid": "8538",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-2-listening-2",
+      "qid": "8539",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "201": 4
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-2-listening-3",
+      "qid": "8540",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "208": 1,
+        "201": 5
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-2-listening-4",
+      "qid": "8541",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-2-reading-1",
+      "qid": "8551",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 7
+      },
+      "articleWordCount": 808,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-2-reading-2",
+      "qid": "8555",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "223": 1,
+        "216": 1,
+        "201": 2
+      },
+      "articleWordCount": 836,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-2-reading-3",
+      "qid": "8559",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "203": 6,
+        "208": 1,
+        "201": 3
+      },
+      "articleWordCount": 961,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-3-listening-1",
+      "qid": "8542",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-3-listening-2",
+      "qid": "8543",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 6,
+        "223": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-3-listening-3",
+      "qid": "8544",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "201": 6,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-3-listening-4",
+      "qid": "8545",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-3-reading-1",
+      "qid": "8552",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 6
+      },
+      "articleWordCount": 874,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-3-reading-2",
+      "qid": "8556",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 4,
+        "311": 1,
+        "201": 2,
+        "216": 1
+      },
+      "articleWordCount": 785,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-3-reading-3",
+      "qid": "8560",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "208": 2,
+        "201": 4
+      },
+      "articleWordCount": 973,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-4-listening-1",
+      "qid": "8546",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-4-listening-2",
+      "qid": "8547",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 2,
+        "208": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-4-listening-3",
+      "qid": "8548",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "201": 8
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-4-listening-4",
+      "qid": "8549",
+      "sourceCount": 10,
+      "convertedCount": 10,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 1,
+        "216": 1
+      },
+      "articleWordCount": null,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-4-reading-1",
+      "qid": "8553",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 2,
+        "216": 1,
+        "203": 6
+      },
+      "articleWordCount": 863,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-4-reading-2",
+      "qid": "8557",
+      "sourceCount": 13,
+      "convertedCount": 13,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "216": 1,
+        "208": 1
+      },
+      "articleWordCount": 899,
+      "articleImageCount": 0,
+      "issues": []
+    },
+    {
+      "id": "cambridge-20-test-4-reading-3",
+      "qid": "8561",
+      "sourceCount": 14,
+      "convertedCount": 14,
+      "status": "ready",
+      "sourceTypes": {
+        "101": 3,
+        "223": 1,
+        "208": 1,
+        "216": 1
+      },
+      "articleWordCount": 868,
+      "articleImageCount": 0,
+      "issues": []
+    }
+  ]
+}

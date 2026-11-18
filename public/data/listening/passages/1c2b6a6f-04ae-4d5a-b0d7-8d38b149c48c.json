@@ -1,0 +1,299 @@
+{
+  "id": "1c2b6a6f-04ae-4d5a-b0d7-8d38b149c48c",
+  "title": "Absence from work",
+  "titleCn": "职场缺勤现象研究",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/1c2b6a6f-04ae-4d5a-b0d7-8d38b149c48c",
+  "duration": 416,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,260"
+    },
+    {
+      "label": "2",
+      "text": "Now turn to section four on page seven."
+    },
+    {
+      "label": "3",
+      "text": "00:00:05,820"
+    },
+    {
+      "label": "4",
+      "text": "Section four."
+    },
+    {
+      "label": "5",
+      "text": "00:00:07,820"
+    },
+    {
+      "label": "6",
+      "text": "You will hear part of a presentation given by a business student on an assignment about absence from work. First, you have some time to look at questions thirty-one to forty on page seven."
+    },
+    {
+      "label": "7",
+      "text": "00:01:12,660"
+    },
+    {
+      "label": "8",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "9",
+      "text": "00:01:20,180"
+    },
+    {
+      "label": "10",
+      "text": "Hello, everyone. For my assignment, I did a review of the literature concerning absence in the workplace, and I'm going to present a summary of what I found."
+    },
+    {
+      "label": "11",
+      "text": "00:01:29,600"
+    },
+    {
+      "label": "I",
+      "text": "looked at some research on absence from work, that is, the number of days worked people miss for various reasons. Researchers refer to two types of absence: frequent absence, which is obviously a more serious problem, and occasional absence.\n\n00:01:46,080"
+    },
+    {
+      "label": "A",
+      "text": "lot of studies look at the factors involved in absence from work, and several have been identified. Firstly, the gender of the employee may influence his or her ability to attend work. For example, a female is more likely to have childcare responsibility and so could be absent as a result of that. The next factor that has been identified is the attitude of employees toward their work. But there has been a lot of debate about the extent to which this actually does influence absence, and some people argue that the research hasn't been conclusive.\n\n00:02:23,140\n\nSome researchers have suggested that another reason for high levels of absence is that some organizations have a culture in which absence is accepted, but others have criticized this model, arguing that it's too much of a generalization.\n\n00:02:38,580\n\nAnd then there are factors related to the type of work the employee does. It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices. It's also important to recognize that groups within a single organization might behave differently. For example, one of the other underlying themes in the literature is that there is a connection between how often an employee is absent and what size of work group he or she belongs to. Specifically, it's been found that the bigger the group, the higher the levels of absence.\n\n00:03:19,360\n\nOn a related theme, some writers have focused on a comparison between public sector organizations and private sector ones. There is some evidence that absence levels are higher in the public sector. It's not exactly clear why this should be the case, but one explanation that has been often put forwards is that in some cases, public sector organizations may not be as efficient. This might be because their systems are more bureaucratic due to factors which are external rather than internal, like the degree of control the government imposes on the public sector. However, most recent literature suggests a number of other explanations. Firstly, a public sector organization tends to have a workforce which is larger. Also, it tends to employ a higher number of female and older employees, both of which groups are likely to record higher absence rates.\n\n00:04:16,079\n\nIt is also suggested that public sector organizations are more likely to give their absent employees benefits for a longer period and are less likely to place restrictions on these. In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent. And all of these could be additional or alternative reasons for higher absence rates in the public sector. Now, I'd like to talk about the management of absence.\n\n00:04:48,480\n\nThat is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.\n\n**Absence from work**",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "d743f8c6-80fe-4313-9236-c752b13262cc",
+          "prompt": "Absence may be frequent or occasional.\n\n**Main factors involved**\n·The **31**_____ of employees (e.g. females are likely to have responsibility for children)",
+          "answers": [
+            "gender"
+          ],
+          "rawAnswer": "gender",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Firstly, the gender of the employee may influence his or her ability to attend work. For example, a female is more likely to have childcare responsibility and so could be absent as a result of that"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "806e36c5-bb3e-4f4c-912d-a0417c1315e5",
+          "prompt": "·employees' **32**_____ (but the evidence ls inconclusive)",
+          "answers": [
+            "attitude"
+          ],
+          "rawAnswer": "attitude",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The next factor that has been identified is the attitude of employees toward their work. But there has been a lot of debate about the extent to which this actually does influence absence, and some people argue that the research hasn't been conclusive"
+          },
+          "keywordPairs": [
+            {
+              "question": "evidence",
+              "article": "research"
+            },
+            {
+              "question": "inconclusive",
+              "article": "hasn't been conclusive"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "031eac68-58c5-4c14-ab81-11d75d0438d4",
+          "prompt": "·the **33**_____ of the organization (absenteeism may be acceptable)",
+          "answers": [
+            "culture"
+          ],
+          "rawAnswer": "culture",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some researchers have suggested that another reason for high levels of absence is that some organizations have a culture in which absence is accepted"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "f2714a73-b853-4214-904b-29e6ecbeda79",
+          "prompt": "·the type of work (higher absence among employees in **34**_____ )",
+          "answers": [
+            "industry"
+          ],
+          "rawAnswer": "industry",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "334d26b0-5b82-4b76-bb3f-73a41091f776",
+          "prompt": "·the **35**_____ of an employee's work group",
+          "answers": [
+            "size"
+          ],
+          "rawAnswer": "size",
+          "evidence": {
+            "paragraph": "",
+            "quote": "one of the other underlying themes in the literature is that there is a connection between how often an employee is absent and what size of work group he or she belongs to. Specifically, it's been found that the bigger the group, the higher the levels of absence"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "5d4998bb-2bcd-4e5b-8dae-ab57c3e8ba0c",
+          "prompt": "**Public sector versus private sector**\nPublic sector has higher absence levels\nPossible explanation-the public sector is less **36**_____",
+          "answers": [
+            "efficient"
+          ],
+          "rawAnswer": "efficient",
+          "evidence": {
+            "paragraph": "",
+            "quote": "There is some evidence that absence levels are higher in the public sector. It's not exactly clear why this should be the case, but one explanation that has been often put forwards is that in some cases, public sector organizations may not be as efficient"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "e9b02b3b-c352-46c5-857a-9880277a82c4",
+          "prompt": "Systems may be more bureaucratic because of **37**_____ factors (e.g. state controls)",
+          "answers": [
+            "external"
+          ],
+          "rawAnswer": "external",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This might be because their systems are more bureaucratic due to factors which are external rather than internal, like the degree of control the government imposes on the public sector"
+          },
+          "keywordPairs": [
+            {
+              "question": "because of",
+              "article": "due to"
+            },
+            {
+              "question": "state",
+              "article": "government"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "ff790daa-b917-408c-9ade-eb1831c414fb",
+          "prompt": "More recent literature suggests public sector organisations usually\n·have a **38**_____ workforce",
+          "answers": [
+            "larger"
+          ],
+          "rawAnswer": "larger",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Firstly, a public sector organization tends to have a workforce which is larger"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "901d2277-f15f-4974-8e83-23b7d7227405",
+          "prompt": "·have more female and more older employees\n·provide **39**_____ for longer, with fewer restrictions",
+          "answers": [
+            "benefits"
+          ],
+          "rawAnswer": "benefits",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is also suggested that public sector organizations are more likely to give their absent employees benefits for a longer period and are less likely to place restrictions on these"
+          },
+          "keywordPairs": [
+            {
+              "question": "provide",
+              "article": "give"
+            },
+            {
+              "question": "fewer",
+              "article": "less"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "3f0ee782-3226-403c-95b3-ea07060fc742",
+          "prompt": "·are less likely to **40**_____ employees",
+          "answers": [
+            "dismiss"
+          ],
+          "rawAnswer": "dismiss",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent"
+          },
+          "keywordPairs": [
+            {
+              "question": "likely to",
+              "article": "tendency to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,260</p><p>Now turn to section four on page seven. </p><p>00:00:05,820</p><p>Section four. </p><p>00:00:07,820</p><p>You will hear part of a presentation given by a business student on an assignment about absence from work. First, you have some time to look at questions thirty-one to forty on page seven. </p><p>00:01:12,660</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:20,180</p><p>Hello, everyone. For my assignment, I did a review of the literature concerning absence in the workplace, and I'm going to present a summary of what I found. </p><p>00:01:29,600</p><p>I looked at some research on absence from work, that is, the number of days worked people miss for various reasons. Researchers refer to two types of absence: frequent absence, which is obviously a more serious problem, and occasional absence. </p><p>00:01:46,080</p><p>A lot of studies look at the factors involved in absence from work, and several have been identified. Firstly, the gender of the employee may influence his or her ability to attend work. For example, a female is more likely to have childcare responsibility and so could be absent as a result of that. The next factor that has been identified is the attitude of employees toward their work. But there has been a lot of debate about the extent to which this actually does influence absence, and some people argue that the research hasn't been conclusive. </p><p>00:02:23,140</p><p>Some researchers have suggested that another reason for high levels of absence is that some organizations have a culture in which absence is accepted, but others have criticized this model, arguing that it's too much of a generalization. </p><p>00:02:38,580</p><p>And then there are factors related to the type of work the employee does. It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices. It's also important to recognize that groups within a single organization might behave differently. For example, one of the other underlying themes in the literature is that there is a connection between how often an employee is absent and what size of work group he or she belongs to. Specifically, it's been found that the bigger the group, the higher the levels of absence. </p><p>00:03:19,360</p><p>On a related theme, some writers have focused on a comparison between public sector organizations and private sector ones. There is some evidence that absence levels are higher in the public sector. It's not exactly clear why this should be the case, but one explanation that has been often put forwards is that in some cases, public sector organizations may not be as efficient. This might be because their systems are more bureaucratic due to factors which are external rather than internal, like the degree of control the government imposes on the public sector. However, most recent literature suggests a number of other explanations. Firstly, a public sector organization tends to have a workforce which is larger. Also, it tends to employ a higher number of female and older employees, both of which groups are likely to record higher absence rates. </p><p>00:04:16,079</p><p>It is also suggested that public sector organizations are more likely to give their absent employees benefits for a longer period and are less likely to place restrictions on these. In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent. And all of these could be additional or alternative reasons for higher absence rates in the public sector. Now, I'd like to talk about the management of absence. </p><p>00:04:48,480</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/1c2b6a6f-04ae-4d5a-b0d7-8d38b149c48c.mp3",
+    "durationSeconds": 295.2,
+    "sizeBytes": 1181296,
+    "sha256": "55a7f42e0f3a4909ccb9c91278892813cffac6c0e4c6306a0250ac563467345a",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:27Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346289226_kkqi49_047baa25.mp3"
+}

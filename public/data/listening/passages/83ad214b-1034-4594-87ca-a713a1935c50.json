@@ -1,0 +1,335 @@
+{
+  "id": "83ad214b-1034-4594-87ca-a713a1935c50",
+  "title": "History of music in Britain",
+  "titleCn": "英国音乐史：工业革命与音乐变迁",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/83ad214b-1034-4594-87ca-a713a1935c50",
+  "duration": 447,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,540"
+    },
+    {
+      "label": "2",
+      "text": "You will hear a talk on research into music."
+    },
+    {
+      "label": "3",
+      "text": "00:00:04,760"
+    },
+    {
+      "label": "4",
+      "text": "First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:22,700"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "7",
+      "text": "00:01:22,160"
+    },
+    {
+      "label": "8",
+      "text": "Today we're gonna delve into the fascinating history of music in Britain and the evolution that it experienced throughout the duration of the eighteenth and nineteenth centuries. During the second half of the eighteenth century, Britain experienced an industrial revolution during which its manufacturing industry underwent a major transition from hand production methods to the use of machinery. This sudden boom in the industry drew thousands of people into the cities, where they knew they'd be able to find jobs in the factories working with or maintaining the machinery. This sudden influx of people into the cities did not just come from the surrounding countryside, but also from other poorer nations in search of a better life. Between eighteen hundred and nineteen hundred, the population of England increased by four times. This mass immigration from different nations and areas of the country resulted in a variety of cultural influences meeting and mixing to form a new, more diverse culture. With this new culture came a new style of music. Prior to the Industrial Revolution, music had originally been written to reflect the hard, labor-intensive life in all kinds of industries when all work had to be done by hand. Most people resided in small rural communities where their lives revolved around farming. Life for the average person was difficult, as incomes were meager and malnourishment and disease were common. Despite the difference in nationalities of the people and the variety of musical genres, all of the music shared one common language: English. As many were unable to write, the songs were a means for the people to give voice to their experiences and feelings about their hard and laborious jobs. Most of the music written by the workers during this period has been lost as a result of illiteracy and the wear of time. Now, you may be asking yourselves how these small musical works were formed. The roots of most of these groups can mostly be traced back to the younger members of the working classes, who were perhaps rebelling against the inferiority of their living and working conditions compared to those of the upper classes. Young performers would often lead these musical trends, usually possessing a great talent for singing or playing particular handmade instruments. As time progressed into the nineteenth century, these musical groups had gained much notoriety and would hold small performances in the street for all to watch. It was perhaps their blind optimism and rebellious spirit that led them to become so popular with their audiences, which were usually made up of the poorest of the poor. Despite efforts by the upper classes to put an end to these musical traditions, they continued to gain popularity and flourish. By the late eighteen seventies, they had evolved past the barrier of the social echelons and gained access to the middle class. Performances were held in proper establishments such as village halls, and some were even ticketed, with audiences paying a fee for the privilege of watching. Music produced by these groups were better recorded, and some are still preserved today in museums. The music of these groups may not exist in the present day, but its influences are still clear if you look closely enough. In classical culture, for example, many of the themes and theatrical performances are still based on the lives and experiences of the working classes both prior to and following the Industrial Revolution. The novel entitled Les Misérables by Victor Hugo, for example, is a novel about the French working classes and is still widely popular today. The original recordings of the music written during these periods are now hugely valuable due to the demand from avid collectors and enthusiastic fans. Many of these recordings are publicly owned and displayed in museum exhibits. However, a selection are still privately owned and occasionally appear for sale in auctions, often reaching prices in the hundreds of thousands."
+    },
+    {
+      "label": "9",
+      "text": "00:05:11,820"
+    },
+    {
+      "label": "10",
+      "text": "Well, that just about wraps the lecture up for today. So if anyone has any questions..."
+    },
+    {
+      "label": "11",
+      "text": "00:05:20,160"
+    },
+    {
+      "label": "12",
+      "text": "That is the end of section four."
+    },
+    {
+      "label": "13",
+      "text": "00:05:23,300"
+    },
+    {
+      "label": "14",
+      "text": "You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS** from each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "b7710fbd-3bcc-498a-90ca-93eac1117bed",
+          "prompt": "**In the 18th Century**\n· During the Industrial Revolution people moved to cities to work in the **31**_____ .",
+          "answers": [
+            "factories"
+          ],
+          "rawAnswer": "factories",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This sudden boom in the industry drew thousands of people into the cities, where they knew they'd be able to find jobs in the factories working with or maintaining the machinery"
+          },
+          "keywordPairs": [
+            {
+              "question": "moved",
+              "article": "drew"
+            },
+            {
+              "question": "work",
+              "article": "jobs"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "bdddc7c9-5536-4108-9d6b-01fe6aefed21",
+          "prompt": "· In the 1850s, the culture was influenced greatly by **32**_____ from different countries.",
+          "answers": [
+            "immigration"
+          ],
+          "rawAnswer": "immigration",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This mass immigration from different nations and areas of the country resulted in a variety of cultural influences meeting and mixing to form a new, more diverse culture"
+          },
+          "keywordPairs": [
+            {
+              "question": "influenced",
+              "article": "resulted in"
+            },
+            {
+              "question": "countries",
+              "article": "nations"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "350fbbc7-f606-499f-8934-8902790cd746",
+          "prompt": "· Originally music reflected the work life of different **33**_____ in those days.",
+          "answers": [
+            "industries"
+          ],
+          "rawAnswer": "industries",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Prior to the Industrial Revolution, music had originally been written to reflect the hard, labor-intensive life in all kinds of industries when all work had to be done by hand"
+          },
+          "keywordPairs": [
+            {
+              "question": "work",
+              "article": "labor-intensive"
+            },
+            {
+              "question": "different",
+              "article": "all kinds of"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "f348ef80-92a8-4528-afb5-b5ca6ae48dd9",
+          "prompt": "· Different songs were created in the same **34**_____, although people were from a variety of nations.",
+          "answers": [
+            "language"
+          ],
+          "rawAnswer": "language",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Despite the difference in nationalities of the people and the variety of musical genres, all of the music shared one common language: English"
+          },
+          "keywordPairs": [
+            {
+              "question": "same",
+              "article": "common"
+            },
+            {
+              "question": "a variety of nations",
+              "article": "difference in nationalities"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "925dfdc1-7859-4891-ba1b-69993e4c4d77",
+          "prompt": "· The songs written by the workers during this period mainly came from their feelings about harsh **35**_____ .",
+          "answers": [
+            "jobs"
+          ],
+          "rawAnswer": "jobs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As many were unable to write, the songs were a means for the people to give voice to their experiences and feelings about their hard and laborious jobs"
+          },
+          "keywordPairs": [
+            {
+              "question": "harsh",
+              "article": "hard and laborious"
+            },
+            {
+              "question": "workers",
+              "article": "people"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "7cb67b95-d96b-4a75-9e1f-c4a1d2afb0f9",
+          "prompt": "· Some small musical works were composed by people who were protesting against difficult living conditions.\n· The musical trends were bed by **36**_____ performers.",
+          "answers": [
+            "young"
+          ],
+          "rawAnswer": "young",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Young performers would often lead these musical trends"
+          },
+          "maxWords": 2,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "4e651c7c-4e0c-4be2-9b7c-c24a6cab6d19",
+          "prompt": "**In the 19th Century**\n· During this period, some musical groups had expanded their popularity among **37**_____ .",
+          "answers": [
+            "audiences"
+          ],
+          "rawAnswer": "audiences",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It was perhaps their blind optimism and rebellious spirit that led them to become so popular with their audiences, which were usually made up of the poorest of the poor"
+          },
+          "maxWords": 2,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "6a5420ec-5625-46ca-bc09-c354937f3c06",
+          "prompt": "· In the late 1870s, the **38**_____ came into contact with these flourishing musical traditions.\n· Some music produced by these groups is still preserved in museums.",
+          "answers": [
+            "middle class"
+          ],
+          "rawAnswer": "middle class",
+          "evidence": {
+            "paragraph": "",
+            "quote": "By the late eighteen seventies, they had evolved past the barrier of the social echelons and gained access to the middle class"
+          },
+          "keywordPairs": [
+            {
+              "question": "came into contact with",
+              "article": "gained access to"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "162a6386-99ce-4a52-9999-6752bc491c38",
+          "prompt": "**Nowadays**\n· These musical genres still exert an influence on **39**_____ culture.",
+          "answers": [
+            "classical"
+          ],
+          "rawAnswer": "classical",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In classical culture, for example, many of the themes and theatrical performances are still based on the lives and experiences of the working classes"
+          },
+          "keywordPairs": [
+            {
+              "question": "exert an influence on",
+              "article": "still based on"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "64c4c33b-03fc-4105-9293-d11d74832c50",
+          "prompt": "· Enthusiastic fans are still collecting and keeping the **40**_____ of music from those days.",
+          "answers": [
+            "recordings"
+          ],
+          "rawAnswer": "recordings",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The original recordings of the music written during these periods are now hugely valuable due to the demand from avid collectors and enthusiastic fans"
+          },
+          "keywordPairs": [
+            {
+              "question": "from those days",
+              "article": "during these periods"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,540</p><p>You will hear a talk on research into music. </p><p>00:00:04,760</p><p>First, you have some time to look at questions thirty-one to forty. </p><p>00:00:22,700</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:22,160</p><p>Today we're gonna delve into the fascinating history of music in Britain and the evolution that it experienced throughout the duration of the eighteenth and nineteenth centuries. During the second half of the eighteenth century, Britain experienced an industrial revolution during which its manufacturing industry underwent a major transition from hand production methods to the use of machinery. This sudden boom in the industry drew thousands of people into the cities, where they knew they'd be able to find jobs in the factories working with or maintaining the machinery. This sudden influx of people into the cities did not just come from the surrounding countryside, but also from other poorer nations in search of a better life. Between eighteen hundred and nineteen hundred, the population of England increased by four times. This mass immigration from different nations and areas of the country resulted in a variety of cultural influences meeting and mixing to form a new, more diverse culture. With this new culture came a new style of music. Prior to the Industrial Revolution, music had originally been written to reflect the hard, labor-intensive life in all kinds of industries when all work had to be done by hand. Most people resided in small rural communities where their lives revolved around farming. Life for the average person was difficult, as incomes were meager and malnourishment and disease were common. Despite the difference in nationalities of the people and the variety of musical genres, all of the music shared one common language: English. As many were unable to write, the songs were a means for the people to give voice to their experiences and feelings about their hard and laborious jobs. Most of the music written by the workers during this period has been lost as a result of illiteracy and the wear of time. Now, you may be asking yourselves how these small musical works were formed. The roots of most of these groups can mostly be traced back to the younger members of the working classes, who were perhaps rebelling against the inferiority of their living and working conditions compared to those of the upper classes. Young performers would often lead these musical trends, usually possessing a great talent for singing or playing particular handmade instruments. As time progressed into the nineteenth century, these musical groups had gained much notoriety and would hold small performances in the street for all to watch. It was perhaps their blind optimism and rebellious spirit that led them to become so popular with their audiences, which were usually made up of the poorest of the poor. Despite efforts by the upper classes to put an end to these musical traditions, they continued to gain popularity and flourish. By the late eighteen seventies, they had evolved past the barrier of the social echelons and gained access to the middle class. Performances were held in proper establishments such as village halls, and some were even ticketed, with audiences paying a fee for the privilege of watching. Music produced by these groups were better recorded, and some are still preserved today in museums. The music of these groups may not exist in the present day, but its influences are still clear if you look closely enough. In classical culture, for example, many of the themes and theatrical performances are still based on the lives and experiences of the working classes both prior to and following the Industrial Revolution. The novel entitled Les Misérables by Victor Hugo, for example, is a novel about the French working classes and is still widely popular today. The original recordings of the music written during these periods are now hugely valuable due to the demand from avid collectors and enthusiastic fans. Many of these recordings are publicly owned and displayed in museum exhibits. However, a selection are still privately owned and occasionally appear for sale in auctions, often reaching prices in the hundreds of thousands. </p><p>00:05:11,820</p><p>Well, that just about wraps the lecture up for today. So if anyone has any questions... </p><p>00:05:20,160</p><p>That is the end of section four. </p><p>00:05:23,300</p><p>You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/83ad214b-1034-4594-87ca-a713a1935c50.mp3",
+    "durationSeconds": 326.060408,
+    "sizeBytes": 1304481,
+    "sha256": "f5c181cb796d9f70d05b17f62afc8a8be8430265e86df831fd655d001b4b3802",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:29:41Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777704770739_hhxj56_69a0d2e8.mp3"
+}

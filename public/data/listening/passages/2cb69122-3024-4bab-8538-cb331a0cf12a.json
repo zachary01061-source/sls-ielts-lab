@@ -1,0 +1,491 @@
+{
+  "id": "2cb69122-3024-4bab-8538-cb331a0cf12a",
+  "title": "The beach races",
+  "titleCn": "海滩赛马会志愿者培训",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/2cb69122-3024-4bab-8538-cb331a0cf12a",
+  "duration": 380,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:02,200"
+    },
+    {
+      "label": "2",
+      "text": "Morning, everyone, and first, a big thank you for volunteering at this year's beach races. For those who are new, there'll be all types of races today: horses, running events, and different kinds of vehicles. All the races are along the beach. It's a lot of fun. We get lots of visitors, and we couldn't do it without you volunteers to organize everything."
+    },
+    {
+      "label": "3",
+      "text": "00:00:24,180"
+    },
+    {
+      "label": "4",
+      "text": "Now, the races themselves, some are more popular than others. The bicycle race doesn't get so many entries. It's hard work pedaling on sand. The only rule for the tractors is that they must be at least fifty years old. That one always gets the biggest crowd, so we'll need lots of volunteers. And this year, we've got motorbikes for the first time. Be interesting to see how they go."
+    },
+    {
+      "label": "5",
+      "text": "00:00:49,600"
+    },
+    {
+      "label": "6",
+      "text": "Then the horse race. Obviously, the horses are unpredictable, so we must ensure everyone's safe. People watching from boats on the sea must have their engines turned off. The Coast Guard should see to that. People can stand on the beach, but they must stand behind the barrier at all times. And remember, the horses can't stop quickly, so make sure no one is anywhere near the finish, please."
+    },
+    {
+      "label": "7",
+      "text": "00:01:15,480"
+    },
+    {
+      "label": "8",
+      "text": "What else? Oh, yes, the beach picnic. There was some confusion about this last time. So just to clarify, it's for the youngsters, those ten or under and no one else, please. They don't need to book in advance. Just turn up. It keeps them occupied while their parents are busy watching the races."
+    },
+    {
+      "label": "9",
+      "text": "00:01:34,680"
+    },
+    {
+      "label": "10",
+      "text": "Um, okay, parking. Some of you will be organizing the parking because it's always busy. The good news is we haven't put up the prices at all for three years now. It's a flat rate of ten dollars for all vehicles, regardless of size. But no trucks. If they're making deliveries, they park on the street and contact the site manager."
+    },
+    {
+      "label": "11",
+      "text": "00:01:57,360"
+    },
+    {
+      "label": "12",
+      "text": "Now, stalls. There are lots of stalls selling food, souvenirs, and stuff. All the registration's been dealt with, so don't worry about that. But stallholders must have pinned up somewhere noticeable a license from the local council to run a business on public land. And if any of the stallholders ask you about insurance, only the stalls doing cooking actually need it. Just send them to the admin tent."
+    },
+    {
+      "label": "13",
+      "text": "00:02:23,540"
+    },
+    {
+      "label": "14",
+      "text": "And then, uh, just some final advice. There's always unexpected delays at events like this, so we have to be flexible. Just remember to look after yourselves. It's going to be hot, so throughout the day, make use of the water bottles and snacks in your volunteer packs. Apart from that, today is about family entertainment and supporting our local charities. So as long as everyone's having fun, we're achieving our goals. Two important places."
+    },
+    {
+      "label": "15",
+      "text": "So can you all look at your maps? Right now, we're standing in the car park at the bottom of the map. So the admin tent is obviously important. To get there from the car park, head north, go straight over the crossroads, and then follow the road round to the left, View Road. It runs parallel to the beach. You'll see stalls on your left. Go straight on past them. And the admin tent's on the right, beside the road, not on the beach. Now, people often lose things, so you need to know where lost property is. If you find a bag or something, this is where to take it. Go up to the crossroads and turn left. Follow that road as far as you can go, and it's at the end there. Now, the sandcastle competition, good for all ages, this one. It's right at the western end of the beach. So probably best to walk along View Road to get there. You'll see two enclosures on the beach. It's the one nearest the sea and nearest the start line. Finally, first aid. Any medical problems, go there. So from the car park, go up to the crossroads and turn left. Then you'll see a little path heading north towards the beach. It's down there. Well, if anyone has any questions, you can just..."
+    },
+    {
+      "label": "16",
+      "text": "00:04:12,620"
+    },
+    {
+      "label": "17",
+      "text": "That is the end of part two. You now have thirty seconds to check your answers to part two."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-16**\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "f60b4658-0ca1-4f25-8d88-03daf079512c",
+          "prompt": "**11** Which is the most popular race?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "old tractors",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The bicycle race doesn't get so many entries. It's hard work pedaling on sand. The only rule for the tractors is that they must be at least fifty years old. That one always gets the biggest crowd, so we'll need lots of volunteers. And this year, we've got motorbikes for the first time. Be interesting to see how they go"
+          },
+          "keywordPairs": [
+            {
+              "question": "the most popular race",
+              "article": "gets the biggest crowd"
+            },
+            {
+              "question": "old tractors",
+              "article": "the tractors;must be at least fifty years old"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "bicycles"
+            },
+            {
+              "value": "B",
+              "text": "old tractors"
+            },
+            {
+              "value": "C",
+              "text": "motorbikes"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "1922fa8b-8fdf-44f1-b37a-ba3c38305e8b",
+          "prompt": "**12** What does the official say about the horse race?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "keep the finish line clear",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And remember, the horses can't stop quickly, so make sure no one is anywhere near the finish, please"
+          },
+          "keywordPairs": [
+            {
+              "question": "keep the finish line clear",
+              "article": "make sure no one is anywhere near the finish"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "keep the finish line clear"
+            },
+            {
+              "value": "B",
+              "text": "keep spectators off the beach"
+            },
+            {
+              "value": "C",
+              "text": "keep boats away from the shore"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "f229d19c-7412-47c6-a4e2-713a92020f52",
+          "prompt": "**13** The Beach Picnic is only for",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "children.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Oh, yes, the beach picnic. There was some confusion about this last time. So just to clarify, it's for the youngsters, those ten or under and no one else, please"
+          },
+          "keywordPairs": [
+            {
+              "question": "The Beach Picnic",
+              "article": "the beach picnic"
+            },
+            {
+              "question": "is only for",
+              "article": "it's for;and no one else"
+            },
+            {
+              "question": "children",
+              "article": "the youngsters, those ten or under"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "race competitors."
+            },
+            {
+              "value": "B",
+              "text": "ticket holders."
+            },
+            {
+              "value": "C",
+              "text": "children."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "8025cc2d-95cd-4349-b193-a30e8d1c49c6",
+          "prompt": "**14** The official says that parking",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "costs the same as last year.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The good news is we haven't put up the prices at all for three years now. It's a flat rate of ten dollars for all vehicles, regardless of size"
+          },
+          "keywordPairs": [
+            {
+              "question": "costs the same as last year",
+              "article": "haven't put up the prices at all for three years now"
+            },
+            {
+              "question": "parking",
+              "article": "parking"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "is more expensive for trucks"
+            },
+            {
+              "value": "B",
+              "text": "costs the same as last year."
+            },
+            {
+              "value": "C",
+              "text": "is free for some vehicles."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "7414fcc9-d8cc-444b-ac07-6e2dfb29524c",
+          "prompt": "**15** What do stall-holders need to display?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "a council licence",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But stallholders must have pinned up somewhere noticeable a license from the local council to run a business on public land"
+          },
+          "keywordPairs": [
+            {
+              "question": "need to",
+              "article": "must"
+            },
+            {
+              "question": "display",
+              "article": "have pinned up somewhere noticeable"
+            },
+            {
+              "question": "a council licence",
+              "article": "a license from the local council"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "a council licence"
+            },
+            {
+              "value": "B",
+              "text": "their registration form"
+            },
+            {
+              "value": "C",
+              "text": "an insurance certificate"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "193dfce5-b178-452b-a2b9-9c6c552abddd",
+          "prompt": "**16** What final advice does the official give the volunteers",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "eat and drink regularly",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And then, uh, just some final advice. There's always unexpected delays at events like this, so we have to be flexible. Just remember to look after yourselves. It's going to be hot, so throughout the day, make use of the water bottles and snacks in your volunteer packs"
+          },
+          "keywordPairs": [
+            {
+              "question": "final advice",
+              "article": "just some final advice"
+            },
+            {
+              "question": "eat and drink regularly",
+              "article": "throughout the day, make use of the water bottles and snacks"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16",
+          "options": [
+            {
+              "value": "A",
+              "text": "encourage visitors to donate money"
+            },
+            {
+              "value": "B",
+              "text": "keep strictly to the timetable"
+            },
+            {
+              "value": "C",
+              "text": "eat and drink regularly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "map",
+      "instruction": "**Questions 17-20**\nLabel the map below.\nWrite the correct letter, **A-I**, next to questions **17-20**.\n![图片1.png](assets/listening/87dd98d23a3551ac2fc1df7aa1af553f4a0dd366438b9c3a605a5bfcae3c94fd.png)",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "89853fc4-6bd2-4255-8e94-fb962f0704e7",
+          "prompt": "Admin Tent",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "C",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So the admin tent is obviously important. To get there from the car park, head north, go straight over the crossroads, and then follow the road round to the left, View Road. It runs parallel to the beach. You'll see stalls on your left. Go straight on past them. And the admin tent's on the right, beside the road, not on the beach"
+          },
+          "keywordPairs": [
+            {
+              "question": "Admin Tent",
+              "article": "the admin tent"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "9585d7c7-a606-437f-9fbb-10ccf103a55a",
+          "prompt": "Lost property",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "E",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, people often lose things, so you need to know where lost property is. If you find a bag or something, this is where to take it. Go up to the crossroads and turn left. Follow that road as far as you can go, and it's at the end there"
+          },
+          "keywordPairs": [
+            {
+              "question": "Lost property",
+              "article": "lost property"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "6be4c393-4511-4a2b-bad5-2950d40a7832",
+          "prompt": "Sandcastle competition",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "B",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, the sandcastle competition, good for all ages, this one. It's right at the western end of the beach. So probably best to walk along View Road to get there. You'll see two enclosures on the beach. It's the one nearest the sea and nearest the start line"
+          },
+          "keywordPairs": [
+            {
+              "question": "Sandcastle competition",
+              "article": "the sandcastle competition"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "09f40961-3fe6-41b3-9145-086e7bfa43ca",
+          "prompt": "First aid",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "F",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, first aid. Any medical problems, go there. So from the car park, go up to the crossroads and turn left. Then you'll see a little path heading north towards the beach. It's down there"
+          },
+          "keywordPairs": [
+            {
+              "question": "First aid",
+              "article": "first aid"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ],
+      "images": [
+        "assets/listening/87dd98d23a3551ac2fc1df7aa1af553f4a0dd366438b9c3a605a5bfcae3c94fd.png"
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "地图题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><br></p><p>00:00:02,200</p><p>Morning, everyone, and first, a big thank you for volunteering at this year's beach races. For those who are new, there'll be all types of races today: horses, running events, and different kinds of vehicles. All the races are along the beach. It's a lot of fun. We get lots of visitors, and we couldn't do it without you volunteers to organize everything. </p><p>00:00:24,180</p><p>Now, the races themselves, some are more popular than others. The bicycle race doesn't get so many entries. It's hard work pedaling on sand. The only rule for the tractors is that they must be at least fifty years old. That one always gets the biggest crowd, so we'll need lots of volunteers. And this year, we've got motorbikes for the first time. Be interesting to see how they go. </p><p>00:00:49,600</p><p>Then the horse race. Obviously, the horses are unpredictable, so we must ensure everyone's safe. People watching from boats on the sea must have their engines turned off. The Coast Guard should see to that. People can stand on the beach, but they must stand behind the barrier at all times. And remember, the horses can't stop quickly, so make sure no one is anywhere near the finish, please. </p><p>00:01:15,480</p><p>What else? Oh, yes, the beach picnic. There was some confusion about this last time. So just to clarify, it's for the youngsters, those ten or under and no one else, please. They don't need to book in advance. Just turn up. It keeps them occupied while their parents are busy watching the races. </p><p>00:01:34,680</p><p>Um, okay, parking. Some of you will be organizing the parking because it's always busy. The good news is we haven't put up the prices at all for three years now. It's a flat rate of ten dollars for all vehicles, regardless of size. But no trucks. If they're making deliveries, they park on the street and contact the site manager. </p><p>00:01:57,360</p><p>Now, stalls. There are lots of stalls selling food, souvenirs, and stuff. All the registration's been dealt with, so don't worry about that. But stallholders must have pinned up somewhere noticeable a license from the local council to run a business on public land. And if any of the stallholders ask you about insurance, only the stalls doing cooking actually need it. Just send them to the admin tent. </p><p>00:02:23,540</p><p>And then, uh, just some final advice. There's always unexpected delays at events like this, so we have to be flexible. Just remember to look after yourselves. It's going to be hot, so throughout the day, make use of the water bottles and snacks in your volunteer packs. Apart from that, today is about family entertainment and supporting our local charities. So as long as everyone's having fun, we're achieving our goals. Two important places. </p><p><img src=\"assets/listening/ef1955ae757c8b966c83248350331bd3a30f658ced11f387f8ebf05ab3368629.gif\" alt=\"插入的图片\"><br></p><p>So can you all look at your maps? Right now, we're standing in the car park at the bottom of the map. So the admin tent is obviously important. To get there from the car park, head north, go straight over the crossroads, and then follow the road round to the left, View Road. It runs parallel to the beach. You'll see stalls on your left. Go straight on past them. And the admin tent's on the right, beside the road, not on the beach. Now, people often lose things, so you need to know where lost property is. If you find a bag or something, this is where to take it. Go up to the crossroads and turn left. Follow that road as far as you can go, and it's at the end there. Now, the sandcastle competition, good for all ages, this one. It's right at the western end of the beach. So probably best to walk along View Road to get there. You'll see two enclosures on the beach. It's the one nearest the sea and nearest the start line. Finally, first aid. Any medical problems, go there. So from the car park, go up to the crossroads and turn left. Then you'll see a little path heading north towards the beach. It's down there. Well, if anyone has any questions, you can just... </p><p>00:04:12,620</p><p>That is the end of part two. You now have thirty seconds to check your answers to part two.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/2cb69122-3024-4bab-8538-cb331a0cf12a.mp3",
+    "durationSeconds": 259.032,
+    "sizeBytes": 4144940,
+    "sha256": "9665bf59d12f3904d246731c4f286c3b84eda373d6059973df12469d7cc0cf57",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:27Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1774271571242_s8d3gv_19eb290e_a7d1b381.mp3"
+}

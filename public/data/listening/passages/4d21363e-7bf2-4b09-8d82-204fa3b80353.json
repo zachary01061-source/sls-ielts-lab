@@ -1,0 +1,247 @@
+{
+  "id": "4d21363e-7bf2-4b09-8d82-204fa3b80353",
+  "title": "Birdsong（机经听写）",
+  "titleCn": "鸟鸣声对工作效率与情绪的影响",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/4d21363e-7bf2-4b09-8d82-204fa3b80353",
+  "duration": 191,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Previous studies on sound failed to identify differences in natural sounds."
+    },
+    {
+      "label": "2",
+      "text": "More recent research has shown that birdsong helped concentration most when it had no repetition."
+    },
+    {
+      "label": "3",
+      "text": "Researchers are investigating if workers' creatively is increased when listening to birdsong."
+    },
+    {
+      "label": "4",
+      "text": "Studies aim to see if birdsong helps workers when they are feeling tired potentially boosting their productivity and well-being."
+    },
+    {
+      "label": "5",
+      "text": "A survey was done to investigate people's reactions to various sounds such as birdsong and the sound of water."
+    },
+    {
+      "label": "6",
+      "text": "Participants will be shown a frightening movie during which their verbal responses and physical reactions will be measured."
+    },
+    {
+      "label": "7",
+      "text": "These measures will help to determine participants' verbal responses and physical reactions."
+    },
+    {
+      "label": "8",
+      "text": "It has already been trialled in one airport waiting area to create a more calming environment for travelers."
+    },
+    {
+      "label": "9",
+      "text": "In the future, similar techniques could be used to help children in the hospital providing them with a soothing auditory environment to alleviate stress and anxiety."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "89f74864-8466-400e-bc90-047355c318ca",
+          "prompt": "**Birdsong**\n\nPrevious studies on sound failed to identify **31**_____ in natural sounds.",
+          "answers": [
+            "differences"
+          ],
+          "rawAnswer": "differences",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Previous studies on sound failed to identify differences in natural sounds."
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "07dcb3d1-c359-4280-8912-317e0f66d56b",
+          "prompt": "More recent research has shown that birdsong helped concentration most when it had no **32**_____ .",
+          "answers": [
+            "repetition"
+          ],
+          "rawAnswer": "repetition",
+          "evidence": {
+            "paragraph": "",
+            "quote": "More recent research has shown that birdsong helped concentration most when it had no repetition."
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "067a05cb-3a0a-4f8b-8fee-7521cd95ea7b",
+          "prompt": "Researchers are investigating if workers' **33**_____ is increased when listening to birdsong.",
+          "answers": [
+            "creatively"
+          ],
+          "rawAnswer": "creatively",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers are investigating if workers' creatively is increased when listening to birdsong."
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "d65129ed-3fb0-430c-8c3c-8449dc5066d3",
+          "prompt": "Studies aim to see if birdsong helps workers when they are feeling **34**_____ potentially boosting their productivity and well-being.",
+          "answers": [
+            "tired"
+          ],
+          "rawAnswer": "tired",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Studies aim to see if birdsong helps workers when they are feeling tired potentially boosting their productivity and well-being."
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "b138be0b-412d-4d36-890b-04919c94f09b",
+          "prompt": "A **35**_____ was done to investigate people's reactions to various sounds such as birdsong",
+          "answers": [
+            "survey"
+          ],
+          "rawAnswer": "survey",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A survey was done to investigate people's reactions to various sounds such as birdsong"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "08b70c15-1bd9-44a3-98de-aaa93aecad5e",
+          "prompt": "and the sound of **36**_____ .",
+          "answers": [
+            "water"
+          ],
+          "rawAnswer": "water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "and the sound of water."
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "d5976ad5-a211-49f7-bb61-f8c3ba041a4e",
+          "prompt": "Participants will be shown a frightening **37**_____ during which their verbal responses and physical reactions will be measured.",
+          "answers": [
+            "movie"
+          ],
+          "rawAnswer": "movie",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Participants will be shown a frightening movie during which their verbal responses and physical reactions will be measured."
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "036dc289-d18d-408b-a5d1-c31fbd39d820",
+          "prompt": "These measures will help to determine participants' verbal responses and **38**_____ reactions.",
+          "answers": [
+            "physical"
+          ],
+          "rawAnswer": "physical",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These measures will help to determine participants' verbal responses and physical reactions."
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "92725840-4531-423b-8865-02b7408dc146",
+          "prompt": "It has already been trialled in one **39**_____ waiting area to create a more calming environment for travelers.",
+          "answers": [
+            "airport"
+          ],
+          "rawAnswer": "airport",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It has already been trialled in one airport waiting area to create a more calming environment for travelers."
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "340ad56a-ad13-49b3-8149-178f5c0aaeee",
+          "prompt": "In the future, similar techniques could be used to help children in the **40**_____ providing them with a soothing auditory environment to alleviate stress and anxiety.",
+          "answers": [
+            "hospital"
+          ],
+          "rawAnswer": "hospital",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the future, similar techniques could be used to help children in the hospital providing them with a soothing auditory environment to alleviate stress and anxiety."
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Previous studies on sound failed to identify differences in natural sounds.</p><p>More recent research has shown that birdsong helped concentration most when it had no repetition.</p><p>Researchers are investigating if workers' creatively is increased when listening to birdsong.</p><p>Studies aim to see if birdsong helps workers when they are feeling tired potentially boosting their productivity and well-being.</p><p>A survey was done to investigate people's reactions to various sounds such as birdsong and the sound of water.</p><p>Participants will be shown a frightening movie during which their verbal responses and physical reactions will be measured.</p><p>These measures will help to determine participants' verbal responses and physical reactions.</p><p>It has already been trialled in one airport waiting area to create a more calming environment for travelers.</p><p>In the future, similar techniques could be used to help children in the hospital providing them with a soothing auditory environment to alleviate stress and anxiety.</p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/4d21363e-7bf2-4b09-8d82-204fa3b80353.mp3",
+    "durationSeconds": 70.848,
+    "sizeBytes": 283827,
+    "sha256": "e7c7184e0025b638eb4816b1c943a62ee57ce7fce08d0304d7659556b9b9dbff",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:36:21Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792120190549_ern4dr.mp3"
+}

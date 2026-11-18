@@ -1,0 +1,357 @@
+{
+  "id": "578b3f69-5cab-4a0c-8bf5-1e68819192df",
+  "title": "The vikings",
+  "titleCn": "维京人的生活与文化：航海、贸易与日常",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/578b3f69-5cab-4a0c-8bf5-1e68819192df",
+  "duration": 391,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,440"
+    },
+    {
+      "label": "2",
+      "text": "You will hear a lecture about Viking life and culture. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:09,560"
+    },
+    {
+      "label": "4",
+      "text": "Now, listen carefully and answer the questions. The Vikings, known for their seafaring skills, were not only warriors but also traders and explorers. Their voyages extended far beyond Scandinavia, reaching as far as North America."
+    },
+    {
+      "label": "5",
+      "text": "00:00:29,760"
+    },
+    {
+      "label": "6",
+      "text": "One significant piece of evidence confirming this is the discovery of a small silver coin found in a site associated with indigenous settlements. This finding suggests that Viking traders may have engaged in exchanges with indigenous people, possibly bartering metal goods or textiles for local resources."
+    },
+    {
+      "label": "7",
+      "text": "00:00:51,480"
+    },
+    {
+      "label": "8",
+      "text": "Warfare played an important role in Viking society, and they were skilled in producing and using a variety of weapons."
+    },
+    {
+      "label": "9",
+      "text": "00:00:59,340"
+    },
+    {
+      "label": "10",
+      "text": "Archaeological digs have unearthed a range of armaments, including spears, axes, and an especially well-crafted weapon likely used both in combat and for ceremonial purposes. These weapons were often passed down through generations, signifying status and craftsmanship. One of the Vikings' most impressive achievements was their advanced shipbuilding techniques. They designed sleek, sturdy vessels capable of enduring long sea voyages. A key feature of their longships was a large sail, allowing them to harness wind power and travel efficiently across vast distances. This innovation enabled them to raid, trade, and establish settlements across Europe and beyond. Given the harsh conditions at sea, preserving food for long voyages was crucial. Vikings employed various methods to prevent spoilage. One commonly used technique involved drying or curing meat, but they also relied heavily on a natural preservative, mainly salt."
+    },
+    {
+      "label": "11",
+      "text": "00:02:04,430"
+    },
+    {
+      "label": "12",
+      "text": "This ensured that their supplies remained edible for extended periods, particularly during their voyages to distant lands."
+    },
+    {
+      "label": "13",
+      "text": "00:02:13,500"
+    },
+    {
+      "label": "14",
+      "text": "Everyday life among the Vikings was quite different from modern times. For instance, their drinking vessels were often made from natural materials rather than glass or ceramics."
+    },
+    {
+      "label": "15",
+      "text": "00:02:26,200"
+    },
+    {
+      "label": "16",
+      "text": "A common choice was a horn, which was both lightweight and durable. Eating utensils, on the other hand, were simpler than those we use today."
+    },
+    {
+      "label": "17",
+      "text": "00:02:37,000"
+    },
+    {
+      "label": "18",
+      "text": "Rather than using spoons and knives exclusively, Vikings commonly carried a fork, which served multiple purposes, including assisting in eating and even as a small tool. Viking sailors frequently encountered storms and rough waters, which often led to ship damage. However, they were highly skilled in maintaining and restoring their vessels. Rather than abandoning damaged ships, they made on-the-spot repairs, reinforcing wooden planks, sealing leaks, and replacing worn-out parts. Their ability to repair ships ensured their survival during long and dangerous sea journeys. Vikings also had a remarkable ability to craft objects from raw materials. They were particularly adept at working with ores, transforming them into tools and weapons. One of the most essential materials they relied on was metal, which they shaped into swords, armor, and farming implements."
+    },
+    {
+      "label": "19",
+      "text": "00:03:39,320"
+    },
+    {
+      "label": "20",
+      "text": "Like many ancient societies, Vikings passed down their history through oral traditions rather than written records. They often gathered around fires or in great halls to listen to recitations of heroic tales and myths. These narratives were preserved and transmitted through poems, which kept their cultural heritage alive for generations."
+    },
+    {
+      "label": "21",
+      "text": "00:04:02,280"
+    },
+    {
+      "label": "22",
+      "text": "Unlike in some contemporary societies of the time, Viking women had certain legal rights. They were able to inherit property and manage businesses. More notably, they had the right to approach a court if they wished to end their marriage. In such cases, a woman could formally request a divorce, a practice that was relatively uncommon in many other medieval cultures."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "af155fde-066a-4e0b-b9f3-d7803275607e",
+          "prompt": "**Trade and Exploration**\n· Vikings were skilled traders and explorers, traveling great distances by sea.\n· A **31**_____ was discovered, proving that there was interaction between the Vikings and indigenous people in North America.",
+          "answers": [
+            "coin"
+          ],
+          "rawAnswer": "coin",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One significant piece of evidence confirming this is the discovery of a small silver coin found in a site associated with indigenous settlements"
+          },
+          "keywordPairs": [
+            {
+              "question": "interaction",
+              "article": "associated with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "892c8c57-f40a-430d-9855-bade689abd9a",
+          "prompt": "· They relied on a variety of **32**_____ to defend themselves and for hunting.",
+          "answers": [
+            "weapons"
+          ],
+          "rawAnswer": "weapons",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Warfare played an important role in Viking society, and they were skilled in producing and using a variety of weapons"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "518fd6a9-fad0-48b1-8b9e-8d9f083437aa",
+          "prompt": "**Ship and Daily Life**\n· They were exceptional shipbuilders and constructed vessels with a **33**_____ that enabled long-distance travel.",
+          "answers": [
+            "sail"
+          ],
+          "rawAnswer": "sail",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A key feature of their longships was a large sail, allowing them to harness wind power and travel efficiently across vast distances"
+          },
+          "keywordPairs": [
+            {
+              "question": "vessels",
+              "article": "longships"
+            },
+            {
+              "question": "enabled",
+              "article": "allowing"
+            },
+            {
+              "question": "long-distance travel",
+              "article": "travel efficiently across vast distances"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "66afe677-5350-4b70-ae62-60890d5d8bc0",
+          "prompt": "· To ensure food lasted during voyages, they used **34**_____ for preservation.",
+          "answers": [
+            "salt"
+          ],
+          "rawAnswer": "salt",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One commonly used technique involved drying or curing meat, but they also relied heavily on a natural preservative, mainly salt"
+          },
+          "keywordPairs": [
+            {
+              "question": "used",
+              "article": "relied heavily on"
+            },
+            {
+              "question": "preservation",
+              "article": "natural preservative"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "7d75b80e-472f-4638-9dc2-b5ad3c647f15",
+          "prompt": "· For drinking, Vikings often used a **35**_____",
+          "answers": [
+            "horn"
+          ],
+          "rawAnswer": "horn",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Their drinking vessels were often made from natural materials rather than glass or ceramics;A common choice was a horn, which was both lightweight and durable"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "a216337b-a48e-4e5d-81b1-c2f855505c0d",
+          "prompt": "and their common eating utensil was a **36**_____ .",
+          "answers": [
+            "fork"
+          ],
+          "rawAnswer": "fork",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Vikings commonly carried a fork;which served multiple purposes, including assisting in eating and even as a small tool"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "97db6d13-79a7-44eb-a7fb-842a4329c80d",
+          "prompt": "**Skills and Arts **\n· In order to sustain their sea journeys, they had the ability to **37**_____ damaged ships.",
+          "answers": [
+            "repair"
+          ],
+          "rawAnswer": "repair",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Their ability to repair ships ensured their survival during long and dangerous sea journeys"
+          },
+          "keywordPairs": [
+            {
+              "question": "In order to sustain",
+              "article": "ensured their survival"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "68339638-15ca-4c26-b20b-485a50914a07",
+          "prompt": "· They crafted essential tools and **38**_____ using metal.",
+          "answers": [
+            "weapons"
+          ],
+          "rawAnswer": "weapons",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They were particularly adept at working with ores, transforming them into tools and weapons"
+          },
+          "keywordPairs": [
+            {
+              "question": "crafted",
+              "article": "transforming them into"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "97c4b34f-07be-4d4c-8280-427b8877ee27",
+          "prompt": "· Much of their history and stories were passed down through **39**_____ .",
+          "answers": [
+            "poems"
+          ],
+          "rawAnswer": "poems",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These narratives were preserved and transmitted through poems, which kept their cultural heritage alive for generations"
+          },
+          "keywordPairs": [
+            {
+              "question": "passed down",
+              "article": "transmitted"
+            },
+            {
+              "question": "history and stories",
+              "article": "narratives"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "ad39e146-2b3b-4720-a0ff-48545ee05c04",
+          "prompt": "**Society and Law**\n· Viking society granted women certain rights, including the ability to go to court to request a **40**_____ .",
+          "answers": [
+            "divorce"
+          ],
+          "rawAnswer": "divorce",
+          "evidence": {
+            "paragraph": "",
+            "quote": "More notably, they had the right to approach a court if they wished to end their marriage. In such cases, a woman could formally request a divorce"
+          },
+          "keywordPairs": [
+            {
+              "question": "the ability to go to",
+              "article": "had the right to approach"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,440</p><p>You will hear a lecture about Viking life and culture. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:09,560</p><p>Now, listen carefully and answer the questions. The Vikings, known for their seafaring skills, were not only warriors but also traders and explorers. Their voyages extended far beyond Scandinavia, reaching as far as North America. </p><p>00:00:29,760</p><p>One significant piece of evidence confirming this is the discovery of a small silver coin found in a site associated with indigenous settlements. This finding suggests that Viking traders may have engaged in exchanges with indigenous people, possibly bartering metal goods or textiles for local resources. </p><p>00:00:51,480</p><p>Warfare played an important role in Viking society, and they were skilled in producing and using a variety of weapons. </p><p>00:00:59,340</p><p>Archaeological digs have unearthed a range of armaments, including spears, axes, and an especially well-crafted weapon likely used both in combat and for ceremonial purposes. These weapons were often passed down through generations, signifying status and craftsmanship. One of the Vikings' most impressive achievements was their advanced shipbuilding techniques. They designed sleek, sturdy vessels capable of enduring long sea voyages. A key feature of their longships was a large sail, allowing them to harness wind power and travel efficiently across vast distances. This innovation enabled them to raid, trade, and establish settlements across Europe and beyond. Given the harsh conditions at sea, preserving food for long voyages was crucial. Vikings employed various methods to prevent spoilage. One commonly used technique involved drying or curing meat, but they also relied heavily on a natural preservative, mainly salt. </p><p>00:02:04,430</p><p>This ensured that their supplies remained edible for extended periods, particularly during their voyages to distant lands. </p><p>00:02:13,500</p><p>Everyday life among the Vikings was quite different from modern times. For instance, their drinking vessels were often made from natural materials rather than glass or ceramics. </p><p>00:02:26,200</p><p>A common choice was a horn, which was both lightweight and durable. Eating utensils, on the other hand, were simpler than those we use today. </p><p>00:02:37,000</p><p>Rather than using spoons and knives exclusively, Vikings commonly carried a fork, which served multiple purposes, including assisting in eating and even as a small tool. Viking sailors frequently encountered storms and rough waters, which often led to ship damage. However, they were highly skilled in maintaining and restoring their vessels. Rather than abandoning damaged ships, they made on-the-spot repairs, reinforcing wooden planks, sealing leaks, and replacing worn-out parts. Their ability to repair ships ensured their survival during long and dangerous sea journeys. Vikings also had a remarkable ability to craft objects from raw materials. They were particularly adept at working with ores, transforming them into tools and weapons. One of the most essential materials they relied on was metal, which they shaped into swords, armor, and farming implements. </p><p>00:03:39,320</p><p>Like many ancient societies, Vikings passed down their history through oral traditions rather than written records. They often gathered around fires or in great halls to listen to recitations of heroic tales and myths. These narratives were preserved and transmitted through poems, which kept their cultural heritage alive for generations. </p><p>00:04:02,280</p><p>Unlike in some contemporary societies of the time, Viking women had certain legal rights. They were able to inherit property and manage businesses. More notably, they had the right to approach a court if they wished to end their marriage. In such cases, a woman could formally request a divorce, a practice that was relatively uncommon in many other medieval cultures.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/578b3f69-5cab-4a0c-8bf5-1e68819192df.mp3",
+    "durationSeconds": 270.024,
+    "sizeBytes": 4320825,
+    "sha256": "3fcdabd2edab5ed620f1a975ede30a134ea877fc1b5760fea59931a8119945ee",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:24Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775393317013_edfi5s_66ec40fc_ffc8bd53.mp3"
+}

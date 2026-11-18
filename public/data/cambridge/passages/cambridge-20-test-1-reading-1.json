@@ -1,0 +1,256 @@
+{
+  "id": "cambridge-20-test-1-reading-1",
+  "title": "The kākāpō",
+  "titleCn": "The kākāpō",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 1
+  },
+  "sourceQuestionId": "8550",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8550",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The kākāpō"
+    },
+    {
+      "label": "2",
+      "text": "The kākāpō is a nocturnal, flightless parrot that is critically endangered and one of New Zealand’s unique treasures"
+    },
+    {
+      "label": "3",
+      "text": "The kākāpō, also known as the owl parrot, is a large, forest-dwelling bird, with a pale owl-like face. Up to 64 cm in length, it has predominantly yellow-green feathers, forward-facing eyes, a large grey beak, large blue feet, and relatively short wings and tail. It is the world’s only flightless parrot, and is also possibly one of the world’s longest-living birds, with a reported lifespan of up to 100 years."
+    },
+    {
+      "label": "4",
+      "text": "Kākāpō are solitary birds and tend to occupy the same home range for many years. They forage on the ground and climb high into trees. They often leap from trees and flap their wings, but at best manage a controlled descent to the ground. They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds."
+    },
+    {
+      "label": "5",
+      "text": "Kākāpō breed in summer and autumn, but only in years when food is plentiful. Males play no part in incubation or chick-rearing – females alone incubate eggs and feed the chicks. The 1–4 eggs are laid in soil, which is repeatedly turned over before and during incubation. The female kākāpō has to spend long periods away from the nest searching for food, which leaves the unattended eggs and chicks particularly vulnerable to predators."
+    },
+    {
+      "label": "6",
+      "text": "Before humans arrived, kākāpō were common throughout New Zealand’s forests. However, this all changed with the arrival of the first Polynesian settlers about 700 years ago. For the early settlers, the flightless kākāpō was easy prey. They ate its meat and used its feathers to make soft cloaks. With them came the Polynesian dog and rat, which also preyed on kākāpō. By the time European colonisers arrived in the early 1800s, kākāpō had become confined to the central North Island and forested parts of the South Island. The fall in kākāpō numbers was accelerated by European colonisation. A great deal of habitat was lost through forest clearance, and introduced species such as deer depleted the remaining forests of food. Other predators such as cats, stoats and two more species of rat were also introduced. The kākāpō were in serious trouble."
+    },
+    {
+      "label": "7",
+      "text": "In 1894, the New Zealand government launched its first attempt to save the kākāpō. Conservationist Richard Henry led an effort to relocate several hundred of the birds to predator-free Resolution Island in Fiordland. Unfortunately, the island didn’t remain predator free – stoats arrived within six years, eventually destroying the kākāpō population. By the mid-1900s, the kākāpō was practically a lost species. Only a few clung to life in the most isolated parts of New Zealand."
+    },
+    {
+      "label": "8",
+      "text": "From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find kākāpō, focusing mainly on Fiordland. Six were caught, but there were no females amongst them and all but one died within a few months of captivity. In 1974, a new initiative was launched, and by 1977, 18 more kākāpō were found in Fiordland. However, there were still no females. In 1977, a large population of males was spotted in Rakiura – a large island free from stoats, ferrets and weasels. There were about 200 individuals, and in 1980 it was confirmed females were also present. These birds have been the foundation of all subsequent work in managing the species."
+    },
+    {
+      "label": "9",
+      "text": "Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers. As a result, during 1980–97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island. However, breeding success was hard to achieve. Rats were found to be a major predator of kākāpō chicks and an insufficient number of chicks survived to offset adult mortality. By 1995, although at least 12 chicks had been produced on the islands, only three had survived. The kākāpō population had dropped to 51 birds. The critical situation prompted an urgent review of kākāpō management in New Zealand."
+    },
+    {
+      "label": "10",
+      "text": "In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kākāpō Scientific and Technical Advisory Committee and a higher amount of funding. Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks."
+    },
+    {
+      "label": "11",
+      "text": "After the first five years of the Recovery Plan, the population was on target. By 2000, five new females had been produced, and the total population had grown to 62 birds. For the first time, there was cautious optimism for the future of kākāpō and by June 2020, a total of 210 birds was recorded."
+    },
+    {
+      "label": "12",
+      "text": "Today, kākāpō management continues to be guided by the kākāpō Recovery Plan. Its key goals are: minimise the loss of genetic diversity in the kākāpō population, restore or maintain sufficient habitat to accommodate the expected increase in the kākāpō population, and ensure stakeholders continue to be fully engaged in the preservation of the species."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1–6\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 1–6 on your answer sheet, write\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "There are other parrots that share the kakapo’s inability to fly.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8550_562070",
+          "explanation": "译文：还有其他鹦鹉也像鸮鹦鹉一样不会飞。\n\n本题定位处靠前、词汇也简单，原文中斩钉截铁地下了“only flightless”这个定论，表明鸮鹦鹉就是“唯一不会飞”的鹦鹉种类，与题干形成了干脆利落的矛盾抵触，答案为：FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Adult kakapo produce chicks every year.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8550_861323",
+          "explanation": "译文：成鸟鸮鹦鹉每年均繁殖幼鸟。\n\n本题的定位关键，在于考生要能辨认出题干中produce与原文中breed的同义替换表述。由于这二者都是雅思阅读中再常见不过的基础认知词汇了，因此要做这种对应定位应当不难。原文说鸮鹦鹉只在食物充足的年份里才在夏秋季繁衍后代，这与题干说“每年繁殖幼鸟”当然是矛盾抵触的，答案应为：FALSE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Adult male kakapo bring food back to nesting females.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8550_514340",
+          "explanation": "译文：成年雄性鸮鹦鹉会带食物回来给守巢的雌鸟。\n\n本题的位置紧挨上一题，直接出现了一模一样的male，十分好找。句意表述也非常友好：破折号之前的句子已经说了“雄性完全不参与孵化和养育幼鸟”，破折号后面还要再重复一遍“是雌鸟独自孵蛋和喂养小鸟”。如此周到的强调与题干所说完全互斥，答案当然就还是：FALSE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "The Polynesian rat was a greater threat to the kakapo than Polynesian settlers.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8550_531583",
+          "explanation": "译文：波利尼西亚鼠比波利尼西亚人带给鸮鹦鹉的威胁更大。\n\n本题虽然包含了一个看似有助定位的大写词汇，但实际解题的难度却比前三题都更高一些。首先，大写“波利尼西亚”在第四段的前半段里出现了不止一次，这里也确实既提到了rat也提到了settlers，然而却没有将这二者给鸮鹦鹉所带来的生存威胁进行比较；其次，如果考生想要借助下一题的定位来帮助自己笃定选择NG，则一直要到第七段里找到第5题后才能尘埃落定。如果采用了平行阅读的方法，就会安心得多，因为在尝试确认本题答案的过程中，虽然一时找不到下一题的定位助攻，但却会因为同时关注到了填空题，而沿途找到第9、10、11三题的答案，不至于太过心慌意乱。等到顺其自然地定位了下一道判断题的位置在第七段后，就能更加心安理得地确认本题答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Kakapo were transferred from Rakiura Island to other locations because they were at risk from feral cats.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8550_461543",
+          "explanation": "译文：鸮鹦鹉被从Rakiura岛运送到其他地点去是因为野猫对它们造成了威胁。\n\n本题自身的定位还是非常友好的，因为无论是大写的Rakiura Island还是考生也许并不认识的词汇“feral” cats，都一模一样地出现在了第七段的第一句话里，明确表明是这种cats对这个岛上的鸮鹦鹉数量造成了快速削减。不过，考生还需耐心再看下一句话，才能确认题干中的另一半信息：“因此把鸮鹦鹉转移到其他地方去了”。结合这两句话的表述，就能顺利得出答案应为：TRUE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "One Recovery Plan initiative that helped increase the kakapo population size was caring for struggling young birds.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8550_388898",
+          "explanation": "译文：一项助力增加了鸮鹦鹉种群数量的复兴计划议案是照顾挣扎求存中的幼鸟。\n\n本题的定位不算难，但解题过程可能略需波折。大写的Recovery Plan原样出现在了第八段的开头，但考生需要一直读到本段的最后一句，才能看到这项复兴计划中的具体举措，其中就包括了对应题干表述的“拯救和人工饲养陷入困境的幼鸟”，可知题干表述无误，进而得出答案应为：TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 7–13\n\nComplete the notes below.\n\nChoose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "· diet consists of fern fronds, various parts of a tree and [7] ______",
+          "answers": [
+            "bulbs"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8550_669255",
+          "explanation": "7. 译文：食谱包括蕨类叶片、树的各种部位和 ____。\n\n本题定位不难的一个主要原因是：无论总结性的上义词diet还是作为下义词之一的略生僻词汇fern fronds都一模一样地出现在了文章中，考生即使并不认识后者，也不影响答题。对这个原文句稍加分析就能看出，leaves, roots and bark对应的都是题干中的parts of a tree，于是可以填进空格内的唯一选择就只能是：bulbs。\n\n8. 译文：巢穴建立在 ____中，鸟蛋就是下在这里。\n\n这道题的定位难度相对略高，原因是文中并未直白或间接出现nests这个信息，要靠考生根据对文意的准确理解而推理得知。不过，由于另一个题干信息eggs are laid却是原样出现在定位句里的，所以也不能说这个定位过于为难了考生。只需认真看清句意，理解到“这1- 4枚蛋是直接下在soil泥土地上的，也在这里进行频繁翻动与孵化”，就不难得出答案应为：soil。\n\n9. 译文：鸮鹦鹉的 ____被用来制作衣物。\n\n考生如果注意到了这个部分的小标题，则能利用其中的Polynesian settlers这个信息更快定位到第四段的第二句话。不过，仍需耐心向后再阅读两句，才能在第四句里看到“用其羽毛来制作软斗篷”这个题干对应信息，进而得出答案应为：feathers。\n\n10. 译文： ____是一种由他们带来的动物，吃掉了鸮鹦鹉的食物来源。\n\n与上一题类似，如果考生注意到了小标题European colonisers这个信息，会更加有助于准确定位和解题。从题干可知，空格内所填的必然是某种具体的动物，于是在定位到第四段第六句“欧洲殖民者”第一次出现之后，考生需要耐心向后多阅读两句，寻找某种“吃掉鸮鹦鹉食物的动物”名称，而符合这个条件的唯一选择就是：deer。\n\n11. 译文：在Rakiura岛上明确找到雌性鸮鹦鹉是在____这一年。\n\n本题的题干明确提示考生：空格里需要填写一个具体年份；同时，大写信息Rakiura Island也能帮助考生快速定位到第六段。不过，本段中包含了比较多的年份数字信息，还是需要考生耐心看清具体在哪个年份发生了哪件事，才能准确匹配到题干所需的那个年份。“确认找到了存在雌鸟是在1980年”这句话的位置比较靠后，需要考生耐心看到倒数第二句，明确看到题干中的definite sighting被同义表述成了it was confirmed，才能最终确认答案应为：1980。\n\n12. 译文：复兴计划中包含了____的增长。\n\n本题的定位非常之友好：考生可以直接利用大写的Recovery Plan定位到第八段开头，且在这句话里就能看到a higher amount of这个对应了题干increase的信息。在这项复兴计划中，“有增长”这个特点所修饰的对象只有“资金”这一个，因此可知答案应为：funding。\n\n13. 译文：复兴计划当前的一个目标是保持____充分参与鸮鹦鹉的保护。\n\n与上一题相比，本题就不那么容易定位了，因为从第八段开始，贯穿全文最后的九、十两段，都是在具体描述这项复兴计划的细节内容。不过，好在题干中的goal这个单词一模一样地出现在了原文相应位置（可惜已经到了全文结尾处），考生只要耐心读懂这句话就不难从题干involvement与原文中fully engaged的对应表述中看出，需要确保参与鸮鹦鹉保护行动的对象，就是也许略显陌生的这个词汇：stakeholders。",
+          "promptHtml": "· diet consists of fern fronds, various parts of a tree and [7] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "· nests are created in [8] ______where eggs are laid.",
+          "answers": [
+            "soil"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8550_316586",
+          "explanation": "7. 译文：食谱包括蕨类叶片、树的各种部位和 ____。\n\n本题定位不难的一个主要原因是：无论总结性的上义词diet还是作为下义词之一的略生僻词汇fern fronds都一模一样地出现在了文章中，考生即使并不认识后者，也不影响答题。对这个原文句稍加分析就能看出，leaves, roots and bark对应的都是题干中的parts of a tree，于是可以填进空格内的唯一选择就只能是：bulbs。\n\n8. 译文：巢穴建立在 ____中，鸟蛋就是下在这里。\n\n这道题的定位难度相对略高，原因是文中并未直白或间接出现nests这个信息，要靠考生根据对文意的准确理解而推理得知。不过，由于另一个题干信息eggs are laid却是原样出现在定位句里的，所以也不能说这个定位过于为难了考生。只需认真看清句意，理解到“这1- 4枚蛋是直接下在soil泥土地上的，也在这里进行频繁翻动与孵化”，就不难得出答案应为：soil。\n\n9. 译文：鸮鹦鹉的 ____被用来制作衣物。\n\n考生如果注意到了这个部分的小标题，则能利用其中的Polynesian settlers这个信息更快定位到第四段的第二句话。不过，仍需耐心向后再阅读两句，才能在第四句里看到“用其羽毛来制作软斗篷”这个题干对应信息，进而得出答案应为：feathers。\n\n10. 译文： ____是一种由他们带来的动物，吃掉了鸮鹦鹉的食物来源。\n\n与上一题类似，如果考生注意到了小标题European colonisers这个信息，会更加有助于准确定位和解题。从题干可知，空格内所填的必然是某种具体的动物，于是在定位到第四段第六句“欧洲殖民者”第一次出现之后，考生需要耐心向后多阅读两句，寻找某种“吃掉鸮鹦鹉食物的动物”名称，而符合这个条件的唯一选择就是：deer。\n\n11. 译文：在Rakiura岛上明确找到雌性鸮鹦鹉是在____这一年。\n\n本题的题干明确提示考生：空格里需要填写一个具体年份；同时，大写信息Rakiura Island也能帮助考生快速定位到第六段。不过，本段中包含了比较多的年份数字信息，还是需要考生耐心看清具体在哪个年份发生了哪件事，才能准确匹配到题干所需的那个年份。“确认找到了存在雌鸟是在1980年”这句话的位置比较靠后，需要考生耐心看到倒数第二句，明确看到题干中的definite sighting被同义表述成了it was confirmed，才能最终确认答案应为：1980。\n\n12. 译文：复兴计划中包含了____的增长。\n\n本题的定位非常之友好：考生可以直接利用大写的Recovery Plan定位到第八段开头，且在这句话里就能看到a higher amount of这个对应了题干increase的信息。在这项复兴计划中，“有增长”这个特点所修饰的对象只有“资金”这一个，因此可知答案应为：funding。\n\n13. 译文：复兴计划当前的一个目标是保持____充分参与鸮鹦鹉的保护。\n\n与上一题相比，本题就不那么容易定位了，因为从第八段开始，贯穿全文最后的九、十两段，都是在具体描述这项复兴计划的细节内容。不过，好在题干中的goal这个单词一模一样地出现在了原文相应位置（可惜已经到了全文结尾处），考生只要耐心读懂这句话就不难从题干involvement与原文中fully engaged的对应表述中看出，需要确保参与鸮鹦鹉保护行动的对象，就是也许略显陌生的这个词汇：stakeholders。",
+          "promptHtml": "· nests are created in [8] ______where eggs are laid."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "· the [9] ______of the kākāpō were used to make clothes.",
+          "answers": [
+            "feathers"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8550_890093",
+          "explanation": "7. 译文：食谱包括蕨类叶片、树的各种部位和 ____。\n\n本题定位不难的一个主要原因是：无论总结性的上义词diet还是作为下义词之一的略生僻词汇fern fronds都一模一样地出现在了文章中，考生即使并不认识后者，也不影响答题。对这个原文句稍加分析就能看出，leaves, roots and bark对应的都是题干中的parts of a tree，于是可以填进空格内的唯一选择就只能是：bulbs。\n\n8. 译文：巢穴建立在 ____中，鸟蛋就是下在这里。\n\n这道题的定位难度相对略高，原因是文中并未直白或间接出现nests这个信息，要靠考生根据对文意的准确理解而推理得知。不过，由于另一个题干信息eggs are laid却是原样出现在定位句里的，所以也不能说这个定位过于为难了考生。只需认真看清句意，理解到“这1- 4枚蛋是直接下在soil泥土地上的，也在这里进行频繁翻动与孵化”，就不难得出答案应为：soil。\n\n9. 译文：鸮鹦鹉的 ____被用来制作衣物。\n\n考生如果注意到了这个部分的小标题，则能利用其中的Polynesian settlers这个信息更快定位到第四段的第二句话。不过，仍需耐心向后再阅读两句，才能在第四句里看到“用其羽毛来制作软斗篷”这个题干对应信息，进而得出答案应为：feathers。\n\n10. 译文： ____是一种由他们带来的动物，吃掉了鸮鹦鹉的食物来源。\n\n与上一题类似，如果考生注意到了小标题European colonisers这个信息，会更加有助于准确定位和解题。从题干可知，空格内所填的必然是某种具体的动物，于是在定位到第四段第六句“欧洲殖民者”第一次出现之后，考生需要耐心向后多阅读两句，寻找某种“吃掉鸮鹦鹉食物的动物”名称，而符合这个条件的唯一选择就是：deer。\n\n11. 译文：在Rakiura岛上明确找到雌性鸮鹦鹉是在____这一年。\n\n本题的题干明确提示考生：空格里需要填写一个具体年份；同时，大写信息Rakiura Island也能帮助考生快速定位到第六段。不过，本段中包含了比较多的年份数字信息，还是需要考生耐心看清具体在哪个年份发生了哪件事，才能准确匹配到题干所需的那个年份。“确认找到了存在雌鸟是在1980年”这句话的位置比较靠后，需要考生耐心看到倒数第二句，明确看到题干中的definite sighting被同义表述成了it was confirmed，才能最终确认答案应为：1980。\n\n12. 译文：复兴计划中包含了____的增长。\n\n本题的定位非常之友好：考生可以直接利用大写的Recovery Plan定位到第八段开头，且在这句话里就能看到a higher amount of这个对应了题干increase的信息。在这项复兴计划中，“有增长”这个特点所修饰的对象只有“资金”这一个，因此可知答案应为：funding。\n\n13. 译文：复兴计划当前的一个目标是保持____充分参与鸮鹦鹉的保护。\n\n与上一题相比，本题就不那么容易定位了，因为从第八段开始，贯穿全文最后的九、十两段，都是在具体描述这项复兴计划的细节内容。不过，好在题干中的goal这个单词一模一样地出现在了原文相应位置（可惜已经到了全文结尾处），考生只要耐心读懂这句话就不难从题干involvement与原文中fully engaged的对应表述中看出，需要确保参与鸮鹦鹉保护行动的对象，就是也许略显陌生的这个词汇：stakeholders。",
+          "promptHtml": "· the [9] ______of the kākāpō were used to make clothes."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "·[10] ______were an animal which they introduced that ate the kākāpō’s food sources.",
+          "answers": [
+            "deer"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8550_333268",
+          "explanation": "7. 译文：食谱包括蕨类叶片、树的各种部位和 ____。\n\n本题定位不难的一个主要原因是：无论总结性的上义词diet还是作为下义词之一的略生僻词汇fern fronds都一模一样地出现在了文章中，考生即使并不认识后者，也不影响答题。对这个原文句稍加分析就能看出，leaves, roots and bark对应的都是题干中的parts of a tree，于是可以填进空格内的唯一选择就只能是：bulbs。\n\n8. 译文：巢穴建立在 ____中，鸟蛋就是下在这里。\n\n这道题的定位难度相对略高，原因是文中并未直白或间接出现nests这个信息，要靠考生根据对文意的准确理解而推理得知。不过，由于另一个题干信息eggs are laid却是原样出现在定位句里的，所以也不能说这个定位过于为难了考生。只需认真看清句意，理解到“这1- 4枚蛋是直接下在soil泥土地上的，也在这里进行频繁翻动与孵化”，就不难得出答案应为：soil。\n\n9. 译文：鸮鹦鹉的 ____被用来制作衣物。\n\n考生如果注意到了这个部分的小标题，则能利用其中的Polynesian settlers这个信息更快定位到第四段的第二句话。不过，仍需耐心向后再阅读两句，才能在第四句里看到“用其羽毛来制作软斗篷”这个题干对应信息，进而得出答案应为：feathers。\n\n10. 译文： ____是一种由他们带来的动物，吃掉了鸮鹦鹉的食物来源。\n\n与上一题类似，如果考生注意到了小标题European colonisers这个信息，会更加有助于准确定位和解题。从题干可知，空格内所填的必然是某种具体的动物，于是在定位到第四段第六句“欧洲殖民者”第一次出现之后，考生需要耐心向后多阅读两句，寻找某种“吃掉鸮鹦鹉食物的动物”名称，而符合这个条件的唯一选择就是：deer。\n\n11. 译文：在Rakiura岛上明确找到雌性鸮鹦鹉是在____这一年。\n\n本题的题干明确提示考生：空格里需要填写一个具体年份；同时，大写信息Rakiura Island也能帮助考生快速定位到第六段。不过，本段中包含了比较多的年份数字信息，还是需要考生耐心看清具体在哪个年份发生了哪件事，才能准确匹配到题干所需的那个年份。“确认找到了存在雌鸟是在1980年”这句话的位置比较靠后，需要考生耐心看到倒数第二句，明确看到题干中的definite sighting被同义表述成了it was confirmed，才能最终确认答案应为：1980。\n\n12. 译文：复兴计划中包含了____的增长。\n\n本题的定位非常之友好：考生可以直接利用大写的Recovery Plan定位到第八段开头，且在这句话里就能看到a higher amount of这个对应了题干increase的信息。在这项复兴计划中，“有增长”这个特点所修饰的对象只有“资金”这一个，因此可知答案应为：funding。\n\n13. 译文：复兴计划当前的一个目标是保持____充分参与鸮鹦鹉的保护。\n\n与上一题相比，本题就不那么容易定位了，因为从第八段开始，贯穿全文最后的九、十两段，都是在具体描述这项复兴计划的细节内容。不过，好在题干中的goal这个单词一模一样地出现在了原文相应位置（可惜已经到了全文结尾处），考生只要耐心读懂这句话就不难从题干involvement与原文中fully engaged的对应表述中看出，需要确保参与鸮鹦鹉保护行动的对象，就是也许略显陌生的这个词汇：stakeholders。",
+          "promptHtml": "·[10] ______were an animal which they introduced that ate the kākāpō’s food sources."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "· a definite sighting of female kākāpō on Rakiura Island was reported in the year [11] ______.",
+          "answers": [
+            "1980"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8550_566497",
+          "explanation": "7. 译文：食谱包括蕨类叶片、树的各种部位和 ____。\n\n本题定位不难的一个主要原因是：无论总结性的上义词diet还是作为下义词之一的略生僻词汇fern fronds都一模一样地出现在了文章中，考生即使并不认识后者，也不影响答题。对这个原文句稍加分析就能看出，leaves, roots and bark对应的都是题干中的parts of a tree，于是可以填进空格内的唯一选择就只能是：bulbs。\n\n8. 译文：巢穴建立在 ____中，鸟蛋就是下在这里。\n\n这道题的定位难度相对略高，原因是文中并未直白或间接出现nests这个信息，要靠考生根据对文意的准确理解而推理得知。不过，由于另一个题干信息eggs are laid却是原样出现在定位句里的，所以也不能说这个定位过于为难了考生。只需认真看清句意，理解到“这1- 4枚蛋是直接下在soil泥土地上的，也在这里进行频繁翻动与孵化”，就不难得出答案应为：soil。\n\n9. 译文：鸮鹦鹉的 ____被用来制作衣物。\n\n考生如果注意到了这个部分的小标题，则能利用其中的Polynesian settlers这个信息更快定位到第四段的第二句话。不过，仍需耐心向后再阅读两句，才能在第四句里看到“用其羽毛来制作软斗篷”这个题干对应信息，进而得出答案应为：feathers。\n\n10. 译文： ____是一种由他们带来的动物，吃掉了鸮鹦鹉的食物来源。\n\n与上一题类似，如果考生注意到了小标题European colonisers这个信息，会更加有助于准确定位和解题。从题干可知，空格内所填的必然是某种具体的动物，于是在定位到第四段第六句“欧洲殖民者”第一次出现之后，考生需要耐心向后多阅读两句，寻找某种“吃掉鸮鹦鹉食物的动物”名称，而符合这个条件的唯一选择就是：deer。\n\n11. 译文：在Rakiura岛上明确找到雌性鸮鹦鹉是在____这一年。\n\n本题的题干明确提示考生：空格里需要填写一个具体年份；同时，大写信息Rakiura Island也能帮助考生快速定位到第六段。不过，本段中包含了比较多的年份数字信息，还是需要考生耐心看清具体在哪个年份发生了哪件事，才能准确匹配到题干所需的那个年份。“确认找到了存在雌鸟是在1980年”这句话的位置比较靠后，需要考生耐心看到倒数第二句，明确看到题干中的definite sighting被同义表述成了it was confirmed，才能最终确认答案应为：1980。\n\n12. 译文：复兴计划中包含了____的增长。\n\n本题的定位非常之友好：考生可以直接利用大写的Recovery Plan定位到第八段开头，且在这句话里就能看到a higher amount of这个对应了题干increase的信息。在这项复兴计划中，“有增长”这个特点所修饰的对象只有“资金”这一个，因此可知答案应为：funding。\n\n13. 译文：复兴计划当前的一个目标是保持____充分参与鸮鹦鹉的保护。\n\n与上一题相比，本题就不那么容易定位了，因为从第八段开始，贯穿全文最后的九、十两段，都是在具体描述这项复兴计划的细节内容。不过，好在题干中的goal这个单词一模一样地出现在了原文相应位置（可惜已经到了全文结尾处），考生只要耐心读懂这句话就不难从题干involvement与原文中fully engaged的对应表述中看出，需要确保参与鸮鹦鹉保护行动的对象，就是也许略显陌生的这个词汇：stakeholders。",
+          "promptHtml": "· a definite sighting of female kākāpō on Rakiura Island was reported in the year [11] ______."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "· the Recovery Plan included an increase in [12] ______.",
+          "answers": [
+            "funding"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8550_243872",
+          "explanation": "7. 译文：食谱包括蕨类叶片、树的各种部位和 ____。\n\n本题定位不难的一个主要原因是：无论总结性的上义词diet还是作为下义词之一的略生僻词汇fern fronds都一模一样地出现在了文章中，考生即使并不认识后者，也不影响答题。对这个原文句稍加分析就能看出，leaves, roots and bark对应的都是题干中的parts of a tree，于是可以填进空格内的唯一选择就只能是：bulbs。\n\n8. 译文：巢穴建立在 ____中，鸟蛋就是下在这里。\n\n这道题的定位难度相对略高，原因是文中并未直白或间接出现nests这个信息，要靠考生根据对文意的准确理解而推理得知。不过，由于另一个题干信息eggs are laid却是原样出现在定位句里的，所以也不能说这个定位过于为难了考生。只需认真看清句意，理解到“这1- 4枚蛋是直接下在soil泥土地上的，也在这里进行频繁翻动与孵化”，就不难得出答案应为：soil。\n\n9. 译文：鸮鹦鹉的 ____被用来制作衣物。\n\n考生如果注意到了这个部分的小标题，则能利用其中的Polynesian settlers这个信息更快定位到第四段的第二句话。不过，仍需耐心向后再阅读两句，才能在第四句里看到“用其羽毛来制作软斗篷”这个题干对应信息，进而得出答案应为：feathers。\n\n10. 译文： ____是一种由他们带来的动物，吃掉了鸮鹦鹉的食物来源。\n\n与上一题类似，如果考生注意到了小标题European colonisers这个信息，会更加有助于准确定位和解题。从题干可知，空格内所填的必然是某种具体的动物，于是在定位到第四段第六句“欧洲殖民者”第一次出现之后，考生需要耐心向后多阅读两句，寻找某种“吃掉鸮鹦鹉食物的动物”名称，而符合这个条件的唯一选择就是：deer。\n\n11. 译文：在Rakiura岛上明确找到雌性鸮鹦鹉是在____这一年。\n\n本题的题干明确提示考生：空格里需要填写一个具体年份；同时，大写信息Rakiura Island也能帮助考生快速定位到第六段。不过，本段中包含了比较多的年份数字信息，还是需要考生耐心看清具体在哪个年份发生了哪件事，才能准确匹配到题干所需的那个年份。“确认找到了存在雌鸟是在1980年”这句话的位置比较靠后，需要考生耐心看到倒数第二句，明确看到题干中的definite sighting被同义表述成了it was confirmed，才能最终确认答案应为：1980。\n\n12. 译文：复兴计划中包含了____的增长。\n\n本题的定位非常之友好：考生可以直接利用大写的Recovery Plan定位到第八段开头，且在这句话里就能看到a higher amount of这个对应了题干increase的信息。在这项复兴计划中，“有增长”这个特点所修饰的对象只有“资金”这一个，因此可知答案应为：funding。\n\n13. 译文：复兴计划当前的一个目标是保持____充分参与鸮鹦鹉的保护。\n\n与上一题相比，本题就不那么容易定位了，因为从第八段开始，贯穿全文最后的九、十两段，都是在具体描述这项复兴计划的细节内容。不过，好在题干中的goal这个单词一模一样地出现在了原文相应位置（可惜已经到了全文结尾处），考生只要耐心读懂这句话就不难从题干involvement与原文中fully engaged的对应表述中看出，需要确保参与鸮鹦鹉保护行动的对象，就是也许略显陌生的这个词汇：stakeholders。",
+          "promptHtml": "· the Recovery Plan included an increase in [12] ______."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "· a current goal of the Recovery Plan is to maintain the involvement of [13] ______in kākāpō protection.",
+          "answers": [
+            "stakeholders"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8550_237712",
+          "explanation": "7. 译文：食谱包括蕨类叶片、树的各种部位和 ____。\n\n本题定位不难的一个主要原因是：无论总结性的上义词diet还是作为下义词之一的略生僻词汇fern fronds都一模一样地出现在了文章中，考生即使并不认识后者，也不影响答题。对这个原文句稍加分析就能看出，leaves, roots and bark对应的都是题干中的parts of a tree，于是可以填进空格内的唯一选择就只能是：bulbs。\n\n8. 译文：巢穴建立在 ____中，鸟蛋就是下在这里。\n\n这道题的定位难度相对略高，原因是文中并未直白或间接出现nests这个信息，要靠考生根据对文意的准确理解而推理得知。不过，由于另一个题干信息eggs are laid却是原样出现在定位句里的，所以也不能说这个定位过于为难了考生。只需认真看清句意，理解到“这1- 4枚蛋是直接下在soil泥土地上的，也在这里进行频繁翻动与孵化”，就不难得出答案应为：soil。\n\n9. 译文：鸮鹦鹉的 ____被用来制作衣物。\n\n考生如果注意到了这个部分的小标题，则能利用其中的Polynesian settlers这个信息更快定位到第四段的第二句话。不过，仍需耐心向后再阅读两句，才能在第四句里看到“用其羽毛来制作软斗篷”这个题干对应信息，进而得出答案应为：feathers。\n\n10. 译文： ____是一种由他们带来的动物，吃掉了鸮鹦鹉的食物来源。\n\n与上一题类似，如果考生注意到了小标题European colonisers这个信息，会更加有助于准确定位和解题。从题干可知，空格内所填的必然是某种具体的动物，于是在定位到第四段第六句“欧洲殖民者”第一次出现之后，考生需要耐心向后多阅读两句，寻找某种“吃掉鸮鹦鹉食物的动物”名称，而符合这个条件的唯一选择就是：deer。\n\n11. 译文：在Rakiura岛上明确找到雌性鸮鹦鹉是在____这一年。\n\n本题的题干明确提示考生：空格里需要填写一个具体年份；同时，大写信息Rakiura Island也能帮助考生快速定位到第六段。不过，本段中包含了比较多的年份数字信息，还是需要考生耐心看清具体在哪个年份发生了哪件事，才能准确匹配到题干所需的那个年份。“确认找到了存在雌鸟是在1980年”这句话的位置比较靠后，需要考生耐心看到倒数第二句，明确看到题干中的definite sighting被同义表述成了it was confirmed，才能最终确认答案应为：1980。\n\n12. 译文：复兴计划中包含了____的增长。\n\n本题的定位非常之友好：考生可以直接利用大写的Recovery Plan定位到第八段开头，且在这句话里就能看到a higher amount of这个对应了题干increase的信息。在这项复兴计划中，“有增长”这个特点所修饰的对象只有“资金”这一个，因此可知答案应为：funding。\n\n13. 译文：复兴计划当前的一个目标是保持____充分参与鸮鹦鹉的保护。\n\n与上一题相比，本题就不那么容易定位了，因为从第八段开始，贯穿全文最后的九、十两段，都是在具体描述这项复兴计划的细节内容。不过，好在题干中的goal这个单词一模一样地出现在了原文相应位置（可惜已经到了全文结尾处），考生只要耐心读懂这句话就不难从题干involvement与原文中fully engaged的对应表述中看出，需要确保参与鸮鹦鹉保护行动的对象，就是也许略显陌生的这个词汇：stakeholders。",
+          "promptHtml": "· a current goal of the Recovery Plan is to maintain the involvement of [13] ______in kākāpō protection."
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>New Zealand’s kākāpō</strong></p>\n\n\t\t\t<p><b>A type of parrot:</b></p>\n\n\t\t\t<p>· diet consists of fern fronds, various parts of a tree and <strong>[7] ______</strong></p>\n\n\t\t\t<p>· nests are created in <strong>[8] ______</strong>where eggs are laid.</p>\n\n\t\t\t<p><b>Arrival of Polynesian settlers</b></p>\n\n\t\t\t<p>· the <strong>[9] ______</strong>of the kākāpō were used to make clothes.</p>\n\n\t\t\t<p><b>Arrival of European colonisers</b></p>\n\n\t\t\t<p>·<strong>[10] ______</strong>were an animal which they introduced that ate the kākāpō’s food sources.</p>\n\n\t\t\t<p><b>Protecting kākāpō</b></p>\n\n\t\t\t<p>· Richard Henry, a conservationist, tried to protect the kākāpō.</p>\n\n\t\t\t<p>· a definite sighting of female kākāpō on Rakiura Island was reported in the year <strong>[11] ______</strong>.</p>\n\n\t\t\t<p>· the Recovery Plan included an increase in <strong>[12] ______</strong>.</p>\n\n\t\t\t<p>· a current goal of the Recovery Plan is to maintain the involvement of <strong>[13] ______</strong>in kākāpō protection.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>The kākāpō</b></span></p><p><i>The kākāpō is a nocturnal, flightless parrot that is critically endangered and one of New Zealand’s unique treasures</i></p><p>The kākāpō, also known as the owl parrot, is a large, forest-dwelling bird, with a pale owl-like face. Up to 64 cm in length, it has predominantly yellow-green feathers, forward-facing eyes, a large grey beak, large blue feet, and relatively short wings and tail. It is the world’s only flightless parrot, and is also possibly one of the world’s longest-living birds, with a reported lifespan of up to 100 years.</p><p>Kākāpō are solitary birds and tend to occupy the same home range for many years. They forage on the ground and climb high into trees. They often leap from trees and flap their wings, but at best manage a controlled descent to the ground. They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds.</p><p>Kākāpō breed in summer and autumn, but only in years when food is plentiful. Males play no part in incubation or chick-rearing – females alone incubate eggs and feed the chicks. The 1–4 eggs are laid in soil, which is repeatedly turned over before and during incubation. The female kākāpō has to spend long periods away from the nest searching for food, which leaves the unattended eggs and chicks particularly vulnerable to predators.</p><p>Before humans arrived, kākāpō were common throughout New Zealand’s forests. However, this all changed with the arrival of the first Polynesian settlers about 700 years ago. For the early settlers, the flightless kākāpō was easy prey. They ate its meat and used its feathers to make soft cloaks. With them came the Polynesian dog and rat, which also preyed on kākāpō. By the time European colonisers arrived in the early 1800s, kākāpō had become confined to the central North Island and forested parts of the South Island. The fall in kākāpō numbers was accelerated by European colonisation. A great deal of habitat was lost through forest clearance, and introduced species such as deer depleted the remaining forests of food. Other predators such as cats, stoats and two more species of rat were also introduced. The kākāpō were in serious trouble.</p><p>In 1894, the New Zealand government launched its first attempt to save the kākāpō. Conservationist Richard Henry led an effort to relocate several hundred of the birds to predator-free Resolution Island in Fiordland. Unfortunately, the island didn’t remain predator free – stoats arrived within six years, eventually destroying the kākāpō population. By the mid-1900s, the kākāpō was practically a lost species. Only a few clung to life in the most isolated parts of New Zealand.</p><p>From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find kākāpō, focusing mainly on Fiordland. Six were caught, but there were no females amongst them and all but one died within a few months of captivity. In 1974, a new initiative was launched, and by 1977, 18 more kākāpō were found in Fiordland. However, there were still no females. In 1977, a large population of males was spotted in Rakiura – a large island free from stoats, ferrets and weasels. There were about 200 individuals, and in 1980 it was confirmed females were also present. These birds have been the foundation of all subsequent work in managing the species.</p><p>Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers. As a result, during 1980–97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island. However, breeding success was hard to achieve. Rats were found to be a major predator of kākāpō chicks and an insufficient number of chicks survived to offset adult mortality. By 1995, although at least 12 chicks had been produced on the islands, only three had survived. The kākāpō population had dropped to 51 birds. The critical situation prompted an urgent review of kākāpō management in New Zealand.</p><p>In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kākāpō Scientific and Technical Advisory Committee and a higher amount of funding. Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks.</p><p>After the first five years of the Recovery Plan, the population was on target. By 2000, five new females had been produced, and the total population had grown to 62 birds. For the first time, there was cautious optimism for the future of kākāpō and by June 2020, a total of 210 birds was recorded.</p><p>Today, kākāpō management continues to be guided by the kākāpō Recovery Plan. Its key goals are: minimise the loss of genetic diversity in the kākāpō population, restore or maintain sufficient habitat to accommodate the expected increase in the kākāpō population, and ensure stakeholders continue to be fully engaged in the preservation of the species.</p>"
+}

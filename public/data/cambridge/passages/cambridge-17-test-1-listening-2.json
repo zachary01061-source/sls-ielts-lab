@@ -1,0 +1,457 @@
+{
+  "id": "cambridge-17-test-1-listening-2",
+  "title": "Boat trip round Tasmania",
+  "titleCn": "Boat trip round Tasmania",
+  "subject": "listening",
+  "part": 2,
+  "duration": 412,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 1
+  },
+  "sourceQuestionId": "8368",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8368",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "So, hello everyone. My name’s Lou Miller and I’m going to be your tour guide today as we take this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell you a few things about our journey. Our boats aren’t huge as you can see. We already have three staff members on board and on top of that, we can transport a further fifteen people – that’s you – around the coastline. But please note if there are more than nine people on either side of the boat, we’ll move some of you over, otherwise all eighteen of us will end up in the sea! We’ve recently upgraded all our boats. They used to be jet black, but our new ones now have these comfortable dark red seats and a light-green exterior in order to stand out from others and help promote our company. This gives our boats a rather unique appearance, don’t you think? We offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains ham and tomato sandwiches. Lunchbox 2 contains a cheddar cheese roll and Lunchbox 3 is salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of crisps and chocolate bar inside. Please let staff know which lunchbox you prefer. I’m sure I don’t have to ask you not to throw anything into the sea. We don’t have any bins to put litter in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put it all in a large plastic sack. The engine on the boat makes quite a lot of noise so before we head off, let me tell you a few things about what you’re going to see. This area is famous for its ancient lighthouse, which you’ll see from the boat as we turn past the first little island. It was built in 1838 to protect sailors as a number of shipwrecks had led to significant loss of life. The construction itself was complicated as some of the original drawings kept by the local council show. It sits right on top of the cliffs in a very isolated spot. In the nineteenth century there were many jobs there, such as polishing the brass lamps, chopping firewood and cleaning windows, that kept lighthouse keepers busy. These workers were mainly prison convicts until the middle of that century when ordinary families willing to live in such circumstances took over. Some of you have asked me what creatures we can expect to see. I know everyone loves the penguins, but they’re very shy and, unfortunately, tend to hide from passing boats, but you might see birds in the distance, such as sea eagles, flying around the cliff edges where they nest. When we get to the rocky area inhabited by fur seals, we’ll stop and watch them swimming around the coast. They’re inquisitive creatures so don’t be surprised if one pops up right in front of you. Their predators, orca whales, hunt along the coastline too, but spotting one of these is rare. Dolphins, on the other hand, can sometimes approach on their own or in groups as they ride the waves beside us. Lastly, I want to mention the caves. Tasmania is famous for its caves and the ones we’ll pass by are so amazing that people are lost for words when they see them. They can only be approached by sea, but if you feel that you want to see more than we’re able to show you, then you can take a kayak into the area on another day and one of our staff will give you more information on that. What we’ll do is to go through a narrow channel, past some incredible rock formations and from there we’ll be able to see the openings to the caves, and at that point we’ll talk to you about what lies beyond."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "PART 2 Questions 11–20\n\nQuestions 11–14\n\nChoose the correct letter, A, B or C.\n\nBoat trip round Tasmania",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "What is the maximum number of people who can stand on each side of the boat?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8368_930705",
+          "options": [
+            {
+              "value": "A",
+              "text": "9"
+            },
+            {
+              "value": "B",
+              "text": "15"
+            },
+            {
+              "value": "C",
+              "text": "18"
+            }
+          ],
+          "explanation": "根据题干关键词maximum和each side，可知需要选出船的一侧所能承载的最多人数。原文首先说船上已有3名船员，还能再承载15名游客。B选项出现；C选项通过15与3相加得出，但此处信息为船的载客总量，与题干信息each side不符。后文出现each的替换词either，根据句意可知船的一侧不得超过9人，故A选项正确。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "What colour are the tour boats?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8368_351809",
+          "options": [
+            {
+              "value": "A",
+              "text": "dark red"
+            },
+            {
+              "value": "B",
+              "text": "jet black"
+            },
+            {
+              "value": "C",
+              "text": "light green"
+            }
+          ],
+          "explanation": "12. 题干关键词colour容易定位。需注意题干要求选择游船目前的颜色。jet black通过used to be排除；而dark red是船内座椅的颜色；最后才提到light green exterior，即船只外部的颜色，考生需要熟悉exterior一词。后续补充说明stand out from others也可以辅助验证答案。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Which lunchbox is suitable for someone who doesn't eat meat or fish?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8368_957719",
+          "options": [
+            {
+              "value": "A",
+              "text": "Lunchbox 1"
+            },
+            {
+              "value": "B",
+              "text": "Lunchbox 2"
+            },
+            {
+              "value": "C",
+              "text": "Lunchbox 3"
+            }
+          ],
+          "explanation": "13. 题干中的lunchbox一词容易定位，需要划出关键词meat和fish，以及否定表达doesn’t eat。Lunchbox 1中含有肉类ham，所以排除；Lunchbox 2中为cheese，符合要求；Lunchbox 3中含有鱼类tuna。本题定位和原文句型均不复杂，但需要学生认识meat和fish的常见下义词替换，即ham和tuna。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What should people do with their litter?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8368_378126",
+          "options": [
+            {
+              "value": "A",
+              "text": "take it home"
+            },
+            {
+              "value": "B",
+              "text": "hand it to a member of staff"
+            },
+            {
+              "value": "C",
+              "text": "put it in the bins provided on the boat"
+            }
+          ],
+          "explanation": "14. 题干中的litter为定位词。通过原文not to throw anything into the sea可定位此题。后文出现litter并通过don’t have any bins否定C选项。转折词but后引出正确答案B选项。B选项中的a member of staff在原文中替换为具体的工作人员名字。A选项没有提及。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 15 and 16\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Which TWO features of the lighthouse does Lou mention?",
+          "answers": [
+            "A",
+            "D"
+          ],
+          "sourceCode": "Q8368_129244",
+          "options": [
+            {
+              "value": "A",
+              "text": "why it was built"
+            },
+            {
+              "value": "B",
+              "text": "who built it"
+            },
+            {
+              "value": "C",
+              "text": "how long it took to build"
+            },
+            {
+              "value": "D",
+              "text": "who staffed it"
+            },
+            {
+              "value": "E",
+              "text": "what it was built with"
+            }
+          ],
+          "explanation": "通过题干可知需要选择灯塔的特征。读题时根据各选项的特殊疑问词可快速预测录音将要出现的内容。A选项需要关注建灯塔的原因。B和D选项均为who引导，但分别是建造灯塔的人和在灯塔工作的人，需要考生了解staff的动词用法，意为“由……供职”。C选项how long需要知道建造灯塔的时长。E选项需要关注建造灯塔的材料。题干lighthouse原词重现，原文首先提到了灯塔建造的年份，紧接着通过as引出建造灯塔的原因——之前海难带来了巨大的人员伤亡，可锁定A选项。之后提到建造过程复杂，但未提及建造时长，排除C选项。该句提到local council，但其并非建造人员，而是建造图纸的保存者，排除B选项。原文继续提到19世纪时灯塔提供了不少工作，工作人员之前为prison convicts，后变为ordinary families, 对应D选项。E选项未提及。",
+          "setId": "Q8368_129244",
+          "blockId": "Q8368_129244"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Which TWO features of the lighthouse does Lou mention?",
+          "answers": [
+            "A",
+            "D"
+          ],
+          "sourceCode": "Q8368_129244",
+          "options": [
+            {
+              "value": "A",
+              "text": "why it was built"
+            },
+            {
+              "value": "B",
+              "text": "who built it"
+            },
+            {
+              "value": "C",
+              "text": "how long it took to build"
+            },
+            {
+              "value": "D",
+              "text": "who staffed it"
+            },
+            {
+              "value": "E",
+              "text": "what it was built with"
+            }
+          ],
+          "explanation": "通过题干可知需要选择灯塔的特征。读题时根据各选项的特殊疑问词可快速预测录音将要出现的内容。A选项需要关注建灯塔的原因。B和D选项均为who引导，但分别是建造灯塔的人和在灯塔工作的人，需要考生了解staff的动词用法，意为“由……供职”。C选项how long需要知道建造灯塔的时长。E选项需要关注建造灯塔的材料。题干lighthouse原词重现，原文首先提到了灯塔建造的年份，紧接着通过as引出建造灯塔的原因——之前海难带来了巨大的人员伤亡，可锁定A选项。之后提到建造过程复杂，但未提及建造时长，排除C选项。该句提到local council，但其并非建造人员，而是建造图纸的保存者，排除B选项。原文继续提到19世纪时灯塔提供了不少工作，工作人员之前为prison convicts，后变为ordinary families, 对应D选项。E选项未提及。",
+          "setId": "Q8368_129244",
+          "blockId": "Q8368_129244"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "why it was built"
+        },
+        {
+          "value": "B",
+          "text": "who built it"
+        },
+        {
+          "value": "C",
+          "text": "how long it took to build"
+        },
+        {
+          "value": "D",
+          "text": "who staffed it"
+        },
+        {
+          "value": "E",
+          "text": "what it was built with"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 17 and 18\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Which TWO types of creature might come close to the boat?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8368_896500",
+          "options": [
+            {
+              "value": "A",
+              "text": "sea eagles"
+            },
+            {
+              "value": "B",
+              "text": "fur seals"
+            },
+            {
+              "value": "C",
+              "text": "dolphins"
+            },
+            {
+              "value": "D",
+              "text": "whales"
+            },
+            {
+              "value": "E",
+              "text": "penguins"
+            }
+          ],
+          "explanation": "本题需选出能够靠近游船的两种动物。题干中的creature原词重现。首先提到E选项penguins，但转折词but后很快否定，因为企鹅胆小怕人，并且经常hide from passing boats。紧接着提到see birds in the distance，根据in the distance即可否定紧跟其后的例子sea eagles，排除A选项。随后提到B选项fur seals，下一句中的pops up in front of you对应题干的come close to，因此B选项为正确答案之一。选项D whales随后被提及，但spotting one of these is rare否定了该选项。最后提到dolphins，原文中的approach和beside可对应题干的come close to，即可确定C选项为另一个正确答案。",
+          "setId": "Q8368_896500",
+          "blockId": "Q8368_896500"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Which TWO types of creature might come close to the boat?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8368_896500",
+          "options": [
+            {
+              "value": "A",
+              "text": "sea eagles"
+            },
+            {
+              "value": "B",
+              "text": "fur seals"
+            },
+            {
+              "value": "C",
+              "text": "dolphins"
+            },
+            {
+              "value": "D",
+              "text": "whales"
+            },
+            {
+              "value": "E",
+              "text": "penguins"
+            }
+          ],
+          "explanation": "本题需选出能够靠近游船的两种动物。题干中的creature原词重现。首先提到E选项penguins，但转折词but后很快否定，因为企鹅胆小怕人，并且经常hide from passing boats。紧接着提到see birds in the distance，根据in the distance即可否定紧跟其后的例子sea eagles，排除A选项。随后提到B选项fur seals，下一句中的pops up in front of you对应题干的come close to，因此B选项为正确答案之一。选项D whales随后被提及，但spotting one of these is rare否定了该选项。最后提到dolphins，原文中的approach和beside可对应题干的come close to，即可确定C选项为另一个正确答案。",
+          "setId": "Q8368_896500",
+          "blockId": "Q8368_896500"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "sea eagles"
+        },
+        {
+          "value": "B",
+          "text": "fur seals"
+        },
+        {
+          "value": "C",
+          "text": "dolphins"
+        },
+        {
+          "value": "D",
+          "text": "whales"
+        },
+        {
+          "value": "E",
+          "text": "penguins"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 19 and 20\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Which TWO points does Lou make about the caves?",
+          "answers": [
+            "D",
+            "E"
+          ],
+          "sourceCode": "Q8368_946523",
+          "options": [
+            {
+              "value": "A",
+              "text": "Only large tourist boats can visit them."
+            },
+            {
+              "value": "B",
+              "text": "The entrances to them are often blocked."
+            },
+            {
+              "value": "C",
+              "text": "It is too dangerous for individuals to go near them."
+            },
+            {
+              "value": "D",
+              "text": "Someone will explain what is inside them."
+            },
+            {
+              "value": "E",
+              "text": "They cannot be reached on foot."
+            }
+          ],
+          "explanation": "本题需要根据录音选出关于caves的正确表述。题干定位词明显但选项较长，需要先快速阅读，划出关键词并理解选项含义，再逐个排除。原文首先提到They can only approached by sea，可选出E选项。后续提到如果想探索洞穴可以改日乘坐kayak游览，否定了A选项；这里需要考生熟悉kayak一词含义。最后一句openings对应B选项的entrance，但be able to see the openings和B选项的blocked相悖。紧接着提到we’ll talk to you about what lies beyond，即工作人员将会介绍洞穴内部的情况，对应D选项。C选项未提及。",
+          "setId": "Q8368_946523",
+          "blockId": "Q8368_946523"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Which TWO points does Lou make about the caves?",
+          "answers": [
+            "D",
+            "E"
+          ],
+          "sourceCode": "Q8368_946523",
+          "options": [
+            {
+              "value": "A",
+              "text": "Only large tourist boats can visit them."
+            },
+            {
+              "value": "B",
+              "text": "The entrances to them are often blocked."
+            },
+            {
+              "value": "C",
+              "text": "It is too dangerous for individuals to go near them."
+            },
+            {
+              "value": "D",
+              "text": "Someone will explain what is inside them."
+            },
+            {
+              "value": "E",
+              "text": "They cannot be reached on foot."
+            }
+          ],
+          "explanation": "本题需要根据录音选出关于caves的正确表述。题干定位词明显但选项较长，需要先快速阅读，划出关键词并理解选项含义，再逐个排除。原文首先提到They can only approached by sea，可选出E选项。后续提到如果想探索洞穴可以改日乘坐kayak游览，否定了A选项；这里需要考生熟悉kayak一词含义。最后一句openings对应B选项的entrance，但be able to see the openings和B选项的blocked相悖。紧接着提到we’ll talk to you about what lies beyond，即工作人员将会介绍洞穴内部的情况，对应D选项。C选项未提及。",
+          "setId": "Q8368_946523",
+          "blockId": "Q8368_946523"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Only large tourist boats can visit them."
+        },
+        {
+          "value": "B",
+          "text": "The entrances to them are often blocked."
+        },
+        {
+          "value": "C",
+          "text": "It is too dangerous for individuals to go near them."
+        },
+        {
+          "value": "D",
+          "text": "Someone will explain what is inside them."
+        },
+        {
+          "value": "E",
+          "text": "They cannot be reached on foot."
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span>So, hello everyone. My name’s Lou Miller and I’m going to be your tour guide today as we take this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell you a few things about our journey. Our boats aren’t huge as you can see. We already have three staff members on board and on top of that, we can transport a further fifteen people – that’s you – around the coastline. But please note if there are more than nine people on either side of the boat, we’ll move some of you over, otherwise all eighteen of us will end up in the sea! We’ve recently upgraded all our boats. They used to be jet black, but our new ones now have these comfortable dark red seats and a light-green exterior in order to stand out from others and help promote our company. This gives our boats a rather unique appearance, don’t you think? We offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains ham and tomato sandwiches. Lunchbox 2 contains a cheddar cheese roll and Lunchbox 3 is salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of crisps and chocolate bar inside. Please let staff know which lunchbox you prefer. I’m sure I don’t have to ask you not to throw anything into the sea. We don’t have any bins to put litter in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put it all in a large plastic sack. The engine on the boat makes quite a lot of noise so before we head off, let me tell you a few things about what you’re going to see. This area is famous for its ancient lighthouse, which you’ll see from the boat as we turn past the first little island. It was built in 1838 to protect sailors as a number of shipwrecks had led to significant loss of life. The construction itself was complicated as some of the original drawings kept by the local council show. It sits right on top of the cliffs in a very isolated spot. In the nineteenth century there were many jobs there, such as polishing the brass lamps, chopping firewood and cleaning windows, that kept lighthouse keepers busy. These workers were mainly prison convicts until the middle of that century when ordinary families willing to live in such circumstances took over. Some of you have asked me what creatures we can expect to see. I know everyone loves the penguins, but they’re very shy and, unfortunately, tend to hide from passing boats, but you might see birds in the distance, such as sea eagles, flying around the cliff edges where they nest. When we get to the rocky area inhabited by fur seals, we’ll stop and watch them swimming around the coast. They’re inquisitive creatures so don’t be surprised if one pops up right in front of you. Their predators, orca whales, hunt along the coastline too, but spotting one of these is rare. Dolphins, on the other hand, can sometimes approach on their own or in groups as they ride the waves beside us. Lastly, I want to mention the caves. Tasmania is famous for its caves and the ones we’ll pass by are so amazing that people are lost for words when they see them. They can only be approached by sea, but if you feel that you want to see more than we’re able to show you, then you can take a kayak into the area on another day and one of our staff will give you more information on that. What we’ll do is to go through a narrow channel, past some incredible rock formations and from there we’ll be able to see the openings to the caves, and at that point we’ll talk to you about what lies beyond. </span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8368.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 412.491
+  }
+}

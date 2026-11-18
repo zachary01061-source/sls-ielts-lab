@@ -1,0 +1,361 @@
+{
+  "id": "cambridge-16-test-3-listening-2",
+  "title": "AVT recruitment",
+  "titleCn": "AVT recruitment",
+  "subject": "listening",
+  "part": 2,
+  "duration": 408,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 3
+  },
+  "sourceQuestionId": "8360",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8360",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Hello everyone. My name’s Megan Baker and I’m a recruitment consultant at AVT Recruitment specialists."
+    },
+    {
+      "label": "2",
+      "text": "Now, our company specialises in positions that involve working in the agriculture and horticulture sectors, so that’s fresh food production, garden and park maintenance and so on. And these sectors do provide some very special career opportunities. For a start, they often offer opportunities for those who don’t want to be stuck with a 40-hour week, but need to juggle work with other responsibilities such as child care – and this is very important for many of our recruits. Some people like working in a rural setting, surrounded by plants and trees instead of buildings, although we can’t guarantee that. But there are certainly health benefits, especially in jobs where you’re not sitting all day looking at a screen – a big plus for many people. Salaries can sometimes be good too, although there’s a lot of variety here. And you may have the opportunity in some types of jobs for travel overseas, although that obviously depends on the job, and not everyone is keen to do it."
+    },
+    {
+      "label": "3",
+      "text": "Of course, working outdoors does have its challenges. It’s fine in summer, but can be extremely unpleasant when it’s cold and windy. You may need to be pretty fit for some jobs, though with modern technology that’s not as important as it once was. And standards of health and safety are much higher now than they used to be, so there are fewer work-related accidents. But if you like a lively city environment surrounded by lots of people, these jobs are probably not for you – they’re often in pretty remote areas. And some people worry about finding a suitable place to live, but in our experience, this usually turns out fine."
+    },
+    {
+      "label": "4",
+      "text": "Now let me tell you about some of the exciting jobs that we have on our books right now."
+    },
+    {
+      "label": "5",
+      "text": "One is for a fresh food commercial manager. Our client here is a very large fresh food producer supplying a range of top supermarkets. They operate in a very fast-paced environment with low profit margins – the staff there work hard, but they play hard as well, so if you’ve a sociable personality this may be for you."
+    },
+    {
+      "label": "6",
+      "text": "We have an exciting post as an agronomist advising farmers on issues such as crop nutrition, protection against pests, and the latest legislation on farming and agricultural practices. There are good opportunities for the right person to quickly make their way up the career ladder, but a deep knowledge of the agricultural sector is expected of applicants."
+    },
+    {
+      "label": "7",
+      "text": "A leading supermarket is looking for a fresh produce buyer who is available for a 12-month maternity cover contract. You need to have experience in administration, planning and buying in the fresh produce industry, and in return will receive a very competitive salary."
+    },
+    {
+      "label": "8",
+      "text": "We have also received a request for a sales manager for a chain of garden centres. You will be visiting centres in the region to ensure their high levels of customer service are maintained. This post is only suitable for someone who is prepared to live in the region."
+    },
+    {
+      "label": "9",
+      "text": "There is also a vacancy for a tree technician to carry out tree cutting, forestry and conservation work. Candidates must have a clean driving licence and have training in safety procedures. A year’s experience would be preferred but the company might be prepared to consider someone who has just completed an appropriate training course."
+    },
+    {
+      "label": "10",
+      "text": "Finally, we have a position for a farm worker. This will involve a wide range of farm duties including crop sowing and harvesting, machine maintenance and animal care. Perks of the job include the possibility of renting a small cottage on the estate, and the chance to earn a competitive salary. A driving licence and tractor driving experience are essential."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "multi",
+      "instruction": "PART 2 Questions 11–20\n\nQuestions 11 and 12\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "According to Megan, what are the TWO main advantages of working in the agriculture and horticulture sectors?",
+          "answers": [
+            "A",
+            "C"
+          ],
+          "sourceCode": "Q8360_198069",
+          "options": [
+            {
+              "value": "A",
+              "text": "the active lifestyle"
+            },
+            {
+              "value": "B",
+              "text": "the above-average salaries"
+            },
+            {
+              "value": "C",
+              "text": "the flexible working opportunities"
+            },
+            {
+              "value": "D",
+              "text": "the opportunities for overseas travel"
+            },
+            {
+              "value": "E",
+              "text": "the chance to be in a natural environment"
+            }
+          ],
+          "explanation": "11~12 答案为AC。题干词advantages及agriculture and horticulture在原文中稳定性较强，可以帮助定位。三个干扰选项在原文中皆有相似信息被提及，混淆性较强。选项B中说到above-average salaries，意思是高于平均水平的薪水，而原文中说的是salaries can sometimes be good too, although there’s a lot of variety here, 意思是各种水平的薪水都有，因此选项B和原文不符。选项D说可以出国旅行，而原文讲的是although that obviously depends on the job，即不是所有工作都有出国旅行的机会，因此选项D也可排除。选项E对应原文中的surrounded by plants and trees...although we can’t guarantee that，意思是并非所有的工作都是在自然环境中，和选项E不符。注意干扰项B、D、E在原文中都出现although，在雅思听力考试中考生需要关注although这个表达转折的信号词，although后面的内容是重点信息。",
+          "setId": "Q8360_198069",
+          "blockId": "Q8360_198069"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "According to Megan, what are the TWO main advantages of working in the agriculture and horticulture sectors?",
+          "answers": [
+            "A",
+            "C"
+          ],
+          "sourceCode": "Q8360_198069",
+          "options": [
+            {
+              "value": "A",
+              "text": "the active lifestyle"
+            },
+            {
+              "value": "B",
+              "text": "the above-average salaries"
+            },
+            {
+              "value": "C",
+              "text": "the flexible working opportunities"
+            },
+            {
+              "value": "D",
+              "text": "the opportunities for overseas travel"
+            },
+            {
+              "value": "E",
+              "text": "the chance to be in a natural environment"
+            }
+          ],
+          "explanation": "11~12 答案为AC。题干词advantages及agriculture and horticulture在原文中稳定性较强，可以帮助定位。三个干扰选项在原文中皆有相似信息被提及，混淆性较强。选项B中说到above-average salaries，意思是高于平均水平的薪水，而原文中说的是salaries can sometimes be good too, although there’s a lot of variety here, 意思是各种水平的薪水都有，因此选项B和原文不符。选项D说可以出国旅行，而原文讲的是although that obviously depends on the job，即不是所有工作都有出国旅行的机会，因此选项D也可排除。选项E对应原文中的surrounded by plants and trees...although we can’t guarantee that，意思是并非所有的工作都是在自然环境中，和选项E不符。注意干扰项B、D、E在原文中都出现although，在雅思听力考试中考生需要关注although这个表达转折的信号词，although后面的内容是重点信息。",
+          "setId": "Q8360_198069",
+          "blockId": "Q8360_198069"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the active lifestyle"
+        },
+        {
+          "value": "B",
+          "text": "the above-average salaries"
+        },
+        {
+          "value": "C",
+          "text": "the flexible working opportunities"
+        },
+        {
+          "value": "D",
+          "text": "the opportunities for overseas travel"
+        },
+        {
+          "value": "E",
+          "text": "the chance to be in a natural environment"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 13 and 14\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Which TWO of the following are likely to be disadvantages for people working outdoors?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8360_708032",
+          "options": [
+            {
+              "value": "A",
+              "text": "the increasing risk of accidents"
+            },
+            {
+              "value": "B",
+              "text": "being in a very quiet location"
+            },
+            {
+              "value": "C",
+              "text": "difficult weather conditions at times"
+            },
+            {
+              "value": "D",
+              "text": "the cost of housing"
+            },
+            {
+              "value": "E",
+              "text": "the level of physical fitness required"
+            }
+          ],
+          "explanation": "13~14 答案为BC。题干词disadvantages和working outdoors是定位词，原文重现，较易定位。原文中的challenges对应题干中的disadvantages，紧接着就是各项对应的信息。but can be extremely unpleasant when it’s cold and windy对应选项C的difficult weather conditions，这里需要关注信号词but，往往but后面会出现重要信息。紧接着是与选项E的physical fitness相关的信息，原文中出现though...that’s not as important as...，因此选项E可排除。之后是和选项A的increasing risk of accidents相关的信息，原文中说there are fewer work-related accidents，意思相反，因此可排除。之后，选项B的quiet location和原文中的remote areas相符。关于选项D的cost of housing, 原文中说turns out fine，意思相悖，故而排除。",
+          "setId": "Q8360_708032",
+          "blockId": "Q8360_708032"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Which TWO of the following are likely to be disadvantages for people working outdoors?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8360_708032",
+          "options": [
+            {
+              "value": "A",
+              "text": "the increasing risk of accidents"
+            },
+            {
+              "value": "B",
+              "text": "being in a very quiet location"
+            },
+            {
+              "value": "C",
+              "text": "difficult weather conditions at times"
+            },
+            {
+              "value": "D",
+              "text": "the cost of housing"
+            },
+            {
+              "value": "E",
+              "text": "the level of physical fitness required"
+            }
+          ],
+          "explanation": "13~14 答案为BC。题干词disadvantages和working outdoors是定位词，原文重现，较易定位。原文中的challenges对应题干中的disadvantages，紧接着就是各项对应的信息。but can be extremely unpleasant when it’s cold and windy对应选项C的difficult weather conditions，这里需要关注信号词but，往往but后面会出现重要信息。紧接着是与选项E的physical fitness相关的信息，原文中出现though...that’s not as important as...，因此选项E可排除。之后是和选项A的increasing risk of accidents相关的信息，原文中说there are fewer work-related accidents，意思相反，因此可排除。之后，选项B的quiet location和原文中的remote areas相符。关于选项D的cost of housing, 原文中说turns out fine，意思相悖，故而排除。",
+          "setId": "Q8360_708032",
+          "blockId": "Q8360_708032"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "the increasing risk of accidents"
+        },
+        {
+          "value": "B",
+          "text": "being in a very quiet location"
+        },
+        {
+          "value": "C",
+          "text": "difficult weather conditions at times"
+        },
+        {
+          "value": "D",
+          "text": "the cost of housing"
+        },
+        {
+          "value": "E",
+          "text": "the level of physical fitness required"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 15–20\n\nWhat information does Megan give about each of the following job opportunities?\n\nChoose SIX answers from the box and write the correct letter, A–H, next to Questions 15–20.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Fresh food commercial manager [15] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8360_626162",
+          "explanation": "15. 本题属于直接同义替换。选项D中的intensive work和原文的work hard同义替换，fun和原文中的play hard同义替换。\n\n16. 本题属于直接同义替换。选项F中的rapid和原文中的quickly同义替换，promotion和原文中make their way up the career ladder同义替换，这里career ladder是“职业发展”的意思。\n\n17. 本题存在干扰信息，原文中的a leading supermarket和选项B中的leading重复，容易引起干扰，需要注意。选项中的not a permanent job指“不是一份长期的工作”，而原文中的12-month maternity cover contract表明这份工作合同的期限只有12个月，而不是一份长期合同，是由于有人休产假而空出来的临时岗位。\n\n18. 本题的干扰信息是G选项，该选项中的accommodation和原文中的live in the region可能会对考生造成干扰，accommodation available是“提供住宿”的意思，在原文中并未出现。而答案是以同义替换的形式出现，原文中的be visiting centres in the region和选项H local travel involved是同义替换，指的是需要在工作所在区域进行出差或者出访。\n\n19. 本题的干扰信息是原文中的a year’s experience would be preferred，需要注意的是，在这之后紧接着出现了but，在听力中but是重要的信号词，需要关注but之后的信息。原文中...the company might be prepared to consider someone who has just completed an appropriate training course的意思是公司可以考虑刚结束培训课程（并未有实际工作经验）的人，和选项C experience not essential表达的意思一致。\n\n20. 本题属于直接同义替换。选项G accommodation available和原文中的...the possibility of renting a small cottage on the estate意思表达一致。",
+          "promptHtml": "Fresh food commercial manager [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Agronomist [16] ______",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8360_262546",
+          "explanation": "15. 本题属于直接同义替换。选项D中的intensive work和原文的work hard同义替换，fun和原文中的play hard同义替换。\n\n16. 本题属于直接同义替换。选项F中的rapid和原文中的quickly同义替换，promotion和原文中make their way up the career ladder同义替换，这里career ladder是“职业发展”的意思。\n\n17. 本题存在干扰信息，原文中的a leading supermarket和选项B中的leading重复，容易引起干扰，需要注意。选项中的not a permanent job指“不是一份长期的工作”，而原文中的12-month maternity cover contract表明这份工作合同的期限只有12个月，而不是一份长期合同，是由于有人休产假而空出来的临时岗位。\n\n18. 本题的干扰信息是G选项，该选项中的accommodation和原文中的live in the region可能会对考生造成干扰，accommodation available是“提供住宿”的意思，在原文中并未出现。而答案是以同义替换的形式出现，原文中的be visiting centres in the region和选项H local travel involved是同义替换，指的是需要在工作所在区域进行出差或者出访。\n\n19. 本题的干扰信息是原文中的a year’s experience would be preferred，需要注意的是，在这之后紧接着出现了but，在听力中but是重要的信号词，需要关注but之后的信息。原文中...the company might be prepared to consider someone who has just completed an appropriate training course的意思是公司可以考虑刚结束培训课程（并未有实际工作经验）的人，和选项C experience not essential表达的意思一致。\n\n20. 本题属于直接同义替换。选项G accommodation available和原文中的...the possibility of renting a small cottage on the estate意思表达一致。",
+          "promptHtml": "Agronomist [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Fresh produce buyer [17] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8360_254963",
+          "explanation": "15. 本题属于直接同义替换。选项D中的intensive work和原文的work hard同义替换，fun和原文中的play hard同义替换。\n\n16. 本题属于直接同义替换。选项F中的rapid和原文中的quickly同义替换，promotion和原文中make their way up the career ladder同义替换，这里career ladder是“职业发展”的意思。\n\n17. 本题存在干扰信息，原文中的a leading supermarket和选项B中的leading重复，容易引起干扰，需要注意。选项中的not a permanent job指“不是一份长期的工作”，而原文中的12-month maternity cover contract表明这份工作合同的期限只有12个月，而不是一份长期合同，是由于有人休产假而空出来的临时岗位。\n\n18. 本题的干扰信息是G选项，该选项中的accommodation和原文中的live in the region可能会对考生造成干扰，accommodation available是“提供住宿”的意思，在原文中并未出现。而答案是以同义替换的形式出现，原文中的be visiting centres in the region和选项H local travel involved是同义替换，指的是需要在工作所在区域进行出差或者出访。\n\n19. 本题的干扰信息是原文中的a year’s experience would be preferred，需要注意的是，在这之后紧接着出现了but，在听力中but是重要的信号词，需要关注but之后的信息。原文中...the company might be prepared to consider someone who has just completed an appropriate training course的意思是公司可以考虑刚结束培训课程（并未有实际工作经验）的人，和选项C experience not essential表达的意思一致。\n\n20. 本题属于直接同义替换。选项G accommodation available和原文中的...the possibility of renting a small cottage on the estate意思表达一致。",
+          "promptHtml": "Fresh produce buyer [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Garden centre sales manager [18] ______",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8360_127466",
+          "explanation": "15. 本题属于直接同义替换。选项D中的intensive work和原文的work hard同义替换，fun和原文中的play hard同义替换。\n\n16. 本题属于直接同义替换。选项F中的rapid和原文中的quickly同义替换，promotion和原文中make their way up the career ladder同义替换，这里career ladder是“职业发展”的意思。\n\n17. 本题存在干扰信息，原文中的a leading supermarket和选项B中的leading重复，容易引起干扰，需要注意。选项中的not a permanent job指“不是一份长期的工作”，而原文中的12-month maternity cover contract表明这份工作合同的期限只有12个月，而不是一份长期合同，是由于有人休产假而空出来的临时岗位。\n\n18. 本题的干扰信息是G选项，该选项中的accommodation和原文中的live in the region可能会对考生造成干扰，accommodation available是“提供住宿”的意思，在原文中并未出现。而答案是以同义替换的形式出现，原文中的be visiting centres in the region和选项H local travel involved是同义替换，指的是需要在工作所在区域进行出差或者出访。\n\n19. 本题的干扰信息是原文中的a year’s experience would be preferred，需要注意的是，在这之后紧接着出现了but，在听力中but是重要的信号词，需要关注but之后的信息。原文中...the company might be prepared to consider someone who has just completed an appropriate training course的意思是公司可以考虑刚结束培训课程（并未有实际工作经验）的人，和选项C experience not essential表达的意思一致。\n\n20. 本题属于直接同义替换。选项G accommodation available和原文中的...the possibility of renting a small cottage on the estate意思表达一致。",
+          "promptHtml": "Garden centre sales manager [18] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Tree technician [19] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8360_113531",
+          "explanation": "15. 本题属于直接同义替换。选项D中的intensive work和原文的work hard同义替换，fun和原文中的play hard同义替换。\n\n16. 本题属于直接同义替换。选项F中的rapid和原文中的quickly同义替换，promotion和原文中make their way up the career ladder同义替换，这里career ladder是“职业发展”的意思。\n\n17. 本题存在干扰信息，原文中的a leading supermarket和选项B中的leading重复，容易引起干扰，需要注意。选项中的not a permanent job指“不是一份长期的工作”，而原文中的12-month maternity cover contract表明这份工作合同的期限只有12个月，而不是一份长期合同，是由于有人休产假而空出来的临时岗位。\n\n18. 本题的干扰信息是G选项，该选项中的accommodation和原文中的live in the region可能会对考生造成干扰，accommodation available是“提供住宿”的意思，在原文中并未出现。而答案是以同义替换的形式出现，原文中的be visiting centres in the region和选项H local travel involved是同义替换，指的是需要在工作所在区域进行出差或者出访。\n\n19. 本题的干扰信息是原文中的a year’s experience would be preferred，需要注意的是，在这之后紧接着出现了but，在听力中but是重要的信号词，需要关注but之后的信息。原文中...the company might be prepared to consider someone who has just completed an appropriate training course的意思是公司可以考虑刚结束培训课程（并未有实际工作经验）的人，和选项C experience not essential表达的意思一致。\n\n20. 本题属于直接同义替换。选项G accommodation available和原文中的...the possibility of renting a small cottage on the estate意思表达一致。",
+          "promptHtml": "Tree technician [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Farm worker [20] ______",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8360_618072",
+          "explanation": "15. 本题属于直接同义替换。选项D中的intensive work和原文的work hard同义替换，fun和原文中的play hard同义替换。\n\n16. 本题属于直接同义替换。选项F中的rapid和原文中的quickly同义替换，promotion和原文中make their way up the career ladder同义替换，这里career ladder是“职业发展”的意思。\n\n17. 本题存在干扰信息，原文中的a leading supermarket和选项B中的leading重复，容易引起干扰，需要注意。选项中的not a permanent job指“不是一份长期的工作”，而原文中的12-month maternity cover contract表明这份工作合同的期限只有12个月，而不是一份长期合同，是由于有人休产假而空出来的临时岗位。\n\n18. 本题的干扰信息是G选项，该选项中的accommodation和原文中的live in the region可能会对考生造成干扰，accommodation available是“提供住宿”的意思，在原文中并未出现。而答案是以同义替换的形式出现，原文中的be visiting centres in the region和选项H local travel involved是同义替换，指的是需要在工作所在区域进行出差或者出访。\n\n19. 本题的干扰信息是原文中的a year’s experience would be preferred，需要注意的是，在这之后紧接着出现了but，在听力中but是重要的信号词，需要关注but之后的信息。原文中...the company might be prepared to consider someone who has just completed an appropriate training course的意思是公司可以考虑刚结束培训课程（并未有实际工作经验）的人，和选项C experience not essential表达的意思一致。\n\n20. 本题属于直接同义替换。选项G accommodation available和原文中的...the possibility of renting a small cottage on the estate意思表达一致。",
+          "promptHtml": "Farm worker [20] ______"
+        }
+      ],
+      "sourceType": "text",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/91e21880da71e294bf85001721d22523.png\" alt=\"原题配图\"></p>\n\n<p><b>Job opportunities </b></p>\n\n<p>Fresh food commercial manager <strong>[15] ______</strong></p>\n\n<p>Agronomist <strong>[16] ______</strong></p>\n\n<p>Fresh produce buyer <strong>[17] ______</strong></p>\n\n<p>Garden centre sales manager <strong>[18] ______</strong></p>\n\n<p>Tree technician <strong>[19] ______</strong></p>\n\n<p>Farm worker <strong>[20] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Hello everyone. My name’s Megan Baker and I’m a recruitment consultant at AVT Recruitment specialists.</p>\n\n<p>Now, our company specialises in positions that involve working in the agriculture and horticulture sectors, so that’s fresh food production, garden and park maintenance and so on. And these sectors do provide some very special career opportunities. For a start, they often offer opportunities for those who don’t want to be stuck with a 40-hour week, but need to juggle work with other responsibilities such as child care – and this is very important for many of our recruits. Some people like working in a rural setting, surrounded by plants and trees instead of buildings, although we can’t guarantee that. But there are certainly health benefits, especially in jobs where you’re not sitting all day looking at a screen – a big plus for many people. Salaries can sometimes be good too, although there’s a lot of variety here. And you may have the opportunity in some types of jobs for travel overseas, although that obviously depends on the job, and not everyone is keen to do it.</p>\n\n<p>Of course, working outdoors does have its challenges. It’s fine in summer, but can be extremely unpleasant when it’s cold and windy. You may need to be pretty fit for some jobs, though with modern technology that’s not as important as it once was. And standards of health and safety are much higher now than they used to be, so there are fewer work-related accidents. But if you like a lively city environment surrounded by lots of people, these jobs are probably not for you – they’re often in pretty remote areas. And some people worry about finding a suitable place to live, but in our experience, this usually turns out fine.</p>\n\n<p>Now let me tell you about some of the exciting jobs that we have on our books right now.</p>\n\n<p>One is for a fresh food commercial manager. Our client here is a very large fresh food producer supplying a range of top supermarkets. They operate in a very fast-paced environment with low profit margins – the staff there work hard, but they play hard as well, so if you’ve a sociable personality this may be for you.</p>\n\n<p>We have an exciting post as an agronomist advising farmers on issues such as crop nutrition, protection against pests, and the latest legislation on farming and agricultural practices. There are good opportunities for the right person to quickly make their way up the career ladder, but a deep knowledge of the agricultural sector is expected of applicants.</p>\n\n<p>A leading supermarket is looking for a fresh produce buyer who is available for a 12-month maternity cover contract. You need to have experience in administration, planning and buying in the fresh produce industry, and in return will receive a very competitive salary.</p>\n\n<p>We have also received a request for a sales manager for a chain of garden centres. You will be visiting centres in the region to ensure their high levels of customer service are maintained. This post is only suitable for someone who is prepared to live in the region.</p>\n\n<p>There is also a vacancy for a tree technician to carry out tree cutting, forestry and conservation work. Candidates must have a clean driving licence and have training in safety procedures. A year’s experience would be preferred but the company might be prepared to consider someone who has just completed an appropriate training course.</p>\n\n<p>Finally, we have a position for a farm worker. This will involve a wide range of farm duties including crop sowing and harvesting, machine maintenance and animal care. Perks of the job include the possibility of renting a small cottage on the estate, and the chance to earn a competitive salary. A driving licence and tractor driving experience are essential.</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8360.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 408.477
+  }
+}

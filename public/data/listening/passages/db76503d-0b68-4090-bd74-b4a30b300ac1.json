@@ -1,0 +1,393 @@
+{
+  "id": "db76503d-0b68-4090-bd74-b4a30b300ac1",
+  "title": "The elmsden way",
+  "titleCn": "Amston Way自行车骑行路线介绍",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/db76503d-0b68-4090-bd74-b4a30b300ac1",
+  "duration": 436,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,100"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer questions eleven to fourteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:06,880"
+    },
+    {
+      "label": "4",
+      "text": "Welcome to our holiday special. Today I’ll be talking about a new cycle route in this area called the Amston Way. It’s well signposted, so you can see exactly where to go, and it’s an easy route with no steep hills. It’s thirty-five kilometers long from Amston to Lowington and consists partly of cycle paths and partly roads. Let me outline the route briefly, starting at Amston railway station. The first part is a cycle path running eastwards roughly parallel to the rail track. Almost immediately, the railway curves away and goes around the southern side of a little lake. But the cycle path takes the northern route around the lake. Keep your eyes open for the swans that nest there. The path then joins the road, and the next landmark is a group of massive rocks which tower over the countryside. You will see them to the east of the road just before the road goes under the railway. They’re very impressive. Soon you’ll come to a fork in the road where you’re going to leave the road and head off toward the river. But if you want to make a detour to Colleen Nature Reserve, go straight on instead of leaving the road here. Continuing along the cycle path, you’ll reach the River Cleave. The cycle path follows the river southwards. After a bit, you’ll see the Ashington China Factory, which closed in nineteen sixty-two. When you get there, there’s a bridge over the river, and you carry on with Langton Forest to the south and farmland to the north. The route ends at Langton Village, where you’ll find a railway station. So you can either catch the train here or cycle back to Amston."
+    },
+    {
+      "label": "5",
+      "text": "00:02:09,020"
+    },
+    {
+      "label": "6",
+      "text": "Before you hear the rest of the program, you have some time to look at questions fifteen to twenty."
+    },
+    {
+      "label": "7",
+      "text": "00:02:20,640"
+    },
+    {
+      "label": "8",
+      "text": "Now listen and answer questions fifteen to twenty."
+    },
+    {
+      "label": "9",
+      "text": "00:02:25,520"
+    },
+    {
+      "label": "10",
+      "text": "One point to remember when you’re cycling on the Amston Way is that you should keep your eyes open for sheep which occasionally stray onto the cycle path from adjoining fields. So be careful to avoid accidents. The path is well constructed, so it’s not affected by wet or muddy conditions. There might be the odd car or tractor when you’re cycling on roads, but most traffic has been diverted to the main road that bypasses the whole area. Now a bit more about some of the places you’ll see. The starting point, Amston Station, was quite busy in the early twentieth century with services to several major cities. But it was closed in the nineteen fifties. And actually, a small company was set up to turn it into a sort of railway museum, maintaining it in the style of the nineteen fifties. And the station was ready for trains to start using it again earlier this year. It’s only used by a few local trains, though. There’s a visitor center at the station which has a small exhibition about the history of railway transport all over the world and a facility for hiring bikes if you don’t have one of your own. There’s also a small shop just across the road from the station that sells refreshments. As I said, you can cycle to Langton and return to Amston by train or the other way around because you can take your cycle on the train. There’s no need to book. There’s plenty of room and no extra charge. However, the service is very limited, and the trains between these two places don’t run on weekdays. If you want to see the River Elm, there’s a footpath from Amston Station, and you can safely leave your bike in the car park there. Leave yourself plenty of time, though. Going down’s easy, but the climb up is very steep, so the walk back up to the top can take quite a while. But it’s worth the effort. The scenery is wonderful, and the footpath runs right next to the river down to a waterfall. Finally, if you’d like to do some more cycling in the area, there are lots of other cycle paths. We’ll be talking on the radio about them, and you’ll be able to get full details in the Saturday edition of the local paper. The National Cycle Network also has some details on their website, although I have to say they don’t have many local ones yet. But that may change. So we’ll be"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "sourceType": "map",
+      "instruction": "**Questions 11-14**\nLabel the map below.\nWrite the correct letter, **A-I**, next to questions **11-14**.\n\n![ScreenShot_2026-06-05_114040_120.png](assets/listening/8eb8e4a3d7076cf873069562e668ab57820214f64f2ab2138ee93f03b4f78a2b.png)",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "128a8872-e973-4649-a0f5-b0c8ec4ecad6",
+          "prompt": "Rocks",
+          "answers": [
+            "D"
+          ],
+          "rawAnswer": "D",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The next landmark is a group of massive rocks which tower over the countryside. You will see them to the east of the road just before the road goes under the railway"
+          },
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "d1f8e13e-23e7-4e56-b458-5cdfd8d2b0ef",
+          "prompt": "Colleen Nature Reserve",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "C",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But if you want to make a detour to Colleen Nature Reserve, go straight on instead of leaving the road here"
+          },
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "b1a112d4-9b8a-474d-ae8d-eb6199fcc4ec",
+          "prompt": "Ashington China Factory",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "F",
+          "evidence": {
+            "paragraph": "",
+            "quote": "After a bit, you’ll see the Ashington China Factory, which closed in nineteen sixty-two"
+          },
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "d2176605-0386-49ab-8630-8fd49dad38a2",
+          "prompt": "Langton forest",
+          "answers": [
+            "I"
+          ],
+          "rawAnswer": "I",
+          "evidence": {
+            "paragraph": "",
+            "quote": "you carry on with Langton Forest to the south and farmland to the north"
+          },
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ],
+      "images": [
+        "assets/listening/8eb8e4a3d7076cf873069562e668ab57820214f64f2ab2138ee93f03b4f78a2b.png"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions15-20**\nChoose the correct letter **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "14d4505e-09e9-4d1f-8dce-af5c00a79866",
+          "prompt": "**15** What warning does the speaker give about cycling on the Elmsden Way?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "There may be animals on the cycle path.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One point to remember;keep your eyes open for sheep which occasionally stray onto the cycle path from adjoining fields"
+          },
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "The roads usually have heavy traffic."
+            },
+            {
+              "value": "B",
+              "text": "Bad weather can cause problems."
+            },
+            {
+              "value": "C",
+              "text": "There may be animals on the cycle path."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "1825acf2-f47f-44d2-a013-d67de2f00c52",
+          "prompt": "**16** What does the speaker say about Elmsden Station?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "It reopened recently.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But it was closed in the nineteen fifties. And actually, a small company was set up to turn it into a sort of railway museum, maintaining it in the style of the nineteen fifties. And the station was ready for trains to start using it again earlier this year"
+          },
+          "keywordPairs": [
+            {
+              "question": "reopened recently",
+              "article": "closed"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is a very busy station."
+            },
+            {
+              "value": "B",
+              "text": "It has been modernized."
+            },
+            {
+              "value": "C",
+              "text": "It reopened recently."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "976485e5-44a9-4cd4-969d-184e9165ebce",
+          "prompt": "**17** In the Visitors' Centre, people can",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "hire a bicycle.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "There’s a visitor center at the station which has a small exhibition about the history of railway transport all over the world and a facility for hiring bikes if you don’t have one of your own. There’s also a small shop just across the road from the station that sells refreshments"
+          },
+          "keywordPairs": [
+            {
+              "question": "bicycle",
+              "article": "bikes"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17",
+          "options": [
+            {
+              "value": "A",
+              "text": "hire a bicycle."
+            },
+            {
+              "value": "B",
+              "text": "buy refreshments."
+            },
+            {
+              "value": "C",
+              "text": "learn about local history."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "826d30eb-7473-48d1-bb3a-7f9f4a80f8f3",
+          "prompt": "**18** If cyclists want to travel between Elmsden and Langton by train,",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "they have to travel at the weekend.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As I said, you can cycle to Langton and return to Amston by train or the other way around because you can take your cycle on the train. There’s no need to book. There’s plenty of room and no extra charge. However, the service is very limited, and the trains between these two places don’t run on weekdays"
+          },
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18",
+          "options": [
+            {
+              "value": "A",
+              "text": "they need to book in advance."
+            },
+            {
+              "value": "B",
+              "text": "they have to travel at the weekend."
+            },
+            {
+              "value": "C",
+              "text": "they must pay an additional charge for their bicycle."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "faf278b0-cbed-4680-971f-590823a81c4e",
+          "prompt": "**19** What warning does the speaker give about walking to the River Elm?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "It can take a long time to get back.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you want to see the River Elm, there’s a footpath from Amston Station, and you can safely leave your bike in the car park there. Leave yourself plenty of time, though. Going down’s easy, but the climb up is very steep, so the walk back up to the top can take quite a while"
+          },
+          "keywordPairs": [
+            {
+              "question": "take quite a while",
+              "article": "take a long time to get back"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19",
+          "options": [
+            {
+              "value": "A",
+              "text": "It can take a long time to get back."
+            },
+            {
+              "value": "B",
+              "text": "There is nowhere to leave bicycles."
+            },
+            {
+              "value": "C",
+              "text": "The waterfall is inaccessible on foot."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "6b0d9c73-15f3-4054-bfd8-0daa6e2f0989",
+          "prompt": "**20** To find out about other cycle paths in the region, you can",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "look in the local newspaper.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We’ll be talking on the radio about them, and you’ll be able to get full details in the Saturday edition of the local paper. The National Cycle Network also has some details on their website, although I have to say they don’t have many local ones yet"
+          },
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20",
+          "options": [
+            {
+              "value": "A",
+              "text": "look in the local newspaper."
+            },
+            {
+              "value": "B",
+              "text": "check the radio station website."
+            },
+            {
+              "value": "C",
+              "text": "ring up the national cycle network."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "地图题",
+    "单选题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,100</p><p>Now listen carefully and answer questions eleven to fourteen. </p><p>00:00:06,880</p><p>Welcome to our holiday special. Today I’ll be talking about a new cycle route in this area called the Amston Way. It’s well signposted, so you can see exactly where to go, and it’s an easy route with no steep hills. It’s thirty-five kilometers long from Amston to Lowington and consists partly of cycle paths and partly roads. Let me outline the route briefly, starting at Amston railway station. The first part is a cycle path running eastwards roughly parallel to the rail track. Almost immediately, the railway curves away and goes around the southern side of a little lake. But the cycle path takes the northern route around the lake. Keep your eyes open for the swans that nest there. The path then joins the road, and the next landmark is a group of massive rocks which tower over the countryside. You will see them to the east of the road just before the road goes under the railway. They’re very impressive. Soon you’ll come to a fork in the road where you’re going to leave the road and head off toward the river. But if you want to make a detour to Colleen Nature Reserve, go straight on instead of leaving the road here. Continuing along the cycle path, you’ll reach the River Cleave. The cycle path follows the river southwards. After a bit, you’ll see the Ashington China Factory, which closed in nineteen sixty-two. When you get there, there’s a bridge over the river, and you carry on with Langton Forest to the south and farmland to the north. The route ends at Langton Village, where you’ll find a railway station. So you can either catch the train here or cycle back to Amston. </p><p>00:02:09,020</p><p>Before you hear the rest of the program, you have some time to look at questions fifteen to twenty. </p><p>00:02:20,640</p><p>Now listen and answer questions fifteen to twenty. </p><p>00:02:25,520</p>One point to remember when you’re cycling on the Amston Way is that you should keep your eyes open for sheep which occasionally stray onto the cycle path from adjoining fields. So be careful to avoid accidents. The path is well constructed, so it’s not affected by wet or muddy conditions. There might be the odd car or tractor when you’re cycling on roads, but most traffic has been diverted to the main road that bypasses the whole area. Now a bit more about some of the places you’ll see. The starting point, Amston Station, was quite busy in the early twentieth century with services to several major cities. But it was closed in the nineteen fifties. And actually, a small company was set up to turn it into a sort of railway museum, maintaining it in the style of the nineteen fifties. And the station was ready for trains to start using it again earlier this year. It’s only used by a few local trains, though. There’s a visitor center at the station which has a small exhibition about the history of railway transport all over the world and a facility for hiring bikes if you don’t have one of your own. There’s also a small shop just across the road from the station that sells refreshments. As I said, you can cycle to Langton and return to Amston by train or the other way around because you can take your cycle on the train. There’s no need to book. There’s plenty of room and no extra charge. However, the service is very limited, and the trains between these two places don’t run on weekdays. If you want to see the River Elm, there’s a footpath from Amston Station, and you can safely leave your bike in the car park there. Leave yourself plenty of time, though. Going down’s easy, but the climb up is very steep, so the walk back up to the top can take quite a while. But it’s worth the effort. The scenery is wonderful, and the footpath runs right next to the river down to a waterfall. Finally, if you’d like to do some more cycling in the area, there are lots of other cycle paths. We’ll be talking on the radio about them, and you’ll be able to get full details in the Saturday edition of the local paper. The National Cycle Network also has some details on their website, although I have to say they don’t have many local ones yet. But that may change. So we’ll be",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/db76503d-0b68-4090-bd74-b4a30b300ac1.mp3",
+    "durationSeconds": 315.144,
+    "sizeBytes": 1260908,
+    "sha256": "0b18e83152bad64f47f92bdca8d136aac6263cfcbf44eccce1d8d75a1511bbbf",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:07:14Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1780630799302_ugk8xw_927e0aec.mp3"
+}

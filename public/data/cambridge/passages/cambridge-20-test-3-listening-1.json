@@ -1,0 +1,317 @@
+{
+  "id": "cambridge-20-test-3-listening-1",
+  "title": "Furniture Rental Companies",
+  "titleCn": "Furniture Rental Companies",
+  "subject": "listening",
+  "part": 1,
+  "duration": 450,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 3
+  },
+  "sourceQuestionId": "8542",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8542",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "MAN: Good morning."
+    },
+    {
+      "label": "2",
+      "text": "SHELLEY: Hi. This is Shelley Mayer. I’m renting your house on Archwood Avenue. I’m due to move in next week."
+    },
+    {
+      "label": "3",
+      "text": "MAN: Oh yes, hello Ms Mayer. What can I do for you?"
+    },
+    {
+      "label": "4",
+      "text": "SHELLEY: When I viewed the house, I told you I’ll most probably need to rent some furniture – at least until I know whether my temporary work contract is going to be made permanent."
+    },
+    {
+      "label": "5",
+      "text": "MAN: Yes of course, I remember. And I said I could give you some information about furniture rental companies in the city."
+    },
+    {
+      "label": "6",
+      "text": "SHELLEY: That’s right."
+    },
+    {
+      "label": "7",
+      "text": "MAN: Well, the biggest company is called Peak Rentals. I’ve recommended them to other people and have always heard positive reports about them."
+    },
+    {
+      "label": "8",
+      "text": "SHELLEY: Could you give me an idea of their costs?"
+    },
+    {
+      "label": "9",
+      "text": "MAN: Sure, I actually have one of their brochures here. It says the monthly price per room starts at a hundred and five dollars and goes up to two hundred and thirty-nine dollars – that depends on which rooms you need furniture for, of course."
+    },
+    {
+      "label": "10",
+      "text": "SHELLEY: Sure. It’s just to get a general idea of how much it’s gonna cost. And you said you had some positive feedback about this company."
+    },
+    {
+      "label": "11",
+      "text": "MAN: Yes, people have mentioned that the furniture from Peak Rentals is more modern than any of the other companies. And also, once you place an order, the furniture will be delivered to you in just one or two days."
+    },
+    {
+      "label": "12",
+      "text": "SHELLEY: That would be really helpful."
+    },
+    {
+      "label": "13",
+      "text": "MAN: Oh, and the brochure says that there’s a special offer at the moment. If you rent living room furniture – I believe that’s a set of chairs and a TV table, you’ll also get a lamp at no extra cost."
+    },
+    {
+      "label": "14",
+      "text": "SHELLEY: OK. But, you know, that price range you gave is more than I was hoping to pay."
+    },
+    {
+      "label": "15",
+      "text": "MAN: Then you could try Aaron and Oliver."
+    },
+    {
+      "label": "16",
+      "text": "SHELLEY: Sorry, what and Oliver? MAN: Aaron. Double-A-R-O-N. SHELLEY: OK. Are they cheaper?"
+    },
+    {
+      "label": "17",
+      "text": "MAN: I’d say they’re a mid-price company. But if you chose them, you need to be aware that they charge an extra twelve per cent every month in case of damage."
+    },
+    {
+      "label": "18",
+      "text": "SHELLEY: Oh I see. I’d have to do the math carefully then."
+    },
+    {
+      "label": "19",
+      "text": "MAN: Right. But one helpful thing is that they also do cleaning for customers."
+    },
+    {
+      "label": "20",
+      "text": "SHELLEY: For the furniture?"
+    },
+    {
+      "label": "21",
+      "text": "MAN: For the house."
+    },
+    {
+      "label": "22",
+      "text": "SHELLEY: Oh I see. I probably won’t need that."
+    },
+    {
+      "label": "23",
+      "text": "MAN: There’s another company called Larch Furniture. It’s quite new, and it has the lowest prices in town. That’s for both furniture and also electronic equipment."
+    },
+    {
+      "label": "24",
+      "text": "SHELLEY: Well that would be good. I’m not bringing much with me, and I won’t have much time to go shopping after I start my job."
+    },
+    {
+      "label": "25",
+      "text": "MAN: There are two things you need to know about Larch Furniture. First of all, you have to take out insurance on the furniture, and you need to organise that yourself."
+    },
+    {
+      "label": "26",
+      "text": "SHELLEY: That wouldn’t be too hard."
+    },
+    {
+      "label": "27",
+      "text": "MAN: Also, you can’t take out a contract for less than six months, but I figure that might not be a problem for you. You’re renting the house for twelve months after all, aren’t you?"
+    },
+    {
+      "label": "28",
+      "text": "SHELLEY: Yes. OK, well I …"
+    },
+    {
+      "label": "29",
+      "text": "MAN: … sorry to interrupt. I just thought of another furniture rental company. It’s called Space Rentals. And it’s located very near to the house."
+    },
+    {
+      "label": "30",
+      "text": "SHELLEY: OK."
+    },
+    {
+      "label": "31",
+      "text": "MAN: I don’t have any information about their charges, so it’s best to use their app to find out what it would cost you to use them."
+    },
+    {
+      "label": "32",
+      "text": "SHELLEY: OK thanks. I’ll do that."
+    },
+    {
+      "label": "33",
+      "text": "MAN: One good thing about that company is that if you don’t like the furniture once it’s delivered, you can request exchanges – as long as you do that within a week of receiving it."
+    },
+    {
+      "label": "34",
+      "text": "SHELLEY: That sounds really great. OK. Well thanks very much. That’s so helpful …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–10\n\nComplete the table below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Prices range from $105 to $ [1] ______",
+          "answers": [
+            "239",
+            "two hundred thirty-nine",
+            "two hundred and thirty-nine"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_257878",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "Prices range from $105 to $ [1] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "The furniture is very [2] ______",
+          "answers": [
+            "modern"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_750189",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "The furniture is very [2] ______"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "free [3] ______ with",
+          "answers": [
+            "lamp"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_308851",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "free [3] ______ with"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "[4] ______ and Oliver",
+          "answers": [
+            "Aaron"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_468769",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "[4] ______ and Oliver"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "12% monthly fee for [5] ______",
+          "answers": [
+            "damage"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_366339",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "12% monthly fee for [5] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "furniture and [6] ______ items",
+          "answers": [
+            "electronic"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_131385",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "furniture and [6] ______ items"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Must have own [7] ______",
+          "answers": [
+            "insurance"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_690370",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "Must have own [7] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______ Rentals",
+          "answers": [
+            "Space"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_181013",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "[8] ______ Rentals"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "See the [9] ______for the most",
+          "answers": [
+            "app"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_851158",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "See the [9] ______for the most"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "[10] ______are allowed",
+          "answers": [
+            "Exchanges"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8542_391718",
+          "explanation": "1. 本题考察价格数字考点。结合空前的货币符号$，预测答案为数字，同时需要注意本题为价格区间中的最大值。这里range用作动词，意思是“（在一定的范围内）变化，变动”，题干中的Prices range from A to B可以理解为“价格在A到B之间变化，变动”，或者“价格从A到B不等”。在原文中，monthly对应题干的per month，per room原词重现，starts at对应题干中range from，接下来a hundred and five dollars辅助定位。原文中up to意思是“达到（某数量、程度等）”或者“至多有”，之后出现价格数字239，即本题答案。\n\n2. 本题关键词不明显，需要注意灵活定位。原文对话中的女士提及...how much it’s gonna cost时，仍然对应第1题相关内容；下一句提及And you said you had some positive feedback，可知对应表格中表头为Additional notes的内容。接下来的原文中，男士紧跟着提及Peak Rentals家具的相关内容是modern，即本题答案，意为“时新的，现代化的，最新的”。\n\n3. 结合题干中空格前后的内容以及词数要求，预测答案为名词。在原文中，one or two days以及special offer出现较为明显。接下来题干中空格后的living room提前于答案出现，之后提及内容为a set of chairs和a TV table，但此处原文中没有对应题干free的内容。紧跟着提及的名词为lamp，相关内容no extra cost对应题干中的free。lamp即本题答案，意为“灯”。\n\n4. 结合表格中的表头Name of company以及空后的Oliver，预测答案为名称。原文中讲到Aaron and Oliver，之后给出了Aaron的字母拼写，需要注意原文拼读方式为Double-A-R-O-N。\n\n5. 原文中mid-price对应题干中的Mid-range prices，12%原词重现，原文中charge和every month分别对应题干中的fee和monthly，之后提及内容为in case of damage，in case of sth表示“如果，假使”，damage即本题答案，在这里作名词，意为“损坏，破坏，损失”。\n\n6. 结合题干中空格前的内容，可以看出furniture和...items为并列结构。在原文中，可以先结合原词重现的公司名称Larch Furniture，定位到题干中本行开头内容。接下来原文中的lowest prices对应题干中的cheapest prices，furniture原词重现，接下来原文中的and also提醒答案相关内容即将出现。下一项内容为electronic equipment，equipment对应items，electronic即本题答案，意为“电子的，电子器件的”。\n\n7. 结合空前内容，预测答案为名词。结合原文中男士讲到的two things和first of all，对应到本题，具体信息中的名词insurance即本题答案，意为“保险”，之后原文中的yourself对应题干中空前的own。另外，这部分原文后，男士还讲到Also，具体信息为时长相关，第7题后面的six months原词重现。\n\n8. 结合表格中的表头Name of company以及空后的Rentals，可以预测答案为名称。本题与第4题不同点在于未给出字母拼写。原文中结合another furniture rental company以及called定位在本题，紧随其后出现Space Rentals，Space即本题答案。\n\n9. 结合空前内容，预测答案为名词。在第8题原文之后，提及内容为费用相关，原文中的charges可以对应第9题的表头Information about costs以及空格后的prices。之后原文讲到best to use their app...，app即本题答案，意为“应用程序，应用软件”。\n\n10. 结合空后的are，预测答案为复数名词。第9题原文之后，结合One good thing about that company对应到本题，具体信息为request exchanges，exchanges即本题答案，exchange意为“交换，调换”。答案出现后，原文中的within a week对应题干中的within 7 days。",
+          "promptHtml": "[10] ______are allowed"
+        }
+      ],
+      "sourceType": "part1_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"3\">\n\t\t\t<p><strong>Furniture Rental Companies</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><b>Name of company</b></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><b>Information about costs</b></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><b>Additional notes</b></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Peak Rentals</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Prices range from $105 to $ <strong>[1] ______</strong></p>\n\n\t\t\t<p>per room per month</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>The furniture is very <strong>[2] ______</strong></p>\n\n\t\t\t<p>Delivers in 1–2 days</p>\n\n\t\t\t<p>Special offer:</p>\n\n\t\t\t<p>free <strong>[3] ______</strong> with</p>\n\n\t\t\t<p>every living room set</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>[4] ______</strong> and Oliver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Mid-range prices</p>\n\n\t\t\t<p>12% monthly fee for <strong>[5] ______</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Also offers a cleaning</p>\n\n\t\t\t<p>service</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Larch Furniture</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Offers cheapest prices for renting</p>\n\n\t\t\t<p>furniture and <strong>[6] ______</strong> items</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Must have own <strong>[7] ______</strong></p>\n\n\t\t\t<p>Minimum contract length:</p>\n\n\t\t\t<p>six months</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>[8] ______</strong> Rentals</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>See the <strong>[9] ______</strong>for the most</p>\n\n\t\t\t<p>up-to-date prices</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>[10] ______</strong>are allowed</p>\n\n\t\t\t<p>within 7 days of delivery</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span><span><span><span><span><span>MAN: Good morning.<br>\nSHELLEY: Hi. This is Shelley Mayer. I</span></span></span><span><span><span>’m renting your house on Archwood Avenue. I’m due to move in next week.<br>\nMAN: Oh yes, hello Ms Mayer. What can I do for you?<br>\nSHELLEY: When I viewed the house, I told you I’ll most probably need to rent some furniture – at least until I know whether my temporary work contract is going to be made permanent.<br>\nMAN: Yes of course, I remember. And I said I could give you some information about furniture rental companies in the city.<br>\nSHELLEY: That’s right.<br>\nMAN: Well, the biggest company is called Peak Rentals. I’ve recommended them to other people and have always heard positive reports about them.<br>\nSHELLEY: Could you give me an idea of their costs?<br>\nMAN: Sure, I actually have one of their brochures here. It says the monthly price per room starts at a hundred and five dollars and goes up to two hundred and thirty-nine dollars – that depends on which rooms you need furniture for, of course.<br>\nSHELLEY: Sure. It’s just to get a general idea of how much it’s gonna cost. And you said you had some positive feedback about this company.<br>\nMAN: Yes, people have mentioned that the furniture from Peak Rentals is more modern than any of the other companies. And also, once you place an order, the furniture will be delivered to you in just one or two days.<br>\nSHELLEY: That would be really helpful.<br>\nMAN: Oh, and the brochure says that there’s a special offer at the moment. If you rent living room furniture – I believe that’s a set of chairs and a TV table, you’ll also get a lamp at no extra cost.<br>\nSHELLEY: OK. But, you know, that price range you gave is more than I was hoping to pay.<br>\nMAN: Then you could try Aaron and Oliver.<br>\nSHELLEY: Sorry, what and Oliver? MAN: Aaron. Double-A-R-O-N. SHELLEY: OK. Are they cheaper?<br>\nMAN: I’d say they’re a mid-price company. But if you chose them, you need to be aware that they charge an extra twelve per cent every month in case of damage.<br>\nSHELLEY: Oh I see. I’d have to do the math carefully then.<br>\nMAN: Right. But one helpful thing is that they also do cleaning for customers.<br>\nSHELLEY: For the furniture?<br>\nMAN: For the house.<br>\nSHELLEY: Oh I see. I probably won’t need that.<br>\nMAN: There’s another company called Larch Furniture. It’s quite new, and it has the lowest prices in town. That’s for both furniture and also electronic equipment.<br>\nSHELLEY: Well that would be good. I’m not bringing much with me, and I won’t have much time to go shopping after I start my job.<br>\nMAN: There are two things you need to know about Larch Furniture. First of all, you have to take out insurance on the furniture, and you need to organise that yourself.<br>\nSHELLEY: That wouldn’t be too hard.<br>\nMAN: Also, you can’t take out a contract for less than six months, but I figure that might not be a problem for you. You’re renting the house for twelve months after all, aren’t you?<br>\nSHELLEY: Yes. OK, well I …<br>\nMAN: … sorry to interrupt. I just thought of another furniture rental company. It’s called Space Rentals. And it’s located very near to the house.<br>\nSHELLEY: OK.<br>\nMAN: I don’t have any information about their charges, so it’s best to use their app to find out what it would cost you to use them.<br>\nSHELLEY: OK thanks. I’ll do that.<br>\nMAN: One good thing about that company is that if you don’t like the furniture once it’s delivered, you can request exchanges – as long as you do that within a week of receiving it.<br>\nSHELLEY: That sounds really great. OK. Well thanks very much. That’s so helpful …</span></span></span></span></span></span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8542.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 449.541
+  }
+}

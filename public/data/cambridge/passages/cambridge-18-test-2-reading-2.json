@@ -1,0 +1,387 @@
+{
+  "id": "cambridge-18-test-2-reading-2",
+  "title": "Living with artificial intelligence",
+  "titleCn": "Living with artificial intelligence",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 18,
+    "test": 2
+  },
+  "sourceQuestionId": "8452",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8452",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Living with artificial intelligence"
+    },
+    {
+      "label": "2",
+      "text": "Powerful artificial intelligence (AI) needs to be reliably aligned with human values, but does this mean AI will eventually have to police those values?"
+    },
+    {
+      "label": "3",
+      "text": "This has been the decade of AI, with one astonishing feat after another. A chessplaying AI that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours? That’s yesterday’s news, what’s next? True, these prodigious accomplishments are all in socalled narrow AI, where machines perform highly specialised tasks. But many experts believe this restriction is very temporary. By mid-century, we may have artificial general intelligence (AGI) – machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle."
+    },
+    {
+      "label": "4",
+      "text": "If so, there’s little reason to think it will stop there. Machines will be free of many of the physical constraints on human intelligence. Our brains run at slow biochemical processing speeds on the power of a light bulb, and their size is restricted by the dimensions of the human birth canal. It is remarkable what they accomplish, given these handicaps. But they may be as far from the physical limits of thought as our eyes are from the incredibly powerful Webb Space Telescope."
+    },
+    {
+      "label": "5",
+      "text": "Once machines are better than us at designing even smarter machines, progress towards these limits could accelerate. What would this mean for us? Could we ensure a safe and worthwhile coexistence with such machines? On the plus side, AI is already useful and profitable for many things, and super AI might be expected to be super useful, and super profitable. But the more powerful AI becomes, the more important it will be to specify its goals with great care. Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences – King Midas, for example, might have wished that everything he touched turned to gold, but didn’t really intend this to apply to his breakfast."
+    },
+    {
+      "label": "6",
+      "text": "So we need to create powerful AI machines that are ‘human-friendly’ – that have goals reliably aligned with our own values. One thing that makes this task difficult is that we are far from reliably human-friendly ourselves. We do many terrible things to each other and to many other creatures with whom we share the planet. If superintelligent machines don’t do a lot better than us, we’ll be in deep trouble. We’ll have powerful new intelligence amplifying the dark sides of our own fallible natures."
+    },
+    {
+      "label": "7",
+      "text": "For safety’s sake, then, we want the machines to be ethically as well as cognitively superhuman. We want them to aim for the moral high ground, not for the troughs in which many of us spend some of our time. Luckily they’ll be smart enough for the job. If there are routes to the moral high ground, they’ll be better than us at finding them, and steering us in the right direction."
+    },
+    {
+      "label": "8",
+      "text": "However, there are two big problems with this utopian vision. One is how we get the machines started on the journey, the other is what it would mean to reach this destination. The ‘getting started’ problem is that we need to tell the machines what they’re looking for with sufficient clarity that we can be confident they will find it – whatever ‘it’ actually turns out to be. This won’t be easy, given that we are tribal creatures and conflicted about the ideals ourselves. We often ignore the suffering of strangers, and even contribute to it, at least indirectly. How then, do we point machines in the direction of something better?"
+    },
+    {
+      "label": "9",
+      "text": "As for the ‘destination’ problem, we might, by putting ourselves in the hands of these moral guides and gatekeepers, be sacrificing our own autonomy – an important part of what makes us human. Machines who are better than us at sticking to the moral high ground may be expected to discourage some of the lapses we presently take for granted. We might lose our freedom to discriminate in favour of our own communities, for example."
+    },
+    {
+      "label": "10",
+      "text": "Loss of freedom to behave badly isn’t always a bad thing, of course: denying ourselves the freedom to put children to work in factories, or to smoke in restaurants are signs of progress. But are we ready for ethical silicon police limiting our options? They might be so good at doing it that we won’t notice them; but few of us are likely to welcome such a future."
+    },
+    {
+      "label": "11",
+      "text": "These issues might seem far-fetched, but they are to some extent already here. AI already has some input into how resources are used in our National Health Service (NHS) here in the UK, for example. If it was given a greater role, it might do so much more efficiently than humans can manage, and act in the interests of taxpayers and those who use the health system. However, we’d be depriving some humans (e.g. senior doctors) of the control they presently enjoy. Since we’d want to ensure that people are treated equally and that policies are fair, the goals of AI would need to be specified correctly."
+    },
+    {
+      "label": "12",
+      "text": "We have a new powerful technology to deal with – itself, literally, a new way of thinking. For our own safety, we need to point these new thinkers in the right direction, and get them to act well for us. It is not yet clear whether this is possible, but if it is, it will require a cooperative spirit, and a willingness to set aside self-interest."
+    },
+    {
+      "label": "13",
+      "text": "Both general intelligence and moral reasoning are often thought to be uniquely human capacities. But safety seems to require that we think of them as a package: if we are to give general intelligence to machines, we’ll need to give them moral authority, too. And where exactly would that leave human beings? All the more reason to think about the destination now, and to be careful about what we wish for."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 14–19\n\nChoose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What point does the writer make about AI in the first paragraph?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8452_491390",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is difficult to predict how quickly AI will progress."
+            },
+            {
+              "value": "B",
+              "text": "Much can be learned about the use of AI in chess machines."
+            },
+            {
+              "value": "C",
+              "text": "The future is unlikely to see limitations on the capabilities of AI."
+            },
+            {
+              "value": "D",
+              "text": "Experts disagree on which specialised tasks AI will be able to perform."
+            }
+          ],
+          "explanation": "虽然问题句已经明确告知考生：答案出处在第一段，但这种情况下的绝大多数正确答案都不是依靠只读段落中的某一句话就能锁定的；因此，考生不如一开始就抱定平行阅读的思路，直接从第一句话顺序读下来，可以获得对本段大意和叙事逻辑的正确理解。首句开门见山，点明这是AI的时代；第二句马上跟进一个具体例子，一台AI仅仅学习了四个小时以后就能打败所有人类棋手和人类先前所设计的下棋AI，以此来支持第一句的观点。接下来用一个问题引出下文：以上消息虽然听起来令人惊叹，但居然也已经过时了，那么AI接下来还能取得哪些成就呢？后面的几个句子回答了这个设问句：现在AI还只是在某个特定领域展现出巨大的能力，但很快就将迎来泛AI时代（另一些场合下也称为“强人工智能时代”），那时候AI将真的像人类那样可以综合处理各种复杂任务。结合这些起承转合的描述，考生应当不难看出这是在讲述AI的潜力还远未看到尽头，从而确定正确答案应为C项：The future is unlikely to see limitations on the capabilities of AI.（未来还看不到AI能力的极限。）\n\nA项：It is difficult to predict how quickly AI will progress.（很难预测AI将以多么快的速度来发展进步。）虽然这个选项内容也是在夸奖AI的优点，但其表述重点却是放在了AI进展的速度，这并非第一段表达的核心内容，因此并非最合适的选择。\n\nB项：Much can be learned about the use of AI in chess machines.（在下棋机器中可以学到很多关于AI的用途。）虽然本段中确实提到了chess这个信息，但却远非全段的重点内容，这应该是一个很好排除的选项。\n\nD项：Experts disagree on which specialised tasks AI will be able to perform.（在AI到底有能力执行哪些具体专业化任务上，专家们有着不同看法。）本项除了有specialised tasks这两个词在原文中短暂地露了个脸之外，其他表述内容都与第一段信息风马牛不相及，应该也不难被考生轻松排除。\n\n综合来看，本题的三个混淆选项的辨识排除难度都不高，因为都只是表面借用了段落中的某个细节单词或信息而已，考生只要稍加注意就不难做出正确选择。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "What is the writer doing in the second paragraph?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8452_994581",
+          "options": [
+            {
+              "value": "A",
+              "text": "explaining why machines will be able to outperform humans"
+            },
+            {
+              "value": "B",
+              "text": "describing the characteristics that humans and machines share"
+            },
+            {
+              "value": "C",
+              "text": "giving information about the development of machine intelligence"
+            },
+            {
+              "value": "D",
+              "text": "indicating which aspects of humans are the most advanced"
+            }
+          ],
+          "explanation": "很显然，面对这种问法，考生不能指望只看段落的某一两句就笃定作答，而是应当耐心通读全段内容。第一句先说AI发展不会止步于当前。第二句相当于在解释原因：因为它们不受人类智商的很多生理限制。第三句跟进举例说明人类大脑都受到了哪些限制。第四句夸赞一下人脑的了不起之处：带着这么多先天不足居然还能取得如此成就。最后一句话锋一转，总结说大脑目前的能力还远远没有达到思维的物理极限。综合来看，本段的主体内容虽然字面上一直在说人类的大脑，但其实是想通过这种对比表明AI还有着无限的潜力，完全有可能超越人类目前的状态。根据这个表述对比四个选项，可以确定正确答案应为A项：explaining why machines will be able to outperform humans（解释为什么机器有能力比人类表现更出色）\n\nB项：describing the characteristics that humans and machines share（描述人类与机器共有的一些特征）很明显，本段是在说人类会受到的生理局限而机器并不受影响，因而如果一定要说做了比较的话，那就是在比较差异而非共同之处。\n\nC项：giving information about the development of machine intelligence（关于机器智慧的发展给出信息）本段更多是从理论上探讨机器智慧之所以还能有长足发展的原因，而非客观实际中已经有了这样的发展。选项表述与段意并不相符。\n\nD项：indicating which aspects of humans are the most advanced（指出人类身上的哪些方面是最发达的）这是一个几乎没有什么混淆作用的选项，本段非但不是在说人类的“发达”，反之其实是在说“人类由于自身生理局限，距离发达的上限还有很远的距离”。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Why does the writer mention the story of King Midas?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8452_834978",
+          "options": [
+            {
+              "value": "A",
+              "text": "to compare different visions of progress"
+            },
+            {
+              "value": "B",
+              "text": "to illustrate that poorly defined objectives can go wrong"
+            },
+            {
+              "value": "C",
+              "text": "to emphasise the need for cooperation"
+            },
+            {
+              "value": "D",
+              "text": "to point out the financial advantages of a course of action"
+            }
+          ],
+          "explanation": "虽然考生可以依靠大写人名直接定位到第三段的最后一句话，但很显然，作为一个具体的例证，考生最好还是能在看完全段内容的基础之上，更稳妥地理解这个例子到底是为了进一步解释和证明什么样的作者观点，以期更笃定地确认正确答案应为B项：to illustrate that poorly defined objectives can go wrong（来说明没有定义好的目标有可能会出岔子）。\n\n本段的前半部分内容进行了一些乐观的展望：由于机器不受人类那些生理局限，所以有着更大的发展潜力，也许未来会给人类带来更多用途和福利；但是从第五句的后半段开始话头一转，提出机器越发达，我们就越要注意给它们下达非常清晰明确的指令，否则就可能出现极坏的后果。然后就给出了迈达斯国王这个例子来表明这种担忧并非杞人忧天、确实是各种传说故事中经常出现的桥段。\n\n本题的作答并不困难，其中一部分原因是另外三个选项在这一段里基本没有可以对应之处，考生可轻松排除。\n\nA项：to compare different visions of progress（来比较关于进步的不同远景目标）\n\nC项：to emphasise the need for cooperation（来强调合作的必要性）\n\nD项：to point out the financial advantages of a course of action（来指出一种动作的经济好处）"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "What challenge does the writer refer to in the fourth paragraph?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8452_560993",
+          "options": [
+            {
+              "value": "A",
+              "text": "encouraging humans to behave in a more principled way"
+            },
+            {
+              "value": "B",
+              "text": "deciding which values we want AI to share with us"
+            },
+            {
+              "value": "C",
+              "text": "creating a better world for all creatures on the planet"
+            },
+            {
+              "value": "D",
+              "text": "ensuring AI is more human-friendly than we are ourselves"
+            }
+          ],
+          "explanation": "本段的前两句话其实就已经给出了做题的重要线索。第一句明确提出“我们要确保AI机器是对人类友好的”，第二句紧接着指出“这样做并不容易，因为我们人类自己对彼此就不够友好”。之后其他几句话都是在这个基础上进一步论证，或者陈述说我们伤害了彼此以及地球上的其他生物，或者预测说如果超级人工智能也学我们这样，就会造成巨大的麻烦。综合这段内容对比四个选项，即可清楚最佳答案应为D项：ensuring AI is more human-friendly than we are ourselves（确保AI能比我们自己更加对人类友好）。\n\n本题在雅思阅读单选题型中是比较独特的。通常情况下，一道单选题的正确答案都不会是大量使用原文信息的那一个选项，而是会经过较多的同义替换改写，以此确保考生确实是在看懂文意的前提下做出了正确选择。但是，此处在阅读原文和对比选项之后，D项虽然与原文大幅度重合，但也确实就是最符合段意的正确答案。\n\nA项：encouraging humans to behave in a more principled way（鼓励人类以更循规蹈矩的方式来行为举止）这是一个在本段里完全没有被提及过的信息。如果对标判断题的出题逻辑的话，这就是一个妥妥的NOT GIVEN选项。\n\nB项：deciding which values we want AI to share with us（确定我们想让AI与我们共享哪些价值体系）这是一个强干扰项，首先因为题干中的“价值体系”这个信息确实在文章中有所提及，并且是作为对human-friendly这个信息的进一步解释说明而出现的；其次，如果单看第一句话里破折号后面的描述部分，那么B项其实也算说得很对，AI行事确实应当符合我们自己的价值观体系。然而，结合全段接下来的其他表述，就会发现本段的重点还是在于：我们人类自己对彼此就不够友好，但还是要努力让AI做得比我们好，否则我们就会有大麻烦。这个重点显然并没有放在“要让AI跟我们共享价值体系”上，因此本项不如D项合适。\n\nC项：creating a better world for all creatures on the planet（为所有地球上的生物创造一个更好的世界）这个选项表达出来的情怀就像“我的心愿是世界和平”那样高尚，可惜完全不是本段要说的重点，考生应当可以轻松排除。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "What does the writer suggest about the future of AI in the fifth paragraph?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8452_252620",
+          "options": [
+            {
+              "value": "A",
+              "text": "The safety of machines will become a key issue."
+            },
+            {
+              "value": "B",
+              "text": "It is hard to know what impact machines will have on the world."
+            },
+            {
+              "value": "C",
+              "text": "Machines will be superior to humans in certain respects."
+            },
+            {
+              "value": "D",
+              "text": "Many humans will oppose machines having a wider role."
+            }
+          ],
+          "explanation": "本段篇幅不长，一共只有四句话，且总体格调是比较光明的。作者提出我们出于安全考虑，需要让AI在道德准则上也能做到超越人类，并且它们具备相应条件来达成这一目标。考生完成这几句话的准确理解后，即不难锁定答案应为C项：Machines will be superior to humans in certain respects.（机器在某些方面会比人类更高明。）选项中的superior这个高频认知词汇是考生做出正确选择的保障。\n\nA项：The safety of machines will become a key issue.（机器的安全性将会成为一个关键问题。）本项基本不存在什么迷惑性，因为虽然开头第一句里就提到了“安全性”这个字眼，但却是在说为了人类自身的安全而非机器安全。\n\nB项：It is hard to know what impact machines will have on the world.（很难知道机器将会对全世界产生什么影响。）这个选项的意思跟段落所表达的文意风马牛不相及。\n\nD项：Many humans will oppose machines having a wider role.（很多人类将会反对机器拥有一个更宽泛的角色）这项与B项类似，属于第五段里完全没有提及的信息。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Which of the following best summarises the writer’s argument in the sixth paragraph?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8452_861037",
+          "options": [
+            {
+              "value": "A",
+              "text": "More intelligent machines will result in greater abuses of power."
+            },
+            {
+              "value": "B",
+              "text": "Machine learning will share very few features with human learning."
+            },
+            {
+              "value": "C",
+              "text": "There are a limited number of people with the knowledge to program machines."
+            },
+            {
+              "value": "D",
+              "text": "Human shortcomings will make creating the machines we need more difficult."
+            }
+          ],
+          "explanation": "本题的非答案选项其实干扰性都不强，考生只需耐心读懂全段、对比四项内容就应该可以准确选择。但问题也恰恰在于这里：如果没有看全整段内容，就无从进行对比和排除。于是考查重点其实就在于考生是否具备符合要求的阅读速度，在读遍本段后锁定正确答案为D项：Human shortcomings will make creating the machines we need more difficult.（人类的缺点将会使得创造我们所需要的机器更为困难。）基本上，只有这一项是第六段里提及的信息。另外三个选项都没有出现在段落所表述的意思里。\n\nA项：More intelligent machines will result in greater abuses of power.（更智慧的机器将会造成更大的权力滥用。）\n\nB项：Machine learning will share very few features with human learning.（机器学习与人类学习将会没有什么共同特点。）\n\nC项：There are a limited number of people with the knowledge to program machines.（拥有为机器编程这种知识的人类数量有限。）"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "instruction": "Questions 20–23\n\nDo the following statements agree with the claims of the writer in Reading Passage 2?\n\nChoose\n\nYES if the statement agrees with the claims of the writer\n\nNO if the statement contradicts the claims of the writer\n\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Machines with the ability to make moral decisions may prevent us from promoting the interests of our communities.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8452_101809",
+          "explanation": "本题的定位其实不困难，因为题干中的our communities虽然不算什么吸引眼球的词汇，但却原词重现在第七段的最后一句话里。当然，如果只是凭借这两个词、孤立地找到这句话，是不足以笃定解题的，因为本句是作为举例说明的存在，与前文有着相当紧密的联系。在此还是要温馨提醒考生：有时候过于追求速度和效率，反而有可能欲速不达，在断章取义的碎片阅读中错过正确答案；与其如此，不如抱定平行阅读的原则，按照文章正常表述顺序依次阅读，才能有更大的把握解题。本句的前一句说，能坚持道德高地的机器也许会阻止我们现在习以为常的一些错误小动作，然后再用例子解释说明：于是我们就不能只顾着偏心自己社区的利益了。这与题干信息相符，由此可以确认答案应为YES。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Silicon police would need to exist in large numbers in order to be effective",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8452_232765",
+          "explanation": "本题的定位与上一道题相仿：silicon police（其实就是机器警察的意思。人类是碳基生物，而机器的核心是硅质芯片，所以在一些科幻作品中也被称为硅基生物）。虽然不是什么特别显眼的线索，但却一模一样地出现在了上一题之后的第八段原文里。而且，由于接下来在第八段的最后一句话里给出了下一道题的对应信息，于是考生可以根据“判断题通常是顺序出题”这个特点，在不长的文章篇幅里确实没有找到“这些机器是否只有大量存在才能起到更好作用”这个表述，由此有更大的把握确认答案应为NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Many people are comfortable with the prospect of their independence being restricted by machines.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8452_722761",
+          "explanation": "其实即使动用常识，也能预期这个题干的描述恐怕是与人性相悖的。不过解答判断题当然还是要以原文信息而非主观臆测为基础。第八段的前几句话考生在解答上一题时应该已经读过，知晓说的是“机器坚持道德准则而限制人类去自由地做出不当的举动”；继续读下去可以在最后一句话里看到：恐怕很少有人会欢迎这样一个未来，这与题干所说形成了非常直白的矛盾抵触，因此答案必然是NO。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "If we want to ensure that machines act in our best interests, we all need to work together.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8452_905894",
+          "explanation": "本题在本质上考查的是考生对cooperative这个词的认知，认识它就能顺利看出这正是原文中用来同义替换题干里work together的方式，进而确认答案应为YES。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 24–26\n\nComplete the summary using the list of phrases, A–F, below.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8452_302369",
+          "explanation": "24. 本题的定位不太容易，题干并没有提供什么显眼的定位线索，且不显眼的定位线索词在原文中还都被同义替换了，考生需耐心阅读才能最终找到。更有甚者，包含对应答案的第九段第二句话里，其实并没有表达出题干中“角色有限”这个意思，而只是说到AI已经参与了部分工作。考生需要看到第三句，发现这里做了一个假设“如果它被给予更多职责，就能比人类表现更高效”，由此可以推知“目前它的职责有限”，从而确认第二句里的resources就应该是本题空格中所需的内容，再匹配词库选项即可得出答案：C available resources。\n\n25. 本题（以及下一题）的定位紧邻上一道题，对于采用平行阅读逐步推进解题的考生来说是个很大的利好。题干句在谓语result in之间插入了一个for example的举例成分，有可能给一些考生连贯看懂句意造成一点障碍。但解决办法非常简单，先将两个逗号加上举例的部分全部拿掉即可。根据空格上下文可以推知，空格里需要的是一些失去了当前所拥有的某种东西的对象，对比原文句可知，应当是一些人类，具体来说是括号里用来举例说明的senior doctors，会因为AI角色的变化而失去他们目前所享有的control。对应词库选项可以得出本题答案：A medical practitioners。\n\n26. 本题与上一题的定位来自同一个句子且距离很近，考生在阅读寻找上一题答案时其实已经一并看到了此处，凭借句意可看出空格内对应的原文答案词是control，再据此确认词库中的答案选项应当不难：E professional authority。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8452_189829",
+          "explanation": "24. 本题的定位不太容易，题干并没有提供什么显眼的定位线索，且不显眼的定位线索词在原文中还都被同义替换了，考生需耐心阅读才能最终找到。更有甚者，包含对应答案的第九段第二句话里，其实并没有表达出题干中“角色有限”这个意思，而只是说到AI已经参与了部分工作。考生需要看到第三句，发现这里做了一个假设“如果它被给予更多职责，就能比人类表现更高效”，由此可以推知“目前它的职责有限”，从而确认第二句里的resources就应该是本题空格中所需的内容，再匹配词库选项即可得出答案：C available resources。\n\n25. 本题（以及下一题）的定位紧邻上一道题，对于采用平行阅读逐步推进解题的考生来说是个很大的利好。题干句在谓语result in之间插入了一个for example的举例成分，有可能给一些考生连贯看懂句意造成一点障碍。但解决办法非常简单，先将两个逗号加上举例的部分全部拿掉即可。根据空格上下文可以推知，空格里需要的是一些失去了当前所拥有的某种东西的对象，对比原文句可知，应当是一些人类，具体来说是括号里用来举例说明的senior doctors，会因为AI角色的变化而失去他们目前所享有的control。对应词库选项可以得出本题答案：A medical practitioners。\n\n26. 本题与上一题的定位来自同一个句子且距离很近，考生在阅读寻找上一题答案时其实已经一并看到了此处，凭借句意可看出空格内对应的原文答案词是control，再据此确认词库中的答案选项应当不难：E professional authority。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8452_780683",
+          "explanation": "24. 本题的定位不太容易，题干并没有提供什么显眼的定位线索，且不显眼的定位线索词在原文中还都被同义替换了，考生需耐心阅读才能最终找到。更有甚者，包含对应答案的第九段第二句话里，其实并没有表达出题干中“角色有限”这个意思，而只是说到AI已经参与了部分工作。考生需要看到第三句，发现这里做了一个假设“如果它被给予更多职责，就能比人类表现更高效”，由此可以推知“目前它的职责有限”，从而确认第二句里的resources就应该是本题空格中所需的内容，再匹配词库选项即可得出答案：C available resources。\n\n25. 本题（以及下一题）的定位紧邻上一道题，对于采用平行阅读逐步推进解题的考生来说是个很大的利好。题干句在谓语result in之间插入了一个for example的举例成分，有可能给一些考生连贯看懂句意造成一点障碍。但解决办法非常简单，先将两个逗号加上举例的部分全部拿掉即可。根据空格上下文可以推知，空格里需要的是一些失去了当前所拥有的某种东西的对象，对比原文句可知，应当是一些人类，具体来说是括号里用来举例说明的senior doctors，会因为AI角色的变化而失去他们目前所享有的control。对应词库选项可以得出本题答案：A medical practitioners。\n\n26. 本题与上一题的定位来自同一个句子且距离很近，考生在阅读寻找上一题答案时其实已经一并看到了此处，凭借句意可看出空格内对应的原文答案词是control，再据此确认词库中的答案选项应当不难：E professional authority。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "medical practitioners"
+        },
+        {
+          "value": "B",
+          "text": "specialised tasks"
+        },
+        {
+          "value": "C",
+          "text": "available resources"
+        },
+        {
+          "value": "D",
+          "text": "reduced illness"
+        },
+        {
+          "value": "E",
+          "text": "professional authority"
+        },
+        {
+          "value": "F",
+          "text": "technology experts"
+        }
+      ],
+      "contextHtml": "<p><strong><span>Using AI in the UK health system</span></strong></p>\n\n<p><br>\n<span>AI currently has a limited role in the way </span><strong>[24] ______</strong> <span> are allocated in the health service. The positive aspect of AI having a bigger role is that it would be more efficient and lead to patient benefits. However, such a change would result, for example, in certain </span><strong>[25] ______</strong> <span> not having their current level of </span><strong>[26] ______</strong> <span>. It is therefore important that AI goals are appropriate so that discriminatory practices could be avoided.</span></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><strong>Living with artificial intelligence</strong></span><br><em>Powerful artificial intelligence (AI) needs to be reliably aligned with human values, but does this mean AI will eventually have to police those values?</em></span></p><p><br><span>This has been the decade of AI, with one astonishing feat after another. A chessplaying AI that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours? That’s yesterday’s news, what’s next? True, these prodigious accomplishments are all in socalled narrow AI, where machines perform highly specialised tasks. But many experts believe this restriction is very temporary. By mid-century, we may have artificial general intelligence (AGI) – machines that can achieve human-level performance on the full range of tasks that we ourselves can tackle.<br><br>If so, there’s little reason to think it will stop there. Machines will be free of many of the physical constraints on human intelligence. Our brains run at slow biochemical processing speeds on the power of a light bulb, and their size is restricted by the dimensions of the human birth canal. It is remarkable what they accomplish, given these handicaps. But they may be as far from the physical limits of thought as our eyes are from the incredibly powerful Webb Space Telescope.<br><br>Once machines are better than us at designing even smarter machines, progress towards these limits could accelerate. What would this mean for us? Could we ensure a safe and worthwhile coexistence with such machines? On the plus side, AI is already useful and profitable for many things, and super AI might be expected to be super useful, and super profitable. But the more powerful AI becomes, the more important it will be to specify its goals with great care. Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences – King Midas, for example, might have wished that everything he touched turned to gold, but didn’t really intend this to apply to his breakfast.<br><br>So we need to create powerful AI machines that are ‘human-friendly’ – that have goals reliably aligned with our own values. One thing that makes this task difficult is that we are far from reliably human-friendly ourselves. We do many terrible things to each other and to many other creatures with whom we share the planet. If superintelligent machines don’t do a lot better than us, we’ll be in deep trouble. We’ll have powerful new intelligence amplifying the dark sides of our own fallible natures.<br><br>For safety’s sake, then, we want the machines to be ethically as well as cognitively superhuman. We want them to aim for the moral high ground, not for the troughs in which many of us spend some of our time. Luckily they’ll be smart enough for the job. If there are routes to the moral high ground, they’ll be better than us at finding them, and steering us in the right direction. <br><br>However, there are two big problems with this utopian vision. One is how we get the machines started on the journey, the other is what it would mean to reach this destination. The ‘getting started’ problem is that we need to tell the machines what they’re looking for with sufficient clarity that we can be confident they will find it – whatever ‘it’ actually turns out to be. This won’t be easy, given that we are tribal creatures and conflicted about the ideals ourselves. We often ignore the suffering of strangers, and even contribute to it, at least indirectly. How then, do we point machines in the direction of something better?<br><br>As for the ‘destination’ problem, we might, by putting ourselves in the hands of these moral guides and gatekeepers, be sacrificing our own autonomy – an important part of what makes us human. Machines who are better than us at sticking to the moral high ground may be expected to discourage some of the lapses we presently take for granted. We might lose our freedom to discriminate in favour of our own communities, for example. <br><br>Loss of freedom to behave badly isn’t always a bad thing, of course: denying ourselves the freedom to put children to work in factories, or to smoke in restaurants are signs of progress. But are we ready for ethical silicon police limiting our options? They might be so good at doing it that we won’t notice them; but few of us are likely to welcome such a future.<br><br>These issues might seem far-fetched, but they are to some extent already here. AI already has some input into how resources are used in our National Health Service (NHS) here in the UK, for example. If it was given a greater role, it might do so much more efficiently than humans can manage, and act in the interests of taxpayers and those who use the health system. However, we’d be depriving some humans (e.g. senior doctors) of the control they presently enjoy. Since we’d want to ensure that people are treated equally and that policies are fair, the goals of AI would need to be specified correctly.<br><br>We have a new powerful technology to deal with – itself, literally, a new way of thinking. For our own safety, we need to point these new thinkers in the right direction, and get them to act well for us. It is not yet clear whether this is possible, but if it is, it will require a cooperative spirit, and a willingness to set aside self-interest. <br><br>Both general intelligence and moral reasoning are often thought to be uniquely human capacities. But safety seems to require that we think of them as a package: if we are to give general intelligence to machines, we’ll need to give them moral authority, too. And where exactly would that leave human beings? All the more reason to think about the destination now, and to be careful about what we wish for.</span></p>"
+}

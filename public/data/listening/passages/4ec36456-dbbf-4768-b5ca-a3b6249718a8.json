@@ -1,0 +1,303 @@
+{
+  "id": "4ec36456-dbbf-4768-b5ca-a3b6249718a8",
+  "title": "Archaeological use of metal detectors（机经听写）",
+  "titleCn": "考古学家与金属探测器使用者的冲突",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/4ec36456-dbbf-4768-b5ca-a3b6249718a8",
+  "duration": 262,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,060"
+    },
+    {
+      "label": "2",
+      "text": "First of all, I'd like us to look at the conflicts of interest between archaeologists and detectorists. A recent survey concluded that museums were hearing about only a fraction of the hundreds of thousands of artifacts recovered by detectorists each year. When artifacts are removed by these people, essential information about an archaeological site is lost."
+    },
+    {
+      "label": "3",
+      "text": "00:00:25,600"
+    },
+    {
+      "label": "4",
+      "text": "Such information or the context of a find is of vital importance. We have to know the exact location of a find, and it must be carefully recorded. Then we also need to look carefully at the soil it's lying in. But of course, an object on its own may still tell us quite a lot. Using scientific techniques, we may find evidence about its manufacture. The form and design might also tell us about its function, and techniques may also allow us to work out the age of an artifact. Since metal detecting can be less scientific as such, some archaeologists have opposed it, while others have argued for its contributions. In areas where archaeologists have been constructive, detectorists are much more confident in reporting their finds. They are now cooperating closely with the authorities for site protection, and the technology itself is beginning to tell us more about history. Detectorists have recovered a range of metal objects, such as weapons, but their most significant find is coins. Recent archaeological finds have revealed more about the vast impact of farming on the landscape. It has given us an indication of the extent of loss of archaeological remains as a result of the use of machines. Increasing evidence also indicates that many artifacts are being severely damaged by the action of chemicals used on cultivated earth. No finding has any value unless it is reported and accurately recorded. In the UK, regulation varies. In Scotland, all finders are required to report everything that they find. More recently, the law in Northern Ireland has been tightened up and any search for archaeological objects requires a license."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answers.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "9e8bc76d-7e7b-47e7-b504-0ea2f3a70f92",
+          "prompt": "**Survey conclusions**\n·**31**_____ are less informed",
+          "answers": [
+            "museums"
+          ],
+          "rawAnswer": "museums",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A recent survey concluded that museums were hearing about only a fraction of the hundreds of thousands of artifacts recovered by detectorists each year"
+          },
+          "keywordPairs": [
+            {
+              "question": "less informed",
+              "article": "hearing about only a fraction"
+            },
+            {
+              "question": "conclusions",
+              "article": "concluded"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "d3dca5cf-e1cd-4a8f-a27b-9433c6295c50",
+          "prompt": "**Understanding the context of a find involves**:\n·knowing the precise **32**_____ of the object",
+          "answers": [
+            "location"
+          ],
+          "rawAnswer": "location",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We have to know the exact location of a find"
+          },
+          "keywordPairs": [
+            {
+              "question": "precise",
+              "article": "exact"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "ee18224f-5bb5-41c3-a2d1-98ed778c37c6",
+          "prompt": "·examining the **33**_____ where the object is found",
+          "answers": [
+            "soil"
+          ],
+          "rawAnswer": "soil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Then we also need to look carefully at the soil it's lying in"
+          },
+          "keywordPairs": [
+            {
+              "question": "examining",
+              "article": "look carefully at"
+            },
+            {
+              "question": "found",
+              "article": "lying in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "ad6d33ea-e409-455d-9407-3c82ad4d3db9",
+          "prompt": "**Scientific techniques can identify**:\n·the function of the object\n·the **34**_____ of the object",
+          "answers": [
+            "age"
+          ],
+          "rawAnswer": "age",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Techniques may also allow us to work out the age of an artifact"
+          },
+          "keywordPairs": [
+            {
+              "question": "object",
+              "article": "artifact"
+            },
+            {
+              "question": "identify",
+              "article": "work out"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "6b60f89d-0960-4164-a53b-d79162eca255",
+          "prompt": "**How detectorists contribute**:\nDetectorists can work with the **35**_____ to protect sites.",
+          "answers": [
+            "authorities"
+          ],
+          "rawAnswer": "authorities",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They are now cooperating closely with the authorities for site protection"
+          },
+          "keywordPairs": [
+            {
+              "question": "work with",
+              "article": "cooperating closely with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "af5511e1-1ba1-4522-8061-7ab0d9eb8867",
+          "prompt": "Working together has resulted in:\n·more finds being reported,e.g.weapons and **36**_____",
+          "answers": [
+            "coins"
+          ],
+          "rawAnswer": "coins",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Detectorists have recovered a range of metal objects, such as weapons, but their most significant find is coins"
+          },
+          "keywordPairs": [
+            {
+              "question": "finds",
+              "article": "recovered"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "96c36c65-dea9-41c8-8870-c61f41367a59",
+          "prompt": "**Detecting has provided evidence of damage done by farming due to**:\n·use of **37**_____",
+          "answers": [
+            "machines"
+          ],
+          "rawAnswer": "machines",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It has given us an indication of the extent of loss of archaeological remains as a result of the use of machines"
+          },
+          "keywordPairs": [
+            {
+              "question": "damage done by farming",
+              "article": "loss of archaeological remains"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "a624539a-2f90-45f1-94f0-8b6b5bf79e23",
+          "prompt": "·use of **38**_____",
+          "answers": [
+            "chemicals"
+          ],
+          "rawAnswer": "chemicals",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Increasing evidence also indicates that many artifacts are being severely damaged by the action of chemicals used on cultivated earth"
+          },
+          "keywordPairs": [
+            {
+              "question": "done by farming",
+              "article": "the action of chemicals"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "1ec36e57-f354-4477-b1cf-aa1a011e1a69",
+          "prompt": "**Reporting and recording**\nLaws in UK vary:\n·**39**_____ that is found must be reported in Scotland",
+          "answers": [
+            "everything"
+          ],
+          "rawAnswer": "everything",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In Scotland, all finders are required to report everything that they find"
+          },
+          "keywordPairs": [
+            {
+              "question": "must be",
+              "article": "are required to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "eec71d45-c691-4a4e-ae56-95cc365db25d",
+          "prompt": "·Northern Ireland-a **40**_____ is needed by detectorists",
+          "answers": [
+            "licence"
+          ],
+          "rawAnswer": "licence",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the law in Northern Ireland has been tightened up and any search for archaeological objects requires a license"
+          },
+          "keywordPairs": [
+            {
+              "question": "needed",
+              "article": "requires"
+            },
+            {
+              "question": "detectorists",
+              "article": "people who search for objects"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,060</p><p>First of all, I'd like us to look at the conflicts of interest between archaeologists and detectorists. A recent survey concluded that museums were hearing about only a fraction of the hundreds of thousands of artifacts recovered by detectorists each year. When artifacts are removed by these people, essential information about an archaeological site is lost. </p><p>00:00:25,600</p><p>Such information or the context of a find is of vital importance. We have to know the exact location of a find, and it must be carefully recorded. Then we also need to look carefully at the soil it's lying in. But of course, an object on its own may still tell us quite a lot. Using scientific techniques, we may find evidence about its manufacture. The form and design might also tell us about its function, and techniques may also allow us to work out the age of an artifact. Since metal detecting can be less scientific as such, some archaeologists have opposed it, while others have argued for its contributions. In areas where archaeologists have been constructive, detectorists are much more confident in reporting their finds. They are now cooperating closely with the authorities for site protection, and the technology itself is beginning to tell us more about history. Detectorists have recovered a range of metal objects, such as weapons, but their most significant find is coins. Recent archaeological finds have revealed more about the vast impact of farming on the landscape. It has given us an indication of the extent of loss of archaeological remains as a result of the use of machines. Increasing evidence also indicates that many artifacts are being severely damaged by the action of chemicals used on cultivated earth. No finding has any value unless it is reported and accurately recorded. In the UK, regulation varies. In Scotland, all finders are required to report everything that they find. More recently, the law in Northern Ireland has been tightened up and any search for archaeological objects requires a license.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/4ec36456-dbbf-4768-b5ca-a3b6249718a8.mp3",
+    "durationSeconds": 141.061224,
+    "sizeBytes": 564635,
+    "sha256": "47368ac1cb58afa801ee02a68171b6b21cce9813aed2a7a9270a1a43cdaff5d3",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:28Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1776853677640_gvuodh_25141fe0.mp3"
+}

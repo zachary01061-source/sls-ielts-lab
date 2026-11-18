@@ -1,0 +1,325 @@
+{
+  "id": "4b8e4562-f2a4-4237-b9e0-644c13e9ba04",
+  "title": "Watermelons in the past（机经听写）",
+  "titleCn": "西瓜的过去：五千年历史与野生祖先",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/4b8e4562-f2a4-4237-b9e0-644c13e9ba04",
+  "duration": 284,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,060"
+    },
+    {
+      "label": "2",
+      "text": "Part four."
+    },
+    {
+      "label": "3",
+      "text": "00:00:02,140"
+    },
+    {
+      "label": "4",
+      "text": "You will hear part of a presentation by an agricultural student about the history of the watermelon. First, you have some time to look at questions thirty-one to forty on page seven. Now listen carefully and answer questions thirty-one to forty. Hello, everyone. We've been looking at how certain fruits have adapted over time, and today, I'm going to be using the watermelon as a case study."
+    },
+    {
+      "label": "5",
+      "text": "00:00:31,640"
+    },
+    {
+      "label": "6",
+      "text": "While many of you may know and love the watermelon, you might know about its long history, its five thousand-year history, and how the fruit has changed over that time."
+    },
+    {
+      "label": "7",
+      "text": "00:00:43,970"
+    },
+    {
+      "label": "8",
+      "text": "That's what I'm going to cover in my presentation today."
+    },
+    {
+      "label": "9",
+      "text": "00:00:48,120"
+    },
+    {
+      "label": "10",
+      "text": "The fruit seen in the market around the world these days has very little in common with its wild ancestors of a millennia ago. These wild ancestors were native to Africa, specifically throughout the deserts of that continent. This may come as a surprise, as many people assume they grow in tropical areas, but there you have it. I guess it's important to mention what they tasted like. Well, these wild watermelons didn't taste at all like today's melons. They were very bitter, so much so that it's surprising to me that people ate them at all, really. I can't imagine they were very nice to eat."
+    },
+    {
+      "label": "11",
+      "text": "00:01:30,690"
+    },
+    {
+      "label": "12",
+      "text": "The outside of a few types of these melons were very different to the modern fruit."
+    },
+    {
+      "label": "13",
+      "text": "00:01:36,150"
+    },
+    {
+      "label": "14",
+      "text": "There were certain species that were covered in hair, so nothing at all like the smooth skins we see nowadays. If you cut open one of these ancient melons, you'd be in for a surprise."
+    },
+    {
+      "label": "15",
+      "text": "00:01:49,520"
+    },
+    {
+      "label": "16",
+      "text": "You'd have immediately seen the color green, not the red we've used to see."
+    },
+    {
+      "label": "17",
+      "text": "00:01:55,400"
+    },
+    {
+      "label": "18",
+      "text": "And the flesh of these ancient melons were very hard. It had to be boiled for a long time before it was soft enough to eat."
+    },
+    {
+      "label": "19",
+      "text": "00:02:04,780"
+    },
+    {
+      "label": "20",
+      "text": "You may ask how we know so much about these ancient wild melons. Actually, there have been a lot of evidence uncovered by historians and archeologists over the years."
+    },
+    {
+      "label": "21",
+      "text": "00:02:17,040"
+    },
+    {
+      "label": "22",
+      "text": "For example, archeologists who were working in ancient settlements in the"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "515a2a6c-b75c-4a7b-9182-eb72144d3285",
+          "prompt": "**Watermelons in the Past**\n\n**The wild ancestors of the watermelon**\n·They grew in all the **31**_____ of the African continent.",
+          "answers": [
+            "deserts"
+          ],
+          "rawAnswer": "deserts",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These wild ancestors were native to Africa, specifically throughout the deserts of that continent"
+          },
+          "keywordPairs": [
+            {
+              "question": "grew in all the",
+              "article": "throughout"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "681b9955-67c5-45c0-8690-e62586dd61e6",
+          "prompt": "·The flavour was unpleasantly **32**_____ in comparison to today's fruit.",
+          "answers": [
+            "bitter"
+          ],
+          "rawAnswer": "bitter",
+          "evidence": {
+            "paragraph": "",
+            "quote": "these wild watermelons didn't taste at all like today's melons. They were very bitter"
+          },
+          "keywordPairs": [
+            {
+              "question": "flavour",
+              "article": "taste"
+            },
+            {
+              "question": "unpleasantly",
+              "article": "very"
+            },
+            {
+              "question": "in comparison to today's fruit",
+              "article": "didn't taste at all like today's melons"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "6c0a93e4-69a0-4077-aa56-2976f43351a0",
+          "prompt": "·Some of them had **33**_____ on the outside of the fruit.\n·They had extremely hard green flesh.",
+          "answers": [
+            "hair"
+          ],
+          "rawAnswer": "hair",
+          "evidence": {
+            "paragraph": "",
+            "quote": "There were certain species that were covered in hair, so nothing at all like the smooth skins we see nowadays"
+          },
+          "keywordPairs": [
+            {
+              "question": "had",
+              "article": "covered in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "f2fe4891-e111-41a4-b4df-53c11d0f86b9",
+          "prompt": "**Examples of evidence of watermelons from the ancient work**\n·Archaeologists found **34**_____ from watermelons in an town in Libya.",
+          "answers": [
+            "seeds"
+          ],
+          "rawAnswer": "seeds",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Archaeologists found seeds from watermelons in a town in Libya"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "cb5d8aa9-57ad-407f-8351-d39480d54e47",
+          "prompt": "·**35**_____ of the fruit have been found in Egyptian tombs.",
+          "answers": [
+            "paintings"
+          ],
+          "rawAnswer": "paintings",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Paintings of the fruit have been found in Egyptian tombs"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "8bc0b78e-7052-44ad-8c63-18879c0dc64d",
+          "prompt": "**The spread of watermelons**\n·Around 450 BC, watermelons s Africa to Europe because of **36**_____ .",
+          "answers": [
+            "trade"
+          ],
+          "rawAnswer": "trade",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Around 450 BC, watermelons spread from Africa to Europe because of trade"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "429257bc-069b-4251-ae1a-370ef512ae8b",
+          "prompt": "**The uses of watermelons in the past**\n·They were a source of food.\n·The empty watermelon skin was often used as a **37**_____ on long trips.",
+          "answers": [
+            "container"
+          ],
+          "rawAnswer": "container",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The empty watermelon skin was often used as a container on long trips"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "1a3c4d86-f94f-48d8-b14b-fb527b2244a1",
+          "prompt": "·In Watermelon was used as a medicine, e.g. for the treatment of **38**_____ .",
+          "answers": [
+            "headaches"
+          ],
+          "rawAnswer": "headaches",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In Watermelon was used as a medicine, e.g. for the treatment of headaches"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "44fcfcba-c68b-4975-a8e9-22a278f850bd",
+          "prompt": "**How the changes in watermelons came about**\n·Ancient Egyptians who were working as **39**_____ were the first to change certain traits of watermelons.",
+          "answers": [
+            "farmers"
+          ],
+          "rawAnswer": "farmers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Ancient Egyptians who were working as farmers were the first to change certain traits of watermelons"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "c02e83f6-69d8-4d59-9919-3547ffcf00c4",
+          "prompt": "·In the United States, watermelons were bred so they did not get **40**_____ .",
+          "answers": [
+            "bruised"
+          ],
+          "rawAnswer": "bruised",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the United States, watermelons were bred so they did not get bruised"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,060</p><p>Part four. </p><p>00:00:02,140</p><p>You will hear part of a presentation by an agricultural student about the history of the watermelon. First, you have some time to look at questions thirty-one to forty on page seven. Now listen carefully and answer questions thirty-one to forty. Hello, everyone. We've been looking at how certain fruits have adapted over time, and today, I'm going to be using the watermelon as a case study. </p><p>00:00:31,640</p><p>While many of you may know and love the watermelon, you might know about its long history, its five thousand-year history, and how the fruit has changed over that time. </p><p>00:00:43,970</p><p>That's what I'm going to cover in my presentation today. </p><p>00:00:48,120</p><p>The fruit seen in the market around the world these days has very little in common with its wild ancestors of a millennia ago. These wild ancestors were native to Africa, specifically throughout the deserts of that continent. This may come as a surprise, as many people assume they grow in tropical areas, but there you have it. I guess it's important to mention what they tasted like. Well, these wild watermelons didn't taste at all like today's melons. They were very bitter, so much so that it's surprising to me that people ate them at all, really. I can't imagine they were very nice to eat. </p><p>00:01:30,690</p><p>The outside of a few types of these melons were very different to the modern fruit. </p><p>00:01:36,150</p><p>There were certain species that were covered in hair, so nothing at all like the smooth skins we see nowadays. If you cut open one of these ancient melons, you'd be in for a surprise. </p><p>00:01:49,520</p><p>You'd have immediately seen the color green, not the red we've used to see. </p><p>00:01:55,400</p><p>And the flesh of these ancient melons were very hard. It had to be boiled for a long time before it was soft enough to eat. </p><p>00:02:04,780</p><p>You may ask how we know so much about these ancient wild melons. Actually, there have been a lot of evidence uncovered by historians and archeologists over the years. </p><p>00:02:17,040</p>For example, archeologists who were working in ancient settlements in the",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/4b8e4562-f2a4-4237-b9e0-644c13e9ba04.mp3",
+    "durationSeconds": 163.056327,
+    "sizeBytes": 652615,
+    "sha256": "b0c38b60e8a19b42f8f1da8918b245df7c7aa091a14f81ef23edc2786b5daf25",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:11:07Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1779076119150_yafh8y_4ca08f3d.mp3"
+}

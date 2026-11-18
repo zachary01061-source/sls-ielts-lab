@@ -1,0 +1,282 @@
+{
+  "id": "cambridge-9-test-2-reading-2",
+  "title": "Venus in transit",
+  "titleCn": "Venus in transit",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 9,
+    "test": 2
+  },
+  "sourceQuestionId": "6869",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6869",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Venus in transit"
+    },
+    {
+      "label": "2",
+      "text": "June 2004 saw the first passage, known as a 'transit' , of the planet Venus across the face of the Sun in 122 year. Transits have helped shape our view of the whole Universe, as Healther Cooper and Nigel Henbest explain"
+    },
+    {
+      "label": "3",
+      "text": "A On 8 June 2004, more than half the population of the world were treated to a rare astronomical event. For over six hours, the planet Venus steadily inched its way over the surface of the Sun. This 'transit' of Venus was the first since 6 December 1882. On that occasion, the American astronomer Professor Simon Newcomb led a party to South Africa to observe the event. They were based at a girl's school, where—it is alleged—the combined forces of three schoolmistresses outperformed the professionals with the accuracy of their observations."
+    },
+    {
+      "label": "4",
+      "text": "B For centuries, transits of Venus have drawn explores and astronomers alike to the four corners of the globe. And you can put it all down to the extraordinary polymath Edmond Halley. In November 1677, Halley observed a transit of the innermost planet, Mercury, from the desolate island of St Helena in the south Pacific. He realized that, from different latitudes, the passage of the planet across the Sun's disc would appear to differ. By timing the transit from two widely-separated locations, teams of astronomers could calculate the parallax angle—the apparent difference in position of an astronomical body due to a difference in the observer's position. Calculating this angle would allow astronomers to measure what was then the ultimate goal: the distance of the Earth from the sun. This distance is known as the 'astronomical' or AU."
+    },
+    {
+      "label": "5",
+      "text": "C Halley was aware that the AU was one of the most fundamental of all astronomical measurements. Johannes Kepler, in the early 17th century, had shown that the distances of the planets from the Sun governed their orbital speeds, which were easily measurable. But no-one had found a way to calculate accurate distances to the planets from the Earth. The goal was to measure the AU; then, knowing the orbital speeds of all the other planets round the Sun, the scale of the Solar System would fall into place. However, Halley realised that Mercury was so far away that its parallax angel would be very difficult to determine. As Venus was closer to the Earth, its parallax angle would be larger, and Halley worked out that by using Venus it would be possible to measure the Sun's distance to 1 part in 500. But there was a problem: transits of Venus, unlike those of Mercury, are rare, occurring in pairs roughly eight years apart every hundred or so years. Nevertheless, he accurately predicted that Venus would cross the face of the Sun in both 1761 and 1769—though he didn't survive to see either."
+    },
+    {
+      "label": "6",
+      "text": "D Inspired by Halley's suggestion of a way to pin down the scale of the Solar System, teams of British and French astronomers set out on expeditions to places as diverse as India and Siberia. But things weren't helped by Britain and France being at war. The person who deserves most sympathy is the French astronomer Guillaume Le Gentil. He was thwarted by the fact that the British were besieging his observation site at Pondicherry in India. Fleeing on a French warship crossing the Indian Ocean, Le Gentil saw a wonderful transit—but the ship's pitching and rolling ruled out any attempt at making accurate observations. Undaunted, he remained south of the equator, keeping himself busy by studying the islands of Mauritius and Madagascar before setting off to observe the next transit in the Philippines. Ironically after travelling nearly 50,000 kilometers, his view was clouded out at the last moment, a very dispiriting experience."
+    },
+    {
+      "label": "7",
+      "text": "E While the early transit timings were as precise as instruments would allow, the measurements were dogged by the 'black drop' effect. When Venus begins to cross the Sun's disc, it looks smeared not circular—which makes it difficult to establish timings. This is due to diffraction of light. The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun's disc. While this showed astronomers that Venus was surrounded by thick layer of gases refracting sunlight around it, both effects made it impossible to obtain accurate timings."
+    },
+    {
+      "label": "8",
+      "text": "F But astronomers laboured hard to analyse the results of these expeditions to observe Venus transits. Johann Franz Encke, Director of the Berlin Observatory, finally determined a value for the AU based on all these parallax measurements: 153,340,000km. Reasonably accurate for the time, that is quite close to today's value of methods in accuracy. The AU is a cosmic measuring rod, and the basis of how we scale the Universe today. The parallax principle can be extended to measure the distances to the stars. If we look at a star in January—when Earth is at one point in its orbit—it will seem to be in a different position from where it appears six months later. Knowing the width of Earth's orbit, the parallax shift lets astronomers calculate the distance."
+    },
+    {
+      "label": "9",
+      "text": "G June 2004's transit of Venus was thus more of an astronomical spectacle than a scientifically important event. But such transits have paved the way for what might prove to be one of the most vital breakthroughs in the cosmos—detecting Earth-sized planets orbiting other stars."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-17\n\nReading Passage 2 has seven paragraphs, A—G.\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "examples of different ways in which the parallax principle has been applied",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6869_931032-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "a description of an event which prevented a transit observation",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6869_931032-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "a statement about potential future discoveries leading on from transit observations",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6869_931032-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "a description of physical states connected with Venus which early astronomical instruments failed to overcome",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6869_931032-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 18-21\n\nLook at the following statements and the list of people below.\n\nMatch each statement with the correct person, A, B, C or D.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "[18] ______ He calculated the distance of the Sun from the Earth based one observations of Venus with a fair degree of accuracy.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6869_659925",
+          "explanation": "题号：18\n\n解题关键词 ：distance of the Sun from the Earth, a fair degree of accuracy\n\n题目解析：翻译：此人通过观测金星，相当精确地测出了太阳到地球的距离。\n\n显然对应文章F段出现的数字，通过阅读F段前五行，可以找出reasonably! accurate对应a fair degree of accuracy, a value for the AU“天文单位的数值”，即太阳到地球的距离，对应distance of the Sun from the Earth。所以此题应选D。\n\n题号：19\n\n解题关键词 ：comparing observations of a transit\n\n题目解析：翻译：此人发现通过观测凌日现象可以计算出太阳到地球的距离。文中B段Halley第一次提出通过观测凌日现象可以计算出视差角度。视差角度是指天体的位置由于观测者的位置不同而产生的明显差异。计算视差角度让天文学家得以实现当时最终目标一算出地球与太阳之间的距离，这个距离就是所谓的“天文单位”找到Halley名字所在的地方，再顺着向下阅读,很容易找到答案。所以此题应选A。\n\n题号：20\n\n解题关键词 ：time, go round the Sun, distance\n\n题目解析：翻译：此人发现行星与太阳的距离决定了其绕太阳运行的时间。文章中C段第二句提到了Johannes Kepler，他提出the distances of the planets from the Sun governed their orbital speeds，其中orbital speed就等同于题中的the time taken by a planet to go round the Sun。所以此题应选B。\n\n题号：21\n\n解题关键词 ：witnessed, unable to make any calculations\n\n题目解析：翻译：此人观测到了金星凌日现象，但却不能进行计算。这道题答案当然是考生们印象非常深刻的，倒霉的法国人Le Gentil。在出现他姓名的D段，明确提到Le Gentil saw a wonderful transit—but the ship's pitching and rolling ruled out any attempt at making accurate observations,其中ruled out any attempt at making accurate observations 与题目中的unable to make any calculations相对应。所以此题应选C。",
+          "promptHtml": "[18] ______ He calculated the distance of the Sun from the Earth based one observations of Venus with a fair degree of accuracy."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "[19] ______ He understood that the distance of the Sun from the Earth could be worked out by comparing observations of a transit.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6869_228967",
+          "explanation": "题号：18\n\n解题关键词 ：distance of the Sun from the Earth, a fair degree of accuracy\n\n题目解析：翻译：此人通过观测金星，相当精确地测出了太阳到地球的距离。\n\n显然对应文章F段出现的数字，通过阅读F段前五行，可以找出reasonably! accurate对应a fair degree of accuracy, a value for the AU“天文单位的数值”，即太阳到地球的距离，对应distance of the Sun from the Earth。所以此题应选D。\n\n题号：19\n\n解题关键词 ：comparing observations of a transit\n\n题目解析：翻译：此人发现通过观测凌日现象可以计算出太阳到地球的距离。文中B段Halley第一次提出通过观测凌日现象可以计算出视差角度。视差角度是指天体的位置由于观测者的位置不同而产生的明显差异。计算视差角度让天文学家得以实现当时最终目标一算出地球与太阳之间的距离，这个距离就是所谓的“天文单位”找到Halley名字所在的地方，再顺着向下阅读,很容易找到答案。所以此题应选A。\n\n题号：20\n\n解题关键词 ：time, go round the Sun, distance\n\n题目解析：翻译：此人发现行星与太阳的距离决定了其绕太阳运行的时间。文章中C段第二句提到了Johannes Kepler，他提出the distances of the planets from the Sun governed their orbital speeds，其中orbital speed就等同于题中的the time taken by a planet to go round the Sun。所以此题应选B。\n\n题号：21\n\n解题关键词 ：witnessed, unable to make any calculations\n\n题目解析：翻译：此人观测到了金星凌日现象，但却不能进行计算。这道题答案当然是考生们印象非常深刻的，倒霉的法国人Le Gentil。在出现他姓名的D段，明确提到Le Gentil saw a wonderful transit—but the ship's pitching and rolling ruled out any attempt at making accurate observations,其中ruled out any attempt at making accurate observations 与题目中的unable to make any calculations相对应。所以此题应选C。",
+          "promptHtml": "[19] ______ He understood that the distance of the Sun from the Earth could be worked out by comparing observations of a transit."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "[20] ______ He realized that the time taken by a planet to go round the Sun depends on its distance from the Sun.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6869_900637",
+          "explanation": "题号：18\n\n解题关键词 ：distance of the Sun from the Earth, a fair degree of accuracy\n\n题目解析：翻译：此人通过观测金星，相当精确地测出了太阳到地球的距离。\n\n显然对应文章F段出现的数字，通过阅读F段前五行，可以找出reasonably! accurate对应a fair degree of accuracy, a value for the AU“天文单位的数值”，即太阳到地球的距离，对应distance of the Sun from the Earth。所以此题应选D。\n\n题号：19\n\n解题关键词 ：comparing observations of a transit\n\n题目解析：翻译：此人发现通过观测凌日现象可以计算出太阳到地球的距离。文中B段Halley第一次提出通过观测凌日现象可以计算出视差角度。视差角度是指天体的位置由于观测者的位置不同而产生的明显差异。计算视差角度让天文学家得以实现当时最终目标一算出地球与太阳之间的距离，这个距离就是所谓的“天文单位”找到Halley名字所在的地方，再顺着向下阅读,很容易找到答案。所以此题应选A。\n\n题号：20\n\n解题关键词 ：time, go round the Sun, distance\n\n题目解析：翻译：此人发现行星与太阳的距离决定了其绕太阳运行的时间。文章中C段第二句提到了Johannes Kepler，他提出the distances of the planets from the Sun governed their orbital speeds，其中orbital speed就等同于题中的the time taken by a planet to go round the Sun。所以此题应选B。\n\n题号：21\n\n解题关键词 ：witnessed, unable to make any calculations\n\n题目解析：翻译：此人观测到了金星凌日现象，但却不能进行计算。这道题答案当然是考生们印象非常深刻的，倒霉的法国人Le Gentil。在出现他姓名的D段，明确提到Le Gentil saw a wonderful transit—but the ship's pitching and rolling ruled out any attempt at making accurate observations,其中ruled out any attempt at making accurate observations 与题目中的unable to make any calculations相对应。所以此题应选C。",
+          "promptHtml": "[20] ______ He realized that the time taken by a planet to go round the Sun depends on its distance from the Sun."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "[21] ______ He witnessed a Venus transit but was unable to make any calculations.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6869_957599",
+          "explanation": "题号：18\n\n解题关键词 ：distance of the Sun from the Earth, a fair degree of accuracy\n\n题目解析：翻译：此人通过观测金星，相当精确地测出了太阳到地球的距离。\n\n显然对应文章F段出现的数字，通过阅读F段前五行，可以找出reasonably! accurate对应a fair degree of accuracy, a value for the AU“天文单位的数值”，即太阳到地球的距离，对应distance of the Sun from the Earth。所以此题应选D。\n\n题号：19\n\n解题关键词 ：comparing observations of a transit\n\n题目解析：翻译：此人发现通过观测凌日现象可以计算出太阳到地球的距离。文中B段Halley第一次提出通过观测凌日现象可以计算出视差角度。视差角度是指天体的位置由于观测者的位置不同而产生的明显差异。计算视差角度让天文学家得以实现当时最终目标一算出地球与太阳之间的距离，这个距离就是所谓的“天文单位”找到Halley名字所在的地方，再顺着向下阅读,很容易找到答案。所以此题应选A。\n\n题号：20\n\n解题关键词 ：time, go round the Sun, distance\n\n题目解析：翻译：此人发现行星与太阳的距离决定了其绕太阳运行的时间。文章中C段第二句提到了Johannes Kepler，他提出the distances of the planets from the Sun governed their orbital speeds，其中orbital speed就等同于题中的the time taken by a planet to go round the Sun。所以此题应选B。\n\n题号：21\n\n解题关键词 ：witnessed, unable to make any calculations\n\n题目解析：翻译：此人观测到了金星凌日现象，但却不能进行计算。这道题答案当然是考生们印象非常深刻的，倒霉的法国人Le Gentil。在出现他姓名的D段，明确提到Le Gentil saw a wonderful transit—but the ship's pitching and rolling ruled out any attempt at making accurate observations,其中ruled out any attempt at making accurate observations 与题目中的unable to make any calculations相对应。所以此题应选C。",
+          "promptHtml": "[21] ______ He witnessed a Venus transit but was unable to make any calculations."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Edmond Halley"
+        },
+        {
+          "value": "B",
+          "text": "Johannes Kepler"
+        },
+        {
+          "value": "C",
+          "text": "Guillaume Le Gentil"
+        },
+        {
+          "value": "D",
+          "text": "Johann Franz Encke"
+        }
+      ],
+      "contextHtml": "<p><strong>[18] ______</strong> He calculated the distance of the Sun from the Earth based one observations of Venus with a fair degree of accuracy.<br>\n<strong>[19] ______</strong> He understood that the distance of the Sun from the Earth could be worked out by comparing observations of a transit.<br>\n<strong>[20] ______</strong> He realized that the time taken by a planet to go round the Sun depends on its distance from the Sun.<br>\n<strong>[21] ______</strong> He witnessed a Venus transit but was unable to make any calculations.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "tfng",
+      "instruction": "Questions 22-26\n\nChoose TRUE if the statement agrees with the claims of the writer,\n\nchoose FALSE if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Halley observed one transit of the Planet Venus.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6869_648056",
+          "explanation": "参考译文：Halley观测到了一次金星凌日现象。\n\n定位词：Halley\n\n文中对应点 C段：Nevertheless, he accurately predicted that Venus would cross the face of the Sun in both 1761and 1769—though he didn't survive to see either.\n\n该句含义为“尽管如此，Halley还是准确预测出金星会在1761年与1769年两次穿过太阳表面，只可惜他有生之年一次也没看到。”此题考点明显，比较好定位，考生在阅读过程中对Halley印象深刻，因此很容易看到C段最后的这句话。\n\n答案：FAISE"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Le Gentil managed to observe a second Venus transit.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6869_366646",
+          "explanation": "参考译文：Le Gentil设法观测到了第二次金星凌日现象。\n\n定位词：Le Gentil\n\n文中对应点 D段：Ironically after travelling nearly 50,000 kilometres, his view was clouded out at the last moment, a very dispiriting experience.\n\n这一段上文提到在逃亡的船上，Le Gentil的第一次观测没能成功；接着他去了菲律宾，准备第二次观测，但是对应句表明在最后一刻，天空多云，他又没成功，正好和题目中的说法相反。\n\n答案：FALSE"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "The shape of Venus appears distorted when it starts to pass in front of the Sun",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6869_832305",
+          "explanation": "参考译文：当金星开始越过太阳表面时，它的形状看上去有些变形。\n\n定位词：Venus, starts to pass in front of the Sun\n\n文中对应点 E段：When Venus begins to cross the Sun's disc, it looks smeared not circular—which makes it difficult to establish timings.\n\n根据句中begins to Cross the Sun's disc和题目中的starts to pass in front of the Sun相对应找到此题定位处，此时考生会发现对应句中的looks和题目中的appears可以完全对应，另外可以根据句中的not circular来推测前面的smear的意思，not表示转折，所以smear意思应与circular相反，不是圆的。如果考生不认识circular，则可以通过cir这个词根来联想circle，进而猜测。\n\nTIPS：当然了，考生也可以最后用全TRUE法解决此题。\n\n答案：TRUE"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Early astronomers suspected that the atmosphere on Venus was toxic.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6869_418205",
+          "explanation": "参考译文：早期天文学家怀疑金星上的大气有毒。\n\n定位词：atmosphere, Venus, toxic\n\n文中对应点 E段：根据TRUE/FALSE/NOT GIVEN题型顺序出题原则，此题考点应在24题之后。顺着找下去，很快发现在E段倒数第二行提到了Venus was surrounded by a thick layer of gases，但是这里仅仅是说金星被厚厚的大气层所围绕，并未提到这个大气层是否是toxic（有毒的）。\n\n答案：NOT GIVEN"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "The parallax principle allows astronomers to work out how far away distant stars are from the Earth.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6869_686864",
+          "explanation": "参考译文：天文学家能够根据视差原理判断出遥远的恒星到地球的距离。\n\n定位词：parallax principle, distant stars\n\n文中对应点 F段：The parallax principle can be extended to measure the distances to the stars. 视差原理可以延伸应用到恒星之间距离的测量中。利用parallax principle和顺序法则很容易定位此题，而且此题考点与第14题相似，不管先做哪个题目，另外一题都会很容易得出正确答案。\n\n答案：TRUE"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Venus in transit</strong></span><br><em>June 2004 saw the first passage, known as a &#x27;transit&#x27; , of the planet Venus across the face of the Sun in 122 year. Transits have helped shape our view of the whole Universe, as Healther Cooper and Nigel Henbest explain</em></p><p><img src=\"/api/guest/cambridge/media/images/a4348f019b500f83d48adc212eb13a63.jpg\" alt=\"\"></p><p><strong>A</strong>    On 8 June 2004, more than half the population of the world were treated to a rare astronomical event. For over six hours, the planet Venus steadily inched its way over the surface of the Sun. This &#x27;transit&#x27; of Venus was the first since 6 December 1882. On that occasion, the American astronomer Professor Simon Newcomb led a party to South Africa to observe the event. They were based at a girl&#x27;s school, where—it is alleged—the combined forces of three schoolmistresses outperformed the professionals with the accuracy of their observations.</p><p><strong>B </strong>   For centuries, transits of Venus have drawn explores and astronomers alike to the four corners of the globe. And you can put it all down to the extraordinary polymath Edmond Halley. In November 1677, Halley observed a transit of the innermost planet, Mercury, from the desolate island of St Helena in the south Pacific. He realized that, from different latitudes, the passage of the planet across the Sun&#x27;s disc would appear to differ. By timing the transit from two widely-separated locations, teams of astronomers could calculate the parallax angle—the apparent difference in position of an astronomical body due to a difference in the observer&#x27;s position. Calculating this angle would allow astronomers to measure what was then the ultimate goal: the distance of the Earth from the sun. This distance is known as the &#x27;astronomical&#x27; or AU.</p><p><strong>C</strong>    Halley was aware that the AU was one of the most fundamental of all astronomical measurements. Johannes Kepler, in the early 17th century, had shown that the distances of the planets from the Sun governed their orbital speeds, which were easily measurable. But no-one had found a way to calculate accurate distances to the planets from the Earth. The goal was to measure the AU; then, knowing the orbital speeds of all the other planets round the Sun, the scale of the Solar System would fall into place. However, Halley realised that Mercury was so far away that its parallax angel would be very difficult to determine. As Venus was closer to the Earth, its parallax angle would be larger, and Halley worked out that by using Venus it would be possible to measure the Sun&#x27;s distance to 1 part in 500. But there was a problem: transits of Venus, unlike those of Mercury, are rare, occurring in pairs roughly eight years apart every hundred or so years. Nevertheless, he accurately predicted that Venus would cross the face of the Sun in both 1761 and 1769—though he didn&#x27;t survive to see either.</p><p><strong>D</strong>    Inspired by Halley&#x27;s suggestion of a way to pin down the scale of the Solar System, teams of British and French astronomers set out on expeditions to places as diverse as India and Siberia. But things weren&#x27;t helped by Britain and France being at war. The person who deserves most sympathy is the French astronomer Guillaume Le Gentil. He was thwarted by the fact that the British were besieging his observation site at Pondicherry in India. Fleeing on a French warship crossing the Indian Ocean, Le Gentil saw a wonderful transit—but the ship&#x27;s pitching and rolling ruled out any attempt at making accurate observations. Undaunted, he remained south of the equator, keeping himself busy by studying the islands of Mauritius and Madagascar before setting off to observe the next transit in the Philippines. Ironically after travelling nearly 50,000 kilometers, his view was clouded out at the last moment, a very dispiriting experience.</p><p><strong>E </strong>   While the early transit timings were as precise as instruments would allow, the measurements were dogged by the &#x27;black drop&#x27; effect. When Venus begins to cross the Sun&#x27;s disc, it looks smeared not circular—which makes it difficult to establish timings. This is due to diffraction of light. The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun&#x27;s disc. While this showed astronomers that Venus was surrounded by thick layer of gases refracting sunlight around it, both effects made it impossible to obtain accurate timings.</p><p><strong>F</strong>    But astronomers laboured hard to analyse the results of these expeditions to observe Venus transits. Johann Franz Encke, Director of the Berlin Observatory, finally determined a value for the AU based on all these parallax measurements: 153,340,000km. Reasonably accurate for the time, that is quite close to today&#x27;s value of methods in accuracy. The AU is a cosmic measuring rod, and the basis of how we scale the Universe today. The parallax principle can be extended to measure the distances to the stars. If we look at a star in January—when Earth is at one point in its orbit—it will seem to be in a different position from where it appears six months later. Knowing the width of Earth&#x27;s orbit, the parallax shift lets astronomers calculate the distance.</p><p><strong>G</strong>    June 2004&#x27;s transit of Venus was thus more of an astronomical spectacle than a scientifically important event. But such transits have paved the way for what might prove to be one of the most vital breakthroughs in the cosmos—detecting Earth-sized planets orbiting other stars.<br> </p>"
+}

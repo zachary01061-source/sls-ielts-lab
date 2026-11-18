@@ -1,0 +1,241 @@
+{
+  "id": "cambridge-14-test-2-reading-1",
+  "title": "Alexander Henderson (1831-1913)",
+  "titleCn": "Alexander Henderson (1831-1913)",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 14,
+    "test": 2
+  },
+  "sourceQuestionId": "6631",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6631",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Alexander Henderson (1831-1913)"
+    },
+    {
+      "label": "2",
+      "text": "Born in Scotland, Henderson emigrated to Canada in 1855 and became a well-known landscape photographer"
+    },
+    {
+      "label": "3",
+      "text": "Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant. His grandfather, also called Alexander, had founded the family business, and later became the first chairman of the National Bank of Scotland. The family had extensive landholdings in Scotland. Besides its residence in Edinburgh, it owned Press Estate, 650 acres of farmland about 35 miles southeast of the city. 'The family often stayed at Press Castle, the large mansion on the northern edge of the property, and Alexander spent much of his childhood in the area, playing on the beach near Eyemouth or fishing in the streams nearby."
+    },
+    {
+      "label": "4",
+      "text": "Even after he went to school at Murcheston Academy on the outskirts of Edinburgh, Henderson returned to Press at weekends. In 1849 he began a three-year apprenticeship to become an accountant. Although he never liked the prospect of a business career, he stayed with it to please his family. In October 1855, however, he emigrated to Canada with his wife Agnes Elder Roberts on and they settled in Montreal."
+    },
+    {
+      "label": "5",
+      "text": "Henderson learned photography in Montreal around the year 1857 and quickly took it up as a serious amateur. He became a personal friend and colleague of the Scottish—Canadian photographer William Notman. The two men made a photographic excursion to Niagara Falls in 1860 and they cooperated on experiments with magnesium flares as a source of artificial light in 1865. They belonged to the same societies and were among the founding members of the Art Association of Montreal. Henderson acted as chairman of the association's first meeting, which was held in Notman's studio on 11 January 1860."
+    },
+    {
+      "label": "6",
+      "text": "In spite of their friendship, their styles of photography were quite different. While Notman's landscapes were noted for their bold realism, Henderson for the first 20 years of his career produced romantic images, showing the strong influence of the British landscape tradition. His artistic and technical progress was rapid and in 1865 he published his first major collection of landscape photographs. The publication had limited circulation (only seven copies have ever been found), and was called Canadian Views and Studies. The contents of each copy vary significantly and have proved a useful source for evaluating Henderson's early work."
+    },
+    {
+      "label": "7",
+      "text": "In 1866, he gave up his business to open a photographic studio, advertising himself as a portrait and landscape photographer. From about 1870 he dropped portraiture to specialize in landscape photography and other views. His numerous photographs of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream. There was sufficient demand for these types of scenes and others he took depicting the lumber trade, steamboats and waterfalls to enable him to make a living. There was little competing hobby or amateur photography before the late1880s because of the time-consuming techniques involved and the weight of the equipment. People wanted to buy photographs as souvenirs of a trip or as gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums."
+    },
+    {
+      "label": "8",
+      "text": "Henderson frequently exhibited his photographs in Montreal and abroad, in London, Edinburgh, Dublin, Paris, New York, and Philadelphia. He met with greater success in 1877 and 1878 in New York when he won first prizes in the exhibition held by E and H T Anthony and Company for landscapes using the Lambertype process. In 1878 his work won second prize at the world exhibition in Paris."
+    },
+    {
+      "label": "9",
+      "text": "In the 1870s and 1880s Henderson travelled widely throughout Quebec and Ontario, in Canada, documenting the major cities of the two provinces and many of the villages in Quebec. He was especially fond of the wilderness and often travelled by canoe on the Blanche, du Lièvre, and other noted eastern rivers. He went on several occasions to the Maritimes and in 1872 he sailed by yacht along the lower north shore of the St Lawrence River. That same year, while in the lower St Lawrence River region, he took some photographs of the construction of the Intercolonial Railway. This undertaking led in 1875 to a commission from the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax. Commissions from other railways followed. In 1876 he photographed bridges on the Quebec, Montreal, Ottawa and Occidental Railway between Montreal and Ottawa. In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he took photographs of the mountains and the progress of construction."
+    },
+    {
+      "label": "10",
+      "text": "In 1892 Henderson accepted a fulltime position with the CPR as manager of a photographic department which he was to set up and administer. His duties included spending four months in the field each year. That summer he made his second trip west, photographing extensively along the railway line as far as Victoria. He continued in this post until 1897, when he retired completely from photography."
+    },
+    {
+      "label": "11",
+      "text": "When Henderson died in 1913, his huge collection of glass negatives was stored in the basement of his house. Today collections of his work are held at the National Archives of Canada, Ottawa, and the McCord Museum of Canadian History, Montreal."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-8\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Henderson rarely visited the area around Press estate when he was younger.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6631_419126",
+          "explanation": "题干译文：Henderson小时候很少去Press产业周围的地区。\n\n定位词：Press\n\n文中对应点：第一段最后一句：The family often stayed at Press Castle, the large mansion...\n\n本题定位简单，可以凭借题干中的专有名词Press迅速找到文章第一段；但是Press第一次出现的句子里并没有与题干直接相关的信息，所以考生需要耐心再向后阅读一句，会看到下一个句子中仍然包含Press这个信息，且明确说到了主人公童年时在此度过了大量时光，这与题干所说相矛盾，因此答案为 FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Henderson pursued a business career because it was what his family wanted.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6631_891237",
+          "explanation": "题干译文：Henderson从事了一份商业性职业,因为这是他的家族所希望的。\n\n定位词：business career\n\n文中对应点：第二段第三句：Although he never liked the prospect of a business career, he...\n\n本题难度很低：考生可直接用题干中的business career找到原文中一模一样的表述，进而阅读此句便能看到：他选择这个职业是为了取悦其家族，这与题干信息一致，因此答案为TRUE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Henderson and Notman were surprised by the results of their 1865 experiment.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6631_325399",
+          "explanation": "题干译文：Henderson和Notman对他们1865年试验的结果感到惊讶。\n\n定位词：Notman, 1865 experiment\n\n文中对应点：无\n\n本题的定位倒是不难，考生可直接利用1865这个数在文章第三段中找到相关句，但无论是本句还是比前后的其他句子，都只是提到了这个试验，没有说要二人对此试验的感受和看法，可知本题答案应NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "There were many similarities between Henderson's early landscapes and those of Notman.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6631_497974",
+          "explanation": "题干译文：Henderson的早期风景作品与Notman的作品存在许多相似之处。\n\n定位词：early landscapes, Notman\n\n文中对应点：第四段第二句：While Notman's landscapes were noted for their bold realism, Henderson for...\n\n本题虽然有大写人名Notman，但考生在阅读原文寻找上一题信息的过程中可能就已经意识到了，这个人名在第三和第四段中出镜率颇高，只能作为辅助定位，而不能只靠它来寻找题干信息。所幸另一个题干信息early与原文中first 20 years的同义表述还是比较容易理解的，考生找到此处并阅读全句可知，二人的风格迥然不同，这与题干信息相矛盾，答案应为FALSE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "The studio that Henderson opened in 1866 was close to his home.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6631_912080",
+          "explanation": "题干译文：Henderson在1866年开张的工作室离他的家很近。\n\n定位词：studio, 1866\n\n文中对应点：无\n\n本题定位非常容易，用数字1866即可顺利找到第五段第一句，且此句中同时也包含studio这个信息，但通读全句也找不到这个studio距离Henderson家远近的信息。考生请注意，任何时候切不可在读完这一句后就武断地得出NG结论，而是要耐心地至少再向后阅读若干句，才能最终确定答案。不过本题的友好之处在于，考生在耐心向后文阅读的时候，会发现下一句即给出了下一题的相关信息，按照判断题出题顺序与文章行文顺序基本一致的原则，在找到第6题时仍不见第5题的相关信息，可以比较肯定本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Henderson gave up portraiture so that he could focus on taking photographs of scenery.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6631_491215",
+          "explanation": "题干译文：Hendrson放弃了人像摄影以专注于拍摄风景照。\n\n定位词：portraiture, scenery\n\n文中对应点：第五段第二句：From about 1870 he dropped portraiture to...\n\n本题由于出题句紧邻上一道题定位词所在句，且句中还包含了portraiture这个一模一样的信息，因此还算比较好找。考生在此只需看出题干中的scenery与原文中的landscape是一组同义替换，即可顺利解题，得出答案为TRUE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "When Henderson began work for the Intercolonial Railway, the Montreal to Halifax line had been finished.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6631_520312",
+          "explanation": "题干译文：在Henderson开始为殖民地际铁路工作时，蒙特利尔到哈利法克斯线已经建成了。\n\n定位词：Intercolonial Railway, Montreal to Halifax line\n\n文中对应点：第七段第四、五句：That same year, while in the lower St Lawrence River region, he...\n\n本题距离上一道题比较远，不过由于题干中有着大量大写专有名称，所以要快速定位依然不算困难。无论是题干句还是对应的原文句，表达“铁路是否已建成”的信息都不难读懂：题干用词 finished表示已经完成,而原文用词almost-completed表示还未最终完成，这两个信息形成矛盾抵触，表明此题答案很可能为FALSE。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Henderson's last work as a photographer was with the Canadian Pacific Railway.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6631_228946",
+          "explanation": "题干译文：Henderson作为摄影师的最后一份工作是为加拿大太平洋铁路效力。\n\n定位词：last work, Canadian Pacific Railway\n\n文中对应点：第八段最后一句：He continued in this post until 1897, when he...\n\n本题要凭借大写专有名称找到Canadian Pacific Railway十分容易，但要顺利得出正确答案却颇费一些周章。原因在于，Canadian Pacific Railway第一次出现在第七段结尾句，考生阅读这句只能了解到Henderson沿这条铁路去过某地拍摄照片；继续向下阅读第八段第一句，发现接下来他确实接受了这家铁路公司提供的全职工作但这是否就是他的最后一份工作？此句还是没有提及。再向后阅读两句也没有相关信息，一直到本段最后一句才终于明确说到：Henderson一直在这个职位上干到彻底退休不再摄影，这才能百分百确定答案为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 9-13\n\nComplete the table below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "was born in Scotland in 1831 - father was a [9] ______",
+          "answers": [
+            "merchant"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6631_634239",
+          "explanation": "题号：9\n\n题干说：1831年出生在苏格兰——爸爸是一位。\n\n解题关键词：Scotland, 1831, father\n\n文中对应点：第一段第一句：Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.\n\n要在雅思阅读中找到比本题更容易定位和作答的题目，可能不太容易。不但可知空格内应填名词，而且还应当是表明人物身份的名词，无论用时间1831还是用大写Scotland都可以定位到出题句，认识father与son这一对互有关系的同义表述应该也不是难事，由此得到答案为：merchant。\n\n题号：10\n\n题干说：人们购买Henderson的照片是因为拍摄相片要花相当多的时间并且还很沉。\n\n解题关键词：1866, considerable time, heavy\n\n文中对应点：第五段倒数第二句：There was little competing hobby or amateur photography before...\n\n空格内应填名词。要想从上一道题开始更快地定位到本题，不妨先利用小标题Start of a holographic career下面第一行里的1866，跳过前四段内容直接来到第五段开头，然后再寻找“花时间多”和“沉重”这两个形成并列关系的题干信息，可以较快在对应原文中看到time-consuming和weight这两个同义表述，进而确认答案为：equipment。\n\n题号：11\n\n题干说：Henderson所售卖的照片是些____________或纪念品。\n\n解题关键词：souvenirs, or\n\n文中对应点：第五段最后一句：People wanted to buy photographs as souvenirs of a trip or as gifts, ...\n\n可知空格内应当是与souvenirs形成并列关系的某个名词。用souvenirs这个定位词可很快找到原文对应句，进而轻松找到答案为gifts。\n\n题号：12\n\n题干说：在_________里进行过许多次沿各条东部河流的航行。\n\n解题关键词：1870s and 1880s, eastern rivers\n\n文中对应点：第七段第二句：He was especially fond of the wilderness and often travelled by...\n\n空格内仍填名词，而且根据句意和上下推断，应该是指乘坐的交通工具。与第10题类似，考生可以先利用上一句中的数字1870s and 1880s，快速找到第七段开头，然后再寻找eastern rivers这个题干信息，即可锁定对应原文句，通过对比确定答案为：canoe。\n\n题号：13\n\n题干说：1885年为CPR工作，并拍摄了和Rogers Pass段的铁路。\n\n解题关键词：CPR, 1885, Rogers Pass\n\n文中对应点：第七段最后一句：In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he...\n\n空格内还是填名词。题干中的三个数字和大写信息完美对应在原文中的同一个句子里，考生只需从Henderson拍照对象的两个并列信息中，看出the progress of construction：指的是铁路的修建，即可锁定答案为另外那个拍摄对象：mountains。",
+          "promptHtml": "was born in Scotland in 1831 - father was a [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "people bought Henderson's photos because photography took up considerable time and the [10] ______was heavy",
+          "answers": [
+            "equipment"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6631_645199",
+          "explanation": "题号：9\n\n题干说：1831年出生在苏格兰——爸爸是一位。\n\n解题关键词：Scotland, 1831, father\n\n文中对应点：第一段第一句：Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.\n\n要在雅思阅读中找到比本题更容易定位和作答的题目，可能不太容易。不但可知空格内应填名词，而且还应当是表明人物身份的名词，无论用时间1831还是用大写Scotland都可以定位到出题句，认识father与son这一对互有关系的同义表述应该也不是难事，由此得到答案为：merchant。\n\n题号：10\n\n题干说：人们购买Henderson的照片是因为拍摄相片要花相当多的时间并且还很沉。\n\n解题关键词：1866, considerable time, heavy\n\n文中对应点：第五段倒数第二句：There was little competing hobby or amateur photography before...\n\n空格内应填名词。要想从上一道题开始更快地定位到本题，不妨先利用小标题Start of a holographic career下面第一行里的1866，跳过前四段内容直接来到第五段开头，然后再寻找“花时间多”和“沉重”这两个形成并列关系的题干信息，可以较快在对应原文中看到time-consuming和weight这两个同义表述，进而确认答案为：equipment。\n\n题号：11\n\n题干说：Henderson所售卖的照片是些____________或纪念品。\n\n解题关键词：souvenirs, or\n\n文中对应点：第五段最后一句：People wanted to buy photographs as souvenirs of a trip or as gifts, ...\n\n可知空格内应当是与souvenirs形成并列关系的某个名词。用souvenirs这个定位词可很快找到原文对应句，进而轻松找到答案为gifts。\n\n题号：12\n\n题干说：在_________里进行过许多次沿各条东部河流的航行。\n\n解题关键词：1870s and 1880s, eastern rivers\n\n文中对应点：第七段第二句：He was especially fond of the wilderness and often travelled by...\n\n空格内仍填名词，而且根据句意和上下推断，应该是指乘坐的交通工具。与第10题类似，考生可以先利用上一句中的数字1870s and 1880s，快速找到第七段开头，然后再寻找eastern rivers这个题干信息，即可锁定对应原文句，通过对比确定答案为：canoe。\n\n题号：13\n\n题干说：1885年为CPR工作，并拍摄了和Rogers Pass段的铁路。\n\n解题关键词：CPR, 1885, Rogers Pass\n\n文中对应点：第七段最后一句：In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he...\n\n空格内还是填名词。题干中的三个数字和大写信息完美对应在原文中的同一个句子里，考生只需从Henderson拍照对象的两个并列信息中，看出the progress of construction：指的是铁路的修建，即可锁定答案为另外那个拍摄对象：mountains。",
+          "promptHtml": "people bought Henderson&#x27;s photos because photography took up considerable time and the [10] ______was heavy"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "the photographs Henderson sold were [11] ______ or souvenirs",
+          "answers": [
+            "gifts"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6631_553759",
+          "explanation": "题号：9\n\n题干说：1831年出生在苏格兰——爸爸是一位。\n\n解题关键词：Scotland, 1831, father\n\n文中对应点：第一段第一句：Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.\n\n要在雅思阅读中找到比本题更容易定位和作答的题目，可能不太容易。不但可知空格内应填名词，而且还应当是表明人物身份的名词，无论用时间1831还是用大写Scotland都可以定位到出题句，认识father与son这一对互有关系的同义表述应该也不是难事，由此得到答案为：merchant。\n\n题号：10\n\n题干说：人们购买Henderson的照片是因为拍摄相片要花相当多的时间并且还很沉。\n\n解题关键词：1866, considerable time, heavy\n\n文中对应点：第五段倒数第二句：There was little competing hobby or amateur photography before...\n\n空格内应填名词。要想从上一道题开始更快地定位到本题，不妨先利用小标题Start of a holographic career下面第一行里的1866，跳过前四段内容直接来到第五段开头，然后再寻找“花时间多”和“沉重”这两个形成并列关系的题干信息，可以较快在对应原文中看到time-consuming和weight这两个同义表述，进而确认答案为：equipment。\n\n题号：11\n\n题干说：Henderson所售卖的照片是些____________或纪念品。\n\n解题关键词：souvenirs, or\n\n文中对应点：第五段最后一句：People wanted to buy photographs as souvenirs of a trip or as gifts, ...\n\n可知空格内应当是与souvenirs形成并列关系的某个名词。用souvenirs这个定位词可很快找到原文对应句，进而轻松找到答案为gifts。\n\n题号：12\n\n题干说：在_________里进行过许多次沿各条东部河流的航行。\n\n解题关键词：1870s and 1880s, eastern rivers\n\n文中对应点：第七段第二句：He was especially fond of the wilderness and often travelled by...\n\n空格内仍填名词，而且根据句意和上下推断，应该是指乘坐的交通工具。与第10题类似，考生可以先利用上一句中的数字1870s and 1880s，快速找到第七段开头，然后再寻找eastern rivers这个题干信息，即可锁定对应原文句，通过对比确定答案为：canoe。\n\n题号：13\n\n题干说：1885年为CPR工作，并拍摄了和Rogers Pass段的铁路。\n\n解题关键词：CPR, 1885, Rogers Pass\n\n文中对应点：第七段最后一句：In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he...\n\n空格内还是填名词。题干中的三个数字和大写信息完美对应在原文中的同一个句子里，考生只需从Henderson拍照对象的两个并列信息中，看出the progress of construction：指的是铁路的修建，即可锁定答案为另外那个拍摄对象：mountains。",
+          "promptHtml": "the photographs Henderson sold were [11] ______ or souvenirs"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "took many trips along eastern rivers in a [12] ______",
+          "answers": [
+            "canoe"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6631_514668",
+          "explanation": "题号：9\n\n题干说：1831年出生在苏格兰——爸爸是一位。\n\n解题关键词：Scotland, 1831, father\n\n文中对应点：第一段第一句：Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.\n\n要在雅思阅读中找到比本题更容易定位和作答的题目，可能不太容易。不但可知空格内应填名词，而且还应当是表明人物身份的名词，无论用时间1831还是用大写Scotland都可以定位到出题句，认识father与son这一对互有关系的同义表述应该也不是难事，由此得到答案为：merchant。\n\n题号：10\n\n题干说：人们购买Henderson的照片是因为拍摄相片要花相当多的时间并且还很沉。\n\n解题关键词：1866, considerable time, heavy\n\n文中对应点：第五段倒数第二句：There was little competing hobby or amateur photography before...\n\n空格内应填名词。要想从上一道题开始更快地定位到本题，不妨先利用小标题Start of a holographic career下面第一行里的1866，跳过前四段内容直接来到第五段开头，然后再寻找“花时间多”和“沉重”这两个形成并列关系的题干信息，可以较快在对应原文中看到time-consuming和weight这两个同义表述，进而确认答案为：equipment。\n\n题号：11\n\n题干说：Henderson所售卖的照片是些____________或纪念品。\n\n解题关键词：souvenirs, or\n\n文中对应点：第五段最后一句：People wanted to buy photographs as souvenirs of a trip or as gifts, ...\n\n可知空格内应当是与souvenirs形成并列关系的某个名词。用souvenirs这个定位词可很快找到原文对应句，进而轻松找到答案为gifts。\n\n题号：12\n\n题干说：在_________里进行过许多次沿各条东部河流的航行。\n\n解题关键词：1870s and 1880s, eastern rivers\n\n文中对应点：第七段第二句：He was especially fond of the wilderness and often travelled by...\n\n空格内仍填名词，而且根据句意和上下推断，应该是指乘坐的交通工具。与第10题类似，考生可以先利用上一句中的数字1870s and 1880s，快速找到第七段开头，然后再寻找eastern rivers这个题干信息，即可锁定对应原文句，通过对比确定答案为：canoe。\n\n题号：13\n\n题干说：1885年为CPR工作，并拍摄了和Rogers Pass段的铁路。\n\n解题关键词：CPR, 1885, Rogers Pass\n\n文中对应点：第七段最后一句：In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he...\n\n空格内还是填名词。题干中的三个数字和大写信息完美对应在原文中的同一个句子里，考生只需从Henderson拍照对象的两个并列信息中，看出the progress of construction：指的是铁路的修建，即可锁定答案为另外那个拍摄对象：mountains。",
+          "promptHtml": "took many trips along eastern rivers in a [12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "worked for CPR in 1885 and photographed the [13] ______ and the railway at Rogers Pass",
+          "answers": [
+            "mountains"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6631_477849",
+          "explanation": "题号：9\n\n题干说：1831年出生在苏格兰——爸爸是一位。\n\n解题关键词：Scotland, 1831, father\n\n文中对应点：第一段第一句：Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.\n\n要在雅思阅读中找到比本题更容易定位和作答的题目，可能不太容易。不但可知空格内应填名词，而且还应当是表明人物身份的名词，无论用时间1831还是用大写Scotland都可以定位到出题句，认识father与son这一对互有关系的同义表述应该也不是难事，由此得到答案为：merchant。\n\n题号：10\n\n题干说：人们购买Henderson的照片是因为拍摄相片要花相当多的时间并且还很沉。\n\n解题关键词：1866, considerable time, heavy\n\n文中对应点：第五段倒数第二句：There was little competing hobby or amateur photography before...\n\n空格内应填名词。要想从上一道题开始更快地定位到本题，不妨先利用小标题Start of a holographic career下面第一行里的1866，跳过前四段内容直接来到第五段开头，然后再寻找“花时间多”和“沉重”这两个形成并列关系的题干信息，可以较快在对应原文中看到time-consuming和weight这两个同义表述，进而确认答案为：equipment。\n\n题号：11\n\n题干说：Henderson所售卖的照片是些____________或纪念品。\n\n解题关键词：souvenirs, or\n\n文中对应点：第五段最后一句：People wanted to buy photographs as souvenirs of a trip or as gifts, ...\n\n可知空格内应当是与souvenirs形成并列关系的某个名词。用souvenirs这个定位词可很快找到原文对应句，进而轻松找到答案为gifts。\n\n题号：12\n\n题干说：在_________里进行过许多次沿各条东部河流的航行。\n\n解题关键词：1870s and 1880s, eastern rivers\n\n文中对应点：第七段第二句：He was especially fond of the wilderness and often travelled by...\n\n空格内仍填名词，而且根据句意和上下推断，应该是指乘坐的交通工具。与第10题类似，考生可以先利用上一句中的数字1870s and 1880s，快速找到第七段开头，然后再寻找eastern rivers这个题干信息，即可锁定对应原文句，通过对比确定答案为：canoe。\n\n题号：13\n\n题干说：1885年为CPR工作，并拍摄了和Rogers Pass段的铁路。\n\n解题关键词：CPR, 1885, Rogers Pass\n\n文中对应点：第七段最后一句：In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he...\n\n空格内还是填名词。题干中的三个数字和大写信息完美对应在原文中的同一个句子里，考生只需从Henderson拍照对象的两个并列信息中，看出the progress of construction：指的是铁路的修建，即可锁定答案为另外那个拍摄对象：mountains。",
+          "promptHtml": "worked for CPR in 1885 and photographed the [13] ______ and the railway at Rogers Pass"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Alexander Henderson</strong></span></p>\n\n<p><strong>Early life</strong></p>\n\n<ul>\n\t<li>was born in Scotland in 1831 - father was a <strong>[9] ______</strong></li>\n\t<li>trained as an accountant, emigrated to Canada in 1855</li>\n</ul>\n\n<p> </p>\n\n<p><strong>Start of a photographic career</strong></p>\n\n<ul>\n\t<li>opened up a photographic studio in 1866</li>\n\t<li>took photos of city life, but preferred landscape photography</li>\n\t<li>people bought Henderson&#x27;s photos because photography took up considerable time and the <strong>[10] ______</strong>was heavy</li>\n\t<li>the photographs Henderson sold were <strong>[11] ______</strong> or souvenirs</li>\n</ul>\n\n<p> </p>\n\n<p><strong>Travelling as a professional photographer</strong></p>\n\n<ul>\n\t<li>travelled widely in Quebec and Ontario in 1870s and 1880s</li>\n\t<li>took many trips along eastern rivers in a <strong>[12] ______</strong></li>\n\t<li>worked for Canadian railways between 1875 and 1897</li>\n\t<li>worked for CPR in 1885 and photographed the <strong>[13] ______</strong> and the railway at Rogers Pass</li>\n</ul>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Alexander Henderson (1831-1913)</strong></span></p><p><em>Born in Scotland, Henderson emigrated to Canada in 1855 and became a well-known landscape photographer</em></p><p>Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant. His grandfather, also called Alexander, had founded the family business, and later became the first chairman of the National Bank of Scotland. The family had extensive landholdings in Scotland. Besides its residence in Edinburgh, it owned Press Estate, 650 acres of farmland about 35 miles southeast of the city. &#x27;The family often stayed at Press Castle, the large mansion on the northern edge of the property, and Alexander spent much of his childhood in the area, playing on the beach near Eyemouth or fishing in the streams nearby.</p><p>Even after he went to school at Murcheston Academy on the outskirts of Edinburgh, Henderson returned to Press at weekends. In 1849 he began a three-year apprenticeship to become an accountant. Although he never liked the prospect of a business career, he stayed with it to please his family. In October 1855, however, he emigrated to Canada with his wife Agnes Elder Roberts on and they settled in Montreal.</p><p>Henderson learned photography in Montreal around the year 1857 and quickly took it up as a serious amateur. He became a personal friend and colleague of the Scottish—Canadian photographer William Notman. The two men made a photographic excursion to Niagara Falls in 1860 and they cooperated on experiments with magnesium flares as a source of artificial light in 1865. They belonged to the same societies and were among the founding members of the Art Association of Montreal. Henderson acted as chairman of the association&#x27;s first meeting, which was held in Notman&#x27;s studio on 11 January 1860.</p><p>In spite of their friendship, their styles of photography were quite different. While Notman&#x27;s landscapes were noted for their bold realism, Henderson for the first 20 years of his career produced romantic images, showing the strong influence of the British landscape tradition. His artistic and technical progress was rapid and in 1865 he published his first major collection of landscape photographs. The publication had limited circulation (only seven copies have ever been found), and was called Canadian Views and Studies. The contents of each copy vary significantly and have proved a useful source for evaluating Henderson&#x27;s early work.</p><p>In 1866, he gave up his business to open a photographic studio, advertising himself as a portrait and landscape photographer. From about 1870 he dropped portraiture to specialize in landscape photography and other views. His numerous photographs of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream. There was sufficient demand for these types of scenes and others he took depicting the lumber trade, steamboats and waterfalls to enable him to make a living. There was little competing hobby or amateur photography before the late1880s because of the time-consuming techniques involved and the weight of the equipment. People wanted to buy photographs as souvenirs of a trip or as gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums.</p><p>Henderson frequently exhibited his photographs in Montreal and abroad, in London, Edinburgh, Dublin, Paris, New York, and Philadelphia. He met with greater success in 1877 and 1878 in New York when he won first prizes in the exhibition held by E and H T Anthony and Company for landscapes using the Lambertype process. In 1878 his work won second prize at the world exhibition in Paris.</p><p>In the 1870s and 1880s Henderson travelled widely throughout Quebec and Ontario, in Canada, documenting the major cities of the two provinces and many of the villages in Quebec. He was especially fond of the wilderness and often travelled by canoe on the Blanche, du Lièvre, and other noted eastern rivers. He went on several occasions to the Maritimes and in 1872 he sailed by yacht along the lower north shore of the St Lawrence River. That same year, while in the lower St Lawrence River region, he took some photographs of the construction of the Intercolonial Railway. This undertaking led in 1875 to a commission from the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax. Commissions from other railways followed. In 1876 he photographed bridges on the Quebec, Montreal, Ottawa and Occidental Railway between Montreal and Ottawa. In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he took photographs of the mountains and the progress of construction.</p><p>In 1892 Henderson accepted a fulltime position with the CPR as manager of a photographic department which he was to set up and administer. His duties included spending four months in the field each year. That summer he made his second trip west, photographing extensively along the railway line as far as Victoria. He continued in this post until 1897, when he retired completely from photography.</p><p>When Henderson died in 1913, his huge collection of glass negatives was stored in the basement of his house. Today collections of his work are held at the National Archives of Canada, Ottawa, and the McCord Museum of Canadian History, Montreal.</p>"
+}

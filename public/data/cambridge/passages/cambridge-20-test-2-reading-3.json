@@ -1,0 +1,346 @@
+{
+  "id": "cambridge-20-test-2-reading-3",
+  "title": "Invasion of the Robot Umpires",
+  "titleCn": "Invasion of the Robot Umpires",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 2
+  },
+  "sourceQuestionId": "8559",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8559",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Invasion of the Robot Umpires"
+    },
+    {
+      "label": "2",
+      "text": "A few years ago, Fred DeJesus from Brooklyn, New York became the first umpire in a minor league baseball game to use something called the Automated Ball-Strike System (ABS), often referred to as the ‘robo-umpire’. Instead of making any judgments himself about a strike*, DeJesus had decisions fed to him through an earpiece, connected to a modified missile-tracking system. The contraption looked like a large black pizza box with one glowing green eye; it was mounted above the press stand."
+    },
+    {
+      "label": "3",
+      "text": "Major League Baseball (MLB), who had commissioned the system, wanted human umpires to announce the calls, just as they would have done in the past. When the first pitch came in, a recorded voice told DeJesus it was a strike. Previously, calling a strike was a judgment call on the part of the umpire. Even if the batter does not hit the ball, a pitch that passes through the ‘strike zone’ (an imaginary zone about seventeen inches wide, stretching from the batter’s knees to the middle of his chest) is considered a strike. During that first game, when DeJesus announced calls, there was no heckling and no shouted disagreement. Nobody said a word."
+    },
+    {
+      "label": "4",
+      "text": "For a hundred and fifty years or so, the strike zone has been the game’s animating force—countless arguments between a team’s manager and the umpire have taken place over its boundaries and whether a ball had crossed through it. The rules of play have evolved in various stages. Today, everyone knows that you may scream your disagreement in an umpire’s face, but you must never shout personal abuse at them or touch them. That’s a no-no. When the robo-umpires came, however, the arguments stopped."
+    },
+    {
+      "label": "5",
+      "text": "During the first robo-umpire season, players complained about some strange calls. In response, MLB decided to tweak the dimensions of the zone, and the following year the consensus was that ABS is profoundly consistent. MLB says the device is near-perfect, precise to within fractions of an inch. “It’ll reduce controversy in the game, and be good for the game,” says Rob Manfred, who is Commissioner for MLB. But the question is whether controversy is worth reducing, or whether it is the sign of a human hand."
+    },
+    {
+      "label": "6",
+      "text": "A human, at least, yells back. When I spoke with Frank Viola, a coach for a North Carolina team, he said that ABS works as designed, but that it was also unforgiving and pedantic, almost legalistic. “Manfred is a lawyer,” Viola noted. Some pitchers have complained that, compared with a human’s, the robot’s strike zone seems too precise. Viola was once a major-league player himself. When he was pitching, he explained, umpires rewarded skill. “Throw it where you aimed, and it would be a strike, even if it was an inch or two outside. There was a dialogue between pitcher and umpire.”"
+    },
+    {
+      "label": "7",
+      "text": "The executive tasked with running the experiment for MLB is Morgan Sword, who’s in charge of baseball operations. According to Sword, ABS was part of a larger project to make baseball more exciting since executives are terrified of losing younger fans, as has been the case with horse racing and boxing. He explains how they began the process by asking fans what version of baseball they found most exciting. The results showed that everyone wanted more action: more hits, more defense, more baserunning. This type of baseball essentially hasn’t existed since the 1960s, when the hundred-mile-an-hour fastball, which is difficult to hit and control, entered the game. It flattened the game into strikeouts, walks, and home runs—a type of play lacking much action."
+    },
+    {
+      "label": "8",
+      "text": "Sword’s team brainstormed potential fixes. Any rule that existed, they talked about changing—from changing the bats to changing the geometry of the field. But while all of these were ruled out as potential fixes, ABS was seen as a perfect vehicle for change. According to Sword, once you get the technology right, you can load any strike zone you want into the system. “It might be a triangle, or a blob, or something shaped like Texas. Over time, as baseball evolves, ABS can allow the zone to change with it.”"
+    },
+    {
+      "label": "9",
+      "text": "“In the past twenty years, sports have moved away from judgment calls. Soccer has Video Assistant Referees (for offside decisions, for example). Tennis has Hawk-Eye (for line calls, for example). For almost a decade, baseball has used instant replay on the base paths. This is widely liked, even if the precision can sometimes cause problems. But these applications deal with something physical: bases, lines, goals. The boundaries of action are precise, delineated like the keys of a piano. This is not the case with ABS and the strike zone. Historically, a certain discretion has been appreciated.”"
+    },
+    {
+      "label": "10",
+      "text": "I decided to email Alva Noë, a professor at Berkeley University and a baseball fan, for his opinion. “Hardly a day goes by that I don’t wake up and run through the reasons that this [robo-umpires] is such a terrible idea,” he replied. He later told me, “This is part of a movement to use algorithms to take the hard choices of living out of life.” Perhaps he’s right. We watch baseball to kill time, not to maximize it. Some players I have met take a dissenting stance toward the robots too, believing that accuracy is not the answer. According to Joe Russo, who plays for a New Jersey team, “With technology, people just want everything to be perfect. That’s not reality. I think perfect would be weird. Your teams are always winning, work is always just great, there’s always money in your pocket, your car never breaks down. What is there to talk about?”"
+    },
+    {
+      "label": "11",
+      "text": "* strike: a strike is when the batter swings at a ball and misses or when the batter does not swing at a ball that passes through the strike zone."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "instruction": "Questions 27–32\n\nDo the following statements agree with the claims of the writer in Reading Passage 3?\n\nYES if the statement agrees with the claims of the writer\n\nNO if the statement contradicts the claims of the writer\n\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "When DeJesus first used ABS, he shared decision-making about strikes with it.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8559_206096",
+          "explanation": "译文：当DeJesus第一次使用ABS时，他与其共同作出关于好球与否的裁定。\n\n本题的定位易如反掌，因为全文第一句话就是在叙述这件事：DeJesus是在棒球比赛中使用了ABS系统的第一人。不过，这句话本身并不足以帮助考生判定题干完整内容，需再向下多看一句，才能在第二句话里看到“DeJesus不自己做决策，而是直接通过耳机接收指令即可”。这与题干中的shared decision-making形成了直接的矛盾抵触，答案应为：NO。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "MLB considered it necessary to amend the size of the strike zone when criticisms were received from players.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8559_190690",
+          "explanation": "译文：当收到来自运动员们的批评时，MLB认为有必要调整好球区的尺寸范围。\n\n本题的难度可能主要在于定位而非理解文意。考生若是认为大写信息MLB可以帮助自己轻松找到出处，一定会大失所望：因为MLB第一次出现是在第二段段首，然而接下来在第二和三整整两个自然段中，都不曾出现与题干表述相关的内容。考生若是没有使用平行阅读涵盖所有题型的解答，就有可能在这个过程中产生犹豫摇摆，怀疑自己漏看了信息而过早回读、浪费大量时间；反之，如果采用了平行阅读，则在寻找本题信息时，同时能遇到第33至37题的答案，可以更心平气和地逐段推进，直至在第四段的第一二句话里看到：启用机器裁判的第一季里，运动员提出了抱怨；而MLB做出了响应、调整了好球区的维度。这正是在同义表述题干内容，答案为：YES。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "MLB is keen to justify the money spent on improving the accuracy of ABS’s calculations.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8559_732506",
+          "explanation": "译文：MLB渴望能证明花在提升ABS测算准确度上的钱是值得的。\n\n本题之所以不容易很快敲定答案，主要原因其实在于定位：上一题的出处在第四段开头，下一题的出处则在第六段结尾，而本题偏偏是一条不曾在原文中明确被提及的信息。阅读文章中常常会有这样“精妙”的设计来增加考生的答题难度，但只要考生不急不躁、采用平行阅读依次对比原文和所有题型，就终能在解答了下一题还依然没有看到本题相关内容时，有更大的把握确认本题答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "The hundred-mile-an-hour fastball led to a more exciting style of play.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8559_293542",
+          "explanation": "译文：每小时百里快球带来了一种更加激动人心的赛事风格。\n\n本题的定位说难不难，说易却也没有那么易。题干中的hundred-mile-an-hour fastball这几个词一模一样地出现在了第六段的倒数第二句话里，所以定位不算难；然而，考生如果只看这句语法结构略复杂的话本身，只能得到“this type的比赛从1960年代起就不复存在了”这个信息，至于到底是哪个类型的比赛，是不是更激动人心？则还需向上一句乃至上上一句阅读寻找。因此，反而不如一开始就抱定平行阅读的方法、按照文章的正常行文顺序依次读下来，就能更加顺利成章地理解到：MLB所做的调整变化还是为了留住年轻观众，而他们先前所做的调查是“年轻人认为包含更多运动动作的比赛才是最激动人心的”，接下来倒数第二句补刀说“这类比赛已经不复存在”，综合起来也就是说，百里快球其实消灭了那种更激动人心的比赛，这与题干表述形成了矛盾抵触，因而答案为：NO。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "The differing proposals for alterations to the baseball bat led to fierce debate on Sword’s team.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8559_198467",
+          "explanation": "译文：对棒球球棒作出改变的各种不同提议引发了Sword团队的激烈辩论。\n\n本题的难度也主要来自于定位，因为这个信息也不曾在原文中被提及过：虽然球棒bat这个词确实原样出现在了第七段的第二句话里，但无论本句还是后几句都再没有跟进描述是否有关于球棒改动的不同提案、或者是否引发了Sword团队的激烈讨论。但是，考生需定位到下一题后才能最终确认这一点。不过，由于下一题的位置距离上一题并不算远，所以考生无需纠结太久就能确认本题答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "ABS makes changes to the shape of the strike zone feasible.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8559_301844",
+          "explanation": "译文：ABS令人们有可能对好球区的形状作出各种改变。\n\n本题的难度首先来自于题干本身的准确理解：须知此句的主干结构是“ABS makes ... feasible”而非“ABS makes changes to”，也就是说，由于有了ABS，才有可能对好球区的形状作出各种改变，这正是第七段第三句话所表达的内容。不过，这句话只是笼统地提到了change而没有具体说明是哪些方面的change；考生仍需再向后阅读两句话，直到在第五句里明确看到了几种不同形状，就能有更大把握确认答案应为：YES。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 33–37\n\nComplete the summary using the list of phrases, A–H, below.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8559_771479",
+          "explanation": "33. 译文：即使是在推出了ABS之后，MLB仍然想让人类裁判来大声喊出裁决结果，就像他们在____那样。\n\n本题的定位和理解难度都不算高，考生可以直接凭借题干中的human umpires在第二段第一句里找到一模一样的信息，看懂了本句就能知晓，之所以还想借由人类裁判之口宣布机器裁判的决定，是因为这样就能“还像过去一样”，对比词库可知对应的选项答案应为：F former roles 先前的角色。\n\n34. 译文：裁判的工作一度曾需要对一个球是否为好球作出____。\n\n本题的原文表述进行了比较多的同义替换，例如题干中的at one time被替换成了原文的previously，umpire’s job则替换成了on the part of the umpire。由于这类替换并非是最基础的“词对词的互换”而是语义表达上的对应，所以更需要考生耐心逐句看懂意思而非机械寻找同义词对应。不过，本题距离上一题并不远，只要能耐心看到这里，考生就不难看出“先前的裁判工作中包含对好球的判定”这个意思，再对比词库可得答案应为：D subjective assessment 主观评估。\n\n35. 译文：当一个球并未被击球手击中、且穿过了大致从击球手膝盖到其胸部的一个____时，就会被视为好球。\n\n本题的定位就直白多了，题干中的from the batter’s knee to his chest这部分信息几乎是全文原样出现在了第二段的第四句话里，考生只需看懂本句意思，明白这个区域就叫做“好球区”，对比词库就不难确定答案应为：H perceived area 特定区域。\n\n36. 译文：在过去，关于好球裁定的____并不少见，但时至今日，每个人都认可绝对不可以推搡裁判。\n\n本题的定位略有一些“淘气”，因为在原文中，过去与现在的对比体现在第三段从第一到第三的三句话里，考生最好能完整阅读这个部分，看出这几句话连缀起来是在说：“过去关于是不是好球在球队经理与裁判之间发生过数不清的争执；棒球规则几经变化；今天所有人都知道可以表达异议但不能肢体接触裁判”，然后再对比词库各选项，可知答案应为：B numerous disputes 数不清的争议。\n\n37. 译文：然而，有一个区别在于，在DeJesus使用ABS的第一局比赛中，迎接好球裁定的是____。\n\n本题的解答提示其实在正文中出现了两次。第一次是在第二段最后一句话，在描述完毕第一次使用ABS的细节后，文中说nobody said a word，此时其实就已经提示了考生答案应为total silence；不过，由于这个出处相当于乱序地出现在了第36题之前，所以考生也可以靠第二次出现对应答案的原文处来解题，也就是在第三段最后一句话里：前文交代了棒球比赛现场的从前和现在后，提出了“当机器裁判入驻后，前面描述过的那些争论都停止了”，也就是大家都不再对裁定结果表达异议了。由此可知答案应为：G total silence 完全的沉默。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Answer for gap 34.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8559_783986",
+          "explanation": "33. 译文：即使是在推出了ABS之后，MLB仍然想让人类裁判来大声喊出裁决结果，就像他们在____那样。\n\n本题的定位和理解难度都不算高，考生可以直接凭借题干中的human umpires在第二段第一句里找到一模一样的信息，看懂了本句就能知晓，之所以还想借由人类裁判之口宣布机器裁判的决定，是因为这样就能“还像过去一样”，对比词库可知对应的选项答案应为：F former roles 先前的角色。\n\n34. 译文：裁判的工作一度曾需要对一个球是否为好球作出____。\n\n本题的原文表述进行了比较多的同义替换，例如题干中的at one time被替换成了原文的previously，umpire’s job则替换成了on the part of the umpire。由于这类替换并非是最基础的“词对词的互换”而是语义表达上的对应，所以更需要考生耐心逐句看懂意思而非机械寻找同义词对应。不过，本题距离上一题并不远，只要能耐心看到这里，考生就不难看出“先前的裁判工作中包含对好球的判定”这个意思，再对比词库可得答案应为：D subjective assessment 主观评估。\n\n35. 译文：当一个球并未被击球手击中、且穿过了大致从击球手膝盖到其胸部的一个____时，就会被视为好球。\n\n本题的定位就直白多了，题干中的from the batter’s knee to his chest这部分信息几乎是全文原样出现在了第二段的第四句话里，考生只需看懂本句意思，明白这个区域就叫做“好球区”，对比词库就不难确定答案应为：H perceived area 特定区域。\n\n36. 译文：在过去，关于好球裁定的____并不少见，但时至今日，每个人都认可绝对不可以推搡裁判。\n\n本题的定位略有一些“淘气”，因为在原文中，过去与现在的对比体现在第三段从第一到第三的三句话里，考生最好能完整阅读这个部分，看出这几句话连缀起来是在说：“过去关于是不是好球在球队经理与裁判之间发生过数不清的争执；棒球规则几经变化；今天所有人都知道可以表达异议但不能肢体接触裁判”，然后再对比词库各选项，可知答案应为：B numerous disputes 数不清的争议。\n\n37. 译文：然而，有一个区别在于，在DeJesus使用ABS的第一局比赛中，迎接好球裁定的是____。\n\n本题的解答提示其实在正文中出现了两次。第一次是在第二段最后一句话，在描述完毕第一次使用ABS的细节后，文中说nobody said a word，此时其实就已经提示了考生答案应为total silence；不过，由于这个出处相当于乱序地出现在了第36题之前，所以考生也可以靠第二次出现对应答案的原文处来解题，也就是在第三段最后一句话里：前文交代了棒球比赛现场的从前和现在后，提出了“当机器裁判入驻后，前面描述过的那些争论都停止了”，也就是大家都不再对裁定结果表达异议了。由此可知答案应为：G total silence 完全的沉默。",
+          "promptHtml": "Answer for gap 34."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Answer for gap 35.",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8559_709657",
+          "explanation": "33. 译文：即使是在推出了ABS之后，MLB仍然想让人类裁判来大声喊出裁决结果，就像他们在____那样。\n\n本题的定位和理解难度都不算高，考生可以直接凭借题干中的human umpires在第二段第一句里找到一模一样的信息，看懂了本句就能知晓，之所以还想借由人类裁判之口宣布机器裁判的决定，是因为这样就能“还像过去一样”，对比词库可知对应的选项答案应为：F former roles 先前的角色。\n\n34. 译文：裁判的工作一度曾需要对一个球是否为好球作出____。\n\n本题的原文表述进行了比较多的同义替换，例如题干中的at one time被替换成了原文的previously，umpire’s job则替换成了on the part of the umpire。由于这类替换并非是最基础的“词对词的互换”而是语义表达上的对应，所以更需要考生耐心逐句看懂意思而非机械寻找同义词对应。不过，本题距离上一题并不远，只要能耐心看到这里，考生就不难看出“先前的裁判工作中包含对好球的判定”这个意思，再对比词库可得答案应为：D subjective assessment 主观评估。\n\n35. 译文：当一个球并未被击球手击中、且穿过了大致从击球手膝盖到其胸部的一个____时，就会被视为好球。\n\n本题的定位就直白多了，题干中的from the batter’s knee to his chest这部分信息几乎是全文原样出现在了第二段的第四句话里，考生只需看懂本句意思，明白这个区域就叫做“好球区”，对比词库就不难确定答案应为：H perceived area 特定区域。\n\n36. 译文：在过去，关于好球裁定的____并不少见，但时至今日，每个人都认可绝对不可以推搡裁判。\n\n本题的定位略有一些“淘气”，因为在原文中，过去与现在的对比体现在第三段从第一到第三的三句话里，考生最好能完整阅读这个部分，看出这几句话连缀起来是在说：“过去关于是不是好球在球队经理与裁判之间发生过数不清的争执；棒球规则几经变化；今天所有人都知道可以表达异议但不能肢体接触裁判”，然后再对比词库各选项，可知答案应为：B numerous disputes 数不清的争议。\n\n37. 译文：然而，有一个区别在于，在DeJesus使用ABS的第一局比赛中，迎接好球裁定的是____。\n\n本题的解答提示其实在正文中出现了两次。第一次是在第二段最后一句话，在描述完毕第一次使用ABS的细节后，文中说nobody said a word，此时其实就已经提示了考生答案应为total silence；不过，由于这个出处相当于乱序地出现在了第36题之前，所以考生也可以靠第二次出现对应答案的原文处来解题，也就是在第三段最后一句话里：前文交代了棒球比赛现场的从前和现在后，提出了“当机器裁判入驻后，前面描述过的那些争论都停止了”，也就是大家都不再对裁定结果表达异议了。由此可知答案应为：G total silence 完全的沉默。",
+          "promptHtml": "Answer for gap 35."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Answer for gap 36.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8559_282259",
+          "explanation": "33. 译文：即使是在推出了ABS之后，MLB仍然想让人类裁判来大声喊出裁决结果，就像他们在____那样。\n\n本题的定位和理解难度都不算高，考生可以直接凭借题干中的human umpires在第二段第一句里找到一模一样的信息，看懂了本句就能知晓，之所以还想借由人类裁判之口宣布机器裁判的决定，是因为这样就能“还像过去一样”，对比词库可知对应的选项答案应为：F former roles 先前的角色。\n\n34. 译文：裁判的工作一度曾需要对一个球是否为好球作出____。\n\n本题的原文表述进行了比较多的同义替换，例如题干中的at one time被替换成了原文的previously，umpire’s job则替换成了on the part of the umpire。由于这类替换并非是最基础的“词对词的互换”而是语义表达上的对应，所以更需要考生耐心逐句看懂意思而非机械寻找同义词对应。不过，本题距离上一题并不远，只要能耐心看到这里，考生就不难看出“先前的裁判工作中包含对好球的判定”这个意思，再对比词库可得答案应为：D subjective assessment 主观评估。\n\n35. 译文：当一个球并未被击球手击中、且穿过了大致从击球手膝盖到其胸部的一个____时，就会被视为好球。\n\n本题的定位就直白多了，题干中的from the batter’s knee to his chest这部分信息几乎是全文原样出现在了第二段的第四句话里，考生只需看懂本句意思，明白这个区域就叫做“好球区”，对比词库就不难确定答案应为：H perceived area 特定区域。\n\n36. 译文：在过去，关于好球裁定的____并不少见，但时至今日，每个人都认可绝对不可以推搡裁判。\n\n本题的定位略有一些“淘气”，因为在原文中，过去与现在的对比体现在第三段从第一到第三的三句话里，考生最好能完整阅读这个部分，看出这几句话连缀起来是在说：“过去关于是不是好球在球队经理与裁判之间发生过数不清的争执；棒球规则几经变化；今天所有人都知道可以表达异议但不能肢体接触裁判”，然后再对比词库各选项，可知答案应为：B numerous disputes 数不清的争议。\n\n37. 译文：然而，有一个区别在于，在DeJesus使用ABS的第一局比赛中，迎接好球裁定的是____。\n\n本题的解答提示其实在正文中出现了两次。第一次是在第二段最后一句话，在描述完毕第一次使用ABS的细节后，文中说nobody said a word，此时其实就已经提示了考生答案应为total silence；不过，由于这个出处相当于乱序地出现在了第36题之前，所以考生也可以靠第二次出现对应答案的原文处来解题，也就是在第三段最后一句话里：前文交代了棒球比赛现场的从前和现在后，提出了“当机器裁判入驻后，前面描述过的那些争论都停止了”，也就是大家都不再对裁定结果表达异议了。由此可知答案应为：G total silence 完全的沉默。",
+          "promptHtml": "Answer for gap 36."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Answer for gap 37.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8559_664830",
+          "explanation": "33. 译文：即使是在推出了ABS之后，MLB仍然想让人类裁判来大声喊出裁决结果，就像他们在____那样。\n\n本题的定位和理解难度都不算高，考生可以直接凭借题干中的human umpires在第二段第一句里找到一模一样的信息，看懂了本句就能知晓，之所以还想借由人类裁判之口宣布机器裁判的决定，是因为这样就能“还像过去一样”，对比词库可知对应的选项答案应为：F former roles 先前的角色。\n\n34. 译文：裁判的工作一度曾需要对一个球是否为好球作出____。\n\n本题的原文表述进行了比较多的同义替换，例如题干中的at one time被替换成了原文的previously，umpire’s job则替换成了on the part of the umpire。由于这类替换并非是最基础的“词对词的互换”而是语义表达上的对应，所以更需要考生耐心逐句看懂意思而非机械寻找同义词对应。不过，本题距离上一题并不远，只要能耐心看到这里，考生就不难看出“先前的裁判工作中包含对好球的判定”这个意思，再对比词库可得答案应为：D subjective assessment 主观评估。\n\n35. 译文：当一个球并未被击球手击中、且穿过了大致从击球手膝盖到其胸部的一个____时，就会被视为好球。\n\n本题的定位就直白多了，题干中的from the batter’s knee to his chest这部分信息几乎是全文原样出现在了第二段的第四句话里，考生只需看懂本句意思，明白这个区域就叫做“好球区”，对比词库就不难确定答案应为：H perceived area 特定区域。\n\n36. 译文：在过去，关于好球裁定的____并不少见，但时至今日，每个人都认可绝对不可以推搡裁判。\n\n本题的定位略有一些“淘气”，因为在原文中，过去与现在的对比体现在第三段从第一到第三的三句话里，考生最好能完整阅读这个部分，看出这几句话连缀起来是在说：“过去关于是不是好球在球队经理与裁判之间发生过数不清的争执；棒球规则几经变化；今天所有人都知道可以表达异议但不能肢体接触裁判”，然后再对比词库各选项，可知答案应为：B numerous disputes 数不清的争议。\n\n37. 译文：然而，有一个区别在于，在DeJesus使用ABS的第一局比赛中，迎接好球裁定的是____。\n\n本题的解答提示其实在正文中出现了两次。第一次是在第二段最后一句话，在描述完毕第一次使用ABS的细节后，文中说nobody said a word，此时其实就已经提示了考生答案应为total silence；不过，由于这个出处相当于乱序地出现在了第36题之前，所以考生也可以靠第二次出现对应答案的原文处来解题，也就是在第三段最后一句话里：前文交代了棒球比赛现场的从前和现在后，提出了“当机器裁判入驻后，前面描述过的那些争论都停止了”，也就是大家都不再对裁定结果表达异议了。由此可知答案应为：G total silence 完全的沉默。",
+          "promptHtml": "Answer for gap 37."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "pitch boundary"
+        },
+        {
+          "value": "B",
+          "text": "numerous disputes"
+        },
+        {
+          "value": "C",
+          "text": "team tactics"
+        },
+        {
+          "value": "D",
+          "text": "subjective assessment"
+        },
+        {
+          "value": "E",
+          "text": "widespread approval"
+        },
+        {
+          "value": "F",
+          "text": "former roles"
+        },
+        {
+          "value": "G",
+          "text": "total silence"
+        },
+        {
+          "value": "H",
+          "text": "perceived area"
+        }
+      ],
+      "contextHtml": "<p><b>Calls by the umpire</b></p>\n\n<p>Even after ABS was developed, MLB still wanted human umpires to shout out decisions as they had in their <strong>[33] ______</strong>. The umpire’s job had, at one time, required a <strong>[34] ______</strong> about whether a ball was a strike. A ball is considered a strike when the batter does not hit it and it crosses through a <strong>[35] ______</strong> extending approximately from the batter’s knee to his chest.</p>\n\n<p>In the past, <strong>[36] ______</strong> over strike calls were not uncommon, but today everyone accepts the complete ban on pushing or shoving the umpire. One difference, however, is that during the first game DeJesus used ABS, strike calls were met with <strong>[37] ______</strong> .</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "choice",
+      "instruction": "Questions 38–40\n\nChoose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "What does the writer suggest about ABS in the fifth paragraph?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8559_808659",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is bound to make key decisions that are wrong."
+            },
+            {
+              "value": "B",
+              "text": "It may reduce some of the appeal of the game."
+            },
+            {
+              "value": "C",
+              "text": "It will lead to the disappearance of human umpires."
+            },
+            {
+              "value": "D",
+              "text": "It may increase calls for the rules of baseball to be changed."
+            }
+          ],
+          "explanation": "译文：作者在第五段里关于ABS提出了什么看法？\n\n虽然题干利落地告诉考生要去第五段中阅读解题，然而考生却可能需要分几次看完一整段内容、过程中反复对比四个选项，才能最终匹配到最佳答案。关于本段的完整内容，可以参考译文部分；综合全段表达的大意是：ABS虽然测算更精准，但却也因此而严苛到不近人情，不像人类裁判那样即使稍有偏离也会奖励好的表现和技术。从这样的段落行文线索可知，正确答案应为：\n\nB项：It may reduce some of the appeal of the game.\n\n译文：它可能会减少这项运动的一些魅力。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Morgan Sword says that the introduction of ABS",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8559_526377",
+          "options": [
+            {
+              "value": "A",
+              "text": "was regarded as an experiment without a guaranteed outcome."
+            },
+            {
+              "value": "B",
+              "text": "was intended to keep up with developments in other sports."
+            },
+            {
+              "value": "C",
+              "text": "was a response to changing attitudes about the role of sport."
+            },
+            {
+              "value": "D",
+              "text": "was an attempt to ensure baseball retained a young audience."
+            }
+          ],
+          "explanation": "译文：Morgan Sword指出ABS的引入？\n\n大写人名Morgan Sword可以帮助考生快速定位到第六段的第一句话，而考生在看懂了前两句话之后，也可以从其中的表达“执委会非常害怕会像赛马和拳击运动那样丢失年轻观众”约莫匹配到正确答案项。但是选择题的一个难点就在于，如果没有对比过定位段的全部内容，考生未必能确认在看过几句之后的选择就一定到最后也还是最佳选项，因此想要高分的更稳妥做法还是完整阅读段意、排除其他选项，最终得出答案应为：\n\nD项：was an attempt to ensure baseball retained a young audience.\n\n译文：是一种确保棒球能留住年轻观众的尝试。\n\nA项：was regarded as an experiment without a guaranteed outcome.\n\n译文：被视为一个未必能保证有结果的试验。\n\n第六段里虽然确实出现了experiment这个单词，然而整个题干句的意思却是完全没有被提及过的信息。如果对标判断题的出题逻辑的话，这就是一个妥妥的带有一定干扰性的NOT GIVEN选项。\n\nB项：was intended to keep up with developments in other sports.\n\n译文：旨在跟上其他体育领域中的发展。\n\n虽然本段中确实提到了赛马和拳击这两个other sports，但却既没有说到其发展，也没有提到棒球也要紧随其脚步。\n\nC项：was a response to changing attitudes about the role of sport.\n\n译文：是对人们对体育所扮演角色的变化着的态度作出的回应。\n\n第六段里并没有提到人们对体育应当扮演何种角色有着与以往不同的、变化着的态度。"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Why does the writer include the views of Noë and Russo?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8559_335006",
+          "options": [
+            {
+              "value": "A",
+              "text": "to show that attitudes to technology vary widely"
+            },
+            {
+              "value": "B",
+              "text": "to argue that people have unrealistic expectations of sport"
+            },
+            {
+              "value": "C",
+              "text": "to indicate that accuracy is not the same thing as enjoyment"
+            },
+            {
+              "value": "D",
+              "text": "to suggest that the number of baseball fans needs to increase"
+            }
+          ],
+          "explanation": "译文：作者为什么要列举Noë和Russo的观点？\n\n对这两位观点的叙述，分别占据了全文最后一段的前半部分和后半部分。所以，考生不如从一开始就抱定“平行阅读”的原则，直接从这一段的第一句话开始看起，大致读懂这二人的评论就不难看出，他们都对机器裁判持否定看法，这并非因为机器裁判在技术层面上有多大问题，而恰恰是因为过于精准而牺牲掉了比赛的一些真实感和趣味性。由此，不难锁定答案应为：\n\nC项：to indicate that accuracy is not the same thing as enjoyment\n\n译文：为了指出准确性与娱乐性并不相同\n\nA项：to show that attitudes to technology vary widely\n\n译文：为了显示对待技术的态度可以因人而异有极大不同\n\n这两位点评的重点都在于技术破坏了比赛的观赏性，而非直接表达自己对待技术本身的看法，因而本项的干扰性并不大。\n\nB项：to argue that people have unrealistic expectations of sport\n\n译文：为了指出人们对体育有着不切实际的期待\n\n这个选项的意思表达就与段意风马牛不相及了。\n\nD项：to suggest that the number of baseball fans needs to increase\n\n译文：为了提议棒球爱好者的数量需要增加\n\n本项与B项类似，属于完全不曾在最后一段里被提及到的信息。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>Invasion of the Robot Umpires</b></span></p><p>A few years ago, Fred DeJesus from Brooklyn, New York became the first umpire in a minor league baseball game to use something called the Automated Ball-Strike System (ABS), often referred to as the ‘robo-umpire’. Instead of making any judgments himself about a strike*, DeJesus had decisions fed to him through an earpiece, connected to a modified missile-tracking system. The contraption looked like a large black pizza box with one glowing green eye; it was mounted above the press stand.</p><p>Major League Baseball (MLB), who had commissioned the system, wanted human umpires to announce the calls, just as they would have done in the past. When the first pitch came in, a recorded voice told DeJesus it was a strike. Previously, calling a strike was a judgment call on the part of the umpire. Even if the batter does not hit the ball, a pitch that passes through the ‘strike zone’ (an imaginary zone about seventeen inches wide, stretching from the batter’s knees to the middle of his chest) is considered a strike. During that first game, when DeJesus announced calls, there was no heckling and no shouted disagreement. Nobody said a word.</p><p>For a hundred and fifty years or so, the strike zone has been the game’s animating force—countless arguments between a team’s manager and the umpire have taken place over its boundaries and whether a ball had crossed through it. The rules of play have evolved in various stages. Today, everyone knows that you may scream your disagreement in an umpire’s face, but you must never shout personal abuse at them or touch them. That’s a no-no. When the robo-umpires came, however, the arguments stopped.</p><p>During the first robo-umpire season, players complained about some strange calls. In response, MLB decided to tweak the dimensions of the zone, and the following year the consensus was that ABS is profoundly consistent. MLB says the device is near-perfect, precise to within fractions of an inch. “It’ll reduce controversy in the game, and be good for the game,” says Rob Manfred, who is Commissioner for MLB. But the question is whether controversy is worth reducing, or whether it is the sign of a human hand.</p><p>A human, at least, yells back. When I spoke with Frank Viola, a coach for a North Carolina team, he said that ABS works as designed, but that it was also unforgiving and pedantic, almost legalistic. “Manfred is a lawyer,” Viola noted. Some pitchers have complained that, compared with a human’s, the robot’s strike zone seems too precise. Viola was once a major-league player himself. When he was pitching, he explained, umpires rewarded skill. “Throw it where you aimed, and it would be a strike, even if it was an inch or two outside. There was a dialogue between pitcher and umpire.”</p><p>The executive tasked with running the experiment for MLB is Morgan Sword, who’s in charge of baseball operations. According to Sword, ABS was part of a larger project to make baseball more exciting since executives are terrified of losing younger fans, as has been the case with horse racing and boxing. He explains how they began the process by asking fans what version of baseball they found most exciting. The results showed that everyone wanted more action: more hits, more defense, more baserunning. This type of baseball essentially hasn’t existed since the 1960s, when the hundred-mile-an-hour fastball, which is difficult to hit and control, entered the game. It flattened the game into strikeouts, walks, and home runs—a type of play lacking much action.</p><p>Sword’s team brainstormed potential fixes. Any rule that existed, they talked about changing—from changing the bats to changing the geometry of the field. But while all of these were ruled out as potential fixes, ABS was seen as a perfect vehicle for change. According to Sword, once you get the technology right, you can load any strike zone you want into the system. “It might be a triangle, or a blob, or something shaped like Texas. Over time, as baseball evolves, ABS can allow the zone to change with it.”</p><p>“In the past twenty years, sports have moved away from judgment calls. Soccer has Video Assistant Referees (for offside decisions, for example). Tennis has Hawk-Eye (for line calls, for example). For almost a decade, baseball has used instant replay on the base paths. This is widely liked, even if the precision can sometimes cause problems. But these applications deal with something physical: bases, lines, goals. The boundaries of action are precise, delineated like the keys of a piano. This is not the case with ABS and the strike zone. Historically, a certain discretion has been appreciated.”</p><p>I decided to email Alva Noë, a professor at Berkeley University and a baseball fan, for his opinion. “Hardly a day goes by that I don’t wake up and run through the reasons that this [robo-umpires] is such a terrible idea,” he replied. He later told me, “This is part of a movement to use algorithms to take the hard choices of living out of life.” Perhaps he’s right. We watch baseball to kill time, not to maximize it. Some players I have met take a dissenting stance toward the robots too, believing that accuracy is not the answer. According to Joe Russo, who plays for a New Jersey team, “With technology, people just want everything to be perfect. That’s not reality. I think perfect would be weird. Your teams are always winning, work is always just great, there’s always money in your pocket, your car never breaks down. What is there to talk about?”</p><p><span>* strike: a strike is when the batter swings at a ball and misses or when the batter does not swing at a ball that passes through the strike zone.</span></p>"
+}

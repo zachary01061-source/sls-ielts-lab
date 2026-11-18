@@ -1,0 +1,277 @@
+{
+  "id": "cambridge-12-test-6-reading-3",
+  "title": "The Benefits of Being Bilingual",
+  "titleCn": "The Benefits of Being Bilingual",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 12,
+    "test": 6
+  },
+  "sourceQuestionId": "6737",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6737",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Benefits of Being Bilingual"
+    },
+    {
+      "label": "2",
+      "text": "A According to the latest figures, the majority of the world's population is now bilingual or multilingual, having grown up speaking two or more languages. In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual."
+    },
+    {
+      "label": "3",
+      "text": "B Research shows that when a bilingual person uses one language, the other is active at the same time. When we hear a word, we don't hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain's language system begins to guess what that word might be. If you hear 'can', you will likely activate words like 'candy' and 'candle' as well, at least during the earlier stages of word recognition. For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian, because the Russian word for 'stamp',marka, sounds like the English word he or she heard, 'marker'. In cases like this, language co-activation occurs because what the listener hears could map onto words in either language."
+    },
+    {
+      "label": "4",
+      "text": "C Having to deal with this persistent linguistic competition can result in difficulties, however. For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase 'tip-of-the-tongue states',when you can almost, but not quite, bring a word to mind. As a result, the constant juggling of two languages creates a need to control how much a person accesses a language at any given time. For this reason, bilingual people often perform better on tasks that require conflict management. In the classic Stroop Task, people see a word and are asked to name the colour of the word's font. When the colour and the word match (i.e., the word ‘red’ printed in red), people correctly name the colour more quickly than when the colour and the word don't match (i.e., the word ‘red' printed in blue). This occurs because the word itself (‘red’)and its font colour (blue) conflict. Bilingual people often excel at tasks such as this, which tap into the ability to ignore competing perceptual information and focus on the relevant aspects of the input. Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red or green) to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy."
+    },
+    {
+      "label": "5",
+      "text": "D It also seems that the neurological roots of the bilingual advantage extend to brain areas more traditionally associated with sensory processing. When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners' neural response is considerably larger, reflecting better encoding of the sound's fundamental frequency, a feature of sound closely related to pitch perception."
+    },
+    {
+      "label": "6",
+      "text": "E Such improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language. This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know."
+    },
+    {
+      "label": "7",
+      "text": "F Research also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging. Older bilinguals enjoy improved memory relative to monolingual people, which can lead to real-world health benefits. In a study of over 200 patients with Alzheimer's disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients. In a follow-up study, researchers compared the brains of bilingual and monolingual patients matched on the severity of Alzheimer's symptoms. Surprisingly, the bilinguals' brains had more physical signs of disease than their monolingual counterparts, even though their outward behaviour and abilities were the same. If the brain is an engine, bilingualism may help it to go farther on the same amount of fuel."
+    },
+    {
+      "label": "8",
+      "text": "G Furthermore, the benefits associated with bilingual experience seem to start very early. In one study, researchers taught seven-month-old babies growing up in monolingual or bilingual homes that when they heard a tinkling sound, a puppet appeared on one side of a screen. Halfway through the study, the puppet began appearing on the opposite side of the screen. In order to get a reward, the infants had to adjust the rule they'd learned; only the bilingual babies were able to successfully learn the new rule. This suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 27-31\n\nComplete the table below.\n\nWrite NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "Observing the [27] ______ of Russian-English bilingual people when asked to select certain objects",
+          "answers": [
+            "eye movements"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6737_913934",
+          "explanation": "题号：27\n\n定位词：Russian-English\n\nB段第六、七句：Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian. 本题关键词Russian-English出现在文章B段第七句，问的是观察这些实验对象的什么行为，文章第六句中说到对这种现象的研究comes from studying eye movements,按照本题所填词的词性和句义判断，本题答案为eye movements。\n\n题号：28\n\n定位词：engage both languages simultaneously\n\nB段第五、六句：For bilingual people this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called \"language co-activation', comes from studying eye movements. 本题问双语使用者可以同时使用两种语言，这种机制被称为什么。文章B段第五句提到this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong。之后说到这种现象called \"language co-activation\"，其中called与题目中known含义一致，因此本题答案为language co-activation。需要注意的是，雅思阅读题目中有字数要求，合成词按照一 个词来计算。\n\n题号：29\n\n定位词：naming colours\n\nC段第五句：In the classic Stroop Task, people see a word and are asked to name the colour of the word's font. 本题说到关于naming colours 的实验，文中C段第五句有关于这一信息的表述，之后关于实验流程的介绍，也和本题要求一致，因此本题答案为Stroop Task。\n\n题号：30\n\n定位词：more able to handle tasks\n\nC段第四句：For this reason, bilingual people often perform better on tasks that require conflict management. 本题针对Stroop Task的结论进行提问，在进行实验内容的介绍前，已经提到bilingual people often perform better on tasks that require conflict management，之后的Stoop Task 对这一点进行了说明，因此使双语使用者表现更好的技能为conflict management。\n\n题号：31\n\n定位词：switching between tasks\n\nC段最后一句：Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch form categorizing objects by colour. they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.\n\n定位词switching between tasks在C段最后一句出现：Bilinguals are also better at switching between two tasks，之后对这种情况进行了举例，并对这种情况进行了分析： reflecting better cognitive control when having to make rapid changes of strategy，题目中superior 一词与better含义一致，因此本题答案为cognitive control。",
+          "promptHtml": "Observing the [27] ______ of Russian-English bilingual people when asked to select certain objects"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Bilingual people engage both languages simultaneously: a mechanism known as [28] ______",
+          "answers": [
+            "language co-activation"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6737_565220",
+          "explanation": "题号：27\n\n定位词：Russian-English\n\nB段第六、七句：Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian. 本题关键词Russian-English出现在文章B段第七句，问的是观察这些实验对象的什么行为，文章第六句中说到对这种现象的研究comes from studying eye movements,按照本题所填词的词性和句义判断，本题答案为eye movements。\n\n题号：28\n\n定位词：engage both languages simultaneously\n\nB段第五、六句：For bilingual people this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called \"language co-activation', comes from studying eye movements. 本题问双语使用者可以同时使用两种语言，这种机制被称为什么。文章B段第五句提到this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong。之后说到这种现象called \"language co-activation\"，其中called与题目中known含义一致，因此本题答案为language co-activation。需要注意的是，雅思阅读题目中有字数要求，合成词按照一 个词来计算。\n\n题号：29\n\n定位词：naming colours\n\nC段第五句：In the classic Stroop Task, people see a word and are asked to name the colour of the word's font. 本题说到关于naming colours 的实验，文中C段第五句有关于这一信息的表述，之后关于实验流程的介绍，也和本题要求一致，因此本题答案为Stroop Task。\n\n题号：30\n\n定位词：more able to handle tasks\n\nC段第四句：For this reason, bilingual people often perform better on tasks that require conflict management. 本题针对Stroop Task的结论进行提问，在进行实验内容的介绍前，已经提到bilingual people often perform better on tasks that require conflict management，之后的Stoop Task 对这一点进行了说明，因此使双语使用者表现更好的技能为conflict management。\n\n题号：31\n\n定位词：switching between tasks\n\nC段最后一句：Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch form categorizing objects by colour. they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.\n\n定位词switching between tasks在C段最后一句出现：Bilinguals are also better at switching between two tasks，之后对这种情况进行了举例，并对这种情况进行了分析： reflecting better cognitive control when having to make rapid changes of strategy，题目中superior 一词与better含义一致，因此本题答案为cognitive control。",
+          "promptHtml": "Bilingual people engage both languages simultaneously: a mechanism known as [28] ______"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "A test called the [29] ______ ,focusing on naming colours",
+          "answers": [
+            "Stroop Task"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6737_141025",
+          "explanation": "题号：27\n\n定位词：Russian-English\n\nB段第六、七句：Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian. 本题关键词Russian-English出现在文章B段第七句，问的是观察这些实验对象的什么行为，文章第六句中说到对这种现象的研究comes from studying eye movements,按照本题所填词的词性和句义判断，本题答案为eye movements。\n\n题号：28\n\n定位词：engage both languages simultaneously\n\nB段第五、六句：For bilingual people this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called \"language co-activation', comes from studying eye movements. 本题问双语使用者可以同时使用两种语言，这种机制被称为什么。文章B段第五句提到this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong。之后说到这种现象called \"language co-activation\"，其中called与题目中known含义一致，因此本题答案为language co-activation。需要注意的是，雅思阅读题目中有字数要求，合成词按照一 个词来计算。\n\n题号：29\n\n定位词：naming colours\n\nC段第五句：In the classic Stroop Task, people see a word and are asked to name the colour of the word's font. 本题说到关于naming colours 的实验，文中C段第五句有关于这一信息的表述，之后关于实验流程的介绍，也和本题要求一致，因此本题答案为Stroop Task。\n\n题号：30\n\n定位词：more able to handle tasks\n\nC段第四句：For this reason, bilingual people often perform better on tasks that require conflict management. 本题针对Stroop Task的结论进行提问，在进行实验内容的介绍前，已经提到bilingual people often perform better on tasks that require conflict management，之后的Stoop Task 对这一点进行了说明，因此使双语使用者表现更好的技能为conflict management。\n\n题号：31\n\n定位词：switching between tasks\n\nC段最后一句：Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch form categorizing objects by colour. they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.\n\n定位词switching between tasks在C段最后一句出现：Bilinguals are also better at switching between two tasks，之后对这种情况进行了举例，并对这种情况进行了分析： reflecting better cognitive control when having to make rapid changes of strategy，题目中superior 一词与better含义一致，因此本题答案为cognitive control。",
+          "promptHtml": "A test called the [29] ______ ,focusing on naming colours"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Bilingual people are more able to handle tasks involving a skill called [30] ______",
+          "answers": [
+            "conflict management"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6737_377914",
+          "explanation": "题号：27\n\n定位词：Russian-English\n\nB段第六、七句：Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian. 本题关键词Russian-English出现在文章B段第七句，问的是观察这些实验对象的什么行为，文章第六句中说到对这种现象的研究comes from studying eye movements,按照本题所填词的词性和句义判断，本题答案为eye movements。\n\n题号：28\n\n定位词：engage both languages simultaneously\n\nB段第五、六句：For bilingual people this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called \"language co-activation', comes from studying eye movements. 本题问双语使用者可以同时使用两种语言，这种机制被称为什么。文章B段第五句提到this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong。之后说到这种现象called \"language co-activation\"，其中called与题目中known含义一致，因此本题答案为language co-activation。需要注意的是，雅思阅读题目中有字数要求，合成词按照一 个词来计算。\n\n题号：29\n\n定位词：naming colours\n\nC段第五句：In the classic Stroop Task, people see a word and are asked to name the colour of the word's font. 本题说到关于naming colours 的实验，文中C段第五句有关于这一信息的表述，之后关于实验流程的介绍，也和本题要求一致，因此本题答案为Stroop Task。\n\n题号：30\n\n定位词：more able to handle tasks\n\nC段第四句：For this reason, bilingual people often perform better on tasks that require conflict management. 本题针对Stroop Task的结论进行提问，在进行实验内容的介绍前，已经提到bilingual people often perform better on tasks that require conflict management，之后的Stoop Task 对这一点进行了说明，因此使双语使用者表现更好的技能为conflict management。\n\n题号：31\n\n定位词：switching between tasks\n\nC段最后一句：Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch form categorizing objects by colour. they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.\n\n定位词switching between tasks在C段最后一句出现：Bilinguals are also better at switching between two tasks，之后对这种情况进行了举例，并对这种情况进行了分析： reflecting better cognitive control when having to make rapid changes of strategy，题目中superior 一词与better含义一致，因此本题答案为cognitive control。",
+          "promptHtml": "Bilingual people are more able to handle tasks involving a skill called [30] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "When changing strategies, bilingual people have superior [31] ______",
+          "answers": [
+            "cognitive control"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6737_741553",
+          "explanation": "题号：27\n\n定位词：Russian-English\n\nB段第六、七句：Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian. 本题关键词Russian-English出现在文章B段第七句，问的是观察这些实验对象的什么行为，文章第六句中说到对这种现象的研究comes from studying eye movements,按照本题所填词的词性和句义判断，本题答案为eye movements。\n\n题号：28\n\n定位词：engage both languages simultaneously\n\nB段第五、六句：For bilingual people this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called \"language co-activation', comes from studying eye movements. 本题问双语使用者可以同时使用两种语言，这种机制被称为什么。文章B段第五句提到this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong。之后说到这种现象called \"language co-activation\"，其中called与题目中known含义一致，因此本题答案为language co-activation。需要注意的是，雅思阅读题目中有字数要求，合成词按照一 个词来计算。\n\n题号：29\n\n定位词：naming colours\n\nC段第五句：In the classic Stroop Task, people see a word and are asked to name the colour of the word's font. 本题说到关于naming colours 的实验，文中C段第五句有关于这一信息的表述，之后关于实验流程的介绍，也和本题要求一致，因此本题答案为Stroop Task。\n\n题号：30\n\n定位词：more able to handle tasks\n\nC段第四句：For this reason, bilingual people often perform better on tasks that require conflict management. 本题针对Stroop Task的结论进行提问，在进行实验内容的介绍前，已经提到bilingual people often perform better on tasks that require conflict management，之后的Stoop Task 对这一点进行了说明，因此使双语使用者表现更好的技能为conflict management。\n\n题号：31\n\n定位词：switching between tasks\n\nC段最后一句：Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch form categorizing objects by colour. they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.\n\n定位词switching between tasks在C段最后一句出现：Bilinguals are also better at switching between two tasks，之后对这种情况进行了举例，并对这种情况进行了分析： reflecting better cognitive control when having to make rapid changes of strategy，题目中superior 一词与better含义一致，因此本题答案为cognitive control。",
+          "promptHtml": "When changing strategies, bilingual people have superior [31] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><span><strong>Test</strong></span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><span><strong>Findings</strong></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Observing the <strong>[27] ______</strong> of Russian-English bilingual people when asked to select certain objects</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Bilingual people engage both languages simultaneously: a mechanism known as <strong>[28] ______</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>A test called the <strong>[29] ______</strong>   ,focusing on naming colours</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Bilingual people are more able to handle tasks involving a skill called <strong>[30] ______</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>A test involving switching between tasks</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>When changing strategies, bilingual people have superior <strong>[31] ______</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "instruction": "Questions 32-36\n\nChoose YES if the statement agrees with the information given in the text,\n\nchoose NO if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Attitudes towards bilingualism have changed in recent years.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6737_743930",
+          "explanation": "参考译文： 在最近几年，关于使用两种语言的态度发生了变化。\n\n定位词：attitudes towards bilingualism, in recent years\n\n文中对应点 A段第二、三句：In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual.\n\n本题说到人们对bilingualism的态度，文章A段第二句说到过去人们认为这种人at a disadvantage，之后在第三句说到identifying several clear benefits of being bilingual，可以看出人们的态度由负面转向正面，因此本题答案为YES。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Bilingual people are better than monolingual people at guessing correctly what words are before they are finished.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6737_886199",
+          "explanation": "参考译文：比起单语使用者，双语使用者在单词结束前猜词的能力更强。\n\n定位词：guessing corecty what words are before they are fnished\n\n文中对应点 B段第二至五句：When we hear a word, we don't hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain's language system begins to guess what that word might be...For bilingual people, this activation is not limited to a single language; auditiory input activates coresponding words regardless of the language to which they belong.\n\n文章对人们听到单词后的识别机制进行了描述，B段第二句指出人们并不是直接听到完整的单词，之后对这种识别方式进行了具体描述，并进而描写双语使用者是如何同时激活另一种语言的。而关于在单词识别过程中，双语使用者与单语使用者相比，是否做得更好，文中并没有提及，因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Bilingual people consistently name images faster than monolingual people.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6737_495106",
+          "explanation": "参考译文: 双语使用者总能比单语使用者更快说出图片的名字。\n\n定位词: name images\n\n文中对应点 C段第二句: For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase 'tip-of-the-tongue states', when you can almost, but not quite, bring a word to mind.\n\nC段第二句说到使用两种语言会使他们name pictures more slowly，而之后的各种实验也说明在怎样的情况下，双语使用者会比单语使用者表现更好，因此consistently name images faster的说法是错误的，因此本题答案为NO。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Bilingual people's brains process single sounds more efficiently than monolingual people in all situations.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6737_712539",
+          "explanation": "参考译文: 双语使用者的大脑在各种情况下都比单语使用者更高效地加工单个声音。\n\n定位词：process single sounds\n\n文中对应点 D段第二、三句： When monolingual and bilingual adolescents listen to simple speech sounds...they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners' neural response is considerably larger...\n\n文中D段说到了双语使用者和单语使用者在加工声音方面上的大脑差异，其中在没有intervening background noise 的情况下，他们show highly similar brain stemresponses，而in the presence of background noise的情况下，the bilingual listeners' neural response is considerably larger，因此题目中说在各种情况下，双语使用者的大脑都能更高效加工声音的说法是错误的，因此本题答案为NO。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Fewer bilingual people than monolingual people suffer from brain disease in old age.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6737_936827",
+          "explanation": "参考译文： 在老年人中，双语使用者患脑部疾病的人数比单语使用者患病的人数少。\n\n定位词： suffer from brain diseases\n\n文中对应点 F段第三句：In a study of over 200 patients with Alzheimer's disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients.\n\n关于suffer from brain diseases的话题出现在F段第五句，文中说到在疾病中，bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients，也就是说双语使用者的情况好于单语使用者,而这种优势体现在更晚出现病情，关于人数方面是否更少，文中并没有提到，因此本题答案为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 37-40\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "an example of how bilingual and monolingual people's brains respond differently to a certain type of non-verbal auditory input",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6737_315837-1"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "a demonstration of how a bilingual upbringing has benefits even before we learn to speak",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6737_315837-2"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "a description of the process by which people identify words that they hear",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6737_315837-3"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "reference to some negative consequences of being bilingual",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6737_315837-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The Benefits of Being Bilingual</strong></span></p><p><strong>A </strong>   According to the latest figures, the majority of the world&#x27;s population is now bilingual or multilingual, having grown up speaking two or more languages. In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual.<br><strong>B</strong>    Research shows that when a bilingual person uses one language, the other is active at the same time. When we hear a word, we don&#x27;t hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain&#x27;s language system begins to guess what that word might be. If you hear &#x27;can&#x27;, you will likely activate words like &#x27;candy&#x27; and &#x27;candle&#x27; as well, at least during the earlier stages of word recognition. For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called &#x27;language co-activation&#x27;, comes from studying eye movements. A Russian-English bilingual asked to &#x27;pick up a marker&#x27; from a set of objects would look more at a stamp than someone who doesn&#x27;t know Russian, because the Russian word for &#x27;stamp&#x27;,marka, sounds like the English word he or she heard, &#x27;marker&#x27;. In cases like this, language co-activation occurs because what the listener hears could map onto words in either language.<br><strong>C</strong>    Having to deal with this persistent linguistic competition can result in difficulties, however. For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase &#x27;tip-of-the-tongue states&#x27;,when you can almost, but not quite, bring a word to mind. As a result, the constant juggling of two languages creates a need to control how much a person accesses a language at any given time. For this reason, bilingual people often perform better on tasks that require conflict management. In the classic Stroop Task, people see a word and are asked to name the colour of the word&#x27;s font. When the colour and the word match (i.e., the word ‘red’ printed in red), people correctly name the colour more quickly than when the colour and the word don&#x27;t match (i.e., the word ‘red&#x27; printed in blue). This occurs because the word itself (‘red’)and its font colour (blue) conflict. Bilingual people often excel at tasks such as this, which tap into the ability to ignore competing perceptual information and focus on the relevant aspects of the input. Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red or green) to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.<br><strong>D </strong>   It also seems that the neurological roots of the bilingual advantage extend to brain areas more traditionally associated with sensory processing. When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners&#x27; neural response is considerably larger, reflecting better encoding of the sound&#x27;s fundamental frequency, a feature of sound closely related to pitch perception.<br><strong>E</strong>    Such improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language. This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know.<br><strong>F</strong>    Research also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging. Older bilinguals enjoy improved memory relative to monolingual people, which can lead to real-world health benefits. In a study of over 200 patients with Alzheimer&#x27;s disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients. In a follow-up study, researchers compared the brains of bilingual and monolingual patients matched on the severity of Alzheimer&#x27;s symptoms. Surprisingly, the bilinguals&#x27; brains had more physical signs of disease than their monolingual counterparts, even though their outward behaviour and abilities were the same. If the brain is an engine, bilingualism may help it to go farther on the same amount of fuel.<br><strong>G</strong>    Furthermore, the benefits associated with bilingual experience seem to start very early. In one study, researchers taught seven-month-old babies growing up in monolingual or bilingual homes that when they heard a tinkling sound, a puppet appeared on one side of a screen. Halfway through the study, the puppet began appearing on the opposite side of the screen. In order to get a reward, the infants had to adjust the rule they&#x27;d learned; only the bilingual babies were able to successfully learn the new rule. This suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language.<br> </p>"
+}

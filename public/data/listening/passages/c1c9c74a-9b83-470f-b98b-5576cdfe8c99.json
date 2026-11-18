@@ -1,0 +1,305 @@
+{
+  "id": "c1c9c74a-9b83-470f-b98b-5576cdfe8c99",
+  "title": "Driver support service",
+  "titleCn": "道路救援服务电话登记：拖车与车辆信息",
+  "part": 1,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/c1c9c74a-9b83-470f-b98b-5576cdfe8c99",
+  "duration": 319,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,600"
+    },
+    {
+      "label": "2",
+      "text": "Hi there, I'm John Blake."
+    },
+    {
+      "label": "3",
+      "text": "00:00:03,100"
+    },
+    {
+      "label": "A",
+      "text": "friend of mine recommended your service.\n\n00:00:06,120\n\nI'm in need of assistance.\n\n00:00:08,400\n\nMy friend mentioned that you have tow trucks capable of safely pulling cars.\n\n00:00:13,200\n\nNice to meet you, John.\n\n00:00:15,580\n\nBefore we proceed, we'll need your contact details to fill out our service form and dispatch our staff.\n\n00:00:22,180\n\nSure. I live at one sixteen Charlecote Road in Salisbury.\n\n00:00:27,560\n\nC-H-A-R-L-E-C-O-T-E.\n\n00:00:30,920\n\nThank you for providing your address, John.\n\n00:00:33,960\n\nThis will help us keep your information up to date. Could you also provide me with your postcode so that we can send you detailed service information via mail?\n\n00:00:43,000\n\nMy postcode is SE13AL.\n\n00:00:46,040\n\nPerfect. We have that noted down. Now, could you please let me know the make of your car?\n\n00:00:52,269\n\nThis will help us send mechanics with relevant experience.\n\n00:00:56,440"
+    },
+    {
+      "label": "I",
+      "text": "drive a Honda Accord.\n\n00:00:58,880"
+    },
+    {
+      "label": "I",
+      "text": "bought it last year.\n\n00:01:00,760\n\nIt's brand new.\n\n00:01:02,440\n\nGreat. We have that information on file now.\n\n00:01:05,860\n\nLastly, could you please provide me with the registration number of your car? This will make it easier for us to locate your vehicle.\n\n00:01:13,980\n\nThe registration number is S232TAT.\n\n00:01:18,240\n\nThank you. It's been noted down. If it's helpful, could you also tell us the color of your car?\n\n00:01:24,830\n\nThe car was originally red, but my wife recently painted it green.\n\n00:01:29,100\n\nThank you for sharing that detail, John. It will definitely help with vehicle identification.\n\n00:01:35,620\n\nNow, could you please briefly explain what happened?\n\n00:01:39,240\n\nIt's possible that my vehicle is running low on oil.\n\n00:01:42,960"
+    },
+    {
+      "label": "I",
+      "text": "only realized it after I began driving on the motorway and couldn't find a gas station. That's when I decided to exit the motorway.\n\n00:01:51,780"
+    },
+    {
+      "label": "I",
+      "text": "see.\n\n00:01:53,240\n\nWe'll make sure to bring some fuel. Please continue.\n\n00:01:57,260"
+    },
+    {
+      "label": "I",
+      "text": "wasn't familiar with the road conditions, and when I was searching for a station to refuel my car, I got it stuck in the mud.\n\n00:02:04,440\n\nI'm sorry to hear that.\n\n00:02:06,540\n\nAre you currently in a safe location?\n\n00:02:09,400\n\nYes, I'm near a bridge. I spotted a road sign around one hundred meters away indicating that it's Albany Road.\n\n00:02:17,040\n\nAll right. Let's organize assistance for you.\n\n00:02:20,260\n\nIs there any urgency?\n\n00:02:22,120\n\nYes. My mother has a back injury and is unable to move.\n\n00:02:26,380"
+    },
+    {
+      "label": "I",
+      "text": "wanted to call an ambulance, but she refused. She believes she will recover soon.\n\n00:02:32,780\n\nI'm sorry to hear about your mother's condition. Let me dispatch help right away. Given the distance, it will take our mechanics approximately 40 minutes to reach your location.\n\n00:02:44,560\n\nThank you. Although it's quite a distance.\n\n00:02:47,600"
+    },
+    {
+      "label": "I",
+      "text": "can't spot any convenience stores nearby, and the wind is really strong today.\n\n00:02:52,560"
+    },
+    {
+      "label": "I",
+      "text": "understand. Please make sure your mother is comfortable.\n\n00:02:57,240\n\nMy suggestion is to find a warm place where you can take care of her. Your mother's well-being is our top priority.\n\n00:03:04,800\n\nThank you for your understanding and prompt response. I really appreciate your support.\n\n00:03:11,280\n\nI'll keep you informed of any updates or changes."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 1-10**\nComplete the notes below. \nWrite **ONE WORD AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "1",
+          "sourceQuestionId": "4e21e57e-3ec3-4b76-87cd-f0a8a888d91e",
+          "prompt": "Personal Information\nName: John Blake\nAddress: 116, **1**_____ Road, Salisbury",
+          "answers": [
+            "Charlecote"
+          ],
+          "rawAnswer": "Charlecote",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Sure. I live at one sixteen Charlecote Road in Salisbury"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 1,
+          "sourceSlotNumber": "1"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "2",
+          "sourceQuestionId": "1fd6167f-cfc7-4c46-8035-70016fecbdf0",
+          "prompt": "Postcode: **2**_____",
+          "answers": [
+            "SE13AL"
+          ],
+          "rawAnswer": "SE13AL",
+          "evidence": {
+            "paragraph": "",
+            "quote": "My postcode is SE13AL"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 2,
+          "sourceSlotNumber": "2"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "3",
+          "sourceQuestionId": "235f90a2-624b-4a3a-9cfe-ed1c873ccaa2",
+          "prompt": "**Details of the car**\nMake and model: Honda Accord\nRegistration number: **3**_____",
+          "answers": [
+            "S232TAT"
+          ],
+          "rawAnswer": "S232TAT",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The registration number is S232TAT"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 3,
+          "sourceSlotNumber": "3"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "4",
+          "sourceQuestionId": "2f22c9d6-d4e4-435a-8a1e-05683f49ff79",
+          "prompt": "Current colour: **4**_____",
+          "answers": [
+            "green"
+          ],
+          "rawAnswer": "green",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The car was originally red, but my wife recently painted it green"
+          },
+          "keywordPairs": [
+            {
+              "question": "Current",
+              "article": "recently"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 4,
+          "sourceSlotNumber": "4"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "5",
+          "sourceQuestionId": "237c8ae9-acdb-4dc7-8f35-2f50a4a65d1c",
+          "prompt": "**Details of the incident**\nOne problem: short of **5**_____",
+          "answers": [
+            "oil"
+          ],
+          "rawAnswer": "oil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It's possible that my vehicle is running low on oil"
+          },
+          "keywordPairs": [
+            {
+              "question": "short of",
+              "article": "running low on"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 5,
+          "sourceSlotNumber": "5"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "6",
+          "sourceQuestionId": "572d5017-51cb-4912-b3c9-f9e887d39a1e",
+          "prompt": "stuck in the **6**_____",
+          "answers": [
+            "mud"
+          ],
+          "rawAnswer": "mud",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I wasn't familiar with the road conditions, and when I was searching for a station to refuel my car, I got it stuck in the mud"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 6,
+          "sourceSlotNumber": "6"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "7",
+          "sourceQuestionId": "acaef9bc-95fc-4681-8940-ce6e22e60a11",
+          "prompt": "Current location: close to a **7**_____",
+          "answers": [
+            "bridge"
+          ],
+          "rawAnswer": "bridge",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Yes, I'm near a bridge. I spotted a road sign around one hundred meters away indicating that it's Albany Road"
+          },
+          "keywordPairs": [
+            {
+              "question": "close to",
+              "article": "near"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 7,
+          "sourceSlotNumber": "7"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "8",
+          "sourceQuestionId": "fd98133e-90a3-49f8-8bcf-27b69b387b08",
+          "prompt": "Another problem(his mother): suffering from a **8**_____ problem",
+          "answers": [
+            "back"
+          ],
+          "rawAnswer": "back",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Yes. My mother has a back injury and is unable to move"
+          },
+          "keywordPairs": [
+            {
+              "question": "problem",
+              "article": "injury"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 8,
+          "sourceSlotNumber": "8"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "9",
+          "sourceQuestionId": "c54dbaf1-8ff0-4cbb-851f-24bb24530d4c",
+          "prompt": "**Responses**\nLength of time for mechanics to come: **9**_____",
+          "answers": [
+            "40 minutes"
+          ],
+          "rawAnswer": "40 minutes",
+          "evidence": {
+            "paragraph": "",
+            "quote": "it will take our mechanics approximately 40 minutes to reach your location"
+          },
+          "keywordPairs": [
+            {
+              "question": "Length of time",
+              "article": "it will take"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 9,
+          "sourceSlotNumber": "9"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "10",
+          "sourceQuestionId": "854b10ae-d448-4db5-bac8-f2f7b7b38c6c",
+          "prompt": "Get a **10**_____ corner to look after his mother.",
+          "answers": [
+            "warm"
+          ],
+          "rawAnswer": "warm",
+          "evidence": {
+            "paragraph": "",
+            "quote": "My suggestion is to find a warm place where you can take care of her"
+          },
+          "keywordPairs": [
+            {
+              "question": "look after",
+              "article": "take care of"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 10,
+          "sourceSlotNumber": "10"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,600</p><p>Hi there, I'm John Blake. </p><p>00:00:03,100</p><p>A friend of mine recommended your service. </p><p>00:00:06,120</p><p>I'm in need of assistance. </p><p>00:00:08,400</p><p>My friend mentioned that you have tow trucks capable of safely pulling cars. </p><p>00:00:13,200</p><p>Nice to meet you, John. </p><p>00:00:15,580</p><p>Before we proceed, we'll need your contact details to fill out our service form and dispatch our staff. </p><p>00:00:22,180</p><p>Sure. I live at one sixteen Charlecote Road in Salisbury. </p><p> </p><p>00:00:27,560</p><p>C-H-A-R-L-E-C-O-T-E. </p><p>00:00:30,920</p><p>Thank you for providing your address, John. </p><p>00:00:33,960</p><p>This will help us keep your information up to date. Could you also provide me with your postcode so that we can send you detailed service information via mail? </p><p>00:00:43,000</p><p>My postcode is SE13AL. </p><p>00:00:46,040</p><p>Perfect. We have that noted down. Now, could you please let me know the make of your car? </p><p>00:00:52,269</p><p>This will help us send mechanics with relevant experience. </p><p>00:00:56,440</p><p>I drive a Honda Accord. </p><p>00:00:58,880</p><p>I bought it last year. </p><p>00:01:00,760</p><p>It's brand new. </p><p>00:01:02,440</p><p>Great. We have that information on file now. </p><p>00:01:05,860</p><p>Lastly, could you please provide me with the registration number of your car? This will make it easier for us to locate your vehicle. </p><p>00:01:13,980</p><p>The registration number is S232TAT. </p><p>00:01:18,240</p><p>Thank you. It's been noted down. If it's helpful, could you also tell us the color of your car? </p><p>00:01:24,830</p><p>The car was originally red, but my wife recently painted it green. </p><p>00:01:29,100</p><p>Thank you for sharing that detail, John. It will definitely help with vehicle identification. </p><p>00:01:35,620</p><p>Now, could you please briefly explain what happened? </p><p>00:01:39,240</p><p>It's possible that my vehicle is running low on oil. </p><p>00:01:42,960</p><p>I only realized it after I began driving on the motorway and couldn't find a gas station. That's when I decided to exit the motorway. </p><p>00:01:51,780</p><p>I see. </p><p>00:01:53,240</p><p>We'll make sure to bring some fuel. Please continue. </p><p>00:01:57,260</p><p>I wasn't familiar with the road conditions, and when I was searching for a station to refuel my car, I got it stuck in the mud. </p><p>00:02:04,440</p><p>I'm sorry to hear that. </p><p>00:02:06,540</p><p>Are you currently in a safe location? </p><p>00:02:09,400</p><p>Yes, I'm near a bridge. I spotted a road sign around one hundred meters away indicating that it's Albany Road. </p><p>00:02:17,040</p><p>All right. Let's organize assistance for you. </p><p>00:02:20,260</p><p>Is there any urgency? </p><p>00:02:22,120</p><p>Yes. My mother has a back injury and is unable to move. </p><p>00:02:26,380</p><p>I wanted to call an ambulance, but she refused. She believes she will recover soon. </p><p>00:02:32,780</p><p>I'm sorry to hear about your mother's condition. Let me dispatch help right away. Given the distance, it will take our mechanics approximately 40 minutes to reach your location. </p><p>00:02:44,560</p><p>Thank you. Although it's quite a distance. </p><p>00:02:47,600</p><p>I can't spot any convenience stores nearby, and the wind is really strong today. </p><p>00:02:52,560</p><p>I understand. Please make sure your mother is comfortable. </p><p>00:02:57,240</p><p>My suggestion is to find a warm place where you can take care of her. Your mother's well-being is our top priority. </p><p>00:03:04,800</p><p>Thank you for your understanding and prompt response. I really appreciate your support. </p><p>00:03:11,280</p><p>I'll keep you informed of any updates or changes.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/c1c9c74a-9b83-470f-b98b-5576cdfe8c99.mp3",
+    "durationSeconds": 198.672,
+    "sizeBytes": 3179283,
+    "sha256": "da80e04181ac6b45503398bae5cf74202acd44c05d29b85ffe9d731a1a15a174",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:24Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775394820476_eikbb8_0d67b5e9_e5796ae9.mp3"
+}

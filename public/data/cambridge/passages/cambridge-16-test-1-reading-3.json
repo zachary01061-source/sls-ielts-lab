@@ -1,0 +1,396 @@
+{
+  "id": "cambridge-16-test-1-reading-3",
+  "title": "The future of work",
+  "titleCn": "The future of work",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 1
+  },
+  "sourceQuestionId": "8322",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8322",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The future of work"
+    },
+    {
+      "label": "2",
+      "text": "According to a leading business consultancy, 3–14% of the global workforce will need to switch to a different occupation within the next 10–15 years, and all workers will need to adapt as their occupations evolve alongside increasingly capable machines. Automation – or ‘embodied artificial intelligence’ (AI) – is one aspect of the disruptive effects of technology on the labour market. ‘Disembodied AI’, like the algorithms running in our smartphones, is another."
+    },
+    {
+      "label": "3",
+      "text": "Dr Stella Pachidi from Cambridge Judge Business School believes that some of the most fundamental changes are happening as a result of the ‘algorithmication’ of jobs that are dependent on data rather than on production – the so-called knowledge economy. Algorithms are capable of learning from data to undertake tasks that previously needed human judgement, such as reading legal contracts, analysing medical scans and gathering market intelligence."
+    },
+    {
+      "label": "4",
+      "text": "‘In many cases, they can outperform humans,’ says Pachidi. ‘Organisations are attracted to using algorithms because they want to make choices based on what they consider is “perfect information”, as well as to reduce costs and enhance productivity.’"
+    },
+    {
+      "label": "5",
+      "text": "‘But these enhancements are not without consequences,’ says Pachidi. ‘If routine cognitive tasks are taken over by AI, how do professions develop their future experts?’ she asks. ‘One way of learning about a job is “legitimate peripheral participation” – a novice stands next to experts and learns by observation. If this isn’t happening, then you need to find new ways to learn.’"
+    },
+    {
+      "label": "6",
+      "text": "Another issue is the extent to which the technology influences or even controls the workforce. For over two years, Pachidi monitored a telecommunications company. ‘The way telecoms salespeople work is through personal and frequent contact with clients, using the benefit of experience to assess a situation and reach a decision. However, the company had started using a[n] … algorithm that defined when account managers should contact certain customers about which kinds of campaigns and what to offer them.’"
+    },
+    {
+      "label": "7",
+      "text": "The algorithm – usually built by external designers – often becomes the keeper of knowledge, she explains. In cases like this, Pachidi believes, a short-sighted view begins to creep into working practices whereby workers learn through the ‘algorithm’s eyes’ and become dependent on its instructions. Alternative explorations – where experimentation and human instinct lead to progress and new ideas – are effectively discouraged."
+    },
+    {
+      "label": "8",
+      "text": "Pachidi and colleagues even observed people developing strategies to make the algorithm work to their own advantage. ‘We are seeing cases where workers feed the algorithm with false data to reach their targets,’ she reports."
+    },
+    {
+      "label": "9",
+      "text": "It’s scenarios like these that many researchers are working to avoid. Their objective is to make AI technologies more trustworthy and transparent, so that organisations and individuals understand how AI decisions are made. In the meantime, says Pachidi, ‘We need to make sure we fully understand the dilemmas that this new world raises regarding expertise, occupational boundaries and control.’"
+    },
+    {
+      "label": "10",
+      "text": "Economist Professor Hamish Low believes that the future of work will involve major transitions across the whole life course for everyone: ‘The traditional trajectory of full-time education followed by full-time work followed by a pensioned retirement is a thing of the past,’ says Low. Instead, he envisages a multistage employment life: one where retraining happens across the life course, and where multiple jobs and no job happen by choice at different stages."
+    },
+    {
+      "label": "11",
+      "text": "On the subject of job losses, Low believes the predictions are founded on a fallacy: ‘It assumes that the number of jobs is fixed. If in 30 years, half of 100 jobs are being carried out by robots, that doesn’t mean we are left with just 50 jobs for humans. The number of jobs will increase: we would expect there to be 150 jobs.’"
+    },
+    {
+      "label": "12",
+      "text": "Dr Ewan McGaughey, at Cambridge’s Centre for Business Research and King’s College London, agrees that ‘apocalyptic’ views about the future of work are misguided. ‘It’s the laws that restrict the supply of capital to the job market, not the advent of new technologies that causes unemployment.’"
+    },
+    {
+      "label": "13",
+      "text": "His recently published research answers the question of whether automation, AI and robotics will mean a ‘jobless future’ by looking at the causes of unemployment. ‘History is clear that change can mean redundancies. But social policies can tackle this through retraining and redeployment.’"
+    },
+    {
+      "label": "14",
+      "text": "He adds: ‘If there is going to be change to jobs as a result of AI and robotics then I’d like to see governments seizing the opportunity to improve policy to enforce good job security. We can “reprogramme” the law to prepare for a fairer future of work and leisure.’ McGaughey’s findings are a call to arms to leaders of organisations, governments and banks to pre-empt the coming changes with bold new policies that guarantee full employment, fair incomes and a thriving economic democracy."
+    },
+    {
+      "label": "15",
+      "text": "‘The promises of these new technologies are astounding. They deliver humankind the capacity to live in a way that nobody could have once imagined,’ he adds. ‘Just as the industrial revolution brought people past subsistence agriculture, and the corporate revolution enabled mass production, a third revolution has been pronounced. But it will not only be one of technology. The next revolution will be social.’"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27–30\n\nChoose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "The first paragraph tells us about",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8322_472906",
+          "options": [
+            {
+              "value": "A",
+              "text": "the kinds of jobs that will be most affected by the growth of AI."
+            },
+            {
+              "value": "B",
+              "text": "the extent to which AI will alter the nature of the work that people do."
+            },
+            {
+              "value": "C",
+              "text": "the proportion of the world’s labour force who will have jobs in AI in the future."
+            },
+            {
+              "value": "D",
+              "text": "the difference between ways that embodied and disembodied AI will impact on workers."
+            }
+          ],
+          "explanation": "译文：第一自然段告诉了我们\n\n虽然问题句已经明示考生答案出处在第一自然段，但这种情况下的绝大多数正确答案都不是依靠只读段落中的某一句话就能锁定的；因此，考生不如一开始就抱定平行阅读的思路，直接从第一句话顺序读下来，可以获得对本段大意和叙事逻辑的正确理解。首句先从大数据的角度指出，所有人的工作在未来都会发生变化，一部分人甚至还需要换工作；第二句说那些有实体的人工智能；第三句则说那些没有实体的人工智能。综合来看这三句话都是在表达一个意思：时代变了，人工智能来了，所以“工作”这个领域也会随之变化。根据这样的准确理解，考生可以顺利锁定正确答案应为B项：the extent to which AI will alter the nature of the work that people do.（AI将会在何种程度上改变人们所做工作的性质。）\n\nA项：the kinds of jobs that will be most affected by the growth of AI.（哪些种类的工作会最受AI发展的影响。）第一自然段中完全没有提及这方面的信息。\n\nC项：the proportion of the world’s labour force who will have jobs in AI in the future.（全世界劳动力中有多少比例的人将会在未来的AI领域中工作。）这个选项有一定的迷惑性，因为第一段里貌似确实出现了跟proportion“占比”有关的内容。但是在看懂原文和本选项并进行细节信息对比后就会发现：这两个说到比例概念的句子，讲的完全不是一回事儿。原文只说了AI会使所有人的工作受到影响、一部分人则需要换工作，至于接下来的工作是否换去AI领域中做，则完全未提及。\n\nD项：the difference between ways that embodied and disembodied AI will impact on workers.（有实体的AI和无实体的AI分别会对工人产生的影响之间的不同。）虽然第一段中确实提到了这两类人工智能，但没有对比二者除名称之外的任何不同之处，是一个辨析难度不算高的混淆选项。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "According to the second paragraph, what is Stella Pachidi’s view of the ‘knowledge economy’?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8322_686072",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is having an influence on the number of jobs available."
+            },
+            {
+              "value": "B",
+              "text": "It is changing people’s attitudes towards their occupations."
+            },
+            {
+              "value": "C",
+              "text": "It is the main reason why the production sector is declining."
+            },
+            {
+              "value": "D",
+              "text": "It is a key factor driving current developments in the workplace."
+            }
+          ],
+          "explanation": "译文：按照第二段的说法，Stella Pachidi对“知识经济”的看法是什么？\n\n考生可以直接根据问题句中的“第二段”和带引号的“知识经济”的双重提示，定位到本段第一句话。这个句子的结构略复杂，详细分析可以参见前文“佳句赏析”中的第二句。看懂这个句子本身也就不难得出这样的理解：知识经济正在引发一些极其深刻而本质性的变化，这个意思与D项是最为接近的。但是比较细心的考生可能会犹豫于D项中的workplace这个关键信息并未出现在第一句话里。好在本段一共也只有两句，若是感到只看第一句话并不保险，考生可读完下一句后再对比选项，即可确认正确答案为D项：It is a key factor driving current developments in the workplace.（它是驱动工作场所中各种当前发展的一个关键性因素。）\n\n本题与其说是理解原文意思与选项内容对比后直接做出来的，不如说同时也考虑到了其他三个选项在段落中基本都未被提及，这才利用排除法最终锁定了正确答案：\n\nA项：It is having an influence on the number of jobs available.（它正在对现有工作的数量产生着影响。）\n\nB项：It is changing people’s attitudes towards their occupations.（它正在改变人们看待自己工作的态度。）\n\nC项：It is the main reason why the production sector is declining.（是生产部门正在减少的主要原因。）"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "What did Pachidi observe at the telecommunications company?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8322_969929",
+          "options": [
+            {
+              "value": "A",
+              "text": "staff disagreeing with the recommendations of AI"
+            },
+            {
+              "value": "B",
+              "text": "staff feeling resentful about the intrusion of AI in their work"
+            },
+            {
+              "value": "C",
+              "text": "staff making sure that AI produces the results that they want"
+            },
+            {
+              "value": "D",
+              "text": "staff allowing AI to carry out tasks they ought to do themselves"
+            }
+          ],
+          "explanation": "译文：Pachidi在一家电信公司里观察到了什么？\n\n本题的解题难度极高。虽然无论是大写人名，还是“电信公司”这个词组，都原词重现在了原文第五自然段的第二句话里；但无论在本段内还是在下一段里，考生都确实无法找到能与原文匹配的某个选项，因此仍需继续向后阅读对比，才能最终在第七自然段里看到正确对应，从而得出答案应为C项：staff making sure that AI produces the results that they want（员工想办法使得AI给出他们想要的结果）\n\nA项：staff disagreeing with the recommendations of AI（员工并不认可由AI所给出的推荐）\n\n选项里的recommendation一词并不曾在文中原词重现，但在可以用“电信公司”定位到的原文第五段的最后一句话里，所谓由算法来define员工在什么时机做什么事，其实就是由人工智能对于员工该怎么举动给出了建议，也算原文提到了“推荐”这个意思本身。然而原文中是否说到了员工disagree with这种推荐呢？显然没有。\n\nB项：staff feeling resentful about the intrusion of AI in their work（员工对于AI干涉他们的工作感到很不满）\n\n考生在寻找本题正确答案的阅读过程中，可以在第六段里看到这样的表达：工人会逐渐变得依赖于算法给出的指令，从而失去了其他探索进步的机会。然而，这并不足以令考生推导出“员工是否认可这些指令”的结论，只能说明工人们确实执行了指令而已。\n\nD项：staff allowing AI to carry out tasks they ought to do themselves（员工允许AI去执行本来应该由他们自己来完成的任务）\n\n这个选项的干扰性比较大。乍一看，原文第五段到第七段的内容好像确实说到了：人工智能和算法代替了员工自身去进行思考判断，貌似真的是机器完成了人类的工作。然而仔细品味一下，就会发现其实并非如此：AI和算法只是给出了操作指令而已，具体的执行仍然要靠员工去完成，所以AI实际并未代替他们去推进工作，这与选项表述是有差异的。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "In his recently published research, Ewan McGaughey",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8322_185604",
+          "options": [
+            {
+              "value": "A",
+              "text": "challenges the idea that redundancy is a negative thing."
+            },
+            {
+              "value": "B",
+              "text": "shows the profound effect of mass unemployment on society."
+            },
+            {
+              "value": "C",
+              "text": "highlights some differences between past and future job losses."
+            },
+            {
+              "value": "D",
+              "text": "illustrates how changes in the job market can be successfully handled."
+            }
+          ],
+          "explanation": "译文：在他近期发表的研究中，Ewan McGaughey\n\n本题的定位不算困难：用Ewan McGaughey这个人名可以快速找到第十一段的第一句话；然而无论是这句话还是段内第二句话，都无法为考生直接对应出正确答案选项。因此，考生仍需耐心向后阅读，可在第十二段开头处再次锁定recently published research这个问题句原词重现的提示。这一段同样也是由两句话所组成，考生完成准确理解后不难锁定答案应为D项：illutrates how changes in the job market can be successfully handled.（描述了工作市场上的变化可以如何被成功地应对处理。）\n\n这个正确选项所对应的第十二段最后一句话的内容，同时也包含着第40题涉及这个人名所对应的答案。考生如果此时是在用平行阅读同时对比所有题型，则阅读到此处可以一举得出两个不同题型中各一道题的答案，成果加倍欢乐也加倍。\n\nA项：challenges the idea that redundancy is a negative thing.（挑战了认为“裁撤冗员是个消极事情”的观点。）\n\n本项的迷惑性并不高。原文中虽然确实出现了redundancy这个词，却不难看出并未对此作出正面或负面的评价。\n\nB项：shows the profound effect of mass unemployment on society.（指出了大规模失业对社会所产生的巨大深远影响。）\n\n与A项原理类似，虽然文中提及了“社会”和“失业”，却并未阐述二者之间的关联。\n\nC项：highlights some differences between past and future job losses.（强调了过去和未来的失业状态之间的一些不同。）\n\n同理，文中确实出现了future原词，history也可算作选项中past的同义替换表述。然而，二者之间的比较纯属原文里子虚乌有的信息，应该不会给考生带来解题困扰。笔者倒是对此有些困扰：出题人如此随意地凑了这样一个干扰选项，真的不会被扣鸡腿么？"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 31–34\n\nComplete the summary using the list of words, A–G, below.\n\nMove the correct answer, A–G, into boxes 31–34.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Stella Pachidi of Cambridge Judge Business School has been focusing on the ‘algorithmication’ of jobs which rely not on production but on [31] ______ .",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8322_160493",
+          "explanation": "31. 本题的定位极其简单，无论是人名、学校名还是带引号的‘algorithmication’，都原词重现在原文中。考生只需认识文中dependent on与题干中rely on这对不知道在雅思阅读中考过多少回了的同义替换表述，就能知道答案应为data。不过此处还需多做一步，在词库里找到答案对应的选项字母，所以考生需耐心对比所有选项单词，进而根据词义对应锁定答案应为G information。\n\n32. 本题距离上一题的原文对应位置较远，但由于题干中给出了带引号的‘algorithm’s eyes’，此类引用信息通常都会原词重现在文章中，因此不难寻找。本题和上一题其实本质上考查的是同一组同义替换词汇认知，只不过此处具体现身的是rely的名词形式reliance，考生只要这个词汇基础过关，就能毫不费力地从词库里锁定答案为E reliance。\n\n33. 题干句首的这个meanwhile，虽然本身不值得作为定位词来用以回文寻找，但其含义却对考生寻找答案起到了不小的帮助：能与上一句信息“与此同时”发生的，从逻辑上来说也应该在距离上一题原文不远的地方。考生如果耐心读取到了这个信息，则可更准确定位到相应出题句，进而根据原文中与experimentation组成并列关系的human instinct得出正确答案应为C intuition。\n\n34. 除了距离前两道题的原文位置略远之外，本题的定位还是比较容易的。无论是原词重现的avoid，还是稍换了形式的AI decisions，都可以帮助考生找到对应原文。而文中的答案词trustworthy的认知难度也不高，词库中对应的正确选项应为F confidence。",
+          "promptHtml": "Stella Pachidi of Cambridge Judge Business School has been focusing on the ‘algorithmication’ of jobs which rely not on production but on [31] ______ ."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Answer for gap 32.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8322_724634",
+          "explanation": "31. 本题的定位极其简单，无论是人名、学校名还是带引号的‘algorithmication’，都原词重现在原文中。考生只需认识文中dependent on与题干中rely on这对不知道在雅思阅读中考过多少回了的同义替换表述，就能知道答案应为data。不过此处还需多做一步，在词库里找到答案对应的选项字母，所以考生需耐心对比所有选项单词，进而根据词义对应锁定答案应为G information。\n\n32. 本题距离上一题的原文对应位置较远，但由于题干中给出了带引号的‘algorithm’s eyes’，此类引用信息通常都会原词重现在文章中，因此不难寻找。本题和上一题其实本质上考查的是同一组同义替换词汇认知，只不过此处具体现身的是rely的名词形式reliance，考生只要这个词汇基础过关，就能毫不费力地从词库里锁定答案为E reliance。\n\n33. 题干句首的这个meanwhile，虽然本身不值得作为定位词来用以回文寻找，但其含义却对考生寻找答案起到了不小的帮助：能与上一句信息“与此同时”发生的，从逻辑上来说也应该在距离上一题原文不远的地方。考生如果耐心读取到了这个信息，则可更准确定位到相应出题句，进而根据原文中与experimentation组成并列关系的human instinct得出正确答案应为C intuition。\n\n34. 除了距离前两道题的原文位置略远之外，本题的定位还是比较容易的。无论是原词重现的avoid，还是稍换了形式的AI decisions，都可以帮助考生找到对应原文。而文中的答案词trustworthy的认知难度也不高，词库中对应的正确选项应为F confidence。",
+          "promptHtml": "Answer for gap 32."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8322_690175",
+          "explanation": "31. 本题的定位极其简单，无论是人名、学校名还是带引号的‘algorithmication’，都原词重现在原文中。考生只需认识文中dependent on与题干中rely on这对不知道在雅思阅读中考过多少回了的同义替换表述，就能知道答案应为data。不过此处还需多做一步，在词库里找到答案对应的选项字母，所以考生需耐心对比所有选项单词，进而根据词义对应锁定答案应为G information。\n\n32. 本题距离上一题的原文对应位置较远，但由于题干中给出了带引号的‘algorithm’s eyes’，此类引用信息通常都会原词重现在文章中，因此不难寻找。本题和上一题其实本质上考查的是同一组同义替换词汇认知，只不过此处具体现身的是rely的名词形式reliance，考生只要这个词汇基础过关，就能毫不费力地从词库里锁定答案为E reliance。\n\n33. 题干句首的这个meanwhile，虽然本身不值得作为定位词来用以回文寻找，但其含义却对考生寻找答案起到了不小的帮助：能与上一句信息“与此同时”发生的，从逻辑上来说也应该在距离上一题原文不远的地方。考生如果耐心读取到了这个信息，则可更准确定位到相应出题句，进而根据原文中与experimentation组成并列关系的human instinct得出正确答案应为C intuition。\n\n34. 除了距离前两道题的原文位置略远之外，本题的定位还是比较容易的。无论是原词重现的avoid，还是稍换了形式的AI decisions，都可以帮助考生找到对应原文。而文中的答案词trustworthy的认知难度也不高，词库中对应的正确选项应为F confidence。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "To avoid the kind of situations which Pachidi observed, researchers are trying to make AI’s decision-making process easier to comprehend, and to increase users’ [34] ______ with regard to the technology.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8322_751124",
+          "explanation": "31. 本题的定位极其简单，无论是人名、学校名还是带引号的‘algorithmication’，都原词重现在原文中。考生只需认识文中dependent on与题干中rely on这对不知道在雅思阅读中考过多少回了的同义替换表述，就能知道答案应为data。不过此处还需多做一步，在词库里找到答案对应的选项字母，所以考生需耐心对比所有选项单词，进而根据词义对应锁定答案应为G information。\n\n32. 本题距离上一题的原文对应位置较远，但由于题干中给出了带引号的‘algorithm’s eyes’，此类引用信息通常都会原词重现在文章中，因此不难寻找。本题和上一题其实本质上考查的是同一组同义替换词汇认知，只不过此处具体现身的是rely的名词形式reliance，考生只要这个词汇基础过关，就能毫不费力地从词库里锁定答案为E reliance。\n\n33. 题干句首的这个meanwhile，虽然本身不值得作为定位词来用以回文寻找，但其含义却对考生寻找答案起到了不小的帮助：能与上一句信息“与此同时”发生的，从逻辑上来说也应该在距离上一题原文不远的地方。考生如果耐心读取到了这个信息，则可更准确定位到相应出题句，进而根据原文中与experimentation组成并列关系的human instinct得出正确答案应为C intuition。\n\n34. 除了距离前两道题的原文位置略远之外，本题的定位还是比较容易的。无论是原词重现的avoid，还是稍换了形式的AI decisions，都可以帮助考生找到对应原文。而文中的答案词trustworthy的认知难度也不高，词库中对应的正确选项应为F confidence。",
+          "promptHtml": "To avoid the kind of situations which Pachidi observed, researchers are trying to make AI’s decision-making process easier to comprehend, and to increase users’ [34] ______ with regard to the technology."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "pressure"
+        },
+        {
+          "value": "B",
+          "text": "satisfaction"
+        },
+        {
+          "value": "C",
+          "text": "intuition"
+        },
+        {
+          "value": "D",
+          "text": "promotion"
+        },
+        {
+          "value": "E",
+          "text": "reliance"
+        },
+        {
+          "value": "F",
+          "text": "confidence"
+        },
+        {
+          "value": "G",
+          "text": "information"
+        }
+      ],
+      "contextHtml": "<p><b>The ‘algorithmication’ of jobs</b></p>\n\n<p>Stella Pachidi of Cambridge Judge Business School has been focusing on the ‘algorithmication’ of jobs which rely not on production but on <strong>[31] ______</strong> . </p>\n\n<p>While monitoring a telecommunications company, Pachidi observed a growing <strong>[32] ______</strong> on the recommendations made by AI, as workers begin to learn through the ‘algorithm’s eyes’. Meanwhile, staff are deterred from experimenting and using their own <strong>[33] ______</strong>, and are therefore prevented from achieving innovation.</p>\n\n<p>To avoid the kind of situations which Pachidi observed, researchers are trying to make AI’s decision-making process easier to comprehend, and to increase users’ <strong>[34] ______</strong> with regard to the technology.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 35–40\n\nLook at the following statements (Questions 35–40) and the list of people below.\n\nMatch each statement with the correct person, A, B or C.\n\nMove the correct answer, A, B or C, into boxes 35–40.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Greater levels of automation will not result in lower employment. [35] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8322_319675",
+          "explanation": "35. 本题无论是题干本身还是对应原文，都句式清晰用词简单，考生只需耐心依次看懂大意，而非单纯寻找某个定位关键词，就能顺利得出正确答案为本句人名对应的选项B。\n\n36. 题干中的appealing与对应原文中的attract都是雅思阅读文章中的常客，做过精读分析的考生应该不会陌生。虽然对应原文句中并未直接出现AI而是使用了“算法”一词，但是从前文阅读中不难得知，在本篇文章的语境下，这二者是可以进行近义替换的。正确答案应为人名对应的A项。\n\n37. 本题的题干较长，但理解难度并不高。对应的原文中有非常明确的just as这种表示类比关系的词组，不难看懂，只是位置十分靠后，需要考生有足够的阅读速度，在考场上能够读到此处。只要能满足以上两点，即可顺利找到正确答案为选项C。\n\n38. 第四段里的not without consequences和第五段里的another issue都指向了题干所表达的“一系列问题”这个关键点，考生只需耐心按顺序阅读文章，应该不怎么费力就可以准确匹配到正确答案为A选项。\n\n39. 虽然考生也许对原文句中trajectory这个对应表达题干中path的词汇略感陌生，但是通读全句大意后应该可以合理忽略这个词汇本身的确切意思，依靠整体文意对应到正确答案为B项。\n\n40. 关于答案的对应出处句，正确答案即为人名对应的选项C。",
+          "promptHtml": "Greater levels of automation will not result in lower employment. [35] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "There are several reasons why AI is appealing to businesses. [36] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8322_131820",
+          "explanation": "35. 本题无论是题干本身还是对应原文，都句式清晰用词简单，考生只需耐心依次看懂大意，而非单纯寻找某个定位关键词，就能顺利得出正确答案为本句人名对应的选项B。\n\n36. 题干中的appealing与对应原文中的attract都是雅思阅读文章中的常客，做过精读分析的考生应该不会陌生。虽然对应原文句中并未直接出现AI而是使用了“算法”一词，但是从前文阅读中不难得知，在本篇文章的语境下，这二者是可以进行近义替换的。正确答案应为人名对应的A项。\n\n37. 本题的题干较长，但理解难度并不高。对应的原文中有非常明确的just as这种表示类比关系的词组，不难看懂，只是位置十分靠后，需要考生有足够的阅读速度，在考场上能够读到此处。只要能满足以上两点，即可顺利找到正确答案为选项C。\n\n38. 第四段里的not without consequences和第五段里的another issue都指向了题干所表达的“一系列问题”这个关键点，考生只需耐心按顺序阅读文章，应该不怎么费力就可以准确匹配到正确答案为A选项。\n\n39. 虽然考生也许对原文句中trajectory这个对应表达题干中path的词汇略感陌生，但是通读全句大意后应该可以合理忽略这个词汇本身的确切意思，依靠整体文意对应到正确答案为B项。\n\n40. 关于答案的对应出处句，正确答案即为人名对应的选项C。",
+          "promptHtml": "There are several reasons why AI is appealing to businesses. [36] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "AI’s potential to transform people’s lives has parallels with major cultural shifts which occurred in previous eras. [37] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8322_999146",
+          "explanation": "35. 本题无论是题干本身还是对应原文，都句式清晰用词简单，考生只需耐心依次看懂大意，而非单纯寻找某个定位关键词，就能顺利得出正确答案为本句人名对应的选项B。\n\n36. 题干中的appealing与对应原文中的attract都是雅思阅读文章中的常客，做过精读分析的考生应该不会陌生。虽然对应原文句中并未直接出现AI而是使用了“算法”一词，但是从前文阅读中不难得知，在本篇文章的语境下，这二者是可以进行近义替换的。正确答案应为人名对应的A项。\n\n37. 本题的题干较长，但理解难度并不高。对应的原文中有非常明确的just as这种表示类比关系的词组，不难看懂，只是位置十分靠后，需要考生有足够的阅读速度，在考场上能够读到此处。只要能满足以上两点，即可顺利找到正确答案为选项C。\n\n38. 第四段里的not without consequences和第五段里的another issue都指向了题干所表达的“一系列问题”这个关键点，考生只需耐心按顺序阅读文章，应该不怎么费力就可以准确匹配到正确答案为A选项。\n\n39. 虽然考生也许对原文句中trajectory这个对应表达题干中path的词汇略感陌生，但是通读全句大意后应该可以合理忽略这个词汇本身的确切意思，依靠整体文意对应到正确答案为B项。\n\n40. 关于答案的对应出处句，正确答案即为人名对应的选项C。",
+          "promptHtml": "AI’s potential to transform people’s lives has parallels with major cultural shifts which occurred in previous eras. [37] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "It is important to be aware of the range of problems that AI causes. [38] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8322_607784",
+          "explanation": "35. 本题无论是题干本身还是对应原文，都句式清晰用词简单，考生只需耐心依次看懂大意，而非单纯寻找某个定位关键词，就能顺利得出正确答案为本句人名对应的选项B。\n\n36. 题干中的appealing与对应原文中的attract都是雅思阅读文章中的常客，做过精读分析的考生应该不会陌生。虽然对应原文句中并未直接出现AI而是使用了“算法”一词，但是从前文阅读中不难得知，在本篇文章的语境下，这二者是可以进行近义替换的。正确答案应为人名对应的A项。\n\n37. 本题的题干较长，但理解难度并不高。对应的原文中有非常明确的just as这种表示类比关系的词组，不难看懂，只是位置十分靠后，需要考生有足够的阅读速度，在考场上能够读到此处。只要能满足以上两点，即可顺利找到正确答案为选项C。\n\n38. 第四段里的not without consequences和第五段里的another issue都指向了题干所表达的“一系列问题”这个关键点，考生只需耐心按顺序阅读文章，应该不怎么费力就可以准确匹配到正确答案为A选项。\n\n39. 虽然考生也许对原文句中trajectory这个对应表达题干中path的词汇略感陌生，但是通读全句大意后应该可以合理忽略这个词汇本身的确切意思，依靠整体文意对应到正确答案为B项。\n\n40. 关于答案的对应出处句，正确答案即为人名对应的选项C。",
+          "promptHtml": "It is important to be aware of the range of problems that AI causes. [38] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "People are going to follow a less conventional career path than in the past. [39] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8322_455745",
+          "explanation": "35. 本题无论是题干本身还是对应原文，都句式清晰用词简单，考生只需耐心依次看懂大意，而非单纯寻找某个定位关键词，就能顺利得出正确答案为本句人名对应的选项B。\n\n36. 题干中的appealing与对应原文中的attract都是雅思阅读文章中的常客，做过精读分析的考生应该不会陌生。虽然对应原文句中并未直接出现AI而是使用了“算法”一词，但是从前文阅读中不难得知，在本篇文章的语境下，这二者是可以进行近义替换的。正确答案应为人名对应的A项。\n\n37. 本题的题干较长，但理解难度并不高。对应的原文中有非常明确的just as这种表示类比关系的词组，不难看懂，只是位置十分靠后，需要考生有足够的阅读速度，在考场上能够读到此处。只要能满足以上两点，即可顺利找到正确答案为选项C。\n\n38. 第四段里的not without consequences和第五段里的another issue都指向了题干所表达的“一系列问题”这个关键点，考生只需耐心按顺序阅读文章，应该不怎么费力就可以准确匹配到正确答案为A选项。\n\n39. 虽然考生也许对原文句中trajectory这个对应表达题干中path的词汇略感陌生，但是通读全句大意后应该可以合理忽略这个词汇本身的确切意思，依靠整体文意对应到正确答案为B项。\n\n40. 关于答案的对应出处句，正确答案即为人名对应的选项C。",
+          "promptHtml": "People are going to follow a less conventional career path than in the past. [39] ______"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Authorities should take measures to ensure that there will be adequately paid work for everyone. [40] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8322_218534",
+          "explanation": "35. 本题无论是题干本身还是对应原文，都句式清晰用词简单，考生只需耐心依次看懂大意，而非单纯寻找某个定位关键词，就能顺利得出正确答案为本句人名对应的选项B。\n\n36. 题干中的appealing与对应原文中的attract都是雅思阅读文章中的常客，做过精读分析的考生应该不会陌生。虽然对应原文句中并未直接出现AI而是使用了“算法”一词，但是从前文阅读中不难得知，在本篇文章的语境下，这二者是可以进行近义替换的。正确答案应为人名对应的A项。\n\n37. 本题的题干较长，但理解难度并不高。对应的原文中有非常明确的just as这种表示类比关系的词组，不难看懂，只是位置十分靠后，需要考生有足够的阅读速度，在考场上能够读到此处。只要能满足以上两点，即可顺利找到正确答案为选项C。\n\n38. 第四段里的not without consequences和第五段里的another issue都指向了题干所表达的“一系列问题”这个关键点，考生只需耐心按顺序阅读文章，应该不怎么费力就可以准确匹配到正确答案为A选项。\n\n39. 虽然考生也许对原文句中trajectory这个对应表达题干中path的词汇略感陌生，但是通读全句大意后应该可以合理忽略这个词汇本身的确切意思，依靠整体文意对应到正确答案为B项。\n\n40. 关于答案的对应出处句，正确答案即为人名对应的选项C。",
+          "promptHtml": "Authorities should take measures to ensure that there will be adequately paid work for everyone. [40] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Stella Pachidi"
+        },
+        {
+          "value": "B",
+          "text": "Hamish Low"
+        },
+        {
+          "value": "C",
+          "text": "Ewan McGaughey"
+        }
+      ],
+      "contextHtml": "<p>Greater levels of automation will not result in lower employment.  <strong>[35] ______</strong> </p>\n\n<p>There are several reasons why AI is appealing to businesses.  <strong>[36] ______</strong> </p>\n\n<p>AI’s potential to transform people’s lives has parallels with major cultural shifts which occurred in previous eras.  <strong>[37] ______</strong> </p>\n\n<p>It is important to be aware of the range of problems that AI causes.  <strong>[38] ______</strong> </p>\n\n<p>People are going to follow a less conventional career path than in the past.  <strong>[39] ______</strong> </p>\n\n<p>Authorities should take measures to ensure that there will be adequately paid work for everyone.  <strong>[40] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<h1><b>The future of work</b></h1><p>According to a leading business consultancy, 3–14% of the global workforce will need to switch to a different occupation within the next 10–15 years, and all workers will need to adapt as their occupations evolve alongside increasingly capable machines. Automation – or ‘embodied artificial intelligence’ (AI) – is one aspect of the disruptive effects of technology on the labour market. ‘Disembodied AI’, like the algorithms running in our smartphones, is another.</p><p>Dr Stella Pachidi from Cambridge Judge Business School believes that some of the most fundamental changes are happening as a result of the ‘algorithmication’ of jobs that are dependent on data rather than on production – the so-called knowledge economy. Algorithms are capable of learning from data to undertake tasks that previously needed human judgement, such as reading legal contracts, analysing medical scans and gathering market intelligence.</p><p>‘In many cases, they can outperform humans,’ says Pachidi. ‘Organisations are attracted to using algorithms because they want to make choices based on what they consider is “perfect information”, as well as to reduce costs and enhance productivity.’</p><p>‘But these enhancements are not without consequences,’ says Pachidi. ‘If routine cognitive tasks are taken over by AI, how do professions develop their future experts?’ she asks. ‘One way of learning about a job is “legitimate peripheral participation” – a novice stands next to experts and learns by observation. If this isn’t happening, then you need to find new ways to learn.’</p><p>Another issue is the extent to which the technology influences or even controls the workforce. For over two years, Pachidi monitored a telecommunications company. ‘The way telecoms salespeople work is through personal and frequent contact with clients, using the benefit of experience to assess a situation and reach a decision. However, the company had started using a[n] … algorithm that defined when account managers should contact certain customers about which kinds of campaigns and what to offer them.’</p><p>The algorithm – usually built by external designers – often becomes the keeper of knowledge, she explains. In cases like this, Pachidi believes, a short-sighted view begins to creep into working practices whereby workers learn through the ‘algorithm’s eyes’ and become dependent on its instructions. Alternative explorations – where experimentation and human instinct lead to progress and new ideas – are effectively discouraged.</p><p>Pachidi and colleagues even observed people developing strategies to make the algorithm work to their own advantage. ‘We are seeing cases where workers feed the algorithm with false data to reach their targets,’ she reports.</p><p>It’s scenarios like these that many researchers are working to avoid. Their objective is to make AI technologies more trustworthy and transparent, so that organisations and individuals understand how AI decisions are made. In the meantime, says Pachidi, ‘We need to make sure we fully understand the dilemmas that this new world raises regarding expertise, occupational boundaries and control.’</p><p>Economist Professor Hamish Low believes that the future of work will involve major transitions across the whole life course for everyone: ‘The traditional trajectory of full-time education followed by full-time work followed by a pensioned retirement is a thing of the past,’ says Low. Instead, he envisages a multistage employment life: one where retraining happens across the life course, and where multiple jobs and no job happen by choice at different stages.</p><p>On the subject of job losses, Low believes the predictions are founded on a fallacy: ‘It assumes that the number of jobs is fixed. If in 30 years, half of 100 jobs are being carried out by robots, that doesn’t mean we are left with just 50 jobs for humans. The number of jobs will increase: we would expect there to be 150 jobs.’</p><p>Dr Ewan McGaughey, at Cambridge’s Centre for Business Research and King’s College London, agrees that ‘apocalyptic’ views about the future of work are misguided. ‘It’s the laws that restrict the supply of capital to the job market, not the advent of new technologies that causes unemployment.’</p><p>His recently published research answers the question of whether automation, AI and robotics will mean a ‘jobless future’ by looking at the causes of unemployment. ‘History is clear that change can mean redundancies. But social policies can tackle this through retraining and redeployment.’</p><p>He adds: ‘If there is going to be change to jobs as a result of AI and robotics then I’d like to see governments seizing the opportunity to improve policy to enforce good job security. We can “reprogramme” the law to prepare for a fairer future of work and leisure.’ McGaughey’s findings are a call to arms to leaders of organisations, governments and banks to pre-empt the coming changes with bold new policies that guarantee full employment, fair incomes and a thriving economic democracy.</p><p>‘The promises of these new technologies are astounding. They deliver humankind the capacity to live in a way that nobody could have once imagined,’ he adds. ‘Just as the industrial revolution brought people past subsistence agriculture, and the corporate revolution enabled mass production, a third revolution has been pronounced. But it will not only be one of technology. The next revolution will be social.’</p>"
+}

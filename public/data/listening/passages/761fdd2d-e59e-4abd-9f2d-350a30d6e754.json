@@ -1,0 +1,295 @@
+{
+  "id": "761fdd2d-e59e-4abd-9f2d-350a30d6e754",
+  "title": "Cube houses",
+  "titleCn": "鹿特丹立体方块屋",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/761fdd2d-e59e-4abd-9f2d-350a30d6e754",
+  "duration": 545,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,080"
+    },
+    {
+      "label": "2",
+      "text": "Part four. You will hear part of a lecture on cube houses in Rotterdam. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:01:01,760"
+    },
+    {
+      "label": "4",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:01:09,500"
+    },
+    {
+      "label": "6",
+      "text": "Good morning. In today's lecture, we're going to look at the cube houses, an iconic architectural complex in Rotterdam. First, I'm going to be telling you about the history behind it. As many may know, not much survived the bombing of Rotterdam during World War II, and it took a long while for the city to start the urban regeneration project. Dutch architect Piet Blom designed Rotterdam's cube houses in the late '70s at the request of the city's planners. He had previously experimented with cubic architecture in the city of Helmond. So when he was offered this project in the Oudehaven area of the city, he decided to expand upon his original idea. Blom believed that urban communities should live together under an urban roof. He designed the cube houses to recreate daily life in a village where individuals are closely connected and yet have their own separate space. And even after more than thirty years, the cube houses remain one of the city's most eye-catching developments. It's easy to see why. These striking homes are cubes tilted forty-five degrees on their side. The result is buildings that look, feel, and behave unlike anything you'll find elsewhere in the world. The concept behind these houses is that each elevated cube seems like a tree. And collectively, the cube houses are in the shape of a forest, with each triangular roof representing a treetop. Interestingly, these houses are located right over a pedestrian bridge across one of the busiest streets into the city center next to a railway station. The traffic-free area that connects the cubes includes a little children's playground, as well as small offices and studios. With thriving restaurants and cafes right on the doorstep, they were designed with the community very much in mind. However, the cube housing's development endured various challenges and complications during design and construction, and it once stopped as the designer had difficulty in finance. Luckily, the project resumed within two weeks after the designer received another round of grants from the city council."
+    },
+    {
+      "label": "7",
+      "text": "00:03:41,960"
+    },
+    {
+      "label": "8",
+      "text": "So what makes the cube houses different from traditional architecture? Let's look at some of its unique design features. Each cube house has a space of one hundred square meters and is divided into three floors, and it is very striking to see these houses fixed on one angle. The tilted residences are constructed on three concrete pillars. The whole construction is made of thirty-eight regular cube units all connected together with two super-sized cubes at both ends of the string. One of the two larger cubes was developed as an architecture school, and there is another building recently built between it and a warehouse. Standing at three floors tall, their ground floor is the entrance. When you enter a cube house, the first thing to get used to is that all the walls are slanted. You must take a narrow staircase to reach the lower floor. This level and the top level are both triangle shaped. The lower level contains an open kitchen and a living room. The medium level houses a bathroom and two bedrooms, while the top level provides a great view since the apex of the room is a three-sided pyramid with windows all around. In some cases, the top floor is used as a small rooftop garden. And as you enter the top half of the structure, your initial inclination may well be to mind your head. Now that you know the history and design features behind these odd-looking houses, you might be thinking about how it is to live in them. After curious bystanders kept disturbing the cube houses residents, one shrewd owner opened the Show Cube Museum, which gives visitors the chance to take a tour around a fully furnished cube house. It also highlights some of the everyday challenges that the residents face, such as buying and fitting furniture for a structure without straight walls. In recent years, Rotterdam's cube houses have been joined by another architectural icon just across the square. Rotterdam's Market Hall, the largest indoor market in the Netherlands, is another multipurpose residential and retail complex that will live long in your memory, as well as helping to fill your belly with tasty treats. In two thousand and nine, the Rotterdam-based Personal Architecture, BNA, converted one of the larger cubes for one of the leading Stayokay hostel chains in the Netherlands. Today, the hostel invites everyone to experience what it's like to live in a cube house and enjoy a stunning panoramic vista of the surrounding area. What attracts guests most is its ideal location with a major railway station within a five-minute walk. The accommodation is also offered at a fair price, which appeals to visitors both from home and abroad."
+    },
+    {
+      "label": "9",
+      "text": "00:06:56,620"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of part four. You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "ad4fa554-172e-4b7f-8806-f6a6de69cfac",
+          "prompt": "**Background Information**\n· After World War II, local urban planners wanted to redevelop and revive and the city.\n· Altogether, the Cube Houses can function as a **31**_____ .",
+          "answers": [
+            "village"
+          ],
+          "rawAnswer": "village",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Blom believed that urban communities should live together under an urban roof. He designed the cube houses to recreate daily life in a village where individuals are closely connected and yet have their own separate space"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "b13c8a8d-0546-4f73-807c-c43494220437",
+          "prompt": "· Each Cube building is in the shape of a **32**_____ .",
+          "answers": [
+            "tree"
+          ],
+          "rawAnswer": "tree",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The concept behind these houses is that each elevated cube seems like a tree"
+          },
+          "keywordPairs": [
+            {
+              "question": "in the shape of a",
+              "article": "seems like a"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "dd2031a4-7c5e-4faa-ba80-44c6c37043a7",
+          "prompt": "· The Cube Houses sit on top of a **33**_____ for pedestrians to the central city.",
+          "answers": [
+            "bridge"
+          ],
+          "rawAnswer": "bridge",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Interestingly, these houses are located right over a pedestrian bridge across one of the busiest streets into the city center next to a railway station"
+          },
+          "keywordPairs": [
+            {
+              "question": "sit on top of",
+              "article": "located right over"
+            },
+            {
+              "question": "to the central city",
+              "article": "into the city center"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "c8340883-175f-42d8-bbd7-9405c2d6ec41",
+          "prompt": "· During construction, the work was temporarily discontinued because the designer faced the problem of **34**_____ .",
+          "answers": [
+            "finance"
+          ],
+          "rawAnswer": "finance",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, the cube housing's development endured various challenges and complications during design and construction, and it once stopped as the designer had difficulty in finance"
+          },
+          "keywordPairs": [
+            {
+              "question": "temporarily discontinued",
+              "article": "once stopped"
+            },
+            {
+              "question": "faced the problem of",
+              "article": "had difficulty in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "1899fe39-e783-4974-88c0-d9b8470d0729",
+          "prompt": "**Design Features of the Cube Houses**\n· Underneath the houses, there are three pillars made of **35**_____",
+          "answers": [
+            "concrete"
+          ],
+          "rawAnswer": "concrete",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The tilted residences are constructed on three concrete pillars"
+          },
+          "keywordPairs": [
+            {
+              "question": "made of",
+              "article": "constructed on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "a48bba81-fbb4-4efa-9952-f5f779c62659",
+          "prompt": "· A new building is situated between a warehouse and a **36**_____ , of architecture.",
+          "answers": [
+            "school"
+          ],
+          "rawAnswer": "school",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of the two larger cubes was developed as an architecture school, and there is another building recently built between it and a warehouse"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "c66c1f29-1790-475c-ad1e-56baceeeed12",
+          "prompt": "· It is a three-storey building.\n· The ground floor is an entrance.\n· Both the lower level and the top level of each house are in the shape of a **37**_____ .",
+          "answers": [
+            "triangle"
+          ],
+          "rawAnswer": "triangle",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You must take a narrow staircase to reach the lower floor. This level and the top level are both triangle shaped"
+          },
+          "keywordPairs": [],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "fc497c3c-ce50-424f-9438-306c12f4b062",
+          "prompt": "· The first floor has a living room and an open kitchen.\n· The medium level has a bathroom and two bedrooms.\n· The top floor is sometimes used as a small **38**_____ .",
+          "answers": [
+            "garden"
+          ],
+          "rawAnswer": "garden",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In some cases, the top floor is used as a small rooftop garden"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "401f3b75-9d01-4e92-83fb-babf4573de6a",
+          "prompt": "**Living in the Cube Houses**\n· There is a nearby market **39**_____ .",
+          "answers": [
+            "hall"
+          ],
+          "rawAnswer": "hall",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In recent years, Rotterdam's cube houses have been joined by another architectural icon just across the square. Rotterdam's Market Hall, the largest indoor market in the Netherlands, is another multipurpose residential and retail complex that will live long in your memory"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "806f0cb6-1faf-49de-b68a-0cc9586dc05a",
+          "prompt": "· For guests, two advantages of the house are its convenient **40**_____ and reasonable price.",
+          "answers": [
+            "location"
+          ],
+          "rawAnswer": "location",
+          "evidence": {
+            "paragraph": "",
+            "quote": "What attracts guests most is its ideal location with a major railway station within a five-minute walk. The accommodation is also offered at a fair price"
+          },
+          "keywordPairs": [
+            {
+              "question": "convenient",
+              "article": "ideal"
+            },
+            {
+              "question": "reasonable",
+              "article": "fair"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,080</p><p>Part four. You will hear part of a lecture on cube houses in Rotterdam. First, you have some time to look at questions thirty-one to forty. </p><p>00:01:01,760</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:09,500</p><p>Good morning. In today's lecture, we're going to look at the cube houses, an iconic architectural complex in Rotterdam. First, I'm going to be telling you about the history behind it. As many may know, not much survived the bombing of Rotterdam during World War II, and it took a long while for the city to start the urban regeneration project. Dutch architect Piet Blom designed Rotterdam's cube houses in the late '70s at the request of the city's planners. He had previously experimented with cubic architecture in the city of Helmond. So when he was offered this project in the Oudehaven area of the city, he decided to expand upon his original idea. Blom believed that urban communities should live together under an urban roof. He designed the cube houses to recreate daily life in a village where individuals are closely connected and yet have their own separate space. And even after more than thirty years, the cube houses remain one of the city's most eye-catching developments. It's easy to see why. These striking homes are cubes tilted forty-five degrees on their side. The result is buildings that look, feel, and behave unlike anything you'll find elsewhere in the world. The concept behind these houses is that each elevated cube seems like a tree. And collectively, the cube houses are in the shape of a forest, with each triangular roof representing a treetop. Interestingly, these houses are located right over a pedestrian bridge across one of the busiest streets into the city center next to a railway station. The traffic-free area that connects the cubes includes a little children's playground, as well as small offices and studios. With thriving restaurants and cafes right on the doorstep, they were designed with the community very much in mind. However, the cube housing's development endured various challenges and complications during design and construction, and it once stopped as the designer had difficulty in finance. Luckily, the project resumed within two weeks after the designer received another round of grants from the city council. </p><p>00:03:41,960</p><p>So what makes the cube houses different from traditional architecture? Let's look at some of its unique design features. Each cube house has a space of one hundred square meters and is divided into three floors, and it is very striking to see these houses fixed on one angle. The tilted residences are constructed on three concrete pillars. The whole construction is made of thirty-eight regular cube units all connected together with two super-sized cubes at both ends of the string. One of the two larger cubes was developed as an architecture school, and there is another building recently built between it and a warehouse. Standing at three floors tall, their ground floor is the entrance. When you enter a cube house, the first thing to get used to is that all the walls are slanted. You must take a narrow staircase to reach the lower floor. This level and the top level are both triangle shaped. The lower level contains an open kitchen and a living room. The medium level houses a bathroom and two bedrooms, while the top level provides a great view since the apex of the room is a three-sided pyramid with windows all around. In some cases, the top floor is used as a small rooftop garden. And as you enter the top half of the structure, your initial inclination may well be to mind your head. Now that you know the history and design features behind these odd-looking houses, you might be thinking about how it is to live in them. After curious bystanders kept disturbing the cube houses residents, one shrewd owner opened the Show Cube Museum, which gives visitors the chance to take a tour around a fully furnished cube house. It also highlights some of the everyday challenges that the residents face, such as buying and fitting furniture for a structure without straight walls. In recent years, Rotterdam's cube houses have been joined by another architectural icon just across the square. Rotterdam's Market Hall, the largest indoor market in the Netherlands, is another multipurpose residential and retail complex that will live long in your memory, as well as helping to fill your belly with tasty treats. In two thousand and nine, the Rotterdam-based Personal Architecture, BNA, converted one of the larger cubes for one of the leading Stayokay hostel chains in the Netherlands. Today, the hostel invites everyone to experience what it's like to live in a cube house and enjoy a stunning panoramic vista of the surrounding area. What attracts guests most is its ideal location with a major railway station within a five-minute walk. The accommodation is also offered at a fair price, which appeals to visitors both from home and abroad. </p><p>00:06:56,620</p><p>That is the end of part four. You now have one minute to check your answers to part four.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/761fdd2d-e59e-4abd-9f2d-350a30d6e754.mp3",
+    "durationSeconds": 424.8,
+    "sizeBytes": 1699545,
+    "sha256": "ab7e021338b9ff88ac06829ec58aec047eb05b90a3223190bf4d97bd6e32b0d9",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:33:22Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786349181410_3069bj_364eeba0.mp3"
+}

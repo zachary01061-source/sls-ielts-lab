@@ -1,0 +1,2035 @@
+{
+  "converted_part_files": 448,
+  "source_listening_parts_expected": 256,
+  "source_listening_parts_downloaded": 256,
+  "missing_source_audio_qids": [],
+  "referenced_media_keys": 331,
+  "referenced_audio_keys": 256,
+  "referenced_image_keys": 75,
+  "missing_media_keys": [],
+  "unresolved_source_asset_urls": [],
+  "unused_verified_keys": [
+    "images/09928d736869f5e23d8cfd75d071130c.png",
+    "images/4690129893a8ce66410c786e10f4db46.png",
+    "images/77128663fe31f6c4681d08ac143391ca.png",
+    "images/87ec7c0043e2987b8bd957ca194ac048.png",
+    "images/b914959060f81a953dbb47b7095855e1.png",
+    "images/cc7d4cca8be8a9f7db6e7b69ad876eaf.png"
+  ],
+  "references": {
+    "audio/6796.mp3": [
+      {
+        "file": "cambridge-10-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6802.mp3": [
+      {
+        "file": "cambridge-10-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6803.mp3": [
+      {
+        "file": "cambridge-10-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6805.mp3": [
+      {
+        "file": "cambridge-10-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6873.mp3": [
+      {
+        "file": "cambridge-10-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6876.mp3": [
+      {
+        "file": "cambridge-10-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6883.mp3": [
+      {
+        "file": "cambridge-10-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6889.mp3": [
+      {
+        "file": "cambridge-10-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6824.mp3": [
+      {
+        "file": "cambridge-10-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6835.mp3": [
+      {
+        "file": "cambridge-10-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6837.mp3": [
+      {
+        "file": "cambridge-10-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6840.mp3": [
+      {
+        "file": "cambridge-10-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/2da03e680359fa9e6420068ea5f4c594.jpg": [
+      {
+        "file": "cambridge-10-test-3-reading-3.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6830.mp3": [
+      {
+        "file": "cambridge-10-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6836.mp3": [
+      {
+        "file": "cambridge-10-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6838.mp3": [
+      {
+        "file": "cambridge-10-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6841.mp3": [
+      {
+        "file": "cambridge-10-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6734.mp3": [
+      {
+        "file": "cambridge-11-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/887620f61e14c5560f9f2602bffb45d3.png": [
+      {
+        "file": "cambridge-11-test-1-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6736.mp3": [
+      {
+        "file": "cambridge-11-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6743.mp3": [
+      {
+        "file": "cambridge-11-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6747.mp3": [
+      {
+        "file": "cambridge-11-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/a60a25fffae66e5492c87966bd5dfa6d.png": [
+      {
+        "file": "cambridge-11-test-1-reading-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6776.mp3": [
+      {
+        "file": "cambridge-11-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/6a756253e9ad631618622eddf8a35332.jpg": [
+      {
+        "file": "cambridge-11-test-2-listening-2.json",
+        "field": ".groups[3].contextHtml"
+      }
+    ],
+    "audio/6778.mp3": [
+      {
+        "file": "cambridge-11-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6781.mp3": [
+      {
+        "file": "cambridge-11-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6783.mp3": [
+      {
+        "file": "cambridge-11-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/299f27a871cbd65ae837483974a36b83.jpg": [
+      {
+        "file": "cambridge-11-test-2-reading-1.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "audio/6777.mp3": [
+      {
+        "file": "cambridge-11-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6779.mp3": [
+      {
+        "file": "cambridge-11-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6780.mp3": [
+      {
+        "file": "cambridge-11-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6782.mp3": [
+      {
+        "file": "cambridge-11-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6804.mp3": [
+      {
+        "file": "cambridge-11-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/f4a64557f3b6cda921e1c4feb050d837.jpg": [
+      {
+        "file": "cambridge-11-test-4-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6807.mp3": [
+      {
+        "file": "cambridge-11-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6808.mp3": [
+      {
+        "file": "cambridge-11-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6811.mp3": [
+      {
+        "file": "cambridge-11-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6705.mp3": [
+      {
+        "file": "cambridge-12-test-5-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6707.mp3": [
+      {
+        "file": "cambridge-12-test-5-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6711.mp3": [
+      {
+        "file": "cambridge-12-test-5-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6713.mp3": [
+      {
+        "file": "cambridge-12-test-5-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6710.mp3": [
+      {
+        "file": "cambridge-12-test-6-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6715.mp3": [
+      {
+        "file": "cambridge-12-test-6-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/cbb2f7089abccbe06df2e01be143ee98.png": [
+      {
+        "file": "cambridge-12-test-6-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/140ac782adb22b0f8553c04901f05d3f.png": [
+      {
+        "file": "cambridge-12-test-6-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/559154d9fe2512586cd428f24e73cef3.png": [
+      {
+        "file": "cambridge-12-test-6-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/38fa7206909ce2ea400764eb50c62e41.png": [
+      {
+        "file": "cambridge-12-test-6-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/2404f44a4a04adc6840e411f3de82907.png": [
+      {
+        "file": "cambridge-12-test-6-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6717.mp3": [
+      {
+        "file": "cambridge-12-test-6-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6720.mp3": [
+      {
+        "file": "cambridge-12-test-6-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6735.mp3": [
+      {
+        "file": "cambridge-12-test-7-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6738.mp3": [
+      {
+        "file": "cambridge-12-test-7-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/7863fc9701e398bc19e21d731e18ae34.png": [
+      {
+        "file": "cambridge-12-test-7-listening-3.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "images/a5e4bee01bdd72069b5eff1942fb2dfa.png": [
+      {
+        "file": "cambridge-12-test-7-listening-3.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "audio/6740.mp3": [
+      {
+        "file": "cambridge-12-test-7-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6746.mp3": [
+      {
+        "file": "cambridge-12-test-7-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6750.mp3": [
+      {
+        "file": "cambridge-12-test-8-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/ae5ae10019640f3d5a1d1f3adfb19572.jpg": [
+      {
+        "file": "cambridge-12-test-8-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6753.mp3": [
+      {
+        "file": "cambridge-12-test-8-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6761.mp3": [
+      {
+        "file": "cambridge-12-test-8-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6765.mp3": [
+      {
+        "file": "cambridge-12-test-8-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6671.mp3": [
+      {
+        "file": "cambridge-13-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/4010c9edf21e52251c474442b0b95b65.png": [
+      {
+        "file": "cambridge-13-test-1-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6680.mp3": [
+      {
+        "file": "cambridge-13-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/fe7d8f975e33c802a88cfa483167a98c.png": [
+      {
+        "file": "cambridge-13-test-1-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      },
+      {
+        "file": "cambridge-13-test-1-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      },
+      {
+        "file": "cambridge-13-test-1-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      },
+      {
+        "file": "cambridge-13-test-1-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      },
+      {
+        "file": "cambridge-13-test-1-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6682.mp3": [
+      {
+        "file": "cambridge-13-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6688.mp3": [
+      {
+        "file": "cambridge-13-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6677.mp3": [
+      {
+        "file": "cambridge-13-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6678.mp3": [
+      {
+        "file": "cambridge-13-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6679.mp3": [
+      {
+        "file": "cambridge-13-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6681.mp3": [
+      {
+        "file": "cambridge-13-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6692.mp3": [
+      {
+        "file": "cambridge-13-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6693.mp3": [
+      {
+        "file": "cambridge-13-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6694.mp3": [
+      {
+        "file": "cambridge-13-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6695.mp3": [
+      {
+        "file": "cambridge-13-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6704.mp3": [
+      {
+        "file": "cambridge-13-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6706.mp3": [
+      {
+        "file": "cambridge-13-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6708.mp3": [
+      {
+        "file": "cambridge-13-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6709.mp3": [
+      {
+        "file": "cambridge-13-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6620.mp3": [
+      {
+        "file": "cambridge-14-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6621.mp3": [
+      {
+        "file": "cambridge-14-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6623.mp3": [
+      {
+        "file": "cambridge-14-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6630.mp3": [
+      {
+        "file": "cambridge-14-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6633.mp3": [
+      {
+        "file": "cambridge-14-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/4822d5107161175aa876d2b0f4814008.png": [
+      {
+        "file": "cambridge-14-test-2-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6634.mp3": [
+      {
+        "file": "cambridge-14-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6635.mp3": [
+      {
+        "file": "cambridge-14-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6637.mp3": [
+      {
+        "file": "cambridge-14-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6646.mp3": [
+      {
+        "file": "cambridge-14-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6648.mp3": [
+      {
+        "file": "cambridge-14-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6654.mp3": [
+      {
+        "file": "cambridge-14-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6655.mp3": [
+      {
+        "file": "cambridge-14-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6656.mp3": [
+      {
+        "file": "cambridge-14-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6657.mp3": [
+      {
+        "file": "cambridge-14-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6658.mp3": [
+      {
+        "file": "cambridge-14-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6659.mp3": [
+      {
+        "file": "cambridge-14-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7854.mp3": [
+      {
+        "file": "cambridge-15-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7876.mp3": [
+      {
+        "file": "cambridge-15-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7877.mp3": [
+      {
+        "file": "cambridge-15-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7878.mp3": [
+      {
+        "file": "cambridge-15-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8126.mp3": [
+      {
+        "file": "cambridge-15-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/0f645f26a254f6cc571c14f450850385.png": [
+      {
+        "file": "cambridge-15-test-2-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8128.mp3": [
+      {
+        "file": "cambridge-15-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8129.mp3": [
+      {
+        "file": "cambridge-15-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8130.mp3": [
+      {
+        "file": "cambridge-15-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8113.mp3": [
+      {
+        "file": "cambridge-15-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8116.mp3": [
+      {
+        "file": "cambridge-15-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8117.mp3": [
+      {
+        "file": "cambridge-15-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8118.mp3": [
+      {
+        "file": "cambridge-15-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8114.mp3": [
+      {
+        "file": "cambridge-15-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/3bf934d609f61ec7e55a36b03f19b7ed.png": [
+      {
+        "file": "cambridge-15-test-4-listening-2.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "audio/8120.mp3": [
+      {
+        "file": "cambridge-15-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8121.mp3": [
+      {
+        "file": "cambridge-15-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8151.mp3": [
+      {
+        "file": "cambridge-15-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8351.mp3": [
+      {
+        "file": "cambridge-16-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/5cebd879ff01d46b9adf38d5a6f5bf78.png": [
+      {
+        "file": "cambridge-16-test-1-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8352.mp3": [
+      {
+        "file": "cambridge-16-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/734baf4f63ba8628449f51ce60314d7e.png": [
+      {
+        "file": "cambridge-16-test-1-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8353.mp3": [
+      {
+        "file": "cambridge-16-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8354.mp3": [
+      {
+        "file": "cambridge-16-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8355.mp3": [
+      {
+        "file": "cambridge-16-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/ede2ebe5fa0db2fbdf7610b4a25aad78.png": [
+      {
+        "file": "cambridge-16-test-2-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8356.mp3": [
+      {
+        "file": "cambridge-16-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/894fdb9ae512d1ad2fbc9c47424785c8.jpg": [
+      {
+        "file": "cambridge-16-test-2-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8357.mp3": [
+      {
+        "file": "cambridge-16-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8358.mp3": [
+      {
+        "file": "cambridge-16-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/63dd2d4bb9db52eebed8022294f377ce.png": [
+      {
+        "file": "cambridge-16-test-2-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/8359.mp3": [
+      {
+        "file": "cambridge-16-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/91e21880da71e294bf85001721d22523.png": [
+      {
+        "file": "cambridge-16-test-3-listening-2.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "audio/8360.mp3": [
+      {
+        "file": "cambridge-16-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8361.mp3": [
+      {
+        "file": "cambridge-16-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8362.mp3": [
+      {
+        "file": "cambridge-16-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8363.mp3": [
+      {
+        "file": "cambridge-16-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/07b098c2d930d5fcc313b1271ad51e50.png": [
+      {
+        "file": "cambridge-16-test-4-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8364.mp3": [
+      {
+        "file": "cambridge-16-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/74889d2c3e92fd4fe6194f8bf0377368.png": [
+      {
+        "file": "cambridge-16-test-4-listening-3.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "audio/8365.mp3": [
+      {
+        "file": "cambridge-16-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8366.mp3": [
+      {
+        "file": "cambridge-16-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/177e951893ee3d25715bbb4c00263f7b.jpg": [
+      {
+        "file": "cambridge-16-test-4-reading-1.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "audio/8367.mp3": [
+      {
+        "file": "cambridge-17-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8368.mp3": [
+      {
+        "file": "cambridge-17-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8369.mp3": [
+      {
+        "file": "cambridge-17-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8370.mp3": [
+      {
+        "file": "cambridge-17-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8371.mp3": [
+      {
+        "file": "cambridge-17-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8372.mp3": [
+      {
+        "file": "cambridge-17-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8373.mp3": [
+      {
+        "file": "cambridge-17-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8374.mp3": [
+      {
+        "file": "cambridge-17-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8381.mp3": [
+      {
+        "file": "cambridge-17-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8382.mp3": [
+      {
+        "file": "cambridge-17-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8383.mp3": [
+      {
+        "file": "cambridge-17-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8384.mp3": [
+      {
+        "file": "cambridge-17-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8388.mp3": [
+      {
+        "file": "cambridge-17-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8389.mp3": [
+      {
+        "file": "cambridge-17-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8390.mp3": [
+      {
+        "file": "cambridge-17-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8391.mp3": [
+      {
+        "file": "cambridge-17-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8435.mp3": [
+      {
+        "file": "cambridge-18-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8436.mp3": [
+      {
+        "file": "cambridge-18-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8437.mp3": [
+      {
+        "file": "cambridge-18-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8438.mp3": [
+      {
+        "file": "cambridge-18-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8447.mp3": [
+      {
+        "file": "cambridge-18-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/cb3cf41a1162460f454c7bc753944d75.jpg": [
+      {
+        "file": "cambridge-18-test-2-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8448.mp3": [
+      {
+        "file": "cambridge-18-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8449.mp3": [
+      {
+        "file": "cambridge-18-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8450.mp3": [
+      {
+        "file": "cambridge-18-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8459.mp3": [
+      {
+        "file": "cambridge-18-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8460.mp3": [
+      {
+        "file": "cambridge-18-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8461.mp3": [
+      {
+        "file": "cambridge-18-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8462.mp3": [
+      {
+        "file": "cambridge-18-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8471.mp3": [
+      {
+        "file": "cambridge-18-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8472.mp3": [
+      {
+        "file": "cambridge-18-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8473.mp3": [
+      {
+        "file": "cambridge-18-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8474.mp3": [
+      {
+        "file": "cambridge-18-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8488.mp3": [
+      {
+        "file": "cambridge-19-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/5b9cd86ef1e28e13fda47f84422f89a2.png": [
+      {
+        "file": "cambridge-19-test-1-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8489.mp3": [
+      {
+        "file": "cambridge-19-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8485.mp3": [
+      {
+        "file": "cambridge-19-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8490.mp3": [
+      {
+        "file": "cambridge-19-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8487.mp3": [
+      {
+        "file": "cambridge-19-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8491.mp3": [
+      {
+        "file": "cambridge-19-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8500.mp3": [
+      {
+        "file": "cambridge-19-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8501.mp3": [
+      {
+        "file": "cambridge-19-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8492.mp3": [
+      {
+        "file": "cambridge-19-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8493.mp3": [
+      {
+        "file": "cambridge-19-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/5efeec8b0c63481ea3cccd283f8942cf.png": [
+      {
+        "file": "cambridge-19-test-3-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/eafd5b77f6c1a2e0913fb9f0aed03373.png": [
+      {
+        "file": "cambridge-19-test-3-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/8fb792a9c2d9c3940558d5ac73d32ae2.png": [
+      {
+        "file": "cambridge-19-test-3-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      },
+      {
+        "file": "cambridge-19-test-3-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8494.mp3": [
+      {
+        "file": "cambridge-19-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8495.mp3": [
+      {
+        "file": "cambridge-19-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8497.mp3": [
+      {
+        "file": "cambridge-19-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8498.mp3": [
+      {
+        "file": "cambridge-19-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8499.mp3": [
+      {
+        "file": "cambridge-19-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8496.mp3": [
+      {
+        "file": "cambridge-19-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8534.mp3": [
+      {
+        "file": "cambridge-20-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8535.mp3": [
+      {
+        "file": "cambridge-20-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8536.mp3": [
+      {
+        "file": "cambridge-20-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8537.mp3": [
+      {
+        "file": "cambridge-20-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8538.mp3": [
+      {
+        "file": "cambridge-20-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8539.mp3": [
+      {
+        "file": "cambridge-20-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8540.mp3": [
+      {
+        "file": "cambridge-20-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8541.mp3": [
+      {
+        "file": "cambridge-20-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8542.mp3": [
+      {
+        "file": "cambridge-20-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/c123e56557f98e9ad2c0de34222f6dec.jpg": [
+      {
+        "file": "cambridge-20-test-3-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/8543.mp3": [
+      {
+        "file": "cambridge-20-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8544.mp3": [
+      {
+        "file": "cambridge-20-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8545.mp3": [
+      {
+        "file": "cambridge-20-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8546.mp3": [
+      {
+        "file": "cambridge-20-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8547.mp3": [
+      {
+        "file": "cambridge-20-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8548.mp3": [
+      {
+        "file": "cambridge-20-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/8549.mp3": [
+      {
+        "file": "cambridge-20-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6954.mp3": [
+      {
+        "file": "cambridge-5-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6955.mp3": [
+      {
+        "file": "cambridge-5-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6956.mp3": [
+      {
+        "file": "cambridge-5-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6957.mp3": [
+      {
+        "file": "cambridge-5-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7013.mp3": [
+      {
+        "file": "cambridge-5-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7015.mp3": [
+      {
+        "file": "cambridge-5-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7020.mp3": [
+      {
+        "file": "cambridge-5-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7022.mp3": [
+      {
+        "file": "cambridge-5-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/242527b659d1358401a7b721e6356500.png": [
+      {
+        "file": "cambridge-5-test-2-reading-1.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/7453f16b43dd02093a6e6cf6a583401a.png": [
+      {
+        "file": "cambridge-5-test-2-reading-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/7057.mp3": [
+      {
+        "file": "cambridge-5-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7059.mp3": [
+      {
+        "file": "cambridge-5-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7061.mp3": [
+      {
+        "file": "cambridge-5-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7063.mp3": [
+      {
+        "file": "cambridge-5-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/17372bb68845a902d034015d6524d04c.png": [
+      {
+        "file": "cambridge-5-test-3-reading-2.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "images/f2fec1ec6e0d67ec45e616fec81dd3dc.jpg": [
+      {
+        "file": "cambridge-5-test-3-reading-3.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/7076.mp3": [
+      {
+        "file": "cambridge-5-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7082.mp3": [
+      {
+        "file": "cambridge-5-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7084.mp3": [
+      {
+        "file": "cambridge-5-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7086.mp3": [
+      {
+        "file": "cambridge-5-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7058.mp3": [
+      {
+        "file": "cambridge-6-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7060.mp3": [
+      {
+        "file": "cambridge-6-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7062.mp3": [
+      {
+        "file": "cambridge-6-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7064.mp3": [
+      {
+        "file": "cambridge-6-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/773e710e8297af8f1556f4127f7e4711.png": [
+      {
+        "file": "cambridge-6-test-1-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "images/59ffd26d40aebb3f68f40203538538d4.png": [
+      {
+        "file": "cambridge-6-test-1-reading-2.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "images/ab815c8792b37bd81a4942b05133b4cc.png": [
+      {
+        "file": "cambridge-6-test-1-reading-3.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/7000.mp3": [
+      {
+        "file": "cambridge-6-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7007.mp3": [
+      {
+        "file": "cambridge-6-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7009.mp3": [
+      {
+        "file": "cambridge-6-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7012.mp3": [
+      {
+        "file": "cambridge-6-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/966a4a5e2c33723f0f8c94cc7a126ccf.jpg": [
+      {
+        "file": "cambridge-6-test-2-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "images/534827be24ab34f65cdb0234b411d3f9.jpg": [
+      {
+        "file": "cambridge-6-test-2-reading-3.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/7021.mp3": [
+      {
+        "file": "cambridge-6-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/3c6209e6735553dcba8225b1eb33896e.png": [
+      {
+        "file": "cambridge-6-test-3-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/7023.mp3": [
+      {
+        "file": "cambridge-6-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7024.mp3": [
+      {
+        "file": "cambridge-6-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/d8ab1276f9cf022049bb49dc66baee41.png": [
+      {
+        "file": "cambridge-6-test-3-listening-4.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "audio/7028.mp3": [
+      {
+        "file": "cambridge-6-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/9f765e1dd78b6cf484acf4c2a7ff7486.png": [
+      {
+        "file": "cambridge-6-test-3-reading-3.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "audio/6976.mp3": [
+      {
+        "file": "cambridge-6-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7044.mp3": [
+      {
+        "file": "cambridge-6-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7050.mp3": [
+      {
+        "file": "cambridge-6-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/7051.mp3": [
+      {
+        "file": "cambridge-6-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/0a18f7d40ca5317632fcedb1ce06114d.png": [
+      {
+        "file": "cambridge-6-test-4-reading-2.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6968.mp3": [
+      {
+        "file": "cambridge-7-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6973.mp3": [
+      {
+        "file": "cambridge-7-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6977.mp3": [
+      {
+        "file": "cambridge-7-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6981.mp3": [
+      {
+        "file": "cambridge-7-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/f8fe000f9f99543b540cc90971a9caed.png": [
+      {
+        "file": "cambridge-7-test-1-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "images/050962ae201ddb51b5a7f98945d672f7.png": [
+      {
+        "file": "cambridge-7-test-1-reading-2.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6967.mp3": [
+      {
+        "file": "cambridge-7-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/1705738bf2f50754c77ca5151e36d2c4.jpg": [
+      {
+        "file": "cambridge-7-test-2-listening-2.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "audio/6970.mp3": [
+      {
+        "file": "cambridge-7-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6971.mp3": [
+      {
+        "file": "cambridge-7-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6975.mp3": [
+      {
+        "file": "cambridge-7-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/c6b17606c8f2305ef3b5dbf0d26b7deb.jpg": [
+      {
+        "file": "cambridge-7-test-2-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "images/676cdf1d828d2bf4730099dc56dd9b55.jpg": [
+      {
+        "file": "cambridge-7-test-2-reading-2.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6985.mp3": [
+      {
+        "file": "cambridge-7-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/e933fe4bf3dd8a736168a19c15855903.png": [
+      {
+        "file": "cambridge-7-test-3-listening-2.json",
+        "field": ".groups[0].questions[1].promptHtml"
+      }
+    ],
+    "images/213f77d0ef207f165d6a39f46074bffa.png": [
+      {
+        "file": "cambridge-7-test-3-listening-2.json",
+        "field": ".groups[0].questions[1].options[0].contentHtml"
+      }
+    ],
+    "images/680a276667db4d69bcc372ad4407a373.png": [
+      {
+        "file": "cambridge-7-test-3-listening-2.json",
+        "field": ".groups[0].questions[1].options[1].contentHtml"
+      }
+    ],
+    "images/264cd38ab5b9a12c3a0dda04c91bcce4.png": [
+      {
+        "file": "cambridge-7-test-3-listening-2.json",
+        "field": ".groups[0].questions[1].options[2].contentHtml"
+      }
+    ],
+    "audio/6989.mp3": [
+      {
+        "file": "cambridge-7-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/9f957fd6225e3349aa989f01a1aa2398.png": [
+      {
+        "file": "cambridge-7-test-3-listening-3.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6997.mp3": [
+      {
+        "file": "cambridge-7-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6999.mp3": [
+      {
+        "file": "cambridge-7-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/21d6a1ef739a2b0a0a8d99193575d6c9.png": [
+      {
+        "file": "cambridge-7-test-3-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "images/04237378c6ba9fa56c69e811642422e9.png": [
+      {
+        "file": "cambridge-7-test-3-reading-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "images/997784f4427a53963b835df15a659b9e.png": [
+      {
+        "file": "cambridge-7-test-3-reading-3.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6969.mp3": [
+      {
+        "file": "cambridge-7-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/edecffe1c5a42c527ffabf85217c6154.png": [
+      {
+        "file": "cambridge-7-test-4-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6972.mp3": [
+      {
+        "file": "cambridge-7-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6978.mp3": [
+      {
+        "file": "cambridge-7-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6982.mp3": [
+      {
+        "file": "cambridge-7-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6887.mp3": [
+      {
+        "file": "cambridge-8-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6896.mp3": [
+      {
+        "file": "cambridge-8-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6898.mp3": [
+      {
+        "file": "cambridge-8-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6902.mp3": [
+      {
+        "file": "cambridge-8-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/f36837c5fcfba302d73cfeb2df9374e6.png": [
+      {
+        "file": "cambridge-8-test-1-reading-1.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "images/19eb3239e58603761a2b7023f320401e.png": [
+      {
+        "file": "cambridge-8-test-1-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6925.mp3": [
+      {
+        "file": "cambridge-8-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/018c66e9060126715608560191dc8a8b.jpg": [
+      {
+        "file": "cambridge-8-test-2-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6926.mp3": [
+      {
+        "file": "cambridge-8-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6927.mp3": [
+      {
+        "file": "cambridge-8-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6928.mp3": [
+      {
+        "file": "cambridge-8-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/b9ca61052e195ebaceb7eef28a5ccd92.jpg": [
+      {
+        "file": "cambridge-8-test-2-reading-1.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "audio/6885.mp3": [
+      {
+        "file": "cambridge-8-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6891.mp3": [
+      {
+        "file": "cambridge-8-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6895.mp3": [
+      {
+        "file": "cambridge-8-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6899.mp3": [
+      {
+        "file": "cambridge-8-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6931.mp3": [
+      {
+        "file": "cambridge-8-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/15fbe54cc305ca2f2422908d7a9bcdd9.png": [
+      {
+        "file": "cambridge-8-test-4-listening-2.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6941.mp3": [
+      {
+        "file": "cambridge-8-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6944.mp3": [
+      {
+        "file": "cambridge-8-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/66853e7d6213ad335378e7ce1a25c962.png": [
+      {
+        "file": "cambridge-8-test-4-listening-4.json",
+        "field": ".groups[1].contextHtml"
+      }
+    ],
+    "audio/6945.mp3": [
+      {
+        "file": "cambridge-8-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/15d20e7b5d4ba7b618616bae43f5b706.png": [
+      {
+        "file": "cambridge-8-test-4-reading-3.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "images/27d467b00bd2aa58495688103a8b925d.png": [
+      {
+        "file": "cambridge-8-test-4-reading-3.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6809.mp3": [
+      {
+        "file": "cambridge-9-test-1-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6810.mp3": [
+      {
+        "file": "cambridge-9-test-1-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6814.mp3": [
+      {
+        "file": "cambridge-9-test-1-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6816.mp3": [
+      {
+        "file": "cambridge-9-test-1-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/1da673f2dfd03eb43680f714ff63f58f.png": [
+      {
+        "file": "cambridge-9-test-1-reading-3.json",
+        "field": ".groups[2].contextHtml"
+      },
+      {
+        "file": "cambridge-9-test-1-reading-3.json",
+        "field": ".groups[2].contextHtml"
+      },
+      {
+        "file": "cambridge-9-test-1-reading-3.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "audio/6855.mp3": [
+      {
+        "file": "cambridge-9-test-2-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/259776502ad71dbd033d8363284379e7.jpg": [
+      {
+        "file": "cambridge-9-test-2-listening-2.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "audio/6857.mp3": [
+      {
+        "file": "cambridge-9-test-2-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6858.mp3": [
+      {
+        "file": "cambridge-9-test-2-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6862.mp3": [
+      {
+        "file": "cambridge-9-test-2-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/a4348f019b500f83d48adc212eb13a63.jpg": [
+      {
+        "file": "cambridge-9-test-2-reading-2.json",
+        "field": ".articleHtml"
+      }
+    ],
+    "audio/6866.mp3": [
+      {
+        "file": "cambridge-9-test-3-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6867.mp3": [
+      {
+        "file": "cambridge-9-test-3-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6871.mp3": [
+      {
+        "file": "cambridge-9-test-3-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6900.mp3": [
+      {
+        "file": "cambridge-9-test-3-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/076f75ba85d4695edd580fc3f4fb9161.jpg": [
+      {
+        "file": "cambridge-9-test-3-reading-2.json",
+        "field": ".groups[2].contextHtml"
+      }
+    ],
+    "audio/6868.mp3": [
+      {
+        "file": "cambridge-9-test-4-listening-1.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/23f0297fab13e413140ea4cfb5ddf6f8.jpg": [
+      {
+        "file": "cambridge-9-test-4-listening-2.json",
+        "field": ".groups[0].contextHtml"
+      }
+    ],
+    "audio/6870.mp3": [
+      {
+        "file": "cambridge-9-test-4-listening-2.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6872.mp3": [
+      {
+        "file": "cambridge-9-test-4-listening-3.json",
+        "field": ".audio.src"
+      }
+    ],
+    "audio/6874.mp3": [
+      {
+        "file": "cambridge-9-test-4-listening-4.json",
+        "field": ".audio.src"
+      }
+    ],
+    "images/8e43859d79d369192cceb19655e47ecd.jpg": [
+      {
+        "file": "cambridge-9-test-4-reading-1.json",
+        "field": ".articleHtml"
+      }
+    ]
+  }
+}

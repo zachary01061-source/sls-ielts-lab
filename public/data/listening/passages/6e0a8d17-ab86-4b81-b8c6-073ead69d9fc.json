@@ -1,0 +1,349 @@
+{
+  "id": "6e0a8d17-ab86-4b81-b8c6-073ead69d9fc",
+  "title": "Cape Breton mining in Canada",
+  "titleCn": "加拿大布雷顿角岛煤矿开采史",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/6e0a8d17-ab86-4b81-b8c6-073ead69d9fc",
+  "duration": 409,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,120"
+    },
+    {
+      "label": "2",
+      "text": "Today, I'm going to talk about the history and technological development of coal mining on Cape Breton Island, located off the east coast of Canada in Nova Scotia. This area played a critical role in Canada's energy production for over two centuries. Let's begin with the early days."
+    },
+    {
+      "label": "3",
+      "text": "00:00:21,000"
+    },
+    {
+      "label": "4",
+      "text": "Coal mining in Cape Breton dates back to the 1720s during the French colonial period. These first operations were extremely basic. The miners didn't use machines. They relied on manual labor to gather the coal. In fact, the earliest coal was moved by hand from the base of the cliffs along the island's coast. It was a harsh and dangerous task, as workers had to navigate slippery rocks while carrying heavy loads of coal in baskets. Now, as demand for coal increased, it became clear that new systems had to be developed to handle the growing volume. The ability to transport coal efficiently became one of the biggest challenges facing the industry. For production to grow, Cape Breton needed a well-organized transport network. Initially, they used horse-drawn carts, but as output rose, they introduced railway lines that could carry larger quantities to the port for shipping. This increase in industrial activity also brought about changes in the workforce. Every year, particularly in spring, new groups of laborers would arrive to take advantage of seasonal jobs. Spring was an ideal time, not just because of the weather, but because mining operations expanded significantly during the warmer months. By summer, mines would be fully staffed with both local residents and new arrivals from other parts of Canada and abroad. Naturally, this shift in employment patterns had consequences for local demographics."
+    },
+    {
+      "label": "5",
+      "text": "00:01:58,300"
+    },
+    {
+      "label": "6",
+      "text": "Many people who had lived in remote or agricultural areas began to relocate. Villages near the mines grew, while the population in more rural regions started to decline."
+    },
+    {
+      "label": "7",
+      "text": "00:02:10,960"
+    },
+    {
+      "label": "8",
+      "text": "Families often moved together, and mining towns quickly expanded, sometimes without adequate planning or infrastructure. By the early twentieth century, Cape Breton had become a major player in the national coal industry."
+    },
+    {
+      "label": "9",
+      "text": "00:02:26,040"
+    },
+    {
+      "label": "10",
+      "text": "At its peak, the island was supplying around 40% of all coal used in Canada. This boom not only supported the domestic energy supply but also provided fuel for export to other countries. Let's talk about the workers themselves. Around the year 1800, the local workforce could no longer meet the demand."
+    },
+    {
+      "label": "11",
+      "text": "00:02:47,740"
+    },
+    {
+      "label": "12",
+      "text": "To fill the gap, laborers were recruited from abroad. Most of the early migrants came from Scotland, particularly from mining towns in the central and western regions."
+    },
+    {
+      "label": "13",
+      "text": "00:02:58,960"
+    },
+    {
+      "label": "14",
+      "text": "These skilled Scottish miners brought valuable knowledge and traditions with them, shaping the way mining was carried out in Canada."
+    },
+    {
+      "label": "15",
+      "text": "00:03:07,120"
+    },
+    {
+      "label": "16",
+      "text": "Italian workers also played a key role, especially in the construction of railways and tunnels."
+    },
+    {
+      "label": "17",
+      "text": "00:03:14,020"
+    },
+    {
+      "label": "18",
+      "text": "Now, let's look at the technology used in underground mining, specifically how the tunnels were lit before electricity became widespread. The earliest source of light was a grease torch. This simple tool burned animal fat to produce a flickering flame. It was cheap and easy to make, but produced a lot of smoke and posed a serious fire risk. A slightly improved version was to mount a candle in a metal or clay holder. These holders were usually attached to the timber supports inside the tunnels. While candles were more manageable than grease torches, they still had open flames and were far from safe in gas-prone environments. The invention of the Davy lamp marked a huge step forward in mine safety. This device had a flame enclosed in mesh and featured a fitted link sealed by a lock. The design controlled the airflow and prevented the flame from igniting any methane gas in the air."
+    },
+    {
+      "label": "19",
+      "text": "00:04:13,140"
+    },
+    {
+      "label": "20",
+      "text": "Because of this innovation, the number of accidents, such as explosions or fires, dropped significantly across many mining sites. Later, carbide lamps were introduced. These worked by combining calcium carbide with water, which created acetylene gas. When lit, it gave off a steady yellow-white flame that was much brighter than previous sources. These lamps were widely used until electric lighting eventually replaced them in the twentieth century."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the sentences. \nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "82133a59-68eb-4634-bd30-849e32fa3dc2",
+          "prompt": "**Early Beginnings and Population Changes**\n· Mining activity began in the 1720s, when settlers started to extract coal.\n· Workers managed to move the first coal from the **31**_____ .",
+          "answers": [
+            "crops"
+          ],
+          "rawAnswer": "crops",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In fact, the earliest coal was moved by hand from the base of the cliffs along the island's coast"
+          },
+          "keywordPairs": [
+            {
+              "question": "first",
+              "article": "earliest"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "1aae9427-95ed-442a-a6cd-dc89df7f616e",
+          "prompt": "· If production was to increase, it depended on the development of the **32**_____ system.",
+          "answers": [
+            "transport"
+          ],
+          "rawAnswer": "transport",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For production to grow, Cape Breton needed a well-organized transport network"
+          },
+          "keywordPairs": [
+            {
+              "question": "increase",
+              "article": "grow"
+            },
+            {
+              "question": "development",
+              "article": "well-organized"
+            },
+            {
+              "question": "system",
+              "article": "network"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "d6e714c5-33fb-4c74-bf99-af6aeac115dc",
+          "prompt": "· More people came to work in the mines every year from the **33**_____ .",
+          "answers": [
+            "spring"
+          ],
+          "rawAnswer": "spring",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Every year, particularly in spring, new groups of laborers would arrive to take advantage of seasonal jobs"
+          },
+          "keywordPairs": [
+            {
+              "question": "More people came to work in",
+              "article": "new groups of laborers would arrive"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "48ab3e86-725d-440c-9198-7caa9a2dcc61",
+          "prompt": "· The population was reduced in **34**_____ .",
+          "answers": [
+            "rural"
+          ],
+          "rawAnswer": "rural",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Villages near the mines grew, while the population in more rural regions started to decline"
+          },
+          "keywordPairs": [
+            {
+              "question": "reduced",
+              "article": "decline"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "b74afebc-b7b7-413b-a913-5e2fa39b1b0f",
+          "prompt": "**Growth of the Industry and Immigration **\n· Coal production gradually increased throughout the 19th century.\n· Eventually, the booming mine accounted for **35**_____ of Canada`s coal supply.",
+          "answers": [
+            "40%"
+          ],
+          "rawAnswer": "40%",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At its peak, the island was supplying around 40% of all coal used in Canada"
+          },
+          "keywordPairs": [
+            {
+              "question": "accounted for",
+              "article": "was supplying"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "2a45fae8-9094-4772-90c2-87f40adb9923",
+          "prompt": "· A wide range of nationalities were represented in the workforce.\n· Around 1800, most miners were from **36**_____, with others from Italy and other European countries.",
+          "answers": [
+            "Scotland"
+          ],
+          "rawAnswer": "Scotland",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Most of the early migrants came from Scotland, particularly from mining towns in the central and western regions"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 37-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "37-40",
+          "sourceQuestionId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "prompt": "| **Items** | **Description** | **Advantages** |\n| Grease torch | made by burning animal fat on a stick | Provided minimal light but was dangerous and smoky |\n| A **37**_____ in holder | A simple open flame source placed in a holder near work areas | Easy to use but increased risk of fire underground |\n| Davy Lamp | A flame lamp with a fitted link secured by a **38**_____ to control air flow | Helped reduce the number of underground **39**_____ |\n| Carblde Lamps | Contained special material that, when mixed with **40**_____, produced bright light | Created a strong yellow-white flame called acetylene |",
+          "answers": [
+            "candle"
+          ],
+          "rawAnswer": "candle|||lock|||accidents|||water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A slightly improved version was to mount a candle in a metal or clay holder. These holders were usually attached to the timber supports inside the tunnels;This device had a flame enclosed in mesh and featured a fitted link sealed by a lock;Because of this innovation, the number of accidents, such as explosions or fires, dropped significantly across many mining sites;These worked by combining calcium carbide with water, which created acetylene gas"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37",
+          "blockId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "blockPosition": 0,
+          "blockSize": 4
+        },
+        {
+          "id": 8,
+          "sourceNumber": "37-40",
+          "sourceQuestionId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "prompt": "| **Items** | **Description** | **Advantages** |\n| Grease torch | made by burning animal fat on a stick | Provided minimal light but was dangerous and smoky |\n| A **37**_____ in holder | A simple open flame source placed in a holder near work areas | Easy to use but increased risk of fire underground |\n| Davy Lamp | A flame lamp with a fitted link secured by a **38**_____ to control air flow | Helped reduce the number of underground **39**_____ |\n| Carblde Lamps | Contained special material that, when mixed with **40**_____, produced bright light | Created a strong yellow-white flame called acetylene |",
+          "answers": [
+            "lock"
+          ],
+          "rawAnswer": "candle|||lock|||accidents|||water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A slightly improved version was to mount a candle in a metal or clay holder. These holders were usually attached to the timber supports inside the tunnels;This device had a flame enclosed in mesh and featured a fitted link sealed by a lock;Because of this innovation, the number of accidents, such as explosions or fires, dropped significantly across many mining sites;These worked by combining calcium carbide with water, which created acetylene gas"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38",
+          "blockId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "blockPosition": 1,
+          "blockSize": 4
+        },
+        {
+          "id": 9,
+          "sourceNumber": "37-40",
+          "sourceQuestionId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "prompt": "| **Items** | **Description** | **Advantages** |\n| Grease torch | made by burning animal fat on a stick | Provided minimal light but was dangerous and smoky |\n| A **37**_____ in holder | A simple open flame source placed in a holder near work areas | Easy to use but increased risk of fire underground |\n| Davy Lamp | A flame lamp with a fitted link secured by a **38**_____ to control air flow | Helped reduce the number of underground **39**_____ |\n| Carblde Lamps | Contained special material that, when mixed with **40**_____, produced bright light | Created a strong yellow-white flame called acetylene |",
+          "answers": [
+            "accidents"
+          ],
+          "rawAnswer": "candle|||lock|||accidents|||water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A slightly improved version was to mount a candle in a metal or clay holder. These holders were usually attached to the timber supports inside the tunnels;This device had a flame enclosed in mesh and featured a fitted link sealed by a lock;Because of this innovation, the number of accidents, such as explosions or fires, dropped significantly across many mining sites;These worked by combining calcium carbide with water, which created acetylene gas"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39",
+          "blockId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "blockPosition": 2,
+          "blockSize": 4
+        },
+        {
+          "id": 10,
+          "sourceNumber": "37-40",
+          "sourceQuestionId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "prompt": "| **Items** | **Description** | **Advantages** |\n| Grease torch | made by burning animal fat on a stick | Provided minimal light but was dangerous and smoky |\n| A **37**_____ in holder | A simple open flame source placed in a holder near work areas | Easy to use but increased risk of fire underground |\n| Davy Lamp | A flame lamp with a fitted link secured by a **38**_____ to control air flow | Helped reduce the number of underground **39**_____ |\n| Carblde Lamps | Contained special material that, when mixed with **40**_____, produced bright light | Created a strong yellow-white flame called acetylene |",
+          "answers": [
+            "water"
+          ],
+          "rawAnswer": "candle|||lock|||accidents|||water",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A slightly improved version was to mount a candle in a metal or clay holder. These holders were usually attached to the timber supports inside the tunnels;This device had a flame enclosed in mesh and featured a fitted link sealed by a lock;Because of this innovation, the number of accidents, such as explosions or fires, dropped significantly across many mining sites;These worked by combining calcium carbide with water, which created acetylene gas"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40",
+          "blockId": "f3152d22-d846-4c27-bf28-cf116fe0d966",
+          "blockPosition": 3,
+          "blockSize": 4
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,120</p><p>Today, I'm going to talk about the history and technological development of coal mining on Cape Breton Island, located off the east coast of Canada in Nova Scotia. This area played a critical role in Canada's energy production for over two centuries. Let's begin with the early days. </p><p>00:00:21,000</p><p>Coal mining in Cape Breton dates back to the 1720s during the French colonial period. These first operations were extremely basic. The miners didn't use machines. They relied on manual labor to gather the coal. In fact, the earliest coal was moved by hand from the base of the cliffs along the island's coast. It was a harsh and dangerous task, as workers had to navigate slippery rocks while carrying heavy loads of coal in baskets. Now, as demand for coal increased, it became clear that new systems had to be developed to handle the growing volume. The ability to transport coal efficiently became one of the biggest challenges facing the industry. For production to grow, Cape Breton needed a well-organized transport network. Initially, they used horse-drawn carts, but as output rose, they introduced railway lines that could carry larger quantities to the port for shipping. This increase in industrial activity also brought about changes in the workforce. Every year, particularly in spring, new groups of laborers would arrive to take advantage of seasonal jobs. Spring was an ideal time, not just because of the weather, but because mining operations expanded significantly during the warmer months. By summer, mines would be fully staffed with both local residents and new arrivals from other parts of Canada and abroad. Naturally, this shift in employment patterns had consequences for local demographics. </p><p>00:01:58,300</p><p>Many people who had lived in remote or agricultural areas began to relocate. Villages near the mines grew, while the population in more rural regions started to decline. </p><p>00:02:10,960</p><p>Families often moved together, and mining towns quickly expanded, sometimes without adequate planning or infrastructure. By the early twentieth century, Cape Breton had become a major player in the national coal industry. </p><p>00:02:26,040</p><p>At its peak, the island was supplying around 40% of all coal used in Canada. This boom not only supported the domestic energy supply but also provided fuel for export to other countries. Let's talk about the workers themselves. Around the year 1800, the local workforce could no longer meet the demand. </p><p>00:02:47,740</p><p>To fill the gap, laborers were recruited from abroad. Most of the early migrants came from Scotland, particularly from mining towns in the central and western regions. </p><p>00:02:58,960</p><p>These skilled Scottish miners brought valuable knowledge and traditions with them, shaping the way mining was carried out in Canada. </p><p>00:03:07,120</p><p>Italian workers also played a key role, especially in the construction of railways and tunnels. </p><p>00:03:14,020</p><p>Now, let's look at the technology used in underground mining, specifically how the tunnels were lit before electricity became widespread. The earliest source of light was a grease torch. This simple tool burned animal fat to produce a flickering flame. It was cheap and easy to make, but produced a lot of smoke and posed a serious fire risk. A slightly improved version was to mount a candle in a metal or clay holder. These holders were usually attached to the timber supports inside the tunnels. While candles were more manageable than grease torches, they still had open flames and were far from safe in gas-prone environments. The invention of the Davy lamp marked a huge step forward in mine safety. This device had a flame enclosed in mesh and featured a fitted link sealed by a lock. The design controlled the airflow and prevented the flame from igniting any methane gas in the air. </p><p>00:04:13,140</p><p>Because of this innovation, the number of accidents, such as explosions or fires, dropped significantly across many mining sites. Later, carbide lamps were introduced. These worked by combining calcium carbide with water, which created acetylene gas. When lit, it gave off a steady yellow-white flame that was much brighter than previous sources. These lamps were widely used until electric lighting eventually replaced them in the twentieth century.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/6e0a8d17-ab86-4b81-b8c6-073ead69d9fc.mp3",
+    "durationSeconds": 288.679184,
+    "sizeBytes": 1154956,
+    "sha256": "70442120c6b3f6ca3ad1c6a22ba26d2517383fe4a38c52f80266435644bf0214",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:09:49Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775481238880_d17agk_d90bcbbb_fce35209.mp3"
+}

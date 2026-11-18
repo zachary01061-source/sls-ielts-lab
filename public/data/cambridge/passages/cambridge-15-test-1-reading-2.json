@@ -1,0 +1,439 @@
+{
+  "id": "cambridge-15-test-1-reading-2",
+  "title": "Driverless cars",
+  "titleCn": "Driverless cars",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 15,
+    "test": 1
+  },
+  "sourceQuestionId": "8109",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8109",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Driverless cars"
+    },
+    {
+      "label": "2",
+      "text": "A The automotive sector is well used to adapting to automation in manufacturing. The implementation of robotic car manufacture from the 1970s onwards led to significant cost savings and improvements in the reliability and flexibility of vehicle mass production. A new challenge to vehicle production is now on the horizon and, again, it comes from automation. However, this time it is not to do with the manufacturing process, but with the vehicles themselves."
+    },
+    {
+      "label": "3",
+      "text": "Research projects on vehicle automation are not new. Vehicles with limited self-driving capabilities have been around for more than 50 years, resulting in significant contributions towards driver assistance systems. But since Google announced in 2010 that it had been trialling self-driving cars on the streets of California, progress in this field has quickly gathered pace."
+    },
+    {
+      "label": "4",
+      "text": "B There are many reasons why technology is advancing so fast. One frequently cited motive is safety; indeed, research at the UK's Transport Research Laboratory has demonstrated that more than 90 percent of road collisions involve human error as a contributory factor, and it is the primary cause in the vast majority. Automation may help to reduce the incidence of this."
+    },
+    {
+      "label": "5",
+      "text": "Another aim is to free the time people spend driving for other purposes. If the vehicle can do some or all of the driving, it may be possible to be productive, to socialise or simply to relax while automation systems have responsibility for safe control of the vehicle. If the vehicle can do the driving, those who are challenged by existing mobility models – such as older or disabled travellers – may be able to enjoy significantly greater travel autonomy."
+    },
+    {
+      "label": "6",
+      "text": "C Beyond these direct benefits, we can consider the wider implications for transport and society, and how manufacturing processes might need to respond as a result. At present, the average car spends more than 90 percent of its life parked. Automation means that initiatives for car-sharing become much more viable, particularly in urban areas with significant travel demand. If a significant proportion of the population choose to use shared automated vehicles, mobility demand can be met by far fewer vehicles."
+    },
+    {
+      "label": "7",
+      "text": "D The Massachusetts Institute of Technology investigated automated mobility in Singapore, finding that fewer than 30 percent of the vehicles currently used would be required if fully automated car sharing could be implemented. If this is the case, it might mean that we need to manufacture far fewer vehicles to meet demand."
+    },
+    {
+      "label": "8",
+      "text": "However, the number of trips being taken would probably increase, partly because empty vehicles would have to be moved from one customer to the next."
+    },
+    {
+      "label": "9",
+      "text": "Modelling work by the University of Michigan Transportation Research Institute suggests automated vehicles might reduce vehicle ownership by 43 percent, but that vehicles' average annual mileage would double as a result. As a consequence, each vehicle would be used more intensively, and might need replacing sooner. This faster rate of turnover may mean that vehicle production will not necessarily decrease."
+    },
+    {
+      "label": "10",
+      "text": "E Automation may prompt other changes in vehicle manufacture. If we move to a model where consumers are tending not to own a single vehicle but to purchase access to a range of vehicles through a mobility provider, drivers will have the freedom to select one that best suits their needs for a particular journey, rather than making a compromise across all their requirements."
+    },
+    {
+      "label": "11",
+      "text": "Since, for most of the time, most of the seats in most cars are unoccupied, this may boost production of a smaller, more efficient range of vehicles that suit the needs of individuals. Specialised vehicles may then be available for exceptional journeys, such as going on a family camping trip or helping a son or daughter move to university."
+    },
+    {
+      "label": "12",
+      "text": "F There are a number of hurdles to overcome in delivering automated vehicles to our roads. These include the technical difficulties in ensuring that the vehicle works reliably in the infinite range of traffic, weather and road situations it might encounter; the regulatory challenges in understanding how liability and enforcement might change when drivers are no longer essential for vehicle operation; and the societal changes that may be required for communities to trust and accept automated vehicles as being a valuable part of the mobility landscape."
+    },
+    {
+      "label": "13",
+      "text": "G It's clear that there are many challenges that need to be addressed but, through robust and targeted research, these can most probably be conquered within the next 10 years. Mobility will change in such potentially significant ways and in association with so many other technological developments, such as telepresence and virtual reality, that it is hard to make concrete predictions about the future. However, one thing is certain: change is coming, and the need to be flexible in response to this will be vital for those involved in manufacturing the vehicles that will deliver future mobility."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–18\n\nReading Passage 2 has seven sections, A–G.\n\nWhich section contains the following information?\n\nWrite the correct letter, A–G, in boxes 14–18 on your answer sheet.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "reference to the amount of time when a car is not in use",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8109_577719-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "mention of several advantages of driverless vehicles for individual road-users",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8109_577719-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "reference to the opportunity of choosing the most appropriate vehicle for each trip",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8109_577719-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "an estimate of how long it will take to overcome a number of problems",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8109_577719-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "a suggestion that the use of driverless cars may have no effect on the number of vehicles manufactured",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8109_577719-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 19–22\n\nComplete the summary below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nWrite your answers in boxes 19–22 on your answer sheet.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Answer for gap 19.",
+          "answers": [
+            "human error"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8109_757915",
+          "explanation": "19.\n\n定位词：Transport，Research，Laboratory,，due to\n\n文中对应点：B部分第二句：One … majority.\n\n题目解析：题干说：交通研究实验室的数据显示，大多数机动车辆事故都有部分原因在于____。\n\n本题的定位难度极低，因为有大写信息Transport Research Laboratory帮助考生直接找到原文对应句，句中还有involve、cause这样对应于due to表示原因的信息，从而可以轻松得出答案为：human error。\n\n20.\n\n定位词：scheme, more workable, towns and cities\n\n文中对应点：C段第三句：Automation … demand.\n\n题目解析：\n\n题干说：例如， ____这样的计划将会变得更可操作，尤其是在市镇和城市里，从而使得公路上少跑一些车。本题属于这个摘要填空题中难度最高的一个，原因主要在于可帮助定位的词和词组在对应原文中全部进行了同义替换，且替换单词的认知难度相对而言较高。换言之，考生需要具备相对更充足的词汇量，才能更快捷定位和准确答题。不过，对应题干scheme的原文词initiative，在剑九第二套阅读第一篇关于“儿童听力受损”的文章中就作为题干词考察过，scheme本词更是早在剑三一篇“英国女性为选举权而战”的阅读文章中就作为主题词之一反复出现过；对应题干workable的原文词viable，和对应题干towns and cities的原文词urban，也都是雅思阅读文章中的常客。对先前剑桥真题进行过认真分析的考生，自然能更轻松地在此得出正确答案为：car-sharing。\n\n21.\n\n定位词：University of Michigan Transportation Research, 43 percent\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说：根据密歇根大学交通研究院的说法，在汽车的 ____这个方面可以有百分之43的下降。本题可以说是这部分摘要填空题中最简单的一个，与上一道题形成了十分鲜明的对比。如果这是考场上的最后一篇文章、答题时间紧张，考生在上一道题遭遇困难时要有果断跳过的勇气，先往下进行解答，就会在此题里得到这个取舍动作所带来的回报。大写信息可以帮助考生轻松定位到原文中对应的句子，无论是题干中的drop一词，还是对应原文中的reduce一词，都是雅思小作文写作中表达下降趋势的必备词汇，同时也是雅思阅读中的高频低难度词汇，考生可由此轻松得出答案为：ownership\n\n22.\n\n定位词：yearly, twice\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说： 然而，这就会意味着，每一辆车每年的____将会，在平均水平上，成为其目前水平的两倍。本题的难度也不高。一方面，这是因为答案的出处与上一题非常接近，就在同一个句子里；另一方面，也因为题干词yearly与原文词annual的同义替换、题干词twice与原文词double的同义替换，认知难度都很低，可以提醒考生顺利得出答案为：mileage。",
+          "promptHtml": "Answer for gap 19."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Answer for gap 20.",
+          "answers": [
+            "car sharing",
+            "car-sharing"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8109_631399",
+          "explanation": "19.\n\n定位词：Transport，Research，Laboratory,，due to\n\n文中对应点：B部分第二句：One … majority.\n\n题目解析：题干说：交通研究实验室的数据显示，大多数机动车辆事故都有部分原因在于____。\n\n本题的定位难度极低，因为有大写信息Transport Research Laboratory帮助考生直接找到原文对应句，句中还有involve、cause这样对应于due to表示原因的信息，从而可以轻松得出答案为：human error。\n\n20.\n\n定位词：scheme, more workable, towns and cities\n\n文中对应点：C段第三句：Automation … demand.\n\n题目解析：\n\n题干说：例如， ____这样的计划将会变得更可操作，尤其是在市镇和城市里，从而使得公路上少跑一些车。本题属于这个摘要填空题中难度最高的一个，原因主要在于可帮助定位的词和词组在对应原文中全部进行了同义替换，且替换单词的认知难度相对而言较高。换言之，考生需要具备相对更充足的词汇量，才能更快捷定位和准确答题。不过，对应题干scheme的原文词initiative，在剑九第二套阅读第一篇关于“儿童听力受损”的文章中就作为题干词考察过，scheme本词更是早在剑三一篇“英国女性为选举权而战”的阅读文章中就作为主题词之一反复出现过；对应题干workable的原文词viable，和对应题干towns and cities的原文词urban，也都是雅思阅读文章中的常客。对先前剑桥真题进行过认真分析的考生，自然能更轻松地在此得出正确答案为：car-sharing。\n\n21.\n\n定位词：University of Michigan Transportation Research, 43 percent\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说：根据密歇根大学交通研究院的说法，在汽车的 ____这个方面可以有百分之43的下降。本题可以说是这部分摘要填空题中最简单的一个，与上一道题形成了十分鲜明的对比。如果这是考场上的最后一篇文章、答题时间紧张，考生在上一道题遭遇困难时要有果断跳过的勇气，先往下进行解答，就会在此题里得到这个取舍动作所带来的回报。大写信息可以帮助考生轻松定位到原文中对应的句子，无论是题干中的drop一词，还是对应原文中的reduce一词，都是雅思小作文写作中表达下降趋势的必备词汇，同时也是雅思阅读中的高频低难度词汇，考生可由此轻松得出答案为：ownership\n\n22.\n\n定位词：yearly, twice\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说： 然而，这就会意味着，每一辆车每年的____将会，在平均水平上，成为其目前水平的两倍。本题的难度也不高。一方面，这是因为答案的出处与上一题非常接近，就在同一个句子里；另一方面，也因为题干词yearly与原文词annual的同义替换、题干词twice与原文词double的同义替换，认知难度都很低，可以提醒考生顺利得出答案为：mileage。",
+          "promptHtml": "Answer for gap 20."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Answer for gap 21.",
+          "answers": [
+            "ownership"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8109_933014",
+          "explanation": "19.\n\n定位词：Transport，Research，Laboratory,，due to\n\n文中对应点：B部分第二句：One … majority.\n\n题目解析：题干说：交通研究实验室的数据显示，大多数机动车辆事故都有部分原因在于____。\n\n本题的定位难度极低，因为有大写信息Transport Research Laboratory帮助考生直接找到原文对应句，句中还有involve、cause这样对应于due to表示原因的信息，从而可以轻松得出答案为：human error。\n\n20.\n\n定位词：scheme, more workable, towns and cities\n\n文中对应点：C段第三句：Automation … demand.\n\n题目解析：\n\n题干说：例如， ____这样的计划将会变得更可操作，尤其是在市镇和城市里，从而使得公路上少跑一些车。本题属于这个摘要填空题中难度最高的一个，原因主要在于可帮助定位的词和词组在对应原文中全部进行了同义替换，且替换单词的认知难度相对而言较高。换言之，考生需要具备相对更充足的词汇量，才能更快捷定位和准确答题。不过，对应题干scheme的原文词initiative，在剑九第二套阅读第一篇关于“儿童听力受损”的文章中就作为题干词考察过，scheme本词更是早在剑三一篇“英国女性为选举权而战”的阅读文章中就作为主题词之一反复出现过；对应题干workable的原文词viable，和对应题干towns and cities的原文词urban，也都是雅思阅读文章中的常客。对先前剑桥真题进行过认真分析的考生，自然能更轻松地在此得出正确答案为：car-sharing。\n\n21.\n\n定位词：University of Michigan Transportation Research, 43 percent\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说：根据密歇根大学交通研究院的说法，在汽车的 ____这个方面可以有百分之43的下降。本题可以说是这部分摘要填空题中最简单的一个，与上一道题形成了十分鲜明的对比。如果这是考场上的最后一篇文章、答题时间紧张，考生在上一道题遭遇困难时要有果断跳过的勇气，先往下进行解答，就会在此题里得到这个取舍动作所带来的回报。大写信息可以帮助考生轻松定位到原文中对应的句子，无论是题干中的drop一词，还是对应原文中的reduce一词，都是雅思小作文写作中表达下降趋势的必备词汇，同时也是雅思阅读中的高频低难度词汇，考生可由此轻松得出答案为：ownership\n\n22.\n\n定位词：yearly, twice\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说： 然而，这就会意味着，每一辆车每年的____将会，在平均水平上，成为其目前水平的两倍。本题的难度也不高。一方面，这是因为答案的出处与上一题非常接近，就在同一个句子里；另一方面，也因为题干词yearly与原文词annual的同义替换、题干词twice与原文词double的同义替换，认知难度都很低，可以提醒考生顺利得出答案为：mileage。",
+          "promptHtml": "Answer for gap 21."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Answer for gap 22.",
+          "answers": [
+            "mileage"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8109_642734",
+          "explanation": "19.\n\n定位词：Transport，Research，Laboratory,，due to\n\n文中对应点：B部分第二句：One … majority.\n\n题目解析：题干说：交通研究实验室的数据显示，大多数机动车辆事故都有部分原因在于____。\n\n本题的定位难度极低，因为有大写信息Transport Research Laboratory帮助考生直接找到原文对应句，句中还有involve、cause这样对应于due to表示原因的信息，从而可以轻松得出答案为：human error。\n\n20.\n\n定位词：scheme, more workable, towns and cities\n\n文中对应点：C段第三句：Automation … demand.\n\n题目解析：\n\n题干说：例如， ____这样的计划将会变得更可操作，尤其是在市镇和城市里，从而使得公路上少跑一些车。本题属于这个摘要填空题中难度最高的一个，原因主要在于可帮助定位的词和词组在对应原文中全部进行了同义替换，且替换单词的认知难度相对而言较高。换言之，考生需要具备相对更充足的词汇量，才能更快捷定位和准确答题。不过，对应题干scheme的原文词initiative，在剑九第二套阅读第一篇关于“儿童听力受损”的文章中就作为题干词考察过，scheme本词更是早在剑三一篇“英国女性为选举权而战”的阅读文章中就作为主题词之一反复出现过；对应题干workable的原文词viable，和对应题干towns and cities的原文词urban，也都是雅思阅读文章中的常客。对先前剑桥真题进行过认真分析的考生，自然能更轻松地在此得出正确答案为：car-sharing。\n\n21.\n\n定位词：University of Michigan Transportation Research, 43 percent\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说：根据密歇根大学交通研究院的说法，在汽车的 ____这个方面可以有百分之43的下降。本题可以说是这部分摘要填空题中最简单的一个，与上一道题形成了十分鲜明的对比。如果这是考场上的最后一篇文章、答题时间紧张，考生在上一道题遭遇困难时要有果断跳过的勇气，先往下进行解答，就会在此题里得到这个取舍动作所带来的回报。大写信息可以帮助考生轻松定位到原文中对应的句子，无论是题干中的drop一词，还是对应原文中的reduce一词，都是雅思小作文写作中表达下降趋势的必备词汇，同时也是雅思阅读中的高频低难度词汇，考生可由此轻松得出答案为：ownership\n\n22.\n\n定位词：yearly, twice\n\n文中对应点：D部分第三自然段第一句：Modelling … result.\n\n题目解析：\n\n题干说： 然而，这就会意味着，每一辆车每年的____将会，在平均水平上，成为其目前水平的两倍。本题的难度也不高。一方面，这是因为答案的出处与上一题非常接近，就在同一个句子里；另一方面，也因为题干词yearly与原文词annual的同义替换、题干词twice与原文词double的同义替换，认知难度都很低，可以提醒考生顺利得出答案为：mileage。",
+          "promptHtml": "Answer for gap 22."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><strong><span>The impact of driverless cars</span></strong></p>\n\n<p>Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to <strong>[19] ______</strong>, so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for <strong>[20] ______</strong>will be more workable, especially in towns and cities, resulting in fewer cars on the road.</p>\n\n<p><br>\nAccording to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in <strong>[21] ______</strong>of cars. However, this would mean that the yearly <strong>[22] ______</strong>of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 23 and 24\n\nChoose TWO letters, A–E.\n\nWrite the correct letters in boxes 23 and 24 on your answer sheet.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Which TWO benefits of automated vehicles does the writer mention?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q8109_929514",
+          "options": [
+            {
+              "value": "A",
+              "text": "Car travellers could enjoy considerable cost savings."
+            },
+            {
+              "value": "B",
+              "text": "It would be easier to find parking spaces in urban areas."
+            },
+            {
+              "value": "C",
+              "text": "Travellers could spend journeys doing something other than driving."
+            },
+            {
+              "value": "D",
+              "text": "People who find driving physically difficult could travel independently."
+            },
+            {
+              "value": "E",
+              "text": "A reduction in the number of cars would mean a reduction in pollution."
+            }
+          ],
+          "explanation": "23-24.\n\n定位词：benefits\n\n文中对应点：B部分第二自然段：Another … autonomy.\n\n题目解析：\n\n题目：Which TWO benefits of automated vehicles does the writer mention?\n\n译文：关于自动驾驶车辆的好处，作者提到了哪两点？\n\n如之前提到的，本题的定位不难，可在寻找第15题相关信息的同时，定位到两个正确选项答案的出处。\n\n选项A说：开车出行的人可以享受大幅度的成本节约。这是对应文章中完全不曾提及到的信息。在原文A部分中倒是确实有cost savings这样两个词，但是仔细阅读全句就会发现：表述的完全不是同一个内容。\n\n选项B说：在城市地区将会更容易找到泊车地点。这也是根本没有出现在文中的说法。\n\n选项C说：出行人可以把旅途中的时间花在除了驾车之外的其它事情上。这正是B部分第二自然段里提及的第一个好处，用来从事创作性活动、进行社交（其实也就是和同车人聊天讨论而不用担心被开车分散了注意力）和放松。\n\n选项D说：那些在生理上驾车困难的人们将可以独立出行。这是B部分第二自然段里提及的另一个好处：老人和残障人士可以享受无人驾驶汽车所带来的更大的出行自由。\n\n选项E说：车辆数量的减少将会意味着污染的减少。从道理上来说，这句话当然没有错，但却不是文章中任何地方所提到的内容。",
+          "setId": "Q8109_929514",
+          "blockId": "Q8109_929514"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Which TWO benefits of automated vehicles does the writer mention?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q8109_929514",
+          "options": [
+            {
+              "value": "A",
+              "text": "Car travellers could enjoy considerable cost savings."
+            },
+            {
+              "value": "B",
+              "text": "It would be easier to find parking spaces in urban areas."
+            },
+            {
+              "value": "C",
+              "text": "Travellers could spend journeys doing something other than driving."
+            },
+            {
+              "value": "D",
+              "text": "People who find driving physically difficult could travel independently."
+            },
+            {
+              "value": "E",
+              "text": "A reduction in the number of cars would mean a reduction in pollution."
+            }
+          ],
+          "explanation": "23-24.\n\n定位词：benefits\n\n文中对应点：B部分第二自然段：Another … autonomy.\n\n题目解析：\n\n题目：Which TWO benefits of automated vehicles does the writer mention?\n\n译文：关于自动驾驶车辆的好处，作者提到了哪两点？\n\n如之前提到的，本题的定位不难，可在寻找第15题相关信息的同时，定位到两个正确选项答案的出处。\n\n选项A说：开车出行的人可以享受大幅度的成本节约。这是对应文章中完全不曾提及到的信息。在原文A部分中倒是确实有cost savings这样两个词，但是仔细阅读全句就会发现：表述的完全不是同一个内容。\n\n选项B说：在城市地区将会更容易找到泊车地点。这也是根本没有出现在文中的说法。\n\n选项C说：出行人可以把旅途中的时间花在除了驾车之外的其它事情上。这正是B部分第二自然段里提及的第一个好处，用来从事创作性活动、进行社交（其实也就是和同车人聊天讨论而不用担心被开车分散了注意力）和放松。\n\n选项D说：那些在生理上驾车困难的人们将可以独立出行。这是B部分第二自然段里提及的另一个好处：老人和残障人士可以享受无人驾驶汽车所带来的更大的出行自由。\n\n选项E说：车辆数量的减少将会意味着污染的减少。从道理上来说，这句话当然没有错，但却不是文章中任何地方所提到的内容。",
+          "setId": "Q8109_929514",
+          "blockId": "Q8109_929514"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Car travellers could enjoy considerable cost savings."
+        },
+        {
+          "value": "B",
+          "text": "It would be easier to find parking spaces in urban areas."
+        },
+        {
+          "value": "C",
+          "text": "Travellers could spend journeys doing something other than driving."
+        },
+        {
+          "value": "D",
+          "text": "People who find driving physically difficult could travel independently."
+        },
+        {
+          "value": "E",
+          "text": "A reduction in the number of cars would mean a reduction in pollution."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO letters, A–E.\n\nWrite the correct letters in boxes 25 and 26 on your answer sheet.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO challenges to automated vehicle development does the writer mention?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8109_896347",
+          "options": [
+            {
+              "value": "A",
+              "text": "making sure the general public has confidence in automated vehicles"
+            },
+            {
+              "value": "B",
+              "text": "managing the pace of transition from conventional to automated vehicles"
+            },
+            {
+              "value": "C",
+              "text": "deciding how to compensate professional drivers who become redundant"
+            },
+            {
+              "value": "D",
+              "text": "setting up the infrastructure to make roads suitable for automated vehicles"
+            },
+            {
+              "value": "E",
+              "text": "getting automated vehicles to adapt to various different driving conditions"
+            }
+          ],
+          "explanation": "25-26.\n\n定位词：challenges\n\n文中对应点：F段第二句：These … landscape.\n\n题目解析：\n\n题目：Which TWO challenges to automated vehicle development does the writer mention?\n\n译文：关于自动驾驶汽车发展中的挑战，作者提到了哪两点？\n\n如果不认识hurdle这个单词的话，考生可能一开始要定位这个多选题的出处会遭遇一点困难。但是只要运用平行阅读的方法，耐心向下再看看句子大意，其实还是能找准部位、进而找到正确答案的。\n\n选项A说：确保大众对于自动驾驶车辆有信心。选项中的confidence和对应原文中的trust之间的同义替换难度并不高，在非常明显地提示考生这是一个正确选项。\n\n选项B说：规划从传统模式到自动驾驶模式车辆转变的步伐节奏。这个选项独立看来貌似挺有道理的，可惜却不是文章中任何地方提及过的内容。\n\n选项C说：决定如何补偿那些不再被需要而变得冗余的职业司机。这个选项内容充满了人性关怀的光辉，但依然不是文章中有所提及的信息。\n\n选项D说：安排好基础设施以使公路更适合自动车辆行驶。这个选项略有迷惑性，因为对应原文中确实提到了road一词，但仔细看原文信息却是在说如何让自动驾驶汽车适应各种公路条件、而非改变公路条件去适应自动驾驶汽车，是个人为的偷换概念表述。\n\n选项E说：让自动驾驶汽车适应各种各样困难的驾驶条件。这一条才是与road有关的文章原文真正在表述的意思，是本题的另一个正确选项。",
+          "setId": "Q8109_896347",
+          "blockId": "Q8109_896347"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO challenges to automated vehicle development does the writer mention?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8109_896347",
+          "options": [
+            {
+              "value": "A",
+              "text": "making sure the general public has confidence in automated vehicles"
+            },
+            {
+              "value": "B",
+              "text": "managing the pace of transition from conventional to automated vehicles"
+            },
+            {
+              "value": "C",
+              "text": "deciding how to compensate professional drivers who become redundant"
+            },
+            {
+              "value": "D",
+              "text": "setting up the infrastructure to make roads suitable for automated vehicles"
+            },
+            {
+              "value": "E",
+              "text": "getting automated vehicles to adapt to various different driving conditions"
+            }
+          ],
+          "explanation": "25-26.\n\n定位词：challenges\n\n文中对应点：F段第二句：These … landscape.\n\n题目解析：\n\n题目：Which TWO challenges to automated vehicle development does the writer mention?\n\n译文：关于自动驾驶汽车发展中的挑战，作者提到了哪两点？\n\n如果不认识hurdle这个单词的话，考生可能一开始要定位这个多选题的出处会遭遇一点困难。但是只要运用平行阅读的方法，耐心向下再看看句子大意，其实还是能找准部位、进而找到正确答案的。\n\n选项A说：确保大众对于自动驾驶车辆有信心。选项中的confidence和对应原文中的trust之间的同义替换难度并不高，在非常明显地提示考生这是一个正确选项。\n\n选项B说：规划从传统模式到自动驾驶模式车辆转变的步伐节奏。这个选项独立看来貌似挺有道理的，可惜却不是文章中任何地方提及过的内容。\n\n选项C说：决定如何补偿那些不再被需要而变得冗余的职业司机。这个选项内容充满了人性关怀的光辉，但依然不是文章中有所提及的信息。\n\n选项D说：安排好基础设施以使公路更适合自动车辆行驶。这个选项略有迷惑性，因为对应原文中确实提到了road一词，但仔细看原文信息却是在说如何让自动驾驶汽车适应各种公路条件、而非改变公路条件去适应自动驾驶汽车，是个人为的偷换概念表述。\n\n选项E说：让自动驾驶汽车适应各种各样困难的驾驶条件。这一条才是与road有关的文章原文真正在表述的意思，是本题的另一个正确选项。",
+          "setId": "Q8109_896347",
+          "blockId": "Q8109_896347"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "making sure the general public has confidence in automated vehicles"
+        },
+        {
+          "value": "B",
+          "text": "managing the pace of transition from conventional to automated vehicles"
+        },
+        {
+          "value": "C",
+          "text": "deciding how to compensate professional drivers who become redundant"
+        },
+        {
+          "value": "D",
+          "text": "setting up the infrastructure to make roads suitable for automated vehicles"
+        },
+        {
+          "value": "E",
+          "text": "getting automated vehicles to adapt to various different driving conditions"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<div><p><strong><span>Driverless cars</span></strong></p><p><strong>A   </strong>The automotive sector is well used to adapting to automation in manufacturing. The implementation of robotic car manufacture from the 1970s onwards led to significant cost savings and improvements in the reliability and flexibility of vehicle mass production. A new challenge to vehicle production is now on the horizon and, again, it comes from automation. However, this time it is not to do with the manufacturing process, but with the vehicles themselves.</p><p>Research projects on vehicle automation are not new. Vehicles with limited self-driving capabilities have been around for more than 50 years, resulting in significant contributions towards driver assistance systems. But since Google announced in 2010 that it had been trialling self-driving cars on the streets of California, progress in this field has quickly gathered pace.</p><p><strong>B   </strong>There are many reasons why technology is advancing so fast. One frequently cited motive is safety; indeed, research at the UK&#x27;s Transport Research Laboratory has demonstrated that more than 90 percent of road collisions involve human error as a contributory factor, and it is the primary cause in the vast majority. Automation may help to reduce the incidence of this.</p><p>Another aim is to free the time people spend driving for other purposes. If the vehicle can do some or all of the driving, it may be possible to be productive, to socialise or simply to relax while automation systems have responsibility for safe control of the vehicle. If the vehicle can do the driving, those who are challenged by existing mobility models – such as older or disabled travellers – may be able to enjoy significantly greater travel autonomy.</p><p><strong>C</strong>   Beyond these direct benefits, we can consider the wider implications for transport and society, and how manufacturing processes might need to respond as a result. At present, the average car spends more than 90 percent of its life parked. Automation means that initiatives for car-sharing become much more viable, particularly in urban areas with significant travel demand. If a significant proportion of the population choose to use shared automated vehicles, mobility demand can be met by far fewer vehicles.</p><p><strong>D</strong>   The Massachusetts Institute of Technology investigated automated mobility in Singapore, finding that fewer than 30 percent of the vehicles currently used would be required if fully automated car sharing could be implemented. If this is the case, it might mean that we need to manufacture far fewer vehicles to meet demand.</p></div><p>However, the number of trips being taken would probably increase, partly because empty vehicles would have to be moved from one customer to the next.</p><p>Modelling work by the University of Michigan Transportation Research Institute suggests automated vehicles might reduce vehicle ownership by 43 percent, but that vehicles&#x27; average annual mileage would double as a result. As a consequence, each vehicle would be used more intensively, and might need replacing sooner. This faster rate of turnover may mean that vehicle production will not necessarily decrease.</p><p><strong>E </strong>  Automation may prompt other changes in vehicle manufacture. If we move to a model where consumers are tending not to own a single vehicle but to purchase access to a range of vehicles through a mobility provider, drivers will have the freedom to select one that best suits their needs for a particular journey, rather than making a compromise across all their requirements.</p><p>Since, for most of the time, most of the seats in most cars are unoccupied, this may boost production of a smaller, more efficient range of vehicles that suit the needs of individuals. Specialised vehicles may then be available for exceptional journeys, such as going on a family camping trip or helping a son or daughter move to university.</p><p><strong>F </strong>  There are a number of hurdles to overcome in delivering automated vehicles to our roads. These include the technical difficulties in ensuring that the vehicle works reliably in the infinite range of traffic, weather and road situations it might encounter; the regulatory challenges in understanding how liability and enforcement might change when drivers are no longer essential for vehicle operation; and the societal changes that may be required for communities to trust and accept automated vehicles as being a valuable part of the mobility landscape.</p><p><strong>G</strong>   It&#x27;s clear that there are many challenges that need to be addressed but, through robust and targeted research, these can most probably be conquered within the next 10 years. Mobility will change in such potentially significant ways and in association with so many other technological developments, such as telepresence and virtual reality, that it is hard to make concrete predictions about the future. However, one thing is certain: change is coming, and the need to be flexible in response to this will be vital for those involved in manufacturing the vehicles that will deliver future mobility.</p>"
+}

@@ -1,0 +1,385 @@
+{
+  "id": "cambridge-17-test-2-reading-3",
+  "title": "Insight or evolution?",
+  "titleCn": "Insight or evolution?",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 2
+  },
+  "sourceQuestionId": "8380",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8380",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Insight or evolution?"
+    },
+    {
+      "label": "2",
+      "text": "Two scientists consider the origins of discoveries and other innovative behavior"
+    },
+    {
+      "label": "3",
+      "text": "Scientific discovery is popularly believed to result from the sheer genius of such intellectual stars as naturalist Charles Darwin and theoretical physicist Albert Einstein. Our view of such unique contributions to science often disregards the person’s prior experience and the efforts of their lesser-known predecessors. Conventional wisdom also places great weight on insight in promoting breakthrough scientific achievements, as if ideas spontaneously pop into someone’s head – fully formed and functional."
+    },
+    {
+      "label": "4",
+      "text": "There may be some limited truth to this view. However, we believe that it largely misrepresents the real nature of scientific discovery, as well as that of creativity and innovation in many other realms of human endeavor."
+    },
+    {
+      "label": "5",
+      "text": "Setting aside such greats as Darwin and Einstein – whose monumental contributions are duly celebrated – we suggest that innovation is more a process of trial and error, where two steps forward may sometimes come with one step back, as well as one or more steps to the right or left. This evolutionary view of human innovation undermines the notion of creative genius and recognizes the cumulative nature of scientific progress."
+    },
+    {
+      "label": "6",
+      "text": "Consider one unheralded scientist: John Nicholson, a mathematical physicist working in the 1910s who postulated the existence of ‘proto-elements’ in outer space. By combining different numbers of weights of these proto-elements’ atoms, Nicholson could recover the weights of all the elements in the then-known periodic table. These successes are all the more noteworthy given the fact that Nicholson was wrong about the presence of proto-elements: they do not actually exist. Yet, amid his often fanciful theories and wild speculations, Nicholson also proposed a novel theory about the structure of atoms. Niels Bohr, the Nobel prize-winning father of modern atomic theory, jumped off from this interesting idea to conceive his now-famous model of the atom."
+    },
+    {
+      "label": "7",
+      "text": "What are we to make of this story? One might simply conclude that science is a collective and cumulative enterprise. That may be true, but there may be a deeper insight to be gleaned. We propose that science is constantly evolving, much as species of animals do. In biological systems, organisms may display new characteristics that result from random genetic mutations. In the same way, random, arbitrary or accidental mutations of ideas may help pave the way for advances in science. If mutations prove beneficial, then the animal or the scientific theory will continue to thrive and perhaps reproduce."
+    },
+    {
+      "label": "8",
+      "text": "Support for this evolutionary view of behavioral innovation comes from many domains. Consider one example of an influential innovation in US horseracing. The so-called ‘acey-deucy’ stirrup placement, in which the rider’s foot in his left stirrup is placed as much as 25 centimeters lower than the right, is believed to confer important speed advantages when turning on oval tracks. It was developed by a relatively unknown jockey named Jackie Westrope. Had Westrope conducted methodical investigations or examined extensive film records in a shrewd plan to outrun his rivals? Had he foreseen the speed advantage that would be conferred by riding acey-deucy? No. He suffered a leg injury, which left him unable to fully bend his left knee. His modification just happened to coincide with enhanced left-hand turning performance. This led to the rapid and widespread adoption of riding acey-deucy by many riders, a racing style which continues in today’s thoroughbred racing."
+    },
+    {
+      "label": "9",
+      "text": "Plenty of other stories show that fresh advances can arise from error, misadventure, and also pure serendipity – a happy accident. For example, in the early 1970s, two employees of the company 3M each had a problem: Spencer Silver had a product – a glue which was only slightly sticky – and no use for it, while his colleague Art Fry was trying to figure out how to affix temporary bookmarks in his hymn book without damaging its pages. The solution to both these problems was the invention of the brilliantly simple yet phenomenally successful Post-It note. Such examples give lie to the claim that ingenious, designing minds are responsible for human creativity and invention. Far more banal and mechanical forces may be at work; forces that are fundamentally connected to the laws of science."
+    },
+    {
+      "label": "10",
+      "text": "The notions of insight, creativity and genius are often invoked, but they remain vague and of doubtful scientific utility, especially when one considers the diverse and enduring contributions of individuals such as Plato, Leonardo da Vinci, Shakespeare, Beethoven, Galileo, Newton, Kepler, Curie, Pasteur and Edison. These notions merely label rather than explain the evolution of human innovations. We need another approach, and there is a promising candidate."
+    },
+    {
+      "label": "11",
+      "text": "The Law of Effect was advanced by psychologist Edward Thorndike in 1898, some 40 years after Charles Darwin published his groundbreaking work on biological evolution, On the Origin of Species. This simple law holds that organisms tend to repeat successful behaviors and to refrain from performing unsuccessful ones. Just like Darwin’s Law of Natural Selection, the Law of Effect involves an entirely mechanical process of variation and selection, without any end objective in sight."
+    },
+    {
+      "label": "12",
+      "text": "Of course, the origin of human innovation demands much further study. In particular, the provenance of the raw material on which the Law of Effect operates is not as clearly known as that of the genetic mutations on which the Law of Natural Selection operates. The generation of novel ideas and behaviors may not be entirely random, but constrained by prior successes and failures – of the current individual (such as Bohr) or of predecessors (such as Nicholson)."
+    },
+    {
+      "label": "13",
+      "text": "The time seems right for abandoning the naive notions of intelligent design and genius, and for scientifically exploring the true origins of creative behavior."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27–31\n\nChoose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "The purpose of the first paragraph is to",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8380_348299",
+          "options": [
+            {
+              "value": "A",
+              "text": "defend particular ideas."
+            },
+            {
+              "value": "B",
+              "text": "compare certain beliefs."
+            },
+            {
+              "value": "C",
+              "text": "disprove a widely held view."
+            },
+            {
+              "value": "D",
+              "text": "outline a common assumption."
+            }
+          ],
+          "explanation": "虽然问题句已经直接指明答案来自于第一段，但其实并无多大用处：因为本段一共只有三句话而已，且从这个题干问法上考生应该就已经可以预知：必然是要读懂三句大意才可综合得出结论，而不是寄希望于看了其中某句就可直接得出结论。不过，所幸本段三句话都不难读懂，第一句话说大众通常认为科学发现都来自于天才们的思考；第二句话点出这种看法的不足：它忽略了此人先前的经历和其他先辈们的积累；第三句话再进一步说大众看法还认为洞察力对于作出科学突破非常重要，还用了一个as if的从句侧面点出此种看法的偏颇之处。综合读懂这几句话的大意和对比所有选项后，可以确认答案应为：\n\nD项：outline a common assumption.\n\n译文：大致勾勒出一种常见看法。\n\nA项：defend particular ideas.\n\n译文：捍卫某些特定观念。\n\n第一段与其说是在捍卫，不如说是在委婉地批评和点出不足。\n\nB项：compare certain beliefs.\n\n译文：比较某些看法。\n\n这是个子虚乌有的选项，第一段里并没有流露出任何要比较的意图来。\n\nC项：disprove a widely held view.\n\n译文：证伪某个被广泛持有的观点。\n\n这个选项的混淆性比较强，因为乍一看来本段似乎确实是在表达“某些大众看法并不正确也不准确”这个观点。然而，细细分辨之下，段中三句话其实都只是提出了这个看法评价而已，并没有做出任何实质性的动作、举出任何具体的事例来disprove这种观点，因此它并不如真正的选项答案准确。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "What are the writers doing in the second paragraph?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8380_467721",
+          "options": [
+            {
+              "value": "A",
+              "text": "criticising an opinion"
+            },
+            {
+              "value": "B",
+              "text": "justifying a standpoint"
+            },
+            {
+              "value": "C",
+              "text": "explaining an approach"
+            },
+            {
+              "value": "D",
+              "text": "supporting an argument"
+            }
+          ],
+          "explanation": "第二段更加短小，一共只包含两句话，且两句话之间还用上了however这个明确转折的衔接。第一句话先以退为进地客气一下：大众看法也许有一定道理，然而limited这个用词其实已经暗示了作者其实并不真的这么认为。且众所周知，“转折”后面的内容才是真正有分量的部分，作者在这个句子里开门见山地提出了：这种看法misrepresents科学探索和很多其它研究领域里的真相，于是考生可以结合这两句的意思，确认答案应为：\n\nA项：criticising an opinion\n\n译文：批评某种观点\n\nB项：justifying a standpoint\n\n译文：为某种立场正名\n\n只要认识justify这个核心认知词汇就不难看出，本段这两句话并没有在捍卫任何立场的合理性。\n\nC项：explaining an approach\n\n译文：解释一种方法\n\n本段其实并没有提到任何方法。\n\nD项：supporting an argument\n\n译文：支持某种争论\n\n段落中其实既无任何“争论”，也并没有给出可以用来支持的证据。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "In the third paragraph, what do the writers suggest about Darwin and Einstein?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8380_641611",
+          "options": [
+            {
+              "value": "A",
+              "text": "They represent an exception to a general rule."
+            },
+            {
+              "value": "B",
+              "text": "Their way of working has been misunderstood."
+            },
+            {
+              "value": "C",
+              "text": "They are an ideal which others should aspire to."
+            },
+            {
+              "value": "D",
+              "text": "Their achievements deserve greater recognition."
+            }
+          ],
+          "explanation": "本题倒是基本可以凭借两个科学伟人所在的第一句话就基本得出结论，不过由于本段一共也只有两句话而已，所以考生如果为求稳妥、全部看完两句内容再综合得出结论，当然更佳。无论是哪种方式，最终都能确定答案应为：\n\nA项：They represent an exception to a general rule.\n\n译文：他们代表着一条普遍法则中的特例。\n\n本题中的另外三个选项，两个属于“完全未在段中被提到”的类型，另一个则与文意表达相反，总体上干扰性都不大。\n\nB项：Their way of working has been misunderstood.\n\n译文：他们的工作方法都遭到了误解。\n\nC项：They are an ideal which others should aspire to.\n\n译文：他们是其他人应当梦想成为的理想典范。\n\nD项：Their achievements deserve greater recognition.\n\n译文：他们的成就值得更大的认可。\n\n本项与另外两个选项“未在段意中被提及”不同，是与文意正相反的类型，因为第一句话里的破折号内容已经明确地说到了他们的成就得到了恰当的颂扬：duly celebrated，这与选项表述是矛盾的。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "John Nicholson is an example of a person whose idea",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8380_707418",
+          "options": [
+            {
+              "value": "A",
+              "text": "established his reputation as an influential scientist."
+            },
+            {
+              "value": "B",
+              "text": "was only fully understood at a later point in history."
+            },
+            {
+              "value": "C",
+              "text": "laid the foundations for someone else’s breakthrough."
+            },
+            {
+              "value": "D",
+              "text": "initially met with scepticism from the scientific community."
+            }
+          ],
+          "explanation": "虽然大写人名并不难找，考生可以轻松定位到第四段第一句话，然而无论本句还是其后的几句，如果不能综合起来全盘理解，单看任意一句恐怕都很难形成对此人观点的了解。考生需要像做大部分单选题所应当预期的那样：耐心看完整段内容、得到段意综合全貌，可知正确答案应为：\n\nC项：laid the foundations for someone else’s breakthrough.\n\n译文：为另一个人的突破奠定了基础\n\nA项：established his reputation as an influential scientist.\n\n译文：建立了自己作为一个有影响力科学家的声望。\n\n如果考生认识第一句话里的unheralded这个单词，就可以通过词义“名不见经传”直接否定排除这个选项；另一方面，即使考生并不认识这个词汇，也可在通读全段和对比之后看出此项并非答案。\n\nB项：was only fully understood at a later point in history.\n\n译文：只是到了历史上更晚的时期才被充分理解。\n\n这是一个本段落中并未提及的选项，干扰性极弱。\n\nD项：initially met with scepticism from the scientific community.\n\n译文：起初遭遇了来自科学圈的质疑。\n\n本项与上一项类似，都属于原文中并没有说到的信息。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "What is the key point of interest about the ‘acey-deucy’ stirrup placement?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8380_964202",
+          "options": [
+            {
+              "value": "A",
+              "text": "the simple reason why it was invented"
+            },
+            {
+              "value": "B",
+              "text": "the enthusiasm with which it was adopted"
+            },
+            {
+              "value": "C",
+              "text": "the research that went into its development"
+            },
+            {
+              "value": "D",
+              "text": "the cleverness of the person who first used it"
+            }
+          ],
+          "explanation": "本题的定位与前几道题“连续依次出现在每个相邻段落里”的规律略有不同，来自与上一题隔了一段的第六段。但是带着引号的‘acey-deucy’这个信号词可以帮助考生综合定位。与上一道题类似，由于本段的全部篇幅都是在围绕这个内容展开的，所以考生需要耐心阅读文意和对比过选项，然后可知正确答案应为：\n\nA项：the simple reason why it was invented\n\n译文：它之所以被发明出来的原因非常简单\n\n考生只需看懂文意和另外三个选项本身的意思，就不难抵挡住它们对答题的干扰。\n\nB项：the enthusiasm with which it was adopted\n\n译文：它被以极大的热情所接受\n\n这个信息在段落中确实出现过，但却只是一带而过而非这种马镫设置的最主要有趣之处，此选项应该不难排除。\n\nC项：the research that went into its development\n\n译文：为改进它而进行过的研究\n\n这个选项与文中意思的表达形成了矛盾抵触，应当也不难被考生轻松否定。\n\nD项：the cleverness of the person who first used it\n\n译文：第一个使用它之人的机灵聪慧\n\n这个选项与上一个类似，也与段意“一切其实是巧合”的意思表述相矛盾。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "instruction": "Questions 32–36\n\nDo the following statements agree with the claims of the writer in Reading Passage 3?\n\nChoose\n\nYES if the statement agrees with the claims of the writer\n\nNO if the statement contradicts the claims of the writer\n\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Acknowledging people such as Plato or da Vinci as geniuses will help us understand the process by which great minds create new ideas.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8380_687668",
+          "explanation": "本题的定位不难，考生可直接用两个大写人名找到第八段开头处；但本题的解答却并不简单：首先是因为包含定位信息的句子本身并没有给出足够的解题信息，考生需耐心往下再读一句，才能看出这两句话合并起来所表达的意思：虽然我们确实承认这样一些人是天才，但是这并不能解释人类创新这件事是怎么发展进化的；其次，题干句本身就是个值得精读分析的长难句，主干是 ... will help us understand ... 。帮助我们理解的这个具体动作，在于“承认他们是天才”；而理解的对象则是某个“过程”。具体是什么过程呢？就是由by which所引导的定语从句“伟大的头脑到底是怎么产生新观念的”。再次，对应原文的这两句话（尤其是第一句）也需要考生充分耐心阅读理解、关注细节表达。在满足了所有这些条件后，可得正确答案应为：NO。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "The Law of Effect was discovered at a time when psychologists were seeking a scientific reason why creativity occurs.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8380_907609",
+          "explanation": "本题的定位不难却也不易。之所以说不难，是因为组成这条定律本身的The Law of Effect这几个词是原文重现在第九段开头句里的；然而之所以不易，是因为从这里开始，文中多次提到了这个词组，且无论是第九段开头句本身，还是接下来的几句话里，都并没有给出这条定律是否确实是在心理学家探寻科学原因的时机里适时出现的。但要确认这道题确实是一个“原文未给出”，考生需要将对本题的寻找与下一道题的题干信息定位结合起来一起进行，才能更有把握地在已经遇到了下一道题解题信息而仍未见到本题相关信息的时候，笃定答案应为：NOT GIVEN。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "The Law of Effect states that no planning is involved in the behaviour of organisms.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8380_779494",
+          "explanation": "虽然上一道题的最终确认答案得来不易，但“一次定位两道题、耐心阅读和寻找”的动作可以造福考生对本题的解答，因为本题的出处与上一道题初始定位的距离并不遥远。也就是说，考生在快速找到了效果定律第一次出现的第九段第一句话后，虽然连读三句也找不到上一题的答案，但进而对比相邻的下一道题，即可得到本题的正确答案： YES。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "The Law of Effect sets out clear explanations about the sources of new ideas and behaviours.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8380_651823",
+          "explanation": "本题的对应原文句语法结构略复杂，需考生拿出耐心来真正看懂；而另一方面，由于上一道题定位在第九段结尾处，所以接下来的最后两道题如果是原文提及的信息，出题范围将只会是最后两个自然段、一共四句话而已。考虑到这一点也许会有助于考生耐心阅读原文，看出本段第二句话的意思是“理解人类头脑创新的原理并不像理解物种进化那般容易”，这与题干的表述形成了矛盾抵触，继而可得出正确答案应为：NO。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Many scientists are now turning away from the notion of intelligent design and genius.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8380_331845",
+          "explanation": "本题的定位不难，一个重要原因在于经过了前面的解答过程，只剩下有限的原文内容(共两句话)需要考生阅读寻找；另一个原因还在于intelligent design and genius这几个词居然原封不动地出现在了全文最后一段同时也是最后一句里。虽然文章确实提了个建议(也就是表达了这样一个观点)，说“我们是时候抛弃这些天真理念了”，然而这是否意味着事实上确实有很多科学家就这么做了呢？显然原文信息既不能证明也不能证伪题干表述，因此可确认本题答案：NOT GIVEN。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 37–40\n\nComplete the summary using the list of words, A–G, below.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Answer for gap 37.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8380_433766",
+          "explanation": "37. 本题的定位不算困难，因为无论是题干中的scientific discovery还是breakthrough都原词重现在了文章的第一段里；然而问题在于这两个定位信号分别出现在了这段的第一和最后一句话里，且无论单看某一句话还是看完了一整段，似乎都很难找到一个可以直接对应于词库中的、明确形成同义替换关系的选项词汇。此时考生不必太过惊慌，应当充分利用词库类型的优势，即无论如何必须要有一个选项成为空格内的答案。带着这种思路，以原文内容为背景对比每一个选项词汇，可以通过结合排除法最终锁定答案应为：F inspiration。\n\n38. 本题的难度类型与上一题类似：考生倒是不难依靠人名大写和带连字符的组合词汇迅速找到第四段开篇处，然而无论是本句还是下一句，都没有明确提到“错误”这个信息，直到第三句话（本句的语法结构略复杂，详细解析可见前文“佳句赏析”第二句）里才终于给出了一个定性描述：他的理论为wrong。由此可在词库中判定答案选项应为：D mistakes。\n\n39. 本题可以直接依靠专有名称Post-it粗略定位到第七段，但与其靠这个关键词快速浏览其所在句，考生不如采用平行阅读的方式逐段逐句顺序阅读，原因是当Post-it出现在本段第三句话里时，实际上对应答案的信息描述已经说完了：它们出现在定位句之前的两句话里。第一句提到了serendipity这个可能略显生僻的词汇，但马上就用了破折号后面的两个基本词汇happy accident来解释它；第二句则马上跟进了发明便利贴的背景故事来进一步说明这种结局美好的巧合。考生可以据此对应出正确选项应为：E luck。\n\n40. 本题的定位不算难，除了两条大写的定律外还有一个否定信息，三者同时出现的地方即为答案出处。以这条标准来阅读寻找的考生应当可以轻松锁定第九段的最后一句话，接下来只需认识原文中的objective一词，即可对应到词库中的答案选项：B goals。",
+          "promptHtml": "Answer for gap 37."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Answer for gap 38.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8380_635471",
+          "explanation": "37. 本题的定位不算困难，因为无论是题干中的scientific discovery还是breakthrough都原词重现在了文章的第一段里；然而问题在于这两个定位信号分别出现在了这段的第一和最后一句话里，且无论单看某一句话还是看完了一整段，似乎都很难找到一个可以直接对应于词库中的、明确形成同义替换关系的选项词汇。此时考生不必太过惊慌，应当充分利用词库类型的优势，即无论如何必须要有一个选项成为空格内的答案。带着这种思路，以原文内容为背景对比每一个选项词汇，可以通过结合排除法最终锁定答案应为：F inspiration。\n\n38. 本题的难度类型与上一题类似：考生倒是不难依靠人名大写和带连字符的组合词汇迅速找到第四段开篇处，然而无论是本句还是下一句，都没有明确提到“错误”这个信息，直到第三句话（本句的语法结构略复杂，详细解析可见前文“佳句赏析”第二句）里才终于给出了一个定性描述：他的理论为wrong。由此可在词库中判定答案选项应为：D mistakes。\n\n39. 本题可以直接依靠专有名称Post-it粗略定位到第七段，但与其靠这个关键词快速浏览其所在句，考生不如采用平行阅读的方式逐段逐句顺序阅读，原因是当Post-it出现在本段第三句话里时，实际上对应答案的信息描述已经说完了：它们出现在定位句之前的两句话里。第一句提到了serendipity这个可能略显生僻的词汇，但马上就用了破折号后面的两个基本词汇happy accident来解释它；第二句则马上跟进了发明便利贴的背景故事来进一步说明这种结局美好的巧合。考生可以据此对应出正确选项应为：E luck。\n\n40. 本题的定位不算难，除了两条大写的定律外还有一个否定信息，三者同时出现的地方即为答案出处。以这条标准来阅读寻找的考生应当可以轻松锁定第九段的最后一句话，接下来只需认识原文中的objective一词，即可对应到词库中的答案选项：B goals。",
+          "promptHtml": "Answer for gap 38."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Answer for gap 39.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8380_961160",
+          "explanation": "37. 本题的定位不算困难，因为无论是题干中的scientific discovery还是breakthrough都原词重现在了文章的第一段里；然而问题在于这两个定位信号分别出现在了这段的第一和最后一句话里，且无论单看某一句话还是看完了一整段，似乎都很难找到一个可以直接对应于词库中的、明确形成同义替换关系的选项词汇。此时考生不必太过惊慌，应当充分利用词库类型的优势，即无论如何必须要有一个选项成为空格内的答案。带着这种思路，以原文内容为背景对比每一个选项词汇，可以通过结合排除法最终锁定答案应为：F inspiration。\n\n38. 本题的难度类型与上一题类似：考生倒是不难依靠人名大写和带连字符的组合词汇迅速找到第四段开篇处，然而无论是本句还是下一句，都没有明确提到“错误”这个信息，直到第三句话（本句的语法结构略复杂，详细解析可见前文“佳句赏析”第二句）里才终于给出了一个定性描述：他的理论为wrong。由此可在词库中判定答案选项应为：D mistakes。\n\n39. 本题可以直接依靠专有名称Post-it粗略定位到第七段，但与其靠这个关键词快速浏览其所在句，考生不如采用平行阅读的方式逐段逐句顺序阅读，原因是当Post-it出现在本段第三句话里时，实际上对应答案的信息描述已经说完了：它们出现在定位句之前的两句话里。第一句提到了serendipity这个可能略显生僻的词汇，但马上就用了破折号后面的两个基本词汇happy accident来解释它；第二句则马上跟进了发明便利贴的背景故事来进一步说明这种结局美好的巧合。考生可以据此对应出正确选项应为：E luck。\n\n40. 本题的定位不算难，除了两条大写的定律外还有一个否定信息，三者同时出现的地方即为答案出处。以这条标准来阅读寻找的考生应当可以轻松锁定第九段的最后一句话，接下来只需认识原文中的objective一词，即可对应到词库中的答案选项：B goals。",
+          "promptHtml": "Answer for gap 39."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Answer for gap 40.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8380_105862",
+          "explanation": "37. 本题的定位不算困难，因为无论是题干中的scientific discovery还是breakthrough都原词重现在了文章的第一段里；然而问题在于这两个定位信号分别出现在了这段的第一和最后一句话里，且无论单看某一句话还是看完了一整段，似乎都很难找到一个可以直接对应于词库中的、明确形成同义替换关系的选项词汇。此时考生不必太过惊慌，应当充分利用词库类型的优势，即无论如何必须要有一个选项成为空格内的答案。带着这种思路，以原文内容为背景对比每一个选项词汇，可以通过结合排除法最终锁定答案应为：F inspiration。\n\n38. 本题的难度类型与上一题类似：考生倒是不难依靠人名大写和带连字符的组合词汇迅速找到第四段开篇处，然而无论是本句还是下一句，都没有明确提到“错误”这个信息，直到第三句话（本句的语法结构略复杂，详细解析可见前文“佳句赏析”第二句）里才终于给出了一个定性描述：他的理论为wrong。由此可在词库中判定答案选项应为：D mistakes。\n\n39. 本题可以直接依靠专有名称Post-it粗略定位到第七段，但与其靠这个关键词快速浏览其所在句，考生不如采用平行阅读的方式逐段逐句顺序阅读，原因是当Post-it出现在本段第三句话里时，实际上对应答案的信息描述已经说完了：它们出现在定位句之前的两句话里。第一句提到了serendipity这个可能略显生僻的词汇，但马上就用了破折号后面的两个基本词汇happy accident来解释它；第二句则马上跟进了发明便利贴的背景故事来进一步说明这种结局美好的巧合。考生可以据此对应出正确选项应为：E luck。\n\n40. 本题的定位不算难，除了两条大写的定律外还有一个否定信息，三者同时出现的地方即为答案出处。以这条标准来阅读寻找的考生应当可以轻松锁定第九段的最后一句话，接下来只需认识原文中的objective一词，即可对应到词库中的答案选项：B goals。",
+          "promptHtml": "Answer for gap 40."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "invention"
+        },
+        {
+          "value": "B",
+          "text": "goals"
+        },
+        {
+          "value": "C",
+          "text": "compromise"
+        },
+        {
+          "value": "D",
+          "text": "mistakes"
+        },
+        {
+          "value": "E",
+          "text": "luck"
+        },
+        {
+          "value": "F",
+          "text": "inspiration"
+        },
+        {
+          "value": "G",
+          "text": "experiments"
+        }
+      ],
+      "contextHtml": "<p><strong><span>The origins of creative behaviour</span></strong></p>\n\n<p><br>\n<span>The traditional view of scientific discovery is that breakthroughs happen when a single great mind has sudden </span><strong>[37] ______</strong> <span> . Although this can occur, it is not often the case. Advances are more likely to be the result of a longer process. In some cases, this process involves </span><strong>[38] ______</strong> <span> , such as Nicholson’s theory about proto-elements. In others, simple necessity may provoke innovation, as with Westrope’s decision to modify the position of his riding stirrups. There is also often an element of </span><strong>[39] ______</strong> <span> , for example, the coincidence of ideas that led to the invention of the Post-It note. With both the Law of Natural Selection and the Law of Effect, there may be no clear </span><strong>[40] ______</strong> <span> involved, but merely a process of variation and selection.</span></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><strong>Insight or evolution? </strong></span></span><br><span>Two scientists consider the origins of discoveries and other innovative behavior </span></p><p><br><span>Scientific discovery is popularly believed to result from the sheer genius of such intellectual stars as naturalist Charles Darwin and theoretical physicist Albert Einstein. Our view of such unique contributions to science often disregards the person’s prior experience and the efforts of their lesser-known predecessors. Conventional wisdom also places great weight on insight in promoting breakthrough scientific achievements, as if ideas spontaneously pop into someone’s head – fully formed and functional. </span><br><br><span>There may be some limited truth to this view. However, we believe that it largely misrepresents the real nature of scientific discovery, as well as that of creativity and innovation in many other realms of human endeavor. </span><br><br><span>Setting aside such greats as Darwin and Einstein – whose monumental contributions are duly celebrated – we suggest that innovation is more a process of trial and error, where two steps forward may sometimes come with one step back, as well as one or more steps to the right or left. This evolutionary view of human innovation undermines the notion of creative genius and recognizes the cumulative nature of scientific progress. <br><br>Consider one unheralded scientist: John Nicholson, a mathematical physicist working in the 1910s who postulated the existence of ‘proto-elements’ in outer space. By combining different numbers of weights of these proto-elements’ atoms, Nicholson could recover the weights of all the elements in the then-known periodic table. These successes are all the more noteworthy given the fact that Nicholson was wrong about the presence of proto-elements: they do not actually exist. Yet, amid his often fanciful theories and wild speculations, Nicholson also proposed a novel theory about the structure of atoms. Niels Bohr, the Nobel prize-winning father of modern atomic theory, jumped off from this interesting idea to conceive his now-famous model of the atom. </span><br><br><span>What are we to make of this story? One might simply conclude that science is a collective and cumulative enterprise. That may be true, but there may be a deeper insight to be gleaned. We propose that science is constantly evolving, much as species of animals do. In biological systems, organisms may display new characteristics that result from random genetic mutations. In the same way, random, arbitrary or accidental mutations of ideas may help pave the way for advances in science. If mutations prove beneficial, then the animal or the scientific theory will continue to thrive and perhaps reproduce. </span><br><br><span>Support for this evolutionary view of behavioral innovation comes from many domains. Consider one example of an influential innovation in US horseracing. The so-called ‘acey-deucy’ stirrup placement, in which the rider’s foot in his left stirrup is placed as much as 25 centimeters lower than the right, is believed to confer important speed advantages when turning on oval tracks. It was developed by a relatively unknown jockey named Jackie Westrope. Had Westrope conducted methodical investigations or examined extensive film records in a shrewd plan to outrun his rivals? Had he foreseen the speed advantage that would be conferred by riding acey-deucy? No. He suffered a leg injury, which left him unable to fully bend his left knee. His modification just happened to coincide with enhanced left-hand turning performance. This led to the rapid and widespread adoption of riding acey-deucy by many riders, a racing style which continues in today’s thoroughbred racing. </span><br><br><span>Plenty of other stories show that fresh advances can arise from error, misadventure, and also pure serendipity – a happy accident. For example, in the early 1970s, two employees of the company 3M each had a problem: Spencer Silver had a product – a glue which was only slightly sticky – and no use for it, while his colleague Art Fry was trying to figure out how to affix temporary bookmarks in his hymn book without damaging its pages. The solution to both these problems was the invention of the brilliantly simple yet phenomenally successful Post-It note. Such examples give lie to the claim that ingenious, designing minds are responsible for human creativity and invention. Far more banal and mechanical forces may be at work; forces that are fundamentally connected to the laws of science. </span><br><br><span>The notions of insight, creativity and genius are often invoked, but they remain vague and of doubtful scientific utility, especially when one considers the diverse and enduring contributions of individuals such as Plato, Leonardo da Vinci, Shakespeare, Beethoven, Galileo, Newton, Kepler, Curie, Pasteur and Edison. These notions merely label rather than explain the evolution of human innovations. We need another approach, and there is a promising candidate. </span><br><br><span>The Law of Effect was advanced by psychologist Edward Thorndike in 1898, some 40 years after Charles Darwin published his groundbreaking work on biological evolution, On the Origin of Species. This simple law holds that organisms tend to repeat successful behaviors and to refrain from performing unsuccessful ones. Just like Darwin’s Law of Natural Selection, the Law of Effect involves an entirely mechanical process of variation and selection, without any end objective in sight. </span></p><p><span>Of course, the origin of human innovation demands much further study. In particular, the provenance of the raw material on which the Law of Effect operates is not as clearly known as that of the genetic mutations on which the Law of Natural Selection operates. The generation of novel ideas and behaviors may not be entirely random, but constrained by prior successes and failures – of the current individual (such as Bohr) or of predecessors (such as Nicholson). </span></p><p><span>The time seems right for abandoning the naive notions of intelligent design and genius, and for scientifically exploring the true origins of creative behavior. </span></p>"
+}

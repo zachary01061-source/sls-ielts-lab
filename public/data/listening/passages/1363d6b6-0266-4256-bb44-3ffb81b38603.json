@@ -1,0 +1,332 @@
+{
+  "id": "1363d6b6-0266-4256-bb44-3ffb81b38603",
+  "title": "A better way to learn mathematics",
+  "titleCn": "学数学的更好方法：生活中的数学应用",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/1363d6b6-0266-4256-bb44-3ffb81b38603",
+  "duration": 326,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,260"
+    },
+    {
+      "label": "2",
+      "text": "So today I want to show you how mathematics can be approached in a more practical and engaging way. The lecture is divided into six sections, each illustrating how numbers influence our daily lives and decision-making."
+    },
+    {
+      "label": "3",
+      "text": "00:00:17,640"
+    },
+    {
+      "label": "4",
+      "text": "To begin, let's consider our homes. Imagine you're renovating a room. You'll need to know the surface area of the floor before you buy any covering. Without these calculations, you may spend too much or too little, and the shop assistant won't be able to cut the right amount of carpet for you. Another example comes from the media."
+    },
+    {
+      "label": "5",
+      "text": "00:00:40,530"
+    },
+    {
+      "label": "6",
+      "text": "Open any newspaper and you'll find visual illustrations of trends in unemployment, climate, or health. These pictures aren't random decoration. They are graphs designed to summarize numbers in a way the general public can understand. The second area relates to money. Every household faces the challenge of balancing income and expenditure."
+    },
+    {
+      "label": "7",
+      "text": "00:01:05,180"
+    },
+    {
+      "label": "8",
+      "text": "Creating a financial plan, often called a household budget, allows people to decide how much they can safely spend. But it's not just about tracking what you already use. You also need to make predictions about the future. For example, if you're planning a holiday, you must try to estimate how much it will cost in advance, otherwise you may end up in debt."
+    },
+    {
+      "label": "9",
+      "text": "00:01:29,260"
+    },
+    {
+      "label": "10",
+      "text": "Now let's turn to research."
+    },
+    {
+      "label": "11",
+      "text": "00:01:32,300"
+    },
+    {
+      "label": "12",
+      "text": "Scientists and social researchers rarely examine an entire population. Instead, they focus on a smaller group that represents the whole. This limited set of people or objects is known as a sample, and it provides insight without overwhelming the researcher. Of course, no matter how carefully the investigation is carried out, its reliability depends on where the information comes from. If you base your conclusions on weak or biased sources, the findings may be meaningless. The fourth area is technology. In the past, calculations were done with pen and paper, which was slow and error-prone. Today, computers connected through the Internet can process enormous amounts of data instantly, helping us analyze everything from traffic patterns to consumer spending. However, technology is not perfect. Consider the diagrams we use to communicate numerical information. If a chart is poorly designed, for instance, if it uses the wrong scale or distorts proportions, it can lead the reader to completely false conclusions. Moving on to society, governments depend heavily on numbers to plan for the future. For example, by studying changes in birth rates, officials can decide how many schools will be required in ten years' time or how many hospitals will be needed in twenty. Without this information, long-term planning would be impossible."
+    },
+    {
+      "label": "13",
+      "text": "00:03:03,400"
+    },
+    {
+      "label": "14",
+      "text": "Finally, mathematics is also about clarity. Suppose you want to present a large collection of statistics in the simplest way. Instead of writing long sentences, you can organize the numbers into a table, which allows readers to see the pattern immediately. So, mathematics is a powerful tool we rely on"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Question 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "8f8985ac-5fec-4fbd-9538-629ee1ca7083",
+          "prompt": "**A Better Way to Learn Mathematics**\n\n**Home& Daily Life**\n· When buying a **31**_____ you must calculate the floor area.",
+          "answers": [
+            "covering",
+            "carpet"
+          ],
+          "rawAnswer": "covering|carpet",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You'll need to know the surface area of the floor before you buy any covering. Without these calculations, you may spend too much or too little, and the shop assistant won't be able to cut the right amount of carpet for you"
+          },
+          "keywordPairs": [
+            {
+              "question": "calculate the floor area",
+              "article": "know the surface area of the floor"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "c0171a13-4357-4c8d-af57-1b33fe080d26",
+          "prompt": "· Newspapers often present information in the form of **32**_____ .",
+          "answers": [
+            "graphs"
+          ],
+          "rawAnswer": "graphs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Open any newspaper and you'll find visual illustrations of trends in unemployment, climate, or health. These pictures aren't random decoration. They are graphs designed to summarize numbers in a way the general public can understand"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "e4c10376-6384-4bab-b4bc-42d5d501d3e2",
+          "prompt": "**Money Management**\n· Every household needs to control its **33**_____ .",
+          "answers": [
+            "budget"
+          ],
+          "rawAnswer": "budget",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Creating a financial plan, often called a household budget, allows people to decide how much they can safely spend"
+          },
+          "keywordPairs": [
+            {
+              "question": "needs to control its",
+              "article": "allows people to decide how much they can safely spend"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "7465c860-7dc9-4b59-9987-de796d5c1b43",
+          "prompt": "· People should try to **34**_____ future expenses like holidays.",
+          "answers": [
+            "estimate"
+          ],
+          "rawAnswer": "estimate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "you must try to estimate how much it will cost in advance, otherwise you may end up in debt"
+          },
+          "keywordPairs": [
+            {
+              "question": "future expenses",
+              "article": "how much it will cost in advance"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "377c2271-114e-4e07-9212-64f83057f394",
+          "prompt": "**Analysing Data**\n· Researchers often study a **35**_____ of people to represent the whole population.",
+          "answers": [
+            "sample"
+          ],
+          "rawAnswer": "sample",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Scientists and social researchers rarely examine an entire population. Instead, they focus on a smaller group that represents the whole. This limited set of people or objects is known as a sample"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "a2c6f116-9084-41f3-886a-0fe8dae99f8e",
+          "prompt": "· Reliable results depend on trustworthy **36**_____ of information.",
+          "answers": [
+            "prices"
+          ],
+          "rawAnswer": "prices",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Of course, no matter how carefully the investigation is carried out, its reliability depends on where the information comes from. If you base your conclusions on weak or biased sources, the findings may be meaningless"
+          },
+          "keywordPairs": [
+            {
+              "question": "various",
+              "article": "different"
+            },
+            {
+              "question": "ignore",
+              "article": "rather than just looking at"
+            },
+            {
+              "question": "charges",
+              "article": "prices"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "97bbeade-2f77-4b26-9471-19a69e1f5211",
+          "prompt": "**Using Technology**\n· The spread of the **37**_____ has made Maths more accessible.",
+          "answers": [
+            "computers"
+          ],
+          "rawAnswer": "computers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the past, calculations were done with pen and paper, which was slow and error-prone. Today, computers connected through the Internet can process enormous amounts of data instantly, helping us analyze everything from traffic patterns to consumer spending"
+          },
+          "keywordPairs": [
+            {
+              "question": "has made Maths more accessible",
+              "article": "can process enormous amounts of data instantly, helping us analyze"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "731ec7bc-aada-41e2-af43-181354c82b40",
+          "prompt": "· A misleading **38**_____ can give the wrong impression of data.",
+          "answers": [
+            "chart"
+          ],
+          "rawAnswer": "chart",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If a chart is poorly designed, for instance, if it uses the wrong scale or distorts proportions, it can lead the reader to completely false conclusions"
+          },
+          "keywordPairs": [
+            {
+              "question": "can give the wrong impression of data",
+              "article": "can lead the reader to completely false conclusions"
+            },
+            {
+              "question": "misleading",
+              "article": "poorly designed"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "5cdd7f46-2479-4b3e-9f80-b9cd79881e68",
+          "prompt": "**Exploring Society**\n· Governments use statistics such as **39**_____ rates to plan services.",
+          "answers": [
+            "birth"
+          ],
+          "rawAnswer": "birth",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, by studying changes in birth rates, officials can decide how many schools will be required in ten years' time or how many hospitals will be needed in twenty"
+          },
+          "keywordPairs": [
+            {
+              "question": "Governments",
+              "article": "officials"
+            },
+            {
+              "question": "use statistics such as",
+              "article": "by studying changes in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "8b6c170f-19c7-41c5-afb1-18312b6214be",
+          "prompt": "**Explaining Information**\n· A simple **40**_____ of numbers can make complex facts easy to understand.",
+          "answers": [
+            "table"
+          ],
+          "rawAnswer": "table",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Instead of writing long sentences, you can organize the numbers into a table, which allows readers to see the pattern immediately"
+          },
+          "keywordPairs": [
+            {
+              "question": "can make complex facts easy to understand",
+              "article": "allows readers to see the pattern immediately"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,260</p><p>So today I want to show you how mathematics can be approached in a more practical and engaging way. The lecture is divided into six sections, each illustrating how numbers influence our daily lives and decision-making. </p><p>00:00:17,640</p><p>To begin, let's consider our homes. Imagine you're renovating a room. You'll need to know the surface area of the floor before you buy any covering. Without these calculations, you may spend too much or too little, and the shop assistant won't be able to cut the right amount of carpet for you. Another example comes from the media. </p><p>00:00:40,530</p><p>Open any newspaper and you'll find visual illustrations of trends in unemployment, climate, or health. These pictures aren't random decoration. They are graphs designed to summarize numbers in a way the general public can understand. The second area relates to money. Every household faces the challenge of balancing income and expenditure. </p><p>00:01:05,180</p><p>Creating a financial plan, often called a household budget, allows people to decide how much they can safely spend. But it's not just about tracking what you already use. You also need to make predictions about the future. For example, if you're planning a holiday, you must try to estimate how much it will cost in advance, otherwise you may end up in debt. </p><p>00:01:29,260</p><p>Now let's turn to research. </p><p>00:01:32,300</p><p>Scientists and social researchers rarely examine an entire population. Instead, they focus on a smaller group that represents the whole. This limited set of people or objects is known as a sample, and it provides insight without overwhelming the researcher. Of course, no matter how carefully the investigation is carried out, its reliability depends on where the information comes from. If you base your conclusions on weak or biased sources, the findings may be meaningless. The fourth area is technology. In the past, calculations were done with pen and paper, which was slow and error-prone. Today, computers connected through the Internet can process enormous amounts of data instantly, helping us analyze everything from traffic patterns to consumer spending. However, technology is not perfect. Consider the diagrams we use to communicate numerical information. If a chart is poorly designed, for instance, if it uses the wrong scale or distorts proportions, it can lead the reader to completely false conclusions. Moving on to society, governments depend heavily on numbers to plan for the future. For example, by studying changes in birth rates, officials can decide how many schools will be required in ten years' time or how many hospitals will be needed in twenty. Without this information, long-term planning would be impossible. </p><p>00:03:03,400</p><p>Finally, mathematics is also about clarity. Suppose you want to present a large collection of statistics in the simplest way. Instead of writing long sentences, you can organize the numbers into a table, which allows readers to see the pattern immediately. So, mathematics is a powerful tool we rely on<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/1363d6b6-0266-4256-bb44-3ffb81b38603.mp3",
+    "durationSeconds": 205.944,
+    "sizeBytes": 3295635,
+    "sha256": "b89d5bf7f410bff8d05bf6437302aae65d862c84effcce8c57bdfb20b8106ec5",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:03:45Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775548364177_b47qxf_823ad778_b35b7006.mp3"
+}

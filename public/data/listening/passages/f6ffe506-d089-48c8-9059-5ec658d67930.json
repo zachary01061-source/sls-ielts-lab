@@ -1,0 +1,310 @@
+{
+  "id": "f6ffe506-d089-48c8-9059-5ec658d67930",
+  "title": "Fishing farm",
+  "titleCn": "水产养殖与转基因三文鱼养殖",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/f6ffe506-d089-48c8-9059-5ec658d67930",
+  "duration": 556,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,340"
+    },
+    {
+      "label": "2",
+      "text": "Section four. You will hear part of a lecture about aquaculture and the fishing business. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:33,640"
+    },
+    {
+      "label": "4",
+      "text": "Now, listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:01:00,560"
+    },
+    {
+      "label": "6",
+      "text": "So what I'm going to talk about to you today is something called aquaculture. It has been responsible for the impressive growth in the supply of fish for human consumption. There's also been a slight improvement in the state of certain fish stocks due to improved fishery management. Aquatic food production has transitioned from being primarily based on the capturing of wild fish to the culture of increasing numbers of farmed species. In recent years, a type of genetically modified salmon has been farmed in the New England region, produced by a Massachusetts- based biotech firm. This type of fish is engineered to grow twice as fast as its conventional farm-raised counterpart. As a result, this increases the speed of the local aquaculture industry development, and thus reduces the fishing pressure on wild stock. But local residents have expressed their concerns on the potential negative effects on the ecosystem should those GM fish ever escape into the sea. Stronger, healthier, and faster-growing, these fish might cannibalize others or outcompete wild-type fish for food. Local decision-makers and regulators have thus pushed forward a number of measures making it impossible for most GM fish to mate. A small percentage is able to breed only within confined pools. Despite the economic boom of genetically engineered fish, culturing traditional types of fish is still mainstream among fish farmers. Most of them prefer fish with special features, such as tuna. It is a source of high-quality protein with almost no fat. It also contains all essential amino acids required by the body for growth and maintenance of lean muscle tissue. With high nutritional value, this kind of fish will always be popular in the fish market. For the fish farming industry, incidents of fish escaping the farms has been a troubling issue over the years. Due to bad weather, nets that used to hold the fish were often destroyed. Thousands of salmon worth nearly two hundred and twenty thousand euros escaped from a fish farm in the Norwegian region in July, raising fear that they would breed with wild fish stocks. Cages were thus built to withstand storms. The frames of the cages are made of PE, which is dedicated to marine use. This material has trustable strength, resilience, and tenacity. To further strengthen it, strong nets without knots are used to support the cylindrical frame."
+    },
+    {
+      "label": "7",
+      "text": "00:03:57,500"
+    },
+    {
+      "label": "8",
+      "text": "A group of small villages on the island of Zanzibar, off the coast of East Africa, have been trying to develop a local aquaculture industry sustainably. They use a land-based production system that is both economically and ecologically sound. Land-based recirculation can control ocean temperature and optimize growth for the fish that are used to warmer water. All organic waste from the fish is held on land, with incoming water sterilized to avoid disease, which has historically plagued ocean-based farms. The lack of disease means that no drugs are administered to the fish. However, one problem facing the villagers is lack of suitable land on the coast for this system. Hotels and beaches open to tourists take up most of the coastal area. Another problem facing local fishermen is the scarcity of young fish used to breed the species. This predicament stems from overfishing during the previous decades. The local commercial fishing industry has been reduced by fifty percent for this reason, and the aquaculture industry has yet to thrive. The government has taken a set of initiatives to safeguard native aquaculture and the fishing industry. An open-air seafood market has been launched. Residents are encouraged to support local fish farming businesses by purchasing marine products. As it turns out, there is a public demand for access to locally produced, sustainable sources of fresh seafood. Moreover, local fish farmers are aided to market seaweed and oysters, both of which have additional economic values. Seaweed is used in various ways in cosmetics. Seaweed extract is often found on the list of ingredients constituting creams, soaps, shampoos, powders, and sprays. It is said to be useful in various ways, including the relief of rheumatic pain and the removal of cellulite. Oyster is a source of seafood popular among the local hospitality industry. Served with caviar and champagne, it is one of the world's ultimate luxury foods, appealing to gourmets with its succulent and delicate flavor. It thus appears to have the greatest potential for commercial culture. Even though the national and international market has shown demand for marine products in Zanzibar, it is still challenging to survive in the competitive modern fishing industry. The government ought to restore the business by encouraging aquaculture, recreation, and shipping. First, it could utilize modern fish farming technology to supply more high-quality marine products. Tourism is an effective stimulus to boost its sales, and with better shipping capability, more products can be delivered abroad."
+    },
+    {
+      "label": "9",
+      "text": "00:07:08,040"
+    },
+    {
+      "label": "10",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "da83e5c5-57f2-47c7-8051-77f260744ea2",
+          "prompt": "Local fish farmers are afraid that genetically modified fish will **31**_____ into the sea.",
+          "answers": [
+            "escape"
+          ],
+          "rawAnswer": "escape",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But local residents have expressed their concerns on the potential negative effects on the ecosystem should those GM fish ever escape into the sea"
+          },
+          "keywordPairs": [
+            {
+              "question": "genetically modified",
+              "article": "GM"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "c6aab049-4ce5-4af5-b769-d0017716207a",
+          "prompt": "- like to breed fish with special features, like **32**_____",
+          "answers": [
+            "tuna"
+          ],
+          "rawAnswer": "tuna",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Most of them prefer fish with special features, such as tuna"
+          },
+          "keywordPairs": [
+            {
+              "question": "like to",
+              "article": "prefer"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 31-40**\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "7dd69df9-87ad-4018-9957-4b538d71257f",
+          "prompt": "**Other solutions**:\n- to build some cages to prevent the fish from **33**_____",
+          "answers": [
+            "storms"
+          ],
+          "rawAnswer": "storms",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Cages were thus built to withstand storms"
+          },
+          "keywordPairs": [
+            {
+              "question": "prevent",
+              "article": "withstand"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "d23847d0-dcf1-47ae-a197-df285f838b32",
+          "prompt": "- to use **34**_____ nets to support the farms of the cages",
+          "answers": [
+            "strong"
+          ],
+          "rawAnswer": "strong",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To further strengthen it, strong nets without knots are used to support the cylindrical frame"
+          },
+          "keywordPairs": [
+            {
+              "question": "cages",
+              "article": "cylindrical frame"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "bd14b976-ebe5-4fe3-92b8-5c912484d39b",
+          "prompt": "**Problems facing the local fishermen**:\n- lack of land on the **35**_____",
+          "answers": [
+            "coast"
+          ],
+          "rawAnswer": "coast",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, one problem facing the villagers is lack of suitable land on the coast for this system"
+          },
+          "keywordPairs": [
+            {
+              "question": "local fishermen",
+              "article": "villagers"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "2aa75151-bf14-43c5-90af-8900d5862778",
+          "prompt": "- lack of **36**_____ fish",
+          "answers": [
+            "young"
+          ],
+          "rawAnswer": "young",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another problem facing local fishermen is the scarcity of young fish used to breed the species"
+          },
+          "keywordPairs": [
+            {
+              "question": "lack",
+              "article": "scarcity"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "c0ef3ca1-049a-4152-8f96-79431545e1b1",
+          "prompt": "**Initiatives taken by the government**:\n- encourages fish farmers to **37**_____ local fish farming business",
+          "answers": [
+            "support"
+          ],
+          "rawAnswer": "support",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Residents are encouraged to support local fish farming businesses by purchasing marine products"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "6ac4b152-8a7d-4c45-aaf0-7356ee93f931",
+          "prompt": "- helps fish farmers to sell seaweed and oyster:\nSeaweed can be used to make **38**_____",
+          "answers": [
+            "cosmetics"
+          ],
+          "rawAnswer": "cosmetics",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Seaweed is used in various ways in cosmetics"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "1000669d-5e15-4bf1-babc-bd094d30a989",
+          "prompt": "Oyster is a source of seafood which can supply local **39**_____ .",
+          "answers": [
+            "hospitality"
+          ],
+          "rawAnswer": "hospitality",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Oyster is a source of seafood popular among the local hospitality industry"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "8f7efe8b-aa3d-4d64-b8d6-dd5b21983497",
+          "prompt": "- saves local fishing business by encouraging aquaculture, recreation and **40**_____",
+          "answers": [
+            "shipping"
+          ],
+          "rawAnswer": "shipping",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The government ought to restore the business by encouraging aquaculture, recreation, and shipping"
+          },
+          "keywordPairs": [
+            {
+              "question": "saves",
+              "article": "restore"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题",
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,340</p><p>Section four. You will hear part of a lecture about aquaculture and the fishing business. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:33,640</p><p>Now, listen carefully and answer questions thirty-one to forty. </p><p>00:01:00,560</p><p>So what I'm going to talk about to you today is something called aquaculture. It has been responsible for the impressive growth in the supply of fish for human consumption. There's also been a slight improvement in the state of certain fish stocks due to improved fishery management. Aquatic food production has transitioned from being primarily based on the capturing of wild fish to the culture of increasing numbers of farmed species. In recent years, a type of genetically modified salmon has been farmed in the New England region, produced by a Massachusetts- based biotech firm. This type of fish is engineered to grow twice as fast as its conventional farm-raised counterpart. As a result, this increases the speed of the local aquaculture industry development, and thus reduces the fishing pressure on wild stock. But local residents have expressed their concerns on the potential negative effects on the ecosystem should those GM fish ever escape into the sea. Stronger, healthier, and faster-growing, these fish might cannibalize others or outcompete wild-type fish for food. Local decision-makers and regulators have thus pushed forward a number of measures making it impossible for most GM fish to mate. A small percentage is able to breed only within confined pools. Despite the economic boom of genetically engineered fish, culturing traditional types of fish is still mainstream among fish farmers. Most of them prefer fish with special features, such as tuna. It is a source of high-quality protein with almost no fat. It also contains all essential amino acids required by the body for growth and maintenance of lean muscle tissue. With high nutritional value, this kind of fish will always be popular in the fish market. For the fish farming industry, incidents of fish escaping the farms has been a troubling issue over the years. Due to bad weather, nets that used to hold the fish were often destroyed. Thousands of salmon worth nearly two hundred and twenty thousand euros escaped from a fish farm in the Norwegian region in July, raising fear that they would breed with wild fish stocks. Cages were thus built to withstand storms. The frames of the cages are made of PE, which is dedicated to marine use. This material has trustable strength, resilience, and tenacity. To further strengthen it, strong nets without knots are used to support the cylindrical frame. </p><p>00:03:57,500</p><p>A group of small villages on the island of Zanzibar, off the coast of East Africa, have been trying to develop a local aquaculture industry sustainably. They use a land-based production system that is both economically and ecologically sound. Land-based recirculation can control ocean temperature and optimize growth for the fish that are used to warmer water. All organic waste from the fish is held on land, with incoming water sterilized to avoid disease, which has historically plagued ocean-based farms. The lack of disease means that no drugs are administered to the fish. However, one problem facing the villagers is lack of suitable land on the coast for this system. Hotels and beaches open to tourists take up most of the coastal area. Another problem facing local fishermen is the scarcity of young fish used to breed the species. This predicament stems from overfishing during the previous decades. The local commercial fishing industry has been reduced by fifty percent for this reason, and the aquaculture industry has yet to thrive. The government has taken a set of initiatives to safeguard native aquaculture and the fishing industry. An open-air seafood market has been launched. Residents are encouraged to support local fish farming businesses by purchasing marine products. As it turns out, there is a public demand for access to locally produced, sustainable sources of fresh seafood. Moreover, local fish farmers are aided to market seaweed and oysters, both of which have additional economic values. Seaweed is used in various ways in cosmetics. Seaweed extract is often found on the list of ingredients constituting creams, soaps, shampoos, powders, and sprays. It is said to be useful in various ways, including the relief of rheumatic pain and the removal of cellulite. Oyster is a source of seafood popular among the local hospitality industry. Served with caviar and champagne, it is one of the world's ultimate luxury foods, appealing to gourmets with its succulent and delicate flavor. It thus appears to have the greatest potential for commercial culture. Even though the national and international market has shown demand for marine products in Zanzibar, it is still challenging to survive in the competitive modern fishing industry. The government ought to restore the business by encouraging aquaculture, recreation, and shipping. First, it could utilize modern fish farming technology to supply more high-quality marine products. Tourism is an effective stimulus to boost its sales, and with better shipping capability, more products can be delivered abroad. </p><p>00:07:08,040</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/f6ffe506-d089-48c8-9059-5ec658d67930.mp3",
+    "durationSeconds": 435.288,
+    "sizeBytes": 6965139,
+    "sha256": "c172ba8a078c780959d882b25943fb122a3b9a0cb9c77099ce4150317062b84e",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:07:05Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775400165972_rrr1b2_4d0f9c5d_84770f11.mp3"
+}

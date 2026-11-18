@@ -1,0 +1,297 @@
+{
+  "id": "b2061c19-5597-4833-bb96-ac36f8231a07",
+  "title": "Jatropha: a new biofuel",
+  "titleCn": "麻疯树：新型生物燃料",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/b2061c19-5597-4833-bb96-ac36f8231a07",
+  "duration": 279,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,940"
+    },
+    {
+      "label": "2",
+      "text": "You will hear an environmental science lecture about a plant called Jatropha and its uses."
+    },
+    {
+      "label": "3",
+      "text": "00:00:07,620"
+    },
+    {
+      "label": "4",
+      "text": "First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:19,420"
+    },
+    {
+      "label": "6",
+      "text": "Good afternoon. As you know, the world is running out of fossil fuels, that is crude oil, coal, and natural gas. As an alternative, certain plants are now being considered as biofuels, which are fuels made from organic plant material. Few things that make this plant especially attractive is that it can survive in very poor quality and fertile soil, as it does, for example, alongside train tracks in India on the line between Mumbai and Delhi. And for up to three years, it's resistant to drought. That's right. It can do without rain for that long. And even if it's not actually a plant that people can eat, it's still worth having it on your land as it prevents erosion. And we looked at the dangerous consequences of that in a previous lecture. Furthermore, Jatropha seeds can be slowly distilled to produce diesel oil, and it's this kind of fuel. Of course, that's of interest to scientists and power companies. After processing, the seeds can yield up to four times the oil that soybean can and ten times the amount compared to corn. No doubt that it is a remarkable plant and one that has been very beneficial to men in various African communities. It's been used to operate water pumps and refrigerate medicines. It can be used to produce candles or as a fencing plant to keep some animals enclosed and some animals out. For example, the boiled leaves can do much to relieve the suffering of people with malaria, and some Jatropha species have seeds which are used to treat digestion problems. When the plants are burnt, they release carbon dioxide, but they absorb great amounts when they're growing, making them a considerably greener alternative to fossil fuels. To provide land for palm oil or sugar cane plantations. For instance, companies are cutting down vast areas of rainforest which can never be replaced, and this in turn results in the disappearance of wildlife which depended on that habitat. You can also imagine that such deforestation makes a considerable contribution to global warming."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "f96cd246-bd16-456f-968b-e201678c6e5a",
+          "prompt": "**Jatropha: A New Biofuel**\n\n**Plant facts**\nThe plant jatropha\n- is originally from Central America\n- can grow in poor quality infertile **31**_____",
+          "answers": [
+            "soil"
+          ],
+          "rawAnswer": "soil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Few things that make this plant especially attractive is that it can survive in very poor quality and fertile soil"
+          },
+          "keywordPairs": [
+            {
+              "question": "grow",
+              "article": "survive"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "7aeedf87-16d6-430a-bc56-6db8ffd7f5ee",
+          "prompt": "- can survive **32**_____ for a long period of time",
+          "answers": [
+            "drought"
+          ],
+          "rawAnswer": "drought",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And for up to three years, it's resistant to drought. That's right. It can do without rain for that long"
+          },
+          "keywordPairs": [
+            {
+              "question": "for a long period of time",
+              "article": "for up to three years"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "ebf99773-98e2-4007-bde1-33e3035a4026",
+          "prompt": "- can stop **33**_____ of land",
+          "answers": [
+            "erosion"
+          ],
+          "rawAnswer": "erosion",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And even if it's not actually a plant that people can eat, it's still worth having it on your land as it prevents erosion"
+          },
+          "keywordPairs": [
+            {
+              "question": "stop",
+              "article": "prevents"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "65439222-90a1-444c-beda-59f8c4f09fb8",
+          "prompt": "**Its seeds**\n- can be used to produce diesel oil\n- produce far more fuel than soybean or **34**_____\n- provide biofuel mass for power stations\n- produce renewable energy",
+          "answers": [
+            "corn"
+          ],
+          "rawAnswer": "corn",
+          "evidence": {
+            "paragraph": "",
+            "quote": "After processing, the seeds can yield up to four times the oil that soybean can and ten times the amount compared to corn"
+          },
+          "keywordPairs": [
+            {
+              "question": "produce far more fuel than",
+              "article": "ten times the amount compared to"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "02d701a0-5275-443c-bf7f-de156a9f6398",
+          "prompt": "**Uses of jatropha in Africa**\n- for water pumps and fridges\n- made into **35**_____",
+          "answers": [
+            "candles"
+          ],
+          "rawAnswer": "candles",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It can be used to produce candles or as a fencing plant to keep some animals enclosed and some animals out"
+          },
+          "keywordPairs": [
+            {
+              "question": "made into",
+              "article": "produce"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "660b507d-8d2f-4264-9dc9-d2cda1531810",
+          "prompt": "- fencing plants for animals\n- the **36**_____ are bolied and used to treat malaria",
+          "answers": [
+            "leaves"
+          ],
+          "rawAnswer": "leaves",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, the boiled leaves can do much to relieve the suffering of people with malaria"
+          },
+          "keywordPairs": [
+            {
+              "question": "used to treat",
+              "article": "relieve the suffering of people with"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "612373f5-40b1-458d-893f-f545e9864d03",
+          "prompt": "- for problems with **37**_____",
+          "answers": [
+            "digestion"
+          ],
+          "rawAnswer": "digestion",
+          "evidence": {
+            "paragraph": "",
+            "quote": "and some Jatropha species have seeds which are used to treat digestion problems"
+          },
+          "maxWords": 2,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "ea1b4c58-e967-4d4f-9fea-ec25e39c5cff",
+          "prompt": "**European companies` claims about jatropha**\n- It could help stop poverty among rural populations\n- few modification is needed for modern diesel engines\n- The plants use up lots of **38**_____",
+          "answers": [
+            "carbon dioxide"
+          ],
+          "rawAnswer": "carbon dioxide",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When the plants are burnt, they release carbon dioxide, but they absorb great amounts when they're growing, making them a considerably greener alternative to fossil fuels"
+          },
+          "keywordPairs": [
+            {
+              "question": "use up lots of",
+              "article": "absorb great amounts"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "12c0fc61-9b3e-4e50-99c5-215bad4fb205",
+          "prompt": "**Problems with jatropha**\n- some seeds are toxic\n- unreliable oil productively\n\n**Other criticisms of biofuels**\n- widespread production of biofuels could result in\n·high food prices in poor countries\n·environmental damage caused by loss of rainforst and **39**_____,",
+          "answers": [
+            "wildlife"
+          ],
+          "rawAnswer": "wildlife",
+          "evidence": {
+            "paragraph": "",
+            "quote": "companies are cutting down vast areas of rainforest which can never be replaced, and this in turn results in the disappearance of wildlife which depended on that habitat"
+          },
+          "keywordPairs": [
+            {
+              "question": "loss of",
+              "article": "cutting down vast areas of"
+            },
+            {
+              "question": "environmental damage caused by",
+              "article": "results in the disappearance of"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "2f9d6045-a386-41bd-9b23-5ea39b39fc3a",
+          "prompt": "adding to the problem of **40**_____",
+          "answers": [
+            "global warming"
+          ],
+          "rawAnswer": "global warming",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You can also imagine that such deforestation makes a considerable contribution to global warming"
+          },
+          "keywordPairs": [
+            {
+              "question": "adding to",
+              "article": "makes a considerable contribution to"
+            },
+            {
+              "question": "loss of rainforest",
+              "article": "deforestation"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,940</p><p>You will hear an environmental science lecture about a plant called Jatropha and its uses. </p><p>00:00:07,620</p><p>First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:19,420</p><p>Good afternoon. As you know, the world is running out of fossil fuels, that is crude oil, coal, and natural gas. As an alternative, certain plants are now being considered as biofuels, which are fuels made from organic plant material. Few things that make this plant especially attractive is that it can survive in very poor quality and fertile soil, as it does, for example, alongside train tracks in India on the line between Mumbai and Delhi. And for up to three years, it's resistant to drought. That's right. It can do without rain for that long. And even if it's not actually a plant that people can eat, it's still worth having it on your land as it prevents erosion. And we looked at the dangerous consequences of that in a previous lecture. Furthermore, Jatropha seeds can be slowly distilled to produce diesel oil, and it's this kind of fuel. Of course, that's of interest to scientists and power companies. After processing, the seeds can yield up to four times the oil that soybean can and ten times the amount compared to corn. No doubt that it is a remarkable plant and one that has been very beneficial to men in various African communities. It's been used to operate water pumps and refrigerate medicines. It can be used to produce candles or as a fencing plant to keep some animals enclosed and some animals out. For example, the boiled leaves can do much to relieve the suffering of people with malaria, and some Jatropha species have seeds which are used to treat digestion problems. When the plants are burnt, they release carbon dioxide, but they absorb great amounts when they're growing, making them a considerably greener alternative to fossil fuels. To provide land for palm oil or sugar cane plantations. For instance, companies are cutting down vast areas of rainforest which can never be replaced, and this in turn results in the disappearance of wildlife which depended on that habitat. You can also imagine that such deforestation makes a considerable contribution to global warming.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/b2061c19-5597-4833-bb96-ac36f8231a07.mp3",
+    "durationSeconds": 158.04,
+    "sizeBytes": 2529068,
+    "sha256": "311a621bcbbab8e3967a798c4f269a589ac02c60a61c9afdd641cd475d163ae7",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:27Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775537700008_0f5kpn_e75173c6_d576fb6d.mp3"
+}

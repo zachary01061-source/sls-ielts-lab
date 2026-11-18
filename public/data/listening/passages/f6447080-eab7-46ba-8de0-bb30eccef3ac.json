@@ -1,0 +1,301 @@
+{
+  "id": "f6447080-eab7-46ba-8de0-bb30eccef3ac",
+  "title": "Dormancy",
+  "titleCn": "雅思听力Part4：动物的休眠现象",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/f6447080-eab7-46ba-8de0-bb30eccef3ac",
+  "duration": 371,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:04,460"
+    },
+    {
+      "label": "2",
+      "text": "Today, we'll continue that discussion by looking at dormancy. First, we'll cover what dormancy is and why organisms become dormant. Dormancy is a state of inactivity that organisms or living things enter when they need to conserve the resources available to them and reduce their demands on their environment. Most major groups of plants and animals have some representatives that can become dormant."
+    },
+    {
+      "label": "3",
+      "text": "00:00:30,380"
+    },
+    {
+      "label": "4",
+      "text": "What is the value of dormancy? To start with, animals can become one and survive conditions that are stressful in environmental terms. For instance, when lakes, ponds, or rivers dry up, aquatic organisms that can enter dormancy can survive the drought, while others who cannot do this will die. Another advantage is that creatures that can become dormant in inhospitable conditions, such as extreme cold, can live in a larger range of places than other organisms."
+    },
+    {
+      "label": "5",
+      "text": "00:00:59,940"
+    },
+    {
+      "label": "6",
+      "text": "Because they can live where other animals can survive when they are active and looking for food, the amount of competition they have to deal with from other regions is greatly reduced. Let's move on to look at what causes dormancy. There are a number of variables, but the ones that are the most significant are temperature changes and the amount of light organisms get. Availability of food, water, and oxygen is also very important."
+    },
+    {
+      "label": "7",
+      "text": "00:01:26,080"
+    },
+    {
+      "label": "8",
+      "text": "Now, we'll explore some specific examples."
+    },
+    {
+      "label": "9",
+      "text": "00:01:29,720"
+    },
+    {
+      "label": "10",
+      "text": "Let us first look at dormancy in insects."
+    },
+    {
+      "label": "11",
+      "text": "00:01:32,880"
+    },
+    {
+      "label": "12",
+      "text": "Insects experience a reduced metabolism, a form of dormancy called diapause in insects. Diapause is either a reaction to difficult environmental conditions or an unnecessary part of the life cycle, such as with butterflies or certain months. In terms of environment, it's interesting to know that through dormancy, insects can survive when it's very cold. Another creature we'll look at is fish. Fish share the same main environmental causes for dormancy as other creatures. But as one might imagine, they are particularly sensitive to drought. For example, long African fish burrow deep into the mud with low water supply. It surrounds itself with a cocoon and remains inactive. While dormant faces two dangers. One is the possibility of starvation, which relies on the fat stored in his body to overcome this. The other is desiccation or drying up, which is addressed through a reduction in urine production. Snails are also known to become dormant. Some snails seal off their shell, the membrane of dried mucus, after settling at their place of dormancy. Other snails do not have this possibility. They trust the protection of their shell. So when snails have remained outside in their dormancy, they can usually be recognized by a brightly colored shell reflecting the sunlight, and so minimizing evaporation. That is why banded snails usually have young shells in open habitats. Hibernation is probably the most well-known type of dormancy, which occurs in warm-blooded creatures during the winter. We know that warm-blooded animals maintain a regular body temperature. What's really interesting about hibernates is that they can adapt to extreme conditions by turning off their internal thermostats and hibernating until conditions improve. Let's examine the behavior of a true hibernate, the Arctic ground squirrel. This squirrel digs underground and builds a nest that is insulated. Once in its nest, it curls into a bowl and tucks in its arms, legs, and tape. Its body temperature mirrors the cold of its surroundings. At this point, this squirrel barely breathes and doesn't react to stimulants in a normal way. And during this hibernation period, the squirrel loses nearly forty percent of its weight. The process of awakening for the Arctic ground squirrel takes about three hours. When this happens, there is a rapid rise in the heartbeat, and circulation is effective. The area around the heart warms faster than the rest of the animal. And despite the strain of hibernation, the squirrel's body processes are normal within twenty-four hours of coming out."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "68ceea5a-535c-4bd5-bbc0-b216bb099f1c",
+          "prompt": "**Organisms enter dormancy to**:\n- save available **31**_____",
+          "answers": [
+            "resources"
+          ],
+          "rawAnswer": "resources",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Dormancy is a state of inactivity that organisms or living things enter when they need to conserve the resources available to them and reduce their demands on their environment"
+          },
+          "keywordPairs": [
+            {
+              "question": "save",
+              "article": "conserve"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "8e366356-8621-4d45-8a0f-a45ed01f0640",
+          "prompt": "- Value of dormancy\n- can live in conditions which are environmentally **32**_____",
+          "answers": [
+            "stressful"
+          ],
+          "rawAnswer": "stressful",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To start with, animals can become one and survive conditions that are stressful in environmental terms"
+          },
+          "keywordPairs": [
+            {
+              "question": "can live in",
+              "article": "survive"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "543099b6-35b9-4b83-b457-dd8774b62026",
+          "prompt": "- can live in a lot of places\n- have less **33**_____ from other animals",
+          "answers": [
+            "competition"
+          ],
+          "rawAnswer": "competition",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Because they can live where other animals can survive when they are active and looking for food, the amount of competition they have to deal with from other regions is greatly reduced"
+          },
+          "keywordPairs": [
+            {
+              "question": "have less",
+              "article": "is greatly reduced"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "85258f45-915f-49ac-9835-8b75d4672f62",
+          "prompt": "**Causes of dormancy**\n- temperature changes and **34**_____ changes\n- food, water, oxygen",
+          "answers": [
+            "light"
+          ],
+          "rawAnswer": "light",
+          "evidence": {
+            "paragraph": "",
+            "quote": "There are a number of variables, but the ones that are the most significant are temperature changes and the amount of light organisms get"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "d5b46757-c05a-4f12-92d8-771e28069102",
+          "prompt": "**Dormancy in insects**\n- They **35**_____ their metabolism during diapause\n- Diapause occurs during extreme conditions",
+          "answers": [
+            "reduced"
+          ],
+          "rawAnswer": "reduced",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Insects experience a reduced metabolism, a form of dormancy called diapause in insects"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "9af599f0-0afa-439e-874d-58570d1cf7f7",
+          "prompt": "**The African lungfish**\n- It buries itself in the **36**_____ to create a slimy cocoon",
+          "answers": [
+            "mud"
+          ],
+          "rawAnswer": "mud",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, long African fish burrow deep into the mud with low water supply. It surrounds itself with a cocoon and remains inactive"
+          },
+          "keywordPairs": [
+            {
+              "question": "buries itself in",
+              "article": "burrow deep into"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "6b2db048-7ab2-4189-9c73-15114a89ddd6",
+          "prompt": "- Two dangers: **37**_____ and desiccation",
+          "answers": [
+            "starvation"
+          ],
+          "rawAnswer": "starvation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "While dormant faces two dangers. One is the possibility of starvation, which relies on the fat stored in his body to overcome this. The other is desiccation or drying up, which is addressed through a reduction in urine production"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "a92d62cc-c5db-4531-b50e-72a31ea27e58",
+          "prompt": "**Snails**\n- Some close up with a membrane while dormant.\n- Light-coloured shells reflect sunlight and limit **38**_____ .",
+          "answers": [
+            "evaporation"
+          ],
+          "rawAnswer": "evaporation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "they can usually be recognized by a brightly colored shell reflecting the sunlight, and so minimizing evaporation"
+          },
+          "keywordPairs": [
+            {
+              "question": "limit",
+              "article": "minimizing"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "5f7273c0-4061-475e-b198-3883a80cd959",
+          "prompt": "**The Arctic ground squirrel**\n- It hibernation occurs in insulated, underground **39**_____ .",
+          "answers": [
+            "nest"
+          ],
+          "rawAnswer": "nest",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This squirrel digs underground and builds a nest that is insulated"
+          },
+          "keywordPairs": [
+            {
+              "question": "hibernation occurs in",
+              "article": "digs underground and builds"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "3f108620-4daa-49e3-851d-f2be0fc2f417",
+          "prompt": "- 40% weight loss\n- After waking up, the first part of the body to heat up is the **40**_____ .",
+          "answers": [
+            "heart"
+          ],
+          "rawAnswer": "heart",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The area around the heart warms faster than the rest of the animal"
+          },
+          "keywordPairs": [
+            {
+              "question": "the first part of the body to heat up",
+              "article": "warms faster than the rest of the animal"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:04,460</p><p>Today, we'll continue that discussion by looking at dormancy. First, we'll cover what dormancy is and why organisms become dormant. Dormancy is a state of inactivity that organisms or living things enter when they need to conserve the resources available to them and reduce their demands on their environment. Most major groups of plants and animals have some representatives that can become dormant. </p><p>00:00:30,380</p><p>What is the value of dormancy? To start with, animals can become one and survive conditions that are stressful in environmental terms. For instance, when lakes, ponds, or rivers dry up, aquatic organisms that can enter dormancy can survive the drought, while others who cannot do this will die. Another advantage is that creatures that can become dormant in inhospitable conditions, such as extreme cold, can live in a larger range of places than other organisms. </p><p>00:00:59,940</p><p>Because they can live where other animals can survive when they are active and looking for food, the amount of competition they have to deal with from other regions is greatly reduced. Let's move on to look at what causes dormancy. There are a number of variables, but the ones that are the most significant are temperature changes and the amount of light organisms get. Availability of food, water, and oxygen is also very important. </p><p>00:01:26,080</p><p>Now, we'll explore some specific examples. </p><p>00:01:29,720</p><p>Let us first look at dormancy in insects. </p><p>00:01:32,880</p><p>Insects experience a reduced metabolism, a form of dormancy called diapause in insects. Diapause is either a reaction to difficult environmental conditions or an unnecessary part of the life cycle, such as with butterflies or certain months. In terms of environment, it's interesting to know that through dormancy, insects can survive when it's very cold. Another creature we'll look at is fish. Fish share the same main environmental causes for dormancy as other creatures. But as one might imagine, they are particularly sensitive to drought. For example, long African fish burrow deep into the mud with low water supply. It surrounds itself with a cocoon and remains inactive. While dormant faces two dangers. One is the possibility of starvation, which relies on the fat stored in his body to overcome this. The other is desiccation or drying up, which is addressed through a reduction in urine production. Snails are also known to become dormant. Some snails seal off their shell, the membrane of dried mucus, after settling at their place of dormancy. Other snails do not have this possibility. They trust the protection of their shell. So when snails have remained outside in their dormancy, they can usually be recognized by a brightly colored shell reflecting the sunlight, and so minimizing evaporation. That is why banded snails usually have young shells in open habitats. Hibernation is probably the most well-known type of dormancy, which occurs in warm-blooded creatures during the winter. We know that warm-blooded animals maintain a regular body temperature. What's really interesting about hibernates is that they can adapt to extreme conditions by turning off their internal thermostats and hibernating until conditions improve. Let's examine the behavior of a true hibernate, the Arctic ground squirrel. This squirrel digs underground and builds a nest that is insulated. Once in its nest, it curls into a bowl and tucks in its arms, legs, and tape. Its body temperature mirrors the cold of its surroundings. At this point, this squirrel barely breathes and doesn't react to stimulants in a normal way. And during this hibernation period, the squirrel loses nearly forty percent of its weight. The process of awakening for the Arctic ground squirrel takes about three hours. When this happens, there is a rapid rise in the heartbeat, and circulation is effective. The area around the heart warms faster than the rest of the animal. And despite the strain of hibernation, the squirrel's body processes are normal within twenty-four hours of coming out.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/f6447080-eab7-46ba-8de0-bb30eccef3ac.mp3",
+    "durationSeconds": 250.032,
+    "sizeBytes": 4001043,
+    "sha256": "bc2bdc3437ab46a2dbd1422c39fd00dbc2d517f1fe8e9b770f327ebb50668472",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:30Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775533416086_hb1yni_937cebae_a2e84619.mp3"
+}

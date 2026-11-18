@@ -1,0 +1,299 @@
+{
+  "id": "6b35d7e5-dfda-480c-ab3c-560ab48a5d19",
+  "title": "Employment survey on graduates",
+  "titleCn": "商科管理毕业生就业调查",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/6b35d7e5-dfda-480c-ab3c-560ab48a5d19",
+  "duration": 600,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:02,140"
+    },
+    {
+      "label": "2",
+      "text": "Section four."
+    },
+    {
+      "label": "3",
+      "text": "00:00:05,000"
+    },
+    {
+      "label": "4",
+      "text": "First, you have some time to look at questions thirty-one to forty on page eight."
+    },
+    {
+      "label": "5",
+      "text": "00:01:09,220"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "7",
+      "text": "00:01:16,400"
+    },
+    {
+      "label": "8",
+      "text": "I'd like to give you a brief overview of a research project I've been working on as part of a team of four. We wanted to get some data on what happens to students after they graduate and also find out how useful they felt their degree course was to them. We focused on graduates from the course in business management since this is one of the most popular and long-established courses. We decided to use two different data gathering methods. We started off by emailing a brief questionnaire to all last year's graduates from that course, and then we selected a number of those who had replied, and with them, we carried out phone interviews. We'd originally intended to use face-to-face interviews but didn't feel that would be practical. And in fact, we found this method provided a combination of wide coverage and depth, which is what we wanted. So what did we find? Well, I suppose our most surprising finding was just how many graduates had gone on to work towards an additional qualification rather than getting a job immediately. That was thirty-two percent, almost a third. Of the rest, a very small proportion were unemployed, just four percent, and all the rest were in employment. More than half of them were in the public sector, with a sizable minority in the private sector and a small number in the not-for-profit sector. We were also interested in the attitudes of those who were employed towards their work. The majority said that their expectations had been fulfilled. They were generally satisfied in terms of their salary and also happy with their prospects for career development, with very few of them feeling that they were in a dead-end job with no prospects of promotion."
+    },
+    {
+      "label": "9",
+      "text": "00:02:59,340"
+    },
+    {
+      "label": "10",
+      "text": "For the second main part of our research, we wanted to get some feedback from the graduates on how useful they felt their degree course had been to them. There were really three main skills which the graduates felt they'd gained from doing the course and identified as having been the most valuable to them. They highlighted the fact that they developed the ability to work as members of a team. Another skill which they cited as valuable was that of personal organization, things like meeting deadlines, time management, and so on. And finally, a lot of them said that what they learned about approaches to problem-solving had been very useful. We also asked them about which elements of the course had been least valuable to them. To our surprise, the thing that was mentioned most often here was presentations. They hadn't enjoyed having to give these as part of their course, nor had they found it useful having to listen to those given by their fellow students. The reason given for this was that they felt they weren't trained how to do it properly. And the second thing that got very negative feedback was work on essay writing. Most people thought this was unnecessary and that it would have been better to work on report writing. And finally, some respondents said that they would have liked more guidance on the best way to go about looking for a job, that the course could have done more to help them. Finally, we asked if there were any skills-"
+    },
+    {
+      "label": "11",
+      "text": "00:04:22,380"
+    },
+    {
+      "label": "12",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "8d13299f-e469-4ff0-a16b-e6a1d41e4229",
+          "prompt": "**Overview**\n- interviews from which subject: **31**_____",
+          "answers": [
+            "business management"
+          ],
+          "rawAnswer": "business management",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We focused on graduates from the course in business management since this is one of the most popular and long-established courses"
+          },
+          "maxWords": 2,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "121c37c2-5c2e-4e86-87fe-e1c6ce936d44",
+          "prompt": "- to research methods: Email questionnaires and **32**_____",
+          "answers": [
+            "phone interviews"
+          ],
+          "rawAnswer": "phone interviews",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We started off by emailing a brief questionnaire to all last year's graduates from that course, and then we selected a number of those who had replied, and with them, we carried out phone interviews"
+          },
+          "maxWords": 2,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "c5ca434d-8010-4695-a224-4a6a0eb84ab0",
+          "prompt": "**Findings**\n- 32% of the students tended to acquire another **33**_____",
+          "answers": [
+            "qualification"
+          ],
+          "rawAnswer": "qualification",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Well, I suppose our most surprising finding was just how many graduates had gone on to work towards an additional qualification rather than getting a job immediately. That was thirty-two percent, almost a third"
+          },
+          "keywordPairs": [
+            {
+              "question": "tended to acquire",
+              "article": "gone on to work towards"
+            },
+            {
+              "question": "another",
+              "article": "additional"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "386068cf-a482-43ae-9794-968b2153886a",
+          "prompt": "- only 4% were unemployed\n- most of the students work in the **34**_____ sector",
+          "answers": [
+            "public"
+          ],
+          "rawAnswer": "public",
+          "evidence": {
+            "paragraph": "",
+            "quote": "More than half of them were in the public sector, with a sizable minority in the private sector and a small number in the not-for-profit sector"
+          },
+          "keywordPairs": [
+            {
+              "question": "most of the students",
+              "article": "More than half of them"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "8b820a34-3207-4110-8400-38e727db81da",
+          "prompt": "- majority are happy with: **35**_____",
+          "answers": [
+            "expectations"
+          ],
+          "rawAnswer": "expectations",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The majority said that their expectations had been fulfilled"
+          },
+          "keywordPairs": [
+            {
+              "question": "are happy with",
+              "article": "their expectations had been fulfilled"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "e5c59819-fccb-409c-9e6b-5c0e9234b85d",
+          "prompt": "**Feedback**\nUseful skills learned in college:\n- working as a **36**_____ member",
+          "answers": [
+            "team"
+          ],
+          "rawAnswer": "team",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They highlighted the fact that they developed the ability to work as members of a team"
+          },
+          "keywordPairs": [],
+          "maxWords": 2,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "f81cf155-9ea6-4324-b747-7f17950893ab",
+          "prompt": "- personal organisation\n- **37**_____ ability.",
+          "answers": [
+            "problem-solving"
+          ],
+          "rawAnswer": "problem-solving",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And finally, a lot of them said that what they learned about approaches to problem-solving had been very useful"
+          },
+          "maxWords": 2,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "d177983b-bb35-4008-9817-7da408da8971",
+          "prompt": "**Useless skills**\n- **38**_____ (lack of training)",
+          "answers": [
+            "presentations"
+          ],
+          "rawAnswer": "presentations",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To our surprise, the thing that was mentioned most often here was presentations. They hadn't enjoyed having to give these as part of their course;The reason given for this was that they felt they weren't trained how to do it properly"
+          },
+          "keywordPairs": [
+            {
+              "question": "lack of training",
+              "article": "weren't trained how to do it properly"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "b8a2895e-c917-4356-97fe-0582a2b86477",
+          "prompt": "- advice on **39**_____ (unnecessary)",
+          "answers": [
+            "essay writing"
+          ],
+          "rawAnswer": "essay writing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And the second thing that got very negative feedback was work on essay writing. Most people thought this was unnecessary"
+          },
+          "maxWords": 2,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "58c211e4-66f3-4832-961a-fffa3c29c1a8",
+          "prompt": "- advice on finding a **40**_____ (not enough)",
+          "answers": [
+            "job"
+          ],
+          "rawAnswer": "job",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, some respondents said that they would have liked more guidance on the best way to go about looking for a job, that the course could have done more to help them"
+          },
+          "keywordPairs": [
+            {
+              "question": "advice",
+              "article": "guidance"
+            },
+            {
+              "question": "finding",
+              "article": "looking for"
+            },
+            {
+              "question": "not enough",
+              "article": "would have liked more"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:02,140</p><p>Section four. </p><p>00:00:05,000</p><p>First, you have some time to look at questions thirty-one to forty on page eight. </p><p>00:01:09,220</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:16,400</p><p>I'd like to give you a brief overview of a research project I've been working on as part of a team of four. We wanted to get some data on what happens to students after they graduate and also find out how useful they felt their degree course was to them. We focused on graduates from the course in business management since this is one of the most popular and long-established courses. We decided to use two different data gathering methods. We started off by emailing a brief questionnaire to all last year's graduates from that course, and then we selected a number of those who had replied, and with them, we carried out phone interviews. We'd originally intended to use face-to-face interviews but didn't feel that would be practical. And in fact, we found this method provided a combination of wide coverage and depth, which is what we wanted. So what did we find? Well, I suppose our most surprising finding was just how many graduates had gone on to work towards an additional qualification rather than getting a job immediately. That was thirty-two percent, almost a third. Of the rest, a very small proportion were unemployed, just four percent, and all the rest were in employment. More than half of them were in the public sector, with a sizable minority in the private sector and a small number in the not-for-profit sector. We were also interested in the attitudes of those who were employed towards their work. The majority said that their expectations had been fulfilled. They were generally satisfied in terms of their salary and also happy with their prospects for career development, with very few of them feeling that they were in a dead-end job with no prospects of promotion. </p><p>00:02:59,340</p><p>For the second main part of our research, we wanted to get some feedback from the graduates on how useful they felt their degree course had been to them. There were really three main skills which the graduates felt they'd gained from doing the course and identified as having been the most valuable to them. They highlighted the fact that they developed the ability to work as members of a team. Another skill which they cited as valuable was that of personal organization, things like meeting deadlines, time management, and so on. And finally, a lot of them said that what they learned about approaches to problem-solving had been very useful. We also asked them about which elements of the course had been least valuable to them. To our surprise, the thing that was mentioned most often here was presentations. They hadn't enjoyed having to give these as part of their course, nor had they found it useful having to listen to those given by their fellow students. The reason given for this was that they felt they weren't trained how to do it properly. And the second thing that got very negative feedback was work on essay writing. Most people thought this was unnecessary and that it would have been better to work on report writing. And finally, some respondents said that they would have liked more guidance on the best way to go about looking for a job, that the course could have done more to help them. Finally, we asked if there were any skills- </p><p>00:04:22,380</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "pending",
+    "src": "",
+    "errorCode": "source_http_404",
+    "sourceUnavailable": true,
+    "sourceVerifiedAt": "2026-10-30T05:44:25Z"
+  },
+  "audioMissing": true,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346787784_mh4mry_11ea5c0a.mp3"
+}

@@ -1,0 +1,312 @@
+{
+  "id": "cambridge-7-test-2-reading-1",
+  "title": "Why pagodas don't fall down",
+  "titleCn": "Why pagodas don't fall down",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 2
+  },
+  "sourceQuestionId": "6979",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6979",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Why pagodas don't fall down"
+    },
+    {
+      "label": "2",
+      "text": "In a land swept by typhoons and shaken by earthquakes, how have Japan's tallest and seemingly flimsiest old buildings - 500 or so wooden pagodas - remained standing for centuries? Records show that only two have collapsed during the past 1400 years. Those that have disappeared were destroyed by fire as a result of lightning or civil war. The disastrous Hanshin earthquake in 1995 killed 6,400 people, toppled elevated highways, flattened office blocks and devastated the port area of Kobe. Yet it left the magnificent five-storey pagoda at the Toji temple in nearby Kyoto unscathed, though it levelled a number of buildings in the neighbourhood."
+    },
+    {
+      "label": "3",
+      "text": "Japanese scholars have been mystified for ages about why these tall, slender buildings are so stable. It was only thirty years ago that the building industry felt confident enough to erect office blocks of steel and reinforced concrete that had more than a dozen floors. With its special shock absorbers to dampen the effect of sudden sideways movements from an earthquake, the thirty-six-storey Kasumigaseki building in central Tokyo - Japan's first skyscraper - was considered a masterpiece of modern engineering when it was built in 1968."
+    },
+    {
+      "label": "4",
+      "text": "Yet in 826, with only pegs and wedges to keep his wooden structure upright, the master builder Kobodaishi had no hesitation in sending his majestic Toji pagoda soaring fifty-five metres into the sky - nearly half as high as the Kasumigaseki skyscraper built some eleven centuries later. Clearly, Japanese carpenters of the day knew a few tricks about allowing a building to sway and settle itself rather than fight nature's forces. But what sort of tricks?"
+    },
+    {
+      "label": "5",
+      "text": "The multi-storey pagoda came to Japan from China in the sixth century. As in China, they were first introduced with Buddhism and were attached to important temples. The Chinese built their pagodas in brick or stone, with inner staircases, and used them in later centuries mainly as watchtowers. When the pagoda reached Japan, however, its architecture was freely adapted to local conditions - they were built less high, typically five rather than nine storeys, made mainly of wood and the staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object. Because of the typhoons that batter Japan in the summer, Japanese builders learned to extend the eaves of buildings further beyond the walls. This prevents rainwater gushing down the walls. Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan."
+    },
+    {
+      "label": "6",
+      "text": "The roof of a Japanese temple building can be made to overhang the sides of the structure by fifty per cent or more of the building's overall width. For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles."
+    },
+    {
+      "label": "7",
+      "text": "But this does not totally explain the great resilience of Japanese pagodas. Is the answer that, like a tall pine tree, the Japanese pagoda - with its massive trunk-like central pillar known as shinbashira - simply flexes and sways during a typhoon or earthquake? For centuries, many thought so. But the answer is not so simple because the startling thing is that the shinbashira actually carries no load at all. In fact, in some pagoda designs, it does not even rest on the ground, but is suspended from the top of the pagoda - hanging loosely down through the middle of the building. The weight of the building is supported entirely by twelve outer and four inner columns."
+    },
+    {
+      "label": "8",
+      "text": "And what is the role of the shinbashira, the central pillar? The best way to understand the shinbashira's role is to watch a video made by Shuzo Ishida, a structural engineer at Kyoto Institute of Technology. Mr Ishida, known to his students as 'Professor Pagoda' because of his passion to understand the pagoda, has built a series of models and tested them on a 'shake- table' in his laboratory. In short, the shinbashira was acting like an enormous stationary pendulum. The ancient craftsmen, apparently without the assistance of very advanced mathematics, seemed to grasp the principles that were, more than a thousand years later, applied in the construction of Japan's first skyscraper. What those early craftsmen had found by trial and error was that under pressure a pagoda's loose stack of floors could be made to slither to and fro independent of one another. Viewed from the side, the pagoda seemed to be doing a snake dance - with each consecutive floor moving in the opposite direction to its neighbours above and below. The shinbashira, running up through a hole in the centre of the building, constrained individual storeys from moving too far because, after moving a certain distance, they banged into it, transmitting energy away along the column."
+    },
+    {
+      "label": "9",
+      "text": "Another strange feature of the Japanese pagoda is that, because the building tapers, with each successive floor plan being smaller than the one below, none of the vertical pillars that carry the weight of the building is connected to its corresponding pillar above. In other words, a five- storey pagoda contains not even one pillar that travels right up through the building to carry the structural loads from the top to the bottom. More surprising is the fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. Interestingly, such a design would not be permitted under current Japanese building regulations."
+    },
+    {
+      "label": "10",
+      "text": "And the extra-wide eaves? Think of them as a tightrope walker's balancing pole. The bigger the mass at each end of the pole, the easier it is for the tightrope walker to maintain his or her balance. The same holds true for a pagoda. 'With the eaves extending out on all sides like balancing poles,' says Mr Ishida, 'the building responds to even the most powerful jolt of an earthquake with a graceful swaying, never an abrupt shaking.' Here again, Japanese master builders of a thousand years ago anticipated concepts of modern structural engineering."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "instruction": "Questions 1-4\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Only two Japanese pagodas have collapsed in 1400 years.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6979_877665",
+          "explanation": "参考译文： 一千四百年来，仅有两座日本宝塔倒塌。\n\n定位词：1400 years\n\n对应第一段第二句：Records shows that only two have collapsed during the last 1400years.有记录显示，在过去1400年间，只有两座倒塌了。\n\n这道题是全文的第一道题，考生做题精神饱满，心情愉悦，应该不会想到要求助于什么技巧（比如题干中有only，就认为是FALSE），找到原文对应处就可以了。使用1400 years定位到第一段第二句，该句表明1400年间只有两座日本宝塔倒塌，形同白送分，考生要抓住这样容易得分的机会。\n\n答案 YES"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "The Hanshin earthquake of 1995 destroyed the pagoda at the Toji temple.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6979_320236",
+          "explanation": "参考译文： 1995年，阪神地震摧毁了东寺里的宝塔。\n\n定位词： 1995，Toji temple\n\n文中对应点 第一段最后一句：Yet it left the magnificent five-storey pagoda at the Toji temple in nearby Kyoto unscathed, though it levelled a number of buildings in the neighbourhood.尽管大地震将京都附近东寺周围的大量建筑夷为平地，可寺里宏伟的五层宝塔却完好无损。本题的考点在于要将原文中的leave…unscathed同题干中的destroy对立起来。unscathed指“没有负伤的，未受损伤的\"，这样就与题干中的destroy(毁坏)相抵触。有的考生词汇量偏小，不认识unscathed，但可以通过前面的left一词感觉出来five-storey pagoda at the Toji temple是被留下来了，留下来就没有被摧毁，歪打正着选答案NO。\n\nleave可以表示使处于某种状态，例如：\n\nFear left her lips stiff.恐惧使她张口结舌。\n\nLeave the future to take care of itself未来就顺其自然吧。\n\n答案 NO"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "The other buildings near the Toji pagoda had been built in the last 30 years.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6979_754398",
+          "explanation": "参考译文：东寺宝塔周围的其他建筑是在过去三十年间建成的。\n\n定位词：30 years\n\n文中对应点 第二段第二句: It was only thirty years ago that the building industry felt confident enough to erect office blocks of steel and reinforced concrete that had more than a dozen floors. 仅仅在30年前，建筑界的从业者们才有足够信心建造高于十二层的钢筋混凝土办公大楼。这句话与此题的唯一联系就是这个thirty years，抛开这一点，两者简直是牛头不对马嘴。即使读完全段，也未见题干中所表达的意思，而且the other buildings near the Toji pagoda的勉强对等成分也出现在第一段a number of buildings in the neighbourhood。一道题目的主要成分零散在文中数段，这就是典型的形散神必散型的NOT GIVEN。\n\n答案 NOT GIVEN"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "The builders of pagodas knew how to absorb some of the power produced by severe weather conditions.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6979_319136",
+          "explanation": "参考译文： 日本宝塔的建造者们懂得如何消除极端天气条件所造成的破坏。\n\n定位词： builders, weather\n\n对应第三段第二句：Clearly, Japanese carpenters of the day knew a few tricks about allowing abuilding to sway and settle itself rather than fight nature's force.显而易见，当时的日本木匠懂得一些窍门让建筑物可以顺风摇摆，不与自然力量对抗,而是顺应自然，从而稳稳矗立。这是一道词语替换幅度较大的题目，基本要靠意译来对应。题干中的absorb本指“吸收\"，所谓吸收极端天气的能量，其实就是为了免遭极端天气如地震等的破坏。文中提到allow a building to sway and settle itself rather than fight nature's force, nature's force其实就是题干中的the power produced by severe weather conditions, absorb对 应rather than fight，不抵抗自然之力，而是顺其自然,通过摇摆而稳稳站立住了。\n\n答案 YES"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 5-10\n\nClassify the following as typical of\n\nA both Chinese and Japanese pagodas\n\nB only Chinese pagodas\n\nC only Japanese pagodas\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "[5] ______ easy interior access to top",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6979_256859",
+          "explanation": "题号：5\n\n定位词：interior access to top\n\n第四段第三、四句：The Chinese built their pagodas in brick or stone, with inner stair cases... When the pagoda reached Japan…the staircase was dispensed with because the Japanese pagoda did not have any practical use. 中国人用砖石造塔，内设楼梯……当宝塔到达日本，日本人加以改进，楼梯被弃用了……\n\n很明显，只有中国的塔有楼梯，也就能方便地到达顶层；日本宝塔没有楼梯，谈何容易到达顶层呢? staircase 楼梯，引申一下，就是中国宝塔的特点就是人们很容易就能登上塔顶。所以答案为B。\n\n关键词组：be dispensed with弃用，不再拥有\n\n例如:：I think we will soon see juries dispensed with in criminal.我想我们不久就会看到在刑事审理中不再使用陪审团。\n\n题号：6\n\n定位词：tiles on eaves\n\n用tile一词定位到第五段第二句：For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.出于同样的原因，日本宝塔的建造者们通过采用较重的陶瓦来覆盖这些延伸的屋檐从而大量增加自身的重量，而不像许多中国宝塔那样采用瓷瓦。这句话表明不管是日本塔还是中国塔，屋檐上当然都盖着瓦，只是所用的瓦材质不同而已。所以答案是A。\n\n题号：7\n\n定位词：observation post\n\n第四段第三、四句：The Chinese used them in later centuries mainly as watchtowers. When the pagoda reached Japan, ... staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object.中国人……后来这些宝塔就主要用作守望塔。然而当这些宝塔传人日本时，……日本宝塔没有什么实用性，更多是当作艺术品，所以没有楼梯。\n\n中国人将塔用作守望塔, watchtower就等同于observation post，而日本人仅仅将塔作为艺术品来看待，并无实际用途，当然不会当守望塔用。答案当然是B。\n\n语言点：more of更大程度上\n\n例如：he is more of a poet than a musician.与其说他是个音乐家,还不如说他是个诗人。\n\n题号：8\n\n定位词：eave，half the width of the building\n\n利用题目中的half一词可以找到文中第五段出现的fifty per cent,然后细读该句。The roof of a Japanese temple building can be made 10 overhang the sides of the structure by fifty per cent or more of the building's overall width.联系上一段最后一句：Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.两句综合在一起，表明只有日本宝塔有悬空的屋檐，而且日本寺庙建筑的屋檐悬于建筑物的侧面之外部分的宽度可以达到建筑物总宽的一半或更多。因此屋檐宽度超过建筑物宽度一半的当然只有日本宝塔了。所以答案是C。\n\n题号：9\n\n定位词：religious\n\n第四段第二句：As in China, they were first introduced with Buddhism…像在中国一样，它们最初是随着佛教而被引进的……Buddhism佛教，对应题干的religious as in China中的as表示“正如”，证明日本塔和中国塔都有宗教功能。所以答案是A。\n\n题号：10\n\n定位词：floors，loosely over each other\n\n这道题很难定位，因为此大题大多数题目的答案都出现在第四、五段。考生在第四、五段寻找floors和loosely这样的定位词，却没有找到；直到第六段的倒数第三行，才发现loosely 一词，但是辨别之后发现与本题无关。继续扫读，一直到第八段another strange feature of Japanese pagoda，提醒考生此段将讲到日本塔另一个与众不同之处，也就是日本塔所特有的。向下寻找，有这样的句子：\n\nMore surprising is fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. 更令人惊讶的是8本宝塔的每一个单独楼层间实际上都不相连，这一点不同于其他任何地方的同类建筑。它们就像一摞帽子一样只是被层一层地叠加起来。\n\nunlike their counterparts再次强调这是8本塔所特有的，stack对应fitting帽子的比喻表明楼层之间是松散地建造在一起的。所以答案为C。",
+          "promptHtml": "[5] ______ easy interior access to top"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "[6] ______ tiles on eaves",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6979_322297",
+          "explanation": "题号：5\n\n定位词：interior access to top\n\n第四段第三、四句：The Chinese built their pagodas in brick or stone, with inner stair cases... When the pagoda reached Japan…the staircase was dispensed with because the Japanese pagoda did not have any practical use. 中国人用砖石造塔，内设楼梯……当宝塔到达日本，日本人加以改进，楼梯被弃用了……\n\n很明显，只有中国的塔有楼梯，也就能方便地到达顶层；日本宝塔没有楼梯，谈何容易到达顶层呢? staircase 楼梯，引申一下，就是中国宝塔的特点就是人们很容易就能登上塔顶。所以答案为B。\n\n关键词组：be dispensed with弃用，不再拥有\n\n例如:：I think we will soon see juries dispensed with in criminal.我想我们不久就会看到在刑事审理中不再使用陪审团。\n\n题号：6\n\n定位词：tiles on eaves\n\n用tile一词定位到第五段第二句：For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.出于同样的原因，日本宝塔的建造者们通过采用较重的陶瓦来覆盖这些延伸的屋檐从而大量增加自身的重量，而不像许多中国宝塔那样采用瓷瓦。这句话表明不管是日本塔还是中国塔，屋檐上当然都盖着瓦，只是所用的瓦材质不同而已。所以答案是A。\n\n题号：7\n\n定位词：observation post\n\n第四段第三、四句：The Chinese used them in later centuries mainly as watchtowers. When the pagoda reached Japan, ... staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object.中国人……后来这些宝塔就主要用作守望塔。然而当这些宝塔传人日本时，……日本宝塔没有什么实用性，更多是当作艺术品，所以没有楼梯。\n\n中国人将塔用作守望塔, watchtower就等同于observation post，而日本人仅仅将塔作为艺术品来看待，并无实际用途，当然不会当守望塔用。答案当然是B。\n\n语言点：more of更大程度上\n\n例如：he is more of a poet than a musician.与其说他是个音乐家,还不如说他是个诗人。\n\n题号：8\n\n定位词：eave，half the width of the building\n\n利用题目中的half一词可以找到文中第五段出现的fifty per cent,然后细读该句。The roof of a Japanese temple building can be made 10 overhang the sides of the structure by fifty per cent or more of the building's overall width.联系上一段最后一句：Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.两句综合在一起，表明只有日本宝塔有悬空的屋檐，而且日本寺庙建筑的屋檐悬于建筑物的侧面之外部分的宽度可以达到建筑物总宽的一半或更多。因此屋檐宽度超过建筑物宽度一半的当然只有日本宝塔了。所以答案是C。\n\n题号：9\n\n定位词：religious\n\n第四段第二句：As in China, they were first introduced with Buddhism…像在中国一样，它们最初是随着佛教而被引进的……Buddhism佛教，对应题干的religious as in China中的as表示“正如”，证明日本塔和中国塔都有宗教功能。所以答案是A。\n\n题号：10\n\n定位词：floors，loosely over each other\n\n这道题很难定位，因为此大题大多数题目的答案都出现在第四、五段。考生在第四、五段寻找floors和loosely这样的定位词，却没有找到；直到第六段的倒数第三行，才发现loosely 一词，但是辨别之后发现与本题无关。继续扫读，一直到第八段another strange feature of Japanese pagoda，提醒考生此段将讲到日本塔另一个与众不同之处，也就是日本塔所特有的。向下寻找，有这样的句子：\n\nMore surprising is fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. 更令人惊讶的是8本宝塔的每一个单独楼层间实际上都不相连，这一点不同于其他任何地方的同类建筑。它们就像一摞帽子一样只是被层一层地叠加起来。\n\nunlike their counterparts再次强调这是8本塔所特有的，stack对应fitting帽子的比喻表明楼层之间是松散地建造在一起的。所以答案为C。",
+          "promptHtml": "[6] ______ tiles on eaves"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "[7] ______ use as observation post",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6979_513639",
+          "explanation": "题号：5\n\n定位词：interior access to top\n\n第四段第三、四句：The Chinese built their pagodas in brick or stone, with inner stair cases... When the pagoda reached Japan…the staircase was dispensed with because the Japanese pagoda did not have any practical use. 中国人用砖石造塔，内设楼梯……当宝塔到达日本，日本人加以改进，楼梯被弃用了……\n\n很明显，只有中国的塔有楼梯，也就能方便地到达顶层；日本宝塔没有楼梯，谈何容易到达顶层呢? staircase 楼梯，引申一下，就是中国宝塔的特点就是人们很容易就能登上塔顶。所以答案为B。\n\n关键词组：be dispensed with弃用，不再拥有\n\n例如:：I think we will soon see juries dispensed with in criminal.我想我们不久就会看到在刑事审理中不再使用陪审团。\n\n题号：6\n\n定位词：tiles on eaves\n\n用tile一词定位到第五段第二句：For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.出于同样的原因，日本宝塔的建造者们通过采用较重的陶瓦来覆盖这些延伸的屋檐从而大量增加自身的重量，而不像许多中国宝塔那样采用瓷瓦。这句话表明不管是日本塔还是中国塔，屋檐上当然都盖着瓦，只是所用的瓦材质不同而已。所以答案是A。\n\n题号：7\n\n定位词：observation post\n\n第四段第三、四句：The Chinese used them in later centuries mainly as watchtowers. When the pagoda reached Japan, ... staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object.中国人……后来这些宝塔就主要用作守望塔。然而当这些宝塔传人日本时，……日本宝塔没有什么实用性，更多是当作艺术品，所以没有楼梯。\n\n中国人将塔用作守望塔, watchtower就等同于observation post，而日本人仅仅将塔作为艺术品来看待，并无实际用途，当然不会当守望塔用。答案当然是B。\n\n语言点：more of更大程度上\n\n例如：he is more of a poet than a musician.与其说他是个音乐家,还不如说他是个诗人。\n\n题号：8\n\n定位词：eave，half the width of the building\n\n利用题目中的half一词可以找到文中第五段出现的fifty per cent,然后细读该句。The roof of a Japanese temple building can be made 10 overhang the sides of the structure by fifty per cent or more of the building's overall width.联系上一段最后一句：Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.两句综合在一起，表明只有日本宝塔有悬空的屋檐，而且日本寺庙建筑的屋檐悬于建筑物的侧面之外部分的宽度可以达到建筑物总宽的一半或更多。因此屋檐宽度超过建筑物宽度一半的当然只有日本宝塔了。所以答案是C。\n\n题号：9\n\n定位词：religious\n\n第四段第二句：As in China, they were first introduced with Buddhism…像在中国一样，它们最初是随着佛教而被引进的……Buddhism佛教，对应题干的religious as in China中的as表示“正如”，证明日本塔和中国塔都有宗教功能。所以答案是A。\n\n题号：10\n\n定位词：floors，loosely over each other\n\n这道题很难定位，因为此大题大多数题目的答案都出现在第四、五段。考生在第四、五段寻找floors和loosely这样的定位词，却没有找到；直到第六段的倒数第三行，才发现loosely 一词，但是辨别之后发现与本题无关。继续扫读，一直到第八段another strange feature of Japanese pagoda，提醒考生此段将讲到日本塔另一个与众不同之处，也就是日本塔所特有的。向下寻找，有这样的句子：\n\nMore surprising is fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. 更令人惊讶的是8本宝塔的每一个单独楼层间实际上都不相连，这一点不同于其他任何地方的同类建筑。它们就像一摞帽子一样只是被层一层地叠加起来。\n\nunlike their counterparts再次强调这是8本塔所特有的，stack对应fitting帽子的比喻表明楼层之间是松散地建造在一起的。所以答案为C。",
+          "promptHtml": "[7] ______ use as observation post"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______ size of eaves up to half the width of the building",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6979_195398",
+          "explanation": "题号：5\n\n定位词：interior access to top\n\n第四段第三、四句：The Chinese built their pagodas in brick or stone, with inner stair cases... When the pagoda reached Japan…the staircase was dispensed with because the Japanese pagoda did not have any practical use. 中国人用砖石造塔，内设楼梯……当宝塔到达日本，日本人加以改进，楼梯被弃用了……\n\n很明显，只有中国的塔有楼梯，也就能方便地到达顶层；日本宝塔没有楼梯，谈何容易到达顶层呢? staircase 楼梯，引申一下，就是中国宝塔的特点就是人们很容易就能登上塔顶。所以答案为B。\n\n关键词组：be dispensed with弃用，不再拥有\n\n例如:：I think we will soon see juries dispensed with in criminal.我想我们不久就会看到在刑事审理中不再使用陪审团。\n\n题号：6\n\n定位词：tiles on eaves\n\n用tile一词定位到第五段第二句：For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.出于同样的原因，日本宝塔的建造者们通过采用较重的陶瓦来覆盖这些延伸的屋檐从而大量增加自身的重量，而不像许多中国宝塔那样采用瓷瓦。这句话表明不管是日本塔还是中国塔，屋檐上当然都盖着瓦，只是所用的瓦材质不同而已。所以答案是A。\n\n题号：7\n\n定位词：observation post\n\n第四段第三、四句：The Chinese used them in later centuries mainly as watchtowers. When the pagoda reached Japan, ... staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object.中国人……后来这些宝塔就主要用作守望塔。然而当这些宝塔传人日本时，……日本宝塔没有什么实用性，更多是当作艺术品，所以没有楼梯。\n\n中国人将塔用作守望塔, watchtower就等同于observation post，而日本人仅仅将塔作为艺术品来看待，并无实际用途，当然不会当守望塔用。答案当然是B。\n\n语言点：more of更大程度上\n\n例如：he is more of a poet than a musician.与其说他是个音乐家,还不如说他是个诗人。\n\n题号：8\n\n定位词：eave，half the width of the building\n\n利用题目中的half一词可以找到文中第五段出现的fifty per cent,然后细读该句。The roof of a Japanese temple building can be made 10 overhang the sides of the structure by fifty per cent or more of the building's overall width.联系上一段最后一句：Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.两句综合在一起，表明只有日本宝塔有悬空的屋檐，而且日本寺庙建筑的屋檐悬于建筑物的侧面之外部分的宽度可以达到建筑物总宽的一半或更多。因此屋檐宽度超过建筑物宽度一半的当然只有日本宝塔了。所以答案是C。\n\n题号：9\n\n定位词：religious\n\n第四段第二句：As in China, they were first introduced with Buddhism…像在中国一样，它们最初是随着佛教而被引进的……Buddhism佛教，对应题干的religious as in China中的as表示“正如”，证明日本塔和中国塔都有宗教功能。所以答案是A。\n\n题号：10\n\n定位词：floors，loosely over each other\n\n这道题很难定位，因为此大题大多数题目的答案都出现在第四、五段。考生在第四、五段寻找floors和loosely这样的定位词，却没有找到；直到第六段的倒数第三行，才发现loosely 一词，但是辨别之后发现与本题无关。继续扫读，一直到第八段another strange feature of Japanese pagoda，提醒考生此段将讲到日本塔另一个与众不同之处，也就是日本塔所特有的。向下寻找，有这样的句子：\n\nMore surprising is fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. 更令人惊讶的是8本宝塔的每一个单独楼层间实际上都不相连，这一点不同于其他任何地方的同类建筑。它们就像一摞帽子一样只是被层一层地叠加起来。\n\nunlike their counterparts再次强调这是8本塔所特有的，stack对应fitting帽子的比喻表明楼层之间是松散地建造在一起的。所以答案为C。",
+          "promptHtml": "[8] ______ size of eaves up to half the width of the building"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "[9] ______ original religious purpose",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6979_203699",
+          "explanation": "题号：5\n\n定位词：interior access to top\n\n第四段第三、四句：The Chinese built their pagodas in brick or stone, with inner stair cases... When the pagoda reached Japan…the staircase was dispensed with because the Japanese pagoda did not have any practical use. 中国人用砖石造塔，内设楼梯……当宝塔到达日本，日本人加以改进，楼梯被弃用了……\n\n很明显，只有中国的塔有楼梯，也就能方便地到达顶层；日本宝塔没有楼梯，谈何容易到达顶层呢? staircase 楼梯，引申一下，就是中国宝塔的特点就是人们很容易就能登上塔顶。所以答案为B。\n\n关键词组：be dispensed with弃用，不再拥有\n\n例如:：I think we will soon see juries dispensed with in criminal.我想我们不久就会看到在刑事审理中不再使用陪审团。\n\n题号：6\n\n定位词：tiles on eaves\n\n用tile一词定位到第五段第二句：For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.出于同样的原因，日本宝塔的建造者们通过采用较重的陶瓦来覆盖这些延伸的屋檐从而大量增加自身的重量，而不像许多中国宝塔那样采用瓷瓦。这句话表明不管是日本塔还是中国塔，屋檐上当然都盖着瓦，只是所用的瓦材质不同而已。所以答案是A。\n\n题号：7\n\n定位词：observation post\n\n第四段第三、四句：The Chinese used them in later centuries mainly as watchtowers. When the pagoda reached Japan, ... staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object.中国人……后来这些宝塔就主要用作守望塔。然而当这些宝塔传人日本时，……日本宝塔没有什么实用性，更多是当作艺术品，所以没有楼梯。\n\n中国人将塔用作守望塔, watchtower就等同于observation post，而日本人仅仅将塔作为艺术品来看待，并无实际用途，当然不会当守望塔用。答案当然是B。\n\n语言点：more of更大程度上\n\n例如：he is more of a poet than a musician.与其说他是个音乐家,还不如说他是个诗人。\n\n题号：8\n\n定位词：eave，half the width of the building\n\n利用题目中的half一词可以找到文中第五段出现的fifty per cent,然后细读该句。The roof of a Japanese temple building can be made 10 overhang the sides of the structure by fifty per cent or more of the building's overall width.联系上一段最后一句：Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.两句综合在一起，表明只有日本宝塔有悬空的屋檐，而且日本寺庙建筑的屋檐悬于建筑物的侧面之外部分的宽度可以达到建筑物总宽的一半或更多。因此屋檐宽度超过建筑物宽度一半的当然只有日本宝塔了。所以答案是C。\n\n题号：9\n\n定位词：religious\n\n第四段第二句：As in China, they were first introduced with Buddhism…像在中国一样，它们最初是随着佛教而被引进的……Buddhism佛教，对应题干的religious as in China中的as表示“正如”，证明日本塔和中国塔都有宗教功能。所以答案是A。\n\n题号：10\n\n定位词：floors，loosely over each other\n\n这道题很难定位，因为此大题大多数题目的答案都出现在第四、五段。考生在第四、五段寻找floors和loosely这样的定位词，却没有找到；直到第六段的倒数第三行，才发现loosely 一词，但是辨别之后发现与本题无关。继续扫读，一直到第八段another strange feature of Japanese pagoda，提醒考生此段将讲到日本塔另一个与众不同之处，也就是日本塔所特有的。向下寻找，有这样的句子：\n\nMore surprising is fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. 更令人惊讶的是8本宝塔的每一个单独楼层间实际上都不相连，这一点不同于其他任何地方的同类建筑。它们就像一摞帽子一样只是被层一层地叠加起来。\n\nunlike their counterparts再次强调这是8本塔所特有的，stack对应fitting帽子的比喻表明楼层之间是松散地建造在一起的。所以答案为C。",
+          "promptHtml": "[9] ______ original religious purpose"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "[10] ______ floors fitting loosely over each other",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6979_314682",
+          "explanation": "题号：5\n\n定位词：interior access to top\n\n第四段第三、四句：The Chinese built their pagodas in brick or stone, with inner stair cases... When the pagoda reached Japan…the staircase was dispensed with because the Japanese pagoda did not have any practical use. 中国人用砖石造塔，内设楼梯……当宝塔到达日本，日本人加以改进，楼梯被弃用了……\n\n很明显，只有中国的塔有楼梯，也就能方便地到达顶层；日本宝塔没有楼梯，谈何容易到达顶层呢? staircase 楼梯，引申一下，就是中国宝塔的特点就是人们很容易就能登上塔顶。所以答案为B。\n\n关键词组：be dispensed with弃用，不再拥有\n\n例如:：I think we will soon see juries dispensed with in criminal.我想我们不久就会看到在刑事审理中不再使用陪审团。\n\n题号：6\n\n定位词：tiles on eaves\n\n用tile一词定位到第五段第二句：For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.出于同样的原因，日本宝塔的建造者们通过采用较重的陶瓦来覆盖这些延伸的屋檐从而大量增加自身的重量，而不像许多中国宝塔那样采用瓷瓦。这句话表明不管是日本塔还是中国塔，屋檐上当然都盖着瓦，只是所用的瓦材质不同而已。所以答案是A。\n\n题号：7\n\n定位词：observation post\n\n第四段第三、四句：The Chinese used them in later centuries mainly as watchtowers. When the pagoda reached Japan, ... staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object.中国人……后来这些宝塔就主要用作守望塔。然而当这些宝塔传人日本时，……日本宝塔没有什么实用性，更多是当作艺术品，所以没有楼梯。\n\n中国人将塔用作守望塔, watchtower就等同于observation post，而日本人仅仅将塔作为艺术品来看待，并无实际用途，当然不会当守望塔用。答案当然是B。\n\n语言点：more of更大程度上\n\n例如：he is more of a poet than a musician.与其说他是个音乐家,还不如说他是个诗人。\n\n题号：8\n\n定位词：eave，half the width of the building\n\n利用题目中的half一词可以找到文中第五段出现的fifty per cent,然后细读该句。The roof of a Japanese temple building can be made 10 overhang the sides of the structure by fifty per cent or more of the building's overall width.联系上一段最后一句：Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.两句综合在一起，表明只有日本宝塔有悬空的屋檐，而且日本寺庙建筑的屋檐悬于建筑物的侧面之外部分的宽度可以达到建筑物总宽的一半或更多。因此屋檐宽度超过建筑物宽度一半的当然只有日本宝塔了。所以答案是C。\n\n题号：9\n\n定位词：religious\n\n第四段第二句：As in China, they were first introduced with Buddhism…像在中国一样，它们最初是随着佛教而被引进的……Buddhism佛教，对应题干的religious as in China中的as表示“正如”，证明日本塔和中国塔都有宗教功能。所以答案是A。\n\n题号：10\n\n定位词：floors，loosely over each other\n\n这道题很难定位，因为此大题大多数题目的答案都出现在第四、五段。考生在第四、五段寻找floors和loosely这样的定位词，却没有找到；直到第六段的倒数第三行，才发现loosely 一词，但是辨别之后发现与本题无关。继续扫读，一直到第八段another strange feature of Japanese pagoda，提醒考生此段将讲到日本塔另一个与众不同之处，也就是日本塔所特有的。向下寻找，有这样的句子：\n\nMore surprising is fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. 更令人惊讶的是8本宝塔的每一个单独楼层间实际上都不相连，这一点不同于其他任何地方的同类建筑。它们就像一摞帽子一样只是被层一层地叠加起来。\n\nunlike their counterparts再次强调这是8本塔所特有的，stack对应fitting帽子的比喻表明楼层之间是松散地建造在一起的。所以答案为C。",
+          "promptHtml": "[10] ______ floors fitting loosely over each other"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "both Chinese and Japanese pagodas"
+        },
+        {
+          "value": "B",
+          "text": "only Chinese pagodas"
+        },
+        {
+          "value": "C",
+          "text": "only Japanese pagodas"
+        }
+      ],
+      "contextHtml": "<p><strong>[5] ______</strong> easy interior access to top<br>\n<strong>[6] ______</strong> tiles on eaves<br>\n<strong>[7] ______</strong> use as observation post<br>\n<strong>[8] ______</strong> size of eaves up to half the width of the building<br>\n<strong>[9] ______</strong> original religious purpose<br>\n<strong>[10] ______</strong> floors fitting loosely over each other</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "choice",
+      "instruction": "Questions 11-13\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "In a Japanese pagoda, the shinbashira",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6979_495151",
+          "options": [
+            {
+              "value": "A",
+              "text": "bears the full weight of the building."
+            },
+            {
+              "value": "B",
+              "text": "bends under pressure like a tree."
+            },
+            {
+              "value": "C",
+              "text": "connects the floors with the foundations."
+            },
+            {
+              "value": "D",
+              "text": "stops the floors moving too far."
+            }
+          ],
+          "explanation": "定位词：shinbashira\n\n题目：日本宝塔中的shinbashira\n\nA承担着整个建筑的重量。 C将楼层与地基相连。\n\nB在压力下可以像树一样弯曲。 D防止楼层移得太远。\n\n对应第六、第七段。第六段第四句：shinbashira actually carries no load at all这句话直接否定了答案A。\n\n第五句：In fact, it does not even rest on the ground...甚至不碰触地面)，既然不碰触地面，也就无法连接楼层和地基了。答案C不可能。like a tall pine tee出现在第六段第二句，但是很快被作者用but the answer is not so simple给否定掉了，再说B答案又是对这一句话的添油加醋，所以也不可能是答案。这样，即使只用排除法，也可以确定答案是D。\n\n当然，文中也有对应点。第比段最后一句: The shinbashira, constrained individual storeys from moving too far…"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Shuzo Ishida performs experiments in order to",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6979_408307",
+          "options": [
+            {
+              "value": "A",
+              "text": "improve skyscraper design."
+            },
+            {
+              "value": "B",
+              "text": "be able to build new pagodas."
+            },
+            {
+              "value": "C",
+              "text": "learn about the dynamics of pagodas."
+            },
+            {
+              "value": "D",
+              "text": "understand ancient mathematics."
+            }
+          ],
+          "explanation": "定位词：Shuzo Ishida\n\n题目：Shuzo Ishida进行实验是为了\n\nA改进摩天大楼的设计。 C了解宝塔的力学原理。\n\nB在压力下可以像树一样弯曲。 D理解古代数学。\n\n对应点：第七段\n\n在这一段找到宝塔教授Shuzo Ishida，接着找到his passion to understand the pagoda, has built a series of...明确指出教授做实验是为了了解日本宝塔，接下来讲述了他实验的结果，人们终于知道shinbashira的构造和工作原理了。根据文章对shinbashira描述，知道人们一直认为其承担了宝塔的重量，也就是C所指的力学，教授做实验也是为了验证这一说法，这就对应了选项C。\n\n混淆项A并未被提及，B初看上去就十分不靠谱，而D纯粹是节外生枝型的选项，文章的确提到数学，指的是古代的工匠们未得到十分先进的数学的辅助，和宝塔教授的研究毫无关系。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "The storeys of a Japanese pagoda are",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6979_812822",
+          "options": [
+            {
+              "value": "A",
+              "text": "linked only by wood."
+            },
+            {
+              "value": "B",
+              "text": "fastened only to the central pillar."
+            },
+            {
+              "value": "C",
+              "text": "fitted loosely on top of each other."
+            },
+            {
+              "value": "D",
+              "text": "joined by special weights."
+            }
+          ],
+          "explanation": "定位词：storey\n\n题目：日本宝塔的各个楼层是\n\nA仅用本头连接的。 C松松地彼此堆叠在一起。\n\nB仅仅固定在中柱上。 D由特殊的重物相连。\n\n文中对应点: 第八段第三、四句：More surprising is fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. 更令人惊讶的是日本宝塔的每一个单独楼层间实际上都不相连，这一点不同于其他任何地方的同类建筑。它们就像一摞帽子一样只是被一层一层地叠加起来。这个考点实际上和第10题的考点是重合的。所以答案为C。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Why pagodas don&#x27;t fall down</strong></span></p><p><span><strong><img src=\"/api/guest/cambridge/media/images/c6b17606c8f2305ef3b5dbf0d26b7deb.jpg\" alt=\"\"></strong></span></p><p>In a land swept by typhoons and shaken by earthquakes, how have Japan&#x27;s tallest and seemingly flimsiest old buildings - 500 or so wooden pagodas - remained standing for centuries? Records show that only two have collapsed during the past 1400 years. Those that have disappeared were destroyed by fire as a result of lightning or civil war. The disastrous Hanshin earthquake in 1995 killed 6,400 people, toppled elevated highways, flattened office blocks and devastated the port area of Kobe. Yet it left the magnificent five-storey pagoda at the Toji temple in nearby Kyoto unscathed, though it levelled a number of buildings in the neighbourhood.</p><p>Japanese scholars have been mystified for ages about why these tall, slender buildings are so stable. It was only thirty years ago that the building industry felt confident enough to erect office blocks of steel and reinforced concrete that had more than a dozen floors. With its special shock absorbers to dampen the effect of sudden sideways movements from an earthquake, the thirty-six-storey Kasumigaseki building in central Tokyo - Japan&#x27;s first skyscraper - was considered a masterpiece of modern engineering when it was built in 1968.</p><p>Yet in 826, with only pegs and wedges to keep his wooden structure upright, the master builder Kobodaishi had no hesitation in sending his majestic Toji pagoda soaring fifty-five metres into the sky - nearly half as high as the Kasumigaseki skyscraper built some eleven centuries later. Clearly, Japanese carpenters of the day knew a few tricks about allowing a building to sway and settle itself rather than fight nature&#x27;s forces. But what sort of tricks?</p><p>The multi-storey pagoda came to Japan from China in the sixth century. As in China, they were first introduced with Buddhism and were attached to important temples. The Chinese built their pagodas in brick or stone, with inner staircases, and used them in later centuries mainly as watchtowers. When the pagoda reached Japan, however, its architecture was freely adapted to local conditions - they were built less high, typically five rather than nine storeys, made mainly of wood and the staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object. Because of the typhoons that batter Japan in the summer, Japanese builders learned to extend the eaves of buildings further beyond the walls. This prevents rainwater gushing down the walls. Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.</p><p>The roof of a Japanese temple building can be made to overhang the sides of the structure by fifty per cent or more of the building&#x27;s overall width. For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.</p><p>But this does not totally explain the great resilience of Japanese pagodas. Is the answer that, like a tall pine tree, the Japanese pagoda - with its massive trunk-like central pillar known as shinbashira - simply flexes and sways during a typhoon or earthquake? For centuries, many thought so. But the answer is not so simple because the startling thing is that the shinbashira actually carries no load at all. In fact, in some pagoda designs, it does not even rest on the ground, but is suspended from the top of the pagoda - hanging loosely down through the middle of the building. The weight of the building is supported entirely by twelve outer and four inner columns.</p><p>And what is the role of the shinbashira, the central pillar? The best way to understand the shinbashira&#x27;s role is to watch a video made by Shuzo Ishida, a structural engineer at Kyoto Institute of Technology. Mr Ishida, known to his students as &#x27;Professor Pagoda&#x27; because of his passion to understand the pagoda, has built a series of models and tested them on a &#x27;shake- table&#x27; in his laboratory. In short, the shinbashira was acting like an enormous stationary pendulum. The ancient craftsmen, apparently without the assistance of very advanced mathematics, seemed to grasp the principles that were, more than a thousand years later, applied in the construction of Japan&#x27;s first skyscraper. What those early craftsmen had found by trial and error was that under pressure a pagoda&#x27;s loose stack of floors could be made to slither to and fro independent of one another. Viewed from the side, the pagoda seemed to be doing a snake dance - with each consecutive floor moving in the opposite direction to its neighbours above and below. The shinbashira, running up through a hole in the centre of the building, constrained individual storeys from moving too far because, after moving a certain distance, they banged into it, transmitting energy away along the column.</p><p>Another strange feature of the Japanese pagoda is that, because the building tapers, with each successive floor plan being smaller than the one below, none of the vertical pillars that carry the weight of the building is connected to its corresponding pillar above. In other words, a five- storey pagoda contains not even one pillar that travels right up through the building to carry the structural loads from the top to the bottom. More surprising is the fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. Interestingly, such a design would not be permitted under current Japanese building regulations.</p><p>And the extra-wide eaves? Think of them as a tightrope walker&#x27;s balancing pole. The bigger the mass at each end of the pole, the easier it is for the tightrope walker to maintain his or her balance. The same holds true for a pagoda. &#x27;With the eaves extending out on all sides like balancing poles,&#x27; says Mr Ishida, &#x27;the building responds to even the most powerful jolt of an earthquake with a graceful swaying, never an abrupt shaking.&#x27; Here again, Japanese master builders of a thousand years ago anticipated concepts of modern structural engineering.</p>"
+}

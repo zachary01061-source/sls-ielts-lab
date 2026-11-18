@@ -1,0 +1,315 @@
+{
+  "id": "cee6ce35-87e3-4fce-9ddd-eec3d6258ade",
+  "title": "The history of shell",
+  "titleCn": "贝壳的历史：从珠宝到货币",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/cee6ce35-87e3-4fce-9ddd-eec3d6258ade",
+  "duration": 244,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,660"
+    },
+    {
+      "label": "2",
+      "text": "Good morning."
+    },
+    {
+      "label": "3",
+      "text": "00:00:02,240"
+    },
+    {
+      "label": "4",
+      "text": "Today we're going to look at something small, beautiful, and surprisingly important in human history: shells and the many roles they have played, from jewelry to money."
+    },
+    {
+      "label": "5",
+      "text": "00:00:12,840"
+    },
+    {
+      "label": "6",
+      "text": "Shells have been used as personal decoration for a remarkably long time. We know that shells were used to make necklaces about two thousand years ago, and probably much earlier."
+    },
+    {
+      "label": "7",
+      "text": "00:00:24,540"
+    },
+    {
+      "label": "8",
+      "text": "Some of the earliest shell jewelry ever found comes from archaeological sites in Mexico, where ancient craftsmen drilled and polished shells with astonishing skill."
+    },
+    {
+      "label": "9",
+      "text": "00:00:35,360"
+    },
+    {
+      "label": "10",
+      "text": "What made a shell valuable? Appearance, mostly. Shells with a shiny interior were especially prized in jewelry because the inside of the shell, once polished, glows like pearl."
+    },
+    {
+      "label": "11",
+      "text": "00:00:48,940"
+    },
+    {
+      "label": "12",
+      "text": "Shells were not only worn around the neck. They were also arranged in patterns to decorate clothing and textiles, sewn onto ceremonial robes as a display of wealth and status."
+    },
+    {
+      "label": "13",
+      "text": "00:01:01,040"
+    },
+    {
+      "label": "14",
+      "text": "They had practical uses, too. In farming communities, shells were used as tools to separate corn kernels from the cob. The hard, curved edge of a large shell does the job surprisingly well."
+    },
+    {
+      "label": "15",
+      "text": "00:01:14,220"
+    },
+    {
+      "label": "16",
+      "text": "Most fascinating of all is the cowrie shell, which was used as money in trade across Africa and Asia."
+    },
+    {
+      "label": "17",
+      "text": "00:01:20,880"
+    },
+    {
+      "label": "18",
+      "text": "Cowries were durable, portable, and almost impossible to counterfeit."
+    },
+    {
+      "label": "19",
+      "text": "00:01:26,240"
+    },
+    {
+      "label": "20",
+      "text": "With cowrie currency, the total weight of the shells showed their value. Merchants simply weighed a pile rather than counting individual shells."
+    },
+    {
+      "label": "21",
+      "text": "00:01:36,020"
+    },
+    {
+      "label": "22",
+      "text": "Cowries also carried meaning. In jewelry, they symbolized fertility and prosperity, which is why they so often appear in bridal ornaments."
+    },
+    {
+      "label": "23",
+      "text": "00:01:46,160"
+    },
+    {
+      "label": "24",
+      "text": "Two final curiosities. Shells carried home by pilgrims have been found in Northern Spain, marking the great medieval walking routes."
+    },
+    {
+      "label": "25",
+      "text": "00:01:55,320"
+    },
+    {
+      "label": "26",
+      "text": "And in some Pacific cultures, shell piles were given to men on their wedding day as a symbol of their new responsibilities."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "bc5ba759-6e0e-4dd3-822b-d3f6edc4b7f9",
+          "prompt": "**The History of Shells**\n\n**Shells as Jewellery**\n**31** Shells were used to make _____ about two thousand years ago",
+          "answers": [
+            "necklaces"
+          ],
+          "rawAnswer": "necklaces",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We know that shells were used to make necklaces about two thousand years ago, and probably much earlier"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "44e92c4a-71ea-489c-8fd5-00c889dd5e23",
+          "prompt": "**32** Early shell jewellery was found at sites in _____ .",
+          "answers": [
+            "Mexico"
+          ],
+          "rawAnswer": "Mexico",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some of the earliest shell jewelry ever found comes from archaeological sites in Mexico, where ancient craftsmen drilled and polished shells with astonishing skill"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "08d387ab-6f66-4186-a96a-16641e77291e",
+          "prompt": "**33** Shells with a _____ interior were prized in jewellery.",
+          "answers": [
+            "shiny"
+          ],
+          "rawAnswer": "shiny",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Shells with a shiny interior were especially prized in jewelry because the inside of the shell, once polished, glows like pearl"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "9b485d21-f5b1-4bbc-9804-e743770e201c",
+          "prompt": "**34** Shells were arranged in patterns to decorate _____ and textiles.",
+          "answers": [
+            "clothing"
+          ],
+          "rawAnswer": "clothing",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They were also arranged in patterns to decorate clothing and textiles, sewn onto ceremonial robes as a display of wealth and status"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "ee2341ea-6a77-4b85-b2c1-1abe5d482242",
+          "prompt": "**Practical and Monetary Uses**\n**35** Shells were used as tools to separate _____ kernels.",
+          "answers": [
+            "corn"
+          ],
+          "rawAnswer": "corn",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In farming communities, shells were used as tools to separate corn kernels from the cob"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "f4a9b244-728f-4999-9f05-9d13caa3a869",
+          "prompt": "**36** Cowrie shells were used as _____ in trade.",
+          "answers": [
+            "money"
+          ],
+          "rawAnswer": "money",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Most fascinating of all is the cowrie shell, which was used as money in trade across Africa and Asia"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "155ea074-d000-47a9-9baa-f673d7dba637",
+          "prompt": "**37** The total _____ of cowrie shells showed their value.",
+          "answers": [
+            "weight"
+          ],
+          "rawAnswer": "weight",
+          "evidence": {
+            "paragraph": "",
+            "quote": "With cowrie currency, the total weight of the shells showed their value"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "481228a9-75d0-458f-8665-147d9cb2d80e",
+          "prompt": "**38** Cowrie shells symbolised _____ and prosperity in jewellery.",
+          "answers": [
+            "fertility"
+          ],
+          "rawAnswer": "fertility",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Cowries also carried meaning. In jewelry, they symbolized fertility and prosperity, which is why they so often appear in bridal ornaments"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "b7208e3b-e6c9-44e9-8ef8-68e1dd5e80e3",
+          "prompt": "**Two Final Curiosities**\n**39** Shells carried by pilgrims were found in northern _____ .",
+          "answers": [
+            "Spain"
+          ],
+          "rawAnswer": "Spain",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Shells carried home by pilgrims have been found in Northern Spain, marking the great medieval walking routes"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "d45229cb-e187-4b6f-ad83-b36a83925b93",
+          "prompt": "**40** Shells were given to men on their _____ day.",
+          "answers": [
+            "wedding"
+          ],
+          "rawAnswer": "wedding",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And in some Pacific cultures, shell piles were given to men on their wedding day as a symbol of their new responsibilities"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,660</p><p>Good morning. </p><p>00:00:02,240</p><p>Today we're going to look at something small, beautiful, and surprisingly important in human history: shells and the many roles they have played, from jewelry to money. </p><p>00:00:12,840</p><p>Shells have been used as personal decoration for a remarkably long time. We know that shells were used to make necklaces about two thousand years ago, and probably much earlier. </p><p>00:00:24,540</p><p>Some of the earliest shell jewelry ever found comes from archaeological sites in Mexico, where ancient craftsmen drilled and polished shells with astonishing skill. </p><p>00:00:35,360</p><p>What made a shell valuable? Appearance, mostly. Shells with a shiny interior were especially prized in jewelry because the inside of the shell, once polished, glows like pearl. </p><p>00:00:48,940</p><p>Shells were not only worn around the neck. They were also arranged in patterns to decorate clothing and textiles, sewn onto ceremonial robes as a display of wealth and status. </p><p>00:01:01,040</p><p>They had practical uses, too. In farming communities, shells were used as tools to separate corn kernels from the cob. The hard, curved edge of a large shell does the job surprisingly well. </p><p>00:01:14,220</p><p>Most fascinating of all is the cowrie shell, which was used as money in trade across Africa and Asia. </p><p>00:01:20,880</p><p>Cowries were durable, portable, and almost impossible to counterfeit. </p><p>00:01:26,240</p><p>With cowrie currency, the total weight of the shells showed their value. Merchants simply weighed a pile rather than counting individual shells. </p><p>00:01:36,020</p><p>Cowries also carried meaning. In jewelry, they symbolized fertility and prosperity, which is why they so often appear in bridal ornaments. </p><p>00:01:46,160</p><p>Two final curiosities. Shells carried home by pilgrims have been found in Northern Spain, marking the great medieval walking routes. </p><p>00:01:55,320</p><p>And in some Pacific cultures, shell piles were given to men on their wedding day as a symbol of their new responsibilities.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/cee6ce35-87e3-4fce-9ddd-eec3d6258ade.mp3",
+    "durationSeconds": 123.192,
+    "sizeBytes": 493203,
+    "sha256": "4c07a9e7ca15f9eb05142e612e8e3672013c3b6565c71a41220c9f6746cd8bda",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:28Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1791890703296_ysgjkz.mp3"
+}

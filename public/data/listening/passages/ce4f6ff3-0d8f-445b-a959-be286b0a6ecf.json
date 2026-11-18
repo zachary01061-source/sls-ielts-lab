@@ -1,0 +1,327 @@
+{
+  "id": "ce4f6ff3-0d8f-445b-a959-be286b0a6ecf",
+  "title": "Tea tree oil",
+  "titleCn": "茶树油：澳洲土著的传统药用与历史",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/ce4f6ff3-0d8f-445b-a959-be286b0a6ecf",
+  "duration": 408,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,700"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:08,960"
+    },
+    {
+      "label": "4",
+      "text": "So what I'm going to talk about to you today is something called tea tree oil, which was first extracted from Melaleuca alternifolia in Australia. This species remains the most important commercially. Several other species are cultivated for their oil extraction. There is a very long history of tea tree oil's use in aromatherapy. Traditionally, Melaleuca alternifolia leaves were crushed, and the oil was inhaled by the Aborigines of Australia for the treatment of coughs, colds, and also for the treatment of wounds. For instance, they chewed the young leaves to alleviate headaches and took them to treat sore throats or skin ailments. The Aborigines world was discovered by Willem Janszoon, a Dutch explorer who was the first European to sail to Australia. In sixteen oh six, he reached the northern coast of Australia in his ship. Then several voyages of exploration followed in the first half of the seventeenth century. The Dutch founded a paradise on earth for man's well-being with timber, stone, and lime for building. There was also plenty of salt, and the coast was full of fish. Besides, they found the characteristics of the diet there because they happened to meet ten naked black Aborigines having a meal in the open air. While the value of tea tree oil originated from Australia, it was gradually known and tested by the outsiders. In the middle of the eighteenth century, Sir Hugh Palliser, an officer of the British Royal Navy who had been to Australia several times during that period, got serious injuries all over due to his experiences in several wars. For more than the last fifteen or sixteen years of his life, he seldom laid down on a bed because of the constant pain in his leg. Then he tried tea tree oil as it was said that tea tree oil could operate as a very powerful immunostimulant for pre and post-surgical care. The use of the name tea tree, also called paperbark trees, probably originated from Captain James Cook's description he made soon after he had arrived at the coast of New South Wales in seventeen seventy. At the time, he witnessed some Aborigines of Australia using one of the shrub's leaves to make an infused drink in place of tea. In the nineteen twenties, some human clinical research and the documentation of many benefits associated with tea tree oil were credited, which were made by Dr. Arthur Penfold, an Australian government chemist. He investigated the business potential of a number of native extracted oils, then reported that tea tree oil was promising as it exhibited powerful antiseptic properties. But after World War II, the entry of antibiotics declined the use of natural products in medicine, which had a negative effect on the production of tea tree oil."
+    },
+    {
+      "label": "5",
+      "text": "00:03:17,920"
+    },
+    {
+      "label": "6",
+      "text": "As such an important and valuable material in the world, how is tea tree oil produced? I think most of you are curious about this. Tea tree oil can be extracted in some different ways, but the most traditional way is steam distillation. Once harvested in winter, when the amount of required essence in oil meets the needs for production, the finely cut trees are transported to a steam distillation facility. The extraction is made by distilling the leaves in specially designed stainless steel stills along with the stems to yield pure oil. The water-filled boiler is heated and constantly monitored to maintain the correct temperature. Both the steam and oil evaporate and then condense as they run through a pipe into the collecting container where the oil floats to the lid, while the water, because of gravity, goes steadily out the lower exit pipe. At the end of the hour, the oil is siphoned off through the upper pipe, while the condensed steam floats through the lower pipe towards the ground. At the end of each distillation, all the spent plant materials is hauled out of the still pot by hand with a short rake, piled onto a trailer, and spread where required as a thick woody mulch."
+    },
+    {
+      "label": "7",
+      "text": "00:04:40,760"
+    },
+    {
+      "label": "8",
+      "text": "That is the end of Section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 31-35**\nChoose the correct letter, **A, B** or **C**.\nWhat incident is related to each of the following people?",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "c01f3997-8d98-4d29-a0ff-c06cd5fdddf9",
+          "prompt": "Aborigines",
+          "answers": [
+            "G"
+          ],
+          "rawAnswer": "used tea tree for medical treatment",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Traditionally, Melaleuca alternifolia leaves were crushed, and the oil was inhaled by the Aborigines of Australia for the treatment of coughs, colds, and also for the treatment of wounds. For instance, they chewed the young leaves to alleviate headaches and took them to treat sore throats or skin ailments"
+          },
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "c4a39b4b-1a56-4840-85fb-b21fa6bd543e",
+          "prompt": "Dutch explorer",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "reported the special eating habit in Australia",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These unwanted plants compete with crops for essential nutrients, sunlight, and water, often reducing overall yield.\nThe Aborigines world was discovered by Willem Janszoon, a Dutch explorer who was the first European to sail to Australia;Besides, they found the characteristics of the diet there because they happened to meet ten naked black Aborigines having a meal in the open air"
+          },
+          "keywordPairs": [
+            {
+              "question": "found the characteristics of the diet",
+              "article": "reported the special eating habit"
+            },
+            {
+              "question": "having a meal in the open air",
+              "article": "eating habit"
+            }
+          ],
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "5859d448-b329-4aea-bcf4-40acfaff234a",
+          "prompt": "Sir Hugh Palliser",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "challenged the benefit of tea tree oil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the middle of the eighteenth century, Sir Hugh Palliser, an officer of the British Royal Navy who had been to Australia several times during that period, got serious injuries all over due to his experiences in several wars. For more than the last fifteen or sixteen years of his life, he seldom laid down on a bed because of the constant pain in his leg. Then he tried tea tree oil as it was said that tea tree oil could operate as a very powerful immunostimulant for pre and post-surgical care"
+          },
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "54e54ac6-a38a-4b58-85f9-50ebce0be39d",
+          "prompt": "Captain James Cook",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "saw Australian Aborigines drink",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The use of the name tea tree, also called paperbark trees, probably originated from Captain James Cook's description he made soon after he had arrived at the coast of New South Wales in seventeen seventy. At the time, he witnessed some Aborigines of Australia using one of the shrub's leaves to make an infused drink in place of tea"
+          },
+          "keywordPairs": [
+            {
+              "question": "witnessed",
+              "article": "saw"
+            }
+          ],
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "3a94a538-bcdb-4a46-98b3-ad1282061bdb",
+          "prompt": "Dr. Arthur Penfold",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "studied the tea tree oil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In the nineteen twenties, some human clinical research and the documentation of many benefits associated with tea tree oil were credited, which were made by Dr. Arthur Penfold, an Australian government chemist. He investigated the business potential of a number of native extracted oils, then reported that tea tree oil was promising as it exhibited powerful antiseptic properties"
+          },
+          "keywordPairs": [
+            {
+              "question": "research",
+              "article": "studied"
+            }
+          ],
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "brought tea oil into Australia in 1770"
+        },
+        {
+          "value": "B",
+          "text": "challenged the benefit of tea tree oil"
+        },
+        {
+          "value": "C",
+          "text": "reported the special eating habit in Australia"
+        },
+        {
+          "value": "D",
+          "text": "listed plant species"
+        },
+        {
+          "value": "E",
+          "text": "studied the tea tree oil"
+        },
+        {
+          "value": "F",
+          "text": "saw Australian Aborigines drink"
+        },
+        {
+          "value": "G",
+          "text": "used tea tree for medical treatment"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 36-40**\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "e47fbcd4-78c1-40a3-bb28-8ddf196938d9",
+          "prompt": "**the process of tea tree oil extraction**\n\nTea tree will store oil during **36**_____ and accumulate the useful substance.",
+          "answers": [
+            "winter"
+          ],
+          "rawAnswer": "winter",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Once harvested in winter, when the amount of required essence in oil meets the needs for production, the finely cut trees are transported to a steam distillation facility"
+          },
+          "keywordPairs": [
+            {
+              "question": "accumulate the useful substance",
+              "article": "the amount of required essence in oil"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "ce61c896-33c4-4f6b-9f1b-a9a39f469ac8",
+          "prompt": "Put leaves and **37**_____ in for distillation.",
+          "answers": [
+            "stems"
+          ],
+          "rawAnswer": "stems",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The extraction is made by distilling the leaves in specially designed stainless steel stills along with the stems to yield pure oil"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "baddcd91-f6fa-4c21-b362-ef2611e726c9",
+          "prompt": "The oil vapor rises up to the **38**_____ of the container.",
+          "answers": [
+            "lid"
+          ],
+          "rawAnswer": "lid",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Both the steam and oil evaporate and then condense as they run through a pipe into the collecting container where the oil floats to the lid, while the water, because of gravity, goes steadily out the lower exit pipe"
+          },
+          "keywordPairs": [
+            {
+              "question": "vapor",
+              "article": "evaporates"
+            },
+            {
+              "question": "rises up to",
+              "article": "floats to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "ffc86db5-2a2e-4961-80a3-afb9383dbd3f",
+          "prompt": "According to the principle of **39**_____ , the condensed steam goes downside.",
+          "answers": [
+            "gravity"
+          ],
+          "rawAnswer": "gravity",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Both the steam and oil evaporate and then condense as they run through a pipe into the collecting container where the oil floats to the lid, while the water, because of gravity, goes steadily out the lower exit pipe"
+          },
+          "keywordPairs": [
+            {
+              "question": "goes downside",
+              "article": "goes steadily out the lower exit pipe"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "93851c8f-5614-48bc-a96a-797f4a5d1f4d",
+          "prompt": "The water will go through the tubes into the **40**_____ .",
+          "answers": [
+            "ground"
+          ],
+          "rawAnswer": "ground",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At the end of the hour, the oil is siphoned off through the upper pipe, while the condensed steam floats through the lower pipe towards the ground"
+          },
+          "keywordPairs": [
+            {
+              "question": "go through the tubes",
+              "article": "floats through the lower pipe"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "配对题",
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,700</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:08,960</p><p>So what I'm going to talk about to you today is something called tea tree oil, which was first extracted from Melaleuca alternifolia in Australia. This species remains the most important commercially. Several other species are cultivated for their oil extraction. There is a very long history of tea tree oil's use in aromatherapy. Traditionally, Melaleuca alternifolia leaves were crushed, and the oil was inhaled by the Aborigines of Australia for the treatment of coughs, colds, and also for the treatment of wounds. For instance, they chewed the young leaves to alleviate headaches and took them to treat sore throats or skin ailments. The Aborigines world was discovered by Willem Janszoon, a Dutch explorer who was the first European to sail to Australia. In sixteen oh six, he reached the northern coast of Australia in his ship. Then several voyages of exploration followed in the first half of the seventeenth century. The Dutch founded a paradise on earth for man's well-being with timber, stone, and lime for building. There was also plenty of salt, and the coast was full of fish. Besides, they found the characteristics of the diet there because they happened to meet ten naked black Aborigines having a meal in the open air. While the value of tea tree oil originated from Australia, it was gradually known and tested by the outsiders. In the middle of the eighteenth century, Sir Hugh Palliser, an officer of the British Royal Navy who had been to Australia several times during that period, got serious injuries all over due to his experiences in several wars. For more than the last fifteen or sixteen years of his life, he seldom laid down on a bed because of the constant pain in his leg. Then he tried tea tree oil as it was said that tea tree oil could operate as a very powerful immunostimulant for pre and post-surgical care. The use of the name tea tree, also called paperbark trees, probably originated from Captain James Cook's description he made soon after he had arrived at the coast of New South Wales in seventeen seventy. At the time, he witnessed some Aborigines of Australia using one of the shrub's leaves to make an infused drink in place of tea. In the nineteen twenties, some human clinical research and the documentation of many benefits associated with tea tree oil were credited, which were made by Dr. Arthur Penfold, an Australian government chemist. He investigated the business potential of a number of native extracted oils, then reported that tea tree oil was promising as it exhibited powerful antiseptic properties. But after World War II, the entry of antibiotics declined the use of natural products in medicine, which had a negative effect on the production of tea tree oil. </p><p>00:03:17,920</p><p>As such an important and valuable material in the world, how is tea tree oil produced? I think most of you are curious about this. Tea tree oil can be extracted in some different ways, but the most traditional way is steam distillation. Once harvested in winter, when the amount of required essence in oil meets the needs for production, the finely cut trees are transported to a steam distillation facility. The extraction is made by distilling the leaves in specially designed stainless steel stills along with the stems to yield pure oil. The water-filled boiler is heated and constantly monitored to maintain the correct temperature. Both the steam and oil evaporate and then condense as they run through a pipe into the collecting container where the oil floats to the lid, while the water, because of gravity, goes steadily out the lower exit pipe. At the end of the hour, the oil is siphoned off through the upper pipe, while the condensed steam floats through the lower pipe towards the ground. At the end of each distillation, all the spent plant materials is hauled out of the still pot by hand with a short rake, piled onto a trailer, and spread where required as a thick woody mulch. </p><p>00:04:40,760</p><p>That is the end of Section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/ce4f6ff3-0d8f-445b-a959-be286b0a6ecf.mp3",
+    "durationSeconds": 287.928,
+    "sizeBytes": 1152057,
+    "sha256": "24dfc788ee58ec31a10cbc0edb0d3e21970abf885991b06f19289c78fbda063a",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:33:17Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792997377073_qnazhy.mp3"
+}

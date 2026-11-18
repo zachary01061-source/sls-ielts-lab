@@ -1,0 +1,305 @@
+{
+  "id": "cambridge-12-test-7-reading-1",
+  "title": "Flying tortoises",
+  "titleCn": "Flying tortoises",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 12,
+    "test": 7
+  },
+  "sourceQuestionId": "6748",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6748",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Flying tortoises"
+    },
+    {
+      "label": "2",
+      "text": "An airborne reintroduction programme has helped conservationists take significant steps to protect the endangered Galápagos tortoise."
+    },
+    {
+      "label": "3",
+      "text": "1"
+    },
+    {
+      "label": "4",
+      "text": "A Forests of spiny cacti cover much of the uneven lava plains that separate the interior of the Galápagos island of Isabela from the Pacific Ocean. With its five distinct volcanoes, the island resembles a lunar landscape. Only the thick vegetation at the skirt of the often cloud-covered peak of Sierra Negra offers respite from the barren terrain below. This inhospitable environment is home to the giant Galápagos tortoise. Some time after the Galápagos's birth, around five million years ago, the islands were colonised by one or more tortoises from mainland South America. As these ancestral tortoises settled on the individual islands, the different populations adapted to their unique environments, giving rise to at least 14 different subspecies. Island life agreed with them. In the absence of significant predators, they grew to become the largest and longest-living tortoises on the planet, weighing more than 400 kilograms, occasionally exceeding 1.8 metres in length and living for more than a century."
+    },
+    {
+      "label": "5",
+      "text": "2"
+    },
+    {
+      "label": "6",
+      "text": "B Before human arrival, the archipelago's tortoises numbered in the hundreds of thousands. From the 17th century onwards, pirates took a few on board for food, but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water, the tortoises were taken on board these ships to act as food supplies during long ocean passages. Sometimes, their bodies were processed into high-grade oil. In total, an estimated 200,000 animals were taken from the archipelago before the 20th century. This historical exploitation was then exacerbated when settlers came to the islands. They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat."
+    },
+    {
+      "label": "7",
+      "text": "3"
+    },
+    {
+      "label": "8",
+      "text": "C Today, only 11 of the original subspecies survive and of these, several are highly endangered. In 1989, work began on a tortoise-breeding centre just outside the town of Puerto Villamil on Isabela, dedicated to protecting the island's tortoise populations. The centre's captive-breeding programme proved to be extremely successful, and it eventually had to deal with an overpopulation problem."
+    },
+    {
+      "label": "9",
+      "text": "4"
+    },
+    {
+      "label": "10",
+      "text": "D The problem was also a pressing one. Captive-bred tortoises can't be reintroduced into the wild until they're at least five years old and weigh at least 4.5 kilograms, at which point their size and weight - and their hardened shells - are sufficient to protect them from predators. But if people wait too long after that point, the tortoises eventually become too large to transport."
+    },
+    {
+      "label": "11",
+      "text": "5"
+    },
+    {
+      "label": "12",
+      "text": "E For years, repatriation efforts were carried out in small numbers, with the tortoises carried on the backs of men over weeks of long, treacherous hikes along narrow trails. But in November 2010, the environmentalist and Galápagos National Park liaison officer Godfrey Merlin, a visiting private motor yacht captain and a helicopter pilot gathered around a table in a small cafe in Puerto Ayora on the island of Santa Cruz to work out more ambitious reintroduction. The aim was to use a helicopter to move 300 of the breeding centre's tortoises to various locations close to Sierra Negra."
+    },
+    {
+      "label": "13",
+      "text": "6"
+    },
+    {
+      "label": "14",
+      "text": "F This unprecedented effort was made possible by the owners of the 67-metre yacht White Cloud, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, as well as the logistical support of the yacht, its captain and crew. Originally an air ambulance, the yacht's helicopter has a rear double door and a large internal space that's well suited for cargo, so a custom crate was designed to hold up to 33 tortoises with a total weight of about 150 kilograms. This weight, together with that of the fuel, pilot and four crew, approached the helicopter's maximum payload, and there were times when it was clearly right on the edge of the helicopter's capabilities. During a period of three days, a group of volunteers from the breeding centre worked around the clock to prepare the young tortoises for transport. Meanwhile, park wardens, dropped off ahead of time in remote locations, cleared landing sites within the thick brush, cacti and lava rocks."
+    },
+    {
+      "label": "15",
+      "text": "7"
+    },
+    {
+      "label": "16",
+      "text": "G Upon their release, the juvenile tortoises quickly spread out over their ancestral territory, investigating their new surroundings and feeding on the vegetation. Eventually, one tiny tortoise came across a fully grown giant who had been lumbering around the island for around a hundred years. The two stood side by side, a powerful symbol of the regeneration of an ancient species."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "question 1-7\n\nThe text has 7 sections.\n\nChoose the correct heading for each section and move it into the gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Gap 1 (see above)",
+          "answers": [
+            "v"
+          ],
+          "sourceCode": "Q6748_753041",
+          "explanation": "题号：1\n\n参考译文：龟类在群岛上定居繁衍\n\n定位词：populate, islands\n\nA段：本段篇幅比较长，如果考生只想简单套用“看开头结尾”的找段落主旨方法，则可能未必能够抓住段落大意。实则本段的前三句话都是在描述地理环境，而第四句则点出本段中心：这样一个环境是岛上龟类的家园。段落的后半部分继而简短追溯了龟来此定居的发展历史。正确选项为v。\n\n针对这种段落包含许多句子的情况，考生应抓住“段落主旨题”的本质特点，即“考查大意理解而非细节辨析”，阅读时着重寻找每个句子的主干部分，略读定语从句、状语从句等细节修饰部分，即可在准确理解文意的基础上同时有效提升阅读速度，达到双赢。\n\n题号：2\n\n参考译文：各种事态发展不利于龟群\n\n定位词：developments, disadvantage\n\nB段：本段的篇幅与A段类似，包含很多句子信息，但格式规整。第一句先交代人类到来之前龟类数量繁多，从第二句直至末句都是并列关系的排比信息，列举了种种人类活动对龟产生的有害影响。由于本段中还密集出现了文章的第二个题型：细节填空题，因此考生对此段内容的阅读必然是相对精细的;在理解了全段意思的基础上，要选出正确答案项应当不是难事。\n\n题号：3\n\n参考译文：保护项目的开启\n\n定位词：start, conservation, project\n\nC段：本段-共只有三句话，围绕“龟类面临威胁一 因此开展保护一项目十分成功”这个思路，分别用一句话进行说明，段意非常明确清晰，正确答案为viii。\n\n题号：4\n\n参考译文：时机正确的重要性\n\n定位词：importance, timing, right\n\nD段：本段与C段-样只有三句话，要准确理解大意并不困难，其中与主旨大意息息相关的第二句话语法结构略显复杂，关于此句的详细解释，可以参见前文中“佳句赏析”的第三句。此句大意为:此类龟必须长到至少五岁才适合放归:而段落后一句又紧接着说,然而等太久了也不再适合放归,因此正确答案为i:放归的时机非常重要。正确为本段选择大意的难点其实在于答案选项中的timing一词。许多考生虽然认识time表示“时间”的意思，却对稍加变化成为timing表示“时机\"的用法比较陌生，从而可能导致因为无法准确理解选项而做不出正确选择。\n\n题号：5\n\n参考译文：策划一个更宏大的理念\n\n定位词：planning, bigger idea\n\nE段：本段的第一句话先交代从前的放归方法纯靠人工，第二句则话锋一转引人了几人开始策划一个更为宏图大志的计划。前后两句构成了典型的过渡衔接关系。其中直接对应本段旨的第二句话结构也略复杂，具体解析可参见前文中“佳句赏析”的第四句。正确选项为iv。\n\n题号：6\n\n参考译文：展开一场经过仔细准备的行动\n\n定位词：carry out, carefully prepared\n\nF段：本段虽然篇幅较长，但第一句句首的This一词便即点出了：此段是在延续上一段中的话头，继续详细描述上一段里“更为宏图大志的计划”；加之经过前面五段的选择后，选项中只剩下三个备选项。对考生来说，无论是在大致看懂的基础上，还是稍加运用排除法，要选出正确答案vi项都应当不是难事。\n\n题号：7\n\n参考译文：青年遇上老者\n\n定位词：young, old\n\nG段:本段篇幅既短，内容也不艰深。考生即使不认识juvenile这个词汇，也应当可文中对应点 以从段中出现的ancestral“祖先的”、 tiny “体型小的\"、fully grown“完全长成的”、giant“体型巨大的\"这些词汇看出对应，正确选出答案项为ii。",
+          "promptHtml": "Gap 1 (see above)"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Gap 2 (see above)",
+          "answers": [
+            "iii"
+          ],
+          "sourceCode": "Q6748_515055",
+          "explanation": "题号：1\n\n参考译文：龟类在群岛上定居繁衍\n\n定位词：populate, islands\n\nA段：本段篇幅比较长，如果考生只想简单套用“看开头结尾”的找段落主旨方法，则可能未必能够抓住段落大意。实则本段的前三句话都是在描述地理环境，而第四句则点出本段中心：这样一个环境是岛上龟类的家园。段落的后半部分继而简短追溯了龟来此定居的发展历史。正确选项为v。\n\n针对这种段落包含许多句子的情况，考生应抓住“段落主旨题”的本质特点，即“考查大意理解而非细节辨析”，阅读时着重寻找每个句子的主干部分，略读定语从句、状语从句等细节修饰部分，即可在准确理解文意的基础上同时有效提升阅读速度，达到双赢。\n\n题号：2\n\n参考译文：各种事态发展不利于龟群\n\n定位词：developments, disadvantage\n\nB段：本段的篇幅与A段类似，包含很多句子信息，但格式规整。第一句先交代人类到来之前龟类数量繁多，从第二句直至末句都是并列关系的排比信息，列举了种种人类活动对龟产生的有害影响。由于本段中还密集出现了文章的第二个题型：细节填空题，因此考生对此段内容的阅读必然是相对精细的;在理解了全段意思的基础上，要选出正确答案项应当不是难事。\n\n题号：3\n\n参考译文：保护项目的开启\n\n定位词：start, conservation, project\n\nC段：本段-共只有三句话，围绕“龟类面临威胁一 因此开展保护一项目十分成功”这个思路，分别用一句话进行说明，段意非常明确清晰，正确答案为viii。\n\n题号：4\n\n参考译文：时机正确的重要性\n\n定位词：importance, timing, right\n\nD段：本段与C段-样只有三句话，要准确理解大意并不困难，其中与主旨大意息息相关的第二句话语法结构略显复杂，关于此句的详细解释，可以参见前文中“佳句赏析”的第三句。此句大意为:此类龟必须长到至少五岁才适合放归:而段落后一句又紧接着说,然而等太久了也不再适合放归,因此正确答案为i:放归的时机非常重要。正确为本段选择大意的难点其实在于答案选项中的timing一词。许多考生虽然认识time表示“时间”的意思，却对稍加变化成为timing表示“时机\"的用法比较陌生，从而可能导致因为无法准确理解选项而做不出正确选择。\n\n题号：5\n\n参考译文：策划一个更宏大的理念\n\n定位词：planning, bigger idea\n\nE段：本段的第一句话先交代从前的放归方法纯靠人工，第二句则话锋一转引人了几人开始策划一个更为宏图大志的计划。前后两句构成了典型的过渡衔接关系。其中直接对应本段旨的第二句话结构也略复杂，具体解析可参见前文中“佳句赏析”的第四句。正确选项为iv。\n\n题号：6\n\n参考译文：展开一场经过仔细准备的行动\n\n定位词：carry out, carefully prepared\n\nF段：本段虽然篇幅较长，但第一句句首的This一词便即点出了：此段是在延续上一段中的话头，继续详细描述上一段里“更为宏图大志的计划”；加之经过前面五段的选择后，选项中只剩下三个备选项。对考生来说，无论是在大致看懂的基础上，还是稍加运用排除法，要选出正确答案vi项都应当不是难事。\n\n题号：7\n\n参考译文：青年遇上老者\n\n定位词：young, old\n\nG段:本段篇幅既短，内容也不艰深。考生即使不认识juvenile这个词汇，也应当可文中对应点 以从段中出现的ancestral“祖先的”、 tiny “体型小的\"、fully grown“完全长成的”、giant“体型巨大的\"这些词汇看出对应，正确选出答案项为ii。",
+          "promptHtml": "Gap 2 (see above)"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Gap 3 (see above)",
+          "answers": [
+            "viii"
+          ],
+          "sourceCode": "Q6748_551659",
+          "explanation": "题号：1\n\n参考译文：龟类在群岛上定居繁衍\n\n定位词：populate, islands\n\nA段：本段篇幅比较长，如果考生只想简单套用“看开头结尾”的找段落主旨方法，则可能未必能够抓住段落大意。实则本段的前三句话都是在描述地理环境，而第四句则点出本段中心：这样一个环境是岛上龟类的家园。段落的后半部分继而简短追溯了龟来此定居的发展历史。正确选项为v。\n\n针对这种段落包含许多句子的情况，考生应抓住“段落主旨题”的本质特点，即“考查大意理解而非细节辨析”，阅读时着重寻找每个句子的主干部分，略读定语从句、状语从句等细节修饰部分，即可在准确理解文意的基础上同时有效提升阅读速度，达到双赢。\n\n题号：2\n\n参考译文：各种事态发展不利于龟群\n\n定位词：developments, disadvantage\n\nB段：本段的篇幅与A段类似，包含很多句子信息，但格式规整。第一句先交代人类到来之前龟类数量繁多，从第二句直至末句都是并列关系的排比信息，列举了种种人类活动对龟产生的有害影响。由于本段中还密集出现了文章的第二个题型：细节填空题，因此考生对此段内容的阅读必然是相对精细的;在理解了全段意思的基础上，要选出正确答案项应当不是难事。\n\n题号：3\n\n参考译文：保护项目的开启\n\n定位词：start, conservation, project\n\nC段：本段-共只有三句话，围绕“龟类面临威胁一 因此开展保护一项目十分成功”这个思路，分别用一句话进行说明，段意非常明确清晰，正确答案为viii。\n\n题号：4\n\n参考译文：时机正确的重要性\n\n定位词：importance, timing, right\n\nD段：本段与C段-样只有三句话，要准确理解大意并不困难，其中与主旨大意息息相关的第二句话语法结构略显复杂，关于此句的详细解释，可以参见前文中“佳句赏析”的第三句。此句大意为:此类龟必须长到至少五岁才适合放归:而段落后一句又紧接着说,然而等太久了也不再适合放归,因此正确答案为i:放归的时机非常重要。正确为本段选择大意的难点其实在于答案选项中的timing一词。许多考生虽然认识time表示“时间”的意思，却对稍加变化成为timing表示“时机\"的用法比较陌生，从而可能导致因为无法准确理解选项而做不出正确选择。\n\n题号：5\n\n参考译文：策划一个更宏大的理念\n\n定位词：planning, bigger idea\n\nE段：本段的第一句话先交代从前的放归方法纯靠人工，第二句则话锋一转引人了几人开始策划一个更为宏图大志的计划。前后两句构成了典型的过渡衔接关系。其中直接对应本段旨的第二句话结构也略复杂，具体解析可参见前文中“佳句赏析”的第四句。正确选项为iv。\n\n题号：6\n\n参考译文：展开一场经过仔细准备的行动\n\n定位词：carry out, carefully prepared\n\nF段：本段虽然篇幅较长，但第一句句首的This一词便即点出了：此段是在延续上一段中的话头，继续详细描述上一段里“更为宏图大志的计划”；加之经过前面五段的选择后，选项中只剩下三个备选项。对考生来说，无论是在大致看懂的基础上，还是稍加运用排除法，要选出正确答案vi项都应当不是难事。\n\n题号：7\n\n参考译文：青年遇上老者\n\n定位词：young, old\n\nG段:本段篇幅既短，内容也不艰深。考生即使不认识juvenile这个词汇，也应当可文中对应点 以从段中出现的ancestral“祖先的”、 tiny “体型小的\"、fully grown“完全长成的”、giant“体型巨大的\"这些词汇看出对应，正确选出答案项为ii。",
+          "promptHtml": "Gap 3 (see above)"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Gap 4 (see above)",
+          "answers": [
+            "i"
+          ],
+          "sourceCode": "Q6748_526752",
+          "explanation": "题号：1\n\n参考译文：龟类在群岛上定居繁衍\n\n定位词：populate, islands\n\nA段：本段篇幅比较长，如果考生只想简单套用“看开头结尾”的找段落主旨方法，则可能未必能够抓住段落大意。实则本段的前三句话都是在描述地理环境，而第四句则点出本段中心：这样一个环境是岛上龟类的家园。段落的后半部分继而简短追溯了龟来此定居的发展历史。正确选项为v。\n\n针对这种段落包含许多句子的情况，考生应抓住“段落主旨题”的本质特点，即“考查大意理解而非细节辨析”，阅读时着重寻找每个句子的主干部分，略读定语从句、状语从句等细节修饰部分，即可在准确理解文意的基础上同时有效提升阅读速度，达到双赢。\n\n题号：2\n\n参考译文：各种事态发展不利于龟群\n\n定位词：developments, disadvantage\n\nB段：本段的篇幅与A段类似，包含很多句子信息，但格式规整。第一句先交代人类到来之前龟类数量繁多，从第二句直至末句都是并列关系的排比信息，列举了种种人类活动对龟产生的有害影响。由于本段中还密集出现了文章的第二个题型：细节填空题，因此考生对此段内容的阅读必然是相对精细的;在理解了全段意思的基础上，要选出正确答案项应当不是难事。\n\n题号：3\n\n参考译文：保护项目的开启\n\n定位词：start, conservation, project\n\nC段：本段-共只有三句话，围绕“龟类面临威胁一 因此开展保护一项目十分成功”这个思路，分别用一句话进行说明，段意非常明确清晰，正确答案为viii。\n\n题号：4\n\n参考译文：时机正确的重要性\n\n定位词：importance, timing, right\n\nD段：本段与C段-样只有三句话，要准确理解大意并不困难，其中与主旨大意息息相关的第二句话语法结构略显复杂，关于此句的详细解释，可以参见前文中“佳句赏析”的第三句。此句大意为:此类龟必须长到至少五岁才适合放归:而段落后一句又紧接着说,然而等太久了也不再适合放归,因此正确答案为i:放归的时机非常重要。正确为本段选择大意的难点其实在于答案选项中的timing一词。许多考生虽然认识time表示“时间”的意思，却对稍加变化成为timing表示“时机\"的用法比较陌生，从而可能导致因为无法准确理解选项而做不出正确选择。\n\n题号：5\n\n参考译文：策划一个更宏大的理念\n\n定位词：planning, bigger idea\n\nE段：本段的第一句话先交代从前的放归方法纯靠人工，第二句则话锋一转引人了几人开始策划一个更为宏图大志的计划。前后两句构成了典型的过渡衔接关系。其中直接对应本段旨的第二句话结构也略复杂，具体解析可参见前文中“佳句赏析”的第四句。正确选项为iv。\n\n题号：6\n\n参考译文：展开一场经过仔细准备的行动\n\n定位词：carry out, carefully prepared\n\nF段：本段虽然篇幅较长，但第一句句首的This一词便即点出了：此段是在延续上一段中的话头，继续详细描述上一段里“更为宏图大志的计划”；加之经过前面五段的选择后，选项中只剩下三个备选项。对考生来说，无论是在大致看懂的基础上，还是稍加运用排除法，要选出正确答案vi项都应当不是难事。\n\n题号：7\n\n参考译文：青年遇上老者\n\n定位词：young, old\n\nG段:本段篇幅既短，内容也不艰深。考生即使不认识juvenile这个词汇，也应当可文中对应点 以从段中出现的ancestral“祖先的”、 tiny “体型小的\"、fully grown“完全长成的”、giant“体型巨大的\"这些词汇看出对应，正确选出答案项为ii。",
+          "promptHtml": "Gap 4 (see above)"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Gap 5 (see above)",
+          "answers": [
+            "iv"
+          ],
+          "sourceCode": "Q6748_646422",
+          "explanation": "题号：1\n\n参考译文：龟类在群岛上定居繁衍\n\n定位词：populate, islands\n\nA段：本段篇幅比较长，如果考生只想简单套用“看开头结尾”的找段落主旨方法，则可能未必能够抓住段落大意。实则本段的前三句话都是在描述地理环境，而第四句则点出本段中心：这样一个环境是岛上龟类的家园。段落的后半部分继而简短追溯了龟来此定居的发展历史。正确选项为v。\n\n针对这种段落包含许多句子的情况，考生应抓住“段落主旨题”的本质特点，即“考查大意理解而非细节辨析”，阅读时着重寻找每个句子的主干部分，略读定语从句、状语从句等细节修饰部分，即可在准确理解文意的基础上同时有效提升阅读速度，达到双赢。\n\n题号：2\n\n参考译文：各种事态发展不利于龟群\n\n定位词：developments, disadvantage\n\nB段：本段的篇幅与A段类似，包含很多句子信息，但格式规整。第一句先交代人类到来之前龟类数量繁多，从第二句直至末句都是并列关系的排比信息，列举了种种人类活动对龟产生的有害影响。由于本段中还密集出现了文章的第二个题型：细节填空题，因此考生对此段内容的阅读必然是相对精细的;在理解了全段意思的基础上，要选出正确答案项应当不是难事。\n\n题号：3\n\n参考译文：保护项目的开启\n\n定位词：start, conservation, project\n\nC段：本段-共只有三句话，围绕“龟类面临威胁一 因此开展保护一项目十分成功”这个思路，分别用一句话进行说明，段意非常明确清晰，正确答案为viii。\n\n题号：4\n\n参考译文：时机正确的重要性\n\n定位词：importance, timing, right\n\nD段：本段与C段-样只有三句话，要准确理解大意并不困难，其中与主旨大意息息相关的第二句话语法结构略显复杂，关于此句的详细解释，可以参见前文中“佳句赏析”的第三句。此句大意为:此类龟必须长到至少五岁才适合放归:而段落后一句又紧接着说,然而等太久了也不再适合放归,因此正确答案为i:放归的时机非常重要。正确为本段选择大意的难点其实在于答案选项中的timing一词。许多考生虽然认识time表示“时间”的意思，却对稍加变化成为timing表示“时机\"的用法比较陌生，从而可能导致因为无法准确理解选项而做不出正确选择。\n\n题号：5\n\n参考译文：策划一个更宏大的理念\n\n定位词：planning, bigger idea\n\nE段：本段的第一句话先交代从前的放归方法纯靠人工，第二句则话锋一转引人了几人开始策划一个更为宏图大志的计划。前后两句构成了典型的过渡衔接关系。其中直接对应本段旨的第二句话结构也略复杂，具体解析可参见前文中“佳句赏析”的第四句。正确选项为iv。\n\n题号：6\n\n参考译文：展开一场经过仔细准备的行动\n\n定位词：carry out, carefully prepared\n\nF段：本段虽然篇幅较长，但第一句句首的This一词便即点出了：此段是在延续上一段中的话头，继续详细描述上一段里“更为宏图大志的计划”；加之经过前面五段的选择后，选项中只剩下三个备选项。对考生来说，无论是在大致看懂的基础上，还是稍加运用排除法，要选出正确答案vi项都应当不是难事。\n\n题号：7\n\n参考译文：青年遇上老者\n\n定位词：young, old\n\nG段:本段篇幅既短，内容也不艰深。考生即使不认识juvenile这个词汇，也应当可文中对应点 以从段中出现的ancestral“祖先的”、 tiny “体型小的\"、fully grown“完全长成的”、giant“体型巨大的\"这些词汇看出对应，正确选出答案项为ii。",
+          "promptHtml": "Gap 5 (see above)"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Gap 6 (see above)",
+          "answers": [
+            "vi"
+          ],
+          "sourceCode": "Q6748_977180",
+          "explanation": "题号：1\n\n参考译文：龟类在群岛上定居繁衍\n\n定位词：populate, islands\n\nA段：本段篇幅比较长，如果考生只想简单套用“看开头结尾”的找段落主旨方法，则可能未必能够抓住段落大意。实则本段的前三句话都是在描述地理环境，而第四句则点出本段中心：这样一个环境是岛上龟类的家园。段落的后半部分继而简短追溯了龟来此定居的发展历史。正确选项为v。\n\n针对这种段落包含许多句子的情况，考生应抓住“段落主旨题”的本质特点，即“考查大意理解而非细节辨析”，阅读时着重寻找每个句子的主干部分，略读定语从句、状语从句等细节修饰部分，即可在准确理解文意的基础上同时有效提升阅读速度，达到双赢。\n\n题号：2\n\n参考译文：各种事态发展不利于龟群\n\n定位词：developments, disadvantage\n\nB段：本段的篇幅与A段类似，包含很多句子信息，但格式规整。第一句先交代人类到来之前龟类数量繁多，从第二句直至末句都是并列关系的排比信息，列举了种种人类活动对龟产生的有害影响。由于本段中还密集出现了文章的第二个题型：细节填空题，因此考生对此段内容的阅读必然是相对精细的;在理解了全段意思的基础上，要选出正确答案项应当不是难事。\n\n题号：3\n\n参考译文：保护项目的开启\n\n定位词：start, conservation, project\n\nC段：本段-共只有三句话，围绕“龟类面临威胁一 因此开展保护一项目十分成功”这个思路，分别用一句话进行说明，段意非常明确清晰，正确答案为viii。\n\n题号：4\n\n参考译文：时机正确的重要性\n\n定位词：importance, timing, right\n\nD段：本段与C段-样只有三句话，要准确理解大意并不困难，其中与主旨大意息息相关的第二句话语法结构略显复杂，关于此句的详细解释，可以参见前文中“佳句赏析”的第三句。此句大意为:此类龟必须长到至少五岁才适合放归:而段落后一句又紧接着说,然而等太久了也不再适合放归,因此正确答案为i:放归的时机非常重要。正确为本段选择大意的难点其实在于答案选项中的timing一词。许多考生虽然认识time表示“时间”的意思，却对稍加变化成为timing表示“时机\"的用法比较陌生，从而可能导致因为无法准确理解选项而做不出正确选择。\n\n题号：5\n\n参考译文：策划一个更宏大的理念\n\n定位词：planning, bigger idea\n\nE段：本段的第一句话先交代从前的放归方法纯靠人工，第二句则话锋一转引人了几人开始策划一个更为宏图大志的计划。前后两句构成了典型的过渡衔接关系。其中直接对应本段旨的第二句话结构也略复杂，具体解析可参见前文中“佳句赏析”的第四句。正确选项为iv。\n\n题号：6\n\n参考译文：展开一场经过仔细准备的行动\n\n定位词：carry out, carefully prepared\n\nF段：本段虽然篇幅较长，但第一句句首的This一词便即点出了：此段是在延续上一段中的话头，继续详细描述上一段里“更为宏图大志的计划”；加之经过前面五段的选择后，选项中只剩下三个备选项。对考生来说，无论是在大致看懂的基础上，还是稍加运用排除法，要选出正确答案vi项都应当不是难事。\n\n题号：7\n\n参考译文：青年遇上老者\n\n定位词：young, old\n\nG段:本段篇幅既短，内容也不艰深。考生即使不认识juvenile这个词汇，也应当可文中对应点 以从段中出现的ancestral“祖先的”、 tiny “体型小的\"、fully grown“完全长成的”、giant“体型巨大的\"这些词汇看出对应，正确选出答案项为ii。",
+          "promptHtml": "Gap 6 (see above)"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Gap 7 (see above)",
+          "answers": [
+            "ii"
+          ],
+          "sourceCode": "Q6748_389322",
+          "explanation": "题号：1\n\n参考译文：龟类在群岛上定居繁衍\n\n定位词：populate, islands\n\nA段：本段篇幅比较长，如果考生只想简单套用“看开头结尾”的找段落主旨方法，则可能未必能够抓住段落大意。实则本段的前三句话都是在描述地理环境，而第四句则点出本段中心：这样一个环境是岛上龟类的家园。段落的后半部分继而简短追溯了龟来此定居的发展历史。正确选项为v。\n\n针对这种段落包含许多句子的情况，考生应抓住“段落主旨题”的本质特点，即“考查大意理解而非细节辨析”，阅读时着重寻找每个句子的主干部分，略读定语从句、状语从句等细节修饰部分，即可在准确理解文意的基础上同时有效提升阅读速度，达到双赢。\n\n题号：2\n\n参考译文：各种事态发展不利于龟群\n\n定位词：developments, disadvantage\n\nB段：本段的篇幅与A段类似，包含很多句子信息，但格式规整。第一句先交代人类到来之前龟类数量繁多，从第二句直至末句都是并列关系的排比信息，列举了种种人类活动对龟产生的有害影响。由于本段中还密集出现了文章的第二个题型：细节填空题，因此考生对此段内容的阅读必然是相对精细的;在理解了全段意思的基础上，要选出正确答案项应当不是难事。\n\n题号：3\n\n参考译文：保护项目的开启\n\n定位词：start, conservation, project\n\nC段：本段-共只有三句话，围绕“龟类面临威胁一 因此开展保护一项目十分成功”这个思路，分别用一句话进行说明，段意非常明确清晰，正确答案为viii。\n\n题号：4\n\n参考译文：时机正确的重要性\n\n定位词：importance, timing, right\n\nD段：本段与C段-样只有三句话，要准确理解大意并不困难，其中与主旨大意息息相关的第二句话语法结构略显复杂，关于此句的详细解释，可以参见前文中“佳句赏析”的第三句。此句大意为:此类龟必须长到至少五岁才适合放归:而段落后一句又紧接着说,然而等太久了也不再适合放归,因此正确答案为i:放归的时机非常重要。正确为本段选择大意的难点其实在于答案选项中的timing一词。许多考生虽然认识time表示“时间”的意思，却对稍加变化成为timing表示“时机\"的用法比较陌生，从而可能导致因为无法准确理解选项而做不出正确选择。\n\n题号：5\n\n参考译文：策划一个更宏大的理念\n\n定位词：planning, bigger idea\n\nE段：本段的第一句话先交代从前的放归方法纯靠人工，第二句则话锋一转引人了几人开始策划一个更为宏图大志的计划。前后两句构成了典型的过渡衔接关系。其中直接对应本段旨的第二句话结构也略复杂，具体解析可参见前文中“佳句赏析”的第四句。正确选项为iv。\n\n题号：6\n\n参考译文：展开一场经过仔细准备的行动\n\n定位词：carry out, carefully prepared\n\nF段：本段虽然篇幅较长，但第一句句首的This一词便即点出了：此段是在延续上一段中的话头，继续详细描述上一段里“更为宏图大志的计划”；加之经过前面五段的选择后，选项中只剩下三个备选项。对考生来说，无论是在大致看懂的基础上，还是稍加运用排除法，要选出正确答案vi项都应当不是难事。\n\n题号：7\n\n参考译文：青年遇上老者\n\n定位词：young, old\n\nG段:本段篇幅既短，内容也不艰深。考生即使不认识juvenile这个词汇，也应当可文中对应点 以从段中出现的ancestral“祖先的”、 tiny “体型小的\"、fully grown“完全长成的”、giant“体型巨大的\"这些词汇看出对应，正确选出答案项为ii。",
+          "promptHtml": "Gap 7 (see above)"
+        }
+      ],
+      "sourceType": "paragraph_main",
+      "sourceContentTypes": [
+        "311"
+      ],
+      "options": [
+        {
+          "value": "i",
+          "text": "The importance of getting the timing right"
+        },
+        {
+          "value": "ii",
+          "text": "Young meets old"
+        },
+        {
+          "value": "iii",
+          "text": "Developments to the disadvantage of tortoise populations"
+        },
+        {
+          "value": "iv",
+          "text": "Planning a bigger idea"
+        },
+        {
+          "value": "v",
+          "text": "Tortoises populate the islands"
+        },
+        {
+          "value": "vi",
+          "text": "Carrying out a carefully prepared operation"
+        },
+        {
+          "value": "vii",
+          "text": "Looking for a home for the islands' tortoises"
+        },
+        {
+          "value": "viii",
+          "text": "The start of the conservation project"
+        }
+      ],
+      "contextHtml": ""
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 8-13\n\nComplete the sentences.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "17th century: small numbers taken onto ships used by [8] ______",
+          "answers": [
+            "pirates"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6748_722029",
+          "explanation": "题号：8\n\n定位词：17th century small numbers, by\n\nB 段第二句：From the 17th century onwards,numbers, pirates took a few on board for by food, but...\n\n此题可依靠“17世纪”这个易辨数字直接定位到B段的第二句话。分析题干可知，问的是少量龟被什么人带上船使用，对比原文可知，答案为pirates。\n\n题号：9\n\n定位词：1790s, very large numbers, whaling ships\n\nB段第二至三句：...but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water,the tortoises were taken on board these ships to act as food supplies during long ocean passages.\n\n此题也可用“1790s”这个信息直接定位，但读过包含此数字的B段第二句可知，捕鲸船捕龟的数量大幅度上涨，但并未说明捉龟何用。按照行文顺序读下一句可知，这些龟不爱动又能不吃不喝活很久，因此被带上船是为了在漫长的航程里充当食物供给，因此答案为food。\n\n题号：10\n\n定位词：also, produce\n\nB段第四句：Sometimes, their bodies were processed into high-grade oil.\n\n此题虽与上一题共用“1790s“这个定位词，但在第二和第三句中并未提及龟类除充当食物外还有其他什么用途。考生只需依照行文顺序继续向下阅读，可知这些龟的身体有时还能被加工成高质量的油脂，答案为oil。\n\n题号：11\n\n定位词：hunted by\n\nB段第六和七句：This historical exploitation was then exacerbated when settlers came to the islands. They hunted the\n\ntortoises and destroyed their habitat to clear land for agriculture.\n\n此题可直接利用hunt一词定位到第七句里，“他们猎捕这些龟”；然而此处的“他们”到底指代何人，则还需向前一句寻找。所幸考生只需按照这个正确逻辑依次阅读，即可定位到答案为来到群岛上的settlers。\n\n题号：12\n\n定位词：habitat destruction, by, not native\n\nB段最后两句：They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题用habitat destruction这个分类小标题定位到B段的倒数第二句并不难，但本句里并未提及其他并非本岛土生土长生物的信息。此题的定位难点在于下一句中对于一些考生可能略显生僻的alien一词，指“外星的\"或“外来的，陌生的\" ,认知此词义即可顺利对应于题干所说的not native,答案为species。\n\n题号：13\n\n定位词：Fed on, baby tortoises, and\n\nB段最后一句：They also introduced alien species- ranging from cattle, pigs, goats,rats and dogs to plants and ants -that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题的定位紧跟上一题，题干中的baby tortoises可对应于原文中的young tortoises，这样一来即使考生并不认识题干中fed on这|个词组对应于原文中的prey on词组，也可借助排除法得出答案为eggs。",
+          "promptHtml": "17th century: small numbers taken onto ships used by [8] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "food"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6748_353722",
+          "explanation": "题号：8\n\n定位词：17th century small numbers, by\n\nB 段第二句：From the 17th century onwards,numbers, pirates took a few on board for by food, but...\n\n此题可依靠“17世纪”这个易辨数字直接定位到B段的第二句话。分析题干可知，问的是少量龟被什么人带上船使用，对比原文可知，答案为pirates。\n\n题号：9\n\n定位词：1790s, very large numbers, whaling ships\n\nB段第二至三句：...but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water,the tortoises were taken on board these ships to act as food supplies during long ocean passages.\n\n此题也可用“1790s”这个信息直接定位，但读过包含此数字的B段第二句可知，捕鲸船捕龟的数量大幅度上涨，但并未说明捉龟何用。按照行文顺序读下一句可知，这些龟不爱动又能不吃不喝活很久，因此被带上船是为了在漫长的航程里充当食物供给，因此答案为food。\n\n题号：10\n\n定位词：also, produce\n\nB段第四句：Sometimes, their bodies were processed into high-grade oil.\n\n此题虽与上一题共用“1790s“这个定位词，但在第二和第三句中并未提及龟类除充当食物外还有其他什么用途。考生只需依照行文顺序继续向下阅读，可知这些龟的身体有时还能被加工成高质量的油脂，答案为oil。\n\n题号：11\n\n定位词：hunted by\n\nB段第六和七句：This historical exploitation was then exacerbated when settlers came to the islands. They hunted the\n\ntortoises and destroyed their habitat to clear land for agriculture.\n\n此题可直接利用hunt一词定位到第七句里，“他们猎捕这些龟”；然而此处的“他们”到底指代何人，则还需向前一句寻找。所幸考生只需按照这个正确逻辑依次阅读，即可定位到答案为来到群岛上的settlers。\n\n题号：12\n\n定位词：habitat destruction, by, not native\n\nB段最后两句：They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题用habitat destruction这个分类小标题定位到B段的倒数第二句并不难，但本句里并未提及其他并非本岛土生土长生物的信息。此题的定位难点在于下一句中对于一些考生可能略显生僻的alien一词，指“外星的\"或“外来的，陌生的\" ,认知此词义即可顺利对应于题干所说的not native,答案为species。\n\n题号：13\n\n定位词：Fed on, baby tortoises, and\n\nB段最后一句：They also introduced alien species- ranging from cattle, pigs, goats,rats and dogs to plants and ants -that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题的定位紧跟上一题，题干中的baby tortoises可对应于原文中的young tortoises，这样一来即使考生并不认识题干中fed on这|个词组对应于原文中的prey on词组，也可借助排除法得出答案为eggs。",
+          "promptHtml": "Answer for gap 9."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Answer for gap 10.",
+          "answers": [
+            "oil"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6748_603119",
+          "explanation": "题号：8\n\n定位词：17th century small numbers, by\n\nB 段第二句：From the 17th century onwards,numbers, pirates took a few on board for by food, but...\n\n此题可依靠“17世纪”这个易辨数字直接定位到B段的第二句话。分析题干可知，问的是少量龟被什么人带上船使用，对比原文可知，答案为pirates。\n\n题号：9\n\n定位词：1790s, very large numbers, whaling ships\n\nB段第二至三句：...but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water,the tortoises were taken on board these ships to act as food supplies during long ocean passages.\n\n此题也可用“1790s”这个信息直接定位，但读过包含此数字的B段第二句可知，捕鲸船捕龟的数量大幅度上涨，但并未说明捉龟何用。按照行文顺序读下一句可知，这些龟不爱动又能不吃不喝活很久，因此被带上船是为了在漫长的航程里充当食物供给，因此答案为food。\n\n题号：10\n\n定位词：also, produce\n\nB段第四句：Sometimes, their bodies were processed into high-grade oil.\n\n此题虽与上一题共用“1790s“这个定位词，但在第二和第三句中并未提及龟类除充当食物外还有其他什么用途。考生只需依照行文顺序继续向下阅读，可知这些龟的身体有时还能被加工成高质量的油脂，答案为oil。\n\n题号：11\n\n定位词：hunted by\n\nB段第六和七句：This historical exploitation was then exacerbated when settlers came to the islands. They hunted the\n\ntortoises and destroyed their habitat to clear land for agriculture.\n\n此题可直接利用hunt一词定位到第七句里，“他们猎捕这些龟”；然而此处的“他们”到底指代何人，则还需向前一句寻找。所幸考生只需按照这个正确逻辑依次阅读，即可定位到答案为来到群岛上的settlers。\n\n题号：12\n\n定位词：habitat destruction, by, not native\n\nB段最后两句：They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题用habitat destruction这个分类小标题定位到B段的倒数第二句并不难，但本句里并未提及其他并非本岛土生土长生物的信息。此题的定位难点在于下一句中对于一些考生可能略显生僻的alien一词，指“外星的\"或“外来的，陌生的\" ,认知此词义即可顺利对应于题干所说的not native,答案为species。\n\n题号：13\n\n定位词：Fed on, baby tortoises, and\n\nB段最后一句：They also introduced alien species- ranging from cattle, pigs, goats,rats and dogs to plants and ants -that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题的定位紧跟上一题，题干中的baby tortoises可对应于原文中的young tortoises，这样一来即使考生并不认识题干中fed on这|个词组对应于原文中的prey on词组，也可借助排除法得出答案为eggs。",
+          "promptHtml": "Answer for gap 10."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Hunted by [11] ______on the islands",
+          "answers": [
+            "settlers"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6748_644144",
+          "explanation": "题号：8\n\n定位词：17th century small numbers, by\n\nB 段第二句：From the 17th century onwards,numbers, pirates took a few on board for by food, but...\n\n此题可依靠“17世纪”这个易辨数字直接定位到B段的第二句话。分析题干可知，问的是少量龟被什么人带上船使用，对比原文可知，答案为pirates。\n\n题号：9\n\n定位词：1790s, very large numbers, whaling ships\n\nB段第二至三句：...but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water,the tortoises were taken on board these ships to act as food supplies during long ocean passages.\n\n此题也可用“1790s”这个信息直接定位，但读过包含此数字的B段第二句可知，捕鲸船捕龟的数量大幅度上涨，但并未说明捉龟何用。按照行文顺序读下一句可知，这些龟不爱动又能不吃不喝活很久，因此被带上船是为了在漫长的航程里充当食物供给，因此答案为food。\n\n题号：10\n\n定位词：also, produce\n\nB段第四句：Sometimes, their bodies were processed into high-grade oil.\n\n此题虽与上一题共用“1790s“这个定位词，但在第二和第三句中并未提及龟类除充当食物外还有其他什么用途。考生只需依照行文顺序继续向下阅读，可知这些龟的身体有时还能被加工成高质量的油脂，答案为oil。\n\n题号：11\n\n定位词：hunted by\n\nB段第六和七句：This historical exploitation was then exacerbated when settlers came to the islands. They hunted the\n\ntortoises and destroyed their habitat to clear land for agriculture.\n\n此题可直接利用hunt一词定位到第七句里，“他们猎捕这些龟”；然而此处的“他们”到底指代何人，则还需向前一句寻找。所幸考生只需按照这个正确逻辑依次阅读，即可定位到答案为来到群岛上的settlers。\n\n题号：12\n\n定位词：habitat destruction, by, not native\n\nB段最后两句：They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题用habitat destruction这个分类小标题定位到B段的倒数第二句并不难，但本句里并未提及其他并非本岛土生土长生物的信息。此题的定位难点在于下一句中对于一些考生可能略显生僻的alien一词，指“外星的\"或“外来的，陌生的\" ,认知此词义即可顺利对应于题干所说的not native,答案为species。\n\n题号：13\n\n定位词：Fed on, baby tortoises, and\n\nB段最后一句：They also introduced alien species- ranging from cattle, pigs, goats,rats and dogs to plants and ants -that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题的定位紧跟上一题，题干中的baby tortoises可对应于原文中的young tortoises，这样一来即使考生并不认识题干中fed on这|个词组对应于原文中的prey on词组，也可借助排除法得出答案为eggs。",
+          "promptHtml": "Hunted by [11] ______on the islands"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Answer for gap 12.",
+          "answers": [
+            "species"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6748_181407",
+          "explanation": "题号：8\n\n定位词：17th century small numbers, by\n\nB 段第二句：From the 17th century onwards,numbers, pirates took a few on board for by food, but...\n\n此题可依靠“17世纪”这个易辨数字直接定位到B段的第二句话。分析题干可知，问的是少量龟被什么人带上船使用，对比原文可知，答案为pirates。\n\n题号：9\n\n定位词：1790s, very large numbers, whaling ships\n\nB段第二至三句：...but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water,the tortoises were taken on board these ships to act as food supplies during long ocean passages.\n\n此题也可用“1790s”这个信息直接定位，但读过包含此数字的B段第二句可知，捕鲸船捕龟的数量大幅度上涨，但并未说明捉龟何用。按照行文顺序读下一句可知，这些龟不爱动又能不吃不喝活很久，因此被带上船是为了在漫长的航程里充当食物供给，因此答案为food。\n\n题号：10\n\n定位词：also, produce\n\nB段第四句：Sometimes, their bodies were processed into high-grade oil.\n\n此题虽与上一题共用“1790s“这个定位词，但在第二和第三句中并未提及龟类除充当食物外还有其他什么用途。考生只需依照行文顺序继续向下阅读，可知这些龟的身体有时还能被加工成高质量的油脂，答案为oil。\n\n题号：11\n\n定位词：hunted by\n\nB段第六和七句：This historical exploitation was then exacerbated when settlers came to the islands. They hunted the\n\ntortoises and destroyed their habitat to clear land for agriculture.\n\n此题可直接利用hunt一词定位到第七句里，“他们猎捕这些龟”；然而此处的“他们”到底指代何人，则还需向前一句寻找。所幸考生只需按照这个正确逻辑依次阅读，即可定位到答案为来到群岛上的settlers。\n\n题号：12\n\n定位词：habitat destruction, by, not native\n\nB段最后两句：They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题用habitat destruction这个分类小标题定位到B段的倒数第二句并不难，但本句里并未提及其他并非本岛土生土长生物的信息。此题的定位难点在于下一句中对于一些考生可能略显生僻的alien一词，指“外星的\"或“外来的，陌生的\" ,认知此词义即可顺利对应于题干所说的not native,答案为species。\n\n题号：13\n\n定位词：Fed on, baby tortoises, and\n\nB段最后一句：They also introduced alien species- ranging from cattle, pigs, goats,rats and dogs to plants and ants -that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题的定位紧跟上一题，题干中的baby tortoises可对应于原文中的young tortoises，这样一来即使考生并不认识题干中fed on这|个词组对应于原文中的prey on词组，也可借助排除法得出答案为eggs。",
+          "promptHtml": "Answer for gap 12."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Answer for gap 13.",
+          "answers": [
+            "eggs"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6748_322272",
+          "explanation": "题号：8\n\n定位词：17th century small numbers, by\n\nB 段第二句：From the 17th century onwards,numbers, pirates took a few on board for by food, but...\n\n此题可依靠“17世纪”这个易辨数字直接定位到B段的第二句话。分析题干可知，问的是少量龟被什么人带上船使用，对比原文可知，答案为pirates。\n\n题号：9\n\n定位词：1790s, very large numbers, whaling ships\n\nB段第二至三句：...but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water,the tortoises were taken on board these ships to act as food supplies during long ocean passages.\n\n此题也可用“1790s”这个信息直接定位，但读过包含此数字的B段第二句可知，捕鲸船捕龟的数量大幅度上涨，但并未说明捉龟何用。按照行文顺序读下一句可知，这些龟不爱动又能不吃不喝活很久，因此被带上船是为了在漫长的航程里充当食物供给，因此答案为food。\n\n题号：10\n\n定位词：also, produce\n\nB段第四句：Sometimes, their bodies were processed into high-grade oil.\n\n此题虽与上一题共用“1790s“这个定位词，但在第二和第三句中并未提及龟类除充当食物外还有其他什么用途。考生只需依照行文顺序继续向下阅读，可知这些龟的身体有时还能被加工成高质量的油脂，答案为oil。\n\n题号：11\n\n定位词：hunted by\n\nB段第六和七句：This historical exploitation was then exacerbated when settlers came to the islands. They hunted the\n\ntortoises and destroyed their habitat to clear land for agriculture.\n\n此题可直接利用hunt一词定位到第七句里，“他们猎捕这些龟”；然而此处的“他们”到底指代何人，则还需向前一句寻找。所幸考生只需按照这个正确逻辑依次阅读，即可定位到答案为来到群岛上的settlers。\n\n题号：12\n\n定位词：habitat destruction, by, not native\n\nB段最后两句：They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题用habitat destruction这个分类小标题定位到B段的倒数第二句并不难，但本句里并未提及其他并非本岛土生土长生物的信息。此题的定位难点在于下一句中对于一些考生可能略显生僻的alien一词，指“外星的\"或“外来的，陌生的\" ,认知此词义即可顺利对应于题干所说的not native,答案为species。\n\n题号：13\n\n定位词：Fed on, baby tortoises, and\n\nB段最后一句：They also introduced alien species- ranging from cattle, pigs, goats,rats and dogs to plants and ants -that either prey on the eggs and young tortoises or damage or destroy their habitat.\n\n此题的定位紧跟上一题，题干中的baby tortoises可对应于原文中的young tortoises，这样一来即使考生并不认识题干中fed on这|个词组对应于原文中的prey on词组，也可借助排除法得出答案为eggs。",
+          "promptHtml": "Answer for gap 13."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<ul>\n\t<li>Originally from mainland South America</li>\n\t<li>Numbers on Galápagos islands increased, due to lack of predators</li>\n\t<li>17th century: small numbers taken onto ships used by <strong>[8] ______</strong></li>\n\t<li>1790s: very large numbers taken onto whaling ships, kept for <strong>[9] ______</strong>and also used to produce <strong>[10] ______</strong></li>\n\t<li>Hunted by <strong>[11] ______</strong>on the islands</li>\n\t<li>Habitat destruction: for the establishment of agriculture and by various <strong>[12] ______</strong>not native to the islands, which also fed on baby tortoises and tortoises&#x27; <strong>[13] ______</strong></li>\n</ul>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Flying tortoises</strong></span></p><p><em>An airborne reintroduction programme has helped conservationists take significant steps to protect the endangered Galápagos tortoise.</em></p><span>1<strong>[1] ______</strong></span><br><p><strong>A</strong>    Forests of spiny cacti cover much of the uneven lava plains that separate the interior of the Galápagos island of Isabela from the Pacific Ocean. With its five distinct volcanoes, the island resembles a lunar landscape. Only the thick vegetation at the skirt of the often cloud-covered peak of Sierra Negra offers respite from the barren terrain below. This inhospitable environment is home to the giant Galápagos tortoise. Some time after the Galápagos&#x27;s birth, around five million years ago, the islands were colonised by one or more tortoises from mainland South America. As these ancestral tortoises settled on the individual islands, the different populations adapted to their unique environments, giving rise to at least 14 different subspecies. Island life agreed with them. In the absence of significant predators, they grew to become the largest and longest-living tortoises on the planet, weighing more than 400 kilograms, occasionally exceeding 1.8 metres in length and living for more than a century.</p><span>2<strong>[2] ______</strong></span><br><p><strong>B </strong>   Before human arrival, the archipelago&#x27;s tortoises numbered in the hundreds of thousands. From the 17th century onwards, pirates took a few on board for food, but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water, the tortoises were taken on board these ships to act as food supplies during long ocean passages. Sometimes, their bodies were processed into high-grade oil. In total, an estimated 200,000 animals were taken from the archipelago before the 20th century. This historical exploitation was then exacerbated when settlers came to the islands. They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species - ranging from cattle, pigs, goats, rats and dogs to plants and ants - that either prey on the eggs and young tortoises or damage or destroy their habitat.</p><span>3<strong>[3] ______</strong></span><br><p><strong>C</strong>    Today, only 11 of the original subspecies survive and of these, several are highly endangered. In 1989, work began on a tortoise-breeding centre just outside the town of Puerto Villamil on Isabela, dedicated to protecting the island&#x27;s tortoise populations. The centre&#x27;s captive-breeding programme proved to be extremely successful, and it eventually had to deal with an overpopulation problem.</p><span>4<strong>[4] ______</strong></span><br><p><strong>D </strong>   The problem was also a pressing one. Captive-bred tortoises can&#x27;t be reintroduced into the wild until they&#x27;re at least five years old and weigh at least 4.5 kilograms, at which point their size and weight - and their hardened shells - are sufficient to protect them from predators. But if people wait too long after that point, the tortoises eventually become too large to transport.</p><span>5<strong>[5] ______</strong></span><br><p><strong>E</strong>    For years, repatriation efforts were carried out in small numbers, with the tortoises carried on the backs of men over weeks of long, treacherous hikes along narrow trails. But in November 2010, the environmentalist and Galápagos National Park liaison officer Godfrey Merlin, a visiting private motor yacht captain and a helicopter pilot gathered around a table in a small cafe in Puerto Ayora on the island of Santa Cruz to work out more ambitious reintroduction. The aim was to use a helicopter to move 300 of the breeding centre&#x27;s tortoises to various locations close to Sierra Negra.</p><span>6<strong>[6] ______</strong></span><br><p><strong>F </strong>   This unprecedented effort was made possible by the owners of the 67-metre yacht White Cloud, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, as well as the logistical support of the yacht, its captain and crew. Originally an air ambulance, the yacht&#x27;s helicopter has a rear double door and a large internal space that&#x27;s well suited for cargo, so a custom crate was designed to hold up to 33 tortoises with a total weight of about 150 kilograms. This weight, together with that of the fuel, pilot and four crew, approached the helicopter&#x27;s maximum payload, and there were times when it was clearly right on the edge of the helicopter&#x27;s capabilities. During a period of three days, a group of volunteers from the breeding centre worked around the clock to prepare the young tortoises for transport. Meanwhile, park wardens, dropped off ahead of time in remote locations, cleared landing sites within the thick brush, cacti and lava rocks.</p><span>7<strong>[7] ______</strong></span><br><p><strong>G </strong>   Upon their release, the juvenile tortoises quickly spread out over their ancestral territory, investigating their new surroundings and feeding on the vegetation. Eventually, one tiny tortoise came across a fully grown giant who had been lumbering around the island for around a hundred years. The two stood side by side, a powerful symbol of the regeneration of an ancient species.</p>"
+}

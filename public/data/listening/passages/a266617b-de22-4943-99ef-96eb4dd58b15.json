@@ -1,0 +1,298 @@
+{
+  "id": "a266617b-de22-4943-99ef-96eb4dd58b15",
+  "title": "The greater honeyguide bird",
+  "titleCn": "响蜜鴷鸟与非洲采蜜人合作",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/a266617b-de22-4943-99ef-96eb4dd58b15",
+  "duration": 382,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,480"
+    },
+    {
+      "label": "2",
+      "text": "I've spent the last eight years studying the species in Southern Africa with the Yao community in the Niassa Reserve in Mozambique. The birds do help local hunters find wild beehives. The male bird is recognizable by its pink beak, black throat, and yellow shoulder patch. The female has a black beak and a duller color, while the young birds have a distinctive yellow throat and a noticeable ring around the eye. The collaborative arrangement between hunters and greater honeyguides was first documented as early as fifteen eighty-eight. But only in our most recent study have we realized the extent to which birds and humans communicate. The reason this relationship has developed is because the trees in the Niassa Reserve, therefore the hives are especially high, sometimes up to thirty meters, which makes them very hard to find. The birds locate the beehives stashed away in holes in trees, which the hunters then access in order to make off with the pure sticky honey inside. But they also leave something behind for the greater honeyguides. They are among the few bird species that can eat and digest wax in this way. The interaction between humans and birds benefits both parties. The relationship between the greater honeyguide and the hunters in Mozambique remains very strong. The Yao community considers their communication with the greater honeyguide to be part of their identity. But in some countries outside Mozambique, villagers are now turning more to farming and keeping their own hives, which has led to the role of the bird in honey collection growing smaller."
+    },
+    {
+      "label": "3",
+      "text": "00:01:49,940"
+    },
+    {
+      "label": "4",
+      "text": "The phenomenon of the greater honeyguides and the honey hunters is really quite remarkable. This level of complex communication is otherwise unheard of in nature. In fact, what we found with these greater honeyguides is the only known example of targeted two-way communication between people and a free-living species. The most remarkable thing about this relationship is the signals people use to communicate with the greater honeyguides. But how do the birds learn to work with people? Well, we believe the behavior is innate. The birds inherit the knowledge and then refine it to match their region as they grow. In different parts of the world, they learn to respond to different sounds made by humans. When the Yao people are ready to hunt, they make a specific noise by unrolling their tongues in a particular way to let the greater honeyguides know. In Tanzania, on the other hand, greater honeyguides listen for a whistle as a sign to begin hunting. While in Zambia, the sound of chopping wood is the cue. The methods used for gathering honey in the Niassa Reserve are actually no different from those used by most beekeepers around the world. In order to relax the bees and make the process less chaotic, smoke is blown into the hive. Although the basic procedure is the same, the conditions that the hunters work in are a lot more difficult. Besides the obvious risk of being stung by angry bees, the hunters must also be wary of being trampled to death by elephants. There is also the risk of injury involved in climbing up to get to the hives. A less serious problem with this style of honey hunting is that the hunters are often required to travel large distances and carry buckets weighed down with honey back to the village, which is not an easy task. The honey eaten in the Yao community is wildly different from the honey you buy at the grocery store, which has usually been collected from several different colonies mixed together and boiled down to become sweeter. The raw honey from the hives in Mozambique has a strong flavor that almost stings your throat. Raw honey draws its flavor from both the type of bees and the plants from which it is made to form a distinct taste. And there are hundreds of quite unique varieties of honey."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "fff71c41-3a8c-48f4-997a-f641e242118b",
+          "prompt": "**The Greater Honeyguide Bird**\n\n**The bird**\n· The greater honeyguide bird helps local hunters to locate beehives.\n· Males have a pink beak and a yellow patch on the **31**_____ while females have less bright color.",
+          "answers": [
+            "shoulder"
+          ],
+          "rawAnswer": "shoulder",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The male bird is recognizable by its pink beak, black throat, and yellow shoulder patch"
+          },
+          "keywordPairs": [
+            {
+              "question": "less bright",
+              "article": "duller"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "15da77e2-d7f4-40d9-865c-0fcc5f7154fc",
+          "prompt": "· Young birds look different, with a prominent **32**_____ that surrounds the eye",
+          "answers": [
+            "ring"
+          ],
+          "rawAnswer": "ring",
+          "evidence": {
+            "paragraph": "",
+            "quote": "while the young birds have a distinctive yellow throat and a noticeable ring around the eye"
+          },
+          "keywordPairs": [
+            {
+              "question": "prominent",
+              "article": "noticeable"
+            },
+            {
+              "question": "surrounds",
+              "article": "around"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "911c02fa-a82d-46f0-9ae1-dd17b870aba9",
+          "prompt": "**Working with humans**\n· The hives in trees in the Niassa Reserve are especially **33**_____ .",
+          "answers": [
+            "high"
+          ],
+          "rawAnswer": "high",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The reason this relationship has developed is because the trees in the Niassa Reserve, therefore the hives are especially high, sometimes up to thirty meters, which makes them very hard to find"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "d69ad9ae-87a5-4761-9348-a9c723979962",
+          "prompt": "· The hunters take the honey and the birds enjoy the **34**_____ .",
+          "answers": [
+            "wax"
+          ],
+          "rawAnswer": "wax",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But they also leave something behind for the greater honeyguides. They are among the few bird species that can eat and digest wax in this way"
+          },
+          "keywordPairs": [
+            {
+              "question": "enjoy",
+              "article": "eat and digest"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "92f8013d-9b19-4d31-970a-c51c600a5d59",
+          "prompt": "· In Mozambique, the relationship between the Yao community and the bird is still strong.\n· However, in other countries, the greater honeyguide's importance grows **35**_____ .",
+          "answers": [
+            "smaller"
+          ],
+          "rawAnswer": "smaller",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But in some countries outside Mozambique, villagers are now turning more to farming and keeping their own hives, which has led to the role of the bird in honey collection growing smaller"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "cec63d99-d36b-4c2e-899e-d15b6cc8ffe8",
+          "prompt": "**Signals**\n· The birds learn to recognize signals from people in distinct regions\n- Yao hunters use tongues.\n- Tanzania's cue to hunt is a whistle.\n- In Zambia, it is the sound of **36**_____ being cut",
+          "answers": [
+            "wood"
+          ],
+          "rawAnswer": "wood",
+          "evidence": {
+            "paragraph": "",
+            "quote": "While in Zambia, the sound of chopping wood is the cue"
+          },
+          "keywordPairs": [
+            {
+              "question": "being cut",
+              "article": "chopping"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "a849aada-abd7-44bd-9be5-a4a949ed17f4",
+          "prompt": "**Collecting honey**\n· **37**_____ is commonly used to soothe the bees",
+          "answers": [
+            "smoke"
+          ],
+          "rawAnswer": "smoke",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In order to relax the bees and make the process less chaotic, smoke is blown into the hive"
+          },
+          "keywordPairs": [
+            {
+              "question": "Collecting",
+              "article": "process"
+            },
+            {
+              "question": "soothe",
+              "article": "relax"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "3fcd9113-9f7f-41e2-8fd1-0c20d0464afa",
+          "prompt": "· Risks are:\nbeing stung\nbeing killed. by **38**_____\nbeing injured",
+          "answers": [
+            "elephants"
+          ],
+          "rawAnswer": "elephants",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Besides the obvious risk of being stung by angry bees, the hunters must also be wary of being trampled to death by elephants"
+          },
+          "keywordPairs": [
+            {
+              "question": "being killed by",
+              "article": "being trampled to death by"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "b3a36665-8e2c-40da-9681-c6d41c0b86f5",
+          "prompt": "· Honey in heavy **39**_____ need to be transported long distances",
+          "answers": [
+            "buckets"
+          ],
+          "rawAnswer": "buckets",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the hunters are often required to travel large distances and carry buckets weighed down with honey back to the village"
+          },
+          "keywordPairs": [
+            {
+              "question": "in heavy",
+              "article": "weighed down with"
+            },
+            {
+              "question": "need to be transported long distances",
+              "article": "travel large distances and carry"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "f376c15d-7eae-4731-a80f-c20ea141fcbd",
+          "prompt": "· The honey's flavor depends on the bees that make it and the **40**_____ which produce it.",
+          "answers": [
+            "plants"
+          ],
+          "rawAnswer": "plants",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Raw honey draws its flavor from both the type of bees and the plants from which it is made to form a distinct taste"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题",
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,480</p><p>I've spent the last eight years studying the species in Southern Africa with the Yao community in the Niassa Reserve in Mozambique. The birds do help local hunters find wild beehives. The male bird is recognizable by its pink beak, black throat, and yellow shoulder patch. The female has a black beak and a duller color, while the young birds have a distinctive yellow throat and a noticeable ring around the eye. The collaborative arrangement between hunters and greater honeyguides was first documented as early as fifteen eighty-eight. But only in our most recent study have we realized the extent to which birds and humans communicate. The reason this relationship has developed is because the trees in the Niassa Reserve, therefore the hives are especially high, sometimes up to thirty meters, which makes them very hard to find. The birds locate the beehives stashed away in holes in trees, which the hunters then access in order to make off with the pure sticky honey inside. But they also leave something behind for the greater honeyguides. They are among the few bird species that can eat and digest wax in this way. The interaction between humans and birds benefits both parties. The relationship between the greater honeyguide and the hunters in Mozambique remains very strong. The Yao community considers their communication with the greater honeyguide to be part of their identity. But in some countries outside Mozambique, villagers are now turning more to farming and keeping their own hives, which has led to the role of the bird in honey collection growing smaller. </p><p>00:01:49,940</p><p>The phenomenon of the greater honeyguides and the honey hunters is really quite remarkable. This level of complex communication is otherwise unheard of in nature. In fact, what we found with these greater honeyguides is the only known example of targeted two-way communication between people and a free-living species. The most remarkable thing about this relationship is the signals people use to communicate with the greater honeyguides. But how do the birds learn to work with people? Well, we believe the behavior is innate. The birds inherit the knowledge and then refine it to match their region as they grow. In different parts of the world, they learn to respond to different sounds made by humans. When the Yao people are ready to hunt, they make a specific noise by unrolling their tongues in a particular way to let the greater honeyguides know. In Tanzania, on the other hand, greater honeyguides listen for a whistle as a sign to begin hunting. While in Zambia, the sound of chopping wood is the cue. The methods used for gathering honey in the Niassa Reserve are actually no different from those used by most beekeepers around the world. In order to relax the bees and make the process less chaotic, smoke is blown into the hive. Although the basic procedure is the same, the conditions that the hunters work in are a lot more difficult. Besides the obvious risk of being stung by angry bees, the hunters must also be wary of being trampled to death by elephants. There is also the risk of injury involved in climbing up to get to the hives. A less serious problem with this style of honey hunting is that the hunters are often required to travel large distances and carry buckets weighed down with honey back to the village, which is not an easy task. The honey eaten in the Yao community is wildly different from the honey you buy at the grocery store, which has usually been collected from several different colonies mixed together and boiled down to become sweeter. The raw honey from the hives in Mozambique has a strong flavor that almost stings your throat. Raw honey draws its flavor from both the type of bees and the plants from which it is made to form a distinct taste. And there are hundreds of quite unique varieties of honey.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/a266617b-de22-4943-99ef-96eb4dd58b15.mp3",
+    "durationSeconds": 261.250612,
+    "sizeBytes": 4180573,
+    "sha256": "b3827dce6ef109147cb19723f016e696edb71fbbca0860c5c276b888a3131e05",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:32Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775539799250_snlbey_00501c38_9d72ac8f.mp3"
+}

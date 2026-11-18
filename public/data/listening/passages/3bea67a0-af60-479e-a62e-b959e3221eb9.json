@@ -1,0 +1,267 @@
+{
+  "id": "3bea67a0-af60-479e-a62e-b959e3221eb9",
+  "title": "Autonomous underwater vehicle (A.U.V.) (机经听写）",
+  "titleCn": "自主水下航行器AUV工作原理与用途",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/3bea67a0-af60-479e-a62e-b959e3221eb9",
+  "duration": 247,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,040"
+    },
+    {
+      "label": "2",
+      "text": "Autonomous underwater vehicle, or AUV. It actually resembles a miniature airplane that moves deep in the ocean. It's not large enough to have a human crew aboard, and so its behavior is really that of a robot. The AUV is programmed to calculate and record a range of data depending on the mission it is carrying out at any one time."
+    },
+    {
+      "label": "3",
+      "text": "00:00:25,660"
+    },
+    {
+      "label": "4",
+      "text": "On previous missions, it has been programmed to record water pressure, as well as how much salt there is in the water. On a more recent mission around Bermuda, an AUV was equipped with a special instrument that showed the temperature of the ocean at different depths. It can also assess the quality of the water in general. So as you see, it is quite a versatile and useful little piece of equipment. We use its measurements to determine and increase our understanding of ocean behaviors, as well as its role in and influence on our climate. This instrument also has many other benefits. It can be launched and used relatively quickly. Also, there's no need for cables to physically link it to a boat. There are disadvantages, though. AUVs move at only modest speeds, up to twenty-five centimeters per second. In addition, the AUV structure cannot collect water samples, so other equipment must be used to conduct a chemical analysis of the water. Now, I'm sure you're all wondering how the AUV actually works. First, let's see how an AUV actually moves. L, It moves by pumping oil between two bladders. This helps the AUV to sink or float. The AUV records the data and measurements that it has been programmed to take while it rises to the surface. At the beginning and end of each dive, it obtains records and transmits its position by exposing an antenna embedded within the tip of the right wing. Okay, so that's the AUV"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the table below\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "2f2217cc-f1ae-466b-8776-c84519e7b265",
+          "prompt": "**Description**\n· looks like a small **31**_____",
+          "answers": [
+            "aeroplane"
+          ],
+          "rawAnswer": "aeroplane",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It actually resembles a miniature airplane that moves deep in the ocean"
+          },
+          "keywordPairs": [
+            {
+              "question": "looks like",
+              "article": "resembles"
+            },
+            {
+              "question": "small",
+              "article": "miniature"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "2f12c009-ba0c-4ee2-a890-98dc8b1bbc33",
+          "prompt": "· acts like a **32**_____",
+          "answers": [
+            "robot"
+          ],
+          "rawAnswer": "robot",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It's not large enough to have a human crew aboard, and so its behavior is really that of a robot"
+          },
+          "keywordPairs": [
+            {
+              "question": "acts like",
+              "article": "its behavior is really that of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "bd05e066-8cab-4b80-97c9-72d6cf5d29d2",
+          "prompt": "**Functions**\n· Can be used to measure:\n· water pressure\n· level of **33**_____ in water",
+          "answers": [
+            "salt"
+          ],
+          "rawAnswer": "salt",
+          "evidence": {
+            "paragraph": "",
+            "quote": "On previous missions, it has been programmed to record water pressure, as well as how much salt there is in the water"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "9b8e8979-7960-4434-96fb-07364feeeae0",
+          "prompt": "· water temperature\n· water **34**_____",
+          "answers": [
+            "quality"
+          ],
+          "rawAnswer": "quality",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It can also assess the quality of the water in general"
+          },
+          "keywordPairs": [
+            {
+              "question": "measure",
+              "article": "assess"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "67185747-7a9f-4a1a-ac9b-ce08c663411d",
+          "prompt": "· Measurements are used to help us understand:\n· ocean behaves\n· the impact the ocean has on the **35**_____",
+          "answers": [
+            "climate"
+          ],
+          "rawAnswer": "climate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We use its measurements to determine and increase our understanding of ocean behaviors, as well as its role in and influence on our climate"
+          },
+          "keywordPairs": [
+            {
+              "question": "the impact the ocean has on",
+              "article": "its role in and influence on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "8b51d4a7-cf52-40c1-89cc-e9b96584c1bb",
+          "prompt": "**The benefits**\n· easy to launch\n· isn`t connected to a boat by **36**_____",
+          "answers": [
+            "cables"
+          ],
+          "rawAnswer": "cables",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Also, there's no need for cables to physically link it to a boat"
+          },
+          "keywordPairs": [
+            {
+              "question": "isn`t connected to a boat by",
+              "article": "link it to a boat"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "d8a17be0-e3ff-4a8a-b100-085780ac3d8b",
+          "prompt": "**What are the disadvantages?**\n· not fast-moving\n· can`t be used to assess **37**_____ levels in water",
+          "answers": [
+            "chemical"
+          ],
+          "rawAnswer": "chemical",
+          "evidence": {
+            "paragraph": "",
+            "quote": "so other equipment must be used to conduct a chemical analysis of the water"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "788385b2-6755-4eb1-8cd9-8e41c7b4246e",
+          "prompt": "**How does the A.U.V. work?**\n· **38**_____ is pumped between two bladders.",
+          "answers": [
+            "oil"
+          ],
+          "rawAnswer": "oil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It moves by pumping oil between two bladders"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "98e6c062-90fe-4639-a8fa-762b1677fc85",
+          "prompt": "· It measures and records data as it moves to the **39**_____ .",
+          "answers": [
+            "surface"
+          ],
+          "rawAnswer": "surface",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The AUV records the data and measurements that it has been programmed to take while it rises to the surface"
+          },
+          "keywordPairs": [
+            {
+              "question": "moves",
+              "article": "rises"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "993fd981-bc4f-4d79-98c7-ca5e37a53f8e",
+          "prompt": "· It sends the data from an antenna in the **40**_____ wing-tip.",
+          "answers": [
+            "right"
+          ],
+          "rawAnswer": "right",
+          "evidence": {
+            "paragraph": "",
+            "quote": "transmits its position by exposing an antenna embedded within the tip of the right wing"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,040</p><p>Autonomous underwater vehicle, or AUV. It actually resembles a miniature airplane that moves deep in the ocean. It's not large enough to have a human crew aboard, and so its behavior is really that of a robot. The AUV is programmed to calculate and record a range of data depending on the mission it is carrying out at any one time. </p><p>00:00:25,660</p>On previous missions, it has been programmed to record water pressure, as well as how much salt there is in the water. On a more recent mission around Bermuda, an AUV was equipped with a special instrument that showed the temperature of the ocean at different depths. It can also assess the quality of the water in general. So as you see, it is quite a versatile and useful little piece of equipment. We use its measurements to determine and increase our understanding of ocean behaviors, as well as its role in and influence on our climate. This instrument also has many other benefits. It can be launched and used relatively quickly. Also, there's no need for cables to physically link it to a boat. There are disadvantages, though. AUVs move at only modest speeds, up to twenty-five centimeters per second. In addition, the AUV structure cannot collect water samples, so other equipment must be used to conduct a chemical analysis of the water. Now, I'm sure you're all wondering how the AUV actually works. First, let's see how an AUV actually moves. L, It moves by pumping oil between two bladders. This helps the AUV to sink or float. The AUV records the data and measurements that it has been programmed to take while it rises to the surface. At the beginning and end of each dive, it obtains records and transmits its position by exposing an antenna embedded within the tip of the right wing. Okay, so that's the AUV",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/3bea67a0-af60-479e-a62e-b959e3221eb9.mp3",
+    "durationSeconds": 126.066939,
+    "sizeBytes": 504658,
+    "sha256": "1fff5baa50dca3b80ea2e30d063c577fee6fee5c2fa3e7cd21860bce2cbf8de7",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:57:31Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1780803549655_zbgv4o_855b1aff.mp3"
+}

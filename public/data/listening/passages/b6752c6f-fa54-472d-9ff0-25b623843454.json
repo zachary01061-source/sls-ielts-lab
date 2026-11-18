@@ -1,0 +1,425 @@
+{
+  "id": "b6752c6f-fa54-472d-9ff0-25b623843454",
+  "title": "Burnside fitness centre",
+  "titleCn": "Burnside健身中心介绍与地图题",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/b6752c6f-fa54-472d-9ff0-25b623843454",
+  "duration": 271,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:03,640"
+    },
+    {
+      "label": "2",
+      "text": "Part two. You will hear a woman introducing a new fitness center to the local residents. First, you have some time to look at questions eleven to fifteen. Now listen carefully and answer questions eleven to fifteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:38,120"
+    },
+    {
+      "label": "4",
+      "text": "Good morning, everyone. We are gathered today for the unveiling of our new fitness center. Our business started in two thousand and six when we recognized the need for a new modern and affordable fitness center for those living in the area. We pooled resources together and started a small center just off this road to your left. We have been there over the years until we decided we needed more room and more facilities due to the increasing numbers. This new facility is estimated to contain at least a thousand people at a time and is equipped with the latest state-of-the-art fitness facilities you can think of."
+    },
+    {
+      "label": "5",
+      "text": "00:01:20,340"
+    },
+    {
+      "label": "6",
+      "text": "From the entrance, just to your right, you would get to the meeting room where we hold team meetings sometimes. In the past, our customers usually came in through the west gate and went to the first room on their left to exercise. Well, this room used to be the gym room, but now it's the women's fitting room. Our female customers can change and try on clothes there. The gym room would be the big room on your right as you enter from the west gate. It houses state-of-the-art gym equipment, as well as provides an arena for working out. At the top right corner of the map, we have the men's fitting room where men can change with some privacy. Some squash members say they would like to have classes at the room between two fitting rooms, as it would be more convenient to change after sweating. Well, we will have a discussion about it and inform you if any changes happen. Now, our squash court is still at the other wing, situated directly opposite the west gate. The larger building behind it is the largest in the state for skating courses. It provides adequate conditioning and the properly selected tracks for beginners."
+    },
+    {
+      "label": "7",
+      "text": "00:02:36,800"
+    },
+    {
+      "label": "8",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty."
+    },
+    {
+      "label": "9",
+      "text": "00:02:48,200"
+    },
+    {
+      "label": "10",
+      "text": "Now listen and answer questions sixteen to twenty."
+    },
+    {
+      "label": "11",
+      "text": "00:03:05,980"
+    },
+    {
+      "label": "12",
+      "text": "Why invest a lot in fitness and sports? Well, we have observed that in our society, the rate at which people develop preventable diseases is alarming. Statistics show that there is a very strong link between sedentary lifestyle and these diseases. We have set up this center to correct and combat it while making sure it is open, accessible, and affordable to all. To develop overall strength in the individual, the fitness machines are built to help those who always complain of muscle weakness to overcome their challenges. We also have rooms for mat exercises. Many people always think that such exercises are only good for limbs and shoulders. Well, actually, for anyone who wants to have a flexible body, these exercises, such as plank and crunches, are a good choice. You don't need any high-end fitness equipment. We also have an expanse of space just behind the building that we use for cycling exercises. This sport is good to help develop strength in the legs, and it is equally a good way of freeing the mind. Many members hope that such exercises will help them lose weight. I'm afraid they don't work that way. We offer aerobics for those interested in raising their heart rate. It is a great sport to train your mind and also makes blood flow more efficient and faster. Contrary to what most people think, weight training does little to help you lose weight, but it does help you develop solid mental coordination and to stay focused without getting distracted so easily."
+    },
+    {
+      "label": "13",
+      "text": "00:04:51,600"
+    },
+    {
+      "label": "14",
+      "text": "So as we unveil this center today, we're glad that you can also be a part of this step in the right direction. Thank you all for honoring us."
+    },
+    {
+      "label": "15",
+      "text": "00:05:01,580"
+    },
+    {
+      "label": "16",
+      "text": "That's the end of part two. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "sourceType": "map",
+      "instruction": "**Questions 11-15**\nLabel the map below.\nWrite the correct letter, **A-H**, next to Question **11-15**\n![图片1.png](assets/listening/4c204e0d2614ab169ed65bee899a90a993d23e96ad7f965cf473bb7f2c9c3be5.png)",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "b509e955-a83f-4839-8b9d-4e26011f2ec6",
+          "prompt": "meeting room",
+          "answers": [
+            "G"
+          ],
+          "rawAnswer": "G",
+          "evidence": {
+            "paragraph": "",
+            "quote": "From the entrance, just to your right, you would get to the meeting room"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "meeting room"
+            },
+            {
+              "question": "",
+              "article": "entrance"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "74b634c2-1f58-42d2-836a-03297fa3b445",
+          "prompt": "women`s fitting room",
+          "answers": [
+            "H"
+          ],
+          "rawAnswer": "H",
+          "evidence": {
+            "paragraph": "",
+            "quote": "customers usually came in through the west gate and went to the first room on their left;now it's the women's fitting room"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "fitting room"
+            },
+            {
+              "question": "",
+              "article": "west gate"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "d17e1978-6911-4e3a-a190-1fc3ff6254c9",
+          "prompt": "fitness room",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "C",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The gym room would be the big room on your right as you enter from the west gate"
+          },
+          "keywordPairs": [
+            {
+              "question": "fitness",
+              "article": "gym"
+            },
+            {
+              "question": "",
+              "article": "west gate"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "3dec9bfc-0f28-4072-9cd7-9e5199259b5a",
+          "prompt": "men`s fitting room",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "F",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At the top right corner of the map, we have the men's fitting room"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "fitting room"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "168b251d-7d3c-421a-94f7-9af554f3e5e3",
+          "prompt": "squash court",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "B",
+          "evidence": {
+            "paragraph": "",
+            "quote": "our squash court is still at the other wing, situated directly opposite the west gate"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "squash court"
+            },
+            {
+              "question": "",
+              "article": "west gate"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ],
+      "images": [
+        "assets/listening/4c204e0d2614ab169ed65bee899a90a993d23e96ad7f965cf473bb7f2c9c3be5.png"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 16-20**\nWhat is the benefit of each of the following facilities or courses?\nChoose **FIVE** answers from the box and write the correct letter, **A-G**, next to Questions **16-20**",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "6332650e-b9d8-4301-847d-14e8665a7ed4",
+          "prompt": "fitness machines",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "build up overall strength",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To develop overall strength in the individual, the fitness machines are built to help those who always complain of muscle weakness to overcome their challenges"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "fitness machines"
+            },
+            {
+              "question": "develop",
+              "article": "build up"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "acae6b8f-dcec-4cfa-abf0-7757c8fc0ba0",
+          "prompt": "mat exercises",
+          "answers": [
+            "D"
+          ],
+          "rawAnswer": "help body flexibility",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Well, actually, for anyone who wants to have a flexible body, these exercises, such as plank and crunches, are a good choice"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "mat exercises"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "001330e5-98ff-4f01-bfec-77e78794622b",
+          "prompt": "cycling class",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "good for lower limbs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This sport is good to help develop strength in the legs, and it is equally a good way of freeing the mind"
+          },
+          "keywordPairs": [
+            {
+              "question": "lower limbs",
+              "article": "legs"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "2e632bb3-dcc2-4fa6-9d18-3bdf7aace89c",
+          "prompt": "aerobics class",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "increase heartbeat",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We offer aerobics for those interested in raising their heart rate"
+          },
+          "keywordPairs": [
+            {
+              "question": "heartbeat",
+              "article": "heart rate"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "fb0261ea-105a-4354-9b28-75d142b4a625",
+          "prompt": "weight training",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "improve concentration",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Contrary to what most people think, weight training does little to help you lose weight, but it does help you develop solid mental coordination and to stay focused without getting distracted so easily"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "weight training"
+            },
+            {
+              "question": "improve concentration",
+              "article": "stay focused"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "good for shoulders"
+        },
+        {
+          "value": "B",
+          "text": "increase heartbeat"
+        },
+        {
+          "value": "C",
+          "text": "good for lower limbs"
+        },
+        {
+          "value": "D",
+          "text": "help body flexibility"
+        },
+        {
+          "value": "E",
+          "text": "improve concentration"
+        },
+        {
+          "value": "F",
+          "text": "build up overall strength"
+        },
+        {
+          "value": "G",
+          "text": "help lose weight"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "地图题",
+    "配对题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:03,640</p><p>Part two. You will hear a woman introducing a new fitness center to the local residents. First, you have some time to look at questions eleven to fifteen. Now listen carefully and answer questions eleven to fifteen. </p><p>00:00:38,120</p><p>Good morning, everyone. We are gathered today for the unveiling of our new fitness center. Our business started in two thousand and six when we recognized the need for a new modern and affordable fitness center for those living in the area. We pooled resources together and started a small center just off this road to your left. We have been there over the years until we decided we needed more room and more facilities due to the increasing numbers. This new facility is estimated to contain at least a thousand people at a time and is equipped with the latest state-of-the-art fitness facilities you can think of. </p><p>00:01:20,340</p><p>From the entrance, just to your right, you would get to the meeting room where we hold team meetings sometimes. In the past, our customers usually came in through the west gate and went to the first room on their left to exercise. Well, this room used to be the gym room, but now it's the women's fitting room. Our female customers can change and try on clothes there. The gym room would be the big room on your right as you enter from the west gate. It houses state-of-the-art gym equipment, as well as provides an arena for working out. At the top right corner of the map, we have the men's fitting room where men can change with some privacy. Some squash members say they would like to have classes at the room between two fitting rooms, as it would be more convenient to change after sweating. Well, we will have a discussion about it and inform you if any changes happen. Now, our squash court is still at the other wing, situated directly opposite the west gate. The larger building behind it is the largest in the state for skating courses. It provides adequate conditioning and the properly selected tracks for beginners. </p><p>00:02:36,800</p><p>Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty. </p><p>00:02:48,200</p><p>Now listen and answer questions sixteen to twenty. </p><p>00:03:05,980</p><p>Why invest a lot in fitness and sports? Well, we have observed that in our society, the rate at which people develop preventable diseases is alarming. Statistics show that there is a very strong link between sedentary lifestyle and these diseases. We have set up this center to correct and combat it while making sure it is open, accessible, and affordable to all. To develop overall strength in the individual, the fitness machines are built to help those who always complain of muscle weakness to overcome their challenges. We also have rooms for mat exercises. Many people always think that such exercises are only good for limbs and shoulders. Well, actually, for anyone who wants to have a flexible body, these exercises, such as plank and crunches, are a good choice. You don't need any high-end fitness equipment. We also have an expanse of space just behind the building that we use for cycling exercises. This sport is good to help develop strength in the legs, and it is equally a good way of freeing the mind. Many members hope that such exercises will help them lose weight. I'm afraid they don't work that way. We offer aerobics for those interested in raising their heart rate. It is a great sport to train your mind and also makes blood flow more efficient and faster. Contrary to what most people think, weight training does little to help you lose weight, but it does help you develop solid mental coordination and to stay focused without getting distracted so easily. </p><p>00:04:51,600</p><p>So as we unveil this center today, we're glad that you can also be a part of this step in the right direction. Thank you all for honoring us. </p><p>00:05:01,580</p>That's the end of part two. You now have half a minute to check your answers.",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/b6752c6f-fa54-472d-9ff0-25b623843454.mp3",
+    "durationSeconds": 150.216,
+    "sizeBytes": 2403897,
+    "sha256": "f1f05db5187f9a90fef992f44356758599a284fe8fe5c64a1ab4d7d5a9ad2950",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:10:26Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346538693_yb9ubt_01f1b765.mp3"
+}

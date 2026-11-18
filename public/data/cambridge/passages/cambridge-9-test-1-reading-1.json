@@ -1,0 +1,255 @@
+{
+  "id": "cambridge-9-test-1-reading-1",
+  "title": "William Henry Perkin",
+  "titleCn": "William Henry Perkin",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 9,
+    "test": 1
+  },
+  "sourceQuestionId": "6817",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6817",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "William Henry Perkin"
+    },
+    {
+      "label": "2",
+      "text": "The man who invented synthetic dyes"
+    },
+    {
+      "label": "3",
+      "text": "William Henry Perkin was born on March 12, 1838, in London, England. As a boy, Perkin's curiosity prompted early interests in the arts, sciences, photography, and engineering. But it was a chance stumbling upon a run-down, yet functional, laboratory in his late grandfather's home that solidified the young man’s enthusiasm for chemistry."
+    },
+    {
+      "label": "4",
+      "text": "As a student at the city of London School, Perkin became immersed in the study of chemistry. His talent and devotion to the subject were perceived by his teacher, Thomas Hall, who encouraged him to attend a series of lectures given by the eminent scientist Michael Faraday at the Royal Institution. Those speeches fired the young chemistry's enthusiasm further, and he later went on to attend the Royal College of Chemistry, which he succeeded in entering in 1853, at the age of 15."
+    },
+    {
+      "label": "5",
+      "text": "At the time of Perkin's enrolment, the Royal College of Chemistry was headed by the noted German chemist August Wilhelm Hofmann. Perkin's scientific gifts soon caught Hofmann's attention and, within two years, he became Hofmann's youngest assistant. Not long after that, Perkin made the scientific breakthrough that would bring him both fame and fortune."
+    },
+    {
+      "label": "6",
+      "text": "At the time, quinine was the only viable medical treatment for malaria. The drug is derived from the bark of the cinchona tree, native to South America, and by 1856, demand for the drug was surpassing the available supply. Thus, when Hofmann made some passing comments about the desirability of a synthetic substitute for quinine, it was unsurprising that his star pupil was moved to take up the challenge."
+    },
+    {
+      "label": "7",
+      "text": "During his vacation in 1856, Perkin spent his time in the laboratory on the top floor of his family's house. He was attempting to manufacture quinine from aniline, an inexpensive and readily available coal tar waste product. Despite his best efforts, however, he did not end up with quinine. Instead, he produced a mysterious dark sludge. Luckily, Perkin's scientific training and nature prompted him to investigate the substance further. Incorporating potassium dichromate and alcohol into the aniline at various stages of the experimental process, he finally produced a deep purple solution. And, proving the truth of the famous scientist Louis Pasteur's words 'chance favours only the prepared mind', Perkin saw the potential of his unexpected find."
+    },
+    {
+      "label": "8",
+      "text": "Historically, textile dyes were made from such natural sources as plants and animal excretions. Some of these, such as the glandular mucus of snails, were difficult to obtain and outrageously expensive. Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it. Further, natural dyes tended to be muddy in hue and fade quickly. It was against this backdrop that Perkin's discovery was made."
+    },
+    {
+      "label": "9",
+      "text": "Perkin quickly grasped that his purple solution could be used to colour fabric, thus making it the world's first synthetic dye. Realising the importance of this breakthrough, he lost no time in patenting it. But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities."
+    },
+    {
+      "label": "10",
+      "text": "Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve (from the French for the plant used to make the colour violet). He asked advice of Scottish dye works owner Robert Pullar, who assured him that manufacturing the dye would be well worth it if the colour remained fast (i.e. would not fade) and the cost was relatively low. So, over the fierce objections of his mentor Hofmann, he left college to give birth to the modern chemical industry."
+    },
+    {
+      "label": "11",
+      "text": "With the help of his father and brother, Perkin set up a factory not far from London. Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugénie of France, when she decided the new colour flattered her. Very soon, mauve was the necessary shade for all the fashionable ladies in that country. Not to be outdone, England's Queen Victoria also appeared in public wearing a mauve gown, thus making it all the rage in England as well. The dye was bold and fast, and the public clamoured for more. Perkin went back to the drawing board."
+    },
+    {
+      "label": "12",
+      "text": "Although Perkin's fame was achieved and fortune assured by his first discovery, the chemist continued his research. Among other dyes he developed and introduced were aniline red (1859) and aniline black (1863) and, in the late 1860s, Perkin's green. It is important to note that Perkin's synthetic dye discoveries had outcomes far beyond the merely decorative. The dyes also became vital to medical research in many ways. For instance, they were used to stain previously invisible microbes and bacteria, allowing researchers to identify such bacilli as tuberculosis, cholera, and anthrax. Artificial dyes continue to play a crucial role today. And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-7\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose TRUE if the statement agrees with the claims of the writer,\n\nchoose FALSE if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Michael Faraday was the first person to recognize Perkin's ability as a student of chemistry.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6817_113249",
+          "explanation": "参考译文: Michael Faraday是第一个发现Perkin化学天赋的人。\n\n定位词: Michael Faraday\n\n文中对应点 第二段：His talent and devotion to the subject were perceived by his teacher, Thomas Hall, who encouraged him to attend a series of lectures given by the eminent scientist Michael Faraday at the Royal Institution. 他的老师Thomas Hall发现了他在化学方面的天赋与热忱，鼓励其参加皇家学院著名科学家Michael Faraday的一系列讲座。\n\n从这句话很容易看出，Thomas Hall是文中提到的第一个发现Perkin化学天赋的人，尽管文中没有用到the first person这样的确切说法，但是看完第二段就不难发现，这点的确是对的。 因此，题中的说法与文中的事实相反。\n\n答案: FALSE"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Michael Faraday suggested Perkin should enroll in the Royal College of Chemistry.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6817_202024",
+          "explanation": "参考译文: Michael Faraday建议Perkin去上皇家化学学院\n\n定位词: Michael Faraday, Royal College of Chemistry\n\n文中对应点 第二段：Those speeches fired the young chemist's enthusiasm further, and he later went on to attend the Royal College of Chemistry, which he succeeded in entering in 1853, at the age of 15. Faraday的讲座进一步激发了这位年轻化学家的热情，在1853年，15岁的Perkin成功进入皇家化学学院学习。\n\n这句话仅仅告诉我们，Perkin是在听了Faraday的讲座后，对化学的激情更加澎湃，进而考上了皇家化学学院，而并没有提到Faraday与Perkin进行直接接触或沟通，所以题目是对文章中出现的人和事的过分解读。\n\n答案: NOT GIVEN"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Perkin employed August Wilhelm Hofmann as his assistant.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6817_898871",
+          "explanation": "参考译文： Perkin雇用了August Wilhelm Hofmann当他的助手。\n\n定位词： August Wilhelm Hofmann\n\n文中对应点 第三段：At the time of Perkin's enrolment, the Royal College of Chemistry was headed by the noted German chemist August Wilhelm Hofmann. Perkin's scientific gifts soon caught Hofmann's attention and, within two years, he became Hofmann's youngest assistant. 在Perkin入学时，皇家化学学院的院长正是著名的德国化学家August Wilhelm Hofmann。Perkin的科学天赋很快引起了Hofmann的注意，不到两年他就成了Hofmann最年轻的助理。\n\n从这两句话中可以清晰地看出Perkin和Hofmann之间的关系，前者是后者最年轻的助理,题目的说法和文中的陈述是直接抵触的。\n\n答案：FALSE"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Perkin was still young when he made the discovery that made him rich and famous.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6817_836169",
+          "explanation": "参考译文：Perkin年纪轻轻就作出了令他名利双收的发现。\n\n定位词：rich and famous\n\n文中对应点 第三段：Not long after that, Perkin made the scientific breakthrough that would bring him both fame and fortune.不久之后，Perkin就取得了一项能为他带来名誉和财富的科学突破。\n\n这里的“不久之后”，指的是Perkin成为Hofmann最年轻的助手之后，而成为助手是Perkin人学两年后的事情，第二段最后专门提到Perkin人学时只有15岁，所以可以推测出Perkin作出这项发现时也就十八九岁。经过这样的推断可知，题目的说法完全可以成立。\n\n答案：TRUE"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "The trees from which quinine is derived grow only in South America.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6817_631550",
+          "explanation": "参考译文：出产奎宁的树木只能生长在南美洲。\n\n定位词：quinine, South America\n\n文中对应点 第四段: At the time, quinine was the only viable medical treatment for malaria. The drug is derived from the bark of the cinchona tree, native to South America…当时，奎宁是唯一可以治疗疟疾的药物。这种药物是从原产自南美洲的金鸡纳树的树皮中提炼出来的……\n\n如果考生误把第一句中的only和第二句话结合，就很容易得出和题目一样的错误结论。其实出题人的意图是说，当时只有奎宁可以治疗疟疾；而奎宁是从金鸡纳树的树皮里提炼出来的，金鸡纳树原产自南美洲。注意，这里出题人并没有说金鸡纳树只有南美洲才有。文中的说法不足以让考生得出如题目那样的结论。\n\nTIPS：only一般是该题选FALSE的标志词，但是考生一定要注意only前后有没有人名和大写，如果有，则only失效。\n\n答案：NOT GIVEN"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Perkin hoped to manufacture a drug from a coal tar waste product.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6817_459950",
+          "explanation": "参考译文：Perkin期望从煤焦油废料产品中生产出药品来。\n\n定位词：a coal tar waste product\n\n文中对应点 第五段：He was attempting to manufacture quinine from aniline, an inexpensive and readily available coal tar waste product. Perkin试图利用苯胺这种廉价又易得的煤焦油废料来制造奎宁。这句话很清晰地表明,Perkin的确希望用煤焦油废料产品苯胺来制造一种药物——奎宁。此题难度很低，连动词manufacture都没有进行任何替换。\n\n答案：TRUE"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Perkin was inspired by the discoveries of the famous scientist Louis Pasteur.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6817_236346",
+          "explanation": "参考译文：Perkin受到著名科学家Louis Pasteur发明的启发。\n\n定位词：Louis Pasteur\n\n文中对应点 第五段：And, proving the truth of the famous scientist Louis Pasteur's words ‘chance favours only the prepared mind', Perkin saw the potential of his unexpected find.正如著名科学家Louis Pasteur所说，“机会总是垂青有准备的人”，Perkin意识到了他的意外发明拥有巨大的潜力。\n\n出题人在这里引用Louis Pasteur的名言来证明Perkin的成功绝非偶然，是他不断发现、不断试验的结果，但并没有提到Perkin是受Louis Pasteur的发明激发才有了自己的发明。本题和第2题在出题方式上有异曲同工之妙，都是让Perkin和名人扯上了关系，而实际上这种关系文中并没有提到。\n\n答案：NOT GIVEN"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 8-13\n\nAnswer the questions below.\n\nWrite NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Before Perkin's discovery, with what group in society was the colour purple associated? [8] ______",
+          "answers": [
+            "rich",
+            "the rich",
+            "only rich"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6817_486495",
+          "explanation": "题号：8\n\n定位词：the colour purple\n\n文中对应点：第六段 Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it.\n\n本题可以根据大题的位置进行定位，因为上一大题结束于第五段，故本题应该是从第六段开始。顺着第六段找，很容易看到the purple colour。The rich正好可以对应题目中what group in society，并且没有超过只能填两个字的字数限制，故答案应为the rich。\n\n题号：9\n\n定位词：new dye\n\n文中对应点：第七段 But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.\n\n本题定位相对容易，只要考生坚持不懈地寻找题干中的关键字new dye，绕过沿途synthetic dye的陷阱，很快就能找到这句话，锁定答案是new dye的宾语commercial possibilities。\n\n题号：10\n\n定位词：name, finally, first colour\n\n文中对应点：第八段 Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve.\n\n在此题中，考生需要注意题干中的关键副词finally，此题指的是Perkin的颜色最终被叫做什么，而不是起初被叫做什么。题干中的be referred to as是雅思阅读中经常出现的用法，等同于be known as / be named as / be defined as，一般这样的表达出现时，文中都会有专有名词等待着各位考生。故本题答案是mauve。\n\n题号：11\n\n定位词：the name of the person, consulted, before setting up 第八段 He asked advice of Scottish dye works owner Robert Pullar, ...\n\n文中对应点：第八段中部提到，Perkin在建立工厂之前，曾经征询苏格兰染料坊的老板Robert Pullar的意见，在得到Robert Pullar的建议之后，才开始建立自己的工厂。这里不要将Robert Pullar和Hofmann混淆，因为本段后半部分也提到了Perkin的恩师Hofmann。Hofmann是强烈反对Perkin这么做的。故本题答案是Robert Pullar。\n\n题号：12\n\n定位词：what country, first\n\n文中对应点：第九段 Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her.\n\n此句话明确指出在Perkin的工厂首度造出了第一支人工合成材料后，法国皇后Eugenie十分喜爱这种新颜色，于是Perkin的染料坊进入了它的商业繁荣期。故答案是France。\n\n题号：13\n\n定位词：disease, now, synthetic dyes\n\n文中对应点：第十段 And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.\n\n从上一个题目知道此题应该在最后一段，同时知道需要寻找关键词synthetic dye。个别考生可能会被沿途的microbes, bacteria, tuberculosis, cholera, anthrax所迷惑。但是要注意的是，在这些疾病旁边，都没有出现时间状语now。再继续向下寻找，考生就会发现today, current等字眼，这说明这里才是真正的考点所在。仔细读这个句子不难发现，malaria（疟疾）才是正确答案。",
+          "promptHtml": "Before Perkin&#x27;s discovery, with what group in society was the colour purple associated? [8] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "What potential did Perkin immediately understand that his new dye had? [9] ______",
+          "answers": [
+            "commercial",
+            "commercial possibilities"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6817_719761",
+          "explanation": "题号：8\n\n定位词：the colour purple\n\n文中对应点：第六段 Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it.\n\n本题可以根据大题的位置进行定位，因为上一大题结束于第五段，故本题应该是从第六段开始。顺着第六段找，很容易看到the purple colour。The rich正好可以对应题目中what group in society，并且没有超过只能填两个字的字数限制，故答案应为the rich。\n\n题号：9\n\n定位词：new dye\n\n文中对应点：第七段 But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.\n\n本题定位相对容易，只要考生坚持不懈地寻找题干中的关键字new dye，绕过沿途synthetic dye的陷阱，很快就能找到这句话，锁定答案是new dye的宾语commercial possibilities。\n\n题号：10\n\n定位词：name, finally, first colour\n\n文中对应点：第八段 Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve.\n\n在此题中，考生需要注意题干中的关键副词finally，此题指的是Perkin的颜色最终被叫做什么，而不是起初被叫做什么。题干中的be referred to as是雅思阅读中经常出现的用法，等同于be known as / be named as / be defined as，一般这样的表达出现时，文中都会有专有名词等待着各位考生。故本题答案是mauve。\n\n题号：11\n\n定位词：the name of the person, consulted, before setting up 第八段 He asked advice of Scottish dye works owner Robert Pullar, ...\n\n文中对应点：第八段中部提到，Perkin在建立工厂之前，曾经征询苏格兰染料坊的老板Robert Pullar的意见，在得到Robert Pullar的建议之后，才开始建立自己的工厂。这里不要将Robert Pullar和Hofmann混淆，因为本段后半部分也提到了Perkin的恩师Hofmann。Hofmann是强烈反对Perkin这么做的。故本题答案是Robert Pullar。\n\n题号：12\n\n定位词：what country, first\n\n文中对应点：第九段 Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her.\n\n此句话明确指出在Perkin的工厂首度造出了第一支人工合成材料后，法国皇后Eugenie十分喜爱这种新颜色，于是Perkin的染料坊进入了它的商业繁荣期。故答案是France。\n\n题号：13\n\n定位词：disease, now, synthetic dyes\n\n文中对应点：第十段 And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.\n\n从上一个题目知道此题应该在最后一段，同时知道需要寻找关键词synthetic dye。个别考生可能会被沿途的microbes, bacteria, tuberculosis, cholera, anthrax所迷惑。但是要注意的是，在这些疾病旁边，都没有出现时间状语now。再继续向下寻找，考生就会发现today, current等字眼，这说明这里才是真正的考点所在。仔细读这个句子不难发现，malaria（疟疾）才是正确答案。",
+          "promptHtml": "What potential did Perkin immediately understand that his new dye had? [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "What was the name finally used to refer to the first colour Perkin invented? [10] ______",
+          "answers": [
+            "mauve",
+            "mauve was",
+            "mauve is"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6817_890790",
+          "explanation": "题号：8\n\n定位词：the colour purple\n\n文中对应点：第六段 Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it.\n\n本题可以根据大题的位置进行定位，因为上一大题结束于第五段，故本题应该是从第六段开始。顺着第六段找，很容易看到the purple colour。The rich正好可以对应题目中what group in society，并且没有超过只能填两个字的字数限制，故答案应为the rich。\n\n题号：9\n\n定位词：new dye\n\n文中对应点：第七段 But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.\n\n本题定位相对容易，只要考生坚持不懈地寻找题干中的关键字new dye，绕过沿途synthetic dye的陷阱，很快就能找到这句话，锁定答案是new dye的宾语commercial possibilities。\n\n题号：10\n\n定位词：name, finally, first colour\n\n文中对应点：第八段 Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve.\n\n在此题中，考生需要注意题干中的关键副词finally，此题指的是Perkin的颜色最终被叫做什么，而不是起初被叫做什么。题干中的be referred to as是雅思阅读中经常出现的用法，等同于be known as / be named as / be defined as，一般这样的表达出现时，文中都会有专有名词等待着各位考生。故本题答案是mauve。\n\n题号：11\n\n定位词：the name of the person, consulted, before setting up 第八段 He asked advice of Scottish dye works owner Robert Pullar, ...\n\n文中对应点：第八段中部提到，Perkin在建立工厂之前，曾经征询苏格兰染料坊的老板Robert Pullar的意见，在得到Robert Pullar的建议之后，才开始建立自己的工厂。这里不要将Robert Pullar和Hofmann混淆，因为本段后半部分也提到了Perkin的恩师Hofmann。Hofmann是强烈反对Perkin这么做的。故本题答案是Robert Pullar。\n\n题号：12\n\n定位词：what country, first\n\n文中对应点：第九段 Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her.\n\n此句话明确指出在Perkin的工厂首度造出了第一支人工合成材料后，法国皇后Eugenie十分喜爱这种新颜色，于是Perkin的染料坊进入了它的商业繁荣期。故答案是France。\n\n题号：13\n\n定位词：disease, now, synthetic dyes\n\n文中对应点：第十段 And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.\n\n从上一个题目知道此题应该在最后一段，同时知道需要寻找关键词synthetic dye。个别考生可能会被沿途的microbes, bacteria, tuberculosis, cholera, anthrax所迷惑。但是要注意的是，在这些疾病旁边，都没有出现时间状语now。再继续向下寻找，考生就会发现today, current等字眼，这说明这里才是真正的考点所在。仔细读这个句子不难发现，malaria（疟疾）才是正确答案。",
+          "promptHtml": "What was the name finally used to refer to the first colour Perkin invented? [10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "What was the name of the person Perkin consulted before setting up his own dye works? [11] ______",
+          "answers": [
+            "Robert Pullar",
+            "Pullar"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6817_646711",
+          "explanation": "题号：8\n\n定位词：the colour purple\n\n文中对应点：第六段 Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it.\n\n本题可以根据大题的位置进行定位，因为上一大题结束于第五段，故本题应该是从第六段开始。顺着第六段找，很容易看到the purple colour。The rich正好可以对应题目中what group in society，并且没有超过只能填两个字的字数限制，故答案应为the rich。\n\n题号：9\n\n定位词：new dye\n\n文中对应点：第七段 But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.\n\n本题定位相对容易，只要考生坚持不懈地寻找题干中的关键字new dye，绕过沿途synthetic dye的陷阱，很快就能找到这句话，锁定答案是new dye的宾语commercial possibilities。\n\n题号：10\n\n定位词：name, finally, first colour\n\n文中对应点：第八段 Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve.\n\n在此题中，考生需要注意题干中的关键副词finally，此题指的是Perkin的颜色最终被叫做什么，而不是起初被叫做什么。题干中的be referred to as是雅思阅读中经常出现的用法，等同于be known as / be named as / be defined as，一般这样的表达出现时，文中都会有专有名词等待着各位考生。故本题答案是mauve。\n\n题号：11\n\n定位词：the name of the person, consulted, before setting up 第八段 He asked advice of Scottish dye works owner Robert Pullar, ...\n\n文中对应点：第八段中部提到，Perkin在建立工厂之前，曾经征询苏格兰染料坊的老板Robert Pullar的意见，在得到Robert Pullar的建议之后，才开始建立自己的工厂。这里不要将Robert Pullar和Hofmann混淆，因为本段后半部分也提到了Perkin的恩师Hofmann。Hofmann是强烈反对Perkin这么做的。故本题答案是Robert Pullar。\n\n题号：12\n\n定位词：what country, first\n\n文中对应点：第九段 Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her.\n\n此句话明确指出在Perkin的工厂首度造出了第一支人工合成材料后，法国皇后Eugenie十分喜爱这种新颜色，于是Perkin的染料坊进入了它的商业繁荣期。故答案是France。\n\n题号：13\n\n定位词：disease, now, synthetic dyes\n\n文中对应点：第十段 And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.\n\n从上一个题目知道此题应该在最后一段，同时知道需要寻找关键词synthetic dye。个别考生可能会被沿途的microbes, bacteria, tuberculosis, cholera, anthrax所迷惑。但是要注意的是，在这些疾病旁边，都没有出现时间状语now。再继续向下寻找，考生就会发现today, current等字眼，这说明这里才是真正的考点所在。仔细读这个句子不难发现，malaria（疟疾）才是正确答案。",
+          "promptHtml": "What was the name of the person Perkin consulted before setting up his own dye works? [11] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "In what country did Perkin's newly invented colour first become fashionable? [12] ______",
+          "answers": [
+            "France",
+            "in France"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6817_435419",
+          "explanation": "题号：8\n\n定位词：the colour purple\n\n文中对应点：第六段 Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it.\n\n本题可以根据大题的位置进行定位，因为上一大题结束于第五段，故本题应该是从第六段开始。顺着第六段找，很容易看到the purple colour。The rich正好可以对应题目中what group in society，并且没有超过只能填两个字的字数限制，故答案应为the rich。\n\n题号：9\n\n定位词：new dye\n\n文中对应点：第七段 But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.\n\n本题定位相对容易，只要考生坚持不懈地寻找题干中的关键字new dye，绕过沿途synthetic dye的陷阱，很快就能找到这句话，锁定答案是new dye的宾语commercial possibilities。\n\n题号：10\n\n定位词：name, finally, first colour\n\n文中对应点：第八段 Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve.\n\n在此题中，考生需要注意题干中的关键副词finally，此题指的是Perkin的颜色最终被叫做什么，而不是起初被叫做什么。题干中的be referred to as是雅思阅读中经常出现的用法，等同于be known as / be named as / be defined as，一般这样的表达出现时，文中都会有专有名词等待着各位考生。故本题答案是mauve。\n\n题号：11\n\n定位词：the name of the person, consulted, before setting up 第八段 He asked advice of Scottish dye works owner Robert Pullar, ...\n\n文中对应点：第八段中部提到，Perkin在建立工厂之前，曾经征询苏格兰染料坊的老板Robert Pullar的意见，在得到Robert Pullar的建议之后，才开始建立自己的工厂。这里不要将Robert Pullar和Hofmann混淆，因为本段后半部分也提到了Perkin的恩师Hofmann。Hofmann是强烈反对Perkin这么做的。故本题答案是Robert Pullar。\n\n题号：12\n\n定位词：what country, first\n\n文中对应点：第九段 Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her.\n\n此句话明确指出在Perkin的工厂首度造出了第一支人工合成材料后，法国皇后Eugenie十分喜爱这种新颜色，于是Perkin的染料坊进入了它的商业繁荣期。故答案是France。\n\n题号：13\n\n定位词：disease, now, synthetic dyes\n\n文中对应点：第十段 And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.\n\n从上一个题目知道此题应该在最后一段，同时知道需要寻找关键词synthetic dye。个别考生可能会被沿途的microbes, bacteria, tuberculosis, cholera, anthrax所迷惑。但是要注意的是，在这些疾病旁边，都没有出现时间状语now。再继续向下寻找，考生就会发现today, current等字眼，这说明这里才是真正的考点所在。仔细读这个句子不难发现，malaria（疟疾）才是正确答案。",
+          "promptHtml": "In what country did Perkin&#x27;s newly invented colour first become fashionable? [12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "According to the passage, which disease is now being targeted by researchers using synthetic dyes? [13] ______",
+          "answers": [
+            "malaria",
+            "malaria is"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6817_861161",
+          "explanation": "题号：8\n\n定位词：the colour purple\n\n文中对应点：第六段 Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it.\n\n本题可以根据大题的位置进行定位，因为上一大题结束于第五段，故本题应该是从第六段开始。顺着第六段找，很容易看到the purple colour。The rich正好可以对应题目中what group in society，并且没有超过只能填两个字的字数限制，故答案应为the rich。\n\n题号：9\n\n定位词：new dye\n\n文中对应点：第七段 But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.\n\n本题定位相对容易，只要考生坚持不懈地寻找题干中的关键字new dye，绕过沿途synthetic dye的陷阱，很快就能找到这句话，锁定答案是new dye的宾语commercial possibilities。\n\n题号：10\n\n定位词：name, finally, first colour\n\n文中对应点：第八段 Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve.\n\n在此题中，考生需要注意题干中的关键副词finally，此题指的是Perkin的颜色最终被叫做什么，而不是起初被叫做什么。题干中的be referred to as是雅思阅读中经常出现的用法，等同于be known as / be named as / be defined as，一般这样的表达出现时，文中都会有专有名词等待着各位考生。故本题答案是mauve。\n\n题号：11\n\n定位词：the name of the person, consulted, before setting up 第八段 He asked advice of Scottish dye works owner Robert Pullar, ...\n\n文中对应点：第八段中部提到，Perkin在建立工厂之前，曾经征询苏格兰染料坊的老板Robert Pullar的意见，在得到Robert Pullar的建议之后，才开始建立自己的工厂。这里不要将Robert Pullar和Hofmann混淆，因为本段后半部分也提到了Perkin的恩师Hofmann。Hofmann是强烈反对Perkin这么做的。故本题答案是Robert Pullar。\n\n题号：12\n\n定位词：what country, first\n\n文中对应点：第九段 Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her.\n\n此句话明确指出在Perkin的工厂首度造出了第一支人工合成材料后，法国皇后Eugenie十分喜爱这种新颜色，于是Perkin的染料坊进入了它的商业繁荣期。故答案是France。\n\n题号：13\n\n定位词：disease, now, synthetic dyes\n\n文中对应点：第十段 And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.\n\n从上一个题目知道此题应该在最后一段，同时知道需要寻找关键词synthetic dye。个别考生可能会被沿途的microbes, bacteria, tuberculosis, cholera, anthrax所迷惑。但是要注意的是，在这些疾病旁边，都没有出现时间状语now。再继续向下寻找，考生就会发现today, current等字眼，这说明这里才是真正的考点所在。仔细读这个句子不难发现，malaria（疟疾）才是正确答案。",
+          "promptHtml": "According to the passage, which disease is now being targeted by researchers using synthetic dyes? [13] ______"
+        }
+      ],
+      "sourceType": "short_answer",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Before Perkin&#x27;s discovery, with what group in society was the colour purple associated? <strong>[8] ______</strong></p>\n\n<p>What potential did Perkin immediately understand that his new dye had? <strong>[9] ______</strong></p>\n\n<p>What was the name finally used to refer to the first colour Perkin invented? <strong>[10] ______</strong></p>\n\n<p>What was the name of the person Perkin consulted before setting up his own dye works? <strong>[11] ______</strong></p>\n\n<p>In what country did Perkin&#x27;s newly invented colour first become fashionable? <strong>[12] ______</strong></p>\n\n<p>According to the passage, which disease is now being targeted by researchers using synthetic dyes? <strong>[13] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>William Henry Perkin</strong></span></p><p><em>The man who invented synthetic dyes</em></p><p>William Henry Perkin was born on March 12, 1838, in London, England. As a boy, Perkin&#x27;s curiosity prompted early interests in the arts, sciences, photography, and engineering. But it was a chance stumbling upon a run-down, yet functional, laboratory in his late grandfather&#x27;s home that solidified the young man’s enthusiasm for chemistry.</p><p>As a student at the city of London School, Perkin became immersed in the study of chemistry. His talent and devotion to the subject were perceived by his teacher, Thomas Hall, who encouraged him to attend a series of lectures given by the eminent scientist Michael Faraday at the Royal Institution. Those speeches fired the young chemistry&#x27;s enthusiasm further, and he later went on to attend the Royal College of Chemistry, which he succeeded in entering in 1853, at the age of 15.</p><p>At the time of Perkin&#x27;s enrolment, the Royal College of Chemistry was headed by the noted German chemist August Wilhelm Hofmann. Perkin&#x27;s scientific gifts soon caught Hofmann&#x27;s attention and, within two years, he became Hofmann&#x27;s youngest assistant. Not long after that, Perkin made the scientific breakthrough that would bring him both fame and fortune.</p><p>At the time, quinine was the only viable medical treatment for malaria. The drug is derived from the bark of the cinchona tree, native to South America, and by 1856, demand for the drug was surpassing the available supply. Thus, when Hofmann made some passing comments about the desirability of a synthetic substitute for quinine, it was unsurprising that his star pupil was moved to take up the challenge.</p><p>During his vacation in 1856, Perkin spent his time in the laboratory on the top floor of his family&#x27;s house. He was attempting to manufacture quinine from aniline, an inexpensive and readily available coal tar waste product. Despite his best efforts, however, he did not end up with quinine. Instead, he produced a mysterious dark sludge. Luckily, Perkin&#x27;s scientific training and nature prompted him to investigate the substance further. Incorporating potassium dichromate and alcohol into the aniline at various stages of the experimental process, he finally produced a deep purple solution. And, proving the truth of the famous scientist Louis Pasteur&#x27;s words &#x27;chance favours only the prepared mind&#x27;, Perkin saw the potential of his unexpected find.</p><p>Historically, textile dyes were made from such natural sources as plants and animal excretions. Some of these, such as the glandular mucus of snails, were difficult to obtain and outrageously expensive. Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it. Further, natural dyes tended to be muddy in hue and fade quickly. It was against this backdrop that Perkin&#x27;s discovery was made.</p><p>Perkin quickly grasped that his purple solution could be used to colour fabric, thus making it the world&#x27;s first synthetic dye. Realising the importance of this breakthrough, he lost no time in patenting it. But perhaps the most fascinating of all Perkin&#x27;s reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.</p><p>Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve (from the French for the plant used to make the colour violet). He asked advice of Scottish dye works owner Robert Pullar, who assured him that manufacturing the dye would be well worth it if the colour remained fast (i.e. would not fade) and the cost was relatively low. So, over the fierce objections of his mentor Hofmann, he left college to give birth to the modern chemical industry.</p><p>With the help of his father and brother, Perkin set up a factory not far from London. Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London&#x27;s gas street lighting, the dye works began producing the world&#x27;s first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugénie of France, when she decided the new colour flattered her. Very soon, mauve was the necessary shade for all the fashionable ladies in that country. Not to be outdone, England&#x27;s Queen Victoria also appeared in public wearing a mauve gown, thus making it all the rage in England as well. The dye was bold and fast, and the public clamoured for more. Perkin went back to the drawing board.</p><p>Although Perkin&#x27;s fame was achieved and fortune assured by his first discovery, the chemist continued his research. Among other dyes he developed and introduced were aniline red (1859) and aniline black (1863) and, in the late 1860s, Perkin&#x27;s green. It is important to note that Perkin&#x27;s synthetic dye discoveries had outcomes far beyond the merely decorative. The dyes also became vital to medical research in many ways. For instance, they were used to stain previously invisible microbes and bacteria, allowing researchers to identify such bacilli as tuberculosis, cholera, and anthrax. Artificial dyes continue to play a crucial role today. And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.</p>"
+}

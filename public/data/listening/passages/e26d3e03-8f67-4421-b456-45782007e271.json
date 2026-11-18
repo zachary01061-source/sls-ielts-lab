@@ -1,0 +1,259 @@
+{
+  "id": "e26d3e03-8f67-4421-b456-45782007e271",
+  "title": "The history of music instruments（机经听写）",
+  "titleCn": "乐器历史：天鹅骨笛与古代音乐",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/e26d3e03-8f67-4421-b456-45782007e271",
+  "duration": 179,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,280"
+    },
+    {
+      "label": "2",
+      "text": "Early communities used simple instruments to mark the start of hunts during ritual activities."
+    },
+    {
+      "label": "3",
+      "text": "00:00:07,259"
+    },
+    {
+      "label": "4",
+      "text": "Archaeologists identified the oldest known musical instrument as a flute. Researchers determined that the instrument came from the bone of a swan."
+    },
+    {
+      "label": "5",
+      "text": "00:00:18,199"
+    },
+    {
+      "label": "6",
+      "text": "Excavators found several shells near the site where early music-making occurred."
+    },
+    {
+      "label": "7",
+      "text": "00:00:24,559"
+    },
+    {
+      "label": "8",
+      "text": "Scholars discovered that North African instrument designs spread to Europe. Historians admire the variety of musical instruments developed in ancient China. Experts describe the musical instruments of Greece and Rome as simple."
+    },
+    {
+      "label": "9",
+      "text": "00:00:41,719"
+    },
+    {
+      "label": "10",
+      "text": "South American societies developed many types of wind instruments. Historians obtain visual evidence of musical instruments from painting."
+    },
+    {
+      "label": "11",
+      "text": "00:00:52,959"
+    },
+    {
+      "label": "12",
+      "text": "Researchers gain valuable information about Shang Dynasty instruments from poetry."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "212c9cb5-730a-40ac-a915-e3a2cb1b06ce",
+          "prompt": "**Earliest Musical Instruments**\n· The first instruments were probably\n- used in rituals, e.g. to make the start of a **31**_____",
+          "answers": [
+            "hunt"
+          ],
+          "rawAnswer": "hunt",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Early communities used simple instruments to mark the start of hunts during ritual activities"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "2ac7f44e-3ca8-42dc-8cf3-6a661047b406",
+          "prompt": "- made of non-durable materials like animal skins\n· The oldest musical instrument discovered archaeologists\n- was a kind of **32**_____",
+          "answers": [
+            "flute"
+          ],
+          "rawAnswer": "flute",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Archaeologists identified the oldest known musical instrument as a flute"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "02b2b78f-1543-4387-b51b-7acf706fd859",
+          "prompt": "- was made from the bone of a **33**_____",
+          "answers": [
+            "swan"
+          ],
+          "rawAnswer": "swan",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers determined that the instrument came from the bone of a swan"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "6fde5729-2171-4c04-b016-f7190003423b",
+          "prompt": "- was found near some **34**_____ that were possibly used to make music",
+          "answers": [
+            "shells"
+          ],
+          "rawAnswer": "shells",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Excavators found several shells near the site where early music-making occurred"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "7948692b-3375-4e90-8d46-fa2c0e320c30",
+          "prompt": "**Where musical instruments were developed**\n· Instruments whose design originated in North Africa have been found in **35**_____.",
+          "answers": [
+            "Europe"
+          ],
+          "rawAnswer": "Europe",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Scholars discovered that North African instrument designs spread to Europe"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "69143cda-bc17-4eab-9824-d29bebadb518",
+          "prompt": "· China is remarkable for the **36**_____ of the musical instruments it developed.",
+          "answers": [
+            "variety"
+          ],
+          "rawAnswer": "variety",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Historians admire the variety of musical instruments developed in ancient China"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "48adaeed-eb00-4e7c-81e1-cd501fd44398",
+          "prompt": "· The instruments of Ancient Greece and Roma were surprisingly **37**_____ .",
+          "answers": [
+            "simple"
+          ],
+          "rawAnswer": "simple",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Experts describe the musical instruments of Greece and Rome as simple"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "03574d4a-942b-4fda-9e80-151c80b5e550",
+          "prompt": "· The type of instrument developed in South America included many sorts **38**_____ instrument.",
+          "answers": [
+            "wind"
+          ],
+          "rawAnswer": "wind",
+          "evidence": {
+            "paragraph": "",
+            "quote": "South American societies developed many types of wind instruments"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "7f4cc979-2c57-471e-b12c-a3f8ea6fdcb2",
+          "prompt": "**How historians learn about musical instruments**\n· Historians can get visual information about musical instruments from **39**_____ as well as archaeology.",
+          "answers": [
+            "paintings"
+          ],
+          "rawAnswer": "paintings",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Historians obtain visual evidence of musical instruments from painting"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "57c273fa-4342-4b70-b2ef-c7fafc94815c",
+          "prompt": "· Information about Shang Dynasty instruments can be gained from **40**_____ of the period.",
+          "answers": [
+            "poetry"
+          ],
+          "rawAnswer": "poetry",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers gain valuable information about Shang Dynasty instruments from poetry"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,280</p><p>Early communities used simple instruments to mark the start of hunts during ritual activities. </p><p>00:00:07,259</p><p>Archaeologists identified the oldest known musical instrument as a flute. Researchers determined that the instrument came from the bone of a swan. </p><p>00:00:18,199</p><p>Excavators found several shells near the site where early music-making occurred. </p><p>00:00:24,559</p><p>Scholars discovered that North African instrument designs spread to Europe. Historians admire the variety of musical instruments developed in ancient China. Experts describe the musical instruments of Greece and Rome as simple. </p><p>00:00:41,719</p><p>South American societies developed many types of wind instruments. Historians obtain visual evidence of musical instruments from painting. </p><p>00:00:52,959</p><p>Researchers gain valuable information about Shang Dynasty instruments from poetry.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/e26d3e03-8f67-4421-b456-45782007e271.mp3",
+    "durationSeconds": 58.608,
+    "sizeBytes": 234867,
+    "sha256": "3756b2e0ef95ac686d3f705d411033eac20a02fc1645926262d90077458b7f9c",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:03:58Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786533528297_x7xgf2_13345fb8.mp3"
+}

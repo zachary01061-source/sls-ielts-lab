@@ -1,0 +1,324 @@
+{
+  "id": "cambridge-19-test-1-listening-1",
+  "title": "Hinchingbrooke Country Park",
+  "titleCn": "Hinchingbrooke Country Park",
+  "subject": "listening",
+  "part": 1,
+  "duration": 471,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 1
+  },
+  "sourceQuestionId": "8488",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8488",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Sally: Good morning. Hinchingbrooke Country Park, Sally speaking. I’m one of the rangers."
+    },
+    {
+      "label": "2",
+      "text": "John: Oh hello. My name’s John Chapman, and I’m a teaching assistant at a local primary school."
+    },
+    {
+      "label": "3",
+      "text": "Sally: OK. What would you like to know?"
+    },
+    {
+      "label": "4",
+      "text": "John: Well, I’m new to this area, so perhaps you could tell me something about the park first, please."
+    },
+    {
+      "label": "5",
+      "text": "Sally: Of course. Altogether the park covers 170 acres, that’s 69 hectares."
+    },
+    {
+      "label": "6",
+      "text": "Sally: There are three main types of habitat: wetland, grassland and woodland."
+    },
+    {
+      "label": "7",
+      "text": "Sally: The woods are well established and varied, with an oak plantation, and other areas of mixed species."
+    },
+    {
+      "label": "8",
+      "text": "John: Right."
+    },
+    {
+      "label": "9",
+      "text": "Sally: The wetland is quite varied, too. The original farmland was dug up around 40 years ago to extract gravel."
+    },
+    {
+      "label": "10",
+      "text": "Sally: Once this work was completed, the gravel pits filled with water, forming the two large lakes."
+    },
+    {
+      "label": "11",
+      "text": "Sally: There are also several smaller ones, ponds and a stream that flows through the park."
+    },
+    {
+      "label": "12",
+      "text": "John: OK, so I suppose with these different habitats there’s quite a variety of wildlife."
+    },
+    {
+      "label": "13",
+      "text": "Sally: There certainly is – a lot of different species of birds and insects, and also animals like deer and rabbits."
+    },
+    {
+      "label": "14",
+      "text": "John: And I understand you organise educational visits for school parties."
+    },
+    {
+      "label": "15",
+      "text": "Sally: That’s right. We can organise a wide range of activities and adapt them to suit all ages."
+    },
+    {
+      "label": "16",
+      "text": "John: Can you give me some examples of the activities?"
+    },
+    {
+      "label": "17",
+      "text": "Sally: Well, one focus is on science, where we help children to discover and study plants, trees and insects."
+    },
+    {
+      "label": "18",
+      "text": "Sally: They also collect and analyse data about the things they see."
+    },
+    {
+      "label": "19",
+      "text": "John: Uhuh."
+    },
+    {
+      "label": "20",
+      "text": "Sally: Another focus is on geography. The park is a great environment to learn and practise reading a map and using a compass to navigate around the park."
+    },
+    {
+      "label": "21",
+      "text": "John: Do you do anything connected with history?"
+    },
+    {
+      "label": "22",
+      "text": "Sally: Yes, we do. For instance, the children can explore how the use of the land has changed over time. Then there’s leisure and tourism."
+    },
+    {
+      "label": "23",
+      "text": "John: That focuses on your visitors, I would imagine."
+    },
+    {
+      "label": "24",
+      "text": "Sally: Yes, mostly. The children find out about them, their requirements, the problems they may cause and how we manage these."
+    },
+    {
+      "label": "25",
+      "text": "Sally: And another subject we cover is music: here the children experiment with natural materials to create sounds and explore rhythm and tempo."
+    },
+    {
+      "label": "26",
+      "text": "John: That must be fun!"
+    },
+    {
+      "label": "27",
+      "text": "Sally: Most children really enjoy it."
+    },
+    {
+      "label": "28",
+      "text": "Sally: And of course, all the activities are educational, too. Learning outside the classroom encourages children to be creative, and to explore and discover for themselves."
+    },
+    {
+      "label": "29",
+      "text": "John: I would imagine they get a sense of freedom that might not be a normal part of their lives."
+    },
+    {
+      "label": "30",
+      "text": "Sally: That’s right. And very often the children discover that they can do things they didn’t know they could do, and they develop new skills. This gives them greater self-confidence."
+    },
+    {
+      "label": "31",
+      "text": "John: It sounds great. So, what about the practical side of it? How much does it cost for a full-day visit? We would expect to bring between 30 and 40 children."
+    },
+    {
+      "label": "32",
+      "text": "Sally: If there are over 30, it costs £4.95 for each child who attends on the day. We invoice you afterwards, so you don’t pay for children who can’t come because of sickness, for example."
+    },
+    {
+      "label": "33",
+      "text": "Sally: There’s no charge for leaders and other adults – as many as you want to bring."
+    },
+    {
+      "label": "34",
+      "text": "John: That sounds very fair. Well, thanks for all the information. I’ll need to discuss it with my colleagues, and I hope to get back to you soon to make a booking."
+    },
+    {
+      "label": "35",
+      "text": "Sally: We’ll look forward to hearing from you. Goodbye."
+    },
+    {
+      "label": "36",
+      "text": "John: Goodbye, and thank you."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–10\n\nComplete the notes below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Area:[1] ______hectares",
+          "answers": [
+            "69",
+            "sixty-nine"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_295248",
+          "explanation": "本节的题型为Part 1出现频率极高的笔记填空题。需注意词数要求为ONE WORD AND/OR A NUMBER。\n\n1. 考生需熟悉hectare为面积单位，所以此处要听取数字信息。原文首先出现了干扰项170 acres，随后出现正确答案信息69 hectares。\n\n2. 本题需填入和lakes、ponds并列的单数可数名词。lakes和ponds在录音原文中相隔稍远，但均为原词重现。ponds后出现答案stream，此处也有明显的重读和停顿。考生需熟悉stream的词义和拼写。\n\n3. 题干中的science和plants均原词重现。录音中下一句出现analyse，替换题干中的look at，随后出现答案data。需注意这里look at的意思是“研究”，不能单纯理解为“看”，这一释义在听力题目中较为常见。\n\n4. 本题需听取和compass并列的单数名词，且答案有可能先于compass出现。geography原词重现，use替换为reading，随后出现答案map。并列词and后出现compass，可用于验证答案。\n\n5. 题干中的leisure and tourism原词重现。concentrates on替换为focuses on，随后出现答案visitors。需注意填入名词复数。\n\n6. 题干中的music可定位该题，natural materials原词重现，make替换为create，答案sounds不难得出。",
+          "promptHtml": "Area:[1] ______hectares"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Wetland: lakes, ponds and a [2] ______",
+          "answers": [
+            "stream"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_181331",
+          "explanation": "本节的题型为Part 1出现频率极高的笔记填空题。需注意词数要求为ONE WORD AND/OR A NUMBER。\n\n1. 考生需熟悉hectare为面积单位，所以此处要听取数字信息。原文首先出现了干扰项170 acres，随后出现正确答案信息69 hectares。\n\n2. 本题需填入和lakes、ponds并列的单数可数名词。lakes和ponds在录音原文中相隔稍远，但均为原词重现。ponds后出现答案stream，此处也有明显的重读和停顿。考生需熟悉stream的词义和拼写。\n\n3. 题干中的science和plants均原词重现。录音中下一句出现analyse，替换题干中的look at，随后出现答案data。需注意这里look at的意思是“研究”，不能单纯理解为“看”，这一释义在听力题目中较为常见。\n\n4. 本题需听取和compass并列的单数名词，且答案有可能先于compass出现。geography原词重现，use替换为reading，随后出现答案map。并列词and后出现compass，可用于验证答案。\n\n5. 题干中的leisure and tourism原词重现。concentrates on替换为focuses on，随后出现答案visitors。需注意填入名词复数。\n\n6. 题干中的music可定位该题，natural materials原词重现，make替换为create，答案sounds不难得出。",
+          "promptHtml": "Wetland: lakes, ponds and a [2] ______"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Science: Children look at [3] ______ about plants, etc.",
+          "answers": [
+            "data"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_661141",
+          "explanation": "本节的题型为Part 1出现频率极高的笔记填空题。需注意词数要求为ONE WORD AND/OR A NUMBER。\n\n1. 考生需熟悉hectare为面积单位，所以此处要听取数字信息。原文首先出现了干扰项170 acres，随后出现正确答案信息69 hectares。\n\n2. 本题需填入和lakes、ponds并列的单数可数名词。lakes和ponds在录音原文中相隔稍远，但均为原词重现。ponds后出现答案stream，此处也有明显的重读和停顿。考生需熟悉stream的词义和拼写。\n\n3. 题干中的science和plants均原词重现。录音中下一句出现analyse，替换题干中的look at，随后出现答案data。需注意这里look at的意思是“研究”，不能单纯理解为“看”，这一释义在听力题目中较为常见。\n\n4. 本题需听取和compass并列的单数名词，且答案有可能先于compass出现。geography原词重现，use替换为reading，随后出现答案map。并列词and后出现compass，可用于验证答案。\n\n5. 题干中的leisure and tourism原词重现。concentrates on替换为focuses on，随后出现答案visitors。需注意填入名词复数。\n\n6. 题干中的music可定位该题，natural materials原词重现，make替换为create，答案sounds不难得出。",
+          "promptHtml": "Science: Children look at [3] ______ about plants, etc."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Geography: includes learning to use a [4] ______and compass",
+          "answers": [
+            "map"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_155799",
+          "explanation": "本节的题型为Part 1出现频率极高的笔记填空题。需注意词数要求为ONE WORD AND/OR A NUMBER。\n\n1. 考生需熟悉hectare为面积单位，所以此处要听取数字信息。原文首先出现了干扰项170 acres，随后出现正确答案信息69 hectares。\n\n2. 本题需填入和lakes、ponds并列的单数可数名词。lakes和ponds在录音原文中相隔稍远，但均为原词重现。ponds后出现答案stream，此处也有明显的重读和停顿。考生需熟悉stream的词义和拼写。\n\n3. 题干中的science和plants均原词重现。录音中下一句出现analyse，替换题干中的look at，随后出现答案data。需注意这里look at的意思是“研究”，不能单纯理解为“看”，这一释义在听力题目中较为常见。\n\n4. 本题需听取和compass并列的单数名词，且答案有可能先于compass出现。geography原词重现，use替换为reading，随后出现答案map。并列词and后出现compass，可用于验证答案。\n\n5. 题干中的leisure and tourism原词重现。concentrates on替换为focuses on，随后出现答案visitors。需注意填入名词复数。\n\n6. 题干中的music可定位该题，natural materials原词重现，make替换为create，答案sounds不难得出。",
+          "promptHtml": "Geography: includes learning to use a [4] ______and compass"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Leisure and tourism: mostly concentrates on the park’s [5] ______",
+          "answers": [
+            "visitors"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_305193",
+          "explanation": "本节的题型为Part 1出现频率极高的笔记填空题。需注意词数要求为ONE WORD AND/OR A NUMBER。\n\n1. 考生需熟悉hectare为面积单位，所以此处要听取数字信息。原文首先出现了干扰项170 acres，随后出现正确答案信息69 hectares。\n\n2. 本题需填入和lakes、ponds并列的单数可数名词。lakes和ponds在录音原文中相隔稍远，但均为原词重现。ponds后出现答案stream，此处也有明显的重读和停顿。考生需熟悉stream的词义和拼写。\n\n3. 题干中的science和plants均原词重现。录音中下一句出现analyse，替换题干中的look at，随后出现答案data。需注意这里look at的意思是“研究”，不能单纯理解为“看”，这一释义在听力题目中较为常见。\n\n4. 本题需听取和compass并列的单数名词，且答案有可能先于compass出现。geography原词重现，use替换为reading，随后出现答案map。并列词and后出现compass，可用于验证答案。\n\n5. 题干中的leisure and tourism原词重现。concentrates on替换为focuses on，随后出现答案visitors。需注意填入名词复数。\n\n6. 题干中的music可定位该题，natural materials原词重现，make替换为create，答案sounds不难得出。",
+          "promptHtml": "Leisure and tourism: mostly concentrates on the park’s [5] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Music: Children make [6] ______with natural materials, and experiment with rhythm and speed.",
+          "answers": [
+            "sounds"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_444732",
+          "explanation": "本节的题型为Part 1出现频率极高的笔记填空题。需注意词数要求为ONE WORD AND/OR A NUMBER。\n\n1. 考生需熟悉hectare为面积单位，所以此处要听取数字信息。原文首先出现了干扰项170 acres，随后出现正确答案信息69 hectares。\n\n2. 本题需填入和lakes、ponds并列的单数可数名词。lakes和ponds在录音原文中相隔稍远，但均为原词重现。ponds后出现答案stream，此处也有明显的重读和停顿。考生需熟悉stream的词义和拼写。\n\n3. 题干中的science和plants均原词重现。录音中下一句出现analyse，替换题干中的look at，随后出现答案data。需注意这里look at的意思是“研究”，不能单纯理解为“看”，这一释义在听力题目中较为常见。\n\n4. 本题需听取和compass并列的单数名词，且答案有可能先于compass出现。geography原词重现，use替换为reading，随后出现答案map。并列词and后出现compass，可用于验证答案。\n\n5. 题干中的leisure and tourism原词重现。concentrates on替换为focuses on，随后出现答案visitors。需注意填入名词复数。\n\n6. 题干中的music可定位该题，natural materials原词重现，make替换为create，答案sounds不难得出。",
+          "promptHtml": "Music: Children make [6] ______with natural materials, and experiment with rhythm and speed."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "They give children a feeling of [7] ______that they may not have elsewhere.",
+          "answers": [
+            "freedom"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_108475",
+          "explanation": "7. 根据题干中的a feeling of可知要填入描述感受的名词。原文中的sense为feeling的常见同义替换，随后出现答案freedom。后文的定语从句that might not be a normal part of their lives对应题干的定语从句that they may not have elsewhere，也可帮助验证答案。\n\n8. 根据题干可知需听取和gain self-confidence并列的内容，并且答案很有可能在关键词前出现。题干词learn替换为develop，new原词重现，答案词skills需注意填入复数形式。录音下一句中出现self-confidence，可辅助验证答案。\n\n9. 原文仅出现一处价格信息，填入此处数字即可。注意前一句说的over 30指人数，而非价格。\n\n10. 题干词free在录音中替换为no charge；A such as B的举例结构替换为B and other A，为填空题常见的替换形式，不难得出答案为leaders。",
+          "promptHtml": "They give children a feeling of [7] ______that they may not have elsewhere."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Children learn new [8] ______and gain self-confidence.",
+          "answers": [
+            "skills"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_352007",
+          "explanation": "7. 根据题干中的a feeling of可知要填入描述感受的名词。原文中的sense为feeling的常见同义替换，随后出现答案freedom。后文的定语从句that might not be a normal part of their lives对应题干的定语从句that they may not have elsewhere，也可帮助验证答案。\n\n8. 根据题干可知需听取和gain self-confidence并列的内容，并且答案很有可能在关键词前出现。题干词learn替换为develop，new原词重现，答案词skills需注意填入复数形式。录音下一句中出现self-confidence，可辅助验证答案。\n\n9. 原文仅出现一处价格信息，填入此处数字即可。注意前一句说的over 30指人数，而非价格。\n\n10. 题干词free在录音中替换为no charge；A such as B的举例结构替换为B and other A，为填空题常见的替换形式，不难得出答案为leaders。",
+          "promptHtml": "Children learn new [8] ______and gain self-confidence."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Cost per child: £ [9] ______",
+          "answers": [
+            "4.95"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_810550",
+          "explanation": "7. 根据题干中的a feeling of可知要填入描述感受的名词。原文中的sense为feeling的常见同义替换，随后出现答案freedom。后文的定语从句that might not be a normal part of their lives对应题干的定语从句that they may not have elsewhere，也可帮助验证答案。\n\n8. 根据题干可知需听取和gain self-confidence并列的内容，并且答案很有可能在关键词前出现。题干词learn替换为develop，new原词重现，答案词skills需注意填入复数形式。录音下一句中出现self-confidence，可辅助验证答案。\n\n9. 原文仅出现一处价格信息，填入此处数字即可。注意前一句说的over 30指人数，而非价格。\n\n10. 题干词free在录音中替换为no charge；A such as B的举例结构替换为B and other A，为填空题常见的替换形式，不难得出答案为leaders。",
+          "promptHtml": "Cost per child: £ [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Adults, such as [10] ______, free",
+          "answers": [
+            "leaders"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8488_440696",
+          "explanation": "7. 根据题干中的a feeling of可知要填入描述感受的名词。原文中的sense为feeling的常见同义替换，随后出现答案freedom。后文的定语从句that might not be a normal part of their lives对应题干的定语从句that they may not have elsewhere，也可帮助验证答案。\n\n8. 根据题干可知需听取和gain self-confidence并列的内容，并且答案很有可能在关键词前出现。题干词learn替换为develop，new原词重现，答案词skills需注意填入复数形式。录音下一句中出现self-confidence，可辅助验证答案。\n\n9. 原文仅出现一处价格信息，填入此处数字即可。注意前一句说的over 30指人数，而非价格。\n\n10. 题干词free在录音中替换为no charge；A such as B的举例结构替换为B and other A，为填空题常见的替换形式，不难得出答案为leaders。",
+          "promptHtml": "Adults, such as [10] ______, free"
+        }
+      ],
+      "sourceType": "part1_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><b>Hinchingbrooke Country Park</b></p>\n\n<p><b>The park</b></p>\n\n<p>Area:<strong>[1] ______</strong>hectares</p>\n\n<p>Habitats: wetland, grassland and woodland</p>\n\n<p>Wetland: lakes, ponds and a <strong>[2] ______</strong><b>  </b></p>\n\n<p>Wildlife includes birds, insects and animals</p>\n\n<p><b>Subjects studied in educational visits include</b></p>\n\n<p>Science: Children look at <strong>[3] ______</strong><b> </b>about plants, etc.</p>\n\n<p>Geography: includes learning to use a <strong>[4] ______</strong>and compass</p>\n\n<p>History: changes in land use</p>\n\n<p>Leisure and tourism: mostly concentrates on the park’s <strong>[5] ______</strong></p>\n\n<p>Music: Children make <strong>[6] ______</strong>with natural materials, and experiment with rhythm and speed.</p>\n<p><b>Benefits of outdoor educational visits</b></p>\n\n<p>They give children a feeling of <strong>[7] ______</strong>that they may not have elsewhere.</p>\n\n<p>Children learn new <strong>[8] ______</strong>and gain self-confidence.</p>\n\n<p><b>Practical issues</b></p>\n\n<p>Cost per child: £ <strong>[9] ______</strong>  </p>\n\n<p>Adults, such as <strong>[10] ______</strong>, free</p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Sally: Good morning. Hinchingbrooke Country Park, Sally speaking. I’m one of the rangers.<br>\nJohn: Oh hello. My name’s John Chapman, and I’m a teaching assistant at a local primary school.<br>\nSally: OK. What would you like to know?    <br>\nJohn: Well, I’m new to this area, so perhaps you could tell me something about the park first, please.<br>\nSally: Of course. Altogether the park covers 170 acres, that’s 69 hectares. <br>\nSally: There are three main types of habitat: wetland, grassland and woodland. <br>\nSally: The woods are well established and varied, with an oak plantation, and other areas of mixed species.<br>\nJohn: Right.    <br>\nSally: The wetland is quite varied, too. The original farmland was dug up around 40 years ago to extract gravel. <br>\nSally: Once this work was completed, the gravel pits filled with water, forming the two large lakes. <br>\nSally: There are also several smaller ones, ponds and a stream that flows through the park.<br>\nJohn: OK, so I suppose with these different habitats there’s quite a variety of wildlife.<br>\nSally: There certainly is – a lot of different species of birds and insects, and also animals like deer and rabbits.<br>\nJohn: And I understand you organise educational visits for school parties.    <br>\nSally: That’s right. We can organise a wide range of activities and adapt them to suit all ages.<br>\nJohn: Can you give me some examples of the activities?    <br>\nSally: Well, one focus is on science, where we help children to discover and study plants, trees and insects. <br>\nSally: They also collect and analyse data about the things they see.<br>\nJohn: Uhuh.    <br>\nSally: Another focus is on geography. The park is a great environment to learn and practise reading a map and using a compass to navigate around the park.<br>\nJohn: Do you do anything connected with history?    <br>\nSally: Yes, we do. For instance, the children can explore how the use of the land has changed over time. Then there’s leisure and tourism.<br>\nJohn: That focuses on your visitors, I would imagine.    <br>\nSally: Yes, mostly. The children find out about them, their requirements, the problems they may cause and how we manage these. <br>\nSally: And another subject we cover is music: here the children experiment with natural materials to create sounds and explore rhythm and tempo.<br>\nJohn: That must be fun!    <br>\nSally: Most children really enjoy it.    <br>\nSally: And of course, all the activities are educational, too. Learning outside the classroom encourages children to be creative, and to explore and discover for themselves.<br>\nJohn: I would imagine they get a sense of freedom that might not be a normal part of their lives.          <br>\nSally: That’s right. And very often the children discover that they can do things they didn’t know they could do, and they develop new skills. This gives them greater self-confidence.<br>\nJohn: It sounds great. So, what about the practical side of it? How much does it cost for a full-day visit? We would expect to bring between 30 and 40 children.<br>\nSally: If there are over 30, it costs £4.95 for each child who attends on the day. We invoice you afterwards, so you don’t pay for children who can’t come because of sickness, for example. <br>\nSally: There’s no charge for leaders and other adults – as many as you want to bring.                     <br>\nJohn: That sounds very fair. Well, thanks for all the information. I’ll need to discuss it with my colleagues, and I hope to get back to you soon to make a booking.<br>\nSally: We’ll look forward to hearing from you. Goodbye.<br>\nJohn: Goodbye, and thank you.</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8488.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 471.223
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "id": "cambridge-5-test-4-reading-3",
+  "title": "The effects of light on plant and animal species",
+  "titleCn": "The effects of light on plant and animal species",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 5,
+    "test": 4
+  },
+  "sourceQuestionId": "7093",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7093",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The effects of light on plant and animal species"
+    },
+    {
+      "label": "2",
+      "text": "Light is important to organisms for two different reasons. Firstly it is used as a cue for the timing of daily and seasonal rhythms in both plants and animals, and secondly it is used to assist growth in plants."
+    },
+    {
+      "label": "3",
+      "text": "Breeding in most organisms occurs during a part of the year only, and so a reliable cue is needed to trigger breeding behaviour. Day length is an excellent cue, because it provides a perfectly predictable pattern of change within the year. In the temperate zone in spring, temperatures fluctuate greatly from day to day, but day length increases steadily by a predictable amount. The seasonal impact of day length on physiological responses is called photoperiodism, and the amount of experimental evidence for this phenomenon is considerable. For example, some species of birds' breeding can be induced even in midwinter simply by increasing day length artificially (Wolfson 1964). Other examples of photoperiodism occur in plants. A short-day plant flowers when the day is less than a certain critical length. A long-day plant flowers after a certain critical day length is exceeded. In both cases the critical day length differs from species to species. Plants which flower after a period of vegetative growth, regardless of photoperiod, are known as day-neutral plants."
+    },
+    {
+      "label": "4",
+      "text": "Breeding seasons in animals such as birds have evolved to occupy the part of the year in which offspring have the greatest chances of survival. Before the breeding season begins, food reserves must be built up to support the energy cost of reproduction, and to provide for young birds both when they are in the nest and after fiedging. Thus many temperate-zone birds use the increasing day lengths in spring as a cue to begin the nesting cycle, because this is a point when adequate food resources will be assured."
+    },
+    {
+      "label": "5",
+      "text": "The adaptive significance of photoperiodism in plants is also clear. Short-day plants that flower in spring in the temperate zone are adapted to maximising seedling growth during the growing season. Long-day plants are adapted for situations that require fertilization by insects, or a long period of seed ripening. Short-day plants that flower in the autumn in the temperate zone are able to build up food reserves over the growing season and over winter as seeds. Day-neutral plants have an evolutionary advantage when the connection between the favourable period for reproduction and day length is much less certain. For example, desert annuals germinate, flower and seed whenever suitable rainfall occurs, regardless of the day length."
+    },
+    {
+      "label": "6",
+      "text": "The breeding season of some plants can be delayed to extraordinary lengths. Bamboos are perennial grasses that remain in a vegetative state for many years and then suddenly flower, fruit and die (Evans 1976). Every bamboo of the species Chusquea abietifolia on the island of Jamaica flowered, set seed and died during 1884. The next generation of bamboo flowered and died between 1916 and 1918, which suggests a vegetative cycle of about 31 years. The climatic trigger for this flowering cycle is not yet known, but the adaptive significance is clear. The simultaneous production of masses of bamboo seeds (in some cases lying 12 to 15 centimetres deep on the ground) is more than all the seed-eating animals can cope with at the time, so that some seeds escape being eaten and grow up to form the next generation (Evans 1976)."
+    },
+    {
+      "label": "7",
+      "text": "The second reason light is important to organisms is that it is essential for photosynthesis. This is the process by which plants use energy from the sun to convert carbon from soil or water into organic material for growth. The rate of photosynthesis in a plant can be measured by calculating the rate of its uptake of carbon. There is a wide range of photosynthetic responses of plants to variations in light intensity. Some plants reach maximal photosynthesis at one-quarter full sunlight, and others, like sugarcane, never reach a maximum, but continue to increase photosynthesis rate as light intensity rises."
+    },
+    {
+      "label": "8",
+      "text": "Plants in general can be divided into two groups: shade-tolerant species and shade-intolerant species. This classification is commonly used in forestry and horticulture. Shade-tolerant plants have lower photosynthetic rates and hence have lower growth rates than those of shade-intolerant species. Plant species become adapted to living in a certain kind of habitat, and in the process evolve a series of characteristics that prevent them from occupying other habitats. Grime (1966) suggests that light may be one of the major components directing these adaptations. For example, eastern hemlock seedlings are shade-tolerant. They can survive in the forest understorey under very low light levels because they have a low photosynthetic rate."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 27－33\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "There is plenty of scientific evidence to support photoperiodism.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7093_538303",
+          "explanation": "定位词：scientific evidence, photoperiodism\n\n原文第2段第4句 题目：支持光周期现象的科学证据十分充分。\n\n原文：“受季节性影响的日照长度在生理学上的反应叫做光周期现象。这种现象的试验证据的数量相当可观。”因此答案为TRUE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Some types of bird can be encouraged to breed out of season.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7093_689732",
+          "explanation": "定位词：bird, breed, season\n\n原文第2段第5句 题目：一些鸟类能够被诱发在非繁殖季节进行繁殖。原文：“仅仅通过人工增加日照长度，一些鸟类甚至在冬到的时候都会被诱发繁殖(Wolfson，1964年) 。” 因此答案为TRUE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "Photoperiodism is restricted to certain geographic areas.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7093_841793",
+          "explanation": "光周期现象被限制在一些特定地区。\n\n定位词：photoperiodism, geographic areas\n\n原文没有提到题目的内容，因此答案为NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Desert annuals are examples of long-day plants.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7093_521965",
+          "explanation": "题目：沙漠植物属于长日照植物。\n\n定位词：desert annuals, long-day plants 原文第4段最后两句\n\n原文：“日中性植物有进化优势。对于它们而言，繁殖的最好季节和日照长度之间并没有必然的关系。例如，对于沙漠的一年生植物而言，只要有合适的雨水，它们就会生长，开花结果，不受日照长短的影响。”由此可见沙漠植物属于日中性植物而非长日照植物，因此答案为FALSE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Bamboos flower several times during their life cycle.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7093_613936",
+          "explanation": "题目：“竹子在其生命周期中开好几次花。”\n\n定位词：bamboo 原文第5段第2句\n\n原文：“竹子是多年生植物，在很多年的时间里都保持生长状态。然后突然开花结果，死亡(Evans, 1976)。”因此答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Scientists have yet to determine the cue for Chusquea abietifolia's seasonal rhythm.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7093_222609",
+          "explanation": "题目：科学家还没有确定关于Chusquea abietifolia竹子季节性周期的线索。\n\n定位词：Chusquea abietifolia 原文第5段第3句至第5句\n\n原文：“1884年，牙买加岛上的Chusquea abietifolia竹子全部开花，结果,死亡。下一代的这种竹子在1916年到1918年间也都开花、死亡了，这暗示这种竹子的生长期大约为31年。这种花期循环的气候诱因目前还不清楚……”因此答案为TRUE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Eastern hemlock is a fast-growing plant.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7093_101040",
+          "explanation": "题目：东方的芹叶钩吻幼苗是一种生长快速的植物。\n\n定位词：Eastern hemlock 原文末段第3句及倒数第2句\n\n原文：“耐阴植物的光合作用速率低，因此生长速度低干喜光植物。……东方的芹叶钩吻幼苗是耐阴植物，它们可以生存在森林中光照很少的林下叶层，因为它们的光合作用速率低。”因此答案为FALSE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 34-40\n\nComplete the sentences.\n\nWrite NO MORE THAN THREE WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Day length is a useful cue for breeding in areas where [34] ______are unpredictable.",
+          "answers": [
+            "temperatures"
+          ],
+          "maxWords": 3,
+          "sourceCode": "Q7093_849659",
+          "explanation": "题号: 34\n\n题目：在不可预测的地区， 日照长度是繁殖的有用提示。\n\n定位词：Day length, cue 原文第2段第1句至第3句\n\n原文：“大多数生物体的繁殖都只发生在一年中的某些时候，因此，需要一个可靠的提示来引发生育行为。日照长度就是非常好的提示，因为它提供了一个极好的可预测的年之中变化的模式。在温带的春季，一天与一天之间气温(temperatures) 波动很大，但是日照长度却按照可预测的数量稳步增加。”\n\n因此答案为temperatures。\n\n题号: 35\n\n题目：对光周期没什么反应的植物被称为\n\n定位词：Do not respond to light 原文第2段末句\n\n原文：“那些不受光周期影响、 经过一段时间生长之后便开花的植物叫做日中性植物(day-neutral)。”因此答案为day-neutral。\n\n题号: 36\n\n题目：温带的鸟类将日照长度与筑巢和联系起来。\n\n定位词：Birds, nesting 原文第3段末句\n\n原文：“因此，很多温带的鸟类将春季日照长度的增加当作开始筑巢周期的提示，因为在这个时候能保证有足够的食物(food) 来源。” 因此答案为food。\n\n题号: 37\n\n题目：长日照植物依靠___帮助其繁殖。\n\n定位词：Plants, days are long 原文第4段第3句\n\n原文：“长日照植物会选择能够得到昆虫授精(fertilization by insects)或者使种子有较长成熟期的时期。”因此答案为fertilization by insects。\n\n题号: 38\n\n题目：沙漠植物将 视为繁殖的信号。\n\n定位词：Desert annuals 原文第4段末句\n\n原文：“对于沙漠的一年生植物而言，只要有合适的雨水(rainfall)，它们就会生长，开花结果，不受日照长短的影响。”因此答案rainfall。\n\n题号: 39\n\n定位词：Photosynthetic\n\n原文第6段末句 原文：“ 一些植物在I/4全光照的时候能达到光合作用最高值；而另外些植物，比如甘蔗(sugarcane) ，从来不能达到最高值，但是随着光照强度的增加，光合作用的速率会持续增高。”因此答案为sugarcane。\n\n题号: 40\n\n题目：能否耐阴是林业和园艺业对植物____的一个评标准。\n\n定位词：Tolerance to shade, forestry, horticulture 原文末段第2句\n\n原文：“总体而言，植物可以被分为两种：耐阴类和喜光类。这一分类(classification)在林业和园艺业中广泛使用。”因此答案为classification。",
+          "promptHtml": "Day length is a useful cue for breeding in areas where [34] ______are unpredictable."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "Plants which do not respond to light levels are referred to as [35] ______.",
+          "answers": [
+            "day-neutral",
+            "day-neutral plants"
+          ],
+          "maxWords": 3,
+          "sourceCode": "Q7093_148830",
+          "explanation": "题号: 34\n\n题目：在不可预测的地区， 日照长度是繁殖的有用提示。\n\n定位词：Day length, cue 原文第2段第1句至第3句\n\n原文：“大多数生物体的繁殖都只发生在一年中的某些时候，因此，需要一个可靠的提示来引发生育行为。日照长度就是非常好的提示，因为它提供了一个极好的可预测的年之中变化的模式。在温带的春季，一天与一天之间气温(temperatures) 波动很大，但是日照长度却按照可预测的数量稳步增加。”\n\n因此答案为temperatures。\n\n题号: 35\n\n题目：对光周期没什么反应的植物被称为\n\n定位词：Do not respond to light 原文第2段末句\n\n原文：“那些不受光周期影响、 经过一段时间生长之后便开花的植物叫做日中性植物(day-neutral)。”因此答案为day-neutral。\n\n题号: 36\n\n题目：温带的鸟类将日照长度与筑巢和联系起来。\n\n定位词：Birds, nesting 原文第3段末句\n\n原文：“因此，很多温带的鸟类将春季日照长度的增加当作开始筑巢周期的提示，因为在这个时候能保证有足够的食物(food) 来源。” 因此答案为food。\n\n题号: 37\n\n题目：长日照植物依靠___帮助其繁殖。\n\n定位词：Plants, days are long 原文第4段第3句\n\n原文：“长日照植物会选择能够得到昆虫授精(fertilization by insects)或者使种子有较长成熟期的时期。”因此答案为fertilization by insects。\n\n题号: 38\n\n题目：沙漠植物将 视为繁殖的信号。\n\n定位词：Desert annuals 原文第4段末句\n\n原文：“对于沙漠的一年生植物而言，只要有合适的雨水(rainfall)，它们就会生长，开花结果，不受日照长短的影响。”因此答案rainfall。\n\n题号: 39\n\n定位词：Photosynthetic\n\n原文第6段末句 原文：“ 一些植物在I/4全光照的时候能达到光合作用最高值；而另外些植物，比如甘蔗(sugarcane) ，从来不能达到最高值，但是随着光照强度的增加，光合作用的速率会持续增高。”因此答案为sugarcane。\n\n题号: 40\n\n题目：能否耐阴是林业和园艺业对植物____的一个评标准。\n\n定位词：Tolerance to shade, forestry, horticulture 原文末段第2句\n\n原文：“总体而言，植物可以被分为两种：耐阴类和喜光类。这一分类(classification)在林业和园艺业中广泛使用。”因此答案为classification。",
+          "promptHtml": "Plants which do not respond to light levels are referred to as [35] ______."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Birds in temperate climates associate longer days with nesting and the availability of [36] ______.",
+          "answers": [
+            "food",
+            "food resources",
+            "adequate food",
+            "adequate food resources"
+          ],
+          "maxWords": 3,
+          "sourceCode": "Q7093_793377",
+          "explanation": "题号: 34\n\n题目：在不可预测的地区， 日照长度是繁殖的有用提示。\n\n定位词：Day length, cue 原文第2段第1句至第3句\n\n原文：“大多数生物体的繁殖都只发生在一年中的某些时候，因此，需要一个可靠的提示来引发生育行为。日照长度就是非常好的提示，因为它提供了一个极好的可预测的年之中变化的模式。在温带的春季，一天与一天之间气温(temperatures) 波动很大，但是日照长度却按照可预测的数量稳步增加。”\n\n因此答案为temperatures。\n\n题号: 35\n\n题目：对光周期没什么反应的植物被称为\n\n定位词：Do not respond to light 原文第2段末句\n\n原文：“那些不受光周期影响、 经过一段时间生长之后便开花的植物叫做日中性植物(day-neutral)。”因此答案为day-neutral。\n\n题号: 36\n\n题目：温带的鸟类将日照长度与筑巢和联系起来。\n\n定位词：Birds, nesting 原文第3段末句\n\n原文：“因此，很多温带的鸟类将春季日照长度的增加当作开始筑巢周期的提示，因为在这个时候能保证有足够的食物(food) 来源。” 因此答案为food。\n\n题号: 37\n\n题目：长日照植物依靠___帮助其繁殖。\n\n定位词：Plants, days are long 原文第4段第3句\n\n原文：“长日照植物会选择能够得到昆虫授精(fertilization by insects)或者使种子有较长成熟期的时期。”因此答案为fertilization by insects。\n\n题号: 38\n\n题目：沙漠植物将 视为繁殖的信号。\n\n定位词：Desert annuals 原文第4段末句\n\n原文：“对于沙漠的一年生植物而言，只要有合适的雨水(rainfall)，它们就会生长，开花结果，不受日照长短的影响。”因此答案rainfall。\n\n题号: 39\n\n定位词：Photosynthetic\n\n原文第6段末句 原文：“ 一些植物在I/4全光照的时候能达到光合作用最高值；而另外些植物，比如甘蔗(sugarcane) ，从来不能达到最高值，但是随着光照强度的增加，光合作用的速率会持续增高。”因此答案为sugarcane。\n\n题号: 40\n\n题目：能否耐阴是林业和园艺业对植物____的一个评标准。\n\n定位词：Tolerance to shade, forestry, horticulture 原文末段第2句\n\n原文：“总体而言，植物可以被分为两种：耐阴类和喜光类。这一分类(classification)在林业和园艺业中广泛使用。”因此答案为classification。",
+          "promptHtml": "Birds in temperate climates associate longer days with nesting and the availability of [36] ______."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Plants that flower when days are long often depend on [37] ______to help them reproduce.",
+          "answers": [
+            "insects",
+            "fertilization by insects"
+          ],
+          "maxWords": 3,
+          "sourceCode": "Q7093_735663",
+          "explanation": "题号: 34\n\n题目：在不可预测的地区， 日照长度是繁殖的有用提示。\n\n定位词：Day length, cue 原文第2段第1句至第3句\n\n原文：“大多数生物体的繁殖都只发生在一年中的某些时候，因此，需要一个可靠的提示来引发生育行为。日照长度就是非常好的提示，因为它提供了一个极好的可预测的年之中变化的模式。在温带的春季，一天与一天之间气温(temperatures) 波动很大，但是日照长度却按照可预测的数量稳步增加。”\n\n因此答案为temperatures。\n\n题号: 35\n\n题目：对光周期没什么反应的植物被称为\n\n定位词：Do not respond to light 原文第2段末句\n\n原文：“那些不受光周期影响、 经过一段时间生长之后便开花的植物叫做日中性植物(day-neutral)。”因此答案为day-neutral。\n\n题号: 36\n\n题目：温带的鸟类将日照长度与筑巢和联系起来。\n\n定位词：Birds, nesting 原文第3段末句\n\n原文：“因此，很多温带的鸟类将春季日照长度的增加当作开始筑巢周期的提示，因为在这个时候能保证有足够的食物(food) 来源。” 因此答案为food。\n\n题号: 37\n\n题目：长日照植物依靠___帮助其繁殖。\n\n定位词：Plants, days are long 原文第4段第3句\n\n原文：“长日照植物会选择能够得到昆虫授精(fertilization by insects)或者使种子有较长成熟期的时期。”因此答案为fertilization by insects。\n\n题号: 38\n\n题目：沙漠植物将 视为繁殖的信号。\n\n定位词：Desert annuals 原文第4段末句\n\n原文：“对于沙漠的一年生植物而言，只要有合适的雨水(rainfall)，它们就会生长，开花结果，不受日照长短的影响。”因此答案rainfall。\n\n题号: 39\n\n定位词：Photosynthetic\n\n原文第6段末句 原文：“ 一些植物在I/4全光照的时候能达到光合作用最高值；而另外些植物，比如甘蔗(sugarcane) ，从来不能达到最高值，但是随着光照强度的增加，光合作用的速率会持续增高。”因此答案为sugarcane。\n\n题号: 40\n\n题目：能否耐阴是林业和园艺业对植物____的一个评标准。\n\n定位词：Tolerance to shade, forestry, horticulture 原文末段第2句\n\n原文：“总体而言，植物可以被分为两种：耐阴类和喜光类。这一分类(classification)在林业和园艺业中广泛使用。”因此答案为classification。",
+          "promptHtml": "Plants that flower when days are long often depend on [37] ______to help them reproduce."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Desert annuals respond to [38] ______as a signal for reproduction.",
+          "answers": [
+            "rainfall",
+            "suitable rainfall"
+          ],
+          "maxWords": 3,
+          "sourceCode": "Q7093_233612",
+          "explanation": "题号: 34\n\n题目：在不可预测的地区， 日照长度是繁殖的有用提示。\n\n定位词：Day length, cue 原文第2段第1句至第3句\n\n原文：“大多数生物体的繁殖都只发生在一年中的某些时候，因此，需要一个可靠的提示来引发生育行为。日照长度就是非常好的提示，因为它提供了一个极好的可预测的年之中变化的模式。在温带的春季，一天与一天之间气温(temperatures) 波动很大，但是日照长度却按照可预测的数量稳步增加。”\n\n因此答案为temperatures。\n\n题号: 35\n\n题目：对光周期没什么反应的植物被称为\n\n定位词：Do not respond to light 原文第2段末句\n\n原文：“那些不受光周期影响、 经过一段时间生长之后便开花的植物叫做日中性植物(day-neutral)。”因此答案为day-neutral。\n\n题号: 36\n\n题目：温带的鸟类将日照长度与筑巢和联系起来。\n\n定位词：Birds, nesting 原文第3段末句\n\n原文：“因此，很多温带的鸟类将春季日照长度的增加当作开始筑巢周期的提示，因为在这个时候能保证有足够的食物(food) 来源。” 因此答案为food。\n\n题号: 37\n\n题目：长日照植物依靠___帮助其繁殖。\n\n定位词：Plants, days are long 原文第4段第3句\n\n原文：“长日照植物会选择能够得到昆虫授精(fertilization by insects)或者使种子有较长成熟期的时期。”因此答案为fertilization by insects。\n\n题号: 38\n\n题目：沙漠植物将 视为繁殖的信号。\n\n定位词：Desert annuals 原文第4段末句\n\n原文：“对于沙漠的一年生植物而言，只要有合适的雨水(rainfall)，它们就会生长，开花结果，不受日照长短的影响。”因此答案rainfall。\n\n题号: 39\n\n定位词：Photosynthetic\n\n原文第6段末句 原文：“ 一些植物在I/4全光照的时候能达到光合作用最高值；而另外些植物，比如甘蔗(sugarcane) ，从来不能达到最高值，但是随着光照强度的增加，光合作用的速率会持续增高。”因此答案为sugarcane。\n\n题号: 40\n\n题目：能否耐阴是林业和园艺业对植物____的一个评标准。\n\n定位词：Tolerance to shade, forestry, horticulture 原文末段第2句\n\n原文：“总体而言，植物可以被分为两种：耐阴类和喜光类。这一分类(classification)在林业和园艺业中广泛使用。”因此答案为classification。",
+          "promptHtml": "Desert annuals respond to [38] ______as a signal for reproduction."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "There is no limit to the photosynthetic rate in plants such as [39] ______.",
+          "answers": [
+            "sugarcane"
+          ],
+          "maxWords": 3,
+          "sourceCode": "Q7093_485065",
+          "explanation": "题号: 34\n\n题目：在不可预测的地区， 日照长度是繁殖的有用提示。\n\n定位词：Day length, cue 原文第2段第1句至第3句\n\n原文：“大多数生物体的繁殖都只发生在一年中的某些时候，因此，需要一个可靠的提示来引发生育行为。日照长度就是非常好的提示，因为它提供了一个极好的可预测的年之中变化的模式。在温带的春季，一天与一天之间气温(temperatures) 波动很大，但是日照长度却按照可预测的数量稳步增加。”\n\n因此答案为temperatures。\n\n题号: 35\n\n题目：对光周期没什么反应的植物被称为\n\n定位词：Do not respond to light 原文第2段末句\n\n原文：“那些不受光周期影响、 经过一段时间生长之后便开花的植物叫做日中性植物(day-neutral)。”因此答案为day-neutral。\n\n题号: 36\n\n题目：温带的鸟类将日照长度与筑巢和联系起来。\n\n定位词：Birds, nesting 原文第3段末句\n\n原文：“因此，很多温带的鸟类将春季日照长度的增加当作开始筑巢周期的提示，因为在这个时候能保证有足够的食物(food) 来源。” 因此答案为food。\n\n题号: 37\n\n题目：长日照植物依靠___帮助其繁殖。\n\n定位词：Plants, days are long 原文第4段第3句\n\n原文：“长日照植物会选择能够得到昆虫授精(fertilization by insects)或者使种子有较长成熟期的时期。”因此答案为fertilization by insects。\n\n题号: 38\n\n题目：沙漠植物将 视为繁殖的信号。\n\n定位词：Desert annuals 原文第4段末句\n\n原文：“对于沙漠的一年生植物而言，只要有合适的雨水(rainfall)，它们就会生长，开花结果，不受日照长短的影响。”因此答案rainfall。\n\n题号: 39\n\n定位词：Photosynthetic\n\n原文第6段末句 原文：“ 一些植物在I/4全光照的时候能达到光合作用最高值；而另外些植物，比如甘蔗(sugarcane) ，从来不能达到最高值，但是随着光照强度的增加，光合作用的速率会持续增高。”因此答案为sugarcane。\n\n题号: 40\n\n题目：能否耐阴是林业和园艺业对植物____的一个评标准。\n\n定位词：Tolerance to shade, forestry, horticulture 原文末段第2句\n\n原文：“总体而言，植物可以被分为两种：耐阴类和喜光类。这一分类(classification)在林业和园艺业中广泛使用。”因此答案为classification。",
+          "promptHtml": "There is no limit to the photosynthetic rate in plants such as [39] ______."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Tolerance to shade is one criterion for the [40] ______of plants in forestry and horticulture.",
+          "answers": [
+            "classification"
+          ],
+          "maxWords": 3,
+          "sourceCode": "Q7093_214856",
+          "explanation": "题号: 34\n\n题目：在不可预测的地区， 日照长度是繁殖的有用提示。\n\n定位词：Day length, cue 原文第2段第1句至第3句\n\n原文：“大多数生物体的繁殖都只发生在一年中的某些时候，因此，需要一个可靠的提示来引发生育行为。日照长度就是非常好的提示，因为它提供了一个极好的可预测的年之中变化的模式。在温带的春季，一天与一天之间气温(temperatures) 波动很大，但是日照长度却按照可预测的数量稳步增加。”\n\n因此答案为temperatures。\n\n题号: 35\n\n题目：对光周期没什么反应的植物被称为\n\n定位词：Do not respond to light 原文第2段末句\n\n原文：“那些不受光周期影响、 经过一段时间生长之后便开花的植物叫做日中性植物(day-neutral)。”因此答案为day-neutral。\n\n题号: 36\n\n题目：温带的鸟类将日照长度与筑巢和联系起来。\n\n定位词：Birds, nesting 原文第3段末句\n\n原文：“因此，很多温带的鸟类将春季日照长度的增加当作开始筑巢周期的提示，因为在这个时候能保证有足够的食物(food) 来源。” 因此答案为food。\n\n题号: 37\n\n题目：长日照植物依靠___帮助其繁殖。\n\n定位词：Plants, days are long 原文第4段第3句\n\n原文：“长日照植物会选择能够得到昆虫授精(fertilization by insects)或者使种子有较长成熟期的时期。”因此答案为fertilization by insects。\n\n题号: 38\n\n题目：沙漠植物将 视为繁殖的信号。\n\n定位词：Desert annuals 原文第4段末句\n\n原文：“对于沙漠的一年生植物而言，只要有合适的雨水(rainfall)，它们就会生长，开花结果，不受日照长短的影响。”因此答案rainfall。\n\n题号: 39\n\n定位词：Photosynthetic\n\n原文第6段末句 原文：“ 一些植物在I/4全光照的时候能达到光合作用最高值；而另外些植物，比如甘蔗(sugarcane) ，从来不能达到最高值，但是随着光照强度的增加，光合作用的速率会持续增高。”因此答案为sugarcane。\n\n题号: 40\n\n题目：能否耐阴是林业和园艺业对植物____的一个评标准。\n\n定位词：Tolerance to shade, forestry, horticulture 原文末段第2句\n\n原文：“总体而言，植物可以被分为两种：耐阴类和喜光类。这一分类(classification)在林业和园艺业中广泛使用。”因此答案为classification。",
+          "promptHtml": "Tolerance to shade is one criterion for the [40] ______of plants in forestry and horticulture."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Day length is a useful cue for breeding in areas where <strong>[34] ______</strong>are unpredictable.</p>\n\n<p>Plants which do not respond to light levels are referred to as <strong>[35] ______</strong>.</p>\n\n<p>Birds in temperate climates associate longer days with nesting and the availability of <strong>[36] ______</strong>.</p>\n\n<p>Plants that flower when days are long often depend on <strong>[37] ______</strong>to help them reproduce.</p>\n\n<p>Desert annuals respond to <strong>[38] ______</strong>as a signal for reproduction.</p>\n\n<p>There is no limit to the photosynthetic rate in plants such as <strong>[39] ______</strong>.</p>\n\n<p>Tolerance to shade is one criterion for the <strong>[40] ______</strong>of plants in forestry and horticulture.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The effects of light on plant and animal species</strong></span></p><p>Light is important to organisms for two different reasons. Firstly it is used as a cue for the timing of daily and seasonal rhythms in both plants and animals, and secondly it is used to assist growth in plants.</p><p>Breeding in most organisms occurs during a part of the year only, and so a reliable cue is needed to trigger breeding behaviour. Day length is an excellent cue, because it provides a perfectly predictable pattern of change within the year. In the temperate zone in spring, temperatures fluctuate greatly from day to day, but day length increases steadily by a predictable amount. The seasonal impact of day length on physiological responses is called photoperiodism, and the amount of experimental evidence for this phenomenon is considerable. For example, some species of birds&#x27; breeding can be induced even in midwinter simply by increasing day length artificially (Wolfson 1964). Other examples of photoperiodism occur in plants. A short-day plant flowers when the day is less than a certain critical length. A long-day plant flowers after a certain critical day length is exceeded. In both cases the critical day length differs from species to species. Plants which flower after a period of vegetative growth, regardless of photoperiod, are known as day-neutral plants.</p><p>Breeding seasons in animals such as birds have evolved to occupy the part of the year in which offspring have the greatest chances of survival. Before the breeding season begins, food reserves must be built up to support the energy cost of reproduction, and to provide for young birds both when they are in the nest and after fiedging. Thus many temperate-zone birds use the increasing day lengths in spring as a cue to begin the nesting cycle, because this is a point when adequate food resources will be assured.</p><p>The adaptive significance of photoperiodism in plants is also clear. Short-day plants that flower in spring in the temperate zone are adapted to maximising seedling growth during the growing season. Long-day plants are adapted for situations that require fertilization by insects, or a long period of seed ripening. Short-day plants that flower in the autumn in the temperate zone are able to build up food reserves over the growing season and over winter as seeds. Day-neutral plants have an evolutionary advantage when the connection between the favourable period for reproduction and day length is much less certain. For example, desert annuals germinate, flower and seed whenever suitable rainfall occurs, regardless of the day length.</p><p>The breeding season of some plants can be delayed to extraordinary lengths. Bamboos are perennial grasses that remain in a vegetative state for many years and then suddenly flower, fruit and die (Evans 1976). Every bamboo of the species Chusquea abietifolia on the island of Jamaica flowered, set seed and died during 1884. The next generation of bamboo flowered and died between 1916 and 1918, which suggests a vegetative cycle of about 31 years. The climatic trigger for this flowering cycle is not yet known, but the adaptive significance is clear. The simultaneous production of masses of bamboo seeds (in some cases lying 12 to 15 centimetres deep on the ground) is more than all the seed-eating animals can cope with at the time, so that some seeds escape being eaten and grow up to form the next generation (Evans 1976).</p><p>The second reason light is important to organisms is that it is essential for photosynthesis. This is the process by which plants use energy from the sun to convert carbon from soil or water into organic material for growth. The rate of photosynthesis in a plant can be measured by calculating the rate of its uptake of carbon. There is a wide range of photosynthetic responses of plants to variations in light intensity. Some plants reach maximal photosynthesis at one-quarter full sunlight, and others, like sugarcane, never reach a maximum, but continue to increase photosynthesis rate as light intensity rises.</p><p>Plants in general can be divided into two groups: shade-tolerant species and shade-intolerant species. This classification is commonly used in forestry and horticulture. Shade-tolerant plants have lower photosynthetic rates and hence have lower growth rates than those of shade-intolerant species. Plant species become adapted to living in a certain kind of habitat, and in the process evolve a series of characteristics that prevent them from occupying other habitats. Grime (1966) suggests that light may be one of the major components directing these adaptations. For example, eastern hemlock seedlings are shade-tolerant. They can survive in the forest understorey under very low light levels because they have a low photosynthetic rate.</p>"
+}

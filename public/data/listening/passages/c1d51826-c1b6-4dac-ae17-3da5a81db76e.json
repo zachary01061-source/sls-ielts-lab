@@ -1,0 +1,285 @@
+{
+  "id": "c1d51826-c1b6-4dac-ae17-3da5a81db76e",
+  "title": "Invasive species（机经听写）",
+  "titleCn": "雅思听力Part4入侵物种机经：金雀花、小檗、鼠李",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/c1d51826-c1b6-4dac-ae17-3da5a81db76e",
+  "duration": 198,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,399"
+    },
+    {
+      "label": "2",
+      "text": "Dictations. Invasive species."
+    },
+    {
+      "label": "3",
+      "text": "00:00:05,000"
+    },
+    {
+      "label": "4",
+      "text": "There are many problems associated with invasive species. First of all, these species can take over a garden. Secondly, birds disperse seeds through their waste. Thirdly, humans are the primary cause of the spread of invasive species. Now, let's move on and talk about some examples of invasive species. The first one is common broom, Cytisus scoparius. It comes from Europe and has flowers in the summer. In some regions, its spread has left negative effects on the industry of timber."
+    },
+    {
+      "label": "5",
+      "text": "00:00:40,939"
+    },
+    {
+      "label": "6",
+      "text": "Nowadays, biologists are making efforts to manage it with some species of pears. Another example is Japanese barberry, Berberis thunbergi. It is transported from Russia before 1900. It has yellow insects under the bark. The third example is common buckthorn, Rhamnus cathartica. The berries with thorns leaves grow in yellow flower. It is spread widely due to the diet and migration patterns of the robin. More importantly, it has medicinal functions for digestive problems."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "13945ec0-5296-4005-9c31-7b892ffd8b87",
+          "prompt": "**Background**\nThough they are beautiful, some invasive species can take over a **31**_____ .",
+          "answers": [
+            "garden"
+          ],
+          "rawAnswer": "garden",
+          "evidence": {
+            "paragraph": "",
+            "quote": "these species can take over a garden"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "e5fd57d8-93ea-483c-9827-3678596fa2da",
+          "prompt": "**Reasons**\n- berries of some plants are often eaten them all over the world\n- besides birds, **32**_____ also spread them all over the world",
+          "answers": [
+            "humans"
+          ],
+          "rawAnswer": "humans",
+          "evidence": {
+            "paragraph": "",
+            "quote": "humans are the primary cause of the spread of invasive species"
+          },
+          "keywordPairs": [
+            {
+              "question": "all over the world",
+              "article": "widely"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "a286b9a2-7f44-41b6-b6e0-d7ef556a6657",
+          "prompt": "**Examples**\n- in the western US, the common Broom is originally from **33**_____",
+          "answers": [
+            "Europe"
+          ],
+          "rawAnswer": "Europe",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The first one is common broom;It comes from Europe"
+          },
+          "keywordPairs": [
+            {
+              "question": "originally from",
+              "article": "comes from"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "3e1d694e-e57f-4911-a3ec-7d9f1c0e9cd5",
+          "prompt": "- this species affect the economy like the **34**_____ industry",
+          "answers": [
+            "timber"
+          ],
+          "rawAnswer": "timber",
+          "evidence": {
+            "paragraph": "",
+            "quote": "its spread has left negative effects on the industry of timber"
+          },
+          "keywordPairs": [
+            {
+              "question": "affect the economy",
+              "article": "left negative effects on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "ff836d42-5427-4694-8e56-a8527a30c955",
+          "prompt": "- to deal with the problem, biologists try biological control by using **35**_____",
+          "answers": [
+            "insects"
+          ],
+          "rawAnswer": "insects",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Nowadays, biologists are making efforts to manage it with some species of pairs"
+          },
+          "keywordPairs": [
+            {
+              "question": "biological control",
+              "article": "manage it with"
+            },
+            {
+              "question": "by using",
+              "article": "with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "0f76227a-304c-47c5-be42-8b52c0feecf7",
+          "prompt": "- in 1875, Japanese Barberry was imported to the US from **36**_____",
+          "answers": [
+            "Russia"
+          ],
+          "rawAnswer": "Russia",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is transported from Russia before 1900"
+          },
+          "keywordPairs": [
+            {
+              "question": "imported",
+              "article": "transported"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "4648541b-7d4f-4ef2-9f3a-68c963bec341",
+          "prompt": "- this beautiful species have yellow-colored **37**_____ beneath its bark",
+          "answers": [
+            "tissues"
+          ],
+          "rawAnswer": "tissues",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It has yellow;colored tissues beneath its bark;"
+          },
+          "keywordPairs": [
+            {
+              "question": "beneath",
+              "article": "under"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "28f6e6a3-da33-412d-b768-3474fda0ab16",
+          "prompt": "- the leaves of the common Buckthorn grow in **38**_____ on the stem",
+          "answers": [
+            "pairs"
+          ],
+          "rawAnswer": "pairs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The leaves of the common Buckthorn grow in pairs on the stem"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "f7d5a958-7f6f-43e5-a14c-3c0b98f41ad8",
+          "prompt": "- it functions as an ornamental bush\n- spread media: berries eaten by birds is the main **39**_____ pattern",
+          "answers": [
+            "migration"
+          ],
+          "rawAnswer": "migration",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is spread widely due to the diet and migration patterns of the robin"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "e550f49e-59d8-42e1-99ea-85ad5d7371a9",
+          "prompt": "- medicinal application: treat serious **40**_____ problems",
+          "answers": [
+            "digestive"
+          ],
+          "rawAnswer": "digestive",
+          "evidence": {
+            "paragraph": "",
+            "quote": "it has medicinal functions for digestive problems"
+          },
+          "keywordPairs": [
+            {
+              "question": "application",
+              "article": "functions"
+            },
+            {
+              "question": "treat",
+              "article": "for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,399</p><p>Dictations. Invasive species. </p><p>00:00:05,000</p><p>There are many problems associated with invasive species. First of all, these species can take over a garden. Secondly, birds disperse seeds through their waste. Thirdly, humans are the primary cause of the spread of invasive species. Now, let's move on and talk about some examples of invasive species. The first one is common broom, Cytisus scoparius. It comes from Europe and has flowers in the summer. In some regions, its spread has left negative effects on the industry of timber. </p><p>00:00:40,939</p><p>Nowadays, biologists are making efforts to manage it with some species of pears. Another example is Japanese barberry, Berberis thunbergi. It is transported from Russia before 1900. It has yellow insects under the bark. The third example is common buckthorn, Rhamnus cathartica. The berries with thorns leaves grow in yellow flower. It is spread widely due to the diet and migration patterns of the robin. More importantly, it has medicinal functions for digestive problems.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/c1d51826-c1b6-4dac-ae17-3da5a81db76e.mp3",
+    "durationSeconds": 77.061224,
+    "sizeBytes": 308635,
+    "sha256": "2ce45eca8e0b03388a0ff500262d51ebf848a92aae1c52a6c389c2b060d395f8",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:02:15Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777086208156_smqpqt_544b88f0.mp3"
+}

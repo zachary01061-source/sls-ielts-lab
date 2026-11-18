@@ -1,0 +1,297 @@
+{
+  "id": "f3b5c78f-7156-49c0-88a9-963b680197dc",
+  "title": "Soundscapes",
+  "titleCn": "声景：自然与城市声音环境研究",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/f3b5c78f-7156-49c0-88a9-963b680197dc",
+  "duration": 321,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,540"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:06,680"
+    },
+    {
+      "label": "4",
+      "text": "Today, I'd like to explore the concept of soundscapes, a term that refers to the acoustic environment we live in essentially. The sounds that surround us in any given setting, whether natural or human-made. The term soundscape was first introduced by Murray Schafer, a well-known composer from Canada, who devoted much of his career to understanding how sound shapes our experience of the world. He argued that what we hear is not just random noise, but something that carries meaning, often reflecting the character or even the health of the environment we're in. Schafer and those who followed his work divided the soundscape into three primary components. The first is biophony, which includes all the sounds produced by living creatures. For instance, birdsong, insects buzzing, and the croaking of frogs all fall under this category. The second category is geophony. This refers to natural sounds that arise from non-living elements of the environment. Examples here include the rustling of leaves, wind blowing through trees, or the steady patter of rain. These are physical phenomena that still form an important part of what we hear in nature. Finally, we have anthrophony. This encompasses all human-generated sounds, whether intentional like music or unintentional, such as engine noise, construction activity, or even general urban clatter. One of the key researchers in the modern study of soundscapes is Bernie Krause. Krause has spent decades recording natural soundscapes and has reached some fascinating conclusions. According to him, every sound in the natural world carries its own distinctive signature, a kind of auditory fingerprint. More than that, he's found that when undisturbed, the sounds of nature demonstrate a delicate balance. They are generally in harmony with each other, especially in terms of loudness and frequency, which prevents them from clashing or overwhelming one another. Interestingly, shifts in a natural soundscape can tell us a great deal. In fact, changes in what we hear may be an early sign of larger environmental problems. For example, a sudden decrease in certain animal calls may point to alterations in the climate of that region. Similarly, irregular patterns in sound can also be a signal of pollution, not just noise pollution, but chemical contamination as well, such as the use of pesticides or insecticides, which can cause entire species to fall silent. To capture and analyze these complex sound environments, researchers today often use sophisticated tools like acoustic recorders. These devices collect audio data over extended periods, which can then be visualized into three-dimensional maps. Such maps help scientists to study sound patterns across space and time."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "62c85b9c-1e6f-479b-ba84-986db27a2a7f",
+          "prompt": "**Soundscape** - the sound environment\n· the term was first used by a Canadian, Murray Schafer, a well-known **31**_____ .",
+          "answers": [
+            "composer"
+          ],
+          "rawAnswer": "composer",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The term soundscape was first introduced by Murray Schafer, a well-known composer from Canada"
+          },
+          "keywordPairs": [
+            {
+              "question": "used",
+              "article": "introduced"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "02a6acb3-09e1-4416-a3f9-d892b88e24b6",
+          "prompt": "· the soundscape is not just noise, but has **32**_____,which can be interpreted.",
+          "answers": [
+            "meaning"
+          ],
+          "rawAnswer": "meaning",
+          "evidence": {
+            "paragraph": "",
+            "quote": "He argued that what we hear is not just random noise, but something that carries meaning"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "066bad96-8fae-49f2-8cc0-1c4079c7328a",
+          "prompt": "· divisions of the soundscape\n- biophony - created by living organisms, e.g. **33**_____",
+          "answers": [
+            "frogs"
+          ],
+          "rawAnswer": "frogs",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The first is biophony;For instance, birdsong, insects buzzing, and the croaking of frogs all fall under this category"
+          },
+          "keywordPairs": [
+            {
+              "question": "created",
+              "article": "produced"
+            },
+            {
+              "question": "organisms",
+              "article": "creatures"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "c72ee969-b50b-4798-a5db-2faec718943a",
+          "prompt": "- geophony - caused by non-biological forces, e.g. **34**_____\n- anthrophony - made by humans",
+          "answers": [
+            "rain"
+          ],
+          "rawAnswer": "rain",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Examples here include the rustling of leaves, wind blowing through trees, or the steady patter of rain"
+          },
+          "keywordPairs": [
+            {
+              "question": "caused by non-biological forces",
+              "article": "from non-living elements"
+            },
+            {
+              "question": "geophony",
+              "article": "natural sounds that arise from non-living elements"
+            },
+            {
+              "question": "e.g.",
+              "article": "examples include"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "056984ac-d19f-4c70-8edb-47338d02207d",
+          "prompt": "**Conclusion of Bernie Krause**\n· every sound in nature has a unique **35**_____ .",
+          "answers": [
+            "signature"
+          ],
+          "rawAnswer": "signature",
+          "evidence": {
+            "paragraph": "",
+            "quote": "According to him, every sound in the natural world carries its own distinctive signature"
+          },
+          "keywordPairs": [
+            {
+              "question": "unique",
+              "article": "distinctive"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "c076093d-603a-45db-84ef-70cc8dea3f0e",
+          "prompt": "· the sounds of nature are harmonious in **36**_____ and frequency.",
+          "answers": [
+            "loudness"
+          ],
+          "rawAnswer": "loudness",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They are generally in harmony with each other, especially in terms of loudness and frequency"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "1ba3d42e-960f-4138-b9a6-25f66dd5cad2",
+          "prompt": "**Soundscape changes can be**\n· an indication of a change in the **37**_____ of an environment",
+          "answers": [
+            "climate"
+          ],
+          "rawAnswer": "climate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A sudden decrease in certain animal calls may point to alterations in the climate of that region"
+          },
+          "keywordPairs": [
+            {
+              "question": "environment",
+              "article": "region"
+            },
+            {
+              "question": "change",
+              "article": "alterations"
+            },
+            {
+              "question": "indication",
+              "article": "point"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "4d645930-2af3-4040-9c81-6967327b1bc3",
+          "prompt": "· a warning of the presence of different types of **38**_____, e.g. insecticides",
+          "answers": [
+            "pollution"
+          ],
+          "rawAnswer": "pollution",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Similarly, irregular patterns in sound can also be a signal of pollution, not just noise pollution, but chemical contamination as well, such as the use of pesticides or insecticides"
+          },
+          "keywordPairs": [
+            {
+              "question": "presence",
+              "article": "signal"
+            },
+            {
+              "question": "e.g.",
+              "article": "such as"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "d32241fe-2892-4a90-ab1e-69b70001cb29",
+          "prompt": "**Equipment used in the study of soundscapes**\n· acoustic recorders - data are used to create **39**_____ in 3-D",
+          "answers": [
+            "maps"
+          ],
+          "rawAnswer": "maps",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These devices collect audio data over extended periods, which can then be visualized into three-dimensional maps"
+          },
+          "keywordPairs": [
+            {
+              "question": "acoustic recorders",
+              "article": "devices"
+            },
+            {
+              "question": "used to create",
+              "article": "visualized into"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "e095ff09-f238-4da8-acbf-66da88ab6e81",
+          "prompt": "**Most common query**\n· What is the noisiest creature?\nAnswer: probably a particular kind of **40**_____, which lives in the ocean.（本题无音频）",
+          "answers": [
+            "shrimp"
+          ],
+          "rawAnswer": "shrimp",
+          "evidence": {
+            "paragraph": "",
+            "quote": ""
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,540</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:06,680</p><p>Today, I'd like to explore the concept of soundscapes, a term that refers to the acoustic environment we live in essentially. The sounds that surround us in any given setting, whether natural or human-made. The term soundscape was first introduced by Murray Schafer, a well-known composer from Canada, who devoted much of his career to understanding how sound shapes our experience of the world. He argued that what we hear is not just random noise, but something that carries meaning, often reflecting the character or even the health of the environment we're in. Schafer and those who followed his work divided the soundscape into three primary components. The first is biophony, which includes all the sounds produced by living creatures. For instance, birdsong, insects buzzing, and the croaking of frogs all fall under this category. The second category is geophony. This refers to natural sounds that arise from non-living elements of the environment. Examples here include the rustling of leaves, wind blowing through trees, or the steady patter of rain. These are physical phenomena that still form an important part of what we hear in nature. Finally, we have anthrophony. This encompasses all human-generated sounds, whether intentional like music or unintentional, such as engine noise, construction activity, or even general urban clatter. One of the key researchers in the modern study of soundscapes is Bernie Krause. Krause has spent decades recording natural soundscapes and has reached some fascinating conclusions. According to him, every sound in the natural world carries its own distinctive signature, a kind of auditory fingerprint. More than that, he's found that when undisturbed, the sounds of nature demonstrate a delicate balance. They are generally in harmony with each other, especially in terms of loudness and frequency, which prevents them from clashing or overwhelming one another. Interestingly, shifts in a natural soundscape can tell us a great deal. In fact, changes in what we hear may be an early sign of larger environmental problems. For example, a sudden decrease in certain animal calls may point to alterations in the climate of that region. Similarly, irregular patterns in sound can also be a signal of pollution, not just noise pollution, but chemical contamination as well, such as the use of pesticides or insecticides, which can cause entire species to fall silent. To capture and analyze these complex sound environments, researchers today often use sophisticated tools like acoustic recorders. These devices collect audio data over extended periods, which can then be visualized into three-dimensional maps. Such maps help scientists to study sound patterns across space and time.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/f3b5c78f-7156-49c0-88a9-963b680197dc.mp3",
+    "durationSeconds": 200.016,
+    "sizeBytes": 3200787,
+    "sha256": "1012c13e31084205d73c70d589fa6a062615f9b802c78cc8236d5c40d6a0e65b",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:30Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777605124411_4ve6p4_4c50f41b.mp3"
+}

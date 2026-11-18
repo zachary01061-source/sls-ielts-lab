@@ -1,0 +1,235 @@
+{
+  "id": "cambridge-20-test-2-listening-1",
+  "title": "Help for carers",
+  "titleCn": "Help for carers",
+  "subject": "listening",
+  "part": 1,
+  "duration": 395,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 2
+  },
+  "sourceQuestionId": "8538",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8538",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "TOM: And be ready to tell them about anything you find particularly difficult about caring for your mother."
+    },
+    {
+      "label": "2",
+      "text": "CAROL: So recently I’ve noticed she’s started to have quite bad problems with her memory … if I wasn’t there, I think she’d forget to eat, for example. And often she doesn’t seem quite sure what day it is."
+    },
+    {
+      "label": "3",
+      "text": "TOM: Yes, tell them about that. And are there any physical difficulties you have caring for her? Lifting her, for example?"
+    },
+    {
+      "label": "4",
+      "text": "CAROL: Yes. She’s quite heavy, and I’m afraid of hurting my back – I’d be in real trouble if that happened."
+    },
+    {
+      "label": "5",
+      "text": "TOM: They can give you advice about that, and also about how to avoid the possibility of your mum having a fall."
+    },
+    {
+      "label": "6",
+      "text": "CAROL: Great. So once they’ve done this assessment, if I’m eligible, what happens next?"
+    },
+    {
+      "label": "7",
+      "text": "TOM: Well, they might support you financially. So they might help you with transport costs, like if you have to get a taxi to take your mother for an appointment, for example."
+    },
+    {
+      "label": "8",
+      "text": "CAROL: I usually drive her myself actually. So could I claim for the petrol?"
+    },
+    {
+      "label": "9",
+      "text": "TOM: You could, and you can claim for the insurance too."
+    },
+    {
+      "label": "10",
+      "text": "CAROL: Oh, right."
+    },
+    {
+      "label": "11",
+      "text": "TOM: And if you need help with the housework, they can arrange for someone to come along once or twice a week. And one other thing, I hope you don’t mind me saying this, but it’s important you look after yourself, and it seems to me you’re under quite a bit of stress."
+    },
+    {
+      "label": "12",
+      "text": "CAROL: I am, yes."
+    },
+    {
+      "label": "13",
+      "text": "TOM: Well, tell the council, because they may be able to give you some advice on how to minimise it."
+    },
+    {
+      "label": "14",
+      "text": "CAROL: Really? Though actually I feel so much better having talked to you. I’ll get in touch with the council straight away. Now shall we …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 1–10\n\nComplete the table below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "• a [1] ______",
+          "answers": [
+            "break"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_447661",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "• a [1] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "• how much [2] ______the caring involves",
+          "answers": [
+            "time"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_350268",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "• how much [2] ______the caring involves"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "- helping her have a [3] ______",
+          "answers": [
+            "shower"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_815242",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "- helping her have a [3] ______"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "- dealing with [4] ______",
+          "answers": [
+            "money"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_817772",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "- dealing with [4] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "- loss of [5] ______",
+          "answers": [
+            "memory"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_647664",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "- loss of [5] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "- [6] ______her",
+          "answers": [
+            "lifting"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_174149",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "- [6] ______her"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "- preventing a [7] ______",
+          "answers": [
+            "fall"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_541343",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "- preventing a [7] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "• transport costs, e.g. cost of a [8] ______",
+          "answers": [
+            "taxi"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_808829",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "• transport costs, e.g. cost of a [8] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "• car-related costs, e.g. fuel and [9] ______",
+          "answers": [
+            "insurance"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_880752",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "• car-related costs, e.g. fuel and [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "• help to reduce [10] ______",
+          "answers": [
+            "stress"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q8538_751505",
+          "explanation": "1. 本题需填入可数名词单数，根据列点式并列结构可知，本题和题干上方的time for other responsibilities为并列关系。原文在time for all the other responsibilities之后，出现并列连接词and also，随后出现答案break。\n\n2. 根据题干上方内容可知，需要填入讨论的第一项内容。题干中的how much提示填入不可数名词。粗体小标题Assessment of mother’s needs原词重现。下一句中的talk to you about替换题干词discussion。for a start提示本题即将出现。the amount of后接不可数名词，对应how much，可得出答案为time。\n\n3. 根据列点结构以及短横线并列结构，可知本题填入护工需做的一项具体事务，上一行的关键词dressing在原文里替换为getting dressed。并列词and also后出现答案shower。\n\n4. 和本题并列的helping with meals在原文中替换为help her at mealtimes。下一句并列连词and后引出答案money。deal with替换为cope。\n\n5. 题干中的especially difficult在原文中替换为particularly difficult；loss of替换为have quite bad problems with。下一句的she’d forget to eat和doesn’t seem quite sure what day it is也可以帮助验证答案。\n\n6. 根据题干的宾语her可知需要填入动词，而和下一题题干的preventing比对可知，很可能填入动名词形式。上一题谈论memory结束后，男士问“And are there any physical difficulties you have caring for her?”，提示本题即将出现。并且下一句男士就以询问的形式说出了答案lifting，随后女士给了肯定的回答。考生需要提前做好词性预判，并在男士提出询问时就留意答案。\n\n7. 原文讨论lifting her之后通过and also引出下一题，preventing替换为avoid，随后出现答案fall。\n\n8. 题干中的transport costs原词重现，e.g.替换为like，随后出现答案taxi。\n\n9. 题干中的fuel替换为petrol，下一句男士在回答后，通过并列连词and引出和fuel并列的insurance。\n\n10. 题干上一行的housework原词重现，And one other thing提示并列结构。下一句由男士说出答案stress，而在后续进一步说明中才出现题干中reduce的同义替换词minimise。考生需要在听到housework后就注意并列关联词，并且留意能够和reduce搭配的名词。",
+          "promptHtml": "• help to reduce [10] ______"
+        }
+      ],
+      "sourceType": "part1_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Local councils can arrange practical support to help those caring for elderly people at home.</p>\n\n<p>This can give the carer:<br>\n• time for other responsibilities<br>\n• a <strong>[1] ______</strong></p>\n\n<p><strong>Assessment of mother’s needs</strong><br>\nThis may include discussion of:<br>\n• how much <strong>[2] ______</strong>the caring involves<br>\n• what types of tasks are involved, e.g.<br>\n   - help with dressing<br>\n   - helping her have a <strong>[3] ______</strong><br>\n   - shopping<br>\n   - helping with meals<br>\n   - dealing with <strong>[4] ______</strong><br>\n• any aspects of caring that are especially difficult, e.g.<br>\n   - loss of <strong>[5] ______</strong><br>\n   - <strong>[6] ______</strong>her<br>\n   - preventing a <strong>[7] ______</strong></p>\n\n<p><strong>Types of support that may be offered to carers</strong><br>\n• transport costs, e.g. cost of a <strong>[8] ______</strong><br>\n• car-related costs, e.g. fuel and <strong>[9] ______</strong><br>\n• help with housework<br>\n• help to reduce <strong>[10] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>TOM: And be ready to tell them about anything you find particularly difficult about caring for your mother.<br>\nCAROL: So recently I’ve noticed she’s started to have quite bad problems with her memory … if I wasn’t there, I think she’d forget to eat, for example. And often she doesn’t seem quite sure what day it is.<br>\nTOM: Yes, tell them about that. And are there any physical difficulties you have caring for her? Lifting her, for example?<br>\nCAROL: Yes. She’s quite heavy, and I’m afraid of hurting my back – I’d be in real trouble if that happened.<br>\nTOM: They can give you advice about that, and also about how to avoid the possibility of your mum having a fall.<br>\nCAROL: Great. So once they’ve done this assessment, if I’m eligible, what happens next?<br>\nTOM: Well, they might support you financially. So they might help you with transport costs, like if you have to get a taxi to take your mother for an appointment, for example.<br>\nCAROL: I usually drive her myself actually. So could I claim for the petrol?<br>\nTOM: You could, and you can claim for the insurance too.<br>\nCAROL: Oh, right.<br>\nTOM: And if you need help with the housework, they can arrange for someone to come along once or twice a week. And one other thing, I hope you don’t mind me saying this, but it’s important you look after yourself, and it seems to me you’re under quite a bit of stress.<br>\nCAROL: I am, yes.<br>\nTOM: Well, tell the council, because they may be able to give you some advice on how to minimise it.<br>\nCAROL: Really? Though actually I feel so much better having talked to you. I’ll get in touch with the council straight away. Now shall we …</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8538.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 394.815
+  }
+}

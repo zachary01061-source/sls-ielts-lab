@@ -1,0 +1,422 @@
+{
+  "id": "cambridge-17-test-4-reading-2",
+  "title": "Does education fuel economic growth?",
+  "titleCn": "Does education fuel economic growth?",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 4
+  },
+  "sourceQuestionId": "8393",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8393",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Does education fuel economic growth?"
+    },
+    {
+      "label": "2",
+      "text": "A Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 has been compiled by a team led by Professor Sheilagh Ogilvie at Cambridge University’s Faculty of Economics. It includes court records, guild ledgers, parish registers, village censuses, tax lists and – the most recent addition – 9,000 handwritten inventories listing over a million personal possessions belonging to ordinary women and men across three centuries. Ogilvie, who discovered the inventories in the archives of two German communities 30 years ago, believes they may hold the answer to a conundrum that has long puzzled economists: the lack of evidence for a causal link between education and a country’s economic growth."
+    },
+    {
+      "label": "3",
+      "text": "B As Ogilvie explains, ‘Education helps us to work more productively, invent better technology, and earn more … surely it must be critical for economic growth? But, if you look back through history, there’s no evidence that having a high literacy rate made a country industrialise earlier.’ Between 1600 and 1900, England had only mediocre literacy rates by European standards, yet its economy grew fast and it was the first country to industrialise. During this period, Germany and Scandinavia had excellent literacy rates, but their economies grew slowly and they industrialised late. ‘Modern cross-country analyses have also struggled to find evidence that education causes economic growth, even though there is plenty of evidence that growth increases education,’ she adds."
+    },
+    {
+      "label": "4",
+      "text": "C In the handwritten inventories that Ogilvie is analysing are the belongings of women and men at marriage, remarriage and death. From badger skins to Bibles, sewing machines to scarlet bodices – the villagers’ entire worldly goods are included. Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and educationrelated objects like pens and slates suggests how people learned. In addition, the tax lists included in the database record the value of farms, workshops, assets and debts; signatures and people’s estimates of their age indicate literacy and numeracy levels; and court records reveal obstacles (such as the activities of the guilds*) that stifled industry."
+    },
+    {
+      "label": "5",
+      "text": "Previous studies usually had just one way of linking education with economic growth – the presence of schools and printing presses, perhaps, or school enrolment, or the ability to sign names. According to Ogilvie, the database provides multiple indicators for the same individuals, making it possible to analyse links between literacy, numeracy, wealth, and industriousness, for individual women and men over the long term."
+    },
+    {
+      "label": "6",
+      "text": "D Ogilvie and her team have been building the vast database of material possessions on top of their full demographic reconstruction of the people who lived in these two German communities. ‘We can follow the same people – and their descendants – across 300 years of educational and economic change,’ she says. Individual lives have unfolded before their eyes. Stories like that of the 24-year-olds Ana Regina and Magdalena Riethmüllerin, who were chastised in 1707 for reading books in church instead of listening to the sermon. ‘This tells us they were continuing to develop their reading skills at least a decade after leaving school,’ explains Ogilvie. The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster living in the small Black Forest community of Wildberg, who was reprimanded in 1752 by the local weavers’ guild for ‘weaving cloth and combing wool, counter to the guild ordinance’. When Juliana continued taking jobs reserved for male guild members, she was summoned before the guild court and told to pay a fine equivalent to one third of a servant’s annual wage. It was a small act of defiance by today’s standards, but it reflects a time when laws in Germany and elsewhere regulated people’s access to labour markets. The dominance of guilds not only prevented people from using their skills, but also held back even the simplest industrial innovation."
+    },
+    {
+      "label": "7",
+      "text": "E The data-gathering phase of the project has been completed and now, according to Ogilvie, it is time ‘to ask the big questions’. One way to look at whether education causes economic growth is to ‘hold wealth constant’. This involves following the lives of different people with the same level of wealth over a period of time. If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, or to the adoption of industrial innovations like sewing machines. The team will also ask what aspect of education helped people engage more with productive and innovative activities. Was it, for instance, literacy, numeracy, book ownership, years of schooling? Was there a threshold level – a tipping point – that needed to be reached to affect economic performance?"
+    },
+    {
+      "label": "8",
+      "text": "F Ogilvie hopes to start finding answers to these questions over the next few years. One thing is already clear, she says: the relationship between education and economic growth is far from straightforward. ‘German-speaking central Europe is an excellent laboratory for testing theories of economic growth,’ she explains. Between 1600 and 1900, literacy rates and book ownership were high and yet the region remained poor. It was also the case that local guilds and merchant associations were extremely powerful and legislated against anything that undermined their monopolies. In villages throughout the region, guilds blocked labour migration and resisted changes that might reduce their influence."
+    },
+    {
+      "label": "9",
+      "text": "‘Early findings suggest that the potential benefits of education for the economy can be held back by other barriers, and this has implications for today,’ says Ogilvie. ‘Huge amounts are spent improving education in developing countries, but this spending can fail to deliver economic growth if restrictions block people – especially women and the poor – from using their education in economically productive ways. If economic institutions are poorly set up, for instance, education can’t lead to growth.’"
+    },
+    {
+      "label": "10",
+      "text": "* guild: an association of artisans or merchants which oversees the practice of their craft or trade in a particular area"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–18\n\nReading Passage 2 has six sections, A–F.\n\nWhich section contains the following information?\n\nTick the correct letter, A–F, for questions 14–18.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "an explanation of the need for research to focus on individuals with a fairly consistent income",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8393_979393-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "examples of the sources the database has been compiled from",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8393_979393-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "an account of one individual’s refusal to obey an order",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8393_979393-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "a reference to a region being particularly suited to research into the link between education and economic growth",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8393_979393-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "examples of the items included in a list of personal possessions",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8393_979393-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 19–22\n\nComplete the summary below.\n\nChoose ONE WORD from the passage for each answer.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Answer for gap 19.",
+          "answers": [
+            "descendants"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8393_320827",
+          "explanation": "19. 本题的定位非常简单，考生可轻松凭借300这个数字信息直接定位，且定位句中就包含着空格处所需的内容，甚至连空格前的物主代词their都是原词重现的。考生只需耐心细致看懂句意，便可轻松锁定答案词：descendants。\n\n20. 本题的定位和解题依然友好。考生可以直接依据两个大写人名进行准确定位，而定位句本身也给出了正确答案。无论是题干中的paying attention to还是原文中的listening to，都是再基础不过的词汇了，对比可得答案应为：sermon。\n\n21. 本题与前两道题比起来略难一点点。因为题干句本身出现的代词she并不足以帮助考生定位，但此时只需在题干中稍稍向上一句话里看一下，便能获得这个“她”所指向的人名：Juliana Schweickherdt。用这个大写人名来帮助定位，自然是轻松了许多。然而接下来又出现了第二个小问题：人名所在的句子并没有提及她所受到的“惩罚”，因此考生需耐心再向下多看一个句子，方能锁定正确答案应为：fine。\n\n22. 本题的出处位置与前几道题都比较接近，因此虽然题干中的prevent一词在对应原文中被同义替换成了不是那么明显的held back，但考生应当也能比较顺利地看懂和找到；再加上题干中与空格答案形成并列的“阻止熟练工人去工作(其实更准确地说，是阻止这些熟练工不经行会允许、自作主张地接活儿)”这个信息，更能提醒考生顺利找到出题句，进而确认正确答案应为：innovation。",
+          "promptHtml": "Answer for gap 19."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Answer for gap 20.",
+          "answers": [
+            "sermon"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8393_928369",
+          "explanation": "19. 本题的定位非常简单，考生可轻松凭借300这个数字信息直接定位，且定位句中就包含着空格处所需的内容，甚至连空格前的物主代词their都是原词重现的。考生只需耐心细致看懂句意，便可轻松锁定答案词：descendants。\n\n20. 本题的定位和解题依然友好。考生可以直接依据两个大写人名进行准确定位，而定位句本身也给出了正确答案。无论是题干中的paying attention to还是原文中的listening to，都是再基础不过的词汇了，对比可得答案应为：sermon。\n\n21. 本题与前两道题比起来略难一点点。因为题干句本身出现的代词she并不足以帮助考生定位，但此时只需在题干中稍稍向上一句话里看一下，便能获得这个“她”所指向的人名：Juliana Schweickherdt。用这个大写人名来帮助定位，自然是轻松了许多。然而接下来又出现了第二个小问题：人名所在的句子并没有提及她所受到的“惩罚”，因此考生需耐心再向下多看一个句子，方能锁定正确答案应为：fine。\n\n22. 本题的出处位置与前几道题都比较接近，因此虽然题干中的prevent一词在对应原文中被同义替换成了不是那么明显的held back，但考生应当也能比较顺利地看懂和找到；再加上题干中与空格答案形成并列的“阻止熟练工人去工作(其实更准确地说，是阻止这些熟练工不经行会允许、自作主张地接活儿)”这个信息，更能提醒考生顺利找到出题句，进而确认正确答案应为：innovation。",
+          "promptHtml": "Answer for gap 20."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Answer for gap 21.",
+          "answers": [
+            "fine"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8393_328357",
+          "explanation": "19. 本题的定位非常简单，考生可轻松凭借300这个数字信息直接定位，且定位句中就包含着空格处所需的内容，甚至连空格前的物主代词their都是原词重现的。考生只需耐心细致看懂句意，便可轻松锁定答案词：descendants。\n\n20. 本题的定位和解题依然友好。考生可以直接依据两个大写人名进行准确定位，而定位句本身也给出了正确答案。无论是题干中的paying attention to还是原文中的listening to，都是再基础不过的词汇了，对比可得答案应为：sermon。\n\n21. 本题与前两道题比起来略难一点点。因为题干句本身出现的代词she并不足以帮助考生定位，但此时只需在题干中稍稍向上一句话里看一下，便能获得这个“她”所指向的人名：Juliana Schweickherdt。用这个大写人名来帮助定位，自然是轻松了许多。然而接下来又出现了第二个小问题：人名所在的句子并没有提及她所受到的“惩罚”，因此考生需耐心再向下多看一个句子，方能锁定正确答案应为：fine。\n\n22. 本题的出处位置与前几道题都比较接近，因此虽然题干中的prevent一词在对应原文中被同义替换成了不是那么明显的held back，但考生应当也能比较顺利地看懂和找到；再加上题干中与空格答案形成并列的“阻止熟练工人去工作(其实更准确地说，是阻止这些熟练工不经行会允许、自作主张地接活儿)”这个信息，更能提醒考生顺利找到出题句，进而确认正确答案应为：innovation。",
+          "promptHtml": "Answer for gap 21."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Answer for gap 22.",
+          "answers": [
+            "innovation"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8393_624374",
+          "explanation": "19. 本题的定位非常简单，考生可轻松凭借300这个数字信息直接定位，且定位句中就包含着空格处所需的内容，甚至连空格前的物主代词their都是原词重现的。考生只需耐心细致看懂句意，便可轻松锁定答案词：descendants。\n\n20. 本题的定位和解题依然友好。考生可以直接依据两个大写人名进行准确定位，而定位句本身也给出了正确答案。无论是题干中的paying attention to还是原文中的listening to，都是再基础不过的词汇了，对比可得答案应为：sermon。\n\n21. 本题与前两道题比起来略难一点点。因为题干句本身出现的代词she并不足以帮助考生定位，但此时只需在题干中稍稍向上一句话里看一下，便能获得这个“她”所指向的人名：Juliana Schweickherdt。用这个大写人名来帮助定位，自然是轻松了许多。然而接下来又出现了第二个小问题：人名所在的句子并没有提及她所受到的“惩罚”，因此考生需耐心再向下多看一个句子，方能锁定正确答案应为：fine。\n\n22. 本题的出处位置与前几道题都比较接近，因此虽然题干中的prevent一词在对应原文中被同义替换成了不是那么明显的held back，但考生应当也能比较顺利地看懂和找到；再加上题干中与空格答案形成并列的“阻止熟练工人去工作(其实更准确地说，是阻止这些熟练工不经行会允许、自作主张地接活儿)”这个信息，更能提醒考生顺利找到出题句，进而确认正确答案应为：innovation。",
+          "promptHtml": "Answer for gap 22."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><strong><span>Demographic reconstruction of two German communities</span></strong></p>\n\n<p><span>The database that Ogilvie and her team has compiled sheds light on the lives of a range of individuals, as well as those of their </span><strong>[19] ______</strong><span> , over a 300-year period. For example, Ana Regina and Magdalena Riethmüllerin were reprimanded for reading while they should have been paying attention to a </span><strong>[20] ______</strong><span> .<br>\nThere was also Juliana Schweickherdt, who came to the notice of the weavers’ guild in the year 1752 for breaking guild rules. As a punishment, she was later given a </span><strong>[21] ______</strong><span> . Cases like this illustrate how the guilds could prevent </span><strong>[22] ______</strong><span> and stop skilled people from working.</span></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 23 and 24\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Which TWO of the following statements does the writer make about literacy rates in Section B?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q8393_984098",
+          "options": [
+            {
+              "value": "A",
+              "text": "Very little research has been done into the link between high literacy rates and improved earnings."
+            },
+            {
+              "value": "B",
+              "text": "Literacy rates in Germany between 1600 and 1900 were very good."
+            },
+            {
+              "value": "C",
+              "text": "There is strong evidence that high literacy rates in the modern world result in economic growth."
+            },
+            {
+              "value": "D",
+              "text": "England is a good example of how high literacy rates helped a country industrialise."
+            },
+            {
+              "value": "E",
+              "text": "Economic growth can help to improve literacy rates."
+            }
+          ],
+          "explanation": "选项A：Very little research has been done into the link between high literacy rates and improved earnings.\n\n译文：关于高识字率与收入增加之间的关联几乎没有做过什么研究。\n\n如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。因为读遍了整个Section B全段，也找不到对于这条信息的相关表述。即便有考生出现过度发挥推理和过度解读文意的现象，也只会根据本段最后一句话推导出：既然现代跨国家研究已经在struggled去寻找证据了，那就说明可能已经做过了这样的研究。即使考生真的这样引申了，也只会得出“本选项与原文意思不符”这个结论，不会实际干扰混淆考生的答题动作。\n\n选项B：Literacy rates in Germany between 1600 and 1900 were very good.\n\n译文：在1600到1900年之间，德国的识字率非常高。\n\n这个选项在Section B的第四句话里有明确的同义替换对应（原文措辞为excellent literacy rates），因此本项正是这道五选二多选题的正确答案之一。\n\n选项C：There is strong evidence that high literacy rates in the modern world result in economic growth.\n\n译文：存在着强有力的证据，表明现代世界中的高识字率能引发经济增长。\n\n在Section B的段落内容中，作者专门从识字率和工业化早晚程度这两个角度将英国和德国进行了对比：英国人的平均识字率并不突出，但却率先进行了工业化；反之，德国人的识字率数据非常好看，但却经济增长缓慢、工业化进程也偏晚。这样的内容表述，与这个题干的内容形成了明确的矛盾抵触，应该也不会给考生做排除造成太大困难。\n\n选项D：England is a good example of how high literacy rates helped a country industrialise.\n\n译文：英格兰就是一个好例子，表明了高识字率是如何帮助一个国家进行工业化的。\n\n这个选项可以连同上一个选项一起，根据Section B的实际表述内容被排除掉。英国第一个进行了工业化的原因显然并不是“高识字率”，因为其国民识字水平仅仅只是mediocre而已。\n\n选项E：Economic growth can help to improve literacy rates.\n\n译文：经济增长可以助力提升识字率。\n\nSection B的最后一句话内容，表述的正是这个意思，因此本选项是这个五选二多选题中的另一个正确答案。",
+          "setId": "Q8393_984098",
+          "blockId": "Q8393_984098"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Which TWO of the following statements does the writer make about literacy rates in Section B?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q8393_984098",
+          "options": [
+            {
+              "value": "A",
+              "text": "Very little research has been done into the link between high literacy rates and improved earnings."
+            },
+            {
+              "value": "B",
+              "text": "Literacy rates in Germany between 1600 and 1900 were very good."
+            },
+            {
+              "value": "C",
+              "text": "There is strong evidence that high literacy rates in the modern world result in economic growth."
+            },
+            {
+              "value": "D",
+              "text": "England is a good example of how high literacy rates helped a country industrialise."
+            },
+            {
+              "value": "E",
+              "text": "Economic growth can help to improve literacy rates."
+            }
+          ],
+          "explanation": "选项A：Very little research has been done into the link between high literacy rates and improved earnings.\n\n译文：关于高识字率与收入增加之间的关联几乎没有做过什么研究。\n\n如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。因为读遍了整个Section B全段，也找不到对于这条信息的相关表述。即便有考生出现过度发挥推理和过度解读文意的现象，也只会根据本段最后一句话推导出：既然现代跨国家研究已经在struggled去寻找证据了，那就说明可能已经做过了这样的研究。即使考生真的这样引申了，也只会得出“本选项与原文意思不符”这个结论，不会实际干扰混淆考生的答题动作。\n\n选项B：Literacy rates in Germany between 1600 and 1900 were very good.\n\n译文：在1600到1900年之间，德国的识字率非常高。\n\n这个选项在Section B的第四句话里有明确的同义替换对应（原文措辞为excellent literacy rates），因此本项正是这道五选二多选题的正确答案之一。\n\n选项C：There is strong evidence that high literacy rates in the modern world result in economic growth.\n\n译文：存在着强有力的证据，表明现代世界中的高识字率能引发经济增长。\n\n在Section B的段落内容中，作者专门从识字率和工业化早晚程度这两个角度将英国和德国进行了对比：英国人的平均识字率并不突出，但却率先进行了工业化；反之，德国人的识字率数据非常好看，但却经济增长缓慢、工业化进程也偏晚。这样的内容表述，与这个题干的内容形成了明确的矛盾抵触，应该也不会给考生做排除造成太大困难。\n\n选项D：England is a good example of how high literacy rates helped a country industrialise.\n\n译文：英格兰就是一个好例子，表明了高识字率是如何帮助一个国家进行工业化的。\n\n这个选项可以连同上一个选项一起，根据Section B的实际表述内容被排除掉。英国第一个进行了工业化的原因显然并不是“高识字率”，因为其国民识字水平仅仅只是mediocre而已。\n\n选项E：Economic growth can help to improve literacy rates.\n\n译文：经济增长可以助力提升识字率。\n\nSection B的最后一句话内容，表述的正是这个意思，因此本选项是这个五选二多选题中的另一个正确答案。",
+          "setId": "Q8393_984098",
+          "blockId": "Q8393_984098"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Very little research has been done into the link between high literacy rates and improved earnings."
+        },
+        {
+          "value": "B",
+          "text": "Literacy rates in Germany between 1600 and 1900 were very good."
+        },
+        {
+          "value": "C",
+          "text": "There is strong evidence that high literacy rates in the modern world result in economic growth."
+        },
+        {
+          "value": "D",
+          "text": "England is a good example of how high literacy rates helped a country industrialise."
+        },
+        {
+          "value": "E",
+          "text": "Economic growth can help to improve literacy rates."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO of the following statements does the writer make in Section F about guilds in German-speaking Central Europe between 1600 and 1900?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8393_501550",
+          "options": [
+            {
+              "value": "A",
+              "text": "They helped young people to learn a skill."
+            },
+            {
+              "value": "B",
+              "text": "They were opposed to people moving to an area for work."
+            },
+            {
+              "value": "C",
+              "text": "They kept better records than guilds in other parts of the world."
+            },
+            {
+              "value": "D",
+              "text": "They opposed practices that threatened their control over a trade."
+            },
+            {
+              "value": "E",
+              "text": "They predominantly consisted of wealthy merchants."
+            }
+          ],
+          "explanation": "本题的两个正确选项出处比较集中，但是颇考验考生的核心考点词汇认知情况，因为undermine / monopoly / block / migration这几个词汇，对于考生能否轻松且坚定地锁定本题两个正确选项，起到了几乎是决定性的作用。但之所以称它们为“核心考点词汇”，是因为这几个单词都是雅思阅读文章中的常客，且常常用在解题相关的题干句或原文句中，之前认真做过语言基础提升巩固的考生应当已经对它们的词意相当之熟悉了。\n\n选项A：They helped young people to learn a skill.\n\n译文：他们帮助年轻人学习一门技能。\n\n首先，这条信息完全没有在Section F的任何位置被提及过；其次，如果综合来看这个Section所表达的意思，行会可能不但不会“帮助”、反而还会“阻挠”年轻人学习技术以保持自己的垄断地位。因此，这应该是一个很好被排除掉的选项。\n\n选项B：They were opposed to people moving to an area for work.\n\n译文：他们反对人们搬到某个地区去找工作。\n\n这个选项的内容对应的正是Section F第一自然段里最后一句话的表述：blocked labour migration，因此本项是这道五选二多选题的正确答案之一。\n\n选项C：They kept better records than guilds in other parts of the world.\n\n译文：他们比世界上其它地方的行会更好地保留了各种记录。\n\n本项与选项A类似，属于凭空捏造、子虚乌有且因此很好排除的一条信息。\n\n选项D：They opposed practices that threatened their control over a trade.\n\n译文：他们反对一切会威胁到他们对一个行业全面操控的做法。\n\n这个正确选项对应的是第一自然段倒数第二句中的undermined their monopolies。如前所说，只要考生的核心考点词汇认知能力达标，就能准确锁定本项。\n\n考生在此可格外注意trade一词在本题干的意思表达：不是常见的“贸易”而是相对出镜率更低因而可能略显生僻的“职业、行当”。\n\n选项E：They predominantly consisted of wealthy merchants.\n\n译文：他们其中占绝大多数的都是富有的商人。\n\n这个选项与前面的A项和C项都有异曲同工之处，也是在文章中并未被提及的信息。但也正是因为未被提及，所以在考生最终锁定正确选项B和D之前，难免还要不时关注对比这几个选项、直到确认选出所有答案为止。然而，这个动作是确保稳妥做对题目的必要之举，所以考生只需想通了这一点，应当也不至于对此太过腹诽",
+          "setId": "Q8393_501550",
+          "blockId": "Q8393_501550"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO of the following statements does the writer make in Section F about guilds in German-speaking Central Europe between 1600 and 1900?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8393_501550",
+          "options": [
+            {
+              "value": "A",
+              "text": "They helped young people to learn a skill."
+            },
+            {
+              "value": "B",
+              "text": "They were opposed to people moving to an area for work."
+            },
+            {
+              "value": "C",
+              "text": "They kept better records than guilds in other parts of the world."
+            },
+            {
+              "value": "D",
+              "text": "They opposed practices that threatened their control over a trade."
+            },
+            {
+              "value": "E",
+              "text": "They predominantly consisted of wealthy merchants."
+            }
+          ],
+          "explanation": "本题的两个正确选项出处比较集中，但是颇考验考生的核心考点词汇认知情况，因为undermine / monopoly / block / migration这几个词汇，对于考生能否轻松且坚定地锁定本题两个正确选项，起到了几乎是决定性的作用。但之所以称它们为“核心考点词汇”，是因为这几个单词都是雅思阅读文章中的常客，且常常用在解题相关的题干句或原文句中，之前认真做过语言基础提升巩固的考生应当已经对它们的词意相当之熟悉了。\n\n选项A：They helped young people to learn a skill.\n\n译文：他们帮助年轻人学习一门技能。\n\n首先，这条信息完全没有在Section F的任何位置被提及过；其次，如果综合来看这个Section所表达的意思，行会可能不但不会“帮助”、反而还会“阻挠”年轻人学习技术以保持自己的垄断地位。因此，这应该是一个很好被排除掉的选项。\n\n选项B：They were opposed to people moving to an area for work.\n\n译文：他们反对人们搬到某个地区去找工作。\n\n这个选项的内容对应的正是Section F第一自然段里最后一句话的表述：blocked labour migration，因此本项是这道五选二多选题的正确答案之一。\n\n选项C：They kept better records than guilds in other parts of the world.\n\n译文：他们比世界上其它地方的行会更好地保留了各种记录。\n\n本项与选项A类似，属于凭空捏造、子虚乌有且因此很好排除的一条信息。\n\n选项D：They opposed practices that threatened their control over a trade.\n\n译文：他们反对一切会威胁到他们对一个行业全面操控的做法。\n\n这个正确选项对应的是第一自然段倒数第二句中的undermined their monopolies。如前所说，只要考生的核心考点词汇认知能力达标，就能准确锁定本项。\n\n考生在此可格外注意trade一词在本题干的意思表达：不是常见的“贸易”而是相对出镜率更低因而可能略显生僻的“职业、行当”。\n\n选项E：They predominantly consisted of wealthy merchants.\n\n译文：他们其中占绝大多数的都是富有的商人。\n\n这个选项与前面的A项和C项都有异曲同工之处，也是在文章中并未被提及的信息。但也正是因为未被提及，所以在考生最终锁定正确选项B和D之前，难免还要不时关注对比这几个选项、直到确认选出所有答案为止。然而，这个动作是确保稳妥做对题目的必要之举，所以考生只需想通了这一点，应当也不至于对此太过腹诽",
+          "setId": "Q8393_501550",
+          "blockId": "Q8393_501550"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "They helped young people to learn a skill."
+        },
+        {
+          "value": "B",
+          "text": "They were opposed to people moving to an area for work."
+        },
+        {
+          "value": "C",
+          "text": "They kept better records than guilds in other parts of the world."
+        },
+        {
+          "value": "D",
+          "text": "They opposed practices that threatened their control over a trade."
+        },
+        {
+          "value": "E",
+          "text": "They predominantly consisted of wealthy merchants."
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Does education fuel economic growth? </strong></span></p><p><br><strong>A</strong> Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 has been compiled by a team led by Professor Sheilagh Ogilvie at Cambridge University’s Faculty of Economics. It includes court records, guild ledgers, parish registers, village censuses, tax lists and – the most recent addition – 9,000 handwritten inventories listing over a million personal possessions belonging to ordinary women and men across three centuries. Ogilvie, who discovered the inventories in the archives of two German communities 30 years ago, believes they may hold the answer to a conundrum that has long puzzled economists: the lack of evidence for a causal link between education and a country’s economic growth. </p><p><br><strong>B</strong> As Ogilvie explains, ‘Education helps us to work more productively, invent better technology, and earn more … surely it must be critical for economic growth? But, if you look back through history, there’s no evidence that having a high literacy rate made a country industrialise earlier.’ Between 1600 and 1900, England had only mediocre literacy rates by European standards, yet its economy grew fast and it was the first country to industrialise. During this period, Germany and Scandinavia had excellent literacy rates, but their economies grew slowly and they industrialised late. ‘Modern cross-country analyses have also struggled to find evidence that education causes economic growth, even though there is plenty of evidence that growth increases education,’ she adds. </p><p><br><strong>C</strong> In the handwritten inventories that Ogilvie is analysing are the belongings of women and men at marriage, remarriage and death. From badger skins to Bibles, sewing machines to scarlet bodices – the villagers’ entire worldly goods are included. Inventories of agricultural equipment and craft tools reveal economic activities; ownership of books and educationrelated objects like pens and slates suggests how people learned. In addition, the tax lists included in the database record the value of farms, workshops, assets and debts; signatures and people’s estimates of their age indicate literacy and numeracy levels; and court records reveal obstacles (such as the activities of the guilds*) that stifled industry. </p><p><br>Previous studies usually had just one way of linking education with economic growth – the presence of schools and printing presses, perhaps, or school enrolment, or the ability to sign names. According to Ogilvie, the database provides multiple indicators for the same individuals, making it possible to analyse links between literacy, numeracy, wealth, and industriousness, for individual women and men over the long term. </p><p><br><strong>D</strong> Ogilvie and her team have been building the vast database of material possessions on top of their full demographic reconstruction of the people who lived in these two German communities. ‘We can follow the same people – and their descendants – across 300 years of educational and economic change,’ she says. Individual lives have unfolded before their eyes. Stories like that of the 24-year-olds Ana Regina and Magdalena Riethmüllerin, who were chastised in 1707 for reading books in church instead of listening to the sermon. ‘This tells us they were continuing to develop their reading skills at least a decade after leaving school,’ explains Ogilvie. The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster living in the small Black Forest community of Wildberg, who was reprimanded in 1752 by the local weavers’ guild for ‘weaving cloth and combing wool, counter to the guild ordinance’. When Juliana continued taking jobs reserved for male guild members, she was summoned before the guild court and told to pay a fine equivalent to one third of a servant’s annual wage. It was a small act of defiance by today’s standards, but it reflects a time when laws in Germany and elsewhere regulated people’s access to labour markets. The dominance of guilds not only prevented people from using their skills, but also held back even the simplest industrial innovation. </p><p><br><strong>E</strong> The data-gathering phase of the project has been completed and now, according to Ogilvie, it is time ‘to ask the big questions’. One way to look at whether education causes economic growth is to ‘hold wealth constant’. This involves following the lives of different people with the same level of wealth over a period of time. If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, or to the adoption of industrial innovations like sewing machines. The team will also ask what aspect of education helped people engage more with productive and innovative activities. Was it, for instance, literacy, numeracy, book ownership, years of schooling? Was there a threshold level – a tipping point – that needed to be reached to affect economic performance? </p><p><br><strong>F</strong> Ogilvie hopes to start finding answers to these questions over the next few years. One thing is already clear, she says: the relationship between education and economic growth is far from straightforward. ‘German-speaking central Europe is an excellent laboratory for testing theories of economic growth,’ she explains. Between 1600 and 1900, literacy rates and book ownership were high and yet the region remained poor. It was also the case that local guilds and merchant associations were extremely powerful and legislated against anything that undermined their monopolies. In villages throughout the region, guilds blocked labour migration and resisted changes that might reduce their influence. </p><p><br>‘Early findings suggest that the potential benefits of education for the economy can be held back by other barriers, and this has implications for today,’ says Ogilvie. ‘Huge amounts are spent improving education in developing countries, but this spending can fail to deliver economic growth if restrictions block people – especially women and the poor – from using their education in economically productive ways. If economic institutions are poorly set up, for instance, education can’t lead to growth.’  </p><p><br>* guild: an association of artisans or merchants which oversees the practice of their craft or trade in a particular area </p>"
+}

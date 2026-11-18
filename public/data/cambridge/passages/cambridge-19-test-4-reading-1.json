@@ -1,0 +1,242 @@
+{
+  "id": "cambridge-19-test-4-reading-1",
+  "title": "The impact of climate change on butterflies in Britain",
+  "titleCn": "The impact of climate change on butterflies in Britain",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 4
+  },
+  "sourceQuestionId": "8506",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8506",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The impact of climate change on butterflies in Britain"
+    },
+    {
+      "label": "2",
+      "text": "According to conservationists, populations of around two thirds of butterfly species have declined in Britain over the past 40 years. If this trend continues, it might have unpredictable knock-on effects for other species in the ecosystem. Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals. Only by arming themselves with an understanding of why butterfly numbers are down can conservationists hope to halt or reverse the decline."
+    },
+    {
+      "label": "3",
+      "text": "Butterflies prefer outdoor conditions to be ‘just right’, which means neither too hot nor too cold. Under the conditions of climate change, the temperature at any given time in summer is generally getting warmer, leaving butterflies with the challenge of how to deal with this. One of the main ways in which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce. Scientists refer to the timing of such lifecycle events as ‘phenology’, so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be ‘advancing its phenology’."
+    },
+    {
+      "label": "4",
+      "text": "These advances have been observed already in a wide range of butterflies – indeed, most species are advancing their phenology to some extent. In Britain, as the average spring temperature has increased by roughly 0.5 °C over the past 20 years, species have advanced by between three days and a week on average, to keep in line with cooler temperatures. Is this a sign that butterflies are well equipped to cope with climate change, and readily adjust to new temperatures? Or are these populations under stress, being dragged along unwillingly by unnaturally fast changes? The answer is still unknown, but a new study is seeking to answer these questions."
+    },
+    {
+      "label": "5",
+      "text": "First, the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts – people who spend their free time observing the activities of different species. This provided information on 130 species of butterflies in Great Britain every year for a 20-year period. They then estimated the abundance and distribution of each species across this time, along with how far north in the country they had moved. The data also, crucially, allowed researchers to estimate subtle changes in what time of the year each species was changing into an adult butterfly."
+    },
+    {
+      "label": "6",
+      "text": "Analysing the trends in each variable, the researchers discovered that species with more flexible lifecycles were more likely to be able to benefit from an earlier emergence driven by climate change. Some species are able to go from caterpillar to butterfly twice or more per year, so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously."
+    },
+    {
+      "label": "7",
+      "text": "Among these species, researchers observed that those which have been advancing their phenology the most over the 20-year study period also had the most positive trends in abundance, distribution and northwards extent. For these species, such as Britain’s tiniest butterfly, the dainty Small Blue, whose colonies are up to a hundred strong, some develop into butterflies early in spring, allowing their summer generations to complete another reproductive cycle by autumn so that more population growth occurs."
+    },
+    {
+      "label": "8",
+      "text": "Other species, however, are less flexible and restricted to a single reproductive cycle per year. For these species, there was no evidence of any benefit to emerging earlier. Indeed, worryingly, it was found that the species in this group that specialise in very specific habitat types, often related to the caterpillar’s preferred diet, actually tended to be most at harm from advancing phenology. The beautiful High Brown Fritillary, often described as Britain’s most endangered butterfly, is in this group. It is found only in coppiced woodland and limestone pavement habitats. It is also a single-generation butterfly that has advanced its phenology. This suggests that climate change, while undoubtedly not the sole cause, might have played a part in the downfall of this species."
+    },
+    {
+      "label": "9",
+      "text": "All is not lost, however. Many of Britain’s single-generation species show the capacity, in continental Europe, to add a second generation in years that are sufficiently warm. Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to multiple generations in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases."
+    },
+    {
+      "label": "10",
+      "text": "More immediately, conservationists can arm themselves with all this knowledge to spot the warning signs of species that may be at risk. The White Admiral of southern England, a much sought-after butterfly, experienced a significant increase in numbers from the 1920s but has shown a considerable decline in the past 20 years. This may be because the caterpillar exists solely on a diet of a plant called honeysuckle. But it is also likely to be due to climate change."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1–6\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 1–6 on your answer sheet, write\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Forty years ago, there were fewer butterflies in Britain than at present.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8506_460640",
+          "explanation": "译文：四十年前，英国的蝴蝶比现在要少。\n\n第一段第一句：According to conservationists, populations of around two thirds of butterfly species have declined in Britain over the past 40 years.\n\n关于蝴蝶数量的变化，文中首段第一句提到，过去四十年间declined，即当下的数量比之前少，而题目中说的是四十前年的蝴蝶数量比现在少。题目表述与原文句意相矛盾。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Caterpillars are eaten by a number of different predators.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8506_859339",
+          "explanation": "译文：幼虫被许多种不同的捕食者吃掉。\n\n第一段第三句：Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly’s lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals.\n\n文中第一段第三句提到了Butterfly eggs develop into caterpillars，之后的these insects指代前文的caterpillars，后面的两个动词consume和act是并列关系，这里的act as prey for与题目中的eaten by是同义替换，之后的birds as well as bats and other small mammals与题目中的a number of different predators是同义替换，所以本句表达与题目含义一致。\n\n因此本题答案为TRUE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "‘Phenology’ is a term used to describe a creature’s ability to alter the location of a lifecycle event.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8506_254935",
+          "explanation": "译文：“物候现象”是一个术语，用来描述生物改变生命周期事件发生地点的能力。\n\n第二段第四句：Scientists refer to the timing of such lifecycle events as ‘phenology’, so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be ‘advancing its phenology’.\n\n文中第二段第四句对Phenology的定义进行了解释，这里明确说到了the timing of such lifecycle events，而前一句也提到了changing the time of year at which they are active and reproduce，而题目中的表述则是alter the location of a lifecycle event，这与文中信息不一致。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Some species of butterfly have a reduced lifespan due to spring temperature increases.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8506_850462",
+          "explanation": "译文：由于春季气温升高，一些种类的蝴蝶寿命缩短。\n\n第三段第二句：In Britain, as the average spring temperature has increased by roughly 0.5 °C over the past 20 years, species have advanced by between three days and a week on average, to keep in line with cooler temperatures.\n\n文中关于温度升高的表述出现在第三段第二句，即as the average spring temperature has increased by roughly 0.5 °C over the past 20 years。在温度升高的情况下，是否出现了题目中所说的a reduced lifespan，在文中并没有提到，因此无法判断题目中的因果关系是否成立。\n\n因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "There is a clear reason for the adaptations that butterflies are making to climate change.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8506_491830",
+          "explanation": "译文：蝴蝶对气候变化的适应有一个明确的原因。\n\n第三段第三、四、五句：Is this a sign that butterflies are well equipped to cope with climate change, and readily adjust to new temperatures? Or are these populations under stress, being dragged along unwillingly by unnaturally fast changes? The answer is still unknown, but a new study is seeking to answer these questions.\n\n关于蝴蝶对气候变化的adaptations，出现在第三段第三句，但是关于是否有a clear reason，文中用了并列的两个问句，并随后说明了The answer is still unknown。由此可知，题目中a clear reason的表述是错误的。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "The data used in the study was taken from the work of amateur butterfly watchers.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8506_400789",
+          "explanation": "译文：研究中使用的数据来自非专业蝴蝶观察者的工作。\n\n第四段第一句：First, the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts – people who spend their free time observing the activities of different species.\n\n关于数据来源，文中第四段第一句说到，是由butterfly enthusiasts提交的，并随后指出他们是people who spend their free time observing the activities of different species，即题目中的amateur butterfly watchers。因此题目中的表述是正确的。\n\n因此本题答案为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 7–13\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 7–13 on your answer sheet.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "· lives in large [7] ______",
+          "answers": [
+            "colonies"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8506_392510",
+          "explanation": "7. 译文：生活在大的______中\n\n根据本题题干上方副标题中的专有名词The Small Blue可以将解题区域确定在第六段第二句，按照题干信息，可以找到文中的whose colonies are up to a hundred strong，此处up to a hundred strong与题目中的large对应，因此题干的完整表达应当为lives in large colonies，因此本题答案为colonies。\n\n8. 译文：在______开始时首次出现\n\n本题依然是针对The Small Blue出题，考查它们生长周期中的早期阶段。文中对其春、夏、秋三季的生长特点都进行了描述，根据题干中的first appears和the start of可以定位到原文中的some develop into butterflies early in spring，此处early与题目中the start of对应，因此本题答案为spring。\n\n9. 译文：被认为比其他物种更______\n\n本题题干上方副标题中的专有名词The High Brown Fritillary出现在文中第七段第四句。题干中存在比较关系，考查这类蝴蝶比其他种类更明显的特征。文中第四句说到，它们是Britain’s most endangered butterfly，也就是它们比其他种类更加endangered，因此本题答案为endangered。\n\n10. 译文：其幼虫占据范围有限的______\n\n本题依然针对The High Brown Fritillary提问，因此继续向下阅读文章。题目考查occupy a limited range of，第七段第五句说到“It is found only in coppiced woodland and limestone pavement habitats.”，也就是说它们对habitats的选择是有限的，因此本题答案为habitat(s)。\n\n11. 译文：在______的温暖地区已经可以一年繁殖两次\n\n本题可以通过副标题中的专有名词The Silver-studded Blue定位到第八段，题目中的定位词出现在本段第二句，其中reproduce twice a year与文中的add a second generation同义替换，题目中的warm areas与文中的sufficiently warm同义替换，题目针对地点提问，对应文中的in continental Europe，因此本题答案为Europe。\n\n12. 译文：在英国的______地区被发现\n\n通过副标题中的专有名词The White Admiral可将本题定位到第九段第二句，题目针对该物种生存的地点进行提问，句中明确提到了of southern England，因此本题答案为southern。\n\n13. 译文：气候变化和幼虫的______都可能是数量减少的原因\n\n本题针对这种蝴蝶数量下降的原因提问，句中使用了并列结构。原文中第九段第二句提到has shown a considerable decline，之后在第三句和第四句中，分别用This may be because和But it is also likely to be due to的句式对原因进行分析，这与题目中的两个原因对应。题目中已经有了climate change，那么另一个便是the diet of the caterpillar，因此本题答案为diet。",
+          "promptHtml": "· lives in large [7] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "· first appears at the start of [8] ______",
+          "answers": [
+            "spring"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8506_536288",
+          "explanation": "7. 译文：生活在大的______中\n\n根据本题题干上方副标题中的专有名词The Small Blue可以将解题区域确定在第六段第二句，按照题干信息，可以找到文中的whose colonies are up to a hundred strong，此处up to a hundred strong与题目中的large对应，因此题干的完整表达应当为lives in large colonies，因此本题答案为colonies。\n\n8. 译文：在______开始时首次出现\n\n本题依然是针对The Small Blue出题，考查它们生长周期中的早期阶段。文中对其春、夏、秋三季的生长特点都进行了描述，根据题干中的first appears和the start of可以定位到原文中的some develop into butterflies early in spring，此处early与题目中the start of对应，因此本题答案为spring。\n\n9. 译文：被认为比其他物种更______\n\n本题题干上方副标题中的专有名词The High Brown Fritillary出现在文中第七段第四句。题干中存在比较关系，考查这类蝴蝶比其他种类更明显的特征。文中第四句说到，它们是Britain’s most endangered butterfly，也就是它们比其他种类更加endangered，因此本题答案为endangered。\n\n10. 译文：其幼虫占据范围有限的______\n\n本题依然针对The High Brown Fritillary提问，因此继续向下阅读文章。题目考查occupy a limited range of，第七段第五句说到“It is found only in coppiced woodland and limestone pavement habitats.”，也就是说它们对habitats的选择是有限的，因此本题答案为habitat(s)。\n\n11. 译文：在______的温暖地区已经可以一年繁殖两次\n\n本题可以通过副标题中的专有名词The Silver-studded Blue定位到第八段，题目中的定位词出现在本段第二句，其中reproduce twice a year与文中的add a second generation同义替换，题目中的warm areas与文中的sufficiently warm同义替换，题目针对地点提问，对应文中的in continental Europe，因此本题答案为Europe。\n\n12. 译文：在英国的______地区被发现\n\n通过副标题中的专有名词The White Admiral可将本题定位到第九段第二句，题目针对该物种生存的地点进行提问，句中明确提到了of southern England，因此本题答案为southern。\n\n13. 译文：气候变化和幼虫的______都可能是数量减少的原因\n\n本题针对这种蝴蝶数量下降的原因提问，句中使用了并列结构。原文中第九段第二句提到has shown a considerable decline，之后在第三句和第四句中，分别用This may be because和But it is also likely to be due to的句式对原因进行分析，这与题目中的两个原因对应。题目中已经有了climate change，那么另一个便是the diet of the caterpillar，因此本题答案为diet。",
+          "promptHtml": "· first appears at the start of [8] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "· is considered to be more [9] ______than other species",
+          "answers": [
+            "endangered"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8506_944738",
+          "explanation": "7. 译文：生活在大的______中\n\n根据本题题干上方副标题中的专有名词The Small Blue可以将解题区域确定在第六段第二句，按照题干信息，可以找到文中的whose colonies are up to a hundred strong，此处up to a hundred strong与题目中的large对应，因此题干的完整表达应当为lives in large colonies，因此本题答案为colonies。\n\n8. 译文：在______开始时首次出现\n\n本题依然是针对The Small Blue出题，考查它们生长周期中的早期阶段。文中对其春、夏、秋三季的生长特点都进行了描述，根据题干中的first appears和the start of可以定位到原文中的some develop into butterflies early in spring，此处early与题目中the start of对应，因此本题答案为spring。\n\n9. 译文：被认为比其他物种更______\n\n本题题干上方副标题中的专有名词The High Brown Fritillary出现在文中第七段第四句。题干中存在比较关系，考查这类蝴蝶比其他种类更明显的特征。文中第四句说到，它们是Britain’s most endangered butterfly，也就是它们比其他种类更加endangered，因此本题答案为endangered。\n\n10. 译文：其幼虫占据范围有限的______\n\n本题依然针对The High Brown Fritillary提问，因此继续向下阅读文章。题目考查occupy a limited range of，第七段第五句说到“It is found only in coppiced woodland and limestone pavement habitats.”，也就是说它们对habitats的选择是有限的，因此本题答案为habitat(s)。\n\n11. 译文：在______的温暖地区已经可以一年繁殖两次\n\n本题可以通过副标题中的专有名词The Silver-studded Blue定位到第八段，题目中的定位词出现在本段第二句，其中reproduce twice a year与文中的add a second generation同义替换，题目中的warm areas与文中的sufficiently warm同义替换，题目针对地点提问，对应文中的in continental Europe，因此本题答案为Europe。\n\n12. 译文：在英国的______地区被发现\n\n通过副标题中的专有名词The White Admiral可将本题定位到第九段第二句，题目针对该物种生存的地点进行提问，句中明确提到了of southern England，因此本题答案为southern。\n\n13. 译文：气候变化和幼虫的______都可能是数量减少的原因\n\n本题针对这种蝴蝶数量下降的原因提问，句中使用了并列结构。原文中第九段第二句提到has shown a considerable decline，之后在第三句和第四句中，分别用This may be because和But it is also likely to be due to的句式对原因进行分析，这与题目中的两个原因对应。题目中已经有了climate change，那么另一个便是the diet of the caterpillar，因此本题答案为diet。",
+          "promptHtml": "· is considered to be more [9] ______than other species"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "· its caterpillars occupy a limited range of [10] ______",
+          "answers": [
+            "habitat",
+            "habitats"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8506_301501",
+          "explanation": "7. 译文：生活在大的______中\n\n根据本题题干上方副标题中的专有名词The Small Blue可以将解题区域确定在第六段第二句，按照题干信息，可以找到文中的whose colonies are up to a hundred strong，此处up to a hundred strong与题目中的large对应，因此题干的完整表达应当为lives in large colonies，因此本题答案为colonies。\n\n8. 译文：在______开始时首次出现\n\n本题依然是针对The Small Blue出题，考查它们生长周期中的早期阶段。文中对其春、夏、秋三季的生长特点都进行了描述，根据题干中的first appears和the start of可以定位到原文中的some develop into butterflies early in spring，此处early与题目中the start of对应，因此本题答案为spring。\n\n9. 译文：被认为比其他物种更______\n\n本题题干上方副标题中的专有名词The High Brown Fritillary出现在文中第七段第四句。题干中存在比较关系，考查这类蝴蝶比其他种类更明显的特征。文中第四句说到，它们是Britain’s most endangered butterfly，也就是它们比其他种类更加endangered，因此本题答案为endangered。\n\n10. 译文：其幼虫占据范围有限的______\n\n本题依然针对The High Brown Fritillary提问，因此继续向下阅读文章。题目考查occupy a limited range of，第七段第五句说到“It is found only in coppiced woodland and limestone pavement habitats.”，也就是说它们对habitats的选择是有限的，因此本题答案为habitat(s)。\n\n11. 译文：在______的温暖地区已经可以一年繁殖两次\n\n本题可以通过副标题中的专有名词The Silver-studded Blue定位到第八段，题目中的定位词出现在本段第二句，其中reproduce twice a year与文中的add a second generation同义替换，题目中的warm areas与文中的sufficiently warm同义替换，题目针对地点提问，对应文中的in continental Europe，因此本题答案为Europe。\n\n12. 译文：在英国的______地区被发现\n\n通过副标题中的专有名词The White Admiral可将本题定位到第九段第二句，题目针对该物种生存的地点进行提问，句中明确提到了of southern England，因此本题答案为southern。\n\n13. 译文：气候变化和幼虫的______都可能是数量减少的原因\n\n本题针对这种蝴蝶数量下降的原因提问，句中使用了并列结构。原文中第九段第二句提到has shown a considerable decline，之后在第三句和第四句中，分别用This may be because和But it is also likely to be due to的句式对原因进行分析，这与题目中的两个原因对应。题目中已经有了climate change，那么另一个便是the diet of the caterpillar，因此本题答案为diet。",
+          "promptHtml": "· its caterpillars occupy a limited range of [10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "· is already able to reproduce twice a year in warm areas of [11] ______",
+          "answers": [
+            "Europe"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8506_336429",
+          "explanation": "7. 译文：生活在大的______中\n\n根据本题题干上方副标题中的专有名词The Small Blue可以将解题区域确定在第六段第二句，按照题干信息，可以找到文中的whose colonies are up to a hundred strong，此处up to a hundred strong与题目中的large对应，因此题干的完整表达应当为lives in large colonies，因此本题答案为colonies。\n\n8. 译文：在______开始时首次出现\n\n本题依然是针对The Small Blue出题，考查它们生长周期中的早期阶段。文中对其春、夏、秋三季的生长特点都进行了描述，根据题干中的first appears和the start of可以定位到原文中的some develop into butterflies early in spring，此处early与题目中the start of对应，因此本题答案为spring。\n\n9. 译文：被认为比其他物种更______\n\n本题题干上方副标题中的专有名词The High Brown Fritillary出现在文中第七段第四句。题干中存在比较关系，考查这类蝴蝶比其他种类更明显的特征。文中第四句说到，它们是Britain’s most endangered butterfly，也就是它们比其他种类更加endangered，因此本题答案为endangered。\n\n10. 译文：其幼虫占据范围有限的______\n\n本题依然针对The High Brown Fritillary提问，因此继续向下阅读文章。题目考查occupy a limited range of，第七段第五句说到“It is found only in coppiced woodland and limestone pavement habitats.”，也就是说它们对habitats的选择是有限的，因此本题答案为habitat(s)。\n\n11. 译文：在______的温暖地区已经可以一年繁殖两次\n\n本题可以通过副标题中的专有名词The Silver-studded Blue定位到第八段，题目中的定位词出现在本段第二句，其中reproduce twice a year与文中的add a second generation同义替换，题目中的warm areas与文中的sufficiently warm同义替换，题目针对地点提问，对应文中的in continental Europe，因此本题答案为Europe。\n\n12. 译文：在英国的______地区被发现\n\n通过副标题中的专有名词The White Admiral可将本题定位到第九段第二句，题目针对该物种生存的地点进行提问，句中明确提到了of southern England，因此本题答案为southern。\n\n13. 译文：气候变化和幼虫的______都可能是数量减少的原因\n\n本题针对这种蝴蝶数量下降的原因提问，句中使用了并列结构。原文中第九段第二句提到has shown a considerable decline，之后在第三句和第四句中，分别用This may be because和But it is also likely to be due to的句式对原因进行分析，这与题目中的两个原因对应。题目中已经有了climate change，那么另一个便是the diet of the caterpillar，因此本题答案为diet。",
+          "promptHtml": "· is already able to reproduce twice a year in warm areas of [11] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "· is found in [12] ______ areas of England",
+          "answers": [
+            "southern"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8506_501451",
+          "explanation": "7. 译文：生活在大的______中\n\n根据本题题干上方副标题中的专有名词The Small Blue可以将解题区域确定在第六段第二句，按照题干信息，可以找到文中的whose colonies are up to a hundred strong，此处up to a hundred strong与题目中的large对应，因此题干的完整表达应当为lives in large colonies，因此本题答案为colonies。\n\n8. 译文：在______开始时首次出现\n\n本题依然是针对The Small Blue出题，考查它们生长周期中的早期阶段。文中对其春、夏、秋三季的生长特点都进行了描述，根据题干中的first appears和the start of可以定位到原文中的some develop into butterflies early in spring，此处early与题目中the start of对应，因此本题答案为spring。\n\n9. 译文：被认为比其他物种更______\n\n本题题干上方副标题中的专有名词The High Brown Fritillary出现在文中第七段第四句。题干中存在比较关系，考查这类蝴蝶比其他种类更明显的特征。文中第四句说到，它们是Britain’s most endangered butterfly，也就是它们比其他种类更加endangered，因此本题答案为endangered。\n\n10. 译文：其幼虫占据范围有限的______\n\n本题依然针对The High Brown Fritillary提问，因此继续向下阅读文章。题目考查occupy a limited range of，第七段第五句说到“It is found only in coppiced woodland and limestone pavement habitats.”，也就是说它们对habitats的选择是有限的，因此本题答案为habitat(s)。\n\n11. 译文：在______的温暖地区已经可以一年繁殖两次\n\n本题可以通过副标题中的专有名词The Silver-studded Blue定位到第八段，题目中的定位词出现在本段第二句，其中reproduce twice a year与文中的add a second generation同义替换，题目中的warm areas与文中的sufficiently warm同义替换，题目针对地点提问，对应文中的in continental Europe，因此本题答案为Europe。\n\n12. 译文：在英国的______地区被发现\n\n通过副标题中的专有名词The White Admiral可将本题定位到第九段第二句，题目针对该物种生存的地点进行提问，句中明确提到了of southern England，因此本题答案为southern。\n\n13. 译文：气候变化和幼虫的______都可能是数量减少的原因\n\n本题针对这种蝴蝶数量下降的原因提问，句中使用了并列结构。原文中第九段第二句提到has shown a considerable decline，之后在第三句和第四句中，分别用This may be because和But it is also likely to be due to的句式对原因进行分析，这与题目中的两个原因对应。题目中已经有了climate change，那么另一个便是the diet of the caterpillar，因此本题答案为diet。",
+          "promptHtml": "· is found in [12] ______ areas of England"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "· both climate change and the [13] ______ of the caterpillar are possible reasons for decline",
+          "answers": [
+            "diet"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8506_877182",
+          "explanation": "7. 译文：生活在大的______中\n\n根据本题题干上方副标题中的专有名词The Small Blue可以将解题区域确定在第六段第二句，按照题干信息，可以找到文中的whose colonies are up to a hundred strong，此处up to a hundred strong与题目中的large对应，因此题干的完整表达应当为lives in large colonies，因此本题答案为colonies。\n\n8. 译文：在______开始时首次出现\n\n本题依然是针对The Small Blue出题，考查它们生长周期中的早期阶段。文中对其春、夏、秋三季的生长特点都进行了描述，根据题干中的first appears和the start of可以定位到原文中的some develop into butterflies early in spring，此处early与题目中the start of对应，因此本题答案为spring。\n\n9. 译文：被认为比其他物种更______\n\n本题题干上方副标题中的专有名词The High Brown Fritillary出现在文中第七段第四句。题干中存在比较关系，考查这类蝴蝶比其他种类更明显的特征。文中第四句说到，它们是Britain’s most endangered butterfly，也就是它们比其他种类更加endangered，因此本题答案为endangered。\n\n10. 译文：其幼虫占据范围有限的______\n\n本题依然针对The High Brown Fritillary提问，因此继续向下阅读文章。题目考查occupy a limited range of，第七段第五句说到“It is found only in coppiced woodland and limestone pavement habitats.”，也就是说它们对habitats的选择是有限的，因此本题答案为habitat(s)。\n\n11. 译文：在______的温暖地区已经可以一年繁殖两次\n\n本题可以通过副标题中的专有名词The Silver-studded Blue定位到第八段，题目中的定位词出现在本段第二句，其中reproduce twice a year与文中的add a second generation同义替换，题目中的warm areas与文中的sufficiently warm同义替换，题目针对地点提问，对应文中的in continental Europe，因此本题答案为Europe。\n\n12. 译文：在英国的______地区被发现\n\n通过副标题中的专有名词The White Admiral可将本题定位到第九段第二句，题目针对该物种生存的地点进行提问，句中明确提到了of southern England，因此本题答案为southern。\n\n13. 译文：气候变化和幼虫的______都可能是数量减少的原因\n\n本题针对这种蝴蝶数量下降的原因提问，句中使用了并列结构。原文中第九段第二句提到has shown a considerable decline，之后在第三句和第四句中，分别用This may be because和But it is also likely to be due to的句式对原因进行分析，这与题目中的两个原因对应。题目中已经有了climate change，那么另一个便是the diet of the caterpillar，因此本题答案为diet。",
+          "promptHtml": "· both climate change and the [13] ______ of the caterpillar are possible reasons for decline"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><b>Butterflies in the UK</b></p>\n\n<p><b>The Small Blue</b></p>\n\n<p>· lives in large <strong>[7] ______</strong><b>  </b></p>\n\n<p>· first appears at the start of <strong>[8] ______</strong><b>  </b></p>\n\n<p>· completes more than one reproductive cycle per year</p>\n\n<p><b>The High Brown Fritillary</b></p>\n\n<p>· has one reproductive cycle</p>\n\n<p>· is considered to be more <strong>[9] ______</strong>than other species</p>\n\n<p>· its caterpillars occupy a limited range of <strong>[10] ______</strong><b>  </b></p>\n\n<p><b>The Silver-studded Blue</b></p>\n\n<p>· is already able to reproduce twice a year in warm areas of <strong>[11] ______</strong><b>  </b></p>\n\n<p><b>The White Admiral</b></p>\n\n<p>· is found in <strong>[12] ______</strong> areas of England</p>\n\n<p>· both climate change and the <strong>[13] ______</strong> of the caterpillar are possible reasons for decline</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>The impact of climate change on butterflies in Britain</b></p><p>According to conservationists, populations of around two thirds of butterfly species have declined in Britain over the past 40 years. If this trend continues, it might have unpredictable knock-on effects for other species in the ecosystem. Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly&#x27;s lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals. Only by arming themselves with an understanding of why butterfly numbers are down can conservationists hope to halt or reverse the decline.</p><p>Butterflies prefer outdoor conditions to be ‘just right’, which means neither too hot nor too cold. Under the conditions of climate change, the temperature at any given time in summer is generally getting warmer, leaving butterflies with the challenge of how to deal with this. One of the main ways in which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce. Scientists refer to the timing of such lifecycle events as ‘phenology’, so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be ‘advancing its phenology’.</p><p>These advances have been observed already in a wide range of butterflies – indeed, most species are advancing their phenology to some extent. In Britain, as the average spring temperature has increased by roughly 0.5 °C over the past 20 years, species have advanced by between three days and a week on average, to keep in line with cooler temperatures. Is this a sign that butterflies are well equipped to cope with climate change, and readily adjust to new temperatures? Or are these populations under stress, being dragged along unwillingly by unnaturally fast changes? The answer is still unknown, but a new study is seeking to answer these questions.</p><p>First, the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts – people who spend their free time observing the activities of different species. This provided information on 130 species of butterflies in Great Britain every year for a 20-year period. They then estimated the abundance and distribution of each species across this time, along with how far north in the country they had moved. The data also, crucially, allowed researchers to estimate subtle changes in what time of the year each species was changing into an adult butterfly.</p><p>Analysing the trends in each variable, the researchers discovered that species with more flexible lifecycles were more likely to be able to benefit from an earlier emergence driven by climate change. Some species are able to go from caterpillar to butterfly twice or more per year, so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously.</p><p>Among these species, researchers observed that those which have been advancing their phenology the most over the 20-year study period also had the most positive trends in abundance, distribution and northwards extent. For these species, such as Britain’s tiniest butterfly, the dainty Small Blue, whose colonies are up to a hundred strong, some develop into butterflies early in spring, allowing their summer generations to complete another reproductive cycle by autumn so that more population growth occurs.</p><p>Other species, however, are less flexible and restricted to a single reproductive cycle per year. For these species, there was no evidence of any benefit to emerging earlier. Indeed, worryingly, it was found that the species in this group that specialise in very specific habitat types, often related to the caterpillar’s preferred diet, actually tended to be most at harm from advancing phenology. The beautiful High Brown Fritillary, often described as Britain’s most endangered butterfly, is in this group. It is found only in coppiced woodland and limestone pavement habitats. It is also a single-generation butterfly that has advanced its phenology. This suggests that climate change, while undoubtedly not the sole cause, might have played a part in the downfall of this species.</p><p>All is not lost, however. Many of Britain’s single-generation species show the capacity, in continental Europe, to add a second generation in years that are sufficiently warm. Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to multiple generations in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases.</p><p>More immediately, conservationists can arm themselves with all this knowledge to spot the warning signs of species that may be at risk. The White Admiral of southern England, a much sought-after butterfly, experienced a significant increase in numbers from the 1920s but has shown a considerable decline in the past 20 years. This may be because the caterpillar exists solely on a diet of a plant called honeysuckle. But it is also likely to be due to climate change.</p>"
+}

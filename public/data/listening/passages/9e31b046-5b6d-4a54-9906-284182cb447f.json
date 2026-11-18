@@ -1,0 +1,291 @@
+{
+  "id": "9e31b046-5b6d-4a54-9906-284182cb447f",
+  "title": "Sugar consumption（机经听写）",
+  "titleCn": "糖分摄入与减糖运动",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/9e31b046-5b6d-4a54-9906-284182cb447f",
+  "duration": 188,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,600"
+    },
+    {
+      "label": "2",
+      "text": "The foundation. Research shows that too much sugar causes a change in mood."
+    },
+    {
+      "label": "3",
+      "text": "00:00:09,260"
+    },
+    {
+      "label": "4",
+      "text": "Ancient humans knew sugary foods did not contain poison."
+    },
+    {
+      "label": "5",
+      "text": "00:00:14,960"
+    },
+    {
+      "label": "6",
+      "text": "One major company has reduced the sugar fifty percent of the popular juice."
+    },
+    {
+      "label": "7",
+      "text": "00:00:21,720"
+    },
+    {
+      "label": "8",
+      "text": "It is easier to have lower sugar in foods sold in a can than in a bottle."
+    },
+    {
+      "label": "9",
+      "text": "00:00:28,480"
+    },
+    {
+      "label": "10",
+      "text": "The campaign to reduce salt in bread was a success."
+    },
+    {
+      "label": "11",
+      "text": "00:00:33,580"
+    },
+    {
+      "label": "12",
+      "text": "The foundation designs a unique label for food products."
+    },
+    {
+      "label": "13",
+      "text": "00:00:39,080"
+    },
+    {
+      "label": "14",
+      "text": "Penny Bailey believes that we can improve the food safety."
+    },
+    {
+      "label": "15",
+      "text": "00:00:44,180"
+    },
+    {
+      "label": "16",
+      "text": "Anne-Marie Macintosh believes that sugar in cereal can stop them going soft."
+    },
+    {
+      "label": "17",
+      "text": "00:00:51,240"
+    },
+    {
+      "label": "18",
+      "text": "Professor Prescott believes that the smell of food affects how sweet we think it tastes."
+    },
+    {
+      "label": "19",
+      "text": "00:00:59,640"
+    },
+    {
+      "label": "20",
+      "text": "Other nutritionists recommend eating vegetables first at mealtime."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "108d39ea-8e0c-4ad7-98dd-42abca07a56c",
+          "prompt": "**Sugar consumption**\n\nResearch shows that too much sugar causes a change in **31**_____ .",
+          "answers": [
+            "mood"
+          ],
+          "rawAnswer": "mood",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The foundation. Research shows that too much sugar causes a change in mood"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "86d25e29-4f39-4442-9981-b8fc816eb7f1",
+          "prompt": "Ancient humans knew sugary foods did not contain **32**_____ .",
+          "answers": [
+            "poison"
+          ],
+          "rawAnswer": "poison",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Ancient humans knew sugary foods did not contain poison"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "09617f86-da48-4b15-bbb3-a4b6860d41fe",
+          "prompt": "One major company has reduced the sugar 50% of the popular **33**_____ .",
+          "answers": [
+            "juice"
+          ],
+          "rawAnswer": "juice",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One major company has reduced the sugar fifty percent of the popular juice"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "bab3f46e-e978-46eb-9d5c-1e4c46a9cbd3",
+          "prompt": "It is easier to have lower sugar in foods sold in a **34**_____ than in a bottle.",
+          "answers": [
+            "can"
+          ],
+          "rawAnswer": "can",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is easier to have lower sugar in foods sold in a can than in a bottle. "
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "5cb9352c-9a4a-48c1-8aa4-bf7004e37f3c",
+          "prompt": "The campaign to reduce salt in **35**_____ was a success.",
+          "answers": [
+            "bread"
+          ],
+          "rawAnswer": "bread",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The campaign to reduce salt in bread was a success. "
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "5819802a-1fd4-4df3-90fb-ea921744da47",
+          "prompt": "The foundation designs a unique **36**_____ for food products.",
+          "answers": [
+            "label"
+          ],
+          "rawAnswer": "label",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The foundation designs a unique label for food products. "
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "ce96f276-1b0b-4992-8ef7-b0aee9dc51cd",
+          "prompt": "Penny Bailey believes that we can improve the food **37**_____ .",
+          "answers": [
+            "safety"
+          ],
+          "rawAnswer": "safety",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Penny Bailey believes that we can improve the food safety. "
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "73118844-0411-4b5e-a01f-658521ba3305",
+          "prompt": "Anne-Marie Mackintosh believes that sugar in **38**_____ can stop them going soft.",
+          "answers": [
+            "cereal"
+          ],
+          "rawAnswer": "cereal",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Anne-Marie Macintosh believes that sugar in cereal can stop them going soft. "
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "8f7cb06b-9979-4657-a494-ac65f76061fb",
+          "prompt": "Professor Prescott believes that the **39**_____ of food affects how sweet we think it tastes.",
+          "answers": [
+            "smell"
+          ],
+          "rawAnswer": "smell",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Professor Prescott believes that the smell of food affects how sweet we think it tastes. "
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "6e1bad78-e9ec-429b-95e7-caaf7463a159",
+          "prompt": "Other nutritionists recommend eating **40**_____ first at mealtimes.",
+          "answers": [
+            "vegetables"
+          ],
+          "rawAnswer": "vegetables",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Other nutritionists recommend eating vegetables first at mealtime."
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,600</p><p>The foundation. Research shows that too much sugar causes a change in mood. </p><p>00:00:09,260</p><p>Ancient humans knew sugary foods did not contain poison. </p><p>00:00:14,960</p><p>One major company has reduced the sugar fifty percent of the popular juice. </p><p>00:00:21,720</p><p>It is easier to have lower sugar in foods sold in a can than in a bottle. </p><p>00:00:28,480</p><p>The campaign to reduce salt in bread was a success. </p><p>00:00:33,580</p><p>The foundation designs a unique label for food products. </p><p>00:00:39,080</p><p>Penny Bailey believes that we can improve the food safety. </p><p>00:00:44,180</p><p>Anne-Marie Macintosh believes that sugar in cereal can stop them going soft. </p><p>00:00:51,240</p><p>Professor Prescott believes that the smell of food affects how sweet we think it tastes. </p><p>00:00:59,640</p><p>Other nutritionists recommend eating vegetables first at mealtime.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/9e31b046-5b6d-4a54-9906-284182cb447f.mp3",
+    "durationSeconds": 67.176,
+    "sizeBytes": 269200,
+    "sha256": "349fce607f9def17361dfe37184eeaf3674770ccedb0bc02c914d37957d1872f",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:32Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1791979102221_0rh5gb.mp3"
+}

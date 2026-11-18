@@ -1,0 +1,329 @@
+{
+  "id": "db100ece-0046-414f-842a-ce2cfe20c76e",
+  "title": "Monarch butterflies",
+  "titleCn": "帝王蝶的越冬生存策略",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/db100ece-0046-414f-842a-ce2cfe20c76e",
+  "duration": 381,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:02,760"
+    },
+    {
+      "label": "2",
+      "text": "You will hear a biology freshman at a university presenting his research findings on the survival strategies used by butterflies. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:36,860"
+    },
+    {
+      "label": "4",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:44,360"
+    },
+    {
+      "label": "6",
+      "text": "We were required to do the investigation regarding survival strategies of particular animals, and I chose to study how the butterflies will do for survival when cold weather and food shortage could easily influence their life cycle. I concentrated on a number of main strategies butterflies adopt to handle these harsh conditions, hibernation and migration. First, let's talk about the hibernation, which means a long-term sleep in which an animal's metabolism slows to conserve strength. Various butterfly species have formed different patterns of hibernation at continuous periods of their life cycle. For example, the banded hair freak hardly hibernates in its full-grown adult form, but as an egg and another species, the dappled white, breeds during the winter in a crystallized stage, and during this time, it's able to draw on the energy it stimulated earlier on in its larval stage. Though the slowing of the metabolism in hibernation functions with many of the difficulties faced in winter, it can't prevent them all. In addition, some butterflies have extra plans for survival. For instance, they develop a substance in their blood, usually in glycerol or sorbitol, which serves as antifreeze, thereby adding extra resistance against lower temperatures. Actually, there is a positive side to the cold weather. Fewer predators exist to cause problems. This is because they're mainly active in warm weather. So now let's move on to the second type of survival strategy the butterflies used in winter: migration. That means moving to regions with a more suitable environment. I'm going to start this topic with a detailed study about particular cases of migratory species, the monarch butterfly. Many butterfly species found in various zones of the world migrate, like the red admiral, a British butterfly which winters in North Africa. But the monarch butterfly is the sole example to do this in North America. At any stage of the life cycle, the monarch cannot survive in the low winter temperatures, so when it gets cold, the monarchs begin to gather in huge groups and fly south. They can travel up to three and a half thousand miles, but only the last summer generation of monarchs migrate. Normal generations only live for a maximum of ten days. In fact, the last migration generation, as reported, do for six months, which enables them to take such a long journey. These huge teams of migrating monarchs only fly during daylight hours, and at night they usually have a rest in trees, again, often in vast groups. Research is now being done into what encourages them to reach the destination. It has been known for years that they find their way on the journey by following rivers, and there are a few of these along their migratory route. However, the new research indicates that they may also treat the sun as a navigational aid. During this time, they are able to feed mainly from a type of flower called milkweed, but they are not able to reproduce during this period. The monarchs hand in their lineage to a particular region in Mexico known as the Pierre A Sequoia. The monarchs are anticipated with great interest within the region, and over recent years their annual arrival has gained great popularity among tourists. However, their habitat has been increasingly threatened."
+    },
+    {
+      "label": "7",
+      "text": "00:04:13,220"
+    },
+    {
+      "label": "8",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nWrite **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "76a55b72-cc4e-43b8-ad1f-556d0256d122",
+          "prompt": "**Hibernation**\nButterfly species have different hibernation patterns during their life cycle.\nButterflies named “Banded Hair Freak” hibernate in the form of an **31**_____ .",
+          "answers": [
+            "egg"
+          ],
+          "rawAnswer": "egg",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, the banded hair freak hardly hibernates in its full-grown adult form, but as an egg"
+          },
+          "keywordPairs": [
+            {
+              "question": "the form of",
+              "article": "as"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "cf2564cf-fe4c-4cd5-ad8f-84c63e557122",
+          "prompt": "A species called “Dapple White” accumulates **32**_____ from larval stage.",
+          "answers": [
+            "energy"
+          ],
+          "rawAnswer": "energy",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the dappled white, breeds during the winter in a crystallized stage, and during this time, it's able to draw on the energy it stimulated earlier on in its larval stage"
+          },
+          "keywordPairs": [
+            {
+              "question": "accumulates",
+              "article": "stimulated earlier on"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "673d7b92-0473-4c20-a5a5-6b32e7e729bd",
+          "prompt": "Slow metabolism can help them to sort out some problems in winter.\nA substance is produced in the blood which has the function as **33**_____ .",
+          "answers": [
+            "antifreeze"
+          ],
+          "rawAnswer": "antifreeze",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They develop a substance in their blood;which serves as antifreeze, thereby adding extra resistance against lower temperatures"
+          },
+          "keywordPairs": [
+            {
+              "question": "has the function as",
+              "article": "serves as"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "c2ea7b65-d1c3-4563-b159-af72bddc7920",
+          "prompt": "There are few predators because they can only survive in **34**_____ weather",
+          "answers": [
+            "warm"
+          ],
+          "rawAnswer": "warm",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Fewer predators exist to cause problems. This is because they're mainly active in warm weather"
+          },
+          "keywordPairs": [
+            {
+              "question": "can only survive in",
+              "article": "mainly active in"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "918cf3d9-bce8-4549-adcb-550ec06c792c",
+          "prompt": "**Migration**\nMonarch butterflies move to **35**_____ in winter.",
+          "answers": [
+            "Mexico"
+          ],
+          "rawAnswer": "Mexico",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The monarchs hand in their lineage to a particular region in Mexico known as the Pierre A Sequoia"
+          },
+          "keywordPairs": [
+            {
+              "question": "move to",
+              "article": "head in their lineage to"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "26c82235-10e7-47d8-9025-36400e2fa15b",
+          "prompt": "To avoid cold temperature, they migrate to the south in large groups.\nThe survival can help them last for up to **36**_____ during a long journey.",
+          "answers": [
+            "6 months"
+          ],
+          "rawAnswer": "6 months",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In fact, the last migration generation, as reported, do for six months, which enables them to take such a long journey"
+          },
+          "keywordPairs": [
+            {
+              "question": "last for up to",
+              "article": "live for"
+            },
+            {
+              "question": "during",
+              "article": "which enables them to take"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "565adb41-8676-435a-b159-4d5c5499c906",
+          "prompt": "Monarch butterflies fly in the daytime and stay in **37**_____ during night.",
+          "answers": [
+            "trees"
+          ],
+          "rawAnswer": "trees",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These huge teams of migrating monarchs only fly during daylight hours, and at night they usually have a rest in trees"
+          },
+          "keywordPairs": [
+            {
+              "question": "daytime",
+              "article": "daylight hours"
+            },
+            {
+              "question": "stay in",
+              "article": "have a rest in"
+            },
+            {
+              "question": "during",
+              "article": "at"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "69f59b62-16ef-4d4e-9c21-58596b99c7a3",
+          "prompt": "Researchers found out that they orient by flying along the **38**_____ .",
+          "answers": [
+            "rivers"
+          ],
+          "rawAnswer": "rivers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It has been known for years that they find their way on the journey by following rivers"
+          },
+          "keywordPairs": [
+            {
+              "question": "orient",
+              "article": "find their way"
+            },
+            {
+              "question": "flying along the",
+              "article": "following"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "aacab364-6521-4e13-90bb-5b3d3a5deb47",
+          "prompt": "They also follow the direction of the **39**_____ for navigation aid.",
+          "answers": [
+            "sun"
+          ],
+          "rawAnswer": "sun",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the new research indicates that they may also treat the sun as a navigational aid"
+          },
+          "keywordPairs": [
+            {
+              "question": "follow the direction of",
+              "article": "as a navigational aid"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "bdc74818-06e2-4e75-a3d7-93373b650971",
+          "prompt": "During migration, they mainly feed on flowers and can not reproduce.\nRecently the annual arrival of the monarchs has attracted an increasing number of **40**_____ in the region.",
+          "answers": [
+            "tourists"
+          ],
+          "rawAnswer": "tourists",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Over recent years their annual arrival has gained great popularity among tourists"
+          },
+          "keywordPairs": [
+            {
+              "question": "attracted an increasing number of",
+              "article": "gained great popularity among"
+            }
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:02,760</p><p>You will hear a biology freshman at a university presenting his research findings on the survival strategies used by butterflies. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:36,860</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:44,360</p><p>We were required to do the investigation regarding survival strategies of particular animals, and I chose to study how the butterflies will do for survival when cold weather and food shortage could easily influence their life cycle. I concentrated on a number of main strategies butterflies adopt to handle these harsh conditions, hibernation and migration. First, let's talk about the hibernation, which means a long-term sleep in which an animal's metabolism slows to conserve strength. Various butterfly species have formed different patterns of hibernation at continuous periods of their life cycle. For example, the banded hair freak hardly hibernates in its full-grown adult form, but as an egg and another species, the dappled white, breeds during the winter in a crystallized stage, and during this time, it's able to draw on the energy it stimulated earlier on in its larval stage. Though the slowing of the metabolism in hibernation functions with many of the difficulties faced in winter, it can't prevent them all. In addition, some butterflies have extra plans for survival. For instance, they develop a substance in their blood, usually in glycerol or sorbitol, which serves as antifreeze, thereby adding extra resistance against lower temperatures. Actually, there is a positive side to the cold weather. Fewer predators exist to cause problems. This is because they're mainly active in warm weather. So now let's move on to the second type of survival strategy the butterflies used in winter: migration. That means moving to regions with a more suitable environment. I'm going to start this topic with a detailed study about particular cases of migratory species, the monarch butterfly. Many butterfly species found in various zones of the world migrate, like the red admiral, a British butterfly which winters in North Africa. But the monarch butterfly is the sole example to do this in North America. At any stage of the life cycle, the monarch cannot survive in the low winter temperatures, so when it gets cold, the monarchs begin to gather in huge groups and fly south. They can travel up to three and a half thousand miles, but only the last summer generation of monarchs migrate. Normal generations only live for a maximum of ten days. In fact, the last migration generation, as reported, do for six months, which enables them to take such a long journey. These huge teams of migrating monarchs only fly during daylight hours, and at night they usually have a rest in trees, again, often in vast groups. Research is now being done into what encourages them to reach the destination. It has been known for years that they find their way on the journey by following rivers, and there are a few of these along their migratory route. However, the new research indicates that they may also treat the sun as a navigational aid. During this time, they are able to feed mainly from a type of flower called milkweed, but they are not able to reproduce during this period. The monarchs hand in their lineage to a particular region in Mexico known as the Pierre A Sequoia. The monarchs are anticipated with great interest within the region, and over recent years their annual arrival has gained great popularity among tourists. However, their habitat has been increasingly threatened. </p><p>00:04:13,220</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/db100ece-0046-414f-842a-ce2cfe20c76e.mp3",
+    "durationSeconds": 260.04,
+    "sizeBytes": 4161171,
+    "sha256": "6b27007dcb74c06bb5ae866f9908f497fa527c4121c16ceaf340e11113119aec",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:29Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1776314727176_jsr5sv_695ee3f9.mp3"
+}

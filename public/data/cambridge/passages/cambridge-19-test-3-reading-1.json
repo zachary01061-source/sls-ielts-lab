@@ -1,0 +1,239 @@
+{
+  "id": "cambridge-19-test-3-reading-1",
+  "title": "Archaeologists discover evidence of prehistoric island settlers",
+  "titleCn": "Archaeologists discover evidence of prehistoric island settlers",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 19,
+    "test": 3
+  },
+  "sourceQuestionId": "8508",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8508",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Archaeologists discover evidence of prehistoric island settlers"
+    },
+    {
+      "label": "2",
+      "text": "In early April 2019, Dr Ceri Shipton and his colleagues from Australian National University became the first archaeologists to explore Obi, one of many tropical islands in Indonesia’s Maluku Utara province. The research team’s discoveries suggest that the prehistoric people who lived on Obi were adept on both land and sea, hunting in the dense rainforest, foraging on the seashore, and possibly even voyaging between islands."
+    },
+    {
+      "label": "3",
+      "text": "The excavations were part of a project to learn more about how people first dispersed from mainland Asia, through the Indonesian archipelago and into the prehistoric continent that once connected Australia and New Guinea. The team’s earlier research suggested that the northernmost islands in the group, known as the Wallacean islands, including Obi, would have offered the easiest migration route. It also seemed likely that these islands were crucial ‘stepping stones’ on humans’ island-hopping voyages through this region millennia ago. But to support this idea, they needed archaeological evidence for humans living in this remote area in the ancient past. So, they travelled to Obi to look for sites that might reveal evidence of early occupation."
+    },
+    {
+      "label": "4",
+      "text": "Just inland from the village of Kelo on Obi’s northern coast, Shipton and his colleagues found two caves containing prehistoric rock shelters that were suitable for excavation. With the permission and help of the local people of Kelo, they dug a small test excavation in each shelter. There they found numerous artefacts, including fragments of axes, some dating to about 14,000 years ago. The earliest axes at Kelo were made using clam shells. Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe to the northeast. As on Gebe, it is highly likely that Obi’s axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands."
+    },
+    {
+      "label": "5",
+      "text": "The oldest cultural layers from the Kelo site provided the team with the earliest record for human occupation on Obi, dating back around 18,000 years. At this time the climate was drier and colder than today, and the island’s dense rainforests would likely have been much less impenetrable than they are now. Sea levels were about 120 metres lower, meaning Obi was a much larger island, encompassing what is today the separate island of Bisa, as well as several other small islands nearby."
+    },
+    {
+      "label": "6",
+      "text": "Roughly 11,700 years ago, as the most recent ice age ended, the climate became significantly warmer and wetter, no doubt making Obi’s jungle much thicker. According to the researchers, it is no coincidence that around this time the first axes crafted from stone rather than sea shells appear, likely in response to their heavy-duty use for clearing and modification of the increasingly dense rainforest. While stone takes about twice as long to grind into an axe compared to shell, the harder material keeps its sharp edge for longer."
+    },
+    {
+      "label": "7",
+      "text": "Judging by the bones which the researchers unearthed in the Kelo caves, people living there mainly hunted the Rothschild’s cuscus, a possum-like creature that still lives on Obi today. As the forest grew more dense, people probably used axes to clear patches of forest and make hunting easier."
+    },
+    {
+      "label": "8",
+      "text": "Shipton’s team’s excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian, which must have been brought over from another island, as there is no known source on Obi. It also revealed particular types of beads, similar to those previously found on islands in southern Wallacea. These finds again support the idea that Obi islanders routinely travelled to other islands."
+    },
+    {
+      "label": "9",
+      "text": "The excavations suggest people successfully lived in the two Kelo shelters for about 10,000 years. But then, about 8,000 years ago, both were abandoned. Did the residents leave Obi completely, or move elsewhere on the island? Perhaps the jungle had grown so thick that axes were no longer a match for the dense undergrowth. Perhaps people simply moved to the coast and turned to fishing rather than hunting as a means of survival."
+    },
+    {
+      "label": "10",
+      "text": "Whatever the reason for the departure, there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they were re-occupied by people who owned pottery as well as items made out of gold and silver. It seems likely, in view of Obi’s location, that this final phase of occupation also saw the Kelo shelters used by people involved in the historic trade in spices between the Maluku islands and the rest of the world."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1–7\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 1–7 on your answer sheet, write\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Archaeological research had taken place on the island of Obi before the arrival of Ceri Shipton and his colleagues.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8508_808235",
+          "explanation": "译文：在Ceri Shipton及其同事们到来之前，在Obi岛上就已经有过考古研究了。\n\n本题的定位非常简单，考生凭借两组首字母大写信息即可在开篇处直接锁定原文句，且这句话里明确说到这个团队became the first archaeologists to explore Obi，也就是在此之前别无他人，这与题干表述形成了斩钉截铁的矛盾，由此可得出答案应为FALSE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "At the Kelo sites, the researchers found the first clamshell axes ever to be discovered in the region.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8508_886379",
+          "explanation": "译文：在Kelo这个地点，研究人员找到了该地区第一次被发现的由蚌壳制造的斧头。\n\n本题相比之下就难找一些了。虽然考生还是可以利用大写信息定位到第三段，但Kelo这个地名在本段第一、二和四句中都有出现，考生需要同时兼顾另一组题干信息first clam shell axes，才能在第四句里得到更多线索。这句话只交代了当地最初版的斧子确实是用蚌壳制作的，考生还需耐心多看到第五句，才能得知“这个地区此前曾出土过类似的斧子”，这与题干表述矛盾抵触，从而得出答案应为FALSE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "The size of Obi today is less than it was 18,000 years ago.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8508_752318",
+          "explanation": "译文：今日的Obi比它在18,000年前时的面积更小。\n\n考生可以利用数字信息快速定位到第四段的第一句话，然而本句和下一句都没有提及“古今岛屿面积对比”这个线索，需耐心看到第三句也是最后一句，才能得知当时的海平面更低，因此露出了更多的岛屿面积，这与题干表述一致，答案应为TRUE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "A change in the climate around 11,700 years ago had a greater impact on Obi than on the surrounding islands.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8508_948349",
+          "explanation": "译文：大约11,700年前的气候变化对Obi的影响要比其他周围岛屿所受影响更大。\n\n本题首先可以利用数字信息定位到第五段的第一句话，这句话也确实既出现了时间信息，也的确是与气候变化有关。然而，气候对Obi及周围岛屿的影响如何，文中既没有明确描述，更没有两相比较。且由于接下来的第二句话对应的就是下一题的表述内容，结合判断题顺序出题这个特点，考生应当能比较笃定地确认本题答案应为NOT GIVEN。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "The researchers believe there is a connection between warmer, wetter weather and a change in the material used to make axes.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8508_570626",
+          "explanation": "译文：研究人员相信，在更温暖潮湿的天气与制作斧子的原材料变化之间存在着某种关联。\n\n本题虽然不包含数字或大写信息，但采用平行阅读策略的考生应当能结合上一题的定位，在耐心向下文阅读的过程中看到第五段第二句话时，看懂它就是在说“恰好在这个气候变化的时期岛民改用石头而非蚌壳来制造斧子绝非巧合”，这与题干表述一致，答案应为TRUE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Shipton’s team were surprised to find evidence of the Obi islanders’ hunting practices.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8508_667452",
+          "explanation": "译文：Shipton的团队对于发现了Obi岛民的捕猎行为证据感到意外。\n\n题干中虽有首字母大写人名，但基本无助于定位，因为读至此处考生应该已经发现，全篇都是在记述这支团队的考古发掘情况。不过，hunt这个词倒是一模一样地出现在了文章第六段里，且本段篇幅很短，只有两句话，读懂大意可知并没有提及过Shipton团队是否对此感到吃惊意外，可知答案应为NOT GIVEN。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "It is thought that the Kelo shelters were occupied continuously until about 1,000 years ago.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8508_858923",
+          "explanation": "译文：Kelo居所被认为是持续使用到了约1,000年前。\n\n本题的解答相对繁琐一些。首先，第八段开头两句提到人们在这两处居所里成功住了约1万年，但是8,000年前左右离开了。其实根据这两句话的意思，已经可以否定题干的表述，因为如果8,000年前离开，就不可能是一直住到1,000年前；但是，由于题干中明确给出的1,000 years ago这个信息此时还不曾出现，对阅读理解能力不那么自信的考生恐怕并不敢于就此做出选择。更有甚者，若是直接靠1,000 years ago定位到了第九段第一句话里，则会因为缺失了上一段的信息铺垫而不能确认答案。因此，唯有采用平行阅读法的考生才能顺利避开这些障碍，顺利判定此题答案为FALSE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 8–13\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 8–13 on your answer sheet.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Excavations of rock shelters inside [8] ______near the village of Kelo revealed:",
+          "answers": [
+            "caves"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8508_100674",
+          "explanation": "8. 译文：在Kelo村庄附近______之内的岩石居所中进行的考古发掘揭示了\n\n本题定位不算难，考生可以直接依靠题干中一模一样的the village of Kelo定位到第三段第一句话；只要认真看懂这句话的结构，就能从two caves containing prehistoric rock shelters这里顺理成章地推理出：caves包含rock shelters，也就是后者在前者的inside（内部），由此可得答案应为caves。\n\n9. 译文：用______制造的斧子，可以追溯到约11,700年前\n\n本题的定位处虽然距离上一题略远，但包含的数字可供考生快速定位到第五段第一句话；虽然这句话本身并无答案，但紧接着的下一句就道出了所需内容。考生只需耐心看懂这句话的意思，明白此时制作斧子的原材料从蚌壳换成了石头，就能顺利得出答案应为stone。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n10. 译文：某种动物的______：证明了古代岛民们吃什么\n\n虽然题干中的animal和ate在对应原文中并没有原词重现，但其同义替换表达creature和hunted对于考生来说应当并不陌生。只要看懂这句话的意思，就能锁定本题答案bones。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第三句。\n\n11. 译文：______很像在其他岛上发现的那些\n\n本题的定位词resemble是雅思阅读文章中的熟面孔了，之前在多篇文章中作为考查型认知词汇现过身，耐心做过以往文章精读分析的考生应该可以用它来顺利匹配到第七段第二句话里的similar to，明白是几种特定类型的珠子与其他岛上发现的相似，进而可知答案应为beads。\n\n12. 译文：拥有______以及金属制作的物品\n\n本题空格内所需的答案必然与as well as后面的“金属物品”在原文中形成并列关系。因此，找到后者也就锁定了答案出处。在第九段第一句话里，无论是连接词as well as还是items made out of都原样重现，出题人只是敷衍地把上义词metal替换成了两个下义词gold和silver，且这三个单词的认知难度都很低，考生应可顺利得出答案为pottery。\n\n13. 译文：很可能参与了______的生产与销售\n\n解题至此，全文只剩下最后一句话了，考生只要耐心看清句意，就应该能从原文中trade与题干中sale的对应关系里，看出这些岛民参与的很可能是香料贸易，从而得出答案为spices。",
+          "promptHtml": "Excavations of rock shelters inside [8] ______near the village of Kelo revealed:"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "· axes made out of [9] ______, dating from around 11,700 years ago",
+          "answers": [
+            "stone"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8508_266802",
+          "explanation": "8. 译文：在Kelo村庄附近______之内的岩石居所中进行的考古发掘揭示了\n\n本题定位不算难，考生可以直接依靠题干中一模一样的the village of Kelo定位到第三段第一句话；只要认真看懂这句话的结构，就能从two caves containing prehistoric rock shelters这里顺理成章地推理出：caves包含rock shelters，也就是后者在前者的inside（内部），由此可得答案应为caves。\n\n9. 译文：用______制造的斧子，可以追溯到约11,700年前\n\n本题的定位处虽然距离上一题略远，但包含的数字可供考生快速定位到第五段第一句话；虽然这句话本身并无答案，但紧接着的下一句就道出了所需内容。考生只需耐心看懂这句话的意思，明白此时制作斧子的原材料从蚌壳换成了石头，就能顺利得出答案应为stone。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n10. 译文：某种动物的______：证明了古代岛民们吃什么\n\n虽然题干中的animal和ate在对应原文中并没有原词重现，但其同义替换表达creature和hunted对于考生来说应当并不陌生。只要看懂这句话的意思，就能锁定本题答案bones。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第三句。\n\n11. 译文：______很像在其他岛上发现的那些\n\n本题的定位词resemble是雅思阅读文章中的熟面孔了，之前在多篇文章中作为考查型认知词汇现过身，耐心做过以往文章精读分析的考生应该可以用它来顺利匹配到第七段第二句话里的similar to，明白是几种特定类型的珠子与其他岛上发现的相似，进而可知答案应为beads。\n\n12. 译文：拥有______以及金属制作的物品\n\n本题空格内所需的答案必然与as well as后面的“金属物品”在原文中形成并列关系。因此，找到后者也就锁定了答案出处。在第九段第一句话里，无论是连接词as well as还是items made out of都原样重现，出题人只是敷衍地把上义词metal替换成了两个下义词gold和silver，且这三个单词的认知难度都很低，考生应可顺利得出答案为pottery。\n\n13. 译文：很可能参与了______的生产与销售\n\n解题至此，全文只剩下最后一句话了，考生只要耐心看清句意，就应该能从原文中trade与题干中sale的对应关系里，看出这些岛民参与的很可能是香料贸易，从而得出答案为spices。",
+          "promptHtml": "· axes made out of [9] ______, dating from around 11,700 years ago"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "· [10] ______ of an animal: evidence of what ancient islanders ate",
+          "answers": [
+            "bones"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8508_906817",
+          "explanation": "8. 译文：在Kelo村庄附近______之内的岩石居所中进行的考古发掘揭示了\n\n本题定位不算难，考生可以直接依靠题干中一模一样的the village of Kelo定位到第三段第一句话；只要认真看懂这句话的结构，就能从two caves containing prehistoric rock shelters这里顺理成章地推理出：caves包含rock shelters，也就是后者在前者的inside（内部），由此可得答案应为caves。\n\n9. 译文：用______制造的斧子，可以追溯到约11,700年前\n\n本题的定位处虽然距离上一题略远，但包含的数字可供考生快速定位到第五段第一句话；虽然这句话本身并无答案，但紧接着的下一句就道出了所需内容。考生只需耐心看懂这句话的意思，明白此时制作斧子的原材料从蚌壳换成了石头，就能顺利得出答案应为stone。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n10. 译文：某种动物的______：证明了古代岛民们吃什么\n\n虽然题干中的animal和ate在对应原文中并没有原词重现，但其同义替换表达creature和hunted对于考生来说应当并不陌生。只要看懂这句话的意思，就能锁定本题答案bones。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第三句。\n\n11. 译文：______很像在其他岛上发现的那些\n\n本题的定位词resemble是雅思阅读文章中的熟面孔了，之前在多篇文章中作为考查型认知词汇现过身，耐心做过以往文章精读分析的考生应该可以用它来顺利匹配到第七段第二句话里的similar to，明白是几种特定类型的珠子与其他岛上发现的相似，进而可知答案应为beads。\n\n12. 译文：拥有______以及金属制作的物品\n\n本题空格内所需的答案必然与as well as后面的“金属物品”在原文中形成并列关系。因此，找到后者也就锁定了答案出处。在第九段第一句话里，无论是连接词as well as还是items made out of都原样重现，出题人只是敷衍地把上义词metal替换成了两个下义词gold和silver，且这三个单词的认知难度都很低，考生应可顺利得出答案为pottery。\n\n13. 译文：很可能参与了______的生产与销售\n\n解题至此，全文只剩下最后一句话了，考生只要耐心看清句意，就应该能从原文中trade与题干中sale的对应关系里，看出这些岛民参与的很可能是香料贸易，从而得出答案为spices。",
+          "promptHtml": "· [10] ______ of an animal: evidence of what ancient islanders ate"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "– [11] ______which resembled ones found on other islands.",
+          "answers": [
+            "beads"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8508_609390",
+          "explanation": "8. 译文：在Kelo村庄附近______之内的岩石居所中进行的考古发掘揭示了\n\n本题定位不算难，考生可以直接依靠题干中一模一样的the village of Kelo定位到第三段第一句话；只要认真看懂这句话的结构，就能从two caves containing prehistoric rock shelters这里顺理成章地推理出：caves包含rock shelters，也就是后者在前者的inside（内部），由此可得答案应为caves。\n\n9. 译文：用______制造的斧子，可以追溯到约11,700年前\n\n本题的定位处虽然距离上一题略远，但包含的数字可供考生快速定位到第五段第一句话；虽然这句话本身并无答案，但紧接着的下一句就道出了所需内容。考生只需耐心看懂这句话的意思，明白此时制作斧子的原材料从蚌壳换成了石头，就能顺利得出答案应为stone。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n10. 译文：某种动物的______：证明了古代岛民们吃什么\n\n虽然题干中的animal和ate在对应原文中并没有原词重现，但其同义替换表达creature和hunted对于考生来说应当并不陌生。只要看懂这句话的意思，就能锁定本题答案bones。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第三句。\n\n11. 译文：______很像在其他岛上发现的那些\n\n本题的定位词resemble是雅思阅读文章中的熟面孔了，之前在多篇文章中作为考查型认知词汇现过身，耐心做过以往文章精读分析的考生应该可以用它来顺利匹配到第七段第二句话里的similar to，明白是几种特定类型的珠子与其他岛上发现的相似，进而可知答案应为beads。\n\n12. 译文：拥有______以及金属制作的物品\n\n本题空格内所需的答案必然与as well as后面的“金属物品”在原文中形成并列关系。因此，找到后者也就锁定了答案出处。在第九段第一句话里，无论是连接词as well as还是items made out of都原样重现，出题人只是敷衍地把上义词metal替换成了两个下义词gold和silver，且这三个单词的认知难度都很低，考生应可顺利得出答案为pottery。\n\n13. 译文：很可能参与了______的生产与销售\n\n解题至此，全文只剩下最后一句话了，考生只要耐心看清句意，就应该能从原文中trade与题干中sale的对应关系里，看出这些岛民参与的很可能是香料贸易，从而得出答案为spices。",
+          "promptHtml": "– [11] ______which resembled ones found on other islands."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "· had [12] ______as well as items made out of metal",
+          "answers": [
+            "pottery"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8508_459571",
+          "explanation": "8. 译文：在Kelo村庄附近______之内的岩石居所中进行的考古发掘揭示了\n\n本题定位不算难，考生可以直接依靠题干中一模一样的the village of Kelo定位到第三段第一句话；只要认真看懂这句话的结构，就能从two caves containing prehistoric rock shelters这里顺理成章地推理出：caves包含rock shelters，也就是后者在前者的inside（内部），由此可得答案应为caves。\n\n9. 译文：用______制造的斧子，可以追溯到约11,700年前\n\n本题的定位处虽然距离上一题略远，但包含的数字可供考生快速定位到第五段第一句话；虽然这句话本身并无答案，但紧接着的下一句就道出了所需内容。考生只需耐心看懂这句话的意思，明白此时制作斧子的原材料从蚌壳换成了石头，就能顺利得出答案应为stone。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n10. 译文：某种动物的______：证明了古代岛民们吃什么\n\n虽然题干中的animal和ate在对应原文中并没有原词重现，但其同义替换表达creature和hunted对于考生来说应当并不陌生。只要看懂这句话的意思，就能锁定本题答案bones。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第三句。\n\n11. 译文：______很像在其他岛上发现的那些\n\n本题的定位词resemble是雅思阅读文章中的熟面孔了，之前在多篇文章中作为考查型认知词汇现过身，耐心做过以往文章精读分析的考生应该可以用它来顺利匹配到第七段第二句话里的similar to，明白是几种特定类型的珠子与其他岛上发现的相似，进而可知答案应为beads。\n\n12. 译文：拥有______以及金属制作的物品\n\n本题空格内所需的答案必然与as well as后面的“金属物品”在原文中形成并列关系。因此，找到后者也就锁定了答案出处。在第九段第一句话里，无论是连接词as well as还是items made out of都原样重现，出题人只是敷衍地把上义词metal替换成了两个下义词gold和silver，且这三个单词的认知难度都很低，考生应可顺利得出答案为pottery。\n\n13. 译文：很可能参与了______的生产与销售\n\n解题至此，全文只剩下最后一句话了，考生只要耐心看清句意，就应该能从原文中trade与题干中sale的对应关系里，看出这些岛民参与的很可能是香料贸易，从而得出答案为spices。",
+          "promptHtml": "· had [12] ______as well as items made out of metal"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "· probably took part in the production and sale of [13] ______.",
+          "answers": [
+            "spices"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8508_649569",
+          "explanation": "8. 译文：在Kelo村庄附近______之内的岩石居所中进行的考古发掘揭示了\n\n本题定位不算难，考生可以直接依靠题干中一模一样的the village of Kelo定位到第三段第一句话；只要认真看懂这句话的结构，就能从two caves containing prehistoric rock shelters这里顺理成章地推理出：caves包含rock shelters，也就是后者在前者的inside（内部），由此可得答案应为caves。\n\n9. 译文：用______制造的斧子，可以追溯到约11,700年前\n\n本题的定位处虽然距离上一题略远，但包含的数字可供考生快速定位到第五段第一句话；虽然这句话本身并无答案，但紧接着的下一句就道出了所需内容。考生只需耐心看懂这句话的意思，明白此时制作斧子的原材料从蚌壳换成了石头，就能顺利得出答案应为stone。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第二句。\n\n10. 译文：某种动物的______：证明了古代岛民们吃什么\n\n虽然题干中的animal和ate在对应原文中并没有原词重现，但其同义替换表达creature和hunted对于考生来说应当并不陌生。只要看懂这句话的意思，就能锁定本题答案bones。\n\n本题对应原文句的详细分析，可见前文“佳句赏析”中的第三句。\n\n11. 译文：______很像在其他岛上发现的那些\n\n本题的定位词resemble是雅思阅读文章中的熟面孔了，之前在多篇文章中作为考查型认知词汇现过身，耐心做过以往文章精读分析的考生应该可以用它来顺利匹配到第七段第二句话里的similar to，明白是几种特定类型的珠子与其他岛上发现的相似，进而可知答案应为beads。\n\n12. 译文：拥有______以及金属制作的物品\n\n本题空格内所需的答案必然与as well as后面的“金属物品”在原文中形成并列关系。因此，找到后者也就锁定了答案出处。在第九段第一句话里，无论是连接词as well as还是items made out of都原样重现，出题人只是敷衍地把上义词metal替换成了两个下义词gold和silver，且这三个单词的认知难度都很低，考生应可顺利得出答案为pottery。\n\n13. 译文：很可能参与了______的生产与销售\n\n解题至此，全文只剩下最后一句话了，考生只要耐心看清句意，就应该能从原文中trade与题干中sale的对应关系里，看出这些岛民参与的很可能是香料贸易，从而得出答案为spices。",
+          "promptHtml": "· probably took part in the production and sale of [13] ______."
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><b>Archaeological findings on Obi</b></p>\n\n<p>Excavations of rock shelters inside <strong>[8] ______</strong>near the village of Kelo revealed:</p>\n\n<p>· axes from around 14,000 years ago, probably used to make canoes</p>\n\n<p>· axes made out of <strong>[9] ______</strong>, dating from around 11,700 years ago</p>\n\n<p>·     <strong>[10] ______</strong><b> </b>of an animal: evidence of what ancient islanders ate</p>\n\n<p>· evidence of travel between islands:</p>\n\n<p>   –   obsidian: a material that is not found naturally on Obi</p>\n\n<p>   –    <strong>[11] ______</strong>which resembled ones found on other islands.</p>\n\n<p>It is thought that from 8,000 years ago, Obi islanders:</p>\n\n<p>· may have switched from hunting to fishing</p>\n\n<p>· had <strong>[12] ______</strong>as well as items made out of metal</p>\n\n<p>· probably took part in the production and sale of <strong>[13] ______</strong>.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><b>Archaeologists discover evidence of prehistoric island settlers</b></p><p>In early April 2019, Dr Ceri Shipton and his colleagues from Australian National University became the first archaeologists to explore Obi, one of many tropical islands in Indonesia’s Maluku Utara province. The research team’s discoveries suggest that the prehistoric people who lived on Obi were adept on both land and sea, hunting in the dense rainforest, foraging on the seashore, and possibly even voyaging between islands.</p><p>The excavations were part of a project to learn more about how people first dispersed from mainland Asia, through the Indonesian archipelago and into the prehistoric continent that once connected Australia and New Guinea. The team’s earlier research suggested that the northernmost islands in the group, known as the Wallacean islands, including Obi, would have offered the easiest migration route. It also seemed likely that these islands were crucial ‘stepping stones’ on humans’ island-hopping voyages through this region millennia ago. But to support this idea, they needed archaeological evidence for humans living in this remote area in the ancient past. So, they travelled to Obi to look for sites that might reveal evidence of early occupation.</p><p>Just inland from the village of Kelo on Obi’s northern coast, Shipton and his colleagues found two caves containing prehistoric rock shelters that were suitable for excavation. With the permission and help of the local people of Kelo, they dug a small test excavation in each shelter. There they found numerous artefacts, including fragments of axes, some dating to about 14,000 years ago. The earliest axes at Kelo were made using clam shells. Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe to the northeast. As on Gebe, it is highly likely that Obi’s axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands.</p><p>The oldest cultural layers from the Kelo site provided the team with the earliest record for human occupation on Obi, dating back around 18,000 years. At this time the climate was drier and colder than today, and the island’s dense rainforests would likely have been much less impenetrable than they are now. Sea levels were about 120 metres lower, meaning Obi was a much larger island, encompassing what is today the separate island of Bisa, as well as several other small islands nearby.</p><p>Roughly 11,700 years ago, as the most recent ice age ended, the climate became significantly warmer and wetter, no doubt making Obi’s jungle much thicker. According to the researchers, it is no coincidence that around this time the first axes crafted from stone rather than sea shells appear, likely in response to their heavy-duty use for clearing and modification of the increasingly dense rainforest. While stone takes about twice as long to grind into an axe compared to shell, the harder material keeps its sharp edge for longer.</p><p>Judging by the bones which the researchers unearthed in the Kelo caves, people living there mainly hunted the Rothschild’s cuscus, a possum-like creature that still lives on Obi today. As the forest grew more dense, people probably used axes to clear patches of forest and make hunting easier.</p><p>Shipton’s team’s excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian, which must have been brought over from another island, as there is no known source on Obi. It also revealed particular types of beads, similar to those previously found on islands in southern Wallacea. These finds again support the idea that Obi islanders routinely travelled to other islands.</p><p>The excavations suggest people successfully lived in the two Kelo shelters for about 10,000 years. But then, about 8,000 years ago, both were abandoned. Did the residents leave Obi completely, or move elsewhere on the island? Perhaps the jungle had grown so thick that axes were no longer a match for the dense undergrowth. Perhaps people simply moved to the coast and turned to fishing rather than hunting as a means of survival.</p><p>Whatever the reason for the departure, there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they were re-occupied by people who owned pottery as well as items made out of gold and silver. It seems likely, in view of Obi’s location, that this final phase of occupation also saw the Kelo shelters used by people involved in the historic trade in spices between the Maluku islands and the rest of the world.</p>"
+}

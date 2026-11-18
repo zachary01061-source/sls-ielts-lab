@@ -1,0 +1,377 @@
+{
+  "id": "ee115917-46b6-420f-8a3d-b200074b5aa3",
+  "title": "Antarctica field trip to the Mertz glacier",
+  "titleCn": "默茨冰川南极科考实地考察",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/ee115917-46b6-420f-8a3d-b200074b5aa3",
+  "duration": 371,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,700"
+    },
+    {
+      "label": "2",
+      "text": "Recent field trip to the Mertz Glacier in Antarctica and to place it in the wider context of research and international cooperation. According to the Antarctic Treaty, the whole region was designated for the advancement of science and maintaining global peace."
+    },
+    {
+      "label": "3",
+      "text": "00:00:19,720"
+    },
+    {
+      "label": "4",
+      "text": "This decision was a milestone in international cooperation, preventing conflict in one of the world's most isolated areas. The treaty has provided a framework that allows nations to collaborate rather than compete, and it is one of the reasons why Antarctica remains such a unique site for fieldwork. Now, preparing for an expedition to such an environment requires great care. The explorers always had to pack spare batteries to keep their instruments functioning in the harsh climate. Without them, they risked losing valuable data during research missions."
+    },
+    {
+      "label": "5",
+      "text": "00:00:58,280"
+    },
+    {
+      "label": "6",
+      "text": "In addition, it was equally important that they could operate a radio device in case of emergencies."
+    },
+    {
+      "label": "7",
+      "text": "00:01:05,740"
+    },
+    {
+      "label": "8",
+      "text": "Radios were often the only way to contact nearby stations for help, so every member of the team was given basic communication training before departure. The journey itself began with sea travel. The team traveled aboard the Aurora Australia, a modern research vessel that even has its own library for study and reference."
+    },
+    {
+      "label": "9",
+      "text": "00:01:29,100"
+    },
+    {
+      "label": "10",
+      "text": "This facility allowed the scientists to continue reading, analyzing, and preparing reports while at sea. On arrival, the schedule was filled with both practical work and training."
+    },
+    {
+      "label": "11",
+      "text": "00:01:42,480"
+    },
+    {
+      "label": "12",
+      "text": "During their stay, they attended specialized workshops that offered guidance on managing and preserving scientific data."
+    },
+    {
+      "label": "13",
+      "text": "00:01:51,410"
+    },
+    {
+      "label": "14",
+      "text": "These sessions helped ensure that valuable findings would be stored accurately and shared effectively with other researchers. Once the field activities began, the scientists undertook a variety of monitoring tasks. One of their tasks involved monitoring water pollution, particularly measuring how much acid was present in the environment."
+    },
+    {
+      "label": "15",
+      "text": "00:02:15,040"
+    },
+    {
+      "label": "16",
+      "text": "Careful recording of acidity levels was essential for tracking long-term changes in ocean health."
+    },
+    {
+      "label": "17",
+      "text": "00:02:22,080"
+    },
+    {
+      "label": "18",
+      "text": "Alongside this, they also carried out inspections of the instruments used in a penguin study, including checking that the cameras were functioning correctly."
+    },
+    {
+      "label": "19",
+      "text": "00:02:32,200"
+    },
+    {
+      "label": "20",
+      "text": "Reliable footage was vital for observing penguin behavior without disturbing the animals directly."
+    },
+    {
+      "label": "21",
+      "text": "00:02:39,780"
+    },
+    {
+      "label": "22",
+      "text": "Speaking of penguins, one of the most fascinating observations came from their movements. Researchers observed that penguin colonies often advance across the ice, forming a pattern like a wave."
+    },
+    {
+      "label": "23",
+      "text": "00:02:53,000"
+    },
+    {
+      "label": "24",
+      "text": "This movement not only creates rhythm in their march but also provides protection and energy efficiency for the group. The recordings captured by the cameras gave the team new insights into these collective behaviors. Of course, environmental issues were also a major focus. Scientists carefully recorded the specific types of rubbish discovered in the environment. Analyzing this debris allowed them to identify the zones most seriously affected by human pollution and to make recommendations for cleaning and protecting sensitive areas. Finally, we should mention the plans for the future. Plans are underway for an additional ship that will serve future expeditions. This modern vessel is expected to provide improved laboratories and accommodation, making research far more efficient. It will also allow larger teams to visit Antarctica and extend the reach of collaborative projects. So to summarize, the trip to the Mertz Glacier was not only about data collection, but also about training, cooperation, and planning for sustainable research in one of the harshest environments on Earth."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below. \nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "c7fa0b32-d034-4bbf-abb4-f73a5b11979b",
+          "prompt": "**Antarctica Field Trip to the Mertz Glacier**\n\n**Background to the Antarctic Treaty**\n·Under the Antarctic Treaty, the continent is dedicated to science and **31**_____ .",
+          "answers": [
+            "peace"
+          ],
+          "rawAnswer": "peace",
+          "evidence": {
+            "paragraph": "",
+            "quote": "According to the Antarctic Treaty, the whole region was designated for the advancement of science and maintaining global peace"
+          },
+          "keywordPairs": [
+            {
+              "question": "continent",
+              "article": "whole region"
+            },
+            {
+              "question": "dedicated to",
+              "article": "designated for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "af5d6f7b-979f-4ce5-8843-43920b90e324",
+          "prompt": "·The scientists had to take extra **32**_____ for equipment.",
+          "answers": [
+            "batteries"
+          ],
+          "rawAnswer": "batteries",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The explorers always had to pack spare batteries to keep their instruments functioning in the harsh climate"
+          },
+          "keywordPairs": [
+            {
+              "question": "extra",
+              "article": "spare"
+            },
+            {
+              "question": "equipment",
+              "article": "instruments"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "4b0ddb30-b5f4-4a8f-bcc3-b56b368a6feb",
+          "prompt": "·They had to learn how to use a **33**_____ for emergencies.",
+          "answers": [
+            "radio"
+          ],
+          "rawAnswer": "radio",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In addition, it was equally important that they could operate a radio device in case of emergencies"
+          },
+          "keywordPairs": [
+            {
+              "question": "how to use",
+              "article": "could operate"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "6c848a95-9b78-4956-9ead-582c9e23247f",
+          "prompt": "**Recent research**\n·They travelled on the Aurora Australia, which has its own **34**_____ .",
+          "answers": [
+            "library"
+          ],
+          "rawAnswer": "library",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The team traveled aboard the Aurora Australia, a modern research vessel that even has its own library for study and reference"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "11fa6b46-523b-4abb-af8a-c22a018d3020",
+          "prompt": "·They attended workshops e.g. advice on managing and preserving **35**_____ .",
+          "answers": [
+            "data"
+          ],
+          "rawAnswer": "data",
+          "evidence": {
+            "paragraph": "",
+            "quote": "During their stay, they attended specialized workshops that offered guidance on managing and preserving scientific data"
+          },
+          "keywordPairs": [
+            {
+              "question": "advice on",
+              "article": "\toffered guidance on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "610bb4fb-7941-4c30-befa-2a71bd0082bf",
+          "prompt": "·Monitoring water pollution especially how much **36**_____ there was.",
+          "answers": [
+            "acid"
+          ],
+          "rawAnswer": "acid",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One of their tasks involved monitoring water pollution, particularly measuring how much acid was present in the environment"
+          },
+          "keywordPairs": [
+            {
+              "question": "especially",
+              "article": "particularly"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "84ef4f87-5d73-4e01-82f9-e8e9629773a8",
+          "prompt": "·Checking the equipment for a penguin study, for example the **37**_____ .",
+          "answers": [
+            "cameras"
+          ],
+          "rawAnswer": "cameras",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Alongside this, they also carried out inspections of the instruments used in a penguin study, including checking that the cameras were functioning correctly"
+          },
+          "keywordPairs": [
+            {
+              "question": "Checking the equipment",
+              "article": "inspections of the instruments"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "9ac0fdd2-ae90-47e5-8789-fac2290970dd",
+          "prompt": "**Penguin behavior and future plans**\n·Penguin groups move in the shape of a **38**_____ .",
+          "answers": [
+            "wave"
+          ],
+          "rawAnswer": "wave",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers observed that penguin colonies often advance across the ice, forming a pattern like a wave"
+          },
+          "keywordPairs": [
+            {
+              "question": "move",
+              "article": "across"
+            },
+            {
+              "question": "in the shape of a",
+              "article": "forming a pattern like a\t"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "820df691-97e0-4abf-8ba3-b136de8ca4e1",
+          "prompt": "·Noting details of **39**_____ to understand which areas are most affected.",
+          "answers": [
+            "rubbish"
+          ],
+          "rawAnswer": "rubbish",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Scientists carefully recorded the specific types of rubbish discovered in the environment. Analyzing this debris allowed them to identify the zones most seriously affected by human pollution"
+          },
+          "keywordPairs": [
+            {
+              "question": "Noting details of",
+              "article": "recorded the specific types of"
+            },
+            {
+              "question": "understand which areas are most affected",
+              "article": "identify the zones most seriously affected"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "33846263-0513-4753-b88d-cc24370aef1d",
+          "prompt": "·A new **40**_____ is planned and this will benefit researchers.",
+          "answers": [
+            "ship"
+          ],
+          "rawAnswer": "ship",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Plans are underway for an additional ship that will serve future expeditions"
+          },
+          "keywordPairs": [
+            {
+              "question": "new",
+              "article": "additional"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,700</p><p>Recent field trip to the Mertz Glacier in Antarctica and to place it in the wider context of research and international cooperation. According to the Antarctic Treaty, the whole region was designated for the advancement of science and maintaining global peace. </p><p>00:00:19,720</p><p>This decision was a milestone in international cooperation, preventing conflict in one of the world's most isolated areas. The treaty has provided a framework that allows nations to collaborate rather than compete, and it is one of the reasons why Antarctica remains such a unique site for fieldwork. Now, preparing for an expedition to such an environment requires great care. The explorers always had to pack spare batteries to keep their instruments functioning in the harsh climate. Without them, they risked losing valuable data during research missions. </p><p>00:00:58,280</p><p>In addition, it was equally important that they could operate a radio device in case of emergencies. </p><p>00:01:05,740</p><p>Radios were often the only way to contact nearby stations for help, so every member of the team was given basic communication training before departure. The journey itself began with sea travel. The team traveled aboard the Aurora Australia, a modern research vessel that even has its own library for study and reference. </p><p>00:01:29,100</p><p>This facility allowed the scientists to continue reading, analyzing, and preparing reports while at sea. On arrival, the schedule was filled with both practical work and training. </p><p>00:01:42,480</p><p>During their stay, they attended specialized workshops that offered guidance on managing and preserving scientific data. </p><p>00:01:51,410</p><p>These sessions helped ensure that valuable findings would be stored accurately and shared effectively with other researchers. Once the field activities began, the scientists undertook a variety of monitoring tasks. One of their tasks involved monitoring water pollution, particularly measuring how much acid was present in the environment. </p><p>00:02:15,040</p><p>Careful recording of acidity levels was essential for tracking long-term changes in ocean health. </p><p>00:02:22,080</p><p>Alongside this, they also carried out inspections of the instruments used in a penguin study, including checking that the cameras were functioning correctly. </p><p>00:02:32,200</p><p>Reliable footage was vital for observing penguin behavior without disturbing the animals directly. </p><p>00:02:39,780</p><p>Speaking of penguins, one of the most fascinating observations came from their movements. Researchers observed that penguin colonies often advance across the ice, forming a pattern like a wave. </p><p>00:02:53,000</p><p>This movement not only creates rhythm in their march but also provides protection and energy efficiency for the group. The recordings captured by the cameras gave the team new insights into these collective behaviors. Of course, environmental issues were also a major focus. Scientists carefully recorded the specific types of rubbish discovered in the environment. Analyzing this debris allowed them to identify the zones most seriously affected by human pollution and to make recommendations for cleaning and protecting sensitive areas. Finally, we should mention the plans for the future. Plans are underway for an additional ship that will serve future expeditions. This modern vessel is expected to provide improved laboratories and accommodation, making research far more efficient. It will also allow larger teams to visit Antarctica and extend the reach of collaborative projects. So to summarize, the trip to the Mertz Glacier was not only about data collection, but also about training, cooperation, and planning for sustainable research in one of the harshest environments on Earth.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/ee115917-46b6-420f-8a3d-b200074b5aa3.mp3",
+    "durationSeconds": 250.2,
+    "sizeBytes": 1001296,
+    "sha256": "b530f8bfba6c53ed012c5c7b5d154afa1f76e123499cf9f5732415948854b959",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:33Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346408274_5dco2p_3c28ff80.mp3"
+}

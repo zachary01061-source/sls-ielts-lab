@@ -1,0 +1,337 @@
+{
+  "id": "da086050-fedb-4ed3-869d-f3d0d83ced19",
+  "title": "Vertical farming",
+  "titleCn": "垂直农业：解决粮食危机的未来农场",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/da086050-fedb-4ed3-869d-f3d0d83ced19",
+  "duration": 371,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,640"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer all of the questions."
+    },
+    {
+      "label": "3",
+      "text": "00:00:07,380"
+    },
+    {
+      "label": "4",
+      "text": "So in this final lecture on contemporary agricultural issues, I'd like to look at an idea that might solve many of the problems that we face today. First, let's recap on some of the dilemmas that farmers, that governments must deal with. Okay, so the global population is rapidly expanding, and there's insufficient space to grow the crops to feed all the people that will be around in, say, twenty fifty. That's frightening enough, but then there's the problem of pollution. As you know, seventy percent of the world's fresh water is used up for irrigation, and as a result of contamination with pesticides and silt, it just becomes too polluted. Then there's the fact that in order to mechanically harvest plants and export them by road or air, farming relies on huge quantities of oil. Well, this resource will eventually run out, and many people would say we can't afford to ignore that."
+    },
+    {
+      "label": "5",
+      "text": "00:01:04,200"
+    },
+    {
+      "label": "6",
+      "text": "Then you will undoubtedly have noticed the continual rise and fall in the cost of food in the last decade. And of course, that's linked to the same resource. And finally, we know that our ecosystem has been severely affected by the great quantity of chemical fertilizers we've pumped and sprayed onto it. This approach to farming is clearly unsustainable. Okay, so it's pretty clear what my views on traditional farming methods are. However, is there a convincing alternative? Well, the proposal I mentioned earlier is referred to as vertical farming. Sounds intriguing, doesn't it? Well, what it means is simply that rather than growing crops in a field, we grow them in layers, one level of crops above another in a multi-story building, a tower full of plants."
+    },
+    {
+      "label": "7",
+      "text": "00:02:00,720"
+    },
+    {
+      "label": "8",
+      "text": "In places like Arizona, Denmark, and Germany, we've already seen indoor farming techniques work. For example, aeroponics and hydroponics, both of which ensure the crops get exactly what they need. For a start, nutrients. The crops get exactly the right quantity and mix. It doesn't matter where these farms are situated, they're indoors, so external factors such as temperature and rainfall are irrelevant. So yes, the same applies to climatic disasters. Even if they occur, they won't destroy the crops, so things like drought or floods have no impact on harvests. What other advantages are there? Well, right now, governments and farmers are spending a fortune on pesticides. But if your crops are inside, the likelihood of them getting a disease is minimized. Lastly, there's a lot of recycling going on in this kind of farm. So another great advantage is that with this type of farming, we can minimize the amount of waste being generated. Of course, as with any new idea, there are criticisms and concerns. However, one thing that critics like to point out is the high cost of land in a city and say that it won't be economically viable to farm like this. But think about it. In a vertical farm, crops can be produced constantly. For example, lettuce can be harvested in four weeks, corn every four months. The turnover for continual production would not be insignificant."
+    },
+    {
+      "label": "9",
+      "text": "00:03:34,620"
+    },
+    {
+      "label": "10",
+      "text": "A reliable supply of energy is another concern. Advocates of vertical farming believe that solar energy is the key, but critics doubt whether we can depend on this. Lastly, critics worry that there might be construction problems with vertical farms. For example, they think that structural damage will soon occur due to the levels of humidity. So let's look at the response from supporters."
+    },
+    {
+      "label": "11",
+      "text": "00:04:03,540"
+    },
+    {
+      "label": "12",
+      "text": "That is the end of part four. You now have one minute to check your answers to part four."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "d7d44483-5f95-4f0d-8bc8-741aa0b55857",
+          "prompt": "**Problem connected to current farming methods**\n· Insufficient space\n· Water used in **31**_____ on farms becomes polluted.",
+          "answers": [
+            "irrigation"
+          ],
+          "rawAnswer": "irrigation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "As you know, seventy percent of the world's fresh water is used up for irrigation, and as a result of contamination with pesticides and silt, it just becomes too polluted"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "fce0f7bc-ee6e-418f-b553-e684752daed5",
+          "prompt": "· Heavy dependency on **32**_____ to produce and transport crops.",
+          "answers": [
+            "oil"
+          ],
+          "rawAnswer": "oil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Then there's the fact that in order to mechanically harvest plants and export them by road or air, farming relies on huge quantities of oil"
+          },
+          "keywordPairs": [
+            {
+              "question": "Heavy dependency on",
+              "article": "relies on huge quantities of"
+            },
+            {
+              "question": "produce crops",
+              "article": "mechanically harvest plants"
+            },
+            {
+              "question": "transport crops",
+              "article": "export them by road or air"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "9c1b5221-a321-495e-9e07-0517fa0f27b1",
+          "prompt": "· Continuous fluctuations in **33**_____ prices.\n· Negative effect on the ecosystem of fertilizers made from chemicals.",
+          "answers": [
+            "food"
+          ],
+          "rawAnswer": "food",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Then you will undoubtedly have noticed the continual rise and fall in the cost of food in the last decade"
+          },
+          "keywordPairs": [
+            {
+              "question": "fluctuations",
+              "article": "rise and fall"
+            },
+            {
+              "question": "prices",
+              "article": "cost"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "0b1c60d8-910a-467c-925a-037e333c325a",
+          "prompt": "**Definition of the term “vertical farming”**\n· Growing crops in multi-storey buildings\n\n**Benefits of indoor farming of crops**\n· The right amount of nutrients is provided.\n· Farm locations are not affected by **34**_____ and rainfall.",
+          "answers": [
+            "temperature"
+          ],
+          "rawAnswer": "temperature",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It doesn't matter where these farms are situated, they're indoors, so external factors such as temperature and rainfall are irrelevant"
+          },
+          "keywordPairs": [
+            {
+              "question": "not affected by",
+              "article": "irrelevant"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "941a26fd-847e-4252-ae4f-3f925ab45d6e",
+          "prompt": "· There is no damage caused by drought or **35**_____ .",
+          "answers": [
+            "floods"
+          ],
+          "rawAnswer": "floods",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Even if they occur, they won't destroy the crops, so things like drought or floods have no impact on harvests"
+          },
+          "keywordPairs": [
+            {
+              "question": "no damage",
+              "article": "have no impact on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "dfdf93da-cedd-418b-a532-1dd61662a7ee",
+          "prompt": "· There is reduced risk of **36**_____ .",
+          "answers": [
+            "disease"
+          ],
+          "rawAnswer": "disease",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But if your crops are inside, the likelihood of them getting a disease is minimized"
+          },
+          "keywordPairs": [
+            {
+              "question": "reduced",
+              "article": "minimized"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "941ad6d5-3dd3-43f2-ab1f-5fcea5558a22",
+          "prompt": "· Far less **37**_____ is produced.",
+          "answers": [
+            "waste"
+          ],
+          "rawAnswer": "waste",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Lastly, there's a lot of recycling going on in this kind of farm. So another great advantage is that with this type of farming, we can minimize the amount of waste being generated"
+          },
+          "keywordPairs": [
+            {
+              "question": "Far less",
+              "article": "minimize the amount of"
+            },
+            {
+              "question": "is produced",
+              "article": "being generated"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "9e3f698c-724f-4de4-a186-c8d12bfd7ed9",
+          "prompt": "**Criticisms of vertical farming**\n· The price of **38**_____ will make farming expensive.",
+          "answers": [
+            "land"
+          ],
+          "rawAnswer": "land",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, one thing that critics like to point out is the high cost of land in a city and say that it won't be economically viable to farm like this"
+          },
+          "keywordPairs": [
+            {
+              "question": "price",
+              "article": "cost"
+            },
+            {
+              "question": "make farming expensive",
+              "article": "won't be economically viable"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "52c75d81-da67-453c-bac4-ece477410bad",
+          "prompt": "· **39**_____ energy is unreliable.",
+          "answers": [
+            "solar"
+          ],
+          "rawAnswer": "solar",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Advocates of vertical farming believe that solar energy is the key, but critics doubt whether we can depend on this"
+          },
+          "keywordPairs": [
+            {
+              "question": "unreliable",
+              "article": "doubt whether we can depend on this"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "eeccdd68-6bdd-49de-a32c-16aa8c8ce627",
+          "prompt": "· The structure of the farms may be damaged by the amount of **40**_____ .",
+          "answers": [
+            "humidity"
+          ],
+          "rawAnswer": "humidity",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For example, they think that structural damage will soon occur due to the levels of humidity"
+          },
+          "keywordPairs": [
+            {
+              "question": "may be",
+              "article": "will soon occur"
+            },
+            {
+              "question": "amount",
+              "article": "levels"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,640</p><p>Now listen carefully and answer all of the questions. </p><p>00:00:07,380</p><p>So in this final lecture on contemporary agricultural issues, I'd like to look at an idea that might solve many of the problems that we face today. First, let's recap on some of the dilemmas that farmers, that governments must deal with. Okay, so the global population is rapidly expanding, and there's insufficient space to grow the crops to feed all the people that will be around in, say, twenty fifty. That's frightening enough, but then there's the problem of pollution. As you know, seventy percent of the world's fresh water is used up for irrigation, and as a result of contamination with pesticides and silt, it just becomes too polluted. Then there's the fact that in order to mechanically harvest plants and export them by road or air, farming relies on huge quantities of oil. Well, this resource will eventually run out, and many people would say we can't afford to ignore that. </p><p>00:01:04,200</p><p>Then you will undoubtedly have noticed the continual rise and fall in the cost of food in the last decade. And of course, that's linked to the same resource. And finally, we know that our ecosystem has been severely affected by the great quantity of chemical fertilizers we've pumped and sprayed onto it. This approach to farming is clearly unsustainable. Okay, so it's pretty clear what my views on traditional farming methods are. However, is there a convincing alternative? Well, the proposal I mentioned earlier is referred to as vertical farming. Sounds intriguing, doesn't it? Well, what it means is simply that rather than growing crops in a field, we grow them in layers, one level of crops above another in a multi-story building, a tower full of plants. </p><p>00:02:00,720</p><p>In places like Arizona, Denmark, and Germany, we've already seen indoor farming techniques work. For example, aeroponics and hydroponics, both of which ensure the crops get exactly what they need. For a start, nutrients. The crops get exactly the right quantity and mix. It doesn't matter where these farms are situated, they're indoors, so external factors such as temperature and rainfall are irrelevant. So yes, the same applies to climatic disasters. Even if they occur, they won't destroy the crops, so things like drought or floods have no impact on harvests. What other advantages are there? Well, right now, governments and farmers are spending a fortune on pesticides. But if your crops are inside, the likelihood of them getting a disease is minimized. Lastly, there's a lot of recycling going on in this kind of farm. So another great advantage is that with this type of farming, we can minimize the amount of waste being generated. Of course, as with any new idea, there are criticisms and concerns. However, one thing that critics like to point out is the high cost of land in a city and say that it won't be economically viable to farm like this. But think about it. In a vertical farm, crops can be produced constantly. For example, lettuce can be harvested in four weeks, corn every four months. The turnover for continual production would not be insignificant. </p><p>00:03:34,620</p><p>A reliable supply of energy is another concern. Advocates of vertical farming believe that solar energy is the key, but critics doubt whether we can depend on this. Lastly, critics worry that there might be construction problems with vertical farms. For example, they think that structural damage will soon occur due to the levels of humidity. So let's look at the response from supporters. </p><p>00:04:03,540</p><p>That is the end of part four. You now have one minute to check your answers to part four.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/da086050-fedb-4ed3-869d-f3d0d83ced19.mp3",
+    "durationSeconds": 250.2,
+    "sizeBytes": 1001145,
+    "sha256": "3e9f1ac214222525f5de7d2f5542656775026078f2704d311b51c89559740a9e",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:51:41Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786348269137_dsfptd_eaab3ca0.mp3"
+}

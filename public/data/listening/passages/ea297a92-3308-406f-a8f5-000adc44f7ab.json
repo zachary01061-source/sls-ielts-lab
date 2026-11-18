@@ -1,0 +1,456 @@
+{
+  "id": "ea297a92-3308-406f-a8f5-000adc44f7ab",
+  "title": "Storm clean-up",
+  "titleCn": "风暴过后社区清理安排",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/ea297a92-3308-406f-a8f5-000adc44f7ab",
+  "duration": 383,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,120"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer questions eleven to sixteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:07,640"
+    },
+    {
+      "label": "4",
+      "text": "Welcome to Radio OK, your community radio station. After our recent bad storm, we have Councillor Phil Evans joining us to tell us about the cleanup effort. Welcome, Phil."
+    },
+    {
+      "label": "5",
+      "text": "00:00:17,520"
+    },
+    {
+      "label": "6",
+      "text": "Hello. Thanks for having me. Well, we had some pretty severe weather at the weekend. Thankfully, it wasn't quite as bad as last year's storm. Although there was some damage to trees, it was definitely not on the same scale as last year, and we were expecting the river level to rise higher than it did. But having said that, a much larger number of homes have been damaged this year due to flash flooding near the creek. Those of you who have experienced flooding, we ask you to be especially careful. I know it's upsetting to see your home full of water, but please be patient as there's nothing you can do until the river level drops, hopefully in two or three days. You won't have any electricity at the moment, but we are working as fast as we can to get it reconnected. When it comes to cleaning up your garden, you might be tempted to just throw dead branches and so on into your normal garbage bin. Please don't. We're asking people to simply stack them outside on the footpath ready for council collection. We plan to cut them up and use them for composting."
+    },
+    {
+      "label": "7",
+      "text": "00:01:15,420"
+    },
+    {
+      "label": "8",
+      "text": "For those of you who don't have cooking facilities at the moment, I'm afraid we won't be able to deliver hot meals to your home like the community center did last year. Instead, we'll be issuing vouchers that you can use to get food from any of the nominated restaurants. Just come to the council office to collect them."
+    },
+    {
+      "label": "9",
+      "text": "00:01:32,580"
+    },
+    {
+      "label": "10",
+      "text": "We've had an overwhelming number of people offering to help out. Anyone who would like to volunteer, please don't call the council office directly. Instead, if you're available to help clean up, just turn up at the community center by eight AM tomorrow and you'll be given the necessary tools and assigned a task by the council work supervisor."
+    },
+    {
+      "label": "11",
+      "text": "00:01:52,380"
+    },
+    {
+      "label": "12",
+      "text": "As the water level goes down, we may discover more problems. We'll be assessing the drinking water regularly so that there's no risk of contamination. Just be aware that local wildlife can be forced out of their natural habitat in this weather. Let the council know of any unusual sightings so we can safely relocate them. It may seem that mosquitoes are around in abundance right now, but the actual population is usual for this time of year."
+    },
+    {
+      "label": "13",
+      "text": "00:02:21,360"
+    },
+    {
+      "label": "14",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty on page four."
+    },
+    {
+      "label": "15",
+      "text": "00:02:49,200"
+    },
+    {
+      "label": "16",
+      "text": "Now listen and answer questions seventeen to twenty."
+    },
+    {
+      "label": "17",
+      "text": "00:02:56,120"
+    },
+    {
+      "label": "18",
+      "text": "Now I'll give you some information about key areas in the town. The school escaped any real problems and will be using its car park and some of the classrooms to coordinate the cleanup. Because of that, the principal is asking for volunteers to assist in getting the classrooms set back up again, with the desks back in their proper places before the new term begins after the holidays. The hospital is still fully functional, and the only damage there was to the canteen, where a tree branch broke a window. You can still access the area as normal. We just ask that you park at the rear of the hospital until the repair work has been completed."
+    },
+    {
+      "label": "19",
+      "text": "00:03:33,720"
+    },
+    {
+      "label": "20",
+      "text": "If you need to get to the shops, the High Street is still a little flooded, so I'm afraid you'll have to collect your shopping on foot for a little while. Hopefully, it won't be long before you'll be able to drive there again. Before the storm, we had hoped to begin work on modernizing the bikeway that runs along the river. We were particularly looking forward to having bike storage facilities installed. While the bikeway itself is okay, unfortunately, the area around it is covered in water, so we've postponed our work there indefinitely, and I'm afraid it's now unlikely that this will ever go ahead. Well, that's everything for now. I'll be back with a further update tomorrow."
+    },
+    {
+      "label": "21",
+      "text": "00:04:15,820"
+    },
+    {
+      "label": "22",
+      "text": "That is the end of section two. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-16**\nChoose the correct answer.\n\n**Storm Clean-up**",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "9a2fa34b-6075-423e-bf8e-c6c88cc5f467",
+          "prompt": "**11** Compared to last years storm, this year",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "more houses in the area were affected.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Thankfully, it wasn't quite as bad as last year's storm. Although there was some damage to trees, it was definitely not on the same scale as last year, and we were expecting the river level to rise higher than it did. But having said that, a much larger number of homes have been damaged this year due to flash flooding near the creek"
+          },
+          "keywordPairs": [
+            {
+              "question": "more houses in the area were affected",
+              "article": "a much larger number of homes have been damaged"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "more houses in the area were affected."
+            },
+            {
+              "value": "B",
+              "text": "the water levels rose much higher."
+            },
+            {
+              "value": "C",
+              "text": "there was more severe damage to trees."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "c35bd751-0a0e-479c-b20a-93cd0fccccbd",
+          "prompt": "**12** According to the speaker, what should you do if your home has been flooded?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "wait for a few days",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I know it's upsetting to see your home full of water, but please be patient as there's nothing you can do until the river level drops, hopefully in two or three days"
+          },
+          "keywordPairs": [
+            {
+              "question": "wait for",
+              "article": "patient"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "switch off the electricity"
+            },
+            {
+              "value": "B",
+              "text": "try to drain the water"
+            },
+            {
+              "value": "C",
+              "text": "wait for a few days"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "de1423a4-ce95-4e94-8844-d09ab42ec718",
+          "prompt": "**13** What does the speaker advise residents to do with their garden waste?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "pile it next to the road",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When it comes to cleaning up your garden, you might be tempted to just throw dead branches and so on into your normal garbage bin. Please don't. We're asking people to simply stack them outside on the footpath ready for council collection"
+          },
+          "keywordPairs": [
+            {
+              "question": "pile it next to the road",
+              "article": "stack them on the footpath"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "put it in a special bin"
+            },
+            {
+              "value": "B",
+              "text": "take it to the council rubbish centre"
+            },
+            {
+              "value": "C",
+              "text": "pile it next to the road"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "bc847f10-52f1-47d9-ae75-5674ba4e85e3",
+          "prompt": "**14** People who cannot cook food should",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "pick up vouchers from the council office",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Instead, we'll be issuing vouchers that you can use to get food from any of the nominated restaurants. Just come to the council office to collect them"
+          },
+          "keywordPairs": [
+            {
+              "question": "pick up",
+              "article": "collect"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "pick up vouchers from the council office"
+            },
+            {
+              "value": "B",
+              "text": "get a meal in the community centre"
+            },
+            {
+              "value": "C",
+              "text": "arrange for food to be brought to their home"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "78912fef-207f-4220-ada5-4971ae86792a",
+          "prompt": "**15** People who want to help out are asked to",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "come to the community centre in the morning",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Anyone who would like to volunteer, please don't call the council office directly. Instead, if you're available to help clean up, just turn up at the community center by eight AM tomorrow and you'll be given the necessary tools and assigned a task by the council work supervisor"
+          },
+          "keywordPairs": [
+            {
+              "question": "come to",
+              "article": "turn up"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "contact their local council office"
+            },
+            {
+              "value": "B",
+              "text": "come to the community centre in the morning"
+            },
+            {
+              "value": "C",
+              "text": "bring their tools to the council office"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "a8589289-55f8-4ad4-82c5-da7802302b9e",
+          "prompt": "**16** What problem should residents report to the council?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "native animals found in unusual places",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Just be aware that local wildlife can be forced out of their natural habitat in this weather. Let the council know of any unusual sightings so we can safely relocate them"
+          },
+          "keywordPairs": [
+            {
+              "question": "native animals found in unusual places",
+              "article": "wildlife can be forced out"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16",
+          "options": [
+            {
+              "value": "A",
+              "text": "an increased number of mosquitoes"
+            },
+            {
+              "value": "B",
+              "text": "native animals found in unusual places"
+            },
+            {
+              "value": "C",
+              "text": "contaminated water"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 17-20**\nWhat comment does the speaker make about each of the following place?\nChoose **FOUR** correct answers, **A-F**, next to questions **17-20**.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "22cc9fc6-469e-49bc-86b8-d5225518b52f",
+          "prompt": "The school",
+          "answers": [
+            "D"
+          ],
+          "rawAnswer": "Help is needed to move furniture.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the principal is asking for volunteers to assist in getting the classrooms set back up again, with the desks back in their proper places before the new term begins after the holidays"
+          },
+          "keywordPairs": [
+            {
+              "question": "furniture",
+              "article": "desks"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "555686c8-5e6f-42af-9dd5-8c8b59f9d8f4",
+          "prompt": "The hospital",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "Part of the building is damaged.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The hospital is still fully functional, and the only damage there was to the canteen, where a tree branch broke a window"
+          },
+          "keywordPairs": [
+            {
+              "question": "Part of",
+              "article": "only"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "2cccfba0-c206-4899-a326-386c756547d8",
+          "prompt": "The High Street",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "It can't be reached by car.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the High Street is still a little flooded, so I'm afraid you'll have to collect your shopping on foot for a little while"
+          },
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "9c144a55-ce19-4cd5-8689-2df71d676cc3",
+          "prompt": "The bikeway",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "Planned work has been cancelled.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Before the storm, we had hoped to begin work on modernizing the bikeway;unfortunately, the area around it is covered in water, so we've postponed our work there indefinitely, and I'm afraid it's now unlikely that this will ever go ahead"
+          },
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "It can't be reached by car."
+        },
+        {
+          "value": "B",
+          "text": "Repairs are now finished."
+        },
+        {
+          "value": "C",
+          "text": "Planned work has been cancelled."
+        },
+        {
+          "value": "D",
+          "text": "Help is needed to move furniture."
+        },
+        {
+          "value": "E",
+          "text": "New equipment will be bought."
+        },
+        {
+          "value": "F",
+          "text": "Part of the building is damaged."
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "配对题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,120</p><p>Now listen carefully and answer questions eleven to sixteen. </p><p>00:00:07,640</p><p>Welcome to Radio OK, your community radio station. After our recent bad storm, we have Councillor Phil Evans joining us to tell us about the cleanup effort. Welcome, Phil. </p><p>00:00:17,520</p><p>Hello. Thanks for having me. Well, we had some pretty severe weather at the weekend. Thankfully, it wasn't quite as bad as last year's storm. Although there was some damage to trees, it was definitely not on the same scale as last year, and we were expecting the river level to rise higher than it did. But having said that, a much larger number of homes have been damaged this year due to flash flooding near the creek. Those of you who have experienced flooding, we ask you to be especially careful. I know it's upsetting to see your home full of water, but please be patient as there's nothing you can do until the river level drops, hopefully in two or three days. You won't have any electricity at the moment, but we are working as fast as we can to get it reconnected. When it comes to cleaning up your garden, you might be tempted to just throw dead branches and so on into your normal garbage bin. Please don't. We're asking people to simply stack them outside on the footpath ready for council collection. We plan to cut them up and use them for composting. </p><p>00:01:15,420</p><p>For those of you who don't have cooking facilities at the moment, I'm afraid we won't be able to deliver hot meals to your home like the community center did last year. Instead, we'll be issuing vouchers that you can use to get food from any of the nominated restaurants. Just come to the council office to collect them. </p><p>00:01:32,580</p><p>We've had an overwhelming number of people offering to help out. Anyone who would like to volunteer, please don't call the council office directly. Instead, if you're available to help clean up, just turn up at the community center by eight AM tomorrow and you'll be given the necessary tools and assigned a task by the council work supervisor. </p><p>00:01:52,380</p><p>As the water level goes down, we may discover more problems. We'll be assessing the drinking water regularly so that there's no risk of contamination. Just be aware that local wildlife can be forced out of their natural habitat in this weather. Let the council know of any unusual sightings so we can safely relocate them. It may seem that mosquitoes are around in abundance right now, but the actual population is usual for this time of year. </p><p>00:02:21,360</p><p>Before you hear the rest of the talk, you have some time to look at questions seventeen to twenty on page four. </p><p>00:02:49,200</p><p>Now listen and answer questions seventeen to twenty. </p><p>00:02:56,120</p><p>Now I'll give you some information about key areas in the town. The school escaped any real problems and will be using its car park and some of the classrooms to coordinate the cleanup. Because of that, the principal is asking for volunteers to assist in getting the classrooms set back up again, with the desks back in their proper places before the new term begins after the holidays. The hospital is still fully functional, and the only damage there was to the canteen, where a tree branch broke a window. You can still access the area as normal. We just ask that you park at the rear of the hospital until the repair work has been completed. </p><p>00:03:33,720</p><p>If you need to get to the shops, the High Street is still a little flooded, so I'm afraid you'll have to collect your shopping on foot for a little while. Hopefully, it won't be long before you'll be able to drive there again. Before the storm, we had hoped to begin work on modernizing the bikeway that runs along the river. We were particularly looking forward to having bike storage facilities installed. While the bikeway itself is okay, unfortunately, the area around it is covered in water, so we've postponed our work there indefinitely, and I'm afraid it's now unlikely that this will ever go ahead. Well, that's everything for now. I'll be back with a further update tomorrow. </p><p>00:04:15,820</p><p>That is the end of section two. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/ea297a92-3308-406f-a8f5-000adc44f7ab.mp3",
+    "durationSeconds": 262.008,
+    "sizeBytes": 1048528,
+    "sha256": "c3b6e69b8c377b6fc00c6b696b8685a24d3812ae6255f47b4d78a3b67f55aed7",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:28:03Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347824655_r2auw3_51d88997.mp3"
+}

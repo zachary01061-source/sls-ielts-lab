@@ -1,0 +1,253 @@
+{
+  "id": "cambridge-16-test-2-reading-1",
+  "title": "The White Horse of Uffington",
+  "titleCn": "The White Horse of Uffington",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 2
+  },
+  "sourceQuestionId": "8323",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8323",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The White Horse of Uffington"
+    },
+    {
+      "label": "2",
+      "text": "The cutting of huge figures or ‘geoglyphs’ into the earth of English hillsides has taken place for more than 3,000 years. There are 56 hill figures scattered around England, with the vast majority on the chalk downlands of the country’s southern counties. The figures include giants, horses, crosses and regimental badges. Although the majority of these geoglyphs date within the last 300 years or so, there are one or two that are much older."
+    },
+    {
+      "label": "3",
+      "text": "The most famous of these figures is perhaps also the most mysterious – the Uffington White Horse in Oxfordshire. The White Horse has recently been re-dated and shown to be even older than its previously assigned ancient pre-Roman Iron Age* date. More controversial is the date of the enigmatic Long Man of Wilmington in Sussex. While many historians are convinced the figure is prehistoric, others believe that it was the work of an artistic monk from a nearby priory and was created between the 11th and 15th centuries."
+    },
+    {
+      "label": "4",
+      "text": "The method of cutting these huge figures was simply to remove the overlying grass to reveal the gleaming white chalk below. However, the grass would soon grow over the geoglyph again unless it was regularly cleaned or scoured by a fairly large team of people. One reason that the vast majority of hill figures have disappeared is that when the traditions associated with the figures faded, people no longer bothered or remembered to clear away the grass to expose the chalk outline. Furthermore, over hundreds of years the outlines would sometimes change due to people not always cutting in exactly the same place, thus creating a different shape to the original geoglyph. The fact that any ancient hill figures survive at all in England today is testament to the strength and continuity of local customs and beliefs which, in one case at least, must stretch back over millennia."
+    },
+    {
+      "label": "5",
+      "text": "The Uffington White Horse is a unique, stylised representation of a horse consisting of a long, sleek back, thin disjointed legs, a streaming tail, and a bird-like beaked head. The elegant creature almost melts into the landscape. The horse is situated 2.5 km from Uffington village on a steep slope close to the Late Bronze Age* (c. 7th century BCE) hillfort of Uffington Castle and below the Ridgeway, a long-distance Neolithic** track."
+    },
+    {
+      "label": "6",
+      "text": "The Uffington Horse is also surrounded by Bronze Age burial mounds. It is not far from the Bronze Age cemetery of Lambourn Seven Barrows, which consists of more than 30 well-preserved burial mounds. The carving has been placed in such a way as to make it extremely difficult to see from close quarters, and like many geoglyphs is best appreciated from the air. Nevertheless, there are certain areas of the Vale of the White Horse, the valley containing and named after the enigmatic creature, from which an adequate impression may be gained. Indeed on a clear day the carving can be seen from up to 30 km away."
+    },
+    {
+      "label": "7",
+      "text": "The earliest evidence of a horse at Uffington is from the 1070s CE when ‘White Horse Hill’ is mentioned in documents from the nearby Abbey of Abingdon, and the first reference to the horse itself is soon after, in 1190 CE. However, the carving is believed to date back much further than that. Due to the similarity of the Uffington White Horse to the stylised depictions of horses on 1st century BCE coins, it had been thought that the creature must also date to that period."
+    },
+    {
+      "label": "8",
+      "text": "However, in 1995 Optically Stimulated Luminescence (OSL) testing was carried out by the Oxford Archaeological Unit on soil from two of the lower layers of the horse’s body, and from another cut near the base. The result was a date for the horse’s construction somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age or Early Iron Age origin."
+    },
+    {
+      "label": "9",
+      "text": "The latter end of this date range would tie the carving of the horse in with occupation of the nearby Uffington hillfort, indicating that it may represent a tribal emblem marking the land of the inhabitants of the hillfort. Alternatively, the carving may have been carried out during a Bronze or Iron Age ritual. Some researchers see the horse as representing the Celtic*** horse goddess Epona, who was worshipped as a protector of horses, and for her associations with fertility. However, the cult of Epona was not imported from Gaul (France) until around the first century CE. This date is at least six centuries after the Uffington Horse was probably carved. Nevertheless, the horse had great ritual and economic significance during the Bronze and Iron Ages, as attested by its depictions on jewellery and other metal objects. It is possible that the carving represents a goddess in native mythology, such as Rhiannon, described in later Welsh mythology as a beautiful woman dressed in gold and riding a white horse."
+    },
+    {
+      "label": "10",
+      "text": "The fact that geoglyphs can disappear easily, along with their associated rituals and meaning, indicates that they were never intended to be anything more than temporary gestures. But this does not lessen their importance. These giant carvings are a fascinating glimpse into the minds of their creators and how they viewed the landscape in which they lived."
+    },
+    {
+      "label": "11",
+      "text": "*Iron Age: a period (in Britain 800 BCE – 43 CE) that is characterised by the use of iron tools"
+    },
+    {
+      "label": "12",
+      "text": "*Bronze Age: a period (in Britain c. 2,500 BCE – 800 BCE) that is characterised by the development of bronze tools"
+    },
+    {
+      "label": "13",
+      "text": "**Neolithic: a period (in Britain c. 4,000 BCE – c. 2,500 BCE) that is significant for the spread of agricultural practices, and the use of stone tools"
+    },
+    {
+      "label": "14",
+      "text": "***Celtic: an ancient people who migrated from Europe to Britain before the Romans"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Question 1-8\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn questions 1–8, choose\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Most geoglyphs in England are located in a particular area of the country.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8323_318903",
+          "explanation": "译文：英格兰的大部分地画都位于这个国家的某个特定区域内。\n\n判断题是一种非常考验考生能否耐心阅读、细心关注细节表达的题型。考生只需牢记这个题型特点，就能绕开许多出题陷阱，比如本题。原文的主干句其实是前半部分：“有56副地画散布于英格兰各处”。如果只看这个内容，则与题干说“集中在某特定区域”相矛盾；然而后半句的文意却出现了反转，表示“这其中的绝大部分都在南部郡县”，于是与题干形成了类似的同义表述，因而正确答案为TRUE。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "There are more geoglyphs in the shape of a horse than any other creature.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8323_116700",
+          "explanation": "译文：马匹形状地画的数量比其他任何生物的图形都多。\n\n虽然在紧随上一道题的出处之后，紧接着的下一句话里就提到了horse这个信息，但是全句却并没有说到马匹形象是否比其他图形要多。保险起见，考生此时仍需耐心向后文阅读几句，同时关注下一道题的题干相关信息，直至定位到第三题的对应内容而仍然不见这种比较的时候，则可以确认此题答案为NOT GIVEN。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "A recent dating of the Uffington White Horse indicates that people were mistaken about its age.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8323_551600",
+          "explanation": "译文：关于优芬顿白马的一个近期的起源追溯测定表明人们关于其年岁的看法是错误的。\n\n本题从寻找定位到理解判断都比较容易。考生可以在距离前题不算很远的原文中找到re-dated这个与题干词dating颇为相似的定位提示；原文中previously assigned这两个对于解题极为关键的词汇的认知难度也并不算高，都是在先前的阅读真题中反复被考查过的单词。于是综合全句文意，说的是重新测定后推翻了先前为其定下的起始年代，考生应当不难理解这就是“人们之前对其年代的看法有误”的同义替换，从而判定正确答案为TRUE。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Historians have come to an agreement about the origins of the Long Man of Wilmington.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8323_267625",
+          "explanation": "译文：历史学家们已经就Wilmington巨人画像的起源达成了一致看法。\n\n本题的解答虽然涉及对两句原文句的阅读，但依然十分简单。考生首先可以依据大写专有名词定位到倒数第二句里，但这句话本身并没有提及题干相关信息；耐心向下阅读一句后，即使不精细关注具体内容，也可从本句“虽然很多历史学家坚信……，但是其他历史学家却相信……”的结构上明确得知，历史学家们显然并未达成一致，从而得出正确答案为FALSE。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Geoglyphs were created by people placing white chalk on the hillside.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q8323_213085",
+          "explanation": "译文：地画的制作方式是由人们将白垩土放置在山坡上。\n\n本题的定位紧随上一题之后，考生可以轻松依靠原词重现的white chalk定位到原文相应句；再耐心阅读本句内容，可知与题干所说“除去草皮露出白垩土层”的制作方法有矛盾抵触，从而得出答案为FALSE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Many geoglyphs in England are no longer visible.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8323_706814",
+          "explanation": "译文：英格兰的很多地画已经不再看得见了。\n\n本题的定位需要考生对题干中的visible和对应原文中的disappear这两个词汇有基本认知，而这显然是个再基础不过的备考要求了。两句内容对比可知，答案应为TRUE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "The shape of some geoglyphs has been altered over time.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q8323_150273",
+          "explanation": "译文：一些地画的形状随时间流逝而发生了改变。\n\n本题的定位紧随上一题，考生只需辨认出题干中的alter与对应原文中的change这两个基础词汇之间的同义替换，进而读懂句子，即可得出答案为TRUE。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "The fame of the Uffington White Horse is due to its size.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8323_387125",
+          "explanation": "译文：优芬顿白马之所以出名是因为它的巨大尺寸。\n\n本题的难度主要来自于考生有可能对题干定位产生的不确定性。虽然前三道题都比较密集地出现在了第三自然段里，但并不能由此断言：如果在第三段里找不到本题的相关信息，就足以说明本题答案为“原文未给出”。追求高分的考生完全可以依照平行阅读的思路，在向后文逐段阅读、解答下一题型的时候，不时检查核对是否有对本题题干的描述，最终确认答案确实为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Question 9-13\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 9–13.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "near an ancient road known as the [9] ______",
+          "answers": [
+            "Ridgeway"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8323_184853",
+          "explanation": "9. 根据题干，不难看出答案词应当是一条道路的名称，也就是一个首字母大写的专有名词，这个预测对于寻找答案会有一定帮助。题干中的road一词在原文中同义替换成了认知难度并不高的track，但即使考生对这个词汇并不熟悉，应当也能从句子主干描述“马的位置”这个文意中确定：此句正应该是本题答案出处。进一步分析句中每个细节表达的归属，即可得出答案应为Ridgeway。\n\n10.本题可直接用数字定位到原文出处。考生只需在认真阅读题干时明确知道所需的答案是第一次提及“白马山”而非“白马”本身的出处，耐心分析本句结构就可锁定答案为documents。\n\n11.本题的定位略有难度。考生如果利用首字母大写的年代专有名称回原文定位，会去到答案出处的下一句。不过对本句进行耐心阅读后不难发现，句首的The result指向的是上一句内容，因而在本句未给出所需答案后，考生应向前一句话继续阅读，进而根据分析句子得出正确答案应为soil。\n\n12. 本题回归简单的定位，靠首字母大写的女神名字即可顺利定位到出题句，进而分析原文找到与horses形成并列关系的对象，即可确认答案为fertility。\n\n13.本题的定位也很容易，用首字母大写的专有名词Welsh即可找到出题句原文；既然答案需要的是一位女神的名字，可以推知必然也是一个首字母大写的名称，从而考生可以轻松从全句中锁定正确答案为Rhiannon。",
+          "promptHtml": "near an ancient road known as the [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "first reference to White Horse Hill appears in [10] ______from the 1070s",
+          "answers": [
+            "documents"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8323_863818",
+          "explanation": "9. 根据题干，不难看出答案词应当是一条道路的名称，也就是一个首字母大写的专有名词，这个预测对于寻找答案会有一定帮助。题干中的road一词在原文中同义替换成了认知难度并不高的track，但即使考生对这个词汇并不熟悉，应当也能从句子主干描述“马的位置”这个文意中确定：此句正应该是本题答案出处。进一步分析句中每个细节表达的归属，即可得出答案应为Ridgeway。\n\n10.本题可直接用数字定位到原文出处。考生只需在认真阅读题干时明确知道所需的答案是第一次提及“白马山”而非“白马”本身的出处，耐心分析本句结构就可锁定答案为documents。\n\n11.本题的定位略有难度。考生如果利用首字母大写的年代专有名称回原文定位，会去到答案出处的下一句。不过对本句进行耐心阅读后不难发现，句首的The result指向的是上一句内容，因而在本句未给出所需答案后，考生应向前一句话继续阅读，进而根据分析句子得出正确答案应为soil。\n\n12. 本题回归简单的定位，靠首字母大写的女神名字即可顺利定位到出题句，进而分析原文找到与horses形成并列关系的对象，即可确认答案为fertility。\n\n13.本题的定位也很容易，用首字母大写的专有名词Welsh即可找到出题句原文；既然答案需要的是一位女神的名字，可以推知必然也是一个首字母大写的名称，从而考生可以轻松从全句中锁定正确答案为Rhiannon。",
+          "promptHtml": "first reference to White Horse Hill appears in [10] ______from the 1070s"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "according to analysis of the surrounding [11] ______, the Horse is Late Bronze Age / Early Iron Age",
+          "answers": [
+            "soil"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8323_802619",
+          "explanation": "9. 根据题干，不难看出答案词应当是一条道路的名称，也就是一个首字母大写的专有名词，这个预测对于寻找答案会有一定帮助。题干中的road一词在原文中同义替换成了认知难度并不高的track，但即使考生对这个词汇并不熟悉，应当也能从句子主干描述“马的位置”这个文意中确定：此句正应该是本题答案出处。进一步分析句中每个细节表达的归属，即可得出答案应为Ridgeway。\n\n10.本题可直接用数字定位到原文出处。考生只需在认真阅读题干时明确知道所需的答案是第一次提及“白马山”而非“白马”本身的出处，耐心分析本句结构就可锁定答案为documents。\n\n11.本题的定位略有难度。考生如果利用首字母大写的年代专有名称回原文定位，会去到答案出处的下一句。不过对本句进行耐心阅读后不难发现，句首的The result指向的是上一句内容，因而在本句未给出所需答案后，考生应向前一句话继续阅读，进而根据分析句子得出正确答案应为soil。\n\n12. 本题回归简单的定位，靠首字母大写的女神名字即可顺利定位到出题句，进而分析原文找到与horses形成并列关系的对象，即可确认答案为fertility。\n\n13.本题的定位也很容易，用首字母大写的专有名词Welsh即可找到出题句原文；既然答案需要的是一位女神的名字，可以推知必然也是一个首字母大写的名称，从而考生可以轻松从全句中锁定正确答案为Rhiannon。",
+          "promptHtml": "according to analysis of the surrounding [11] ______, the Horse is Late Bronze Age / Early Iron Age"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "was a representation of goddess Epona – associated with protection of horses and [12] ______",
+          "answers": [
+            "fertility"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8323_150765",
+          "explanation": "9. 根据题干，不难看出答案词应当是一条道路的名称，也就是一个首字母大写的专有名词，这个预测对于寻找答案会有一定帮助。题干中的road一词在原文中同义替换成了认知难度并不高的track，但即使考生对这个词汇并不熟悉，应当也能从句子主干描述“马的位置”这个文意中确定：此句正应该是本题答案出处。进一步分析句中每个细节表达的归属，即可得出答案应为Ridgeway。\n\n10.本题可直接用数字定位到原文出处。考生只需在认真阅读题干时明确知道所需的答案是第一次提及“白马山”而非“白马”本身的出处，耐心分析本句结构就可锁定答案为documents。\n\n11.本题的定位略有难度。考生如果利用首字母大写的年代专有名称回原文定位，会去到答案出处的下一句。不过对本句进行耐心阅读后不难发现，句首的The result指向的是上一句内容，因而在本句未给出所需答案后，考生应向前一句话继续阅读，进而根据分析句子得出正确答案应为soil。\n\n12. 本题回归简单的定位，靠首字母大写的女神名字即可顺利定位到出题句，进而分析原文找到与horses形成并列关系的对象，即可确认答案为fertility。\n\n13.本题的定位也很容易，用首字母大写的专有名词Welsh即可找到出题句原文；既然答案需要的是一位女神的名字，可以推知必然也是一个首字母大写的名称，从而考生可以轻松从全句中锁定正确答案为Rhiannon。",
+          "promptHtml": "was a representation of goddess Epona – associated with protection of horses and [12] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "was a representation of a Welsh goddess called [13] ______",
+          "answers": [
+            "Rhiannon"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8323_174707",
+          "explanation": "9. 根据题干，不难看出答案词应当是一条道路的名称，也就是一个首字母大写的专有名词，这个预测对于寻找答案会有一定帮助。题干中的road一词在原文中同义替换成了认知难度并不高的track，但即使考生对这个词汇并不熟悉，应当也能从句子主干描述“马的位置”这个文意中确定：此句正应该是本题答案出处。进一步分析句中每个细节表达的归属，即可得出答案应为Ridgeway。\n\n10.本题可直接用数字定位到原文出处。考生只需在认真阅读题干时明确知道所需的答案是第一次提及“白马山”而非“白马”本身的出处，耐心分析本句结构就可锁定答案为documents。\n\n11.本题的定位略有难度。考生如果利用首字母大写的年代专有名称回原文定位，会去到答案出处的下一句。不过对本句进行耐心阅读后不难发现，句首的The result指向的是上一句内容，因而在本句未给出所需答案后，考生应向前一句话继续阅读，进而根据分析句子得出正确答案应为soil。\n\n12. 本题回归简单的定位，靠首字母大写的女神名字即可顺利定位到出题句，进而分析原文找到与horses形成并列关系的对象，即可确认答案为fertility。\n\n13.本题的定位也很容易，用首字母大写的专有名词Welsh即可找到出题句原文；既然答案需要的是一位女神的名字，可以推知必然也是一个首字母大写的名称，从而考生可以轻松从全句中锁定正确答案为Rhiannon。",
+          "promptHtml": "was a representation of a Welsh goddess called [13] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><span><span><b><span><span>The Uffington White Horse</span></span></b></span></span></p>\n\n\t\t\t<p><span><span><b><span>The location of the Uffington White Horse:</span></b></span></span></p>\n\n\t\t\t<ul>\n\t\t\t\t<li><span><span><span><span>a distance of 2.5 km from Uffington village</span></span></span></span></li>\n\t\t\t\t<li><span><span><span><span>near an ancient road known as the </span></span></span></span><strong>[9] ______</strong></li>\n\t\t\t\t<li><span><span><span><span>close to an ancient cemetery that has a number of burial mounds</span></span></span></span></li>\n\t\t\t</ul>\n\n\t\t\t<p><span><span><b><span>Dating the Uffington White Horse:</span></b></span></span></p>\n\n\t\t\t<ul>\n\t\t\t\t<li><span><span><span><span><span>first reference to White Horse Hill appears in </span></span></span></span></span><strong>[10] ______</strong><span><span><span><span><span><span>from </span>the 1070s</span></span></span></span></span></li>\n\t\t\t\t<li><span><span><span><span><span>horses shown on coins from the period 100 BCE – 1 BCE are similar <span>in </span>appearance</span></span></span></span></span></li>\n\t\t\t\t<li><span><span><span><span><span>according to analysis of the surrounding </span></span></span></span></span><strong>[11] ______</strong><span><span><span><span><span>, the Horse <span>is </span>Late Bronze Age / Early Iron Age</span></span></span></span></span></li>\n\t\t\t</ul>\n\n\t\t\t<p><span><span><b><span>Possible reasons for creation of the Uffington White Horse:</span></b></span></span></p>\n\n\t\t\t<ul>\n\t\t\t\t<li><span><span><span><span>an emblem to indicate land ownership</span></span></span></span></li>\n\t\t\t\t<li><span><span><span><span>formed part of an ancient ritual</span></span></span></span></li>\n\t\t\t\t<li><span><span><span><span><span>was a representation of goddess Epona – associated with protection of <span>horses </span>and </span></span></span></span></span><strong>[12] ______</strong><span><span><span><span><span><b><u> </u></b></span></span></span></span></span></li>\n\t\t\t\t<li><span><span><span><span>was a representation of a Welsh goddess called </span></span></span></span><strong>[13] ______</strong></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<h1><b>The White Horse of Uffington</b></h1><p><img src=\"/api/guest/cambridge/media/images/63dd2d4bb9db52eebed8022294f377ce.png\" alt=\"原题配图\"></p><p>The cutting of huge figures or ‘geoglyphs’ into the earth of English hillsides has taken place for more than 3,000 years. There are 56 hill figures scattered around England, with the vast majority on the chalk downlands of the country’s southern counties. The figures include giants, horses, crosses and regimental badges. Although the majority of these geoglyphs date within the last 300 years or so, there are one or two that are much older.</p><p>The most famous of these figures is perhaps also the most mysterious – the Uffington White Horse in Oxfordshire. The White Horse has recently been re-dated and shown to be even older than its previously assigned ancient pre-Roman Iron Age* date. More controversial is the date of the enigmatic Long Man of Wilmington in Sussex. While many historians are convinced the figure is prehistoric, others believe that it was the work of an artistic monk from a nearby priory and was created between the 11th and 15th centuries.</p><p>The method of cutting these huge figures was simply to remove the overlying grass to reveal the gleaming white chalk below. However, the grass would soon grow over the geoglyph again unless it was regularly cleaned or scoured by a fairly large team of people. One reason that the vast majority of hill figures have disappeared is that when the traditions associated with the figures faded, people no longer bothered or remembered to clear away the grass to expose the chalk outline. Furthermore, over hundreds of years the outlines would sometimes change due to people not always cutting in exactly the same place, thus creating a different shape to the original geoglyph. The fact that any ancient hill figures survive at all in England today is testament to the strength and continuity of local customs and beliefs which, in one case at least, must stretch back over millennia.</p><p>The Uffington White Horse is a unique, stylised representation of a horse consisting of a long, sleek back, thin disjointed legs, a streaming tail, and a bird-like beaked head. The elegant creature almost melts into the landscape. The horse is situated 2.5 km from Uffington village on a steep slope close to the Late Bronze Age* (c. 7th century BCE) hillfort of Uffington Castle and below the Ridgeway, a long-distance Neolithic** track.</p><p>The Uffington Horse is also surrounded by Bronze Age burial mounds. It is not far from the Bronze Age cemetery of Lambourn Seven Barrows, which consists of more than 30 well-preserved burial mounds. The carving has been placed in such a way as to make it extremely difficult to see from close quarters, and like many geoglyphs is best appreciated from the air. Nevertheless, there are certain areas of the Vale of the White Horse, the valley containing and named after the enigmatic creature, from which an adequate impression may be gained. Indeed on a clear day the carving can be seen from up to 30 km away.</p><p>The earliest evidence of a horse at Uffington is from the 1070s CE when ‘White Horse Hill’ is mentioned in documents from the nearby Abbey of Abingdon, and the first reference to the horse itself is soon after, in 1190 CE. However, the carving is believed to date back much further than that. Due to the similarity of the Uffington White Horse to the stylised depictions of horses on 1st century BCE coins, it had been thought that the creature must also date to that period.</p><p>However, in 1995 Optically Stimulated Luminescence (OSL) testing was carried out by the Oxford Archaeological Unit on soil from two of the lower layers of the horse’s body, and from another cut near the base. The result was a date for the horse’s construction somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age or Early Iron Age origin.</p><p>The latter end of this date range would tie the carving of the horse in with occupation of the nearby Uffington hillfort, indicating that it may represent a tribal emblem marking the land of the inhabitants of the hillfort. Alternatively, the carving may have been carried out during a Bronze or Iron Age ritual. Some researchers see the horse as representing the Celtic*** horse goddess Epona, who was worshipped as a protector of horses, and for her associations with fertility. However, the cult of Epona was not imported from Gaul (France) until around the first century CE. This date is at least six centuries after the Uffington Horse was probably carved. Nevertheless, the horse had great ritual and economic significance during the Bronze and Iron Ages, as attested by its depictions on jewellery and other metal objects. It is possible that the carving represents a goddess in native mythology, such as Rhiannon, described in later Welsh mythology as a beautiful woman dressed in gold and riding a white horse.</p><p>The fact that geoglyphs can disappear easily, along with their associated rituals and meaning, indicates that they were never intended to be anything more than temporary gestures. But this does not lessen their importance. These giant carvings are a fascinating glimpse into the minds of their creators and how they viewed the landscape in which they lived.</p><p> </p><p>*Iron Age: a period (in Britain 800 BCE – 43 CE) that is characterised by the use of iron tools</p><p>*Bronze Age: a period (in Britain c. 2,500 BCE – 800 BCE) that is characterised by the development of bronze tools</p><p>**Neolithic: a period (in Britain c. 4,000 BCE – c. 2,500 BCE) that is significant for the spread of agricultural practices, and the use of stone tools</p><p>***Celtic: an ancient people who migrated from Europe to Britain before the Romans</p>"
+}

@@ -1,0 +1,339 @@
+{
+  "id": "fee712fb-8f39-4aca-90e2-8656be795361",
+  "title": "The red sea urchin",
+  "titleCn": "红海胆：从害虫到加州最大海产出口",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/fee712fb-8f39-4aca-90e2-8656be795361",
+  "duration": 379,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,600"
+    },
+    {
+      "label": "2",
+      "text": "The sea urchin is found across the ocean floors worldwide, but rarely in the colder polar regions."
+    },
+    {
+      "label": "3",
+      "text": "00:00:07,940"
+    },
+    {
+      "label": "4",
+      "text": "Sea urchins are commonly found along the rocky ocean floor in both shallow and deeper water. Sea urchins are also commonly found living in coral reefs. The sea urchin mainly feeds on plants, coral, and rocks."
+    },
+    {
+      "label": "5",
+      "text": "00:00:23,780"
+    },
+    {
+      "label": "6",
+      "text": "They are preyed by many predators that live their marine environment."
+    },
+    {
+      "label": "7",
+      "text": "00:00:28,860"
+    },
+    {
+      "label": "8",
+      "text": "Sea urchins have a round-shaped body with long spines that come off it, which are used for protection, to move around, and to trap food particles that are floating around in the water. Sea urchins have five paired rows of tiny tube feet. The feet of sea urchin have suckers which help the sea urchin to move, capture food, and to hold on to the ocean floor."
+    },
+    {
+      "label": "9",
+      "text": "00:00:54,200"
+    },
+    {
+      "label": "10",
+      "text": "Urchins were once considered a pest because their large appetite for kelp severely affected the kelp harvest. But this changed in the 1970s when another use was discovered as a delicious food. With excess proper processing and overnight shipping to markets, the sea urchin gold rush began. Urchins are now California's largest export item from the ocean, thanks to the steady market from Asia. There are an estimated 10,000 or more people providing income for their families either directly or indirectly from the sea urchin industry in the state of California. Due to intense demand for U.S. sea urchin roe in Japan, today the creature is so aggressively hunted that scientists have begun to worry about the number of population actually declining, which has endangered the sea urchin supply. In California, it is now the largest export item from the ocean, valued at over $75 million per year, most of which comes from Japan. Sea urchins are remarkable organisms that can quickly regrow damaged spines and feet. Some species also live extraordinarily old age and even more remarkably, no signs of aging, such as decline in regenerative capacity or increase in age-related mortality."
+    },
+    {
+      "label": "11",
+      "text": "00:02:21,640"
+    },
+    {
+      "label": "12",
+      "text": "In a paper recently published in Aging Cell, the scientists shed new light on the process in sea urchins, raising the prospect that physical decline that typically accompanied aging is not inevitable. A new study has concluded that sea urchin, a small spiny creature that lives in the shallow coastal waters, is among the longest living animals on Earth. It can live to be 100 years old and some may reach 200 years in good health."
+    },
+    {
+      "label": "13",
+      "text": "00:02:50,940"
+    },
+    {
+      "label": "14",
+      "text": "The red sea urchin, in fact, does grow fairly quickly when it's young. At the age of two years, it can grow from 2 centimeters to 4 centimeters in one year. By the time the sea urchin is a teenager, it grows slowly dramatically. At the age of 22, researchers have found it to grow each year from about 12 centimeters to only 12.1 centimeters, which means only 0.1 centimeters bigger than a year before. But somewhat remarkably, it appears never really stop growing. It's just very, very slow."
+    },
+    {
+      "label": "15",
+      "text": "00:03:28,940"
+    },
+    {
+      "label": "16",
+      "text": "The evidence suggests that a 100-year-old red sea urchin is just as apt to live another year or reproduce as a 10-year-old sea urchin. The more mature red sea urchins, in fact, appear to be the producers of sperm and eggs and are perfectly able to breed even when incredibly old. Radiocarbon testing in this type of situation provided a very strong and independent test of growth rates and age. Among other things, it confirmed that in older sea urchins, there is a very steady, very consistent growth that's quite independent of ocean conditions or other variables. And once it neared adult size, our research indicates it did not have growth with the speed."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "cb57ac92-72fa-4680-9982-887c474c47a6",
+          "prompt": "**The Red Sea Urchin**\n\n**Background**\nThe red sea urchin\n·feeds on **31**_____",
+          "answers": [
+            "plants,coral,rocks"
+          ],
+          "rawAnswer": "plants,coral,rocks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The sea urchin mainly feeds on plants, coral, and rocks"
+          },
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "fd546f8f-7676-4062-b945-0337221c97db",
+          "prompt": "·is covered in **32**_____ that protect it",
+          "answers": [
+            "spines"
+          ],
+          "rawAnswer": "spines",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Sea urchins have a round-shaped body with long spines that come off it, which are used for protection"
+          },
+          "keywordPairs": [
+            {
+              "question": "spines",
+              "article": "protection"
+            }
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "6bc14f65-9a34-48f3-83e6-ff87a0aa6d99",
+          "prompt": "·used to be regarded as a **33**_____",
+          "answers": [
+            "pest"
+          ],
+          "rawAnswer": "pest",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Urchins were once considered a pest because their large appetite for kelp severely affected the kelp harvest"
+          },
+          "keywordPairs": [
+            {
+              "question": "used to be",
+              "article": "once"
+            },
+            {
+              "question": "regarded as",
+              "article": "considered"
+            }
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "7321cd60-bbf7-41c4-9b0a-ec633beb6bda",
+          "prompt": "**From 1970s onwards**:\n·It became clear that **34**_____ was an important market for red sea urchins.",
+          "answers": [
+            "Asia"
+          ],
+          "rawAnswer": "Asia",
+          "evidence": {
+            "paragraph": "",
+            "quote": "thanks to the steady market from Asia"
+          },
+          "keywordPairs": [
+            {
+              "question": "important",
+              "article": "steady"
+            }
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "3f8a2dad-49f2-4d9b-8def-a6d7b91ada6f",
+          "prompt": "·Scientific interest increased because of a **35**_____ in red sea urchin population.",
+          "answers": [
+            "decline"
+          ],
+          "rawAnswer": "decline",
+          "evidence": {
+            "paragraph": "",
+            "quote": "scientists have begun to worry about the number of population actually declining"
+          },
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "4f4abcf5-46d9-4879-9d16-3b0355f167fb",
+          "prompt": "**Research findings**\nStudy based on biochemical techniques\nRed sea urchins:\n·grow very slowly\n·live a very long time(maximum lifespan: up to **36**_____ )",
+          "answers": [
+            "200 years"
+          ],
+          "rawAnswer": "200 years",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It can live to be 100 years old and some may reach 200 years in good health"
+          },
+          "keywordPairs": [
+            {
+              "question": "maximum lifespan",
+              "article": "live to be"
+            },
+            {
+              "question": "up to",
+              "article": "may reach"
+            }
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "7a5ead2f-7833-4888-9c76-849b728eec80",
+          "prompt": "·can be harvested only after 6-7 years\n·after 22 years, only grow **37**_____ per year",
+          "answers": [
+            "0.1 centimetres"
+          ],
+          "rawAnswer": "0.1 centimetres",
+          "evidence": {
+            "paragraph": "",
+            "quote": "At the age of 22, researchers have found it to grow each year from about 12 centimeters to only 12.1 centimeters, which means only 0.1 centimeters bigger than a year before"
+          },
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "02ab2534-2ace-461e-bda4-9cf2ea18a81f",
+          "prompt": "**Study measuring radio carbon**\n·no evidence of **38**_____ when sea urchins die.",
+          "answers": [
+            "aging"
+          ],
+          "rawAnswer": "aging",
+          "evidence": {
+            "paragraph": "",
+            "quote": "no signs of aging, such as decline in regenerative capacity or increase in age-related mortality"
+          },
+          "keywordPairs": [
+            {
+              "question": "evidence",
+              "article": "signs"
+            }
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "055bb26a-8e32-46b7-b210-7eede53915f7",
+          "prompt": "·They can still **39**_____ and grow when very cold.",
+          "answers": [
+            "reproduce"
+          ],
+          "rawAnswer": "reproduce",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The evidence suggests that a 100-year-old red sea urchin is just as apt to live another year or reproduce as a 10-year-old sea urchin"
+          },
+          "keywordPairs": [
+            {
+              "question": "grow",
+              "article": "reproduce"
+            }
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "0bd8b7cf-6c1a-49b1-975f-2e1a57c33761",
+          "prompt": "·growth not connected to **40**_____ or other external factors",
+          "answers": [
+            "ocean conditions"
+          ],
+          "rawAnswer": "ocean conditions",
+          "evidence": {
+            "paragraph": "",
+            "quote": "growth that's quite independent of ocean conditions or other variables"
+          },
+          "keywordPairs": [
+            {
+              "question": "not connected to",
+              "article": "independent of"
+            },
+            {
+              "question": "other external factors",
+              "article": "other variables"
+            }
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,600</p><p>The sea urchin is found across the ocean floors worldwide, but rarely in the colder polar regions. </p><p>00:00:07,940</p><p>Sea urchins are commonly found along the rocky ocean floor in both shallow and deeper water. Sea urchins are also commonly found living in coral reefs. The sea urchin mainly feeds on plants, coral, and rocks. </p><p>00:00:23,780</p><p>They are preyed by many predators that live their marine environment. </p><p>00:00:28,860</p><p>Sea urchins have a round-shaped body with long spines that come off it, which are used for protection, to move around, and to trap food particles that are floating around in the water. Sea urchins have five paired rows of tiny tube feet. The feet of sea urchin have suckers which help the sea urchin to move, capture food, and to hold on to the ocean floor. </p><p>00:00:54,200</p><p>Urchins were once considered a pest because their large appetite for kelp severely affected the kelp harvest. But this changed in the 1970s when another use was discovered as a delicious food. With excess proper processing and overnight shipping to markets, the sea urchin gold rush began. Urchins are now California's largest export item from the ocean, thanks to the steady market from Asia. There are an estimated 10,000 or more people providing income for their families either directly or indirectly from the sea urchin industry in the state of California. Due to intense demand for U.S. sea urchin roe in Japan, today the creature is so aggressively hunted that scientists have begun to worry about the number of population actually declining, which has endangered the sea urchin supply. In California, it is now the largest export item from the ocean, valued at over $75 million per year, most of which comes from Japan. Sea urchins are remarkable organisms that can quickly regrow damaged spines and feet. Some species also live extraordinarily old age and even more remarkably, no signs of aging, such as decline in regenerative capacity or increase in age-related mortality. </p><p>00:02:21,640</p><p>In a paper recently published in Aging Cell, the scientists shed new light on the process in sea urchins, raising the prospect that physical decline that typically accompanied aging is not inevitable. A new study has concluded that sea urchin, a small spiny creature that lives in the shallow coastal waters, is among the longest living animals on Earth. It can live to be 100 years old and some may reach 200 years in good health. </p><p>00:02:50,940</p><p>The red sea urchin, in fact, does grow fairly quickly when it's young. At the age of two years, it can grow from 2 centimeters to 4 centimeters in one year. By the time the sea urchin is a teenager, it grows slowly dramatically. At the age of 22, researchers have found it to grow each year from about 12 centimeters to only 12.1 centimeters, which means only 0.1 centimeters bigger than a year before. But somewhat remarkably, it appears never really stop growing. It's just very, very slow. </p><p>00:03:28,940</p>The evidence suggests that a 100-year-old red sea urchin is just as apt to live another year or reproduce as a 10-year-old sea urchin. The more mature red sea urchins, in fact, appear to be the producers of sperm and eggs and are perfectly able to breed even when incredibly old. Radiocarbon testing in this type of situation provided a very strong and independent test of growth rates and age. Among other things, it confirmed that in older sea urchins, there is a very steady, very consistent growth that's quite independent of ocean conditions or other variables. And once it neared adult size, our research indicates it did not have growth with the speed.",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/fee712fb-8f39-4aca-90e2-8656be795361.mp3",
+    "durationSeconds": 258.037551,
+    "sizeBytes": 10322591,
+    "sha256": "1a6870fc71f91e4f759762374fbfb6bd4f814b74497600315b61548f219b0d08",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:08:10Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1778569545459_t1hs7o_c8c3f1d2.mp3"
+}

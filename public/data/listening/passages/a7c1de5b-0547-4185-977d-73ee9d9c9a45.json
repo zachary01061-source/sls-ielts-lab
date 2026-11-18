@@ -1,0 +1,385 @@
+{
+  "id": "a7c1de5b-0547-4185-977d-73ee9d9c9a45",
+  "title": "Survial strategies of male lizard",
+  "titleCn": "雄性蜥蜴的生存策略与避敌实验",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/a7c1de5b-0547-4185-977d-73ee9d9c9a45",
+  "duration": 317,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,820"
+    },
+    {
+      "label": "2",
+      "text": "Today, we'll discuss the survival strategies of male lizards, focusing on how they avoid predators and the fascinating experiments that reveal their abilities."
+    },
+    {
+      "label": "3",
+      "text": "00:00:13,300"
+    },
+    {
+      "label": "4",
+      "text": "To begin, male lizards rely heavily on their sense of smell to detect potential predators."
+    },
+    {
+      "label": "5",
+      "text": "00:00:21,560"
+    },
+    {
+      "label": "6",
+      "text": "This heightened ability allows them to sense danger before it is visible, giving them a crucial advantage."
+    },
+    {
+      "label": "7",
+      "text": "00:00:29,680"
+    },
+    {
+      "label": "8",
+      "text": "Interestingly, some lizards employ mimicry to confuse predators."
+    },
+    {
+      "label": "9",
+      "text": "00:00:35,020"
+    },
+    {
+      "label": "10",
+      "text": "For example, certain species imitate the appearance of birds, which are among their primary predators."
+    },
+    {
+      "label": "11",
+      "text": "00:00:41,980"
+    },
+    {
+      "label": "12",
+      "text": "This deceptive adaptation can effectively deter attacks. In an experiment, researchers used clay models resembling lizards to study how predators react."
+    },
+    {
+      "label": "13",
+      "text": "00:00:54,620"
+    },
+    {
+      "label": "14",
+      "text": "These models helped scientists understand the behavior of predators and how lizards respond to threats."
+    },
+    {
+      "label": "15",
+      "text": "00:01:02,500"
+    },
+    {
+      "label": "16",
+      "text": "Male lizards also exhibit unique physical traits that aid their survival."
+    },
+    {
+      "label": "17",
+      "text": "00:01:08,300"
+    },
+    {
+      "label": "18",
+      "text": "Some parts of their bodies are surprisingly soft, which minimizes injuries during attacks and allows them to escape more effectively."
+    },
+    {
+      "label": "19",
+      "text": "00:01:18,500"
+    },
+    {
+      "label": "20",
+      "text": "Environmental factors such as habitat and climate can greatly affect survival."
+    },
+    {
+      "label": "21",
+      "text": "00:01:25,300"
+    },
+    {
+      "label": "22",
+      "text": "Studies show that male lizards demonstrate incredible adaptability to environmental variation, allowing them to thrive in different conditions."
+    },
+    {
+      "label": "23",
+      "text": "00:01:36,580"
+    },
+    {
+      "label": "24",
+      "text": "Another fascinating discovery is how lizards use their surroundings. They often hide behind rocks, which act as natural shields against predators."
+    },
+    {
+      "label": "25",
+      "text": "00:01:47,190"
+    },
+    {
+      "label": "26",
+      "text": "This behavior is especially common in regions with rocky landscapes. Furthermore, lizards have the ability to regenerate their teeth, which ensures they remain equipped for defense even after an attack."
+    },
+    {
+      "label": "27",
+      "text": "00:02:01,910"
+    },
+    {
+      "label": "28",
+      "text": "This remarkable trait gives them an advantage in their long-term survival."
+    },
+    {
+      "label": "29",
+      "text": "00:02:07,060"
+    },
+    {
+      "label": "30",
+      "text": "Behavioral strategies also play a critical role. Male lizards often perform head-bobbing movements to ward off predators. This defensive action highlights the importance of their heads in deterring threats."
+    },
+    {
+      "label": "31",
+      "text": "00:02:22,820"
+    },
+    {
+      "label": "32",
+      "text": "Another experiment revealed how lizards maintain stability while escaping. Their tails play a crucial role in helping them maintain balance, especially when sprinting or jumping to evade predators."
+    },
+    {
+      "label": "33",
+      "text": "00:02:37,820"
+    },
+    {
+      "label": "34",
+      "text": "Finally, the success of male lizards in avoiding predation often depends on their keen sense of observation."
+    },
+    {
+      "label": "35",
+      "text": "00:02:47,140"
+    },
+    {
+      "label": "36",
+      "text": "By closely monitoring their environment, they can anticipate threats and react swiftly to stay safe."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "f25fb191-79dd-472b-acb4-d18b9a7083a9",
+          "prompt": "**Detection and Defense**\n·Male lizards rely on their sense of _____ to detect predators.",
+          "answers": [
+            "smell"
+          ],
+          "rawAnswer": "smell",
+          "evidence": {
+            "paragraph": "",
+            "quote": "male lizards rely heavily on their sense of smell to detect potential predators"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "fb0416f8-a7b3-4571-afa4-da6e547dc631",
+          "prompt": "·Some species mimic their predators, such as **32**_____ to confuse attackers.",
+          "answers": [
+            "birds"
+          ],
+          "rawAnswer": "birds",
+          "evidence": {
+            "paragraph": "",
+            "quote": "certain species imitate the appearance of birds"
+          },
+          "keywordPairs": [
+            {
+              "question": "mimic",
+              "article": "imitate"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "169eeed1-b884-4d16-8f8d-588630e2e287",
+          "prompt": "· Experiments with models made of **33**_____ helped researchers study predator behavior.",
+          "answers": [
+            "clay"
+          ],
+          "rawAnswer": "clay",
+          "evidence": {
+            "paragraph": "",
+            "quote": "researchers used clay models resembling lizards to study how predators react"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "f99675ae-1ab4-4912-a7c8-4d4434bcf840",
+          "prompt": "**Physical Adaptations**\n·Certain parts of a lizard`s body are **34**_____ to reduce injuries during attacks.",
+          "answers": [
+            "soft"
+          ],
+          "rawAnswer": "soft",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some parts of their bodies are surprisingly soft, which minimizes injuries during attacks"
+          },
+          "keywordPairs": [
+            {
+              "question": "reduce",
+              "article": "minimizes"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "e69fb670-3323-43be-b8b5-669591ddc31e",
+          "prompt": "·Environmental **35**_____ influences how male lizards adapt to predators.",
+          "answers": [
+            "variation"
+          ],
+          "rawAnswer": "variation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "male lizards demonstrate incredible adaptability to environmental variation"
+          },
+          "keywordPairs": [
+            {
+              "question": "variation",
+              "article": "adapt"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "69ed5456-6924-480d-bafe-43690fffbb0d",
+          "prompt": "·Lizards use **36**_____ as shields to hide and protect themselves.",
+          "answers": [
+            "rocks"
+          ],
+          "rawAnswer": "rocks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They often hide behind rocks, which act as natural shields against predators"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "1d51656b-f3e0-4a0d-aa4e-8763ff73c27a",
+          "prompt": "**Behavioral Responses**\n·Regenerating **37**_____ helps male lizards recover after being injured by predators.",
+          "answers": [
+            "teeth"
+          ],
+          "rawAnswer": "teeth",
+          "evidence": {
+            "paragraph": "",
+            "quote": "lizards have the ability to regenerate their teeth"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "f8dafccf-dbff-4ddd-b30e-5c4d23624a77",
+          "prompt": "·Head-bobbing by lizards is defense mechanism to protect their **38**_____",
+          "answers": [
+            "heads"
+          ],
+          "rawAnswer": "heads",
+          "evidence": {
+            "paragraph": "",
+            "quote": "This defensive action highlights the importance of their heads in deterring threats"
+          },
+          "keywordPairs": [
+            {
+              "question": "protect",
+              "article": "deterring threats to"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "b31628f3-a868-4e73-9cc7-d7a5bfaaf89a",
+          "prompt": "·Tails help male lizards maintain **39**_____ when escaping predators.",
+          "answers": [
+            "balance"
+          ],
+          "rawAnswer": "balance",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Their tails play a crucial role in helping them maintain balance"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "86781eb5-5d1c-4b10-b2d1-92da3e146041",
+          "prompt": "·Male lizards survive attacks by closely monitoring their surroundings through **40**_____ .",
+          "answers": [
+            "observation"
+          ],
+          "rawAnswer": "observation",
+          "evidence": {
+            "paragraph": "",
+            "quote": "depends on their keen sense of observation"
+          },
+          "keywordPairs": [
+            {
+              "question": "monitoring",
+              "article": "observation"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,820</p><p>Today, we'll discuss the survival strategies of male lizards, focusing on how they avoid predators and the fascinating experiments that reveal their abilities. </p><p>00:00:13,300</p><p>To begin, male lizards rely heavily on their sense of smell to detect potential predators. </p><p>00:00:21,560</p><p>This heightened ability allows them to sense danger before it is visible, giving them a crucial advantage. </p><p>00:00:29,680</p><p>Interestingly, some lizards employ mimicry to confuse predators. </p><p>00:00:35,020</p><p>For example, certain species imitate the appearance of birds, which are among their primary predators. </p><p>00:00:41,980</p><p>This deceptive adaptation can effectively deter attacks. In an experiment, researchers used clay models resembling lizards to study how predators react. </p><p>00:00:54,620</p><p>These models helped scientists understand the behavior of predators and how lizards respond to threats. </p><p>00:01:02,500</p><p>Male lizards also exhibit unique physical traits that aid their survival. </p><p>00:01:08,300</p><p>Some parts of their bodies are surprisingly soft, which minimizes injuries during attacks and allows them to escape more effectively. </p><p>00:01:18,500</p><p>Environmental factors such as habitat and climate can greatly affect survival. </p><p>00:01:25,300</p><p>Studies show that male lizards demonstrate incredible adaptability to environmental variation, allowing them to thrive in different conditions. </p><p>00:01:36,580</p><p>Another fascinating discovery is how lizards use their surroundings. They often hide behind rocks, which act as natural shields against predators. </p><p>00:01:47,190</p><p>This behavior is especially common in regions with rocky landscapes. Furthermore, lizards have the ability to regenerate their teeth, which ensures they remain equipped for defense even after an attack. </p><p>00:02:01,910</p><p>This remarkable trait gives them an advantage in their long-term survival. </p><p>00:02:07,060</p><p>Behavioral strategies also play a critical role. Male lizards often perform head-bobbing movements to ward off predators. This defensive action highlights the importance of their heads in deterring threats. </p><p>00:02:22,820</p><p>Another experiment revealed how lizards maintain stability while escaping. Their tails play a crucial role in helping them maintain balance, especially when sprinting or jumping to evade predators. </p><p>00:02:37,820</p><p>Finally, the success of male lizards in avoiding predation often depends on their keen sense of observation. </p><p>00:02:47,140</p><p>By closely monitoring their environment, they can anticipate threats and react swiftly to stay safe.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/a7c1de5b-0547-4185-977d-73ee9d9c9a45.mp3",
+    "durationSeconds": 196.896,
+    "sizeBytes": 3150867,
+    "sha256": "d59b81a5e29a65324f388ec9a3b929685283f792cb69f93c46acbfa1e1e25f78",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:55:11Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1774713568966_09n9l2_1dd284b5_f37fbe00.mp3"
+}

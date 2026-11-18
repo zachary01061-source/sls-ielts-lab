@@ -1,0 +1,409 @@
+{
+  "id": "cda01555-26b1-41f2-a572-13e7328e169b",
+  "title": "Ocean edge hotel",
+  "titleCn": "海洋边缘酒店新员工入职培训",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/cda01555-26b1-41f2-a572-13e7328e169b",
+  "duration": 492,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:02,880"
+    },
+    {
+      "label": "2",
+      "text": "Part two."
+    },
+    {
+      "label": "3",
+      "text": "00:00:04,940"
+    },
+    {
+      "label": "4",
+      "text": "You will hear a hotel manager talking to some new staff. First, you have some time to look at questions eleven to fifteen."
+    },
+    {
+      "label": "5",
+      "text": "00:00:21,860"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions eleven to fifteen."
+    },
+    {
+      "label": "7",
+      "text": "00:00:56,880"
+    },
+    {
+      "label": "8",
+      "text": "Good morning, all of you. I do apologize for being a little late starting our meeting. One of our guests has been taken ill. Susie, who's our assistant manager, has driven him to the hospital, but she was in the middle of compiling our weekly report for head office, which is urgent, and I had to finish writing it for her. Now, this is the first day of work at the Ocean Edge Hotel for all of you. Let me say something that might surprise you. You've all got a qualification in hospitality, and some of you have got very high grades. But to me, what counts most is that you enjoy the contact with guests and really want to make a career in the hospitality industry. You'll be getting some very valuable experience here, so make the most of it."
+    },
+    {
+      "label": "9",
+      "text": "00:01:46,060"
+    },
+    {
+      "label": "A",
+      "text": "few words about the history of the Ocean Edge Hotel. There have been buildings on this site for about two hundred and fifty years. We know that in the eighteenth century there was a bakery here when the town was very new. The building was destroyed by fire in the early nineteenth century, and houses were constructed on the site. These, in their turn, were demolished in the middle of the twentieth century and replaced by the hotel.\n\n00:02:14,840"
+    },
+    {
+      "label": "I",
+      "text": "think it's fair to say that this is a popular place to work. We're always getting job applications from local people, even when we haven't any vacancies. And whereas in many hotels, staff tend to stay for a year or even less, here, five is pretty standard. And in fact, several of our staff have been here for ten years or more. You're the first people we've appointed in the last three years, and we only needed to do that because we're currently constructing twenty-five new bedrooms.\n\n00:02:50,140\n\nDepending on their location, hotels usually have mostly business guests or mostly tourists. We attract a large number of tourists who come to spend a few days beside the ocean. We also have quite a lot of people who are here on business and perhaps stay for one or two nights.\n\n00:03:10,560\n\nWhat we've noticed recently, though, is that we're getting more and more regulars, people staying here for four nights every week because they have jobs in this locality but live somewhere else in the country, so they go home for the weekend.\n\n00:03:30,120\n\nBefore you hear the rest of the talk, you have some time to look at questions sixteen to twenty.\n\n00:03:52,760\n\nNow listen and answer questions sixteen to twenty.\n\n00:04:15,560\n\nNow, let me give you an idea of the layout of the hotel. All the bedrooms are along walkways in the gardens, and the main building, which we're in now, has most of the other rooms that guests use. Obviously, when they arrive, the first place they find themselves in is the reception area, where we're sitting. The desk is over on the right of the entrance, and the office is immediately behind it. There's a connecting door from the desk itself and another entrance from the corridor.\n\n00:04:48,340"
+    },
+    {
+      "label": "A",
+      "text": "lot of local residents hire the function room for parties and other events. This is right at the front of the hotel, on the left of the reception area opposite the desk. This room is booked several evenings a week and most weekends. It's a major source of income.\n\n00:05:07,980\n\nCompanies are very important customers for us, and a large number of local firms hold conferences here. To reach the main conference room, you go past the fountain as far as you can and the door is directly in front of you.\n\n00:05:24,980\n\nThe meeting room is often hired by companies and other local organizations for small gatherings. For this room, you turn into the corridor at the side of the reception desk, and you'll see the room facing you at the end of the corridor. Our restaurant is open to the public as well as to hotel residents, and I'm pleased to say it has a very good reputation locally. You turn left just before the fountain as though you're heading for the guest's rooms, and it's the large room on your right. Next, I should mention that there...\n\n00:06:04,880\n\nThat is the end of part two. You now have thirty seconds to check your answers to part two."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-15**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "a55d6f29-da09-4d0d-9bdc-5d3a947176f8",
+          "prompt": "**11** Why has the manager arrived late at this meeting?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "He had to complete a report.",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I do apologize for being a little late starting our meeting. One of our guests has been taken ill. Susie, who's our assistant manager, has driven him to the hospital, but she was in the middle of compiling our weekly report for head office, which is urgent, and I had to finish writing it for her"
+          },
+          "keywordPairs": [
+            {
+              "question": "complete",
+              "article": "finish"
+            },
+            {
+              "question": "arrived late",
+              "article": "being late"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "He had to complete a report."
+            },
+            {
+              "value": "B",
+              "text": "He had to speak to head office."
+            },
+            {
+              "value": "C",
+              "text": "He had to take a guest to hospital."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "6071e1a6-ada4-4129-a276-38d13dae5b21",
+          "prompt": "**12** What is the main thing the manager is looking for in his staff?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "Enthusiasm",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You've all got a qualification in hospitality, and some of you have got very high grades. But to me, what counts most is that you enjoy the contact with guests and really want to make a career in the hospitality industry"
+          },
+          "keywordPairs": [
+            {
+              "question": "main thing the manager is looking for",
+              "article": "what counts most"
+            },
+            {
+              "question": "enthusiasm",
+              "article": "enjoy"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "Experience"
+            },
+            {
+              "value": "B",
+              "text": "Enthusiasm"
+            },
+            {
+              "value": "C",
+              "text": "Good qualifications"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "93083241-13be-44ad-9734-0747273dc918",
+          "prompt": "**13** When did the Ocean Edge Hotel first open?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "In the 20th century",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These, in their turn, were demolished in the middle of the twentieth century and replaced by the hotel"
+          },
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "In the 18th century"
+            },
+            {
+              "value": "B",
+              "text": "In the 19th century"
+            },
+            {
+              "value": "C",
+              "text": "In the 20th century"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "12ddb095-3890-4048-94fc-d7411e476e19",
+          "prompt": "**14** How long do staff generally remain at the hotel?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "three years",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And whereas in many hotels, staff tend to stay for a year or even less, here, five is pretty standard"
+          },
+          "keywordPairs": [
+            {
+              "question": "remain",
+              "article": "stay"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "three years"
+            },
+            {
+              "value": "B",
+              "text": "five years"
+            },
+            {
+              "value": "C",
+              "text": "ten years"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "a105605b-ad4b-48c8-aef4-84bf02508c90",
+          "prompt": "**15** Which group of guests is growing fastest?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "People working locally who go home at weekends",
+          "evidence": {
+            "paragraph": "",
+            "quote": "What we've noticed recently, though, is that we're getting more and more regulars, people staying here for four nights every week because they have jobs in this locality but live somewhere else in the country, so they go home for the weekend"
+          },
+          "keywordPairs": [
+            {
+              "question": "growing fastest",
+              "article": "more and more"
+            },
+            {
+              "question": "group of guests",
+              "article": "regulars"
+            },
+            {
+              "question": "working",
+              "article": "jobs"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "Tourists visiting local attractions"
+            },
+            {
+              "value": "B",
+              "text": "People staying for one or two nights on business"
+            },
+            {
+              "value": "C",
+              "text": "People working locally who go home at weekends"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "map",
+      "instruction": "**Questions 16-20**\nLabel the plan below.\nWrite the correct letter, **A-I**, next to questions **16-20**.\n![图片1.png](assets/listening/1e17efc19657d2321da5eb43fbf0fb0f32a3561348196c0385c1f545b637dab7.png)",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "f4a9f2df-4505-49d2-8b6d-c716088c93f9",
+          "prompt": "Office",
+          "answers": [
+            "I"
+          ],
+          "rawAnswer": "I",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The desk is over on the right of the entrance, and the office is immediately behind it"
+          },
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "fd58180e-2e04-4384-af7f-cffcd32358a8",
+          "prompt": "Function room",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "F",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A lot of local residents hire the function room for parties and other events. This is right at the front of the hotel, on the left of the reception area opposite the desk"
+          },
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "6ec11bfa-930b-4c8b-9772-db4af41e7fed",
+          "prompt": "Main conference room",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "B",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To reach the main conference room, you go past the fountain as far as you can and the door is directly in front of you"
+          },
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "1de662fa-a69f-410a-bb77-2a93c3ad31b1",
+          "prompt": "Meeting room",
+          "answers": [
+            "H"
+          ],
+          "rawAnswer": "H",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For this room, you turn into the corridor at the side of the reception desk, and you'll see the room facing you at the end of the corridor"
+          },
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "7649664e-b7ea-49e2-9ca4-6fd034c0a85f",
+          "prompt": "Restaurant",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "C",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You turn left just before the fountain as though you're heading for the guest's rooms, and it's the large room on your right"
+          },
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ],
+      "images": [
+        "assets/listening/1e17efc19657d2321da5eb43fbf0fb0f32a3561348196c0385c1f545b637dab7.png"
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "地图题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:02,880</p><p>Part two. </p><p>00:00:04,940</p><p>You will hear a hotel manager talking to some new staff. First, you have some time to look at questions eleven to fifteen. </p><p>00:00:21,860</p><p>Now listen carefully and answer questions eleven to fifteen. </p><p>00:00:56,880</p><p>Good morning, all of you. I do apologize for being a little late starting our meeting. One of our guests has been taken ill. Susie, who's our assistant manager, has driven him to the hospital, but she was in the middle of compiling our weekly report for head office, which is urgent, and I had to finish writing it for her. Now, this is the first day of work at the Ocean Edge Hotel for all of you. Let me say something that might surprise you. You've all got a qualification in hospitality, and some of you have got very high grades. But to me, what counts most is that you enjoy the contact with guests and really want to make a career in the hospitality industry. You'll be getting some very valuable experience here, so make the most of it. </p><p>00:01:46,060</p><p>A few words about the history of the Ocean Edge Hotel. There have been buildings on this site for about two hundred and fifty years. We know that in the eighteenth century there was a bakery here when the town was very new. The building was destroyed by fire in the early nineteenth century, and houses were constructed on the site. These, in their turn, were demolished in the middle of the twentieth century and replaced by the hotel. </p><p>00:02:14,840</p><p>I think it's fair to say that this is a popular place to work. We're always getting job applications from local people, even when we haven't any vacancies. And whereas in many hotels, staff tend to stay for a year or even less, here, five is pretty standard. And in fact, several of our staff have been here for ten years or more. You're the first people we've appointed in the last three years, and we only needed to do that because we're currently constructing twenty-five new bedrooms. </p><p>00:02:50,140</p><p>Depending on their location, hotels usually have mostly business guests or mostly tourists. We attract a large number of tourists who come to spend a few days beside the ocean. We also have quite a lot of people who are here on business and perhaps stay for one or two nights. </p><p>00:03:10,560</p><p>What we've noticed recently, though, is that we're getting more and more regulars, people staying here for four nights every week because they have jobs in this locality but live somewhere else in the country, so they go home for the weekend. </p><p>00:03:30,120</p><p>Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty. </p><p>00:03:52,760</p><p>Now listen and answer questions sixteen to twenty. </p><p>00:04:15,560</p><p>Now, let me give you an idea of the layout of the hotel. All the bedrooms are along walkways in the gardens, and the main building, which we're in now, has most of the other rooms that guests use. Obviously, when they arrive, the first place they find themselves in is the reception area, where we're sitting. The desk is over on the right of the entrance, and the office is immediately behind it. There's a connecting door from the desk itself and another entrance from the corridor. </p><p>00:04:48,340</p><p>A lot of local residents hire the function room for parties and other events. This is right at the front of the hotel, on the left of the reception area opposite the desk. This room is booked several evenings a week and most weekends. It's a major source of income. </p><p>00:05:07,980</p><p>Companies are very important customers for us, and a large number of local firms hold conferences here. To reach the main conference room, you go past the fountain as far as you can and the door is directly in front of you. </p><p>00:05:24,980</p><p>The meeting room is often hired by companies and other local organizations for small gatherings. For this room, you turn into the corridor at the side of the reception desk, and you'll see the room facing you at the end of the corridor. Our restaurant is open to the public as well as to hotel residents, and I'm pleased to say it has a very good reputation locally. You turn left just before the fountain as though you're heading for the guest's rooms, and it's the large room on your right. Next, I should mention that there... </p><p>00:06:04,880</p><p>That is the end of part two. You now have thirty seconds to check your answers to part two.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/cda01555-26b1-41f2-a572-13e7328e169b.mp3",
+    "durationSeconds": 371.88,
+    "sizeBytes": 5950611,
+    "sha256": "4a7320a320e4bdc79b4bb7a11b054ec5d4943de67fdb59e63f796537ede71ca0",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:08:23Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777443351941_leqrzs_bf6c5935.mp3"
+}

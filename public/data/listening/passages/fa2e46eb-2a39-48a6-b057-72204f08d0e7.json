@@ -1,0 +1,301 @@
+{
+  "id": "fa2e46eb-2a39-48a6-b057-72204f08d0e7",
+  "title": "The development and production of the pencil",
+  "titleCn": "铅笔的发展与生产",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/fa2e46eb-2a39-48a6-b057-72204f08d0e7",
+  "duration": 600,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,540"
+    },
+    {
+      "label": "2",
+      "text": "You will hear a product design lecturer giving a talk on the development and production of the pencil. First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:17,260"
+    },
+    {
+      "label": "4",
+      "text": "Today, I want to talk about the history and production of an everyday object whose design has become so widespread that most people don't realize what an amazingly designed product it is. I'm talking about the lowly pencil. I'll first go through a brief survey of the history of writing instruments because I think it's important to understand that a great deal of product design, like that of the pencil, actually occurs through a process of evolution. It's not the brainchild of one genius inventor or an expensive design consultant. To start in the beginning then, the first crude writing instruments were probably sharpened stones used by the earliest humans to scratch drawings on cave walls. Then, about ten thousand years ago, merchants in the Middle East discovered that they could use sticks or rods of various sorts to make impressions in tablets of wet clay. These clay surfaces weren't perfect. They were bulky, and you couldn't fold them up in your pocket, but you could move them about and use them to represent various transactions and keep records. In Europe, the early Greeks and Romans tended to utilize a writing stylus fashioned from bone to write on tablets. So this represented an advance in the design of the writing instrument. In Asia, the Chinese were the first people to combine soot with oil and other ingredients in order to produce ink, which they applied with brushes. With some variation and improvement, this technique is still widely used in China today. Back in the West, the writing instruments which dominated for the longest period in history from about seven hundred AD for a thousand years were pens made from feathers, used initially on parchment made of animal skins and later on paper. And so matters stood when in fifteen sixty-four a source of pure graphite was discovered in England. And that discovery led to a revolution in writing, the creation of the pencil. Graphite is a dark gray or black mineral which can be used to make semi-permanent marks on a variety of surfaces, including paper. Initially, when used for writing, the graphite was covered in string or enclosed in a metal tube. But these methods proved to be poor designs. And in the late seventeenth century, makers of graphite writing instruments began inserting the graphite into wooden sticks which had been hollowed out by hand. And so the basic design of the modern pencil was established. There have been minor changes over the years. The early mass-produced pencils were bare to show off their high-quality wood casings. But by the eighteen nineties, many manufacturers were using paint to make their pencils more eye-catching. With an increasingly sophisticated eye to marketing, some of them also came up with a catchy name for their pencils to increase their distinctiveness, particularly so schoolchildren would develop a habit of always buying a particular brand. So how are modern pencils made today? In the manufacture of pencils, the wooden sheath and the graphite compound are made separately and then joined together with glue. First, the graphite is ground into a powder. However, if this is kept at its pure form, it would be difficult to use because it would be too soft. So next, the graphite is mixed with clay and shaped into long rods, which are then baked in ovens, resulting in a hard material which can be used for writing or drawing. The rods are called, mistakenly in fact, leads, because lead was once used for writing, but it proved much less suitable than graphite. Finally, the leads are immersed in wax to give them that smoothness needed for writing. The wood used to encase the graphite has to be chosen carefully. Cedar is the most popular timber. It is first seasoned and oven-dried to eliminate the oil in it. Wood blocks are cut by machines, and grooves are made in these for the insertion of leads. A top section, also with a groove, is fitted onto this, creating the familiar pencil. It's simple, elegant, and practical, a product designer's dream."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-36**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "e57b4ba8-f684-478d-931c-dee68ad51977",
+          "prompt": "**History of writing instruments**\nProduct design is often the result of **31**_____ .",
+          "answers": [
+            "evolution"
+          ],
+          "rawAnswer": "evolution",
+          "evidence": {
+            "paragraph": "",
+            "quote": "I'll first go through a brief survey of the history of writing instruments because I think it's important to understand that a great deal of product design, like that of the pencil, actually occurs through a process of evolution"
+          },
+          "keywordPairs": [
+            {
+              "question": "often the result of",
+              "article": "occurs through a process of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "accbc148-ddbb-4daa-a085-f9469942b1f0",
+          "prompt": "- the earliest humans used stones to draw on cave walls\n- businessmen started to apply tools like sticks to write in wet day tablets\n- the early Greeks and Romans began to write with **32**_____ .",
+          "answers": [
+            "bones"
+          ],
+          "rawAnswer": "bones",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In Europe, the early Greeks and Romans tended to utilize a writing stylus fashioned from bone to write on tablets"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "1992f0d4-4630-4c5e-b3b0-1e36107f6450",
+          "prompt": "- then, Chinese people invented **33**_____",
+          "answers": [
+            "ink"
+          ],
+          "rawAnswer": "ink",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In Asia, the Chinese were the first people to combine soot with oil and other ingredients in order to produce ink, which they applied with brushes"
+          },
+          "keywordPairs": [
+            {
+              "question": "invented",
+              "article": "produce"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "bd0db860-5b4a-475b-ac11-5d4e2fb321dc",
+          "prompt": "- in the west, pens made of **34**_____",
+          "answers": [
+            "feathers"
+          ],
+          "rawAnswer": "feathers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Back in the West, the writing instruments which dominated for the longest period in history from about seven hundred AD for a thousand years were pens made from feathers"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "50ed0c9b-78bc-4193-9424-095f50d0542f",
+          "prompt": "**Revolution in writing**\n- at first, the graphite was wrapped in **35**_____",
+          "answers": [
+            "string"
+          ],
+          "rawAnswer": "string",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Initially, when used for writing, the graphite was covered in string or enclosed in a metal tube"
+          },
+          "keywordPairs": [
+            {
+              "question": "at first",
+              "article": "Initially"
+            },
+            {
+              "question": "wrapped in",
+              "article": "covered in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "3714256c-43fe-462f-ac10-e6a4c28186dd",
+          "prompt": "- in 1700s, graphite was put into wooden sticks\n- by 1890s, paint was applied to make pencils more attractive\n- for marketing, people gave a popular **36**_____ to their pencils to promote loyalty",
+          "answers": [
+            "name"
+          ],
+          "rawAnswer": "name",
+          "evidence": {
+            "paragraph": "",
+            "quote": "With an increasingly sophisticated eye to marketing, some of them also came up with a catchy name for their pencils to increase their distinctiveness, particularly so schoolchildren would develop a habit of always buying a particular brand"
+          },
+          "keywordPairs": [
+            {
+              "question": "gave a popular",
+              "article": "came up with a catchy"
+            },
+            {
+              "question": "promote loyalty",
+              "article": "encourage customers to stick to the brand"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "flow_chart",
+      "instruction": "**Questions 37-40**\nComplete the flow chart below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "0f06e79a-7d45-4b6d-b35c-9a48ac734da6",
+          "prompt": "**Modern Manufacturing Process**\n\nThe graphite is made into a **37**_____\n↓",
+          "answers": [
+            "powder"
+          ],
+          "rawAnswer": "powder",
+          "evidence": {
+            "paragraph": "",
+            "quote": "First, the graphite is ground into a powder"
+          },
+          "keywordPairs": [
+            {
+              "question": "made into",
+              "article": "ground into"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "4ea2fb0c-b71f-4afb-93f1-6cd9e4f1e232",
+          "prompt": "combined with clay and shaped in rods, graphite was put in ovens to make it **38**_____\n↓",
+          "answers": [
+            "hard"
+          ],
+          "rawAnswer": "hard",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Next, the graphite is mixed with clay and shaped into long rods, which are then baked in ovens, resulting in a hard material which can be used for writing or drawing"
+          },
+          "keywordPairs": [
+            {
+              "question": "combined",
+              "article": "mixed"
+            },
+            {
+              "question": "make it",
+              "article": "resulting in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "edcd3b0f-622b-4c16-98fe-0b663cf9e846",
+          "prompt": "the leads are dipped in **39**_____ to make it suitable for writing\n↓",
+          "answers": [
+            "wax"
+          ],
+          "rawAnswer": "wax",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, the leads are immersed in wax to give them that smoothness needed for writing"
+          },
+          "keywordPairs": [
+            {
+              "question": "dipped in",
+              "article": "immersed in"
+            },
+            {
+              "question": "suitable for",
+              "article": "give them smoothness needed for"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "e9711a31-1440-4bc7-8446-acc01dd1f51a",
+          "prompt": "the wood applied to enclose the graphite is heated to remove **40**_____ .",
+          "answers": [
+            "oil"
+          ],
+          "rawAnswer": "oil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It is first seasoned and oven-dried to eliminate the oil in it"
+          },
+          "keywordPairs": [
+            {
+              "question": "heated",
+              "article": "oven-dried"
+            },
+            {
+              "question": "remove",
+              "article": "eliminate"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题",
+    "流程填图题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,540</p><p>You will hear a product design lecturer giving a talk on the development and production of the pencil. First, you have some time to look at questions thirty-one to forty. Now listen carefully and answer questions thirty-one to forty. </p><p>00:00:17,260</p><p>Today, I want to talk about the history and production of an everyday object whose design has become so widespread that most people don't realize what an amazingly designed product it is. I'm talking about the lowly pencil. I'll first go through a brief survey of the history of writing instruments because I think it's important to understand that a great deal of product design, like that of the pencil, actually occurs through a process of evolution. It's not the brainchild of one genius inventor or an expensive design consultant. To start in the beginning then, the first crude writing instruments were probably sharpened stones used by the earliest humans to scratch drawings on cave walls. Then, about ten thousand years ago, merchants in the Middle East discovered that they could use sticks or rods of various sorts to make impressions in tablets of wet clay. These clay surfaces weren't perfect. They were bulky, and you couldn't fold them up in your pocket, but you could move them about and use them to represent various transactions and keep records. In Europe, the early Greeks and Romans tended to utilize a writing stylus fashioned from bone to write on tablets. So this represented an advance in the design of the writing instrument. In Asia, the Chinese were the first people to combine soot with oil and other ingredients in order to produce ink, which they applied with brushes. With some variation and improvement, this technique is still widely used in China today. Back in the West, the writing instruments which dominated for the longest period in history from about seven hundred AD for a thousand years were pens made from feathers, used initially on parchment made of animal skins and later on paper. And so matters stood when in fifteen sixty-four a source of pure graphite was discovered in England. And that discovery led to a revolution in writing, the creation of the pencil. Graphite is a dark gray or black mineral which can be used to make semi-permanent marks on a variety of surfaces, including paper. Initially, when used for writing, the graphite was covered in string or enclosed in a metal tube. But these methods proved to be poor designs. And in the late seventeenth century, makers of graphite writing instruments began inserting the graphite into wooden sticks which had been hollowed out by hand. And so the basic design of the modern pencil was established. There have been minor changes over the years. The early mass-produced pencils were bare to show off their high-quality wood casings. But by the eighteen nineties, many manufacturers were using paint to make their pencils more eye-catching. With an increasingly sophisticated eye to marketing, some of them also came up with a catchy name for their pencils to increase their distinctiveness, particularly so schoolchildren would develop a habit of always buying a particular brand. So how are modern pencils made today? In the manufacture of pencils, the wooden sheath and the graphite compound are made separately and then joined together with glue. First, the graphite is ground into a powder. However, if this is kept at its pure form, it would be difficult to use because it would be too soft. So next, the graphite is mixed with clay and shaped into long rods, which are then baked in ovens, resulting in a hard material which can be used for writing or drawing. The rods are called, mistakenly in fact, leads, because lead was once used for writing, but it proved much less suitable than graphite. Finally, the leads are immersed in wax to give them that smoothness needed for writing. The wood used to encase the graphite has to be chosen carefully. Cedar is the most popular timber. It is first seasoned and oven-dried to eliminate the oil in it. Wood blocks are cut by machines, and grooves are made in these for the insertion of leads. A top section, also with a groove, is fitted onto this, creating the familiar pencil. It's simple, elegant, and practical, a product designer's dream.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "pending",
+    "src": "",
+    "errorCode": "source_http_404",
+    "sourceUnavailable": true,
+    "sourceVerifiedAt": "2026-10-30T05:45:01Z"
+  },
+  "audioMissing": true,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786347973180_7d1j5q_ec4613ca.mp3"
+}

@@ -1,0 +1,306 @@
+{
+  "id": "cambridge-20-test-4-reading-3",
+  "title": "A new role for livestock guard dogs",
+  "titleCn": "A new role for livestock guard dogs",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 20,
+    "test": 4
+  },
+  "sourceQuestionId": "8561",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8561",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "A new role for livestock guard dogs"
+    },
+    {
+      "label": "2",
+      "text": "Livestock guard dogs, traditionally used to protect farm animals from predators, are now being used to protect the predators themselves"
+    },
+    {
+      "label": "3",
+      "text": "A For thousands of years, livestock guard dogs worked alongside shepherds to protect their sheep, goats and cattle from predators such as wolves and bears. But in the 19th and 20th centuries, when such predators were largely exterminated, most guard dogs lost their jobs. In recent years, however, as increased efforts have been made to protect wild animals, predators have become more widespread again. As a result, farmers once more need to protect their livestock, and guard dogs are enjoying an unexpected revival."
+    },
+    {
+      "label": "4",
+      "text": "B Today there are around 50 breeds of guard dogs on duty in various parts of the world. These dogs are raised from an early age with the animals they will be watching and eventually these animals become the dog’s family. The dogs will place themselves between the livestock and any threat, barking loudly. If necessary, they will chase away predators, but often their mere presence is sufficient. ‘Their initial training is to make them understand that livestock is going to be their life,’ says Dan Macon, a shepherd with three guard dogs. ‘A fluffy white puppy is fun to be around, but too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog.’"
+    },
+    {
+      "label": "5",
+      "text": "C The evidence indicates that guard dogs are highly effective. For example, in Portugal, biologist Silvia Ribeiro has found that more than 90 per cent of the farmers participating in a programme to train and use guard dogs to protect their herds against attack from wolves rate the performance of the dogs as very good or excellent. In a study carried out in Australia by Linda van Bommel and Chris Johnson at the University of Tasmania, more than 65 per cent of herders reported that predation stopped completely after they got the dogs, and almost all the rest saw a decrease in attacks. ‘If they are managed and used properly, livestock guard dogs are the most efficient control method that we have in terms of the amount of livestock that they save from predation,’ says van Bommel."
+    },
+    {
+      "label": "6",
+      "text": "D But today’s guard dogs also have a new role – to help preserve the predators. It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them. In Namibia, more than 90 per cent of cheetahs live outside protected areas, close to humans raising livestock. As a result, the cheetahs are often held responsible for animal losses, and large numbers have been killed by farmers. When guard dogs were introduced, more than 90 per cent of farmers reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators. Julie Young, at Utah State University in the US, believes this result applies widely. ‘There is common ground from the livestock perspective and from the conservation perspective,’ she says. ‘If ranchers don’t have a dead cow, they will not make a call to apply for a permit to kill a wolf.’"
+    },
+    {
+      "label": "7",
+      "text": "E Looking at all the published evidence, Bethany Smith at Nottingham Trent University in the UK found that up to 88 per cent of farmers said they no longer killed predators after using dogs – but warned that such self-reported results must be taken with a pinch of salt. What’s more, it is possible that livestock guard dogs merely displace predators to unprotected neighbouring properties, where their fate isn’t recorded. ‘In some regions, we work with almost every farmer, but in others only one or two have dogs,’ says Ribeiro. ‘If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd and he can use poison and kill an entire pack of wolves.’"
+    },
+    {
+      "label": "8",
+      "text": "F Another concern is whether there may be unintended ecological effects of using guard dogs. Studies suggest that reducing deaths of one type of predator may have a negative impact on other species. The extent of this problem isn’t known, but the consequences are clear in Namibia. Cheetahs aren’t the only species that cause sheep and goat losses there: other predators also attack livestock. In 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased. Guard dogs have other ecological impacts too. They have been found to spread diseases to wild animals, including endangered Ethiopian wolves. They may also compete with other carnivores for food. And by creating a ‘landscape of fear’, their mere presence can influence the behaviour of prey animals."
+    },
+    {
+      "label": "9",
+      "text": "G The evidence so far, however, indicates that these consequences aren’t always negative. Guard dogs can deliver unexpected benefits by protecting vulnerable wildlife from predators. For example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them. Indeed, Australian researchers are now using dogs to enhance biodiversity and create refuges for species threatened by predation. So if we can get this right, there may be a bright future for guard dogs in promoting harmonious coexistence between humans and wildlife."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 27–31\n\nReading Passage 3 has seven paragraphs, A–G.\n\nWhich paragraph contains the following information?\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "an example of how one predator has been protected by the introduction of livestock guard dogs",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8561_958612-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "an optimistic suggestion about the possible positive developments in the use of livestock guard dogs",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8561_958612-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "a description of how the methods used by livestock guard dogs help to keep predators away",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8561_958612-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "claims by different academics that the use of livestock guard dogs is a successful way of protecting farmers’ herds",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8561_958612-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "a reference to how livestock guard dogs gain their skills",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8561_958612-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 32–36\n\nLook at the following statements (Questions 32–36) and the list of people below.\n\nMatch each statement with the correct person, A–E.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "32. The use of guard dogs may save the lives of both livestock and wild animals.[32] ______",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8561_837030",
+          "explanation": "32. 译文：护卫犬的使用可能挽救牲畜和野生动物的生命。\n\n本题表达的观点出现在文章D段，这里主要描述了护卫犬的引用，对于predators好处，即能够减少猎杀predators的行为，在本段的后半部分，明确讲到了they were less likely to kill predators，随后出现了Julie Young的观点，即There is common ground from the livestock perspective and from the conservation perspective，以及If ranchers don’t have a dead cow, they will not make a call to apply for a permit to kill a wolf，这与题目中的观点是一致的。\n\n因此本题答案为D。\n\n33. 译文：有关使用牲畜护卫犬引发行为变化的说法可能并不完全准确。\n\n本题的观点出现在文中E段，开头Bethany Smith提到很多人说自己在using dogs之后不再killed predators，但随后通过转折指出，such self-reported results must be taken with a pinch of salt，也就是题目中的may not be totally accurate。\n\n因此本题答案为E。\n\n34. 译文：如果牲畜护卫犬没有被广泛使用，可能会产生负面影响。\n\n文章E段中，Ribeiro说道，在一些地区，只有很少的农户有guard dogs，并且说道，If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd，也就是说如果护卫犬的使用不是sufficiently widespread，很可能会引发negative results，这与题目中的观点一致。\n\n因此本题答案为B。\n\n35. 译文：如果使用得当，牲畜护卫犬会是保护农场动物的最佳方式。\n\n本题表达的观点出现在文章C段，其中第四句的If they are managed and used properly与题目中as long as the dogs are appropriately handled表述一致，文中the most efficient control method与题目中the best way表述一致。\n\n因此本题答案为C。\n\n36. 题干：Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.\n\n译文：训练牲畜护卫犬工作需要采用与训练家养看门犬不同的侧重点。\n\n本题的观点出现在原文B段第五句，句中Dan Macon说道，too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog，这二者之间存在a different focus，这与题目的表述一致。\n\n因此本题答案为A。",
+          "promptHtml": "32. The use of guard dogs may save the lives of both livestock and wild animals.[32] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "33. Claims of a change in behaviour from those using livestock guard dogs may not be totally accurate.[33] ______",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8561_542046",
+          "explanation": "32. 译文：护卫犬的使用可能挽救牲畜和野生动物的生命。\n\n本题表达的观点出现在文章D段，这里主要描述了护卫犬的引用，对于predators好处，即能够减少猎杀predators的行为，在本段的后半部分，明确讲到了they were less likely to kill predators，随后出现了Julie Young的观点，即There is common ground from the livestock perspective and from the conservation perspective，以及If ranchers don’t have a dead cow, they will not make a call to apply for a permit to kill a wolf，这与题目中的观点是一致的。\n\n因此本题答案为D。\n\n33. 译文：有关使用牲畜护卫犬引发行为变化的说法可能并不完全准确。\n\n本题的观点出现在文中E段，开头Bethany Smith提到很多人说自己在using dogs之后不再killed predators，但随后通过转折指出，such self-reported results must be taken with a pinch of salt，也就是题目中的may not be totally accurate。\n\n因此本题答案为E。\n\n34. 译文：如果牲畜护卫犬没有被广泛使用，可能会产生负面影响。\n\n文章E段中，Ribeiro说道，在一些地区，只有很少的农户有guard dogs，并且说道，If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd，也就是说如果护卫犬的使用不是sufficiently widespread，很可能会引发negative results，这与题目中的观点一致。\n\n因此本题答案为B。\n\n35. 译文：如果使用得当，牲畜护卫犬会是保护农场动物的最佳方式。\n\n本题表达的观点出现在文章C段，其中第四句的If they are managed and used properly与题目中as long as the dogs are appropriately handled表述一致，文中the most efficient control method与题目中the best way表述一致。\n\n因此本题答案为C。\n\n36. 题干：Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.\n\n译文：训练牲畜护卫犬工作需要采用与训练家养看门犬不同的侧重点。\n\n本题的观点出现在原文B段第五句，句中Dan Macon说道，too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog，这二者之间存在a different focus，这与题目的表述一致。\n\n因此本题答案为A。",
+          "promptHtml": "33. Claims of a change in behaviour from those using livestock guard dogs may not be totally accurate.[33] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "34. There may be negative results if the use of livestock guard dogs is not sufficiently widespread.[34] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8561_396620",
+          "explanation": "32. 译文：护卫犬的使用可能挽救牲畜和野生动物的生命。\n\n本题表达的观点出现在文章D段，这里主要描述了护卫犬的引用，对于predators好处，即能够减少猎杀predators的行为，在本段的后半部分，明确讲到了they were less likely to kill predators，随后出现了Julie Young的观点，即There is common ground from the livestock perspective and from the conservation perspective，以及If ranchers don’t have a dead cow, they will not make a call to apply for a permit to kill a wolf，这与题目中的观点是一致的。\n\n因此本题答案为D。\n\n33. 译文：有关使用牲畜护卫犬引发行为变化的说法可能并不完全准确。\n\n本题的观点出现在文中E段，开头Bethany Smith提到很多人说自己在using dogs之后不再killed predators，但随后通过转折指出，such self-reported results must be taken with a pinch of salt，也就是题目中的may not be totally accurate。\n\n因此本题答案为E。\n\n34. 译文：如果牲畜护卫犬没有被广泛使用，可能会产生负面影响。\n\n文章E段中，Ribeiro说道，在一些地区，只有很少的农户有guard dogs，并且说道，If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd，也就是说如果护卫犬的使用不是sufficiently widespread，很可能会引发negative results，这与题目中的观点一致。\n\n因此本题答案为B。\n\n35. 译文：如果使用得当，牲畜护卫犬会是保护农场动物的最佳方式。\n\n本题表达的观点出现在文章C段，其中第四句的If they are managed and used properly与题目中as long as the dogs are appropriately handled表述一致，文中the most efficient control method与题目中the best way表述一致。\n\n因此本题答案为C。\n\n36. 题干：Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.\n\n译文：训练牲畜护卫犬工作需要采用与训练家养看门犬不同的侧重点。\n\n本题的观点出现在原文B段第五句，句中Dan Macon说道，too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog，这二者之间存在a different focus，这与题目的表述一致。\n\n因此本题答案为A。",
+          "promptHtml": "34. There may be negative results if the use of livestock guard dogs is not sufficiently widespread.[34] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "35. Livestock guard dogs are the best way of protecting farm animals, as long as the dogs are appropriately handled.[35] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8561_749572",
+          "explanation": "32. 译文：护卫犬的使用可能挽救牲畜和野生动物的生命。\n\n本题表达的观点出现在文章D段，这里主要描述了护卫犬的引用，对于predators好处，即能够减少猎杀predators的行为，在本段的后半部分，明确讲到了they were less likely to kill predators，随后出现了Julie Young的观点，即There is common ground from the livestock perspective and from the conservation perspective，以及If ranchers don’t have a dead cow, they will not make a call to apply for a permit to kill a wolf，这与题目中的观点是一致的。\n\n因此本题答案为D。\n\n33. 译文：有关使用牲畜护卫犬引发行为变化的说法可能并不完全准确。\n\n本题的观点出现在文中E段，开头Bethany Smith提到很多人说自己在using dogs之后不再killed predators，但随后通过转折指出，such self-reported results must be taken with a pinch of salt，也就是题目中的may not be totally accurate。\n\n因此本题答案为E。\n\n34. 译文：如果牲畜护卫犬没有被广泛使用，可能会产生负面影响。\n\n文章E段中，Ribeiro说道，在一些地区，只有很少的农户有guard dogs，并且说道，If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd，也就是说如果护卫犬的使用不是sufficiently widespread，很可能会引发negative results，这与题目中的观点一致。\n\n因此本题答案为B。\n\n35. 译文：如果使用得当，牲畜护卫犬会是保护农场动物的最佳方式。\n\n本题表达的观点出现在文章C段，其中第四句的If they are managed and used properly与题目中as long as the dogs are appropriately handled表述一致，文中the most efficient control method与题目中the best way表述一致。\n\n因此本题答案为C。\n\n36. 题干：Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.\n\n译文：训练牲畜护卫犬工作需要采用与训练家养看门犬不同的侧重点。\n\n本题的观点出现在原文B段第五句，句中Dan Macon说道，too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog，这二者之间存在a different focus，这与题目的表述一致。\n\n因此本题答案为A。",
+          "promptHtml": "35. Livestock guard dogs are the best way of protecting farm animals, as long as the dogs are appropriately handled.[35] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "36. Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.[36] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8561_335250",
+          "explanation": "32. 译文：护卫犬的使用可能挽救牲畜和野生动物的生命。\n\n本题表达的观点出现在文章D段，这里主要描述了护卫犬的引用，对于predators好处，即能够减少猎杀predators的行为，在本段的后半部分，明确讲到了they were less likely to kill predators，随后出现了Julie Young的观点，即There is common ground from the livestock perspective and from the conservation perspective，以及If ranchers don’t have a dead cow, they will not make a call to apply for a permit to kill a wolf，这与题目中的观点是一致的。\n\n因此本题答案为D。\n\n33. 译文：有关使用牲畜护卫犬引发行为变化的说法可能并不完全准确。\n\n本题的观点出现在文中E段，开头Bethany Smith提到很多人说自己在using dogs之后不再killed predators，但随后通过转折指出，such self-reported results must be taken with a pinch of salt，也就是题目中的may not be totally accurate。\n\n因此本题答案为E。\n\n34. 译文：如果牲畜护卫犬没有被广泛使用，可能会产生负面影响。\n\n文章E段中，Ribeiro说道，在一些地区，只有很少的农户有guard dogs，并且说道，If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd，也就是说如果护卫犬的使用不是sufficiently widespread，很可能会引发negative results，这与题目中的观点一致。\n\n因此本题答案为B。\n\n35. 译文：如果使用得当，牲畜护卫犬会是保护农场动物的最佳方式。\n\n本题表达的观点出现在文章C段，其中第四句的If they are managed and used properly与题目中as long as the dogs are appropriately handled表述一致，文中the most efficient control method与题目中the best way表述一致。\n\n因此本题答案为C。\n\n36. 题干：Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.\n\n译文：训练牲畜护卫犬工作需要采用与训练家养看门犬不同的侧重点。\n\n本题的观点出现在原文B段第五句，句中Dan Macon说道，too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog，这二者之间存在a different focus，这与题目的表述一致。\n\n因此本题答案为A。",
+          "promptHtml": "36. Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.[36] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Dan Macon"
+        },
+        {
+          "value": "B",
+          "text": "Silvia Ribeiro"
+        },
+        {
+          "value": "C",
+          "text": "Linda van Bommel"
+        },
+        {
+          "value": "D",
+          "text": "Julie Young"
+        },
+        {
+          "value": "E",
+          "text": "Bethany Smith"
+        }
+      ],
+      "contextHtml": "<p>32. The use of guard dogs may save the lives of both livestock and wild animals.<strong>[32] ______</strong> </p>\n\n<p>33. Claims of a change in behaviour from those using livestock guard dogs may not be totally accurate.<strong>[33] ______</strong> </p>\n\n<p>34. There may be negative results if the use of livestock guard dogs is not sufficiently widespread.<strong>[34] ______</strong> </p>\n\n<p>35. Livestock guard dogs are the best way of protecting farm animals, as long as the dogs are appropriately handled.<strong>[35] ______</strong> </p>\n\n<p>36. Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.<strong>[36] ______</strong> </p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 37–40\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Answer for gap 37.",
+          "answers": [
+            "jackals"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8561_962576",
+          "explanation": "37. F段第五句：\n\nIn 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased.\n\n本题问的是牲畜护卫犬保护动物免于attacks by cheetahs，但是导致了a rise in the deaths of other predators，尤其是什么，这与文中F段第五句的内容一致，这里说道，the number of jackals killed by dogs and people actually increased。\n\n因此本题答案为jackals。\n\n38. F段第七句：\n\nThey have been found to spread diseases to wild animals, including endangered Ethiopian wolves.\n\n本题延续着上一题内容进行描述，考查的是犬类会有什么问题影响其他物种，从F段第七句中可以看到，They have been found to spread diseases to wild animals，因此这里的spread diseases对应题目中的内容。\n\n因此本题答案为diseases。\n\n39. F段第八句：\n\nThey may also compete with other carnivores for food.\n\n本题考察的是guard dogs会减少什么，从文中F段第八句可以看到，They may also compete with other carnivores for food，因此这里可以确定它们会同其他动物争夺食物。\n\n因此本题答案为food。\n\n40. G段第三句：\n\nFor example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them.\n\n本题考查guard dogs帮助鸟类保护nests，以免被哪些predators破坏，文中G段第三句说道，where foxes would normally raid them，因此这样可以免受狐狸的威胁。\n\n因此本题答案为foxes。",
+          "promptHtml": "Answer for gap 37."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Answer for gap 38.",
+          "answers": [
+            "diseases"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8561_726109",
+          "explanation": "37. F段第五句：\n\nIn 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased.\n\n本题问的是牲畜护卫犬保护动物免于attacks by cheetahs，但是导致了a rise in the deaths of other predators，尤其是什么，这与文中F段第五句的内容一致，这里说道，the number of jackals killed by dogs and people actually increased。\n\n因此本题答案为jackals。\n\n38. F段第七句：\n\nThey have been found to spread diseases to wild animals, including endangered Ethiopian wolves.\n\n本题延续着上一题内容进行描述，考查的是犬类会有什么问题影响其他物种，从F段第七句中可以看到，They have been found to spread diseases to wild animals，因此这里的spread diseases对应题目中的内容。\n\n因此本题答案为diseases。\n\n39. F段第八句：\n\nThey may also compete with other carnivores for food.\n\n本题考察的是guard dogs会减少什么，从文中F段第八句可以看到，They may also compete with other carnivores for food，因此这里可以确定它们会同其他动物争夺食物。\n\n因此本题答案为food。\n\n40. G段第三句：\n\nFor example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them.\n\n本题考查guard dogs帮助鸟类保护nests，以免被哪些predators破坏，文中G段第三句说道，where foxes would normally raid them，因此这样可以免受狐狸的威胁。\n\n因此本题答案为foxes。",
+          "promptHtml": "Answer for gap 38."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Answer for gap 39.",
+          "answers": [
+            "food"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8561_703693",
+          "explanation": "37. F段第五句：\n\nIn 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased.\n\n本题问的是牲畜护卫犬保护动物免于attacks by cheetahs，但是导致了a rise in the deaths of other predators，尤其是什么，这与文中F段第五句的内容一致，这里说道，the number of jackals killed by dogs and people actually increased。\n\n因此本题答案为jackals。\n\n38. F段第七句：\n\nThey have been found to spread diseases to wild animals, including endangered Ethiopian wolves.\n\n本题延续着上一题内容进行描述，考查的是犬类会有什么问题影响其他物种，从F段第七句中可以看到，They have been found to spread diseases to wild animals，因此这里的spread diseases对应题目中的内容。\n\n因此本题答案为diseases。\n\n39. F段第八句：\n\nThey may also compete with other carnivores for food.\n\n本题考察的是guard dogs会减少什么，从文中F段第八句可以看到，They may also compete with other carnivores for food，因此这里可以确定它们会同其他动物争夺食物。\n\n因此本题答案为food。\n\n40. G段第三句：\n\nFor example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them.\n\n本题考查guard dogs帮助鸟类保护nests，以免被哪些predators破坏，文中G段第三句说道，where foxes would normally raid them，因此这样可以免受狐狸的威胁。\n\n因此本题答案为foxes。",
+          "promptHtml": "Answer for gap 39."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "On the other hand, these dogs may help birds by protecting their nests. These might otherwise be threatened by predators such as [40] ______.",
+          "answers": [
+            "foxes"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8561_794068",
+          "explanation": "37. F段第五句：\n\nIn 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased.\n\n本题问的是牲畜护卫犬保护动物免于attacks by cheetahs，但是导致了a rise in the deaths of other predators，尤其是什么，这与文中F段第五句的内容一致，这里说道，the number of jackals killed by dogs and people actually increased。\n\n因此本题答案为jackals。\n\n38. F段第七句：\n\nThey have been found to spread diseases to wild animals, including endangered Ethiopian wolves.\n\n本题延续着上一题内容进行描述，考查的是犬类会有什么问题影响其他物种，从F段第七句中可以看到，They have been found to spread diseases to wild animals，因此这里的spread diseases对应题目中的内容。\n\n因此本题答案为diseases。\n\n39. F段第八句：\n\nThey may also compete with other carnivores for food.\n\n本题考察的是guard dogs会减少什么，从文中F段第八句可以看到，They may also compete with other carnivores for food，因此这里可以确定它们会同其他动物争夺食物。\n\n因此本题答案为food。\n\n40. G段第三句：\n\nFor example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them.\n\n本题考查guard dogs帮助鸟类保护nests，以免被哪些predators破坏，文中G段第三句说道，where foxes would normally raid them，因此这样可以免受狐狸的威胁。\n\n因此本题答案为foxes。",
+          "promptHtml": "On the other hand, these dogs may help birds by protecting their nests. These might otherwise be threatened by predators such as [40] ______."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><strong>Unintended ecological effects of using guard dogs</strong></p>\n\n<p>In Namibia, livestock guard dogs have been used to protect domestic animals from attacks by cheetahs. This has led to a rise in the deaths of other predators, particularly <strong>[37] ______</strong>. In addition, it has been suggested that the dogs could have <strong>[38] ______</strong>which may affect other species, and that they may reduce the amount of <strong>[39] ______</strong>available to certain wild animals.</p>\n\n<p>On the other hand, these dogs may help birds by protecting their nests. These might otherwise be threatened by predators such as <strong>[40] ______</strong>.</p>\n\n<p> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><b>A new role for livestock guard dogs</b></span></p><p><em>Livestock guard dogs, traditionally used to protect farm animals from predators, are now being used to protect the predators themselves</em></p><p><strong>A     </strong>     For thousands of years, livestock guard dogs worked alongside shepherds to protect their sheep, goats and cattle from predators such as wolves and bears. But in the 19th and 20th centuries, when such predators were largely exterminated, most guard dogs lost their jobs. In recent years, however, as increased efforts have been made to protect wild animals, predators have become more widespread again. As a result, farmers once more need to protect their livestock, and guard dogs are enjoying an unexpected revival.</p><p><strong>B  </strong>        Today there are around 50 breeds of guard dogs on duty in various parts of the world. These dogs are raised from an early age with the animals they will be watching and eventually these animals become the dog’s family. The dogs will place themselves between the livestock and any threat, barking loudly. If necessary, they will chase away predators, but often their mere presence is sufficient. ‘Their initial training is to make them understand that livestock is going to be their life,’ says Dan Macon, a shepherd with three guard dogs. ‘A fluffy white puppy is fun to be around, but too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog.’</p><p><strong>C  </strong>        The evidence indicates that guard dogs are highly effective. For example, in Portugal, biologist Silvia Ribeiro has found that more than 90 per cent of the farmers participating in a programme to train and use guard dogs to protect their herds against attack from wolves rate the performance of the dogs as very good or excellent. In a study carried out in Australia by Linda van Bommel and Chris Johnson at the University of Tasmania, more than 65 per cent of herders reported that predation stopped completely after they got the dogs, and almost all the rest saw a decrease in attacks. ‘If they are managed and used properly, livestock guard dogs are the most efficient control method that we have in terms of the amount of livestock that they save from predation,’ says van Bommel.</p><p><strong>D </strong>        But today’s guard dogs also have a new role – to help preserve the predators. It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them. In Namibia, more than 90 per cent of cheetahs live outside protected areas, close to humans raising livestock. As a result, the cheetahs are often held responsible for animal losses, and large numbers have been killed by farmers. When guard dogs were introduced, more than 90 per cent of farmers reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators. Julie Young, at Utah State University in the US, believes this result applies widely. ‘There is common ground from the livestock perspective and from the conservation perspective,’ she says. ‘If ranchers don’t have a dead cow, they will not make a call to apply for a permit to kill a wolf.’</p><p><strong>E </strong>         Looking at all the published evidence, Bethany Smith at Nottingham Trent University in the UK found that up to 88 per cent of farmers said they no longer killed predators after using dogs – but warned that such self-reported results must be taken with a pinch of salt. What’s more, it is possible that livestock guard dogs merely displace predators to unprotected neighbouring properties, where their fate isn’t recorded. ‘In some regions, we work with almost every farmer, but in others only one or two have dogs,’ says Ribeiro. ‘If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd and he can use poison and kill an entire pack of wolves.’</p><p><strong>F </strong>         Another concern is whether there may be unintended ecological effects of using guard dogs. Studies suggest that reducing deaths of one type of predator may have a negative impact on other species. The extent of this problem isn’t known, but the consequences are clear in Namibia. Cheetahs aren’t the only species that cause sheep and goat losses there: other predators also attack livestock. In 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased. Guard dogs have other ecological impacts too. They have been found to spread diseases to wild animals, including endangered Ethiopian wolves. They may also compete with other carnivores for food. And by creating a ‘landscape of fear’, their mere presence can influence the behaviour of prey animals.</p><p><strong>G  </strong>       The evidence so far, however, indicates that these consequences aren’t always negative. Guard dogs can deliver unexpected benefits by protecting vulnerable wildlife from predators. For example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them. Indeed, Australian researchers are now using dogs to enhance biodiversity and create refuges for species threatened by predation. So if we can get this right, there may be a bright future for guard dogs in promoting harmonious coexistence between humans and wildlife.</p>"
+}

@@ -1,0 +1,274 @@
+{
+  "id": "cambridge-15-test-1-listening-2",
+  "title": "Matthews Island Holidays",
+  "titleCn": "Matthews Island Holidays",
+  "subject": "listening",
+  "part": 2,
+  "duration": 417,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 15,
+    "test": 1
+  },
+  "sourceQuestionId": "7876",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/7876",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Good morning, my name is Erica Matthews and I’m the owner of Matthews Island Holidays, a company set up by my parents. Thank you for coming to this presentation, in which I hope to interest you in what we have to offer. We’re a small family-run company, and we believe in the importance of the personal touch, so we don’t aim to compete with other companies on the number of customers. What we do is build on our many years’ experience more than almost any other rail holiday company to ensure we provide perfect holidays and a small number of destinations which we’ve got to know extremely well."
+    },
+    {
+      "label": "2",
+      "text": "I’ll start with our 6-day Isle of Man holiday. This is a fascinating island in the Irish sea, with Wales to the south, England to the east, Scotland to the north, and Northern Ireland to the west. Our holiday starts in Hashim, where your tour manager will meet you, then you’ll travel by ferry to the Isle of Man.Some people prefer to fly from Luton instead and another popular option is to go by train to Liverpool and take a ferry from there. You have 5 nights in the hotel and the price covers 5 breakfast and dinners and lunch on the 3 days when there are organized trips. Day 4 is free and most people have lunch in a cafe or restaurant in Douglas. The price of the holiday includes the ferry to the Isle of Man, all travel on the island, the hotel and the meals I’ve mentioned."
+    },
+    {
+      "label": "3",
+      "text": "Incidentally, we tried to make booking our holidays as simple and fair as possible. So, unlike with many companies, the price is the same whether you book six months in advance or at the last minute. And there’s no supplement for single rooms in hotels. If you make a booking, then need to change the start date, for example because of illness. You’re welcome to change to an alternative date to a different tool for a small administrative fee."
+    },
+    {
+      "label": "4",
+      "text": "Okay, so what does the holiday consist of?"
+    },
+    {
+      "label": "5",
+      "text": "Well on Day 1, you’ll arrive in time for a short introduction by your tour manager, followed by dinner in the hotel. The dining room looks out at the river close to where it flows into the harbour, and there’s usually plenty of activity going on."
+    },
+    {
+      "label": "6",
+      "text": "On Day 2, you’ll take the coach to the small town of peel, on the way calling in at the Tynwald Exhibition. The Isle of Man isn’t part of the United Kingdom, and it has its own parliament called Tynwald. It’s claimed that this is the world’s oldest parliament that still functioning and that it dates back to 979. However, the earliest surviving reference to it is from 1422. So perhaps it isn’t quite as old as it claims."
+    },
+    {
+      "label": "7",
+      "text": "Day 3, we have a trip to the Mountain Snaefell. This begins with a leisurely ride along the promenade in Douglas in a horse-drawn tram. Then you bought an electric train which takes you to the fishing village of Laxey. From there it’s an 8km ride in the Snaefell Mountain railway to the top. Lunch will be in a cafe giving you spectacular views of the island."
+    },
+    {
+      "label": "8",
+      "text": "Day 4 is free for you to explore, using the pass which will give you, so you won’t have to pay for travel on local transport or for entrance to the island’s heritage sites. Or you might just want to take it easy in Douglas and perhaps do a little light shopping."
+    },
+    {
+      "label": "9",
+      "text": "The last full day, Day 5 is for some people. The highlight of the holiday with a ride on the steam railway from Douglas to port Erin. After some time to explore, a coach will take you to the headland that overlooks the Calf of Man, a small island just off the coast. From there, you continue to castle town which used to be the capital of the Isle of Man and its medieval castle."
+    },
+    {
+      "label": "10",
+      "text": "And on Day 6, it’s back to the ferry or the airport if you flew to the island and time to go home. Now I’d like to tell you a bit more..."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 11–14\n\nChoose the correct letter, A, B or C.\n\nMatthews Island Holidays",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "According to the speaker, the company",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7876_432614",
+          "options": [
+            {
+              "value": "A",
+              "text": "has been in business for longer than most of its competitors."
+            },
+            {
+              "value": "B",
+              "text": "arranges holidays to more destinations than its competitors."
+            },
+            {
+              "value": "C",
+              "text": "has more customers than its competitors."
+            }
+          ],
+          "explanation": "11. 首先区分选项差别划出定位词，A longer than、B more destinations、C more customers；原文中 so we don't aim to compete with other companies on the number of customers.可排除 C 选项，What we do is to build our many years of experience, more than almost any other holiday companies to ensure we provide perfect holidays. 是选项 A 的同义替换。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Where can customers meet the tour manager before travelling to the Isle of Man?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7876_114185",
+          "options": [
+            {
+              "value": "A",
+              "text": "Liverpool"
+            },
+            {
+              "value": "B",
+              "text": "Heysham"
+            },
+            {
+              "value": "C",
+              "text": "Luton"
+            }
+          ],
+          "explanation": "12. 题干定位词 customers、tour manager、before、Isle of Man；speaker 首先提到了 B 选项，our holiday starts in Heysham, 听到的时候可以在旁边标记一下，where your tour manager will meet you. Then, you will travel by ferry to the Isle of Man.可知 B 满足题干要求，为正确选项 。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "How many lunches are included in the price of the holiday?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7876_601378",
+          "options": [
+            {
+              "value": "A",
+              "text": "three"
+            },
+            {
+              "value": "B",
+              "text": "four"
+            },
+            {
+              "value": "C",
+              "text": "five"
+            }
+          ],
+          "explanation": "13. 题干定位 lunch、included，根据原文 and the price covers five breakfasts and dinners, and lunches on the three days when there are organized trips 可以得出A。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Customers have to pay extra for",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q7876_298730",
+          "options": [
+            {
+              "value": "A",
+              "text": "guaranteeing themselves a larger room."
+            },
+            {
+              "value": "B",
+              "text": "booking at short notice."
+            },
+            {
+              "value": "C",
+              "text": "transferring to another date."
+            }
+          ],
+          "explanation": "14. 题干定位 pay extra，选项定位 A a larger room、 B book short、 C transferring date；根据原文 You are welcomed to change to an alternative day to a different tour for a small administrative fee. 可知 C 为正确选项，fee 是题干 pay extra 的同义替换。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 15–20\n\nComplete the table below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.\n\nTimetable for Isle of Man holiday",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Hotel dining room has view of the [15] ______",
+          "answers": [
+            "river"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q7876_424289",
+          "explanation": "15. 根据原文 dining room 可定位到 look south to the river, close to where it flows into the harbour.可知答案为 river。\n\n16. 根据 Tynwald 这个专有名词可以定位到原文 It dates back to 979. However, the earliest surviving reference to it is 1422.\n\n17. 根据 Laxey and Snaefell 这个地名可以定位到答案点，It’s an 8-kilometer ride in a Snaefell mountain railway to the top.\n\n18. 根据 Day 4 定位到原文，Day 4 is free for you to explore using the pass,which we will give you. So, you won’t have to pay for travel on local transport…\n\n19. 根据 Day 5 可定位到原文 with the ride on a steam railway from Douglas to Port Erin.\n\n20. 根据题干中的 Castletown 可定位到下一题答案，which used to be the capital of the Isle of Man…根据 Day 6 可知答案已出现，就是前面提到的capital。",
+          "promptHtml": "Hotel dining room has view of the [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Tynwald Exhibition and Peel Tynwald may have been founded in [16] ______ not 979.",
+          "answers": [
+            "1422"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q7876_302262",
+          "explanation": "15. 根据原文 dining room 可定位到 look south to the river, close to where it flows into the harbour.可知答案为 river。\n\n16. 根据 Tynwald 这个专有名词可以定位到原文 It dates back to 979. However, the earliest surviving reference to it is 1422.\n\n17. 根据 Laxey and Snaefell 这个地名可以定位到答案点，It’s an 8-kilometer ride in a Snaefell mountain railway to the top.\n\n18. 根据 Day 4 定位到原文，Day 4 is free for you to explore using the pass,which we will give you. So, you won’t have to pay for travel on local transport…\n\n19. 根据 Day 5 可定位到原文 with the ride on a steam railway from Douglas to Port Erin.\n\n20. 根据题干中的 Castletown 可定位到下一题答案，which used to be the capital of the Isle of Man…根据 Day 6 可知答案已出现，就是前面提到的capital。",
+          "promptHtml": "Tynwald Exhibition and Peel Tynwald may have been founded in [16] ______ not 979."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Travel along promenade in a tram; train to Laxey; train to the [17] ______ of Snaefell",
+          "answers": [
+            "top"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q7876_248486",
+          "explanation": "15. 根据原文 dining room 可定位到 look south to the river, close to where it flows into the harbour.可知答案为 river。\n\n16. 根据 Tynwald 这个专有名词可以定位到原文 It dates back to 979. However, the earliest surviving reference to it is 1422.\n\n17. 根据 Laxey and Snaefell 这个地名可以定位到答案点，It’s an 8-kilometer ride in a Snaefell mountain railway to the top.\n\n18. 根据 Day 4 定位到原文，Day 4 is free for you to explore using the pass,which we will give you. So, you won’t have to pay for travel on local transport…\n\n19. 根据 Day 5 可定位到原文 with the ride on a steam railway from Douglas to Port Erin.\n\n20. 根据题干中的 Castletown 可定位到下一题答案，which used to be the capital of the Isle of Man…根据 Day 6 可知答案已出现，就是前面提到的capital。",
+          "promptHtml": "Travel along promenade in a tram; train to Laxey; train to the [17] ______ of Snaefell"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Company provides a [18] ______ for local transport and heritage sites.",
+          "answers": [
+            "pass"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q7876_619297",
+          "explanation": "15. 根据原文 dining room 可定位到 look south to the river, close to where it flows into the harbour.可知答案为 river。\n\n16. 根据 Tynwald 这个专有名词可以定位到原文 It dates back to 979. However, the earliest surviving reference to it is 1422.\n\n17. 根据 Laxey and Snaefell 这个地名可以定位到答案点，It’s an 8-kilometer ride in a Snaefell mountain railway to the top.\n\n18. 根据 Day 4 定位到原文，Day 4 is free for you to explore using the pass,which we will give you. So, you won’t have to pay for travel on local transport…\n\n19. 根据 Day 5 可定位到原文 with the ride on a steam railway from Douglas to Port Erin.\n\n20. 根据题干中的 Castletown 可定位到下一题答案，which used to be the capital of the Isle of Man…根据 Day 6 可知答案已出现，就是前面提到的capital。",
+          "promptHtml": "Company provides a [18] ______ for local transport and heritage sites."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Take the [19] ______railway train from Douglas to Port Erin",
+          "answers": [
+            "steam"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q7876_271457",
+          "explanation": "15. 根据原文 dining room 可定位到 look south to the river, close to where it flows into the harbour.可知答案为 river。\n\n16. 根据 Tynwald 这个专有名词可以定位到原文 It dates back to 979. However, the earliest surviving reference to it is 1422.\n\n17. 根据 Laxey and Snaefell 这个地名可以定位到答案点，It’s an 8-kilometer ride in a Snaefell mountain railway to the top.\n\n18. 根据 Day 4 定位到原文，Day 4 is free for you to explore using the pass,which we will give you. So, you won’t have to pay for travel on local transport…\n\n19. 根据 Day 5 可定位到原文 with the ride on a steam railway from Douglas to Port Erin.\n\n20. 根据题干中的 Castletown 可定位到下一题答案，which used to be the capital of the Isle of Man…根据 Day 6 可知答案已出现，就是前面提到的capital。",
+          "promptHtml": "Take the [19] ______railway train from Douglas to Port Erin"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Free time, then coach to Castletown – former [20] ______ has old castle.",
+          "answers": [
+            "capital"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q7876_739398",
+          "explanation": "15. 根据原文 dining room 可定位到 look south to the river, close to where it flows into the harbour.可知答案为 river。\n\n16. 根据 Tynwald 这个专有名词可以定位到原文 It dates back to 979. However, the earliest surviving reference to it is 1422.\n\n17. 根据 Laxey and Snaefell 这个地名可以定位到答案点，It’s an 8-kilometer ride in a Snaefell mountain railway to the top.\n\n18. 根据 Day 4 定位到原文，Day 4 is free for you to explore using the pass,which we will give you. So, you won’t have to pay for travel on local transport…\n\n19. 根据 Day 5 可定位到原文 with the ride on a steam railway from Douglas to Port Erin.\n\n20. 根据题干中的 Castletown 可定位到下一题答案，which used to be the capital of the Isle of Man…根据 Day 6 可知答案已出现，就是前面提到的capital。",
+          "promptHtml": "Free time, then coach to Castletown – former [20] ______ has old castle."
+        }
+      ],
+      "sourceType": "text",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<thead>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td> </td>\n\t\t\t<td><strong><span>Activity</span></strong></td>\n\t\t\t<td><strong><span>Notes</span></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span><span>Day 1</span></span></td>\n\t\t\t<td><span><span>Arrive</span></span></td>\n\t\t\t<td>\n\t\t\t<p><span><span>Introduction by manager</span></span></p>\n\n\t\t\t<p><span><span>Hotel dining room has view of the  </span></span><strong>[15] ______</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span><span>Day 2</span></span></td>\n\t\t\t<td><span><span>Tynwald Exhibition and Peel</span></span></td>\n\t\t\t<td><span><span>    Tynwald Exhibition and Peel    Tynwald may have been founded in  </span></span><strong>[16] ______</strong><span><span> not 979.</span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span><span>Day 3</span></span></td>\n\t\t\t<td><span><span>Trip to Snaefell</span></span></td>\n\t\t\t<td><span><span>    Travel along promenade in a tram; train to Laxey; train to the  </span></span><strong>[17] ______</strong><span><span> of Snaefell</span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span><span>Day 4</span></span></td>\n\t\t\t<td><span><span>Free day</span></span></td>\n\t\t\t<td><span><span>    Company provides a  </span></span><strong>[18] ______</strong><span><span> for local transport and heritage sites.</span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span><span>Day 5</span></span></td>\n\t\t\t<td><span><span>Take the  </span></span><strong>[19] ______</strong><span><span>railway train from Douglas to Port Erin</span></span></td>\n\t\t\t<td><span><span>    Free time, then coach to Castletown – former  </span></span><strong>[20] ______</strong><span><span> has old castle.</span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span><span>Day 6</span></span></td>\n\t\t\t<td><span><span>Leave</span></span></td>\n\t\t\t<td><span><span>    </span>Leave the island by ferry or plane</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span><span>Good morning, my name is Erica Matthews and I’m the owner of Matthews Island Holidays, a company set up by my parents. Thank you for coming to this presentation, in which I hope to interest you in what we have to offer. We’re a small family-run company, and we believe in the importance of the personal touch, so we don’t aim to compete with other companies on the number of customers. What we do is build on our many years’ experience more than almost any other rail holiday company to ensure we provide perfect holidays and a small number of destinations which we’ve got to know extremely well. </span><br>\n<span>I’ll start with our 6-day Isle of Man holiday. This is a fascinating island in the Irish sea, with Wales to the south, England to the east, Scotland to the north, and Northern Ireland to the west. Our holiday starts in Hashim, where your tour manager will meet you, then you’ll travel by ferry to the Isle of Man.Some people prefer to fly from Luton instead and another popular option is to go by train to Liverpool and take a ferry from there. You have 5 nights in the hotel and the price covers 5 breakfast and dinners and lunch on the 3 days when there are organized trips.  Day 4 is free and most people have lunch in a cafe or restaurant in Douglas. The price of the holiday includes the ferry to the Isle of Man, all travel on the island, the hotel and the meals I’ve mentioned.</span><br>\n<span>Incidentally, we tried to make booking our holidays as simple and fair as possible. So, unlike with many companies, the price is the same whether you book six months in advance or at the last minute. And there’s no supplement for single rooms in hotels. If you make a booking, then need to change the start date, for example because of illness. You’re welcome to change to an alternative date to a different tool for a small administrative fee.  </span></span></p>\n\n<p><span><span>Okay, so what does the holiday consist of? <br>\nWell on Day 1, you’ll arrive in time for a short introduction by your tour manager, followed by dinner in the hotel. The dining room looks out at the river close to where it flows into the harbour, and there’s usually plenty of activity going on. </span><br>\n<span>On Day 2, you’ll take the coach to the small town of peel, on the way calling in at the Tynwald Exhibition. The Isle of Man isn’t part of the United Kingdom, and it has its own parliament called Tynwald. It’s claimed that this is the world’s oldest parliament that still functioning and that it dates back to 979. However, the earliest surviving reference to it is from 1422. So perhaps it isn’t quite as old as it claims. </span><br>\n<span>Day 3, we have a trip to the Mountain Snaefell. This begins with a leisurely ride along the promenade in Douglas in a horse-drawn tram. Then you bought an electric train which takes you to the fishing village of Laxey. From there it’s an 8km ride in the Snaefell Mountain railway to the top.  Lunch will be in a cafe giving you spectacular views of the island. </span><br>\n<span>Day 4 is free for you to explore, using the pass which will give you, so you won’t have to pay for travel on local transport or for entrance to the island’s heritage sites.  Or you might just want to take it easy in Douglas and perhaps do a little light shopping. </span><br>\n<span>The last full day, Day 5 is for some people. The highlight of the holiday with a ride on the steam railway from Douglas to port Erin.  After some time to explore, a coach will take you to the headland that overlooks the Calf of Man, a small island just off the coast. From there, you continue to castle town which used to be the capital of the Isle of Man and its medieval castle.</span><br>\n<span>And on Day 6, it’s back to the ferry or the airport if you flew to the island and time to go home. Now I’d like to tell you a bit more... </span></span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/7876.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 417.339
+  }
+}

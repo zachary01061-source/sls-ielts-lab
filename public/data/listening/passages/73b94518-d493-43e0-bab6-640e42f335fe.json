@@ -1,0 +1,401 @@
+{
+  "id": "73b94518-d493-43e0-bab6-640e42f335fe",
+  "title": "Weekend yoga course information（机经听写）",
+  "titleCn": "周末瑜伽课程咨询与报名信息",
+  "part": 1,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/73b94518-d493-43e0-bab6-640e42f335fe",
+  "duration": 266,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,880"
+    },
+    {
+      "label": "2",
+      "text": "Yoga classes. Can you give me some information about it?"
+    },
+    {
+      "label": "3",
+      "text": "00:00:04,160"
+    },
+    {
+      "label": "4",
+      "text": "Hello. Sure thing. Our current course will end on June twentieth, and the coach will need to take a break. The new course will then start on 27th June."
+    },
+    {
+      "label": "5",
+      "text": "00:00:14,940"
+    },
+    {
+      "label": "6",
+      "text": "That sounds great. Where are the classes held?"
+    },
+    {
+      "label": "7",
+      "text": "00:00:18,200"
+    },
+    {
+      "label": "8",
+      "text": "The course will be delivered at a hotel in Swavesey. Let me spell it. S-W-A-V-E-S-E-Y. We choose this venue because it has enough open floor space for students to comfortably move and practice yoga poses without feeling cramped."
+    },
+    {
+      "label": "9",
+      "text": "00:00:35,860"
+    },
+    {
+      "label": "10",
+      "text": "What level is the course for? I'm a beginner, so I don't want to be too advanced."
+    },
+    {
+      "label": "11",
+      "text": "00:00:41,160"
+    },
+    {
+      "label": "12",
+      "text": "The course is for intermediate-level students. Unfortunately, beginners courses and advanced classes are not available at the moment as coaches are taking an annual leave."
+    },
+    {
+      "label": "13",
+      "text": "00:00:52,280"
+    },
+    {
+      "label": "14",
+      "text": "Okay. Thank you. How much does it cost?"
+    },
+    {
+      "label": "15",
+      "text": "00:00:55,460"
+    },
+    {
+      "label": "16",
+      "text": "The course charge is 285 pounds, which is really competitive. Many course providers usually charge three hundred and twenty pounds to three hundred and fifty pounds."
+    },
+    {
+      "label": "17",
+      "text": "00:01:06,840"
+    },
+    {
+      "label": "18",
+      "text": "That's a great price. Is there anything else I need to know about the classes?"
+    },
+    {
+      "label": "19",
+      "text": "00:01:12,120"
+    },
+    {
+      "label": "20",
+      "text": "Morning training lasts for two hours, and students will train under the supervision of the coach. Training is intensive, and the last half hour is used for relaxation."
+    },
+    {
+      "label": "21",
+      "text": "00:01:22,740"
+    },
+    {
+      "label": "22",
+      "text": "Do you provide meals?"
+    },
+    {
+      "label": "23",
+      "text": "00:01:24,520"
+    },
+    {
+      "label": "24",
+      "text": "Yes. Lunch is covered in the course fee, but we only provide a variety of vegetarian food. It is conducive to practice."
+    },
+    {
+      "label": "25",
+      "text": "00:01:33,540"
+    },
+    {
+      "label": "26",
+      "text": "What else do students do during the day?"
+    },
+    {
+      "label": "27",
+      "text": "00:01:36,080"
+    },
+    {
+      "label": "28",
+      "text": "Students will take part in some other activities in the afternoon, including walking and swimming. Engaging in these activities can help to improve heart health, lower blood pressure, and reduce the risk of chronic diseases like diabetes and cardiovascular disease."
+    },
+    {
+      "label": "29",
+      "text": "00:01:52,900"
+    },
+    {
+      "label": "30",
+      "text": "Can we do anything else?"
+    },
+    {
+      "label": "31",
+      "text": "00:01:54,580"
+    },
+    {
+      "label": "32",
+      "text": "Yes. You can also try horse riding, but you need to book in advance because spots are limited."
+    },
+    {
+      "label": "33",
+      "text": "00:02:00,520"
+    },
+    {
+      "label": "34",
+      "text": "And is there anything else available?"
+    },
+    {
+      "label": "35",
+      "text": "00:02:02,700"
+    },
+    {
+      "label": "36",
+      "text": "Students can also play tennis, which is free of charge, but they have to bring the racket themselves."
+    },
+    {
+      "label": "37",
+      "text": "00:02:08,900"
+    },
+    {
+      "label": "38",
+      "text": "One last question. Is the yoga class held inside the club?"
+    },
+    {
+      "label": "39",
+      "text": "00:02:12,880"
+    },
+    {
+      "label": "40",
+      "text": "No, the yoga class is held outside the club. Practicing yoga in an outdoor setting can help students to connect with nature and feel more grounded and centered."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 1-10**\nComplete the notes below.\nWrite **NO MORE THAN TWO WORDS AND OR/A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "1",
+          "sourceQuestionId": "d09827ac-82d6-4b2e-b544-798feeeb6c99",
+          "prompt": "**Weekend Yoga Course Information**\n\n**Course starting date**: **1**_____",
+          "answers": [
+            "27th June"
+          ],
+          "rawAnswer": "27th June",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The new course will then start on 27th June"
+          },
+          "maxWords": 2,
+          "sourceSlot": 1,
+          "sourceSlotNumber": "1"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "2",
+          "sourceQuestionId": "6a405e20-1a9b-4702-90ac-0479ec9ddc11",
+          "prompt": "**Address of the hotel**: in **2**_____",
+          "answers": [
+            "Swavesey"
+          ],
+          "rawAnswer": "Swavesey",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The course will be delivered at a hotel in Swavesey"
+          },
+          "keywordPairs": [
+            {
+              "question": "address",
+              "article": "location"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 2,
+          "sourceSlotNumber": "2"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "3",
+          "sourceQuestionId": "731e0fee-acfe-4b22-9444-15a9c2ab34e1",
+          "prompt": "**Level of course**: **3**_____",
+          "answers": [
+            "intermediate"
+          ],
+          "rawAnswer": "intermediate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The course is for intermediate-level students"
+          },
+          "maxWords": 2,
+          "sourceSlot": 3,
+          "sourceSlotNumber": "3"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "4",
+          "sourceQuestionId": "d1b2fb43-1e99-47f7-a5f2-ac1228bacb47",
+          "prompt": "**Total to pay**:£ **4**_____",
+          "answers": [
+            "285"
+          ],
+          "rawAnswer": "285",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The course charge is 285 pounds, which is really competitive"
+          },
+          "keywordPairs": [
+            {
+              "question": "course charge",
+              "article": "total to pay"
+            }
+          ],
+          "maxWords": 2,
+          "sourceSlot": 4,
+          "sourceSlotNumber": "4"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "5-10",
+          "sourceQuestionId": "b21a175c-5c14-490b-b30e-49760696ffcb",
+          "prompt": "| **Programme** |\n| --- | --- |\n| Activity | Information |\n| Morning yoga session | - followed by 30 minutes of **5**_____ |\n| Lunch | - **6**_____ food |\n| Other activities | - **7**_____ as well as walking |\n| | - the activity that requires booking: **8**_____ |\n| | - play **9**_____ for free |\n| Yoga practice | - held **10**_____ the club |",
+          "answers": [
+            "relaxation"
+          ],
+          "rawAnswer": "relaxation|||vegetarian|||swimming|||horse riding|||tennis|||outside",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Training is intensive, and the last half hour is used for relaxation;we only provide a variety of vegetarian food;including walking and swimming;try horse riding, but you need to book in advance;Students can also play tennis, which is free of charge;the yoga class is held outside the club"
+          },
+          "maxWords": 2,
+          "sourceSlot": 5,
+          "sourceSlotNumber": "5",
+          "blockId": "table-9472498afdb874fe",
+          "blockPosition": 0,
+          "blockSize": 6
+        },
+        {
+          "id": 6,
+          "sourceNumber": "5-10",
+          "sourceQuestionId": "b21a175c-5c14-490b-b30e-49760696ffcb",
+          "prompt": "| **Programme** |\n| --- | --- |\n| Activity | Information |\n| Morning yoga session | - followed by 30 minutes of **5**_____ |\n| Lunch | - **6**_____ food |\n| Other activities | - **7**_____ as well as walking |\n| | - the activity that requires booking: **8**_____ |\n| | - play **9**_____ for free |\n| Yoga practice | - held **10**_____ the club |",
+          "answers": [
+            "vegetarian"
+          ],
+          "rawAnswer": "relaxation|||vegetarian|||swimming|||horse riding|||tennis|||outside",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Training is intensive, and the last half hour is used for relaxation;we only provide a variety of vegetarian food;including walking and swimming;try horse riding, but you need to book in advance;Students can also play tennis, which is free of charge;the yoga class is held outside the club"
+          },
+          "maxWords": 2,
+          "sourceSlot": 6,
+          "sourceSlotNumber": "6",
+          "blockId": "table-9472498afdb874fe",
+          "blockPosition": 1,
+          "blockSize": 6
+        },
+        {
+          "id": 7,
+          "sourceNumber": "5-10",
+          "sourceQuestionId": "b21a175c-5c14-490b-b30e-49760696ffcb",
+          "prompt": "| **Programme** |\n| --- | --- |\n| Activity | Information |\n| Morning yoga session | - followed by 30 minutes of **5**_____ |\n| Lunch | - **6**_____ food |\n| Other activities | - **7**_____ as well as walking |\n| | - the activity that requires booking: **8**_____ |\n| | - play **9**_____ for free |\n| Yoga practice | - held **10**_____ the club |",
+          "answers": [
+            "swimming"
+          ],
+          "rawAnswer": "relaxation|||vegetarian|||swimming|||horse riding|||tennis|||outside",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Training is intensive, and the last half hour is used for relaxation;we only provide a variety of vegetarian food;including walking and swimming;try horse riding, but you need to book in advance;Students can also play tennis, which is free of charge;the yoga class is held outside the club"
+          },
+          "maxWords": 2,
+          "sourceSlot": 7,
+          "sourceSlotNumber": "7",
+          "blockId": "table-9472498afdb874fe",
+          "blockPosition": 2,
+          "blockSize": 6
+        },
+        {
+          "id": 8,
+          "sourceNumber": "5-10",
+          "sourceQuestionId": "b21a175c-5c14-490b-b30e-49760696ffcb",
+          "prompt": "| **Programme** |\n| --- | --- |\n| Activity | Information |\n| Morning yoga session | - followed by 30 minutes of **5**_____ |\n| Lunch | - **6**_____ food |\n| Other activities | - **7**_____ as well as walking |\n| | - the activity that requires booking: **8**_____ |\n| | - play **9**_____ for free |\n| Yoga practice | - held **10**_____ the club |",
+          "answers": [
+            "horse riding"
+          ],
+          "rawAnswer": "relaxation|||vegetarian|||swimming|||horse riding|||tennis|||outside",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Training is intensive, and the last half hour is used for relaxation;we only provide a variety of vegetarian food;including walking and swimming;try horse riding, but you need to book in advance;Students can also play tennis, which is free of charge;the yoga class is held outside the club"
+          },
+          "maxWords": 2,
+          "sourceSlot": 8,
+          "sourceSlotNumber": "8",
+          "blockId": "table-9472498afdb874fe",
+          "blockPosition": 3,
+          "blockSize": 6
+        },
+        {
+          "id": 9,
+          "sourceNumber": "5-10",
+          "sourceQuestionId": "b21a175c-5c14-490b-b30e-49760696ffcb",
+          "prompt": "| **Programme** |\n| --- | --- |\n| Activity | Information |\n| Morning yoga session | - followed by 30 minutes of **5**_____ |\n| Lunch | - **6**_____ food |\n| Other activities | - **7**_____ as well as walking |\n| | - the activity that requires booking: **8**_____ |\n| | - play **9**_____ for free |\n| Yoga practice | - held **10**_____ the club |",
+          "answers": [
+            "tennis"
+          ],
+          "rawAnswer": "relaxation|||vegetarian|||swimming|||horse riding|||tennis|||outside",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Training is intensive, and the last half hour is used for relaxation;we only provide a variety of vegetarian food;including walking and swimming;try horse riding, but you need to book in advance;Students can also play tennis, which is free of charge;the yoga class is held outside the club"
+          },
+          "maxWords": 2,
+          "sourceSlot": 9,
+          "sourceSlotNumber": "9",
+          "blockId": "table-9472498afdb874fe",
+          "blockPosition": 4,
+          "blockSize": 6
+        },
+        {
+          "id": 10,
+          "sourceNumber": "5-10",
+          "sourceQuestionId": "b21a175c-5c14-490b-b30e-49760696ffcb",
+          "prompt": "| **Programme** |\n| --- | --- |\n| Activity | Information |\n| Morning yoga session | - followed by 30 minutes of **5**_____ |\n| Lunch | - **6**_____ food |\n| Other activities | - **7**_____ as well as walking |\n| | - the activity that requires booking: **8**_____ |\n| | - play **9**_____ for free |\n| Yoga practice | - held **10**_____ the club |",
+          "answers": [
+            "outside"
+          ],
+          "rawAnswer": "relaxation|||vegetarian|||swimming|||horse riding|||tennis|||outside",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Training is intensive, and the last half hour is used for relaxation;we only provide a variety of vegetarian food;including walking and swimming;try horse riding, but you need to book in advance;Students can also play tennis, which is free of charge;the yoga class is held outside the club"
+          },
+          "maxWords": 2,
+          "sourceSlot": 10,
+          "sourceSlotNumber": "10",
+          "blockId": "table-9472498afdb874fe",
+          "blockPosition": 5,
+          "blockSize": 6
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,880</p><p>Yoga classes. Can you give me some information about it? </p><p>00:00:04,160</p><p>Hello. Sure thing. Our current course will end on June twentieth, and the coach will need to take a break. The new course will then start on 27th June. </p><p>00:00:14,940</p><p>That sounds great. Where are the classes held? </p><p>00:00:18,200</p><p>The course will be delivered at a hotel in Swavesey. Let me spell it. S-W-A-V-E-S-E-Y. We choose this venue because it has enough open floor space for students to comfortably move and practice yoga poses without feeling cramped. </p><p>00:00:35,860</p><p>What level is the course for? I'm a beginner, so I don't want to be too advanced. </p><p>00:00:41,160</p><p>The course is for intermediate-level students. Unfortunately, beginners courses and advanced classes are not available at the moment as coaches are taking an annual leave. </p><p>00:00:52,280</p><p>Okay. Thank you. How much does it cost? </p><p>00:00:55,460</p><p>The course charge is 285 pounds, which is really competitive. Many course providers usually charge three hundred and twenty pounds to three hundred and fifty pounds. </p><p>00:01:06,840</p><p>That's a great price. Is there anything else I need to know about the classes? </p><p>00:01:12,120</p><p>Morning training lasts for two hours, and students will train under the supervision of the coach. Training is intensive, and the last half hour is used for relaxation. </p><p>00:01:22,740</p><p>Do you provide meals? </p><p>00:01:24,520</p><p>Yes. Lunch is covered in the course fee, but we only provide a variety of vegetarian food. It is conducive to practice. </p><p>00:01:33,540</p><p>What else do students do during the day? </p><p>00:01:36,080</p><p>Students will take part in some other activities in the afternoon, including walking and swimming. Engaging in these activities can help to improve heart health, lower blood pressure, and reduce the risk of chronic diseases like diabetes and cardiovascular disease. </p><p>00:01:52,900</p><p>Can we do anything else? </p><p>00:01:54,580</p><p>Yes. You can also try horse riding, but you need to book in advance because spots are limited. </p><p>00:02:00,520</p><p>And is there anything else available? </p><p>00:02:02,700</p><p>Students can also play tennis, which is free of charge, but they have to bring the racket themselves. </p><p>00:02:08,900</p><p>One last question. Is the yoga class held inside the club? </p><p>00:02:12,880</p><p>No, the yoga class is held outside the club. Practicing yoga in an outdoor setting can help students to connect with nature and feel more grounded and centered.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/73b94518-d493-43e0-bab6-640e42f335fe.mp3",
+    "durationSeconds": 145.554286,
+    "sizeBytes": 582607,
+    "sha256": "e66eeb46b04ad16a9cafe8db167406f91b5c2b19aa7af2ed25a19ecd3a441ad2",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:05:01Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1779593365762_2z9xss_cf2b6d1b.mp3"
+}

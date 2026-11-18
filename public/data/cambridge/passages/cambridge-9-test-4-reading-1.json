@@ -1,0 +1,254 @@
+{
+  "id": "cambridge-9-test-4-reading-1",
+  "title": "The life and work of Marie Curie",
+  "titleCn": "The life and work of Marie Curie",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 9,
+    "test": 4
+  },
+  "sourceQuestionId": "6877",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6877",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The life and work of Marie Curie"
+    },
+    {
+      "label": "2",
+      "text": "Marie Curie is probably the most famous woman scientist who has ever lived. Born Maria Sklodowska in Poland in 1867, she is famous for her work on radioactivity, and was twice a winner of the Nobel Prize. With her husband, Pierre Curie, and Henri Becquerel, she was awarded the 1903 Nobel Prize for Physics, and was then sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Noble Prize."
+    },
+    {
+      "label": "3",
+      "text": "From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education. Because her father lost his savings through bad investment, she then had to take work as a teacher. From her earnings she was able to finance her sister Bronia’s medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education."
+    },
+    {
+      "label": "4",
+      "text": "In 1891 this promise was fulfilled and Marie went to Paris and began to study at the Sorbonne (the University of Paris). She often worked far into the night and lived on little more than bread and butter and tea. She came first in the examination in the physical sciences in 1893, and in 1894 was placed second in the examination in mathematical sciences. It was not until the spring of that year that she was introduced to Pierre Curie."
+    },
+    {
+      "label": "5",
+      "text": "Their marriage in 1895 marked the start of a partnership that was soon to achieve results of world significance. Following Henry Becquerel's discovery in 1896 of a new phenomenon, which Marie later called 'radioactivity'. Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium."
+    },
+    {
+      "label": "6",
+      "text": "Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be explained only by the presence in the ore of small quantities of an unknown substance of very high activity. Pierre Curie joined her in the work that she had undertaken to resolve this problem, and that led to the discovery of the new elements, polonium and radium. While Pierre Curie devoted himself chiefly to the physical study of the new radiations, Marie Curie struggled to obtain pure radium in the metallic state. This was achieved with the help of the chemist Andrè"
+    },
+    {
+      "label": "7",
+      "text": "-Louis Debierne, one of Pierre Curie's pupils. Based on the results of this research, Marie Curie received her Doctorate of Science, and in 1903 Marie and Pierre shared with Becquerel the Nobel Prize for Physics for the discovery of radioactivity."
+    },
+    {
+      "label": "8",
+      "text": "The births of Marie's two daughters, Irène and Eve, in 1897 and 1904 failed to interrupt her scientific work. She was appointed lecturer in physics at the École Normale Supérieure for girls in Sèrves, France (1900), and introduced a method of teaching based on experimental demonstrations. In December 1904 she was appointed chief assistant in the laboratory directed by Pierre Curie."
+    },
+    {
+      "label": "9",
+      "text": "The sudden death of her husband in 1906 was a bitter blow to Marie Curie, but was also a turning point in her career: henceforth she was to devote all her energy to completing alone the scientific work that they had undertaken. On May 13,1906, she was appointed to the professorship that had been left vacant on her husband's death, becoming the first woman to teach at the Sorbonne. In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium."
+    },
+    {
+      "label": "10",
+      "text": "During World War I, Marie Curie, with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as 'little curies', used for the treatment of wounded soldiers. In 1918 the Radium Institute, whose staff lrène had joined, began to operate in earnest, and became a center for nuclear physics and chemistry. Marie Curie, now at the highest point of her fame and, from 1922, a member of the Academy of Medicine, researched the chemistry of radioactive substances and their medical applications."
+    },
+    {
+      "label": "11",
+      "text": "In 1921, accompanied by her two daughters, Marie Curie made a triumphant journey to the United States to raise funds for research on radium. Women there presented her with a gram of radium for her campaign. Marie also gave lectures in Belgium, Brazil, Spain and Czechoslovakia and, in addition, had the satisfaction of seeing the development of the Curie Foundation in Paris, and the inauguration in 1932 in Warsaw of the Radium Institute, where her sister Bronia became director."
+    },
+    {
+      "label": "12",
+      "text": "One of Marie Curie's outstanding achievements was to have understood the need to accumulate intense radioactive sources, not only to treat illness but also to maintain an abundant supply for research. The existence in Pairs at the Radium Institute of a stock of 1.5 grams of radium made a decisive contribution to the success of the experiments undertaken in the years around 1930.This work prepared the way for the discovery of the neutron by Sir James Chadwick and, above all, for the discovery in 1934 by Irène and Frédéric Joliot-Curie of artificial radioactivity. A few months after this discovery, Marie Curie died as a result of leukaemia caused by exposure to radiation. She had often carried test tubes containing radioactive isotopes in her pocket, remarking on the pretty blue-green light they gave off."
+    },
+    {
+      "label": "13",
+      "text": "Her contribution to physics had been immense, not only in her own work, the importance of which had been demonstrated by her two Nobel Prizes, but because of her influence on subsequent generations of nuclear physicists and chemists."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-6\n\nChoose TRUE if the statement agrees with the claims of the writer,\n\nchoose FALSE if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Marie Curie's husband was a joint winner of both Marie's Nobel Prizes.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6877_392702",
+          "explanation": "参考译文：Marie Curie的丈夫与她共同获得了两项诺贝尔奖。\n\n定位词：husband, Nobel Prizes.\n\n解题关键词：was a joint winner of both...\n\n文中对应第一段第二、三句：...and was twice a winner of the Nobel Prize. With her husband, Pierre Curie, and Henri Becquerel, she was awarded the 1903 Nobel Prize for Physics, and she was then sole winner of the 1911 Nobel Prize for Chemistry. ……并两度问鼎诺贝尔奖：1903年，她同丈夫Pierre Curie以及Henri Becquerel被授予诺贝尔物理学奖，1911年她又独立获得诺贝尔化学奖。\n\n本题解题关键是：题干要判断是否Marie Curie的丈夫与她共同获得了两项诺贝尔奖。原文陈述，她丈夫与她合着拿了一次，另外一次是她自己独立完成的。题干中的sole抵触于原文的both；题干与原文陈述不一致。\n\n答案：FAISE"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Marie became interested in science when she was a child.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6877_503795",
+          "explanation": "参考译文：当Marie还是个孩子时，就对科学产生了兴趣。\n\n定位词：science, child\n\n解题关键词：interested in science, when she was a child\n\n文中对应根据顺序原则，定位到第二段第一行：From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education. 自幼年起，Marie就以惊人的记忆力而出名。她在16岁完成中等教育时获得了金牌。\n\n本题解题关键是：题干要判断Marie是否在还是个孩子时，就对科学产生了兴趣。原文陈述，Marie小时候记忆力惊人，并在16岁完成中等教育时获得了金牌，但是并没有提及她小时候是否对科学产生了兴趣。\n\n答案：NOT GIVEN"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "Marie was able to attend the Sorbonne because of her sister's financial contribution.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6877_595233",
+          "explanation": "参考译文：Marie能够到巴黎大学学习，是因为姐姐的经济资助。\n\n定位词：Sorbonne\n\n解题关键词：because of her sister's financial contribution\n\n文中对应第二段最后一句：From her earnings she was able to finance her sister Bronia's medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education. 有了这笔收入，她就能先资助姐姐Bronia在巴黎学医，而Bronia也承诺，作为回报以后会帮助她继续完成学业。\n\n本题解题关键是：题干要判断Marie能够到巴黎大学学习，是否因为姐姐的经济资助。原文陈述姐姐确实是这么承诺的。但是如果有一些考生会纠结于姐姐虽承诺，但是是否兑现了诺言的话，可以再结合第三段第一句In 1891 this promise was fulfilled and Marie went to Paris and began to study at the Sorbonne. 1891年，Bronia兑现了她的承诺。Marie来到巴黎，开始在巴黎大学学习。由此题干与原文完全一致。\n\n答案：TRUE"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "Marie stopped doing research for several years when her children were born.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6877_439376",
+          "explanation": "参考译文：当Marie的孩子出生时，有几年她停止了研究工作。\n\n定位词：when her children were born\n\n解题关键词：stopped doing research for several years\n\n文中对应第六段第一行：The births of Marie's two daughters, Irène and Eve, in 1897 and 1904 failed to interrupt her scientific work. 1897年和1904年，Marie的两个女儿Irène和Eve分别诞生，但都没有影响她的科学工作。\n\n本题解题关键是：题干要判断Marie是不是在生孩子的几年间停止了研究。原文陈述两个孩子诞生时，都没有影响她的科学工作。题干中的stopped doing research与原文中的failed (unable to) to interrupt陈述不一致。\n\n答案：FALSE"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "Marie took over the teaching position her husband had held.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6877_201926",
+          "explanation": "参考译文：Marie接任了丈夫生前的教学职位。\n\n定位词：teaching position, husband\n\n解题关键词：took over\n\n文中对应第七段第三行：On May 13, 1906, she was appointed to the professorship that had been left vacant on her husband's death, becoming the first woman to teach at the Sorbonne. 1906年5月13日，她填补了丈夫过世后留下的职位空缺，被任命为教授，成为了巴黎大学的第一位女性教师。\n\n本题解题关键是:题干要判断是否Marie接任了丈夫生前的教学职位。原文陈述，她填补了丈夫过世后留下的职位空缺。题干中took over对应原文中的was appointed to the professorship；题干中的teaching position对应原文left vacant on her husband's death。题干与原文陈述完全一致。\n\n答案：TRUE"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Marie's sister Bronia studied the medical uses of radioactivity.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6877_186732",
+          "explanation": "参考译文：Marie的姐姐Bronia研究了放射现象的医疗应用。\n\n定位词：Bornia, radioactivity\n\n解题关键词：Studied…the medical uses\n\n文中对应第九段倒数第二行:...and the inauguration in 1932 in Warsaw of the Radium Institute, where her sister Bronia became director... ……以及镭研究所于1932年在华沙启动，而她的姐姐Bronia则成为了研究所的主管。\n\n本题解题关键是：题干要判断Bronia是否研究了放射现象的医疗应用。原文只提到她的姐姐Bronia成为了研究所的主管，题干内容在原文并未提及。\n\n答案：NOT GIVEN"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 7-13\n\nComplete the notes below.\n\nWrite ONE WORD from the text in each gap.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "When uranium was discovered to be radioactive, Marie Curie found that the element called [7] ______had the same property.",
+          "answers": [
+            "thorium"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6877_923202",
+          "explanation": "题号：7\n\n定位词：radioactive, uranium\n\n文中对应第四段第三行：Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.\n\n首先通过句子分析，得知空格里的词应该是可以和uranium构成并列的名词，再根据空格前是called，从而预测出空格中应该是个名称（最好大写，或者引号、粗体，或者像uranium那般的词）。题干中…had the same property对应原文中...discovered that this was true for...，所以答案为thorium。\n\n题号：8\n\n定位词：因果关系led to; Marie and Pierre Curie's, mineral, known as, discovery, two new elements\n\n文中对应在第五段第一行：Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be...Pierre Curie joined her in the work...led to the discovery of the new elements...\n\n由于空格前known as，预测出这里要填一个名称，而且是矿物质名称，并且由于此物质的发现，导致我们还发现了两个新的元素。题干中mineral known as对应原文she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to...；题干中two new elements对应原文discovery of the new elements...\n\n因此答案是pitchblende。\n\n题号：9\n\n定位词：1911\n\n文中对应第七段倒数第二行：In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.\n\n空格里应该填一个元素的名称。用定位词定位到原文中，包含定位词的这一句话中，只有radium是元素，符合答案要求。\n\n题号：10\n\n定位词：Marie and Irène, X-radiography文中对应\n\n第八段第一行：…with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies’, used for the treatment of wounded soldiers.\n\n空格前为介词for，因此预测出空格里应该填名词。就是指居里夫人和她的女儿利用X射线照相技术，可以为了什么而作为医疗之用。题干中was used as a medical technique for对应原文中used for the treatment of wounded soldiers。因为题目要求只能填一个词，所以答案为soldiers。\n\n题号：11\n\n定位词：并列关系：both… and…；radioactive material, research\n\n文中对应第十段第二行：...radioactive sources, not only to treat illness but also to maintain an abundant supply for research.\n\n空格前后有并列关系both...and...要填的这个空格与research存在并列关系，为名词。利用radioactive定位到原文中的那句话，很容易也找到一组并列关系not only A but also research, research已经在题干中，所以答案在前面not only中，找到对应部分to treat illness...，这几个字中唯一名词illness确定为答案。\n\n题号：12\n\n定位词：discoveries, 1930s, artificial radioactivity\n\n文中对应第十段第四行：...made a decisive contribution to the success of the experiments under taken in the years around1930. This work prepared the way for the discovery of the neutron by ... above all, for the discovery in 1934… artificial radioactivity\n\n空格前为定冠词the，因此预测出空格里应该填名词，而且要填的这个名词应该与artificial radioactivity并列，表示同为重大发现。题干中的discoveries of the____ and of what was known as artificial radioactivity对应原文This work prepared the way for the discovery of the neutron …for the discovery in 1934…of artificial radioactivity。因此neutron为答案。\n\n题号：13\n\n定位词：关系词：as a result；exposed to radiation，suffered from\n\n文中对应第十段倒数第三行：…Marie Curie died as a result of leukaemia caused by exposure to radiation.\n\n通过空格前的关系词as a result，以及介词from，可以预测出空格里应该填一个表示结果的名词。从内容上来分析，应该是居里夫人长期暴露于镭的辐射，结果得了什么病。题干中as a result she suffered from…对应原文中died as a result of leukaemia caused by…，因此leukaemia为答案。\n\n参考译文:\n\nMarie Curie对放射现象的研究\n\n7. 当铀被发现具有放射性时, Marie Curie发现钍元素具有相同的性质。\n\n8. Marie和Pierre Curie在对沥青铀矿的放射性进行研究时,发现了两种新的元素。\n\n9. 1911年, Marie Curie因对镭元素的研究而获得认可。\n\n10. Marie Curie和Irène发展了X射线照相技术,这一技术成为一项救治士兵的医疗技术。\n\n11. Marie Curie看到了收集放射性物质对于科学研究和治疗疾病的重要性。\n\n12. 储存在巴黎的放射性物质对于20世纪30年代中子和人工放射的发现作出了贡献。\n\n13. Marie Curie在研究过程中受到辐射,因而患上了白血病。",
+          "promptHtml": "When uranium was discovered to be radioactive, Marie Curie found that the element called [7] ______had the same property."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "[8] ______led to the discovery of two new elements.",
+          "answers": [
+            "pitchblende"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6877_418424",
+          "explanation": "题号：7\n\n定位词：radioactive, uranium\n\n文中对应第四段第三行：Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.\n\n首先通过句子分析，得知空格里的词应该是可以和uranium构成并列的名词，再根据空格前是called，从而预测出空格中应该是个名称（最好大写，或者引号、粗体，或者像uranium那般的词）。题干中…had the same property对应原文中...discovered that this was true for...，所以答案为thorium。\n\n题号：8\n\n定位词：因果关系led to; Marie and Pierre Curie's, mineral, known as, discovery, two new elements\n\n文中对应在第五段第一行：Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be...Pierre Curie joined her in the work...led to the discovery of the new elements...\n\n由于空格前known as，预测出这里要填一个名称，而且是矿物质名称，并且由于此物质的发现，导致我们还发现了两个新的元素。题干中mineral known as对应原文she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to...；题干中two new elements对应原文discovery of the new elements...\n\n因此答案是pitchblende。\n\n题号：9\n\n定位词：1911\n\n文中对应第七段倒数第二行：In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.\n\n空格里应该填一个元素的名称。用定位词定位到原文中，包含定位词的这一句话中，只有radium是元素，符合答案要求。\n\n题号：10\n\n定位词：Marie and Irène, X-radiography文中对应\n\n第八段第一行：…with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies’, used for the treatment of wounded soldiers.\n\n空格前为介词for，因此预测出空格里应该填名词。就是指居里夫人和她的女儿利用X射线照相技术，可以为了什么而作为医疗之用。题干中was used as a medical technique for对应原文中used for the treatment of wounded soldiers。因为题目要求只能填一个词，所以答案为soldiers。\n\n题号：11\n\n定位词：并列关系：both… and…；radioactive material, research\n\n文中对应第十段第二行：...radioactive sources, not only to treat illness but also to maintain an abundant supply for research.\n\n空格前后有并列关系both...and...要填的这个空格与research存在并列关系，为名词。利用radioactive定位到原文中的那句话，很容易也找到一组并列关系not only A but also research, research已经在题干中，所以答案在前面not only中，找到对应部分to treat illness...，这几个字中唯一名词illness确定为答案。\n\n题号：12\n\n定位词：discoveries, 1930s, artificial radioactivity\n\n文中对应第十段第四行：...made a decisive contribution to the success of the experiments under taken in the years around1930. This work prepared the way for the discovery of the neutron by ... above all, for the discovery in 1934… artificial radioactivity\n\n空格前为定冠词the，因此预测出空格里应该填名词，而且要填的这个名词应该与artificial radioactivity并列，表示同为重大发现。题干中的discoveries of the____ and of what was known as artificial radioactivity对应原文This work prepared the way for the discovery of the neutron …for the discovery in 1934…of artificial radioactivity。因此neutron为答案。\n\n题号：13\n\n定位词：关系词：as a result；exposed to radiation，suffered from\n\n文中对应第十段倒数第三行：…Marie Curie died as a result of leukaemia caused by exposure to radiation.\n\n通过空格前的关系词as a result，以及介词from，可以预测出空格里应该填一个表示结果的名词。从内容上来分析，应该是居里夫人长期暴露于镭的辐射，结果得了什么病。题干中as a result she suffered from…对应原文中died as a result of leukaemia caused by…，因此leukaemia为答案。\n\n参考译文:\n\nMarie Curie对放射现象的研究\n\n7. 当铀被发现具有放射性时, Marie Curie发现钍元素具有相同的性质。\n\n8. Marie和Pierre Curie在对沥青铀矿的放射性进行研究时,发现了两种新的元素。\n\n9. 1911年, Marie Curie因对镭元素的研究而获得认可。\n\n10. Marie Curie和Irène发展了X射线照相技术,这一技术成为一项救治士兵的医疗技术。\n\n11. Marie Curie看到了收集放射性物质对于科学研究和治疗疾病的重要性。\n\n12. 储存在巴黎的放射性物质对于20世纪30年代中子和人工放射的发现作出了贡献。\n\n13. Marie Curie在研究过程中受到辐射,因而患上了白血病。",
+          "promptHtml": "[8] ______led to the discovery of two new elements."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "In 1911, Marie Curie received recognition for her work on the element [9] ______",
+          "answers": [
+            "radium"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6877_102275",
+          "explanation": "题号：7\n\n定位词：radioactive, uranium\n\n文中对应第四段第三行：Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.\n\n首先通过句子分析，得知空格里的词应该是可以和uranium构成并列的名词，再根据空格前是called，从而预测出空格中应该是个名称（最好大写，或者引号、粗体，或者像uranium那般的词）。题干中…had the same property对应原文中...discovered that this was true for...，所以答案为thorium。\n\n题号：8\n\n定位词：因果关系led to; Marie and Pierre Curie's, mineral, known as, discovery, two new elements\n\n文中对应在第五段第一行：Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be...Pierre Curie joined her in the work...led to the discovery of the new elements...\n\n由于空格前known as，预测出这里要填一个名称，而且是矿物质名称，并且由于此物质的发现，导致我们还发现了两个新的元素。题干中mineral known as对应原文she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to...；题干中two new elements对应原文discovery of the new elements...\n\n因此答案是pitchblende。\n\n题号：9\n\n定位词：1911\n\n文中对应第七段倒数第二行：In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.\n\n空格里应该填一个元素的名称。用定位词定位到原文中，包含定位词的这一句话中，只有radium是元素，符合答案要求。\n\n题号：10\n\n定位词：Marie and Irène, X-radiography文中对应\n\n第八段第一行：…with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies’, used for the treatment of wounded soldiers.\n\n空格前为介词for，因此预测出空格里应该填名词。就是指居里夫人和她的女儿利用X射线照相技术，可以为了什么而作为医疗之用。题干中was used as a medical technique for对应原文中used for the treatment of wounded soldiers。因为题目要求只能填一个词，所以答案为soldiers。\n\n题号：11\n\n定位词：并列关系：both… and…；radioactive material, research\n\n文中对应第十段第二行：...radioactive sources, not only to treat illness but also to maintain an abundant supply for research.\n\n空格前后有并列关系both...and...要填的这个空格与research存在并列关系，为名词。利用radioactive定位到原文中的那句话，很容易也找到一组并列关系not only A but also research, research已经在题干中，所以答案在前面not only中，找到对应部分to treat illness...，这几个字中唯一名词illness确定为答案。\n\n题号：12\n\n定位词：discoveries, 1930s, artificial radioactivity\n\n文中对应第十段第四行：...made a decisive contribution to the success of the experiments under taken in the years around1930. This work prepared the way for the discovery of the neutron by ... above all, for the discovery in 1934… artificial radioactivity\n\n空格前为定冠词the，因此预测出空格里应该填名词，而且要填的这个名词应该与artificial radioactivity并列，表示同为重大发现。题干中的discoveries of the____ and of what was known as artificial radioactivity对应原文This work prepared the way for the discovery of the neutron …for the discovery in 1934…of artificial radioactivity。因此neutron为答案。\n\n题号：13\n\n定位词：关系词：as a result；exposed to radiation，suffered from\n\n文中对应第十段倒数第三行：…Marie Curie died as a result of leukaemia caused by exposure to radiation.\n\n通过空格前的关系词as a result，以及介词from，可以预测出空格里应该填一个表示结果的名词。从内容上来分析，应该是居里夫人长期暴露于镭的辐射，结果得了什么病。题干中as a result she suffered from…对应原文中died as a result of leukaemia caused by…，因此leukaemia为答案。\n\n参考译文:\n\nMarie Curie对放射现象的研究\n\n7. 当铀被发现具有放射性时, Marie Curie发现钍元素具有相同的性质。\n\n8. Marie和Pierre Curie在对沥青铀矿的放射性进行研究时,发现了两种新的元素。\n\n9. 1911年, Marie Curie因对镭元素的研究而获得认可。\n\n10. Marie Curie和Irène发展了X射线照相技术,这一技术成为一项救治士兵的医疗技术。\n\n11. Marie Curie看到了收集放射性物质对于科学研究和治疗疾病的重要性。\n\n12. 储存在巴黎的放射性物质对于20世纪30年代中子和人工放射的发现作出了贡献。\n\n13. Marie Curie在研究过程中受到辐射,因而患上了白血病。",
+          "promptHtml": "In 1911, Marie Curie received recognition for her work on the element [9] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Marie and Irène Curie developed X-radiography which was used as a medical technique for [10] ______",
+          "answers": [
+            "soldiers"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6877_740802",
+          "explanation": "题号：7\n\n定位词：radioactive, uranium\n\n文中对应第四段第三行：Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.\n\n首先通过句子分析，得知空格里的词应该是可以和uranium构成并列的名词，再根据空格前是called，从而预测出空格中应该是个名称（最好大写，或者引号、粗体，或者像uranium那般的词）。题干中…had the same property对应原文中...discovered that this was true for...，所以答案为thorium。\n\n题号：8\n\n定位词：因果关系led to; Marie and Pierre Curie's, mineral, known as, discovery, two new elements\n\n文中对应在第五段第一行：Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be...Pierre Curie joined her in the work...led to the discovery of the new elements...\n\n由于空格前known as，预测出这里要填一个名称，而且是矿物质名称，并且由于此物质的发现，导致我们还发现了两个新的元素。题干中mineral known as对应原文she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to...；题干中two new elements对应原文discovery of the new elements...\n\n因此答案是pitchblende。\n\n题号：9\n\n定位词：1911\n\n文中对应第七段倒数第二行：In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.\n\n空格里应该填一个元素的名称。用定位词定位到原文中，包含定位词的这一句话中，只有radium是元素，符合答案要求。\n\n题号：10\n\n定位词：Marie and Irène, X-radiography文中对应\n\n第八段第一行：…with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies’, used for the treatment of wounded soldiers.\n\n空格前为介词for，因此预测出空格里应该填名词。就是指居里夫人和她的女儿利用X射线照相技术，可以为了什么而作为医疗之用。题干中was used as a medical technique for对应原文中used for the treatment of wounded soldiers。因为题目要求只能填一个词，所以答案为soldiers。\n\n题号：11\n\n定位词：并列关系：both… and…；radioactive material, research\n\n文中对应第十段第二行：...radioactive sources, not only to treat illness but also to maintain an abundant supply for research.\n\n空格前后有并列关系both...and...要填的这个空格与research存在并列关系，为名词。利用radioactive定位到原文中的那句话，很容易也找到一组并列关系not only A but also research, research已经在题干中，所以答案在前面not only中，找到对应部分to treat illness...，这几个字中唯一名词illness确定为答案。\n\n题号：12\n\n定位词：discoveries, 1930s, artificial radioactivity\n\n文中对应第十段第四行：...made a decisive contribution to the success of the experiments under taken in the years around1930. This work prepared the way for the discovery of the neutron by ... above all, for the discovery in 1934… artificial radioactivity\n\n空格前为定冠词the，因此预测出空格里应该填名词，而且要填的这个名词应该与artificial radioactivity并列，表示同为重大发现。题干中的discoveries of the____ and of what was known as artificial radioactivity对应原文This work prepared the way for the discovery of the neutron …for the discovery in 1934…of artificial radioactivity。因此neutron为答案。\n\n题号：13\n\n定位词：关系词：as a result；exposed to radiation，suffered from\n\n文中对应第十段倒数第三行：…Marie Curie died as a result of leukaemia caused by exposure to radiation.\n\n通过空格前的关系词as a result，以及介词from，可以预测出空格里应该填一个表示结果的名词。从内容上来分析，应该是居里夫人长期暴露于镭的辐射，结果得了什么病。题干中as a result she suffered from…对应原文中died as a result of leukaemia caused by…，因此leukaemia为答案。\n\n参考译文:\n\nMarie Curie对放射现象的研究\n\n7. 当铀被发现具有放射性时, Marie Curie发现钍元素具有相同的性质。\n\n8. Marie和Pierre Curie在对沥青铀矿的放射性进行研究时,发现了两种新的元素。\n\n9. 1911年, Marie Curie因对镭元素的研究而获得认可。\n\n10. Marie Curie和Irène发展了X射线照相技术,这一技术成为一项救治士兵的医疗技术。\n\n11. Marie Curie看到了收集放射性物质对于科学研究和治疗疾病的重要性。\n\n12. 储存在巴黎的放射性物质对于20世纪30年代中子和人工放射的发现作出了贡献。\n\n13. Marie Curie在研究过程中受到辐射,因而患上了白血病。",
+          "promptHtml": "Marie and Irène Curie developed X-radiography which was used as a medical technique for [10] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Marie Curie saw the importance of collecting radioactive material both for research and for cases of [11] ______",
+          "answers": [
+            "illness"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6877_714212",
+          "explanation": "题号：7\n\n定位词：radioactive, uranium\n\n文中对应第四段第三行：Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.\n\n首先通过句子分析，得知空格里的词应该是可以和uranium构成并列的名词，再根据空格前是called，从而预测出空格中应该是个名称（最好大写，或者引号、粗体，或者像uranium那般的词）。题干中…had the same property对应原文中...discovered that this was true for...，所以答案为thorium。\n\n题号：8\n\n定位词：因果关系led to; Marie and Pierre Curie's, mineral, known as, discovery, two new elements\n\n文中对应在第五段第一行：Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be...Pierre Curie joined her in the work...led to the discovery of the new elements...\n\n由于空格前known as，预测出这里要填一个名称，而且是矿物质名称，并且由于此物质的发现，导致我们还发现了两个新的元素。题干中mineral known as对应原文she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to...；题干中two new elements对应原文discovery of the new elements...\n\n因此答案是pitchblende。\n\n题号：9\n\n定位词：1911\n\n文中对应第七段倒数第二行：In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.\n\n空格里应该填一个元素的名称。用定位词定位到原文中，包含定位词的这一句话中，只有radium是元素，符合答案要求。\n\n题号：10\n\n定位词：Marie and Irène, X-radiography文中对应\n\n第八段第一行：…with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies’, used for the treatment of wounded soldiers.\n\n空格前为介词for，因此预测出空格里应该填名词。就是指居里夫人和她的女儿利用X射线照相技术，可以为了什么而作为医疗之用。题干中was used as a medical technique for对应原文中used for the treatment of wounded soldiers。因为题目要求只能填一个词，所以答案为soldiers。\n\n题号：11\n\n定位词：并列关系：both… and…；radioactive material, research\n\n文中对应第十段第二行：...radioactive sources, not only to treat illness but also to maintain an abundant supply for research.\n\n空格前后有并列关系both...and...要填的这个空格与research存在并列关系，为名词。利用radioactive定位到原文中的那句话，很容易也找到一组并列关系not only A but also research, research已经在题干中，所以答案在前面not only中，找到对应部分to treat illness...，这几个字中唯一名词illness确定为答案。\n\n题号：12\n\n定位词：discoveries, 1930s, artificial radioactivity\n\n文中对应第十段第四行：...made a decisive contribution to the success of the experiments under taken in the years around1930. This work prepared the way for the discovery of the neutron by ... above all, for the discovery in 1934… artificial radioactivity\n\n空格前为定冠词the，因此预测出空格里应该填名词，而且要填的这个名词应该与artificial radioactivity并列，表示同为重大发现。题干中的discoveries of the____ and of what was known as artificial radioactivity对应原文This work prepared the way for the discovery of the neutron …for the discovery in 1934…of artificial radioactivity。因此neutron为答案。\n\n题号：13\n\n定位词：关系词：as a result；exposed to radiation，suffered from\n\n文中对应第十段倒数第三行：…Marie Curie died as a result of leukaemia caused by exposure to radiation.\n\n通过空格前的关系词as a result，以及介词from，可以预测出空格里应该填一个表示结果的名词。从内容上来分析，应该是居里夫人长期暴露于镭的辐射，结果得了什么病。题干中as a result she suffered from…对应原文中died as a result of leukaemia caused by…，因此leukaemia为答案。\n\n参考译文:\n\nMarie Curie对放射现象的研究\n\n7. 当铀被发现具有放射性时, Marie Curie发现钍元素具有相同的性质。\n\n8. Marie和Pierre Curie在对沥青铀矿的放射性进行研究时,发现了两种新的元素。\n\n9. 1911年, Marie Curie因对镭元素的研究而获得认可。\n\n10. Marie Curie和Irène发展了X射线照相技术,这一技术成为一项救治士兵的医疗技术。\n\n11. Marie Curie看到了收集放射性物质对于科学研究和治疗疾病的重要性。\n\n12. 储存在巴黎的放射性物质对于20世纪30年代中子和人工放射的发现作出了贡献。\n\n13. Marie Curie在研究过程中受到辐射,因而患上了白血病。",
+          "promptHtml": "Marie Curie saw the importance of collecting radioactive material both for research and for cases of [11] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "The radioactive material stocked in Paris contributed to the discoveries in the 1930s of the [12] ______and of what was known as artificial radioactivity.",
+          "answers": [
+            "neutron"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6877_665404",
+          "explanation": "题号：7\n\n定位词：radioactive, uranium\n\n文中对应第四段第三行：Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.\n\n首先通过句子分析，得知空格里的词应该是可以和uranium构成并列的名词，再根据空格前是called，从而预测出空格中应该是个名称（最好大写，或者引号、粗体，或者像uranium那般的词）。题干中…had the same property对应原文中...discovered that this was true for...，所以答案为thorium。\n\n题号：8\n\n定位词：因果关系led to; Marie and Pierre Curie's, mineral, known as, discovery, two new elements\n\n文中对应在第五段第一行：Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be...Pierre Curie joined her in the work...led to the discovery of the new elements...\n\n由于空格前known as，预测出这里要填一个名称，而且是矿物质名称，并且由于此物质的发现，导致我们还发现了两个新的元素。题干中mineral known as对应原文she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to...；题干中two new elements对应原文discovery of the new elements...\n\n因此答案是pitchblende。\n\n题号：9\n\n定位词：1911\n\n文中对应第七段倒数第二行：In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.\n\n空格里应该填一个元素的名称。用定位词定位到原文中，包含定位词的这一句话中，只有radium是元素，符合答案要求。\n\n题号：10\n\n定位词：Marie and Irène, X-radiography文中对应\n\n第八段第一行：…with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies’, used for the treatment of wounded soldiers.\n\n空格前为介词for，因此预测出空格里应该填名词。就是指居里夫人和她的女儿利用X射线照相技术，可以为了什么而作为医疗之用。题干中was used as a medical technique for对应原文中used for the treatment of wounded soldiers。因为题目要求只能填一个词，所以答案为soldiers。\n\n题号：11\n\n定位词：并列关系：both… and…；radioactive material, research\n\n文中对应第十段第二行：...radioactive sources, not only to treat illness but also to maintain an abundant supply for research.\n\n空格前后有并列关系both...and...要填的这个空格与research存在并列关系，为名词。利用radioactive定位到原文中的那句话，很容易也找到一组并列关系not only A but also research, research已经在题干中，所以答案在前面not only中，找到对应部分to treat illness...，这几个字中唯一名词illness确定为答案。\n\n题号：12\n\n定位词：discoveries, 1930s, artificial radioactivity\n\n文中对应第十段第四行：...made a decisive contribution to the success of the experiments under taken in the years around1930. This work prepared the way for the discovery of the neutron by ... above all, for the discovery in 1934… artificial radioactivity\n\n空格前为定冠词the，因此预测出空格里应该填名词，而且要填的这个名词应该与artificial radioactivity并列，表示同为重大发现。题干中的discoveries of the____ and of what was known as artificial radioactivity对应原文This work prepared the way for the discovery of the neutron …for the discovery in 1934…of artificial radioactivity。因此neutron为答案。\n\n题号：13\n\n定位词：关系词：as a result；exposed to radiation，suffered from\n\n文中对应第十段倒数第三行：…Marie Curie died as a result of leukaemia caused by exposure to radiation.\n\n通过空格前的关系词as a result，以及介词from，可以预测出空格里应该填一个表示结果的名词。从内容上来分析，应该是居里夫人长期暴露于镭的辐射，结果得了什么病。题干中as a result she suffered from…对应原文中died as a result of leukaemia caused by…，因此leukaemia为答案。\n\n参考译文:\n\nMarie Curie对放射现象的研究\n\n7. 当铀被发现具有放射性时, Marie Curie发现钍元素具有相同的性质。\n\n8. Marie和Pierre Curie在对沥青铀矿的放射性进行研究时,发现了两种新的元素。\n\n9. 1911年, Marie Curie因对镭元素的研究而获得认可。\n\n10. Marie Curie和Irène发展了X射线照相技术,这一技术成为一项救治士兵的医疗技术。\n\n11. Marie Curie看到了收集放射性物质对于科学研究和治疗疾病的重要性。\n\n12. 储存在巴黎的放射性物质对于20世纪30年代中子和人工放射的发现作出了贡献。\n\n13. Marie Curie在研究过程中受到辐射,因而患上了白血病。",
+          "promptHtml": "The radioactive material stocked in Paris contributed to the discoveries in the 1930s of the [12] ______and of what was known as artificial radioactivity."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "During her research, Marie Curie was exposed to radiation and as a result she suffered from [13] ______",
+          "answers": [
+            "leukaemia",
+            "leukemia"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6877_956646",
+          "explanation": "题号：7\n\n定位词：radioactive, uranium\n\n文中对应第四段第三行：Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.\n\n首先通过句子分析，得知空格里的词应该是可以和uranium构成并列的名词，再根据空格前是called，从而预测出空格中应该是个名称（最好大写，或者引号、粗体，或者像uranium那般的词）。题干中…had the same property对应原文中...discovered that this was true for...，所以答案为thorium。\n\n题号：8\n\n定位词：因果关系led to; Marie and Pierre Curie's, mineral, known as, discovery, two new elements\n\n文中对应在第五段第一行：Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be...Pierre Curie joined her in the work...led to the discovery of the new elements...\n\n由于空格前known as，预测出这里要填一个名称，而且是矿物质名称，并且由于此物质的发现，导致我们还发现了两个新的元素。题干中mineral known as对应原文she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to...；题干中two new elements对应原文discovery of the new elements...\n\n因此答案是pitchblende。\n\n题号：9\n\n定位词：1911\n\n文中对应第七段倒数第二行：In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.\n\n空格里应该填一个元素的名称。用定位词定位到原文中，包含定位词的这一句话中，只有radium是元素，符合答案要求。\n\n题号：10\n\n定位词：Marie and Irène, X-radiography文中对应\n\n第八段第一行：…with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies’, used for the treatment of wounded soldiers.\n\n空格前为介词for，因此预测出空格里应该填名词。就是指居里夫人和她的女儿利用X射线照相技术，可以为了什么而作为医疗之用。题干中was used as a medical technique for对应原文中used for the treatment of wounded soldiers。因为题目要求只能填一个词，所以答案为soldiers。\n\n题号：11\n\n定位词：并列关系：both… and…；radioactive material, research\n\n文中对应第十段第二行：...radioactive sources, not only to treat illness but also to maintain an abundant supply for research.\n\n空格前后有并列关系both...and...要填的这个空格与research存在并列关系，为名词。利用radioactive定位到原文中的那句话，很容易也找到一组并列关系not only A but also research, research已经在题干中，所以答案在前面not only中，找到对应部分to treat illness...，这几个字中唯一名词illness确定为答案。\n\n题号：12\n\n定位词：discoveries, 1930s, artificial radioactivity\n\n文中对应第十段第四行：...made a decisive contribution to the success of the experiments under taken in the years around1930. This work prepared the way for the discovery of the neutron by ... above all, for the discovery in 1934… artificial radioactivity\n\n空格前为定冠词the，因此预测出空格里应该填名词，而且要填的这个名词应该与artificial radioactivity并列，表示同为重大发现。题干中的discoveries of the____ and of what was known as artificial radioactivity对应原文This work prepared the way for the discovery of the neutron …for the discovery in 1934…of artificial radioactivity。因此neutron为答案。\n\n题号：13\n\n定位词：关系词：as a result；exposed to radiation，suffered from\n\n文中对应第十段倒数第三行：…Marie Curie died as a result of leukaemia caused by exposure to radiation.\n\n通过空格前的关系词as a result，以及介词from，可以预测出空格里应该填一个表示结果的名词。从内容上来分析，应该是居里夫人长期暴露于镭的辐射，结果得了什么病。题干中as a result she suffered from…对应原文中died as a result of leukaemia caused by…，因此leukaemia为答案。\n\n参考译文:\n\nMarie Curie对放射现象的研究\n\n7. 当铀被发现具有放射性时, Marie Curie发现钍元素具有相同的性质。\n\n8. Marie和Pierre Curie在对沥青铀矿的放射性进行研究时,发现了两种新的元素。\n\n9. 1911年, Marie Curie因对镭元素的研究而获得认可。\n\n10. Marie Curie和Irène发展了X射线照相技术,这一技术成为一项救治士兵的医疗技术。\n\n11. Marie Curie看到了收集放射性物质对于科学研究和治疗疾病的重要性。\n\n12. 储存在巴黎的放射性物质对于20世纪30年代中子和人工放射的发现作出了贡献。\n\n13. Marie Curie在研究过程中受到辐射,因而患上了白血病。",
+          "promptHtml": "During her research, Marie Curie was exposed to radiation and as a result she suffered from [13] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Marie Curie&#x27;s research on radioactivity</strong></span></p>\n\n<p>When uranium was discovered to be radioactive, Marie Curie found that the element called <strong>[7] ______</strong>had the same property.</p>\n\n<p>Marie and Pierre Curie&#x27;s research into the radioactivity of the mineral known as</p>\n\n<p><strong>[8] ______</strong>led to the discovery of two new elements.</p>\n\n<p>In 1911, Marie Curie received recognition for her work on the element <strong>[9] ______</strong></p>\n\n<p>Marie and Irène Curie developed X-radiography which was used as a medical technique for <strong>[10] ______</strong></p>\n\n<p>Marie Curie saw the importance of collecting radioactive material both for research and for cases of <strong>[11] ______</strong></p>\n\n<p>The radioactive material stocked in Paris contributed to the discoveries in the 1930s of the <strong>[12] ______</strong>and of what was known as artificial radioactivity.</p>\n\n<p>During her research, Marie Curie was exposed to radiation and as a result she suffered from <strong>[13] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>The life and work of Marie Curie</strong></span></p><p><span><strong><img src=\"/api/guest/cambridge/media/images/8e43859d79d369192cceb19655e47ecd.jpg\" alt=\"\"></strong></span></p><p>Marie Curie is probably the most famous woman scientist who has ever lived. Born Maria Sklodowska in Poland in 1867, she is famous for her work on radioactivity, and was twice a winner of the Nobel Prize. With her husband, Pierre Curie, and Henri Becquerel, she was awarded the 1903 Nobel Prize for Physics, and was then sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Noble Prize.</p><p>From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education. Because her father lost his savings through bad investment, she then had to take work as a teacher. From her earnings she was able to finance her sister Bronia’s medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education.</p><p>In 1891 this promise was fulfilled and Marie went to Paris and began to study at the Sorbonne (the University of Paris).  She often worked far into the night and lived on little more than bread and butter and tea. She came first in the examination in the physical sciences in 1893, and in 1894 was placed second in the examination in mathematical sciences. It was not until the spring of that year that she was introduced to Pierre Curie.</p><p>Their marriage in 1895 marked the start of a partnership that was soon to achieve results of world significance. Following Henry Becquerel&#x27;s discovery in 1896 of a new phenomenon, which Marie later called &#x27;radioactivity&#x27;. Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium.</p><p>Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be explained only by the presence in the ore of small quantities of an unknown substance of very high activity. Pierre Curie joined her in the work that she had undertaken to resolve this problem, and that led to the discovery of the new elements, polonium and radium. While Pierre Curie devoted himself chiefly to the physical study of the new radiations, Marie Curie struggled to obtain pure radium in the metallic state. This was achieved with the help of the chemist Andrè</p><p>-Louis Debierne, one of Pierre Curie&#x27;s pupils. Based on the results of this research, Marie Curie received her Doctorate of Science, and in 1903 Marie and Pierre shared with Becquerel the Nobel Prize for Physics for the discovery of radioactivity.</p><p>The births of Marie&#x27;s two daughters, Irène and Eve, in 1897 and 1904 failed to interrupt her scientific work. She was appointed lecturer in physics at the École Normale Supérieure for girls in Sèrves, France (1900), and introduced a method of teaching based on experimental demonstrations. In December 1904 she was appointed chief assistant in the laboratory directed by Pierre Curie.</p><p>The sudden death of her husband in 1906 was a bitter blow to Marie Curie, but was also a turning point in her career: henceforth she was to devote all her energy to completing alone the scientific work that they had undertaken. On May 13,1906, she was appointed to the professorship that had been left vacant on her husband&#x27;s death, becoming the first woman to teach at the Sorbonne. In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.</p><p>During World War I, Marie Curie, with the help of her daughter Irène devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as &#x27;little curies&#x27;, used for the treatment of wounded soldiers. In 1918 the Radium Institute, whose staff lrène had joined, began to operate in earnest, and became a center for nuclear physics and chemistry. Marie Curie, now at the highest point of her fame and, from 1922, a member of the Academy of Medicine, researched the chemistry of radioactive substances and their medical applications.</p><p>In 1921, accompanied by her two daughters, Marie Curie made a triumphant journey to the United States to raise funds for research on radium. Women there presented her with a gram of radium for her campaign. Marie also gave lectures in Belgium, Brazil, Spain and Czechoslovakia and, in addition, had the satisfaction of seeing the development of the Curie Foundation in Paris, and the inauguration  in 1932 in Warsaw of the Radium Institute, where her sister Bronia became director.</p><p>One of Marie Curie&#x27;s outstanding achievements was to have understood the need to accumulate intense radioactive sources, not only to treat illness but also to maintain an abundant supply for research. The existence in Pairs at the Radium Institute of a stock of 1.5 grams of radium made a decisive contribution to the success of the experiments undertaken in the years around 1930.This work prepared the way for the discovery of the neutron by Sir James Chadwick and, above all, for the discovery in 1934 by Irène and Frédéric Joliot-Curie of artificial radioactivity. A few months after this discovery, Marie Curie died as a result of leukaemia caused by exposure to radiation. She had often carried test tubes containing radioactive isotopes in her pocket, remarking on the pretty blue-green light they gave off.</p><p>Her contribution to physics had been immense, not only in her own work, the importance of which had been demonstrated by her two Nobel Prizes, but because of her influence on subsequent generations of nuclear physicists and chemists.</p>"
+}

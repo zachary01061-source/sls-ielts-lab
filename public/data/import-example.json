@@ -1,0 +1,853 @@
+{
+  "version": 1,
+  "passages": [
+    {
+      "id": "sls-original-001",
+      "title": "The hidden work of urban trees",
+      "part": 1,
+      "category": "环境与城市",
+      "duration": 1200,
+      "source": "SLS 原创练习",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "A tree in a city is often judged by what can be seen: the width of its crown, the colour of its leaves or the flowers it produces. Yet a planting plan based only on appearance can miss much of a tree's value. A tree is also a living system that moves water, changes the conditions around buildings and occupies space below the pavement. To understand what it contributes, planners need to consider both its visible shape and the less obvious processes that keep it alive."
+        },
+        {
+          "label": "B",
+          "text": "Cooling offers a useful example. A crown can intercept sunlight before it reaches a wall or footpath. Shade therefore reduces the energy absorbed by those surfaces. Trees also lose water through their leaves, a process called transpiration. This uses heat from the surrounding environment. The two effects are related, but they are not identical. A tree may continue to cast a shadow when dry conditions have reduced its water loss. A photograph showing a broad crown, by itself, cannot reveal how much cooling each process provides at a particular moment."
+        },
+        {
+          "label": "C",
+          "text": "The ground matters as much as the branches. In many streets, a young tree is placed in a small opening surrounded by hard paving. Beneath it, soil may have been compressed by construction vehicles. Such compaction leaves less room for air and makes it harder for water to enter. Enlarging the opening is useful, but only if the soil below it is also suitable. In one possible design, several planting spaces are connected underground so that roots can explore a shared area instead of remaining inside separate narrow holes."
+        },
+        {
+          "label": "D",
+          "text": "Trees can also help manage rainfall. Leaves and branches catch some rain before it reaches the ground, while suitable soil allows water to soak in. However, a tree is not a replacement for every part of a drainage network. During prolonged heavy rain, the ground may become saturated and accept little additional water. For this reason, a street design should provide a safe route for overflow. The useful question is not whether trees or drains are better in all circumstances, but how the two can work together."
+        },
+        {
+          "label": "E",
+          "text": "Choosing a species involves several trade-offs. A large tree may eventually provide extensive shade, but it needs enough room to develop. A smaller species may fit beside overhead cables, although it will shade a smaller area. Planting only one kind of tree can make maintenance predictable, yet it can leave many streets exposed to the same pest or disease. A varied planting scheme reduces that shared risk. It does not prevent every individual tree from becoming ill. Variety should not mean choosing species at random: local conditions, available space and long-term care still need to guide the selection."
+        },
+        {
+          "label": "F",
+          "text": "Counting newly planted trees is straightforward, which makes it an attractive way to announce progress. Survival is a less immediate measure, but a more useful one. A planting programme might record each tree's condition after one, three and five years. It should also check whether shade reaches places where people actually wait or walk. Ten healthy trees beside a busy bus stop may deliver a different public benefit from ten equally healthy trees on an unused strip of land. Location and condition add meaning to the basic total."
+        },
+        {
+          "label": "G",
+          "text": "Finally, planting is the beginning of a commitment rather than the end of a project. Young trees may need watering while their root systems develop, and damaged supports must be removed or repaired. Later, inspections can identify unsafe branches and changes in the surrounding ground. A budget that pays for planting but leaves no money for these tasks is incomplete. When cities treat care as part of the original design, trees have a better chance of becoming lasting infrastructure rather than short-lived decorations."
+        }
+      ],
+      "groups": [
+        {
+          "id": "g1",
+          "type": "tfng",
+          "instruction": "Questions 1–7. Do the following statements agree with the information given in the passage? Write TRUE, FALSE or NOT GIVEN.",
+          "questions": [
+            {
+              "id": 1,
+              "prompt": "The appearance of a tree provides a complete picture of its value to a city.",
+              "answers": [
+                "FALSE"
+              ],
+              "explanation": "A段指出，只根据外观制定种植计划，会忽略树木的许多价值。complete（完整的）与 miss much（遗漏许多）相矛盾。",
+              "evidence": {
+                "paragraph": "A",
+                "quote": "Yet a planting plan based only on appearance can miss much of a tree's value."
+              }
+            },
+            {
+              "id": 2,
+              "prompt": "Shade can lower the amount of energy that a pavement absorbs.",
+              "answers": [
+                "TRUE"
+              ],
+              "explanation": "B段的 those surfaces 指前一句的 wall or footpath。reduces the energy absorbed 对应 lower the amount of energy ... absorbs。",
+              "evidence": {
+                "paragraph": "B",
+                "quote": "Shade therefore reduces the energy absorbed by those surfaces."
+              }
+            },
+            {
+              "id": 3,
+              "prompt": "A tree stops providing shade whenever dry conditions reduce its water loss.",
+              "answers": [
+                "FALSE"
+              ],
+              "explanation": "B段明确说水分散失减少时，树木仍然可能投下阴影。题干的 stops 与原文 continue 冲突。",
+              "evidence": {
+                "paragraph": "B",
+                "quote": "A tree may continue to cast a shadow when dry conditions have reduced its water loss."
+              }
+            },
+            {
+              "id": 4,
+              "prompt": "Underground connections between planting spaces cost less than separate planting holes.",
+              "answers": [
+                "NOT GIVEN"
+              ],
+              "explanation": "C段提到把种植空间在地下连起来，但没有比较两种方案的费用。不能由共享空间推断成本更低。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "In one possible design, several planting spaces are connected underground so that roots can explore a shared area instead of remaining inside separate narrow holes."
+              }
+            },
+            {
+              "id": 5,
+              "prompt": "A tree-based street design should include somewhere for excess rainwater to go.",
+              "answers": [
+                "TRUE"
+              ],
+              "explanation": "D段的 a safe route for overflow 就是让多余雨水有地方排走，对应 somewhere for excess rainwater to go。",
+              "evidence": {
+                "paragraph": "D",
+                "quote": "For this reason, a street design should provide a safe route for overflow."
+              }
+            },
+            {
+              "id": 6,
+              "prompt": "Using a mixture of tree species guarantees that no tree will develop a disease.",
+              "answers": [
+                "FALSE"
+              ],
+              "explanation": "E段明确说，多样化种植可以降低共同风险，但不能防止每一棵树生病。题干 guarantees that no tree（保证没有树会生病）与此直接冲突。",
+              "evidence": {
+                "paragraph": "E",
+                "quote": "A varied planting scheme reduces that shared risk. It does not prevent every individual tree from becoming ill."
+              }
+            },
+            {
+              "id": 7,
+              "prompt": "Trees at bus stops are more expensive to maintain than trees on unused land.",
+              "answers": [
+                "NOT GIVEN"
+              ],
+              "explanation": "F段比较的是不同位置带来的公共收益，没有比较维护费用。different public benefit 不能推出 more expensive。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "Ten healthy trees beside a busy bus stop may deliver a different public benefit from ten equally healthy trees on an unused strip of land."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "type": "text",
+          "heading": "Planning and caring for urban trees",
+          "instruction": "Questions 8–13. Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "questions": [
+            {
+              "id": 8,
+              "prompt": "The loss of water through leaves is known as ______.",
+              "answers": [
+                "transpiration"
+              ],
+              "explanation": "B段直接定义：lose water through their leaves 对应题干 loss of water through leaves；过程名称是 transpiration。",
+              "evidence": {
+                "paragraph": "B",
+                "quote": "Trees also lose water through their leaves, a process called transpiration."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 9,
+              "prompt": "Soil can be compressed by ______ during building work.",
+              "answers": [
+                "construction vehicles"
+              ],
+              "explanation": "C段交代土壤被压实的原因。by 后需要施动者；原文是 construction vehicles。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "Beneath it, soil may have been compressed by construction vehicles."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 10,
+              "prompt": "A shared underground area gives ______ more space to explore.",
+              "answers": [
+                "roots"
+              ],
+              "explanation": "C段连接种植空间的目的是让 roots 探索共享区域。题干 gives ... more space 改写 so that roots can explore a shared area。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "In one possible design, several planting spaces are connected underground so that roots can explore a shared area instead of remaining inside separate narrow holes."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 11,
+              "prompt": "A small species may be appropriate near ______.",
+              "answers": [
+                "overhead cables"
+              ],
+              "explanation": "E段的小树种适合架空电缆旁边。near 对应 beside，appropriate 对应 fit。",
+              "evidence": {
+                "paragraph": "E",
+                "quote": "A smaller species may fit beside overhead cables, although it will shade a smaller area."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 12,
+              "prompt": "A programme can track each tree’s ______ over several years.",
+              "answers": [
+                "condition"
+              ],
+              "explanation": "F段明确提出在一年、三年、五年后记录每棵树的 condition。each tree’s 后需要名词，且不能填 programme 的其他指标。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "A planting programme might record each tree's condition after one, three and five years."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 13,
+              "prompt": "Young trees may require ______ while their roots are developing.",
+              "answers": [
+                "watering"
+              ],
+              "explanation": "G段说根系发育期间，幼树可能需要 watering。require 对应 need，while ... developing 对应 while ... develop。",
+              "evidence": {
+                "paragraph": "G",
+                "quote": "Young trees may need watering while their root systems develop, and damaged supports must be removed or repaired."
+              },
+              "maxWords": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls-original-002",
+      "title": "Rebuilding a local railway",
+      "part": 2,
+      "category": "社会与交通",
+      "duration": 1200,
+      "source": "SLS 原创练习",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "This fictional case study follows a community restoring a disused railway in the town of Northmere. When the last goods train left, nine kilometres of track connected the town's old station with a riverside village. Twenty years later, a volunteer group proposed running passenger trains along the route. Some members imagined a tourist attraction; others hoped it would become a practical transport service. Their enthusiasm was shared, but their goals were not. Before purchasing equipment, they needed to decide what kind of railway they were trying to create."
+        },
+        {
+          "label": "B",
+          "text": "The group first asked residents where they travelled and when. The answers complicated the original proposal. The old station was a pleasant building, but it stood far from the town's main workplaces. The village station was also some distance from the school. Reopening the original route would therefore not automatically reproduce the journeys people needed to make. The group decided to begin with weekend leisure trips, while leaving open the possibility of adding a weekday service later. This limited plan could be tested without promising a solution to every local transport problem."
+        },
+        {
+          "label": "C",
+          "text": "A survey of the route then revealed a less visible difficulty. Long sections of rail looked usable, but the ground supporting them had changed. Water had collected beside one embankment because an old channel was blocked. Replacing the visible track without addressing this drainage problem would simply hide the cause of future damage. The engineers recommended clearing the channel before laying new track. The volunteers had expected most of their early spending to purchase trains; instead, much of it would go into work passengers might never notice."
+        },
+        {
+          "label": "D",
+          "text": "Financing required another change of approach. A donor offered enough money to restore the station building, which could also host meetings and small exhibitions. This was welcome, but it did not cover the cost of operating trains. The group separated construction funds from its operating budget. Ticket income would need to support fuel, inspections and other regular expenses. A large gift could make the railway look finished while leaving it unable to run. To avoid that outcome, the opening date would depend on a credible operating plan as well as completed physical work."
+        },
+        {
+          "label": "E",
+          "text": "Volunteers brought valuable skills, but the timetable could not depend only on their willingness to help. A person available every Saturday in spring might be unavailable during the summer. The group therefore created a rota and trained additional people for key roles. It also made a distinction between enthusiasm and qualification. Volunteers could welcome visitors after a short briefing, but safety-critical work required appropriate training and supervision. The aim was not to reduce participation; it was to make sure the service remained reliable when particular individuals were absent."
+        },
+        {
+          "label": "F",
+          "text": "The first season was deliberately modest. Trains ran on twelve weekends, and a bus linked the town centre with the old station. Alongside ticket sales, the group recorded cancellations and asked visitors how they had reached the railway. These details helped explain the totals. High attendance on one sunny holiday did not show whether ordinary weekends would attract enough passengers. Equally, low ticket sales on a day when the connecting bus failed were not clear evidence that the railway itself lacked appeal. Results needed to be interpreted in context."
+        },
+        {
+          "label": "G",
+          "text": "At the end of the season, the group chose to improve the bus connection before extending the line. This disappointed members who wanted an immediate expansion, but the decision followed the evidence collected during the trial. The project had begun with a desire to bring trains back. It gradually became an exercise in coordinating buildings, land, money, people and connecting services. Its success would depend less on recreating every feature of the old railway than on building a dependable service suited to the journeys people now wanted to make."
+        }
+      ],
+      "groups": [
+        {
+          "id": "g1",
+          "type": "matching",
+          "instruction": "Questions 1–5. Which paragraph contains the following information? Choose the correct letter, A–G. You may use any letter more than once.",
+          "options": [
+            {
+              "value": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "value": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "value": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "value": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "value": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "value": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "value": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "questions": [
+            {
+              "id": 1,
+              "prompt": "A difference between the journeys offered by the old route and those residents actually needed",
+              "answers": [
+                "B"
+              ],
+              "explanation": "B段先交代车站距离工作地点、学校较远，再总结旧线路不能自动满足实际出行需求。",
+              "evidence": {
+                "paragraph": "B",
+                "quote": "Reopening the original route would therefore not automatically reproduce the journeys people needed to make."
+              }
+            },
+            {
+              "id": 2,
+              "prompt": "A warning that visible repairs could leave the underlying cause of damage unresolved",
+              "answers": [
+                "C"
+              ],
+              "explanation": "C段指出，只更换看得见的铁轨而不解决排水问题，会把日后损坏的原因掩盖起来。underlying cause 对应 cause of future damage。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "Replacing the visible track without addressing this drainage problem would simply hide the cause of future damage."
+              }
+            },
+            {
+              "id": 3,
+              "prompt": "A distinction between money for building work and money for running the service",
+              "answers": [
+                "D"
+              ],
+              "explanation": "D段明确区分 construction funds（建设资金）与 operating budget（运营预算）。",
+              "evidence": {
+                "paragraph": "D",
+                "quote": "The group separated construction funds from its operating budget."
+              }
+            },
+            {
+              "id": 4,
+              "prompt": "An example of why poor sales did not necessarily indicate a lack of public interest",
+              "answers": [
+                "F"
+              ],
+              "explanation": "F段举出接驳巴士失灵的例子：该日售票少，不等于人们对铁路没兴趣。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "Equally, low ticket sales on a day when the connecting bus failed were not clear evidence that the railway itself lacked appeal."
+              }
+            },
+            {
+              "id": 5,
+              "prompt": "A decision to improve access to the railway before making it longer",
+              "answers": [
+                "G"
+              ],
+              "explanation": "G段的 improve the bus connection 对应 improve access；before extending the line 对应 before making it longer。",
+              "evidence": {
+                "paragraph": "G",
+                "quote": "At the end of the season, the group chose to improve the bus connection before extending the line."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "type": "text",
+          "heading": "Preparing the railway for operation",
+          "instruction": "Questions 6–10. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "questions": [
+            {
+              "id": 6,
+              "prompt": "The group planned to offer ______ at weekends before considering a weekday service.",
+              "answers": [
+                "leisure trips"
+              ],
+              "explanation": "B段提出先开办周末休闲出行。offer 后需要名词短语，at weekends 已表达 weekend，填 leisure trips 即可。",
+              "evidence": {
+                "paragraph": "B",
+                "quote": "The group decided to begin with weekend leisure trips, while leaving open the possibility of adding a weekday service later."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 7,
+              "prompt": "Before new track was laid, engineers advised clearing the ______.",
+              "answers": [
+                "channel"
+              ],
+              "explanation": "C段明确说先疏通 channel，再铺设新轨道。before 的顺序关系保持一致。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "The engineers recommended clearing the channel before laying new track."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 8,
+              "prompt": "A donor’s contribution would pay for restoring the ______.",
+              "answers": [
+                "station building"
+              ],
+              "explanation": "D段捐款只覆盖修复 station building，不覆盖运营费用。",
+              "evidence": {
+                "paragraph": "D",
+                "quote": "A donor offered enough money to restore the station building, which could also host meetings and small exhibitions."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 9,
+              "prompt": "To organise volunteers’ availability, the group developed a ______.",
+              "answers": [
+                "rota"
+              ],
+              "explanation": "E段针对志愿者不同时间的出勤情况，制订 rota（轮值表）。developed 对应 created。",
+              "evidence": {
+                "paragraph": "E",
+                "quote": "The group therefore created a rota and trained additional people for key roles."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 10,
+              "prompt": "During the trial season, a ______ connected the old station to the town centre.",
+              "answers": [
+                "bus"
+              ],
+              "explanation": "F段说 a bus linked ...，linked 对应 connected。不要把铁路本身误填为 train。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "Trains ran on twelve weekends, and a bus linked the town centre with the old station."
+              },
+              "maxWords": 2
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "choice",
+          "instruction": "Questions 11–13. Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "id": 11,
+              "prompt": "Why did the group train additional volunteers for key roles?",
+              "answers": [
+                "C"
+              ],
+              "explanation": "E段的核心是避免关键人员缺席时服务停摆，因此C正确。原文没有要减少参与者、取代所有专业人员或增加发车次数。",
+              "evidence": {
+                "paragraph": "E",
+                "quote": "The aim was not to reduce participation; it was to make sure the service remained reliable when particular individuals were absent."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "To reduce the total number of people involved"
+                },
+                {
+                  "value": "B",
+                  "text": "To replace all qualified workers with beginners"
+                },
+                {
+                  "value": "C",
+                  "text": "To maintain the service when some people could not attend"
+                },
+                {
+                  "value": "D",
+                  "text": "To run trains more frequently than originally planned"
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "prompt": "What did the group learn about evaluating its first season?",
+              "answers": [
+                "A"
+              ],
+              "explanation": "F段说明节假日天气和接驳巴士故障会影响售票，所以应结合环境解释数字。不能仅凭某一天高低做结论。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "Results needed to be interpreted in context."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "Ticket figures should be considered alongside the circumstances"
+                },
+                {
+                  "value": "B",
+                  "text": "The busiest holiday provided a reliable forecast for every weekend"
+                },
+                {
+                  "value": "C",
+                  "text": "Only visitors who arrived by bus should be included"
+                },
+                {
+                  "value": "D",
+                  "text": "Cancellations mattered less than the appearance of the station"
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "prompt": "What is the main point of the passage?",
+              "answers": [
+                "D"
+              ],
+              "explanation": "全文从目标分歧到出行调查、排水、预算、人员和接驳，说明复建铁路必须协调多方面实际需求，不能只恢复原貌。",
+              "evidence": {
+                "paragraph": "G",
+                "quote": "It gradually became an exercise in coordinating buildings, land, money, people and connecting services."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "Restoring a railway is mainly a matter of buying suitable trains"
+                },
+                {
+                  "value": "B",
+                  "text": "Historic routes always provide the best modern transport connections"
+                },
+                {
+                  "value": "C",
+                  "text": "A single large donation is enough to secure a railway’s future"
+                },
+                {
+                  "value": "D",
+                  "text": "A successful restoration requires coordinated planning around present needs"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls-original-003",
+      "title": "Why remembering is not recording",
+      "part": 3,
+      "category": "认知科学",
+      "duration": 1200,
+      "source": "SLS 原创练习",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "We often describe memory as a store into which experience is placed and from which it is later collected. The image is useful, but it can suggest that an event remains unchanged until we need it. Remembering is better understood as reconstruction: a person brings together retained details, general knowledge and clues available in the present. This does not mean that every memory is false. It means that preserving the meaning of an experience and preserving every detail of it are different achievements. A useful memory may accomplish the first without fully accomplishing the second."
+        },
+        {
+          "label": "B",
+          "text": "Imagine a passenger recalling a difficult train journey. She remembers heavy rain, a crowded platform and arriving late. When asked whether an announcement mentioned a broken signal, she says that it did. Yet perhaps she only heard that explanation from another passenger afterwards. Her account need not involve a deliberate lie. The explanation fits the delay so well that its source becomes less clear than its content. In this example, the important question is not merely whether the statement sounds reasonable, but whether it came from direct observation, another person or a later inference."
+        },
+        {
+          "label": "C",
+          "text": "Expectations can also provide material for reconstruction. Consider a hypothetical classroom exercise in which students read the same short description of a room. One group sees the title “A visit to the doctor”, while another sees “Waiting for an interview”. The description itself mentions neither medicine nor employment. If students later supply details associated with the titles, the added details would illustrate how a familiar pattern can guide interpretation. The title does not change the printed room; it changes the framework through which the reader understands it. No conclusion about particular age groups follows from this imagined exercise."
+        },
+        {
+          "label": "D",
+          "text": "Confidence creates a separate difficulty. An image may feel clear because it has been recalled many times, not because every element has been independently checked. A vivid memory should therefore not be accepted as accurate solely on the strength of its vividness. Equally, hesitation does not automatically make an account false. Someone who carefully distinguishes what they saw from what they inferred may sound less certain than someone who blends the two. Confidence is part of the experience of remembering, but it should not replace evidence when a precise detail matters."
+        },
+        {
+          "label": "E",
+          "text": "Retelling can make an account easier to produce. It can also establish a stable version in which the same details appear on each occasion. Such consistency may be reassuring, but repetition is not independent confirmation. If the first account contained a mistaken detail, repeating it does not provide a new reason to believe it. To check a disputed event, independent records are more useful than several copies of the same account. A dated message, for example, may help establish when a plan changed, provided its contents genuinely bear on that question."
+        },
+        {
+          "label": "F",
+          "text": "Personal notes can help, although they too need careful handling. A diary entry written during a visit has a different relationship to the event from an entry produced a month later. Both may be valuable, but they should not be treated as interchangeable. A practical record should identify its source and distinguish immediate observations from subsequent additions. When the writer is unsure, recording uncertainty is more useful than filling every gap. An empty space can preserve a question; an attractive guess may later be mistaken for an answer."
+        },
+        {
+          "label": "G",
+          "text": "The flexibility of memory is not simply a defect to be eliminated. Connecting a present problem with earlier experiences allows people to apply what they have learned in new circumstances. The difficulty arises when we expect that flexible system to act like a precise recording device. Different tasks call for different standards. A broad recollection may be enough to guide a routine choice, while a disputed date or exact wording deserves additional checks. Respecting memory therefore involves recognising both its practical value and the limits of the evidence it provides."
+        }
+      ],
+      "groups": [
+        {
+          "id": "g1",
+          "type": "ynng",
+          "instruction": "Questions 1–5: Do the following statements agree with the views of the writer? Choose YES if the statement agrees, NO if it contradicts the writer, or NOT GIVEN if the writer’s view is not stated.",
+          "questions": [
+            {
+              "id": 1,
+              "prompt": "A memory can retain the main meaning of an experience without retaining all of its details.",
+              "answers": [
+                "YES"
+              ],
+              "explanation": "A段区分“保留经历的意义”和“保留每个细节”。记忆可以做到前者，却没有完全做到后者，因此题干符合作者观点。",
+              "evidence": {
+                "paragraph": "A",
+                "quote": "A useful memory may accomplish the first without fully accomplishing the second."
+              }
+            },
+            {
+              "id": 2,
+              "prompt": "A memory that feels vivid can be considered accurate without any further evidence.",
+              "answers": [
+                "NO"
+              ],
+              "explanation": "D段明确说，不能仅凭记忆的鲜明程度认定它准确。题干说无需更多证据即可认定准确，与原文直接相反。",
+              "evidence": {
+                "paragraph": "D",
+                "quote": "A vivid memory should therefore not be accepted as accurate solely on the strength of its vividness."
+              }
+            },
+            {
+              "id": 3,
+              "prompt": "Younger readers are more likely than older readers to add details suggested by a title.",
+              "answers": [
+                "NOT GIVEN"
+              ],
+              "explanation": "C段只有一个假设性的课堂活动，没有比较年轻读者与年长读者。原文还说明，不能据此对特定年龄群体得出结论。题干中的年龄比较没有依据。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "No conclusion about particular age groups follows from this imagined exercise."
+              }
+            },
+            {
+              "id": 4,
+              "prompt": "Familiar patterns can influence how a person interprets a description.",
+              "answers": [
+                "YES"
+              ],
+              "explanation": "C段说，熟悉的模式可以引导理解。题干中的influence how a person interprets对应原文guide interpretation。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "If students later supply details associated with the titles, the added details would illustrate how a familiar pattern can guide interpretation."
+              }
+            },
+            {
+              "id": 5,
+              "prompt": "A useful personal record should replace uncertain details with plausible guesses.",
+              "answers": [
+                "NO"
+              ],
+              "explanation": "F段建议记录不确定之处，不要为了填满空缺而猜测。题干主张用看似合理的猜测替换不确定信息，与作者建议相反。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "When the writer is unsure, recording uncertainty is more useful than filling every gap."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "type": "choice",
+          "instruction": "Questions 6–10: Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "id": 6,
+              "prompt": "What does the train journey example illustrate?",
+              "answers": [
+                "B"
+              ],
+              "explanation": "乘客可能把后来听说的解释当作自己的直接记忆。作者明确指出，这不一定涉及故意撒谎，因此B准确概括了例子的作用。",
+              "evidence": {
+                "paragraph": "B",
+                "quote": "Her account need not involve a deliberate lie. The explanation fits the delay so well that its source becomes less clear than its content."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "Passengers usually ignore announcements during delays."
+                },
+                {
+                  "value": "B",
+                  "text": "A sincere account may confuse where a remembered detail came from."
+                },
+                {
+                  "value": "C",
+                  "text": "Bad weather is usually mistaken for a technical failure."
+                },
+                {
+                  "value": "D",
+                  "text": "The main cause of inaccurate recall is unwillingness to admit a mistake."
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "prompt": "In the hypothetical classroom exercise, what differs between the two groups?",
+              "answers": [
+                "C"
+              ],
+              "explanation": "两组阅读的是同一段房间描述，但标题分别指向看医生和求职面试。因此改变的是理解描述的背景框架，而非描述本身。",
+              "evidence": {
+                "paragraph": "C",
+                "quote": "The title does not change the printed room; it changes the framework through which the reader understands it."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "The factual details printed in the description"
+                },
+                {
+                  "value": "B",
+                  "text": "The number of rooms they are asked to describe"
+                },
+                {
+                  "value": "C",
+                  "text": "The interpretive context supplied before reading"
+                },
+                {
+                  "value": "D",
+                  "text": "The amount of time allowed for remembering"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "prompt": "Why does the writer distinguish between two diary entries written at different times?",
+              "answers": [
+                "A"
+              ],
+              "explanation": "F段强调，当时写下的记录与一个月后回忆写下的记录，与事件的联系不同。两者都有价值，但不能混为一谈。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "Both may be valuable, but they should not be treated as interchangeable."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "To show that the timing of a record affects how it relates to the event"
+                },
+                {
+                  "value": "B",
+                  "text": "To suggest that later diary entries are always more detailed"
+                },
+                {
+                  "value": "C",
+                  "text": "To argue that an immediate record must contain no errors"
+                },
+                {
+                  "value": "D",
+                  "text": "To recommend waiting a month before evaluating an experience"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "prompt": "What limitation of repeated retelling is emphasised in paragraph E?",
+              "answers": [
+                "D"
+              ],
+              "explanation": "反复讲述可以让版本稳定，却不提供独立的新证据。如果第一次已经错了，重复不会增加它正确的理由，因此D正确。",
+              "evidence": {
+                "paragraph": "E",
+                "quote": "If the first account contained a mistaken detail, repeating it does not provide a new reason to believe it."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "It necessarily makes an account less fluent."
+                },
+                {
+                  "value": "B",
+                  "text": "It prevents people from remembering the event at all."
+                },
+                {
+                  "value": "C",
+                  "text": "It always produces a different version of an event."
+                },
+                {
+                  "value": "D",
+                  "text": "It can preserve an original error without confirming accuracy."
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "prompt": "Which statement best represents the writer’s overall position?",
+              "answers": [
+                "B"
+              ],
+              "explanation": "G段承认记忆的灵活性有实际价值，同时指出不同任务需要不同精确度。一般决定可依据大致回忆，争议日期或原话则应核查，因此B最完整。",
+              "evidence": {
+                "paragraph": "G",
+                "quote": "A broad recollection may be enough to guide a routine choice, while a disputed date or exact wording deserves additional checks."
+              },
+              "options": [
+                {
+                  "value": "A",
+                  "text": "Memory is too unreliable to help with ordinary decisions."
+                },
+                {
+                  "value": "B",
+                  "text": "Memory is useful, but exact claims may require checks beyond recollection."
+                },
+                {
+                  "value": "C",
+                  "text": "A detailed memory can usually replace written evidence."
+                },
+                {
+                  "value": "D",
+                  "text": "All forms of remembering should be judged by one fixed standard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "text",
+          "heading": "Using memory carefully",
+          "instruction": "Questions 11–14: Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "questions": [
+            {
+              "id": 11,
+              "prompt": "The writer describes remembering as a process of ______ rather than the recovery of an unchanged event.",
+              "answers": [
+                "reconstruction"
+              ],
+              "explanation": "A段直接给出核心概念reconstruction。空格位于a process of之后，需要名词；该词表示把保留的信息、知识与当前线索重新组合。",
+              "evidence": {
+                "paragraph": "A",
+                "quote": "Remembering is better understood as reconstruction: a person brings together retained details, general knowledge and clues available in the present."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 12,
+              "prompt": "A useful personal record needs to identify its ______ and separate immediate observations from later additions.",
+              "answers": [
+                "source"
+              ],
+              "explanation": "F段完整对应题干：记录应说明source，并区分即时观察与后来补充。its之后需名词，source为原文原词。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "A practical record should identify its source and distinguish immediate observations from subsequent additions."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 13,
+              "prompt": "When an event is disputed, ______ provide a better basis for checking than copies of one account.",
+              "answers": [
+                "independent records"
+              ],
+              "explanation": "E段将independent records与同一叙述的多个副本直接比较。题干provide a better basis for checking对应原文are more useful，须保留independent来表达“独立来源”。",
+              "evidence": {
+                "paragraph": "E",
+                "quote": "To check a disputed event, independent records are more useful than several copies of the same account."
+              },
+              "maxWords": 2
+            },
+            {
+              "id": 14,
+              "prompt": "Instead of guessing to complete a record, a writer should make a note of ______.",
+              "answers": [
+                "uncertainty"
+              ],
+              "explanation": "F段建议在不确定时记录uncertainty，优于填补每个空缺。题干make a note of对应原文recording，答案是原文名词uncertainty。",
+              "evidence": {
+                "paragraph": "F",
+                "quote": "When the writer is unsure, recording uncertainty is more useful than filling every gap."
+              },
+              "maxWords": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

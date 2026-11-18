@@ -1,0 +1,339 @@
+{
+  "id": "bcf31587-c7f9-4ce9-80fb-d123a5aa8dbd",
+  "title": "Waste collection",
+  "titleCn": "巴尔的摩垃圾分类回收讲座",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/bcf31587-c7f9-4ce9-80fb-d123a5aa8dbd",
+  "duration": 379,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,460"
+    },
+    {
+      "label": "2",
+      "text": "Section two."
+    },
+    {
+      "label": "3",
+      "text": "00:00:02,280"
+    },
+    {
+      "label": "4",
+      "text": "You'll hear a talk about the waste collection in Baltimore. First, you have some time to look at questions eleven to fifteen."
+    },
+    {
+      "label": "5",
+      "text": "00:00:21,860"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions eleven to fifteen."
+    },
+    {
+      "label": "7",
+      "text": "00:00:42,600"
+    },
+    {
+      "label": "8",
+      "text": "Hi folks. My name is Loretta Johnston, and I'm here from the Baltimore Department of Public Waste. Thank you for coming out to our community meeting tonight. I've got a few words to say about the waste collection here in Baltimore."
+    },
+    {
+      "label": "9",
+      "text": "00:00:56,500"
+    },
+    {
+      "label": "10",
+      "text": "First, there's the sorted collection bins themselves. They're made of sturdy, solid material, so none of your trash can seep out or puncture the bin. Also, since these things sit out on the curb overnight, rain or shine, they have to be waterproof. We can't have water getting up in it and filling up the bin."
+    },
+    {
+      "label": "11",
+      "text": "00:01:15,940"
+    },
+    {
+      "label": "12",
+      "text": "Remember to pay attention to which bin is which and sort your waste accordingly. You should have a blue or green bin for recyclable garbage, a yellow bin for unrecyclable garbage, and a red bin for toxic waste. Our citywide waste management is divided into two services. The first is commercial waste collection or trash collection from buildings. The majority of building waste is paper, which goes in the blue or green bins. You'll notice in your office buildings there are signs that warn you not to overfill these bins. All that paper adds up, and an overflowing bin is infinitely harder for collectors to carry to the truck and empty. Aside from paper, another large source of building waste is metals. Metals such as tin and aluminum can be put in the yellow recycle bins. But metals like lead and copper should be disposed of in the red bins. These heavy metals are harmful to the environment and exacerbate our city's existing pollution problem."
+    },
+    {
+      "label": "13",
+      "text": "00:02:17,220"
+    },
+    {
+      "label": "14",
+      "text": "That's about all the information you need for building waste."
+    },
+    {
+      "label": "15",
+      "text": "00:02:21,260"
+    },
+    {
+      "label": "16",
+      "text": "Moving on to the second service, household waste collection is probably what you primarily think of when you think of what we do here. Many of the same guidelines apply. The sorting is the same, et cetera. Please remember to keep garbage like kitchen waste in a plastic bag. It makes collection easier and lessens the abominable rotten trash smell."
+    },
+    {
+      "label": "17",
+      "text": "00:02:45,680"
+    },
+    {
+      "label": "18",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty."
+    },
+    {
+      "label": "19",
+      "text": "00:02:58,000"
+    },
+    {
+      "label": "20",
+      "text": "Now listen and answer questions sixteen to twenty."
+    },
+    {
+      "label": "21",
+      "text": "00:03:19,900"
+    },
+    {
+      "label": "22",
+      "text": "So after we take your trash away, what happens to it? We take all the garbage to one of a number of garbage disposal plants, each of which is located in the middle of an open space of some sort. No one wants to have their home or office right next door to a waste disposal plant, right?"
+    },
+    {
+      "label": "23",
+      "text": "00:03:38,600"
+    },
+    {
+      "label": "24",
+      "text": "Waste is collected and then disposed of once every 4 weeks. A lot of trash can build up in that time. So we're in the process of developing a plan to fund collection more frequently. Ideally, it would be collected weekly, but we will likely have to settle for biweekly. The garbage trucks make their rounds to clear the bins at night in order to avoid traffic. I'm sure you've seen how much waste your own household produces in a given week. Now imagine all the trash produced by all the households in Baltimore. It's a lot, right? It may surprise you that this amount is only marginal compared to commercial waste."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 11-20**\nComplete the notes below.\nWrite **ONE WORD AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "d8523ea5-3141-4981-8d40-4663a93d02d1",
+          "prompt": "**Key features of garbage containers**:\nSturdy and **11**_____",
+          "answers": [
+            "waterproof"
+          ],
+          "rawAnswer": "waterproof",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They're made of sturdy, solid material;they have to be waterproof"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "3121c4b9-01fa-412f-8233-832991baa70d",
+          "prompt": "**Three kinds**:\nWastes sorting\n·Recyclable garbage (blue or green bin)\n·Unrecyclable garbage (yellow bin)\n·Toxic waste (red bin)\n\n**Waste collection**\n·Commercial waste collection:\n- It mainly refers to **12**_____ waste",
+          "answers": [
+            "building"
+          ],
+          "rawAnswer": "building",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The first is commercial waste collection or trash collection from buildings"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "aa1a2b49-cb9f-4a41-b13d-ed2699ac3119",
+          "prompt": "- Warning signs state not to **13**_____ blue/green bins.",
+          "answers": [
+            "overfill"
+          ],
+          "rawAnswer": "overfill",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Signs that warn you not to overfill these bins"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "008af501-6209-465f-bf47-857d8501fe54",
+          "prompt": "-Those **14**_____ metals will cause environmental pollution.",
+          "answers": [
+            "heavy"
+          ],
+          "rawAnswer": "heavy",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These heavy metals are harmful to the environment and exacerbate our city's existing pollution problem"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "d1329668-f462-43d9-94a2-ee2c2cbca297",
+          "prompt": "**Household waste collection**:\n-All kitchen garbage should be put into a **15**_____ bag.",
+          "answers": [
+            "plastic"
+          ],
+          "rawAnswer": "plastic",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Please remember to keep garbage like kitchen waste in a plastic bag"
+          },
+          "keywordPairs": [
+            {
+              "question": "waste",
+              "article": "garbage"
+            },
+            {
+              "question": "put into",
+              "article": "keep in"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "c127611f-2c1f-4a80-8b3c-b60b91ecefe1",
+          "prompt": "**Waste disposal**\n·The garbage disposal plant is situated in an **16**_____ space or field.",
+          "answers": [
+            "open"
+          ],
+          "rawAnswer": "open",
+          "evidence": {
+            "paragraph": "",
+            "quote": "We take all the garbage to one of a number of garbage disposal plants, each of which is located in the middle of an open space of some sort"
+          },
+          "keywordPairs": [
+            {
+              "question": "situated",
+              "article": "located"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "d636eadd-0bf5-4eff-b968-b3482d00e29e",
+          "prompt": "·The waste is disposed of at least once every **17**_____ .",
+          "answers": [
+            "4 weeks"
+          ],
+          "rawAnswer": "4 weeks",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Waste is collected and then disposed of once every 4 weeks. A lot of trash can build up in that time"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "1ccbee1a-6d48-4687-a66a-f1479f1f554c",
+          "prompt": "·The dustbin should be cleared at night because of **18**_____ .",
+          "answers": [
+            "traffic"
+          ],
+          "rawAnswer": "traffic",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The garbage trucks make their rounds to clear the bins at night in order to avoid traffic"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "8e609771-1ab1-417c-9cf5-4dec09698f60",
+          "prompt": "·The waste is mainly produced by **19**_____ industry, retail and office.",
+          "answers": [
+            "businesses"
+          ],
+          "rawAnswer": "businesses",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It may surprise you that this amount is only marginal compared to commercial waste"
+          },
+          "keywordPairs": [
+            {
+              "question": "commercial",
+              "article": "businesses"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "39b3f7cd-2dfe-4dd1-b0b2-00f19c16a60b",
+          "prompt": "·Please do not dispose of **20**_____ in any of the bins.（本题答案暂无）",
+          "answers": [
+            "stones"
+          ],
+          "rawAnswer": "stones",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Please do not dispose of stones in any of the bins"
+          },
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,460</p><p>Section two. </p><p>00:00:02,280</p><p>You'll hear a talk about the waste collection in Baltimore. First, you have some time to look at questions eleven to fifteen. </p><p>00:00:21,860</p><p>Now listen carefully and answer questions eleven to fifteen. </p><p>00:00:42,600</p><p>Hi folks. My name is Loretta Johnston, and I'm here from the Baltimore Department of Public Waste. Thank you for coming out to our community meeting tonight. I've got a few words to say about the waste collection here in Baltimore. </p><p>00:00:56,500</p><p>First, there's the sorted collection bins themselves. They're made of sturdy, solid material, so none of your trash can seep out or puncture the bin. Also, since these things sit out on the curb overnight, rain or shine, they have to be waterproof. We can't have water getting up in it and filling up the bin. </p><p>00:01:15,940</p><p>Remember to pay attention to which bin is which and sort your waste accordingly. You should have a blue or green bin for recyclable garbage, a yellow bin for unrecyclable garbage, and a red bin for toxic waste. Our citywide waste management is divided into two services. The first is commercial waste collection or trash collection from buildings. The majority of building waste is paper, which goes in the blue or green bins. You'll notice in your office buildings there are signs that warn you not to overfill these bins. All that paper adds up, and an overflowing bin is infinitely harder for collectors to carry to the truck and empty. Aside from paper, another large source of building waste is metals. Metals such as tin and aluminum can be put in the yellow recycle bins. But metals like lead and copper should be disposed of in the red bins. These heavy metals are harmful to the environment and exacerbate our city's existing pollution problem. </p><p>00:02:17,220</p><p>That's about all the information you need for building waste. </p><p>00:02:21,260</p><p>Moving on to the second service, household waste collection is probably what you primarily think of when you think of what we do here. Many of the same guidelines apply. The sorting is the same, et cetera. Please remember to keep garbage like kitchen waste in a plastic bag. It makes collection easier and lessens the abominable rotten trash smell. </p><p>00:02:45,680</p><p>Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty. </p><p>00:02:58,000</p><p>Now listen and answer questions sixteen to twenty. </p><p>00:03:19,900</p><p>So after we take your trash away, what happens to it? We take all the garbage to one of a number of garbage disposal plants, each of which is located in the middle of an open space of some sort. No one wants to have their home or office right next door to a waste disposal plant, right? </p><p>00:03:38,600</p><p>Waste is collected and then disposed of once every 4 weeks. A lot of trash can build up in that time. So we're in the process of developing a plan to fund collection more frequently. Ideally, it would be collected weekly, but we will likely have to settle for biweekly. The garbage trucks make their rounds to clear the bins at night in order to avoid traffic. I'm sure you've seen how much waste your own household produces in a given week. Now imagine all the trash produced by all the households in Baltimore. It's a lot, right? It may surprise you that this amount is only marginal compared to commercial waste.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/bcf31587-c7f9-4ce9-80fb-d123a5aa8dbd.mp3",
+    "durationSeconds": 258.024,
+    "sizeBytes": 4128915,
+    "sha256": "352648c80074acb1e4e07605a41b6fb13f443ff46f0218078102733cec7f381d",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:59:13Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1777697773835_6zskrp_76a5b2b8.mp3"
+}

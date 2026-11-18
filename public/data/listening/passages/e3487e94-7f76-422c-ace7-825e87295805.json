@@ -1,0 +1,334 @@
+{
+  "id": "e3487e94-7f76-422c-ace7-825e87295805",
+  "title": "Dolphin research in the Northern Territory",
+  "titleCn": "北领地海豚研究：snubfin与humpback海豚",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/e3487e94-7f76-422c-ace7-825e87295805",
+  "duration": 417,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:02,120"
+    },
+    {
+      "label": "2",
+      "text": "Part four. You will hear a part of a lecture about research on dolphins in the Northern Territory. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "3",
+      "text": "00:00:18,580"
+    },
+    {
+      "label": "4",
+      "text": "Good afternoon, everyone. Today, I'll be sharing insights into our ongoing dolphin research project in Australia's Northern Territory. This region is home to two fascinating yet understudied species: the Australian snubfin dolphin and the Indo-Pacific humpback dolphin. Despite their ecological importance, there's a surprising lack of knowledge about their behavior, habitats, and conservation needs. Let's dive into why we chose this location, the challenges we face, and what we hope to achieve. The Northern Territory is, in many ways, an ideal location for studying dolphins. Its coastline remains largely undeveloped, which means the water quality is clean, and marine life is abundant. I've spent most of my field work time in the region's major river systems. These waterways are among the few in the world where hunting is completely banned in these rivers, which means the dolphins and other wildlife are legally... yet another excellent reason to conduct research in Northern Territory. However, there are some drawbacks. One major challenge is the extreme weather, which complicates research efforts. Additionally, the vast estuary zones where these dolphins thrive are highly remote. Now, let me outline the specific objectives of this study. First, we need to identify and classify two dolphin species, the snubfin dolphin and the humpback dolphin. So far, very few genetic samples have been collected from these species, so we also want to determine whether they are related. Next, we aim to map their habitats. Dolphins are highly sensitive to their surroundings, so understanding their preferred environment such as water depth, salinity, and food availability is crucial for conservation. Another key goal is to estimate their population sizes. Are these dolphins thriving, or are their numbers declining? Whether their movements follow any patterns, for example, if they migrate seasonally. Finally, we need to investigate how human activities in their habitats affects them. As you can see, there's still much research to be done if we want to protect these dolphins. Now, let me explain the techniques we're using. We spend long periods camping on boats, tracking dolphins to map their hotspots. This data will be crucial for future conservation and management plans for both species. Photography plays a huge role too. By photographing the colors and unique markings on their dorsal fins, we can recognize individual dolphins over time. Think of it like a fingerprint. No two dorsal fins are exactly alike. This method lets us estimate population sizes and track how often specific dolphins reappear in certain areas. Skin samples using a harmless biopsy technique which help determine a dolphin's age. Further analysis can reveal their exposure to pollution. Though our project is still in its early stages, some patterns are emerging. Both snubfin and humpback dolphins live in small, tight-knit groups. They have long lifespans and reproduce slowly, breeding only once every four years. This makes them vulnerable to threats as their populations can't rebound quickly. Interestingly, their habitats overlap with areas of increasing human activity. However, there's still so much more to uncover about these dolphins. For instance, I'm particularly interested in further investigating whether noise exposure might have negative impacts on dolphin populations. Questions like, could it disrupt their communication or even contribute to strandings? These questions are urgent as coastal development in the Northern Territory is accelerating. Our work between conservation and human progress. By understanding these dolphins' needs, we can advocate for smarter policies. There's still so much to learn, but every piece of data brings us closer to ensuring these remarkable creatures survive for generations to come. Thank you for listening, and I'm happy to take any questions."
+    },
+    {
+      "label": "5",
+      "text": "00:04:50,180"
+    },
+    {
+      "label": "6",
+      "text": "That is the end of part four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "04e87ee5-79c9-4c75-bb8e-926d871084f2",
+          "prompt": "**Reason for research**\n· lack of knowledge about Australian Snubfin and Indo-Pacific Humpback dolphins\n\n**Advantages of the location**\n· the dolphins live in water that is **31**_____ and full of sea life",
+          "answers": [
+            "clean"
+          ],
+          "rawAnswer": "clean",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Its coastline remains largely undeveloped, which means the water quality is clean, and marine life is abundant"
+          },
+          "keywordPairs": [
+            {
+              "question": "full of sea life",
+              "article": "marine life is abundant"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "d61c5f3e-eb4c-4e74-b70d-06e0c56980eb",
+          "prompt": "· **32**_____ are not allowed in the area",
+          "answers": [
+            "hunting"
+          ],
+          "rawAnswer": "hunting",
+          "evidence": {
+            "paragraph": "",
+            "quote": "These waterways are among the few in the world where hunting is completely banned in these rivers, which means the dolphins and other wildlife are legally... yet another excellent reason to conduct research in Northern Territory"
+          },
+          "keywordPairs": [
+            {
+              "question": "are not allowed",
+              "article": "is completely banned"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "6d7d11af-66f4-478f-8db8-51aeff240ff1",
+          "prompt": "**Disadvantages of the location**\n· severe **33**_____ affects research\n· rivers are remote",
+          "answers": [
+            "weather"
+          ],
+          "rawAnswer": "weather",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One major challenge is the extreme weather, which complicates research efforts"
+          },
+          "keywordPairs": [
+            {
+              "question": "severe",
+              "article": "extreme"
+            },
+            {
+              "question": "affects research",
+              "article": "complicates research efforts"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "d1ce9bf9-728c-4928-9d10-1e8796b2d108",
+          "prompt": "**Aims of the research**\n· to classify the two types of dolphins\n· to find out if they are **34**_____",
+          "answers": [
+            "related"
+          ],
+          "rawAnswer": "related",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So far, very few genetic samples have been collected from these species, so we also want to determine whether they are related"
+          },
+          "keywordPairs": [
+            {
+              "question": "find out if",
+              "article": "determine whether"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "72a7c470-bbdd-47aa-8d3a-7432886cce40",
+          "prompt": "· to investigate where the dolphins live and their ideal **35**_____ habitat",
+          "answers": [
+            "environment"
+          ],
+          "rawAnswer": "environment",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Dolphins are highly sensitive to their surroundings, so understanding their preferred environment such as water depth, salinity, and food availability is crucial for conservation"
+          },
+          "keywordPairs": [
+            {
+              "question": "investigate where the dolphins live and their ideal",
+              "article": "understanding their preferred"
+            },
+            {
+              "question": "habitat",
+              "article": "surroundings"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "25bb3688-e967-48a4-a082-158bbe48c9cb",
+          "prompt": "· to work out the **36**_____ figures",
+          "answers": [
+            "population"
+          ],
+          "rawAnswer": "population",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another key goal is to estimate their population sizes. Are these dolphins thriving, or are their numbers declining"
+          },
+          "keywordPairs": [
+            {
+              "question": "work out",
+              "article": "estimate"
+            },
+            {
+              "question": "figures",
+              "article": "numbers"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "4c95d022-f8f5-4765-8586-f53b5f4d6c5e",
+          "prompt": "· to examine their patterns of\n· to assess the impact of **37**_____ activity",
+          "answers": [
+            "human"
+          ],
+          "rawAnswer": "human",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Finally, we need to investigate how human activities in their habitats affects them"
+          },
+          "keywordPairs": [
+            {
+              "question": "assess",
+              "article": "investigate"
+            },
+            {
+              "question": "the impact of",
+              "article": "affects"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "52ab63df-b646-4de9-bf58-473014af2e91",
+          "prompt": "**Techniques used**\n· conducted boat-based surveys to help make a map\n· used photos to provide data on:\n- the **38**_____ of the dolphin`s dorsal fins",
+          "answers": [
+            "colors"
+          ],
+          "rawAnswer": "colors",
+          "evidence": {
+            "paragraph": "",
+            "quote": "By photographing the colors and unique markings on their dorsal fins, we can recognize individual dolphins over time"
+          },
+          "keywordPairs": [
+            {
+              "question": "used photos to provide data on",
+              "article": "By photographing"
+            },
+            {
+              "question": "the markings on them",
+              "article": "unique markings on their dorsal fins"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "45172690-dca2-433b-b540-e043f2eb4d23",
+          "prompt": "- the markings on them\n· took skin samples to find out:\n- their age\n- how much **39**_____ they have been affected by the dolphins live in small groups, are long-lived and slow breeding",
+          "answers": [
+            "pollution"
+          ],
+          "rawAnswer": "pollution",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Skin samples using a harmless biopsy technique which help determine a dolphin's age. Further analysis can reveal their exposure to pollution"
+          },
+          "keywordPairs": [
+            {
+              "question": "find out",
+              "article": "reveal"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "sourceType": "part1_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD AND/OR A NUMBER** for each answer.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "fd6de795-7286-49f9-ad6b-e7076bb8e9f3",
+          "prompt": "**Further investigating**\n· the effect of **40**_____ on the dolphins (e.g., does it cause beaching?)",
+          "answers": [
+            "noise"
+          ],
+          "rawAnswer": "noise",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For instance, I'm particularly interested in further investigating whether noise exposure might have negative impacts on dolphin populations. Questions like, could it disrupt their communication or even contribute to strandings"
+          },
+          "keywordPairs": [
+            {
+              "question": "the effect of",
+              "article": "might have negative impacts on"
+            }
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题",
+    "Part1填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:02,120</p><p>Part four. You will hear a part of a lecture about research on dolphins in the Northern Territory. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:18,580</p><p>Good afternoon, everyone. Today, I'll be sharing insights into our ongoing dolphin research project in Australia's Northern Territory. This region is home to two fascinating yet understudied species: the Australian snubfin dolphin and the Indo-Pacific humpback dolphin. Despite their ecological importance, there's a surprising lack of knowledge about their behavior, habitats, and conservation needs. Let's dive into why we chose this location, the challenges we face, and what we hope to achieve. The Northern Territory is, in many ways, an ideal location for studying dolphins. Its coastline remains largely undeveloped, which means the water quality is clean, and marine life is abundant. I've spent most of my field work time in the region's major river systems. These waterways are among the few in the world where hunting is completely banned in these rivers, which means the dolphins and other wildlife are legally... yet another excellent reason to conduct research in Northern Territory. However, there are some drawbacks. One major challenge is the extreme weather, which complicates research efforts. Additionally, the vast estuary zones where these dolphins thrive are highly remote. Now, let me outline the specific objectives of this study. First, we need to identify and classify two dolphin species, the snubfin dolphin and the humpback dolphin. So far, very few genetic samples have been collected from these species, so we also want to determine whether they are related. Next, we aim to map their habitats. Dolphins are highly sensitive to their surroundings, so understanding their preferred environment such as water depth, salinity, and food availability is crucial for conservation. Another key goal is to estimate their population sizes. Are these dolphins thriving, or are their numbers declining? Whether their movements follow any patterns, for example, if they migrate seasonally. Finally, we need to investigate how human activities in their habitats affects them. As you can see, there's still much research to be done if we want to protect these dolphins. Now, let me explain the techniques we're using. We spend long periods camping on boats, tracking dolphins to map their hotspots. This data will be crucial for future conservation and management plans for both species. Photography plays a huge role too. By photographing the colors and unique markings on their dorsal fins, we can recognize individual dolphins over time. Think of it like a fingerprint. No two dorsal fins are exactly alike. This method lets us estimate population sizes and track how often specific dolphins reappear in certain areas. Skin samples using a harmless biopsy technique which help determine a dolphin's age. Further analysis can reveal their exposure to pollution. Though our project is still in its early stages, some patterns are emerging. Both snubfin and humpback dolphins live in small, tight-knit groups. They have long lifespans and reproduce slowly, breeding only once every four years. This makes them vulnerable to threats as their populations can't rebound quickly. Interestingly, their habitats overlap with areas of increasing human activity. However, there's still so much more to uncover about these dolphins. For instance, I'm particularly interested in further investigating whether noise exposure might have negative impacts on dolphin populations. Questions like, could it disrupt their communication or even contribute to strandings? These questions are urgent as coastal development in the Northern Territory is accelerating. Our work between conservation and human progress. By understanding these dolphins' needs, we can advocate for smarter policies. There's still so much to learn, but every piece of data brings us closer to ensuring these remarkable creatures survive for generations to come. Thank you for listening, and I'm happy to take any questions. </p><p>00:04:50,180</p><p>That is the end of part four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/e3487e94-7f76-422c-ace7-825e87295805.mp3",
+    "durationSeconds": 296.112,
+    "sizeBytes": 4738323,
+    "sha256": "ca9e79ee7f8b263f8527d141dfbfc16bdd9ba76cece95787bcb2506a3158d678",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:07:00Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1775478129289_co8eyr_9fd9b33a_da1b1ed1.mp3"
+}

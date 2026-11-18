@@ -1,0 +1,289 @@
+{
+  "id": "cambridge-7-test-2-listening-2",
+  "title": "Boat Trip",
+  "titleCn": "Boat Trip",
+  "subject": "listening",
+  "part": 2,
+  "duration": 315,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 2
+  },
+  "sourceQuestionId": "6970",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/6970",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Section 2"
+    },
+    {
+      "label": "2",
+      "text": "Thank you for calling the Tourist Line. There are many different ways of getting round the city and we'd like to suggest some you may not have thought of."
+    },
+    {
+      "label": "3",
+      "text": "How about a city trip by boat? There are four main stopping points - from west to east: stop A Green Banks, stop B City Bridge, stop C Roman Landing and stop D Newtown.You can find the main booking office at stop A."
+    },
+    {
+      "label": "4",
+      "text": "The first boat leaves at 8 a.m. and the last one at 6:30 p.m. There are also many attractions you can visit along the river. At Stop A, if you have time, you can visit the fine 16th century palace here built for the king with its beautiful formal gardens. It's very near the booking office. Now you can enjoy every corner of this superb residence.Stop B Why don't you visit Tower Restaurant with its wide range of refreshments? This is a place where you can sit and enjoy the wonderful views over the old commercial and banking centre of the city."
+    },
+    {
+      "label": "5",
+      "text": "Stop C is the area where, in the first century AD, invading soldiers crossed the river; this was much shallower than it is now. That's why this area is called Roman Landing. There's an interactive Museum to visit here with a large shop which has a good range of local history books."
+    },
+    {
+      "label": "6",
+      "text": "At the furthest point of the trip, stop D, the most exciting place to visit is the new Entertainment Complex with seven-screen cinema, bowling alley and video games arcade."
+    },
+    {
+      "label": "7",
+      "text": "Besides the boat tours, there are city buses. Two companies offer special services."
+    },
+    {
+      "label": "8",
+      "text": "The Top Bus Company runs all its tours with a live commentary in English. Tours leave from 8:30 a.m. every 20 minutes. There are departures from Central Station, Castle Hill and Long Walk. This is a hop-on hop-off service and tickets are valid for 24 hours. For further details call Top Bus on 0208 9447810."
+    },
+    {
+      "label": "9",
+      "text": "The Number One Sightseeing Tour is available with a commentary in eight languages. Buses depart from Central Station every five to six minutes from about 9 a.m. with the last bus at around 7 p.m."
+    },
+    {
+      "label": "10",
+      "text": "There are also Number One services with an English-speaking..."
+    },
+    {
+      "label": "11",
+      "text": "感谢你打电话给旅游线路。有许多不同的方式来游览我们的城市，我们想建议一些你可能没有想到的方式。乘船游城市听起来怎么样？"
+    },
+    {
+      "label": "12",
+      "text": "从西向东有四个主要的停车处：停止一个绿色银行，停靠点A Green Banks。停靠点B. C. ty Bridge，停靠点C Roman Landing还有停靠点D Newtown。"
+    },
+    {
+      "label": "13",
+      "text": "你可以在停靠点A找到主订票处。"
+    },
+    {
+      "label": "14",
+      "text": "第一条船在早上8点离开，最后一条在下午6.30点离开。你可以沿着这条河去游览。如果你有时间的话，你可以去参观十六个世纪的宫殿，它有美丽的花园。它距离售票处很近。现在你可以享受这个极好的地方的每一个角落。"
+    },
+    {
+      "label": "15",
+      "text": "停靠点B你为什么不去参观它的高塔餐厅以及试吃它多种多样的点心？这是一个你可以坐下来，欣赏到城市的老商业和银行中心的美妙景色的地方。"
+    },
+    {
+      "label": "16",
+      "text": "停靠点C是在公元后一世纪，入侵的士兵们越过了的这条河，当时比现在要浅得多。这就是为什么这个地区被称为罗马登陆。这里有一个互动的博物馆，有一个大的商店，有一个相当多的当地历史书。"
+    },
+    {
+      "label": "17",
+      "text": "在行程的最远点，停靠点D，参观最激动人心的地方是七屏幕电影院新娱乐综合体，保龄球馆和视频游戏。"
+    },
+    {
+      "label": "18",
+      "text": "除了游船，还有城市公共汽车。两家公司提供特殊服务。"
+    },
+    {
+      "label": "19",
+      "text": "顶级巴士公司以英语为现场解说。大巴从上午8．30点离开，每20分钟一趟。从Central Station．Castle Hill and Long Walk发车。这是随时上下车的服务，车票有效期为24小时。关于top bus的更多细节请致电9447810 0208。"
+    },
+    {
+      "label": "20",
+      "text": "第一参观旅行团有8种语言。巴士从中央车站发车，每五至六分钟一趟，从早晨9点发车，最后一班车在下午7点左右。同时也包含以英语为母语的服务…"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "instruction": "Questions 11 and 12\n\nLabel the map below.\n\nWrite NO MORE THAN TWO WORDS in each gap.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "[11] ______",
+          "answers": [
+            "City Bridge"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6970_949880",
+          "explanation": "第11-12两道地图题答案给得非常直接，用文中的已知信息进行直接定位就能找到。",
+          "promptHtml": "[11] ______"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "[12] ______",
+          "answers": [
+            "Newtown"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6970_242324",
+          "explanation": "第11-12两道地图题答案给得非常直接，用文中的已知信息进行直接定位就能找到。",
+          "promptHtml": "[12] ______"
+        }
+      ],
+      "sourceType": "map",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><img src=\"/api/guest/cambridge/media/images/1705738bf2f50754c77ca5151e36d2c4.jpg\" alt=\"原题配图\"></p>\n\n<p><strong>[11] ______</strong></p>\n\n<p><strong>[12] ______</strong></p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 13-18\n\nComplete the table below.\n\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER in each gap.",
+      "questions": [
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "[13] ______p.m.",
+          "answers": [
+            "6.30"
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceCode": "Q6970_279503",
+          "explanation": "13．原文给出了本题题干中的两个提示线索：8 a.m.和last。\n\n14．反复出现了palace一词，且原文中的beautiful对应了题干中的lovely。\n\n15．此题的连读非常重，tower restaurant两词间出现了共同的音，连在一起使得许多考生听不出前面的单词是什么，不过即使答案中只写了restaurant，此题也能得分。\n\n16．原文中的wonderful对应题干中的good。原文的centre of the city在句尾出现，这可能使考生听到最后才发觉答案已经给出，由此可见平时多做些听写锻炼来训练记忆能力是十分重要的。\n\n17．有可能在听到a good range of local history之后不确定local一词是否应该写在答案中。这时应注意题干不会出现重复的词汇信息，也就是说，题干已经给了就不需要再写一次。\n\n18．在表格中虽未出现明显难点，但面对此题，考生可能会有所犹豫，因为平时接触影院设施的词汇不多。而表格中最需要注意的是答案格式，在不确定的情况下，最安全的方法是参考横纵轴相应已知信息，完全效仿题中所示。",
+          "promptHtml": "[13] ______p.m."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "● has lovely [14] ______",
+          "answers": [
+            "formal garden",
+            "garden"
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceCode": "Q6970_970241",
+          "explanation": "13．原文给出了本题题干中的两个提示线索：8 a.m.和last。\n\n14．反复出现了palace一词，且原文中的beautiful对应了题干中的lovely。\n\n15．此题的连读非常重，tower restaurant两词间出现了共同的音，连在一起使得许多考生听不出前面的单词是什么，不过即使答案中只写了restaurant，此题也能得分。\n\n16．原文中的wonderful对应题干中的good。原文的centre of the city在句尾出现，这可能使考生听到最后才发觉答案已经给出，由此可见平时多做些听写锻炼来训练记忆能力是十分重要的。\n\n17．有可能在听到a good range of local history之后不确定local一词是否应该写在答案中。这时应注意题干不会出现重复的词汇信息，也就是说，题干已经给了就不需要再写一次。\n\n18．在表格中虽未出现明显难点，但面对此题，考生可能会有所犹豫，因为平时接触影院设施的词汇不多。而表格中最需要注意的是答案格式，在不确定的情况下，最安全的方法是参考横纵轴相应已知信息，完全效仿题中所示。",
+          "promptHtml": "● has lovely [14] ______"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "[15] ______",
+          "answers": [
+            "Tower Restaurant",
+            "Restaurant"
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceCode": "Q6970_125681",
+          "explanation": "13．原文给出了本题题干中的两个提示线索：8 a.m.和last。\n\n14．反复出现了palace一词，且原文中的beautiful对应了题干中的lovely。\n\n15．此题的连读非常重，tower restaurant两词间出现了共同的音，连在一起使得许多考生听不出前面的单词是什么，不过即使答案中只写了restaurant，此题也能得分。\n\n16．原文中的wonderful对应题干中的good。原文的centre of the city在句尾出现，这可能使考生听到最后才发觉答案已经给出，由此可见平时多做些听写锻炼来训练记忆能力是十分重要的。\n\n17．有可能在听到a good range of local history之后不确定local一词是否应该写在答案中。这时应注意题干不会出现重复的词汇信息，也就是说，题干已经给了就不需要再写一次。\n\n18．在表格中虽未出现明显难点，但面对此题，考生可能会有所犹豫，因为平时接触影院设施的词汇不多。而表格中最需要注意的是答案格式，在不确定的情况下，最安全的方法是参考横纵轴相应已知信息，完全效仿题中所示。",
+          "promptHtml": "[15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "● has good [16] ______of city centre",
+          "answers": [
+            "view",
+            "views"
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceCode": "Q6970_373444",
+          "explanation": "13．原文给出了本题题干中的两个提示线索：8 a.m.和last。\n\n14．反复出现了palace一词，且原文中的beautiful对应了题干中的lovely。\n\n15．此题的连读非常重，tower restaurant两词间出现了共同的音，连在一起使得许多考生听不出前面的单词是什么，不过即使答案中只写了restaurant，此题也能得分。\n\n16．原文中的wonderful对应题干中的good。原文的centre of the city在句尾出现，这可能使考生听到最后才发觉答案已经给出，由此可见平时多做些听写锻炼来训练记忆能力是十分重要的。\n\n17．有可能在听到a good range of local history之后不确定local一词是否应该写在答案中。这时应注意题干不会出现重复的词汇信息，也就是说，题干已经给了就不需要再写一次。\n\n18．在表格中虽未出现明显难点，但面对此题，考生可能会有所犹豫，因为平时接触影院设施的词汇不多。而表格中最需要注意的是答案格式，在不确定的情况下，最安全的方法是参考横纵轴相应已知信息，完全效仿题中所示。",
+          "promptHtml": "● has good [16] ______of city centre"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "● bookshop specialising in the [17] ______of the local area",
+          "answers": [
+            "history"
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceCode": "Q6970_812736",
+          "explanation": "13．原文给出了本题题干中的两个提示线索：8 a.m.和last。\n\n14．反复出现了palace一词，且原文中的beautiful对应了题干中的lovely。\n\n15．此题的连读非常重，tower restaurant两词间出现了共同的音，连在一起使得许多考生听不出前面的单词是什么，不过即使答案中只写了restaurant，此题也能得分。\n\n16．原文中的wonderful对应题干中的good。原文的centre of the city在句尾出现，这可能使考生听到最后才发觉答案已经给出，由此可见平时多做些听写锻炼来训练记忆能力是十分重要的。\n\n17．有可能在听到a good range of local history之后不确定local一词是否应该写在答案中。这时应注意题干不会出现重复的词汇信息，也就是说，题干已经给了就不需要再写一次。\n\n18．在表格中虽未出现明显难点，但面对此题，考生可能会有所犹豫，因为平时接触影院设施的词汇不多。而表格中最需要注意的是答案格式，在不确定的情况下，最安全的方法是参考横纵轴相应已知信息，完全效仿题中所示。",
+          "promptHtml": "● bookshop specialising in the [17] ______of the local area"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "● [18] ______cinema",
+          "answers": [
+            "7 screen",
+            "seven screen",
+            "seven-screen"
+          ],
+          "maxWords": 2,
+          "allowNumber": true,
+          "sourceCode": "Q6970_968233",
+          "explanation": "13．原文给出了本题题干中的两个提示线索：8 a.m.和last。\n\n14．反复出现了palace一词，且原文中的beautiful对应了题干中的lovely。\n\n15．此题的连读非常重，tower restaurant两词间出现了共同的音，连在一起使得许多考生听不出前面的单词是什么，不过即使答案中只写了restaurant，此题也能得分。\n\n16．原文中的wonderful对应题干中的good。原文的centre of the city在句尾出现，这可能使考生听到最后才发觉答案已经给出，由此可见平时多做些听写锻炼来训练记忆能力是十分重要的。\n\n17．有可能在听到a good range of local history之后不确定local一词是否应该写在答案中。这时应注意题干不会出现重复的词汇信息，也就是说，题干已经给了就不需要再写一次。\n\n18．在表格中虽未出现明显难点，但面对此题，考生可能会有所犹豫，因为平时接触影院设施的词汇不多。而表格中最需要注意的是答案格式，在不确定的情况下，最安全的方法是参考横纵轴相应已知信息，完全效仿题中所示。",
+          "promptHtml": "● [18] ______cinema"
+        }
+      ],
+      "sourceType": "text",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p> </p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Attraction</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Further Information</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>STOP A</strong>:</p>\n\n\t\t\t<p>Main Booking Office:</p>\n\n\t\t\t<p>First boat: 8 a.m.</p>\n\n\t\t\t<p>Last boat:</p>\n\n\t\t\t<p><strong>[13] ______</strong>p.m.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Palace</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>● has lovely <strong>[14] ______</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>STOP B</strong>:</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>[15] ______</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>● has good <strong>[16] ______</strong>of city centre</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>STOP C</strong>:</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Museum</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>● bookshop specialising in the <strong>[17] ______</strong>of the local area</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>STOP D</strong>:</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Entertainment Complex</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>● <strong>[18] ______</strong>cinema</p>\n\n\t\t\t<p>● bowling alley</p>\n\n\t\t\t<p>● video games arcade</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 19 and 20\n\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER in each gap.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "How often do the Top Bus Company tours run? [19] ______",
+          "answers": [
+            "every 20 minutes",
+            "every twenty minutes"
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceCode": "Q6970_725473",
+          "explanation": "第19、20题为简答，通常无需特别小心大小写问题，但最后一题用where提问，要回答某个地点，首字母大写永远必要。",
+          "promptHtml": "How often do the Top Bus Company tours run? [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Where can you catch a Number One Sightseeing Tour from? [20] ______",
+          "answers": [
+            "from Central Station",
+            "the Central Station",
+            "Central Station"
+          ],
+          "maxWords": 3,
+          "allowNumber": true,
+          "sourceCode": "Q6970_402749",
+          "explanation": "第19、20题为简答，通常无需特别小心大小写问题，但最后一题用where提问，要回答某个地点，首字母大写永远必要。",
+          "promptHtml": "Where can you catch a Number One Sightseeing Tour from? [20] ______"
+        }
+      ],
+      "sourceType": "text",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>How often do the Top Bus Company tours run? <strong>[19] ______</strong>　</p>\n\n<p>Where can you catch a Number One Sightseeing Tour from? <strong>[20] ______</strong>                                   </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>Section 2</p>\n\n<p>Thank you for calling the Tourist Line. There are many different ways of getting round the city and we&#x27;d like to suggest some you may not have thought of.</p>\n\n<p>How about a city trip by boat? There are four main stopping points - from west to east: stop A Green Banks, stop B City Bridge, stop C Roman Landing and stop D Newtown.You can find the main booking office at stop A.</p>\n\n<p>The first boat leaves at 8 a.m. and the last one at 6:30 p.m. There are also many attractions you can visit along the river. At Stop A, if you have time, you can visit the fine 16th century palace here built for the king with its beautiful formal gardens. It&#x27;s very near the booking office. Now you can enjoy every corner of this superb residence.Stop B Why don&#x27;t you visit Tower Restaurant with its wide range of refreshments? This is a place where you can sit and enjoy the wonderful views over the old commercial and banking centre of the city.</p>\n\n<p>Stop C is the area where, in the first century AD, invading soldiers crossed the river; this was much shallower than it is now. That&#x27;s why this area is called Roman Landing. There&#x27;s an interactive Museum to visit here with a large shop which has a good range of local history books.</p>\n\n<p>At the furthest point of the trip, stop D, the most exciting place to visit is the new Entertainment Complex with seven-screen cinema, bowling alley and video games arcade.</p>\n\n<p><br>\nBesides the boat tours, there are city buses. Two companies offer special services.</p>\n\n<p>The Top Bus Company runs all its tours with a live commentary in English. Tours leave from 8:30 a.m. every 20 minutes. There are departures from Central Station, Castle Hill and Long Walk. This is a hop-on hop-off service and tickets are valid for 24 hours. For further details call Top Bus on 0208 9447810.</p>\n\n<p>The Number One Sightseeing Tour is available with a commentary in eight languages. Buses depart from Central Station every five to six minutes from about 9 a.m. with the last bus at around 7 p.m.</p>\n\n<p>There are also Number One services with an English-speaking...</p>\n\n<p> </p>\n\n<p>感谢你打电话给旅游线路。有许多不同的方式来游览我们的城市，我们想建议一些你可能没有想到的方式。乘船游城市听起来怎么样？</p>\n\n<p>从西向东有四个主要的停车处：停止一个绿色银行，停靠点A Green Banks。停靠点B. C. ty Bridge，停靠点C Roman Landing还有停靠点D Newtown。</p>\n\n<p>你可以在停靠点A找到主订票处。</p>\n\n<p>第一条船在早上8点离开，最后一条在下午6.30点离开。你可以沿着这条河去游览。如果你有时间的话，你可以去参观十六个世纪的宫殿，它有美丽的花园。它距离售票处很近。现在你可以享受这个极好的地方的每一个角落。</p>\n\n<p>停靠点B你为什么不去参观它的高塔餐厅以及试吃它多种多样的点心？这是一个你可以坐下来，欣赏到城市的老商业和银行中心的美妙景色的地方。</p>\n\n<p>停靠点C是在公元后一世纪，入侵的士兵们越过了的这条河，当时比现在要浅得多。这就是为什么这个地区被称为罗马登陆。这里有一个互动的博物馆，有一个大的商店，有一个相当多的当地历史书。</p>\n\n<p>在行程的最远点，停靠点D，参观最激动人心的地方是七屏幕电影院新娱乐综合体，保龄球馆和视频游戏。</p>\n\n<p> </p>\n\n<p>除了游船，还有城市公共汽车。两家公司提供特殊服务。</p>\n\n<p>顶级巴士公司以英语为现场解说。大巴从上午8．30点离开，每20分钟一趟。从Central Station．Castle Hill and Long Walk发车。这是随时上下车的服务，车票有效期为24小时。关于top bus的更多细节请致电9447810 0208。</p>\n\n<p>第一参观旅行团有8种语言。巴士从中央车站发车，每五至六分钟一趟，从早晨9点发车，最后一班车在下午7点左右。同时也包含以英语为母语的服务…</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/6970.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 314.863
+  }
+}

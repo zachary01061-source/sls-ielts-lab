@@ -1,0 +1,280 @@
+{
+  "id": "cambridge-17-test-4-listening-2",
+  "title": "C17T4L2",
+  "titleCn": "C17T4L2",
+  "subject": "listening",
+  "part": 2,
+  "duration": 472,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 4
+  },
+  "sourceQuestionId": "8389",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8389",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "As many of you here today have worked in the hotel industry for some time, I’m sure you have experienced the problem of high staff turnover in your hotels. Every hotel relies on having loyal and experienced members of staff who make sure that everything runs smoothly. If staff are constantly changing, it can make life difficult for everyone. But why do staff leave frequently in many hotels? Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-paid. A lot of managers think it’s this and the long hours that are the main causes of high staff turnover – but what they don’t realise is that it’s the lack of training in many hotel jobs which is a huge factor."
+    },
+    {
+      "label": "2",
+      "text": "So, what kind of problems does a high turnover of staff cause? Well, having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive. This means they don’t have time to think about less immediate problems such as how to improve their service. When staff leave, it can also severely affect the colleagues they leave behind. It has a negative effect on remaining staff, who may start to feel that they too should be thinking about leaving."
+    },
+    {
+      "label": "3",
+      "text": "So, what can be done to change this situation? Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful. When organising shifts, for example, make sure you never give certain staff preferential treatment. All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts. If you treat staff fairly, they’ll be more likely to step in and help when extra staff are needed."
+    },
+    {
+      "label": "4",
+      "text": "Keeping staff happy has other tangible benefits for the business. Take the Dunwich Hotel as an example. It had been experiencing a problem with staff complaints and in order to deal with this, invested in staff training and improved staff conditions. Not only did the level of complaints fall, but they also noticed a significant increase in the amount each customer spent during their stay. They have now introduced a customer loyalty scheme which is going really well."
+    },
+    {
+      "label": "5",
+      "text": "Now I’d like to look at some ways you can reduce staff turnover in your hotels, and I’ll do this by giving some examples of hotels where I’ve done some training recently. The Sun Club received feedback which showed that staff thought managers didn’t value their opinions. They weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed."
+    },
+    {
+      "label": "6",
+      "text": "A year ago, The Portland recognised the need to invest in staff retention. Their first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential will encourage them to stay with the business."
+    },
+    {
+      "label": "7",
+      "text": "At Bluewater, managers decided to recognise 50 high achievers from across the company’s huge hotel chain. As a reward, they’re sent on an all-expenses-paid trip abroad every year. Fun is an important element in the trips, but there’s also the opportunity to learn something useful. This year’s trip included a visit to a brewery, where staff learned about the new beer that would be served in the hotel."
+    },
+    {
+      "label": "8",
+      "text": "Pentlow Hotels identified that retention of junior reception staff was an issue. In order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme. These staff were given additional responsibilities and the chance to work in various roles in the hotel."
+    },
+    {
+      "label": "9",
+      "text": "Green Planet wanted to be seen as a caring employer. To make life easier for staff, many of whom had childcare responsibilities, the hotel began issuing vouchers to help cover the cost of childcare."
+    },
+    {
+      "label": "10",
+      "text": "Louise Marsh at The Amesbury has one of the best staff retention rates in the business. Since she joined the company, she has made a huge effort to achieve this by creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued."
+    },
+    {
+      "label": "11",
+      "text": "OK, now I’d like to …"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "PART 2 Questions 11–20\n\nQuestions 11–14\n\nChoose the correct letter, A, B or C.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Many hotel managers are unaware that their staff often leave because of",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8389_204320",
+          "options": [
+            {
+              "value": "A",
+              "text": "a lack of training."
+            },
+            {
+              "value": "B",
+              "text": "long hours."
+            },
+            {
+              "value": "C",
+              "text": "low pay."
+            }
+          ],
+          "explanation": "题干中的manager原文重现，本题定位不难。选项A与原文一致。选项B和C并列，都可以排除。在原文中，先提及选项B和C，然后but转折引出了答案选项A。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "What is the impact of high staff turnover on managers?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8389_273443",
+          "options": [
+            {
+              "value": "A",
+              "text": "an increased workload"
+            },
+            {
+              "value": "B",
+              "text": "low morale"
+            },
+            {
+              "value": "C",
+              "text": "an inability to meet targets"
+            }
+          ],
+          "explanation": "题干词high staff turnover原文重现，本题定位不难。选项A的an increased workload与原文中的managers may have to cover some duties匹配。选项B是混淆项，考生容易错选。选项B提到low morale“士气低下”，而原文提到的是negative effect“负面影响”，两者并不完全对应，因此可排除。选项C原文未提及。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "What mistake should managers always avoid?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8389_656039",
+          "options": [
+            {
+              "value": "A",
+              "text": "failing to treat staff equally"
+            },
+            {
+              "value": "B",
+              "text": "reorganising shifts without warning"
+            },
+            {
+              "value": "C",
+              "text": "neglecting to have enough staff during busy periods"
+            }
+          ],
+          "explanation": "本题定位稍有难度，题干词mistake在原文中替换为error，考生需识别这个替换才能完成定位。题干中已有avoid一词，因此选项A与原文中的make sure you never give certain staff preferential treatment匹配。选项B易混淆，原文只提及了organising shifts，未提及warning。选项C与原文相反，原文说如果需要额外的人手，员工会来帮忙，而选项C里说的neglecting并未提及。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What unexpected benefit did Dunwich Hotel notice after improving staff retention rates?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8389_633822",
+          "options": [
+            {
+              "value": "A",
+              "text": "a fall in customer complaints"
+            },
+            {
+              "value": "B",
+              "text": "an increase in loyalty club membership"
+            },
+            {
+              "value": "C",
+              "text": "a rise in spending per customer"
+            }
+          ],
+          "explanation": "题干词benefit原文重现，较易定位。选项A指的是顾客的抱怨减少，而原文中说的是员工的抱怨。选项B容易错选，原文的确提及loyalty club membership，但只是处于刚刚引入的阶段，并没有提到increase。选项C与原文中的noticed a significant increase in the amount each customer spent during their stay匹配，所以答案为选项C。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 15–20\n\nWhich way of reducing staff turnover was used in each of the following hotels?\n\nMove the correct answers to the gap next to questions 15-20.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "The Sun Club [15] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8389_592639",
+          "explanation": "题号\n\n题干\n\n选项\n\n原文\n\n必备表达\n\n15\n\nThe Sun Club\n\nA. improving relationships and teamwork\n\nThey weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.\n\ncontribute to\n\nas a whole\n\nat all levels\n\nbe invited to\n\n16\n\nThe Portland\n\nC. providing career opportunities\n\nTheir first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential…\n\nrecognise talent\n\nindividuals with management potential\n\n17\n\nBluewater Hotels\n\nB. offering incentives and financial benefits\n\nAs a reward, they’re sent on an all-expenses-paid trip abroad…\n\nbe sent on\n\nall-expenses-paid trip\n\n18\n\nPentlow Hotels\n\nC. providing career opportunities\n\nIn order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme.\n\nworthwhile and rewarding\n\nwith good prospects\n\nmanagement programme\n\n19\n\nGreen Planet\n\nB. offering incentives and financial benefits\n\n…issuing vouchers to help cover the cost of childcare.\n\nissue vouchers\n\ncover the cost of…\n\n20\n\nThe Amesbury\n\nA. improving relationships and teamwork\n\n…creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.\n\na co-operative and supportive environment",
+          "promptHtml": "The Sun Club [15] ______"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "The Portland [16] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8389_385804",
+          "explanation": "题号\n\n题干\n\n选项\n\n原文\n\n必备表达\n\n15\n\nThe Sun Club\n\nA. improving relationships and teamwork\n\nThey weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.\n\ncontribute to\n\nas a whole\n\nat all levels\n\nbe invited to\n\n16\n\nThe Portland\n\nC. providing career opportunities\n\nTheir first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential…\n\nrecognise talent\n\nindividuals with management potential\n\n17\n\nBluewater Hotels\n\nB. offering incentives and financial benefits\n\nAs a reward, they’re sent on an all-expenses-paid trip abroad…\n\nbe sent on\n\nall-expenses-paid trip\n\n18\n\nPentlow Hotels\n\nC. providing career opportunities\n\nIn order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme.\n\nworthwhile and rewarding\n\nwith good prospects\n\nmanagement programme\n\n19\n\nGreen Planet\n\nB. offering incentives and financial benefits\n\n…issuing vouchers to help cover the cost of childcare.\n\nissue vouchers\n\ncover the cost of…\n\n20\n\nThe Amesbury\n\nA. improving relationships and teamwork\n\n…creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.\n\na co-operative and supportive environment",
+          "promptHtml": "The Portland [16] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Bluewater Hotels [17] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8389_362244",
+          "explanation": "题号\n\n题干\n\n选项\n\n原文\n\n必备表达\n\n15\n\nThe Sun Club\n\nA. improving relationships and teamwork\n\nThey weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.\n\ncontribute to\n\nas a whole\n\nat all levels\n\nbe invited to\n\n16\n\nThe Portland\n\nC. providing career opportunities\n\nTheir first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential…\n\nrecognise talent\n\nindividuals with management potential\n\n17\n\nBluewater Hotels\n\nB. offering incentives and financial benefits\n\nAs a reward, they’re sent on an all-expenses-paid trip abroad…\n\nbe sent on\n\nall-expenses-paid trip\n\n18\n\nPentlow Hotels\n\nC. providing career opportunities\n\nIn order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme.\n\nworthwhile and rewarding\n\nwith good prospects\n\nmanagement programme\n\n19\n\nGreen Planet\n\nB. offering incentives and financial benefits\n\n…issuing vouchers to help cover the cost of childcare.\n\nissue vouchers\n\ncover the cost of…\n\n20\n\nThe Amesbury\n\nA. improving relationships and teamwork\n\n…creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.\n\na co-operative and supportive environment",
+          "promptHtml": "Bluewater Hotels [17] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Pentlow Hotels [18] ______",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8389_440908",
+          "explanation": "题号\n\n题干\n\n选项\n\n原文\n\n必备表达\n\n15\n\nThe Sun Club\n\nA. improving relationships and teamwork\n\nThey weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.\n\ncontribute to\n\nas a whole\n\nat all levels\n\nbe invited to\n\n16\n\nThe Portland\n\nC. providing career opportunities\n\nTheir first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential…\n\nrecognise talent\n\nindividuals with management potential\n\n17\n\nBluewater Hotels\n\nB. offering incentives and financial benefits\n\nAs a reward, they’re sent on an all-expenses-paid trip abroad…\n\nbe sent on\n\nall-expenses-paid trip\n\n18\n\nPentlow Hotels\n\nC. providing career opportunities\n\nIn order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme.\n\nworthwhile and rewarding\n\nwith good prospects\n\nmanagement programme\n\n19\n\nGreen Planet\n\nB. offering incentives and financial benefits\n\n…issuing vouchers to help cover the cost of childcare.\n\nissue vouchers\n\ncover the cost of…\n\n20\n\nThe Amesbury\n\nA. improving relationships and teamwork\n\n…creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.\n\na co-operative and supportive environment",
+          "promptHtml": "Pentlow Hotels [18] ______"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Green Planet [19] ______",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8389_486710",
+          "explanation": "题号\n\n题干\n\n选项\n\n原文\n\n必备表达\n\n15\n\nThe Sun Club\n\nA. improving relationships and teamwork\n\nThey weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.\n\ncontribute to\n\nas a whole\n\nat all levels\n\nbe invited to\n\n16\n\nThe Portland\n\nC. providing career opportunities\n\nTheir first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential…\n\nrecognise talent\n\nindividuals with management potential\n\n17\n\nBluewater Hotels\n\nB. offering incentives and financial benefits\n\nAs a reward, they’re sent on an all-expenses-paid trip abroad…\n\nbe sent on\n\nall-expenses-paid trip\n\n18\n\nPentlow Hotels\n\nC. providing career opportunities\n\nIn order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme.\n\nworthwhile and rewarding\n\nwith good prospects\n\nmanagement programme\n\n19\n\nGreen Planet\n\nB. offering incentives and financial benefits\n\n…issuing vouchers to help cover the cost of childcare.\n\nissue vouchers\n\ncover the cost of…\n\n20\n\nThe Amesbury\n\nA. improving relationships and teamwork\n\n…creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.\n\na co-operative and supportive environment",
+          "promptHtml": "Green Planet [19] ______"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "The Amesbury [20] ______",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8389_613129",
+          "explanation": "题号\n\n题干\n\n选项\n\n原文\n\n必备表达\n\n15\n\nThe Sun Club\n\nA. improving relationships and teamwork\n\nThey weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.\n\ncontribute to\n\nas a whole\n\nat all levels\n\nbe invited to\n\n16\n\nThe Portland\n\nC. providing career opportunities\n\nTheir first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential…\n\nrecognise talent\n\nindividuals with management potential\n\n17\n\nBluewater Hotels\n\nB. offering incentives and financial benefits\n\nAs a reward, they’re sent on an all-expenses-paid trip abroad…\n\nbe sent on\n\nall-expenses-paid trip\n\n18\n\nPentlow Hotels\n\nC. providing career opportunities\n\nIn order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme.\n\nworthwhile and rewarding\n\nwith good prospects\n\nmanagement programme\n\n19\n\nGreen Planet\n\nB. offering incentives and financial benefits\n\n…issuing vouchers to help cover the cost of childcare.\n\nissue vouchers\n\ncover the cost of…\n\n20\n\nThe Amesbury\n\nA. improving relationships and teamwork\n\n…creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued.\n\na co-operative and supportive environment",
+          "promptHtml": "The Amesbury [20] ______"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "improving relationships and teamwork"
+        },
+        {
+          "value": "B",
+          "text": "offering incentives and financial benefits"
+        },
+        {
+          "value": "C",
+          "text": "providing career opportunities"
+        }
+      ],
+      "contextHtml": "<p><span><strong>                         Hotels</strong><br>\nThe Sun Club            </span><strong>[15] ______</strong> <br>\n<span>The Portland              </span><strong>[16] ______</strong> <br>\n<span>Bluewater Hotels        </span><strong>[17] ______</strong> <br>\n<span>Pentlow Hotels           </span><strong>[18] ______</strong> <br>\n<span>Green Planet              </span><strong>[19] ______</strong> <br>\n<span>The Amesbury            </span><strong>[20] ______</strong> </p>\n"
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p><span>As many of you here today have worked in the hotel industry for some time, I’m sure you have experienced the problem of high staff turnover in your hotels. Every hotel relies on having loyal and experienced members of staff who make sure that everything runs smoothly. If staff are constantly changing, it can make life difficult for everyone. But why do staff leave frequently in many hotels? Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-paid. A lot of managers think it’s this and the long hours that are the main causes of high staff turnover – but what they don’t realise is that it’s the lack of training in many hotel jobs which is a huge factor. <br>\nSo, what kind of problems does a high turnover of staff cause? Well, having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive. This means they don’t have time to think about less immediate problems such as how to improve their service. When staff leave, it can also severely affect the colleagues they leave behind. It has a negative effect on remaining staff, who may start to feel that they too should be thinking about leaving. <br>\nSo, what can be done to change this situation? Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful. When organising shifts, for example, make sure you never give certain staff preferential treatment. All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts. If you treat staff fairly, they’ll be more likely to step in and help when extra staff are needed. <br>\nKeeping staff happy has other tangible benefits for the business. Take the Dunwich Hotel as an example. It had been experiencing a problem with staff complaints and in order to deal with this, invested in staff training and improved staff conditions. Not only did the level of complaints fall, but they also noticed a significant increase in the amount each customer spent during their stay. They have now introduced a customer loyalty scheme which is going really well. <br>\nNow I’d like to look at some ways you can reduce staff turnover in your hotels, and I’ll do this by giving some examples of hotels where I’ve done some training recently. The Sun Club received feedback which showed that staff thought managers didn’t value their opinions. They weren’t made to feel they were partners who were contributing to the success of the business as a whole. This situation has changed. Junior staff at all levels are regularly invited to meetings where their ideas are welcomed. <br>\nA year ago, The Portland recognised the need to invest in staff retention. Their first step was to introduce a scheme for recognising talent amongst their employees. The hope is that organising training for individuals with management potential will encourage them to stay with the business. <br>\nAt Bluewater, managers decided to recognise 50 high achievers from across the company’s huge hotel chain. As a reward, they’re sent on an all-expenses-paid trip abroad every year. Fun is an important element in the trips, but there’s also the opportunity to learn something useful. This year’s trip included a visit to a brewery, where staff learned about the new beer that would be served in the hotel. <br>\nPentlow Hotels identified that retention of junior reception staff was an issue. In order to encourage them to see that working in a hotel could be worthwhile and rewarding, with good prospects, they introduced a management programme. These staff were given additional responsibilities and the chance to work in various roles in the hotel. <br>\nGreen Planet wanted to be seen as a caring employer. To make life easier for staff, many of whom had childcare responsibilities, the hotel began issuing vouchers to help cover the cost of childcare. <br>\nLouise Marsh at The Amesbury has one of the best staff retention rates in the business. Since she joined the company, she has made a huge effort to achieve this by creating a co-operative and supportive environment. For her, the staff are part of a large family where everyone is valued. <br>\nOK, now I’d like to … </span></p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8389.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 471.549
+  }
+}

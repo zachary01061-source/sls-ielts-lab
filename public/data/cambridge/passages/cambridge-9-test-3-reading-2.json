@@ -1,0 +1,544 @@
+{
+  "id": "cambridge-9-test-3-reading-2",
+  "title": "Tidal Power",
+  "titleCn": "Tidal Power",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 9,
+    "test": 3
+  },
+  "sourceQuestionId": "6913",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6913",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Tidal Power"
+    },
+    {
+      "label": "2",
+      "text": "Undersea turbines which produce electricity from the tides are set to become an important source of renewable energy for Britain. It is still too early to predict the extent of the impact they may have, but all the signs are that they will play a significant role in the future"
+    },
+    {
+      "label": "3",
+      "text": "A Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships propellers, but, unlike wind, the tides are predictable and the power input is constant. The technology raises the prospect of Britain becoming self-sufficient in renewable energy and drastically reducing its carbon dioxide emissions. If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear plants and export renewable power to other parts of Europe. Unlike wind power, which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand."
+    },
+    {
+      "label": "4",
+      "text": "B Tidal sites have already been identified that will produce one sixth or more of the UK's power—and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry. One site alone, the Pentland Firth, between Orkney and mainland Scotland, could produce 10% of the country's electricity with banks of turbines under the sea, and another at Alderney in the Channel Islands three times the 1,2000 megawatts of Britain's largest and newest nuclear plant, Sizewell B, in Suffolk. Other sites identified include the Bristol Channel and the west coast of Scotland, particularly the channel between Campbelttown and Northern Irealand."
+    },
+    {
+      "label": "5",
+      "text": "C Work on designs for the new turbine blades and sites are well advanced at the university of Southampton's sustainable energy research group. The first station is expected to be installed off Lynmouth in Devon shortly to test the technology in a venture jointly funded by the department of Trade and Industry and the European Union. AbuBakr Bahaj, in charge of the Southampton research, said: 'The prospects for energy from tidal currents are far better than from wind because the flows of water are predictable and constant. The technology for dealing with the hostile saline environment under the sea has been developed in the North Sea oil industry and much is already known about turbine blade design, because of wind power and ship propellers. There are a few technical difficulties, but I believe in the next five to ten years we will be installing commercial marine turbine farms.' Southampton has been awarded £215,000 over three years to develop the turbines and is working with Marine Current Turbines, a subsidiary of IT power, on the Lynmouth project. EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents."
+    },
+    {
+      "label": "6",
+      "text": "D A marine turbine blade needs to be only one third of the size of a wind generator to produce three times as much power. The blades will be about 20 meters in diameter, so around 30 meters of water is required. Unlike wind power, there are unlikely to be environmental objections. Fish and other creatures are thought unlikely to be at risk from the relatively slow-turning blades. Each turbine will be mounted on a tower which will connect to the national power supply grid via underwater cables. The towers will stick out of the water and be lit, to warn shipping, and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades."
+    },
+    {
+      "label": "7",
+      "text": "E Dr Bahaj has done most work on the Alderney site, where there are powerful currents. The single undersea turbine farm would produce far more power than needed for the Channel Islands and most would be fed into the French Grid and be re-imported into Britain via the cable under the Channel."
+    },
+    {
+      "label": "8",
+      "text": "F One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles. These can cause vibration and damage the blades of the turbines. Dr Bahaj said: 'We have to test a number of blade types to avoid this happening or at least make sure it does not damage the turbines or reduce performance. Another slight concern is submerged debris floating into the blades. So far we do not know how much of a problem it might be. We will have to make the turbines robust because the sea is a hostile environment, but all the signs that we can do it are good.'"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Question14-17\n\nReading Passage 2 has six paragraphs, A-F.\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "the location of the first test site",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6913_386675-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "a way of bringing the power produced on one site back into Britain",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6913_386675-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "a reference to a previous attempt by Britain to find an alternative source of energy",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6913_386675-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "mention of the possibility of applying technology from another industry",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6913_386675-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Question18-22\n\nChoose FIVE correct answers.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Which FIVE of the following claims about tidal power are made by the writer?",
+          "answers": [
+            "A",
+            "D",
+            "E",
+            "F",
+            "J"
+          ],
+          "sourceCode": "Q6913_510439",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is a more reliable source of energy than wind power."
+            },
+            {
+              "value": "B",
+              "text": "It would replace all other forms of energy in Britain."
+            },
+            {
+              "value": "C",
+              "text": "Its introduction has come as a result of public pressure."
+            },
+            {
+              "value": "D",
+              "text": "It would cut down on air pollution."
+            },
+            {
+              "value": "E",
+              "text": "It could contribute to the closure of many existing power stations in Britain."
+            },
+            {
+              "value": "F",
+              "text": "It could be a means of increasing national income."
+            },
+            {
+              "value": "G",
+              "text": "It could face a lot of resistance from other fuel industries."
+            },
+            {
+              "value": "H",
+              "text": "It could be sold more cheaply than any other type of fuel."
+            },
+            {
+              "value": "I",
+              "text": "It could compensate for the shortage of inland sites for energy production."
+            },
+            {
+              "value": "J",
+              "text": "It is best produced in the vicinity of coastlines with particular features."
+            }
+          ],
+          "explanation": "选项：A\n\n题目翻译：它是一种比风能更可靠的能源。\n\nA段：Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships' propellers, but, unlike wind, the tides are predictable and the power input is constant. 和风力涡轮机的运行原理一样，水力涡轮机的动力来自潮流，在潮流的作用下轮机叶片像船只的螺旋桨一样工作。但是与风不同的是，潮汐是可预测的，而且其输入功率是恒定的。题干中more reliable source of energy（更可靠的能源）对应这句话中的…are predictable and the power input is constant，表明潮汐能源具备风能所没有的两个优点：可预测的，恒定的。\n\n选项：B\n\n题目翻译：它将替代英国其他所有形式的能源。\n\n题干中有all，过于绝对，一般不选。\n\n选项：C\n\n题目翻译：它的出现来源于公众的压力。\n\n文中完全未提及。\n\n选项：D\n\n题目翻译：它将减少空气污染。\n\n选项：E\n\n题目翻译：它将会导致英国关闭很多现有的发电站。\n\nA段：If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear power plants and export renewable power to other parts of Europe. 如果潮汐、风力和海浪发电都能得到开发，那么英国就能关闭天然气、煤炭和核能发电站，并向欧洲其他地区出口可再生能源。题干中的contribute to the closure of many existing power stations对应文中的…close gas, coal and nuclear power plants...。\n\n选项：F\n\n题目翻译：它将会成为增加国家收入的一种方式。\n\nA段：…undersea turbines could become a big export earner to island nations such as Japan and New Zealand. 而这次通过向日本与新西兰这样的岛国出口水下涡轮机，英国将赚取巨额外汇。\n\n题干中的national income对应原文中的earner（意为a business or activity which makes a profit）。考生要注意金钱的各种文字表达形式。\n\n选项：G\n\n题目翻译：它将会受到来自其他燃料行业的强烈抵制。\n\n文中完全未提及。\n\n选项：H\n\n题目翻译：它和其他燃料相比价格低得多。\n\n文中完全未提及。\n\n选项：I\n\n题目翻译：它能够弥补内陆电厂的供电不足。\n\n文中完全未提及。\n\n选项：J\n\n题目翻译：在海岸线附近具有特殊地形的地方建厂发电效果最好。\n\nC段：EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents. 欧盟的研究已经确定了106处潜在潮汐发电站选址，其中80%位于英国海岸线附近。发电站最好的位置是在岛屿之间或者犬牙交错的海岸线附近，这些地方拥有强大的潮流。题干中best produced in the vicinity of coastlines对应这句话中的The best sites are between…。\n\n故正确答案依次为A，D，E，F，J。",
+          "setId": "Q6913_510439",
+          "blockId": "Q6913_510439"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Which FIVE of the following claims about tidal power are made by the writer?",
+          "answers": [
+            "A",
+            "D",
+            "E",
+            "F",
+            "J"
+          ],
+          "sourceCode": "Q6913_510439",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is a more reliable source of energy than wind power."
+            },
+            {
+              "value": "B",
+              "text": "It would replace all other forms of energy in Britain."
+            },
+            {
+              "value": "C",
+              "text": "Its introduction has come as a result of public pressure."
+            },
+            {
+              "value": "D",
+              "text": "It would cut down on air pollution."
+            },
+            {
+              "value": "E",
+              "text": "It could contribute to the closure of many existing power stations in Britain."
+            },
+            {
+              "value": "F",
+              "text": "It could be a means of increasing national income."
+            },
+            {
+              "value": "G",
+              "text": "It could face a lot of resistance from other fuel industries."
+            },
+            {
+              "value": "H",
+              "text": "It could be sold more cheaply than any other type of fuel."
+            },
+            {
+              "value": "I",
+              "text": "It could compensate for the shortage of inland sites for energy production."
+            },
+            {
+              "value": "J",
+              "text": "It is best produced in the vicinity of coastlines with particular features."
+            }
+          ],
+          "explanation": "选项：A\n\n题目翻译：它是一种比风能更可靠的能源。\n\nA段：Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships' propellers, but, unlike wind, the tides are predictable and the power input is constant. 和风力涡轮机的运行原理一样，水力涡轮机的动力来自潮流，在潮流的作用下轮机叶片像船只的螺旋桨一样工作。但是与风不同的是，潮汐是可预测的，而且其输入功率是恒定的。题干中more reliable source of energy（更可靠的能源）对应这句话中的…are predictable and the power input is constant，表明潮汐能源具备风能所没有的两个优点：可预测的，恒定的。\n\n选项：B\n\n题目翻译：它将替代英国其他所有形式的能源。\n\n题干中有all，过于绝对，一般不选。\n\n选项：C\n\n题目翻译：它的出现来源于公众的压力。\n\n文中完全未提及。\n\n选项：D\n\n题目翻译：它将减少空气污染。\n\n选项：E\n\n题目翻译：它将会导致英国关闭很多现有的发电站。\n\nA段：If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear power plants and export renewable power to other parts of Europe. 如果潮汐、风力和海浪发电都能得到开发，那么英国就能关闭天然气、煤炭和核能发电站，并向欧洲其他地区出口可再生能源。题干中的contribute to the closure of many existing power stations对应文中的…close gas, coal and nuclear power plants...。\n\n选项：F\n\n题目翻译：它将会成为增加国家收入的一种方式。\n\nA段：…undersea turbines could become a big export earner to island nations such as Japan and New Zealand. 而这次通过向日本与新西兰这样的岛国出口水下涡轮机，英国将赚取巨额外汇。\n\n题干中的national income对应原文中的earner（意为a business or activity which makes a profit）。考生要注意金钱的各种文字表达形式。\n\n选项：G\n\n题目翻译：它将会受到来自其他燃料行业的强烈抵制。\n\n文中完全未提及。\n\n选项：H\n\n题目翻译：它和其他燃料相比价格低得多。\n\n文中完全未提及。\n\n选项：I\n\n题目翻译：它能够弥补内陆电厂的供电不足。\n\n文中完全未提及。\n\n选项：J\n\n题目翻译：在海岸线附近具有特殊地形的地方建厂发电效果最好。\n\nC段：EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents. 欧盟的研究已经确定了106处潜在潮汐发电站选址，其中80%位于英国海岸线附近。发电站最好的位置是在岛屿之间或者犬牙交错的海岸线附近，这些地方拥有强大的潮流。题干中best produced in the vicinity of coastlines对应这句话中的The best sites are between…。\n\n故正确答案依次为A，D，E，F，J。",
+          "setId": "Q6913_510439",
+          "blockId": "Q6913_510439"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Which FIVE of the following claims about tidal power are made by the writer?",
+          "answers": [
+            "A",
+            "D",
+            "E",
+            "F",
+            "J"
+          ],
+          "sourceCode": "Q6913_510439",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is a more reliable source of energy than wind power."
+            },
+            {
+              "value": "B",
+              "text": "It would replace all other forms of energy in Britain."
+            },
+            {
+              "value": "C",
+              "text": "Its introduction has come as a result of public pressure."
+            },
+            {
+              "value": "D",
+              "text": "It would cut down on air pollution."
+            },
+            {
+              "value": "E",
+              "text": "It could contribute to the closure of many existing power stations in Britain."
+            },
+            {
+              "value": "F",
+              "text": "It could be a means of increasing national income."
+            },
+            {
+              "value": "G",
+              "text": "It could face a lot of resistance from other fuel industries."
+            },
+            {
+              "value": "H",
+              "text": "It could be sold more cheaply than any other type of fuel."
+            },
+            {
+              "value": "I",
+              "text": "It could compensate for the shortage of inland sites for energy production."
+            },
+            {
+              "value": "J",
+              "text": "It is best produced in the vicinity of coastlines with particular features."
+            }
+          ],
+          "explanation": "选项：A\n\n题目翻译：它是一种比风能更可靠的能源。\n\nA段：Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships' propellers, but, unlike wind, the tides are predictable and the power input is constant. 和风力涡轮机的运行原理一样，水力涡轮机的动力来自潮流，在潮流的作用下轮机叶片像船只的螺旋桨一样工作。但是与风不同的是，潮汐是可预测的，而且其输入功率是恒定的。题干中more reliable source of energy（更可靠的能源）对应这句话中的…are predictable and the power input is constant，表明潮汐能源具备风能所没有的两个优点：可预测的，恒定的。\n\n选项：B\n\n题目翻译：它将替代英国其他所有形式的能源。\n\n题干中有all，过于绝对，一般不选。\n\n选项：C\n\n题目翻译：它的出现来源于公众的压力。\n\n文中完全未提及。\n\n选项：D\n\n题目翻译：它将减少空气污染。\n\n选项：E\n\n题目翻译：它将会导致英国关闭很多现有的发电站。\n\nA段：If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear power plants and export renewable power to other parts of Europe. 如果潮汐、风力和海浪发电都能得到开发，那么英国就能关闭天然气、煤炭和核能发电站，并向欧洲其他地区出口可再生能源。题干中的contribute to the closure of many existing power stations对应文中的…close gas, coal and nuclear power plants...。\n\n选项：F\n\n题目翻译：它将会成为增加国家收入的一种方式。\n\nA段：…undersea turbines could become a big export earner to island nations such as Japan and New Zealand. 而这次通过向日本与新西兰这样的岛国出口水下涡轮机，英国将赚取巨额外汇。\n\n题干中的national income对应原文中的earner（意为a business or activity which makes a profit）。考生要注意金钱的各种文字表达形式。\n\n选项：G\n\n题目翻译：它将会受到来自其他燃料行业的强烈抵制。\n\n文中完全未提及。\n\n选项：H\n\n题目翻译：它和其他燃料相比价格低得多。\n\n文中完全未提及。\n\n选项：I\n\n题目翻译：它能够弥补内陆电厂的供电不足。\n\n文中完全未提及。\n\n选项：J\n\n题目翻译：在海岸线附近具有特殊地形的地方建厂发电效果最好。\n\nC段：EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents. 欧盟的研究已经确定了106处潜在潮汐发电站选址，其中80%位于英国海岸线附近。发电站最好的位置是在岛屿之间或者犬牙交错的海岸线附近，这些地方拥有强大的潮流。题干中best produced in the vicinity of coastlines对应这句话中的The best sites are between…。\n\n故正确答案依次为A，D，E，F，J。",
+          "setId": "Q6913_510439",
+          "blockId": "Q6913_510439"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Which FIVE of the following claims about tidal power are made by the writer?",
+          "answers": [
+            "A",
+            "D",
+            "E",
+            "F",
+            "J"
+          ],
+          "sourceCode": "Q6913_510439",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is a more reliable source of energy than wind power."
+            },
+            {
+              "value": "B",
+              "text": "It would replace all other forms of energy in Britain."
+            },
+            {
+              "value": "C",
+              "text": "Its introduction has come as a result of public pressure."
+            },
+            {
+              "value": "D",
+              "text": "It would cut down on air pollution."
+            },
+            {
+              "value": "E",
+              "text": "It could contribute to the closure of many existing power stations in Britain."
+            },
+            {
+              "value": "F",
+              "text": "It could be a means of increasing national income."
+            },
+            {
+              "value": "G",
+              "text": "It could face a lot of resistance from other fuel industries."
+            },
+            {
+              "value": "H",
+              "text": "It could be sold more cheaply than any other type of fuel."
+            },
+            {
+              "value": "I",
+              "text": "It could compensate for the shortage of inland sites for energy production."
+            },
+            {
+              "value": "J",
+              "text": "It is best produced in the vicinity of coastlines with particular features."
+            }
+          ],
+          "explanation": "选项：A\n\n题目翻译：它是一种比风能更可靠的能源。\n\nA段：Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships' propellers, but, unlike wind, the tides are predictable and the power input is constant. 和风力涡轮机的运行原理一样，水力涡轮机的动力来自潮流，在潮流的作用下轮机叶片像船只的螺旋桨一样工作。但是与风不同的是，潮汐是可预测的，而且其输入功率是恒定的。题干中more reliable source of energy（更可靠的能源）对应这句话中的…are predictable and the power input is constant，表明潮汐能源具备风能所没有的两个优点：可预测的，恒定的。\n\n选项：B\n\n题目翻译：它将替代英国其他所有形式的能源。\n\n题干中有all，过于绝对，一般不选。\n\n选项：C\n\n题目翻译：它的出现来源于公众的压力。\n\n文中完全未提及。\n\n选项：D\n\n题目翻译：它将减少空气污染。\n\n选项：E\n\n题目翻译：它将会导致英国关闭很多现有的发电站。\n\nA段：If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear power plants and export renewable power to other parts of Europe. 如果潮汐、风力和海浪发电都能得到开发，那么英国就能关闭天然气、煤炭和核能发电站，并向欧洲其他地区出口可再生能源。题干中的contribute to the closure of many existing power stations对应文中的…close gas, coal and nuclear power plants...。\n\n选项：F\n\n题目翻译：它将会成为增加国家收入的一种方式。\n\nA段：…undersea turbines could become a big export earner to island nations such as Japan and New Zealand. 而这次通过向日本与新西兰这样的岛国出口水下涡轮机，英国将赚取巨额外汇。\n\n题干中的national income对应原文中的earner（意为a business or activity which makes a profit）。考生要注意金钱的各种文字表达形式。\n\n选项：G\n\n题目翻译：它将会受到来自其他燃料行业的强烈抵制。\n\n文中完全未提及。\n\n选项：H\n\n题目翻译：它和其他燃料相比价格低得多。\n\n文中完全未提及。\n\n选项：I\n\n题目翻译：它能够弥补内陆电厂的供电不足。\n\n文中完全未提及。\n\n选项：J\n\n题目翻译：在海岸线附近具有特殊地形的地方建厂发电效果最好。\n\nC段：EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents. 欧盟的研究已经确定了106处潜在潮汐发电站选址，其中80%位于英国海岸线附近。发电站最好的位置是在岛屿之间或者犬牙交错的海岸线附近，这些地方拥有强大的潮流。题干中best produced in the vicinity of coastlines对应这句话中的The best sites are between…。\n\n故正确答案依次为A，D，E，F，J。",
+          "setId": "Q6913_510439",
+          "blockId": "Q6913_510439"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Which FIVE of the following claims about tidal power are made by the writer?",
+          "answers": [
+            "A",
+            "D",
+            "E",
+            "F",
+            "J"
+          ],
+          "sourceCode": "Q6913_510439",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is a more reliable source of energy than wind power."
+            },
+            {
+              "value": "B",
+              "text": "It would replace all other forms of energy in Britain."
+            },
+            {
+              "value": "C",
+              "text": "Its introduction has come as a result of public pressure."
+            },
+            {
+              "value": "D",
+              "text": "It would cut down on air pollution."
+            },
+            {
+              "value": "E",
+              "text": "It could contribute to the closure of many existing power stations in Britain."
+            },
+            {
+              "value": "F",
+              "text": "It could be a means of increasing national income."
+            },
+            {
+              "value": "G",
+              "text": "It could face a lot of resistance from other fuel industries."
+            },
+            {
+              "value": "H",
+              "text": "It could be sold more cheaply than any other type of fuel."
+            },
+            {
+              "value": "I",
+              "text": "It could compensate for the shortage of inland sites for energy production."
+            },
+            {
+              "value": "J",
+              "text": "It is best produced in the vicinity of coastlines with particular features."
+            }
+          ],
+          "explanation": "选项：A\n\n题目翻译：它是一种比风能更可靠的能源。\n\nA段：Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships' propellers, but, unlike wind, the tides are predictable and the power input is constant. 和风力涡轮机的运行原理一样，水力涡轮机的动力来自潮流，在潮流的作用下轮机叶片像船只的螺旋桨一样工作。但是与风不同的是，潮汐是可预测的，而且其输入功率是恒定的。题干中more reliable source of energy（更可靠的能源）对应这句话中的…are predictable and the power input is constant，表明潮汐能源具备风能所没有的两个优点：可预测的，恒定的。\n\n选项：B\n\n题目翻译：它将替代英国其他所有形式的能源。\n\n题干中有all，过于绝对，一般不选。\n\n选项：C\n\n题目翻译：它的出现来源于公众的压力。\n\n文中完全未提及。\n\n选项：D\n\n题目翻译：它将减少空气污染。\n\n选项：E\n\n题目翻译：它将会导致英国关闭很多现有的发电站。\n\nA段：If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear power plants and export renewable power to other parts of Europe. 如果潮汐、风力和海浪发电都能得到开发，那么英国就能关闭天然气、煤炭和核能发电站，并向欧洲其他地区出口可再生能源。题干中的contribute to the closure of many existing power stations对应文中的…close gas, coal and nuclear power plants...。\n\n选项：F\n\n题目翻译：它将会成为增加国家收入的一种方式。\n\nA段：…undersea turbines could become a big export earner to island nations such as Japan and New Zealand. 而这次通过向日本与新西兰这样的岛国出口水下涡轮机，英国将赚取巨额外汇。\n\n题干中的national income对应原文中的earner（意为a business or activity which makes a profit）。考生要注意金钱的各种文字表达形式。\n\n选项：G\n\n题目翻译：它将会受到来自其他燃料行业的强烈抵制。\n\n文中完全未提及。\n\n选项：H\n\n题目翻译：它和其他燃料相比价格低得多。\n\n文中完全未提及。\n\n选项：I\n\n题目翻译：它能够弥补内陆电厂的供电不足。\n\n文中完全未提及。\n\n选项：J\n\n题目翻译：在海岸线附近具有特殊地形的地方建厂发电效果最好。\n\nC段：EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents. 欧盟的研究已经确定了106处潜在潮汐发电站选址，其中80%位于英国海岸线附近。发电站最好的位置是在岛屿之间或者犬牙交错的海岸线附近，这些地方拥有强大的潮流。题干中best produced in the vicinity of coastlines对应这句话中的The best sites are between…。\n\n故正确答案依次为A，D，E，F，J。",
+          "setId": "Q6913_510439",
+          "blockId": "Q6913_510439"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "It is a more reliable source of energy than wind power."
+        },
+        {
+          "value": "B",
+          "text": "It would replace all other forms of energy in Britain."
+        },
+        {
+          "value": "C",
+          "text": "Its introduction has come as a result of public pressure."
+        },
+        {
+          "value": "D",
+          "text": "It would cut down on air pollution."
+        },
+        {
+          "value": "E",
+          "text": "It could contribute to the closure of many existing power stations in Britain."
+        },
+        {
+          "value": "F",
+          "text": "It could be a means of increasing national income."
+        },
+        {
+          "value": "G",
+          "text": "It could face a lot of resistance from other fuel industries."
+        },
+        {
+          "value": "H",
+          "text": "It could be sold more cheaply than any other type of fuel."
+        },
+        {
+          "value": "I",
+          "text": "It could compensate for the shortage of inland sites for energy production."
+        },
+        {
+          "value": "J",
+          "text": "It is best produced in the vicinity of coastlines with particular features."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Question 23-26\n\nLabel the diagram below.\n\nWrite NO MORE THAN TWO WORDS in each gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "[23] ______",
+          "answers": [
+            "maintenance"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6913_516182",
+          "explanation": "题号：23\n\n定位词：表并列关系的词and；seaweed\n\n答案位置定位在D段倒数第二行：...and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades.\n\n空格中的词应该和定位词seaweed构成并列关系，且最好出现在and之前，同时可预测词性为名词。此外，因为题干中的raised可同义替换成原文的lifted，故符合要求的只有maintenance，意思为：整个机塔可以露出水面，以便维护叶片以及清理其中的海藻。\n\n题号：24\n\n定位词：表因果关系的的词due to；sea life not in danger, blades\n\n答案位置定位在D段第四行：...Fish and other creatures are thought unlikely to beat risk from the relatively slow-turning blades.\n\n空格前有due to，可预测需要填表示原因的词。再进一步分析，空格前是副词，因而空格要填的是形容词。题干中sea life not in danger对应原文creatures unlikely to be at risk（海洋生物不会面临危险），原因是叶片转速相对较低，所以slow-turning为备选。同时，题干中comparatively可同义替换原文中的relatively，所以备选答案被验证，此空应该填slow turning。\n\n题号：25\n\n定位词：表因果关系的词result from；behind blades\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n空格里应该填名词，表原因，并且最好是出现在定位词behind blades之前，包含定位词的这句话中可能是答案的有两个名词：cavitation, low pressure。题干中的result from对应原文中的cause，而能够形成紧密因果关系的是low pressure，之前的cavitation是这种技术难题的名称。整个题干的意思为：叶片后方由于气压低而产生气泡。这种技术难题被称做空化。所以25题答案为low pressure，26题答案为cavitation。\n\n题号：26\n\n定位词：known as\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n参考如上分析。题干known as对应原文中…is…",
+          "promptHtml": "[23] ______"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "[24] ______",
+          "answers": [
+            "slow",
+            "slow turning",
+            "slow-turning"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6913_239553",
+          "explanation": "题号：23\n\n定位词：表并列关系的词and；seaweed\n\n答案位置定位在D段倒数第二行：...and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades.\n\n空格中的词应该和定位词seaweed构成并列关系，且最好出现在and之前，同时可预测词性为名词。此外，因为题干中的raised可同义替换成原文的lifted，故符合要求的只有maintenance，意思为：整个机塔可以露出水面，以便维护叶片以及清理其中的海藻。\n\n题号：24\n\n定位词：表因果关系的的词due to；sea life not in danger, blades\n\n答案位置定位在D段第四行：...Fish and other creatures are thought unlikely to beat risk from the relatively slow-turning blades.\n\n空格前有due to，可预测需要填表示原因的词。再进一步分析，空格前是副词，因而空格要填的是形容词。题干中sea life not in danger对应原文creatures unlikely to be at risk（海洋生物不会面临危险），原因是叶片转速相对较低，所以slow-turning为备选。同时，题干中comparatively可同义替换原文中的relatively，所以备选答案被验证，此空应该填slow turning。\n\n题号：25\n\n定位词：表因果关系的词result from；behind blades\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n空格里应该填名词，表原因，并且最好是出现在定位词behind blades之前，包含定位词的这句话中可能是答案的有两个名词：cavitation, low pressure。题干中的result from对应原文中的cause，而能够形成紧密因果关系的是low pressure，之前的cavitation是这种技术难题的名称。整个题干的意思为：叶片后方由于气压低而产生气泡。这种技术难题被称做空化。所以25题答案为low pressure，26题答案为cavitation。\n\n题号：26\n\n定位词：known as\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n参考如上分析。题干known as对应原文中…is…",
+          "promptHtml": "[24] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "[25] ______",
+          "answers": [
+            "low pressure"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6913_244085",
+          "explanation": "题号：23\n\n定位词：表并列关系的词and；seaweed\n\n答案位置定位在D段倒数第二行：...and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades.\n\n空格中的词应该和定位词seaweed构成并列关系，且最好出现在and之前，同时可预测词性为名词。此外，因为题干中的raised可同义替换成原文的lifted，故符合要求的只有maintenance，意思为：整个机塔可以露出水面，以便维护叶片以及清理其中的海藻。\n\n题号：24\n\n定位词：表因果关系的的词due to；sea life not in danger, blades\n\n答案位置定位在D段第四行：...Fish and other creatures are thought unlikely to beat risk from the relatively slow-turning blades.\n\n空格前有due to，可预测需要填表示原因的词。再进一步分析，空格前是副词，因而空格要填的是形容词。题干中sea life not in danger对应原文creatures unlikely to be at risk（海洋生物不会面临危险），原因是叶片转速相对较低，所以slow-turning为备选。同时，题干中comparatively可同义替换原文中的relatively，所以备选答案被验证，此空应该填slow turning。\n\n题号：25\n\n定位词：表因果关系的词result from；behind blades\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n空格里应该填名词，表原因，并且最好是出现在定位词behind blades之前，包含定位词的这句话中可能是答案的有两个名词：cavitation, low pressure。题干中的result from对应原文中的cause，而能够形成紧密因果关系的是low pressure，之前的cavitation是这种技术难题的名称。整个题干的意思为：叶片后方由于气压低而产生气泡。这种技术难题被称做空化。所以25题答案为low pressure，26题答案为cavitation。\n\n题号：26\n\n定位词：known as\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n参考如上分析。题干known as对应原文中…is…",
+          "promptHtml": "[25] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "[26] ______",
+          "answers": [
+            "cavitation"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q6913_395843",
+          "explanation": "题号：23\n\n定位词：表并列关系的词and；seaweed\n\n答案位置定位在D段倒数第二行：...and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades.\n\n空格中的词应该和定位词seaweed构成并列关系，且最好出现在and之前，同时可预测词性为名词。此外，因为题干中的raised可同义替换成原文的lifted，故符合要求的只有maintenance，意思为：整个机塔可以露出水面，以便维护叶片以及清理其中的海藻。\n\n题号：24\n\n定位词：表因果关系的的词due to；sea life not in danger, blades\n\n答案位置定位在D段第四行：...Fish and other creatures are thought unlikely to beat risk from the relatively slow-turning blades.\n\n空格前有due to，可预测需要填表示原因的词。再进一步分析，空格前是副词，因而空格要填的是形容词。题干中sea life not in danger对应原文creatures unlikely to be at risk（海洋生物不会面临危险），原因是叶片转速相对较低，所以slow-turning为备选。同时，题干中comparatively可同义替换原文中的relatively，所以备选答案被验证，此空应该填slow turning。\n\n题号：25\n\n定位词：表因果关系的词result from；behind blades\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n空格里应该填名词，表原因，并且最好是出现在定位词behind blades之前，包含定位词的这句话中可能是答案的有两个名词：cavitation, low pressure。题干中的result from对应原文中的cause，而能够形成紧密因果关系的是low pressure，之前的cavitation是这种技术难题的名称。整个题干的意思为：叶片后方由于气压低而产生气泡。这种技术难题被称做空化。所以25题答案为low pressure，26题答案为cavitation。\n\n题号：26\n\n定位词：known as\n\n答案位置定位在F段第一行：One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.\n\n参考如上分析。题干known as对应原文中…is…",
+          "promptHtml": "[26] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>An Undersea Turbine</strong></span></p>\n\n<p><img src=\"/api/guest/cambridge/media/images/076f75ba85d4695edd580fc3f4fb9161.jpg\" alt=\"\"><strong>[23] ______</strong></p>\n\n<p><strong>[24] ______</strong></p>\n\n<p><strong>[25] ______</strong></p>\n\n<p><strong>[26] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Tidal Power</strong></span></p><p><em>Undersea turbines which produce electricity from the tides are set to become an important source of renewable energy for Britain. It is still too early to predict the extent of the impact they may have, but all the signs are that they will play a significant role in the future</em></p><p><strong>A </strong>   Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships propellers, but, unlike wind, the tides are predictable and the power input is constant. The technology raises the prospect of Britain becoming self-sufficient in renewable energy and drastically reducing its carbon dioxide emissions. If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear plants and export renewable power to other parts of Europe. Unlike wind power, which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand.</p><p><strong>B</strong>    Tidal sites have already been identified that will produce one sixth or more of the UK&#x27;s power—and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry. One site alone, the Pentland Firth, between Orkney and mainland Scotland, could produce 10% of the country&#x27;s electricity with banks of turbines under the sea, and another at Alderney in the Channel Islands three times the 1,2000 megawatts of Britain&#x27;s largest and newest nuclear plant, Sizewell B, in Suffolk. Other sites identified include the Bristol Channel and the west coast of Scotland, particularly the channel between Campbelttown and Northern Irealand.</p><p><strong>C</strong>    Work on designs for the new turbine blades and sites are well advanced at the university of Southampton&#x27;s sustainable energy research group. The first station is expected to be installed off Lynmouth in Devon shortly to test the technology in a venture jointly funded by the department of Trade and Industry and the European Union. AbuBakr Bahaj, in charge of the Southampton research, said: &#x27;The prospects for energy from tidal currents are far better than from wind because the flows of water are predictable and constant. The technology for dealing with the hostile saline environment under the sea has been developed in the North Sea oil industry and much is already known about turbine blade design, because of wind power and ship propellers. There are a few technical difficulties, but I believe in the next five to ten years we will be installing commercial marine turbine farms.&#x27; Southampton has been awarded £215,000 over three years to develop the turbines and is working with Marine Current Turbines, a subsidiary of IT power, on the Lynmouth project. EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents.</p><p><strong>D</strong>    A marine turbine blade needs to be only one third of the size of a wind generator to produce three times as much power. The blades will be about 20 meters in diameter, so around 30 meters of water is required. Unlike wind power, there are unlikely to be environmental objections. Fish and other creatures are thought unlikely to be at risk from the relatively slow-turning blades. Each turbine will be mounted on a tower which will connect to the national power supply grid via underwater cables. The towers will stick out of the water and be lit, to warn shipping, and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades.</p><p><strong>E</strong>    Dr Bahaj has done most work on the Alderney site, where there are powerful currents. The single undersea turbine farm would produce far more power than needed for the Channel Islands and most would be fed into the French Grid and be re-imported into Britain via the cable under the Channel.</p><p><strong>F</strong>    One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles. These can cause vibration and damage the blades of the turbines. Dr Bahaj said: &#x27;We have to test a number of blade types to avoid this happening or at least make sure it does not damage the turbines or reduce performance. Another slight concern is submerged debris floating into the blades. So far we do not know how much of a problem it might be. We will have to make the turbines robust because the sea is a hostile environment, but all the signs that we can do it are good.&#x27;</p>"
+}

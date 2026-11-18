@@ -1,0 +1,276 @@
+{
+  "id": "cambridge-6-test-3-reading-3",
+  "title": "The Search for the Anti-aging Pill",
+  "titleCn": "The Search for the Anti-aging Pill",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 6,
+    "test": 3
+  },
+  "sourceQuestionId": "7043",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7043",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "The Search for the Anti-aging Pill"
+    },
+    {
+      "label": "2",
+      "text": "In government laboratories and elsewhere, scientists are seeking a drug able to prolong life and youthful vigor. Studies of caloric restriction are showing the way"
+    },
+    {
+      "label": "3",
+      "text": "As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging - the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older. But one intervention, consumption of a low-calorie* yet nutritionally balanced diet, works incredibly well in a broad range of animals, increasing longevity and prolonging good health. Those findings suggest that caloric restriction could delay aging and increase longevity in humans, too."
+    },
+    {
+      "label": "4",
+      "text": "Unfortunately, for maximum benefit, people would probably have to reduce their caloric intake by roughly thirty per cent, equivalent to dropping from 2,500 calories a day to 1,750. Few mortals could stick to that harsh a regimen, especially for years on end. But what if someone could create a pill that mimicked the physiological effects of eating less without actually forcing people to eat less? Could such a ‘caloric-restriction mimetic', as we call it, enable people to stay healthy longer, postponing age-related disorders (such as diabetes, arteriosclerosis, heart disease and cancer) until very late in life? Scientists first posed this question in the mid-1990s, after researchers came upon a chemical agent that in rodents seemed to reproduce many of caloric restriction's benefits. No compound that would safely achieve the same feat in people has been found yet, but the search has been informative and has fanned hope that caloric-restriction (CR)mimetics can indeed be developed eventually."
+    },
+    {
+      "label": "5",
+      "text": "The benefits of caloric restriction"
+    },
+    {
+      "label": "6",
+      "text": "The hunt for CR mimetics grew out of a desire to better understand caloric restriction's many effects on the body. Scientists first recognized the value of the practice more than 60 years ago, when they found that rats fed a low-calorie diet lived longer on average than free-feeding rats and also had a reduced incidence of conditions that become increasingly common in old age. What is more, some of the treated animals survived longer than the oldest-living animals in the control group, which means that the maximum lifespan (the oldest attainable age), not merely the normal lifespan, increased. Various interventions, such as infection-fighting drugs, can increase a population's average survival time, but only approaches that slow the body's rate of aging will increase the maximum lifespan."
+    },
+    {
+      "label": "7",
+      "text": "The rat findings have been replicated many times and extended to creatures ranging from yeast to fruit flies, worms, fish, spiders, mice and hamsters. Until fairly recently, the studies were limited to short-lived creatures genetically distant from humans. But caloric-restriction projects underway in two species more closely related to humans - rhesus and squirrel monkeys - have made scientists optimistic that CR mimetics could help people."
+    },
+    {
+      "label": "8",
+      "text": "The monkey projects demonstrate that, compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin, and they retain more youthful levels of certain hormones that tend to fall with age."
+    },
+    {
+      "label": "9",
+      "text": "The caloric-restricted animals also look better on indicators of risk for age-related diseases. For example, they have lower blood pressure and triglyceride levels (signifying a decreased likelihood of heart disease), and they have more normal blood glucose levels (pointing to a reduced risk for diabetes, which is marked by unusually high blood glucose levels). Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time (nearly 15 years) have less chronic disease. They and the other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys. Unlike the multitude of elixirs being touted as the latest anti-aging cure, CR mimetics would alter fundamental processes that underlie aging. We aim to develop compounds that fool cells into activating maintenance and repair."
+    },
+    {
+      "label": "10",
+      "text": "How a prototype caloric-restriction mimetic works"
+    },
+    {
+      "label": "11",
+      "text": "The best-studied candidate for a caloric-restriction mimetic, 2DG (2-deoxy-D-glucose), works by interfering with the way cells process glucose. It has proved toxic at some doses in animals and so cannot be used in humans. But it has demonstrated that chemicals can replicate the effects of caloric restriction; the trick is finding the right one."
+    },
+    {
+      "label": "12",
+      "text": "Cells use the glucose from food to generate ATP (adenosine triphosphate), the molecule that powers many activities in the body. By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation. When 2DG is administered to animals that eat normally, glucose reaches cells in abundance but the drug prevents most of it from being processed and thus reduces ATP synthesis. Researchers have proposed several explanations for why interruption of glucose processing and ATP production might retard aging. One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells. Reduced operation of the machinery should limit their production and thereby constrain the damage. Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce (even if it isn't) and induce them to shift into an anti-aging mode that emphasizes preservation of the organism over such ‘luxuries' as growth and reproduction."
+    },
+    {
+      "label": "13",
+      "text": "* calorie: a measure of the energy value of food"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "ynng",
+      "instruction": "Questions 28-32\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "Studies show drugs available today can delay the process of growing old.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q7043_403836",
+          "explanation": "参考译文：研究表明现在已有药物可以延缓衰老进程。\n\n定位词：drugs available today/growing old\n\n解题关键字：delay\n\n文中对应第一段第一句: As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging.... “衰老问题的研究者们最近指出，目前市面上还没有任何疗法证明可以延缓人类衰老。”“任何疗法”包含药物，所以“目前没有疗法能延缓衰老”就意味着目前没有药物可以延缓衰老。\n\n答案：NO"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "There is scientific evidence that eating fewer calories may extend human life.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q7043_648862",
+          "explanation": "参考译文：有科学证据表明少摄入热量会延长人的寿命。\n\n定位词：eating fewer calories/extend human life\n\n解题关键字：scientific evidence\n\n文中对应第一段最后一句: Those findings suggest that caloric restriction could delay aging and increase longevity in humans, too. “这些研究结果表明，限制热量的摄取可能也会延缓衰老，延长人类寿命。”scientific evidence与findings是近义词，所以符合题干。\n\n答案：YES"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Not many people are likely to find a caloric-restricted diet attractive.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q7043_877374",
+          "explanation": "参考译文：喜欢热量摄入受限型饮食的人可能不多。\n\n定位词：caloric-restricted\n\n解题关键字：Not many people/attractive\n\n文中对应第二段第二句: Few mortals could stick to that harsh a regimen. “很少有人 能够坚持这样严格的养生之道”，喜欢的才能坚持，既然不能坚持，肯定是觉得不够attractive。\n\n答案：YES"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Diet-related diseases are common in older people.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7043_451685",
+          "explanation": "参考译文：与膳食有关的疾病在老年人中普遍存在。\n\n定位词：diet-related diseases\n\n解题关键字：common/older people\n\n文中对应原文自始至终都没有提及这个观点。\n\n答案：NOT GIVEN"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "In experiments, rats who ate what they wanted led shorter lives than rats on a low-calorie diet.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q7043_106753",
+          "explanation": "参考译文：在实验中，自由摄食鼠类比摄取低热量食物的鼠类活得短。\n\n定位词：rats\n\n解题关键字：led shorter lives than\n\n文中对应第三段第二句: rats fed a low-calorie diet lived longer on average than free-feeding rats“被喂食低热量食物的鼠类平均寿命长于自由摄取食物的鼠类”，这里关键是知道free-feeding与ate what they wanted是同一个意思。\n\n答案：YES"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 33-37\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "[33] ______ Monkeys were less likely to become diabetic.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7043_511285",
+          "explanation": "题号：33\n\n定位词：less likely/diabetic\n\n文中对应第六段第二句中: ...they have more normal blood glucose levels（pointing to a reduced risk for diabetes）\n\n“血塘浓度也比较正常（表示得糖尿病的风险较低）”。正确答案为A。\n\n题号：34\n\n定位词：more chronic disease\n\n文中对应第六段第三句: Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time（nearly 15 years）have less chronic disease.\n\n“此外，有关研究最近指出，长期限制热量摄入（将近15年）的恒河猴患慢性病的几率也较低。”\n\n定位词：rhesus monkeys与control monkeys比较，前者患慢性病几率低，也就是说后者患慢性病几率高。正确答案是B。\n\n题号：35\n\n定位词：a longer than average lifespan\n\n文中对应第六段第四句: They and other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys.\n\n“但想要知道限制热量摄入是否会延长喉类的平均寿命和最大寿命，我们还必须对这些恒河猴以及其他猴类做更长时间的跟踪研究。”\n\nThey指的是caloric-restricted monkeys, other monkeys指的就是control monkeys，原文既然说还需更多研究才能知道它们的寿命是否得到延长，也就是说两类猴都还没有表明寿命得到延长。正确答案是C。\n\n题号：36\n\n定位词：reduce chance of heart disease\n\n文中对应第六段第二句中: For example, they have lower blood pressure and triglyceride levels（signifying a decreased likelihood of heart disease）...\n\n“例如，它们的血压与甘油三酸酯含量都比较低（表示得心脏病的可能性较小）”。\n\n这句话阐述的是calorie-restricted animal的情况，也就是calorie-restricted monkeys的情况，所以正确答案是A。\n\n题号：37\n\n定位词：greater quantities of insulin\n\n文中对应第五段中: ...compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin\n\n“比起正常饮食的对照组动物,限制热量摄入组猴子的体温和胰岛素浓度都较低”。\n\n限制热量摄入组的猴子比对照组猴子的胰岛素浓度低，说明其胰岛素分泌量少，故对照组的胰岛素分泌较多。正确答案是B。",
+          "promptHtml": "[33] ______ Monkeys were less likely to become diabetic."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "[34] ______ Monkeys experienced more chronic disease.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7043_122063",
+          "explanation": "题号：33\n\n定位词：less likely/diabetic\n\n文中对应第六段第二句中: ...they have more normal blood glucose levels（pointing to a reduced risk for diabetes）\n\n“血塘浓度也比较正常（表示得糖尿病的风险较低）”。正确答案为A。\n\n题号：34\n\n定位词：more chronic disease\n\n文中对应第六段第三句: Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time（nearly 15 years）have less chronic disease.\n\n“此外，有关研究最近指出，长期限制热量摄入（将近15年）的恒河猴患慢性病的几率也较低。”\n\n定位词：rhesus monkeys与control monkeys比较，前者患慢性病几率低，也就是说后者患慢性病几率高。正确答案是B。\n\n题号：35\n\n定位词：a longer than average lifespan\n\n文中对应第六段第四句: They and other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys.\n\n“但想要知道限制热量摄入是否会延长喉类的平均寿命和最大寿命，我们还必须对这些恒河猴以及其他猴类做更长时间的跟踪研究。”\n\nThey指的是caloric-restricted monkeys, other monkeys指的就是control monkeys，原文既然说还需更多研究才能知道它们的寿命是否得到延长，也就是说两类猴都还没有表明寿命得到延长。正确答案是C。\n\n题号：36\n\n定位词：reduce chance of heart disease\n\n文中对应第六段第二句中: For example, they have lower blood pressure and triglyceride levels（signifying a decreased likelihood of heart disease）...\n\n“例如，它们的血压与甘油三酸酯含量都比较低（表示得心脏病的可能性较小）”。\n\n这句话阐述的是calorie-restricted animal的情况，也就是calorie-restricted monkeys的情况，所以正确答案是A。\n\n题号：37\n\n定位词：greater quantities of insulin\n\n文中对应第五段中: ...compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin\n\n“比起正常饮食的对照组动物,限制热量摄入组猴子的体温和胰岛素浓度都较低”。\n\n限制热量摄入组的猴子比对照组猴子的胰岛素浓度低，说明其胰岛素分泌量少，故对照组的胰岛素分泌较多。正确答案是B。",
+          "promptHtml": "[34] ______ Monkeys experienced more chronic disease."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "[35] ______ Monkeys have been shown to experience a longer than average life span.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q7043_938279",
+          "explanation": "题号：33\n\n定位词：less likely/diabetic\n\n文中对应第六段第二句中: ...they have more normal blood glucose levels（pointing to a reduced risk for diabetes）\n\n“血塘浓度也比较正常（表示得糖尿病的风险较低）”。正确答案为A。\n\n题号：34\n\n定位词：more chronic disease\n\n文中对应第六段第三句: Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time（nearly 15 years）have less chronic disease.\n\n“此外，有关研究最近指出，长期限制热量摄入（将近15年）的恒河猴患慢性病的几率也较低。”\n\n定位词：rhesus monkeys与control monkeys比较，前者患慢性病几率低，也就是说后者患慢性病几率高。正确答案是B。\n\n题号：35\n\n定位词：a longer than average lifespan\n\n文中对应第六段第四句: They and other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys.\n\n“但想要知道限制热量摄入是否会延长喉类的平均寿命和最大寿命，我们还必须对这些恒河猴以及其他猴类做更长时间的跟踪研究。”\n\nThey指的是caloric-restricted monkeys, other monkeys指的就是control monkeys，原文既然说还需更多研究才能知道它们的寿命是否得到延长，也就是说两类猴都还没有表明寿命得到延长。正确答案是C。\n\n题号：36\n\n定位词：reduce chance of heart disease\n\n文中对应第六段第二句中: For example, they have lower blood pressure and triglyceride levels（signifying a decreased likelihood of heart disease）...\n\n“例如，它们的血压与甘油三酸酯含量都比较低（表示得心脏病的可能性较小）”。\n\n这句话阐述的是calorie-restricted animal的情况，也就是calorie-restricted monkeys的情况，所以正确答案是A。\n\n题号：37\n\n定位词：greater quantities of insulin\n\n文中对应第五段中: ...compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin\n\n“比起正常饮食的对照组动物,限制热量摄入组猴子的体温和胰岛素浓度都较低”。\n\n限制热量摄入组的猴子比对照组猴子的胰岛素浓度低，说明其胰岛素分泌量少，故对照组的胰岛素分泌较多。正确答案是B。",
+          "promptHtml": "[35] ______ Monkeys have been shown to experience a longer than average life span."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "[36] ______ Monkeys enjoyed a reduced chance of heart disease.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7043_600600",
+          "explanation": "题号：33\n\n定位词：less likely/diabetic\n\n文中对应第六段第二句中: ...they have more normal blood glucose levels（pointing to a reduced risk for diabetes）\n\n“血塘浓度也比较正常（表示得糖尿病的风险较低）”。正确答案为A。\n\n题号：34\n\n定位词：more chronic disease\n\n文中对应第六段第三句: Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time（nearly 15 years）have less chronic disease.\n\n“此外，有关研究最近指出，长期限制热量摄入（将近15年）的恒河猴患慢性病的几率也较低。”\n\n定位词：rhesus monkeys与control monkeys比较，前者患慢性病几率低，也就是说后者患慢性病几率高。正确答案是B。\n\n题号：35\n\n定位词：a longer than average lifespan\n\n文中对应第六段第四句: They and other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys.\n\n“但想要知道限制热量摄入是否会延长喉类的平均寿命和最大寿命，我们还必须对这些恒河猴以及其他猴类做更长时间的跟踪研究。”\n\nThey指的是caloric-restricted monkeys, other monkeys指的就是control monkeys，原文既然说还需更多研究才能知道它们的寿命是否得到延长，也就是说两类猴都还没有表明寿命得到延长。正确答案是C。\n\n题号：36\n\n定位词：reduce chance of heart disease\n\n文中对应第六段第二句中: For example, they have lower blood pressure and triglyceride levels（signifying a decreased likelihood of heart disease）...\n\n“例如，它们的血压与甘油三酸酯含量都比较低（表示得心脏病的可能性较小）”。\n\n这句话阐述的是calorie-restricted animal的情况，也就是calorie-restricted monkeys的情况，所以正确答案是A。\n\n题号：37\n\n定位词：greater quantities of insulin\n\n文中对应第五段中: ...compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin\n\n“比起正常饮食的对照组动物,限制热量摄入组猴子的体温和胰岛素浓度都较低”。\n\n限制热量摄入组的猴子比对照组猴子的胰岛素浓度低，说明其胰岛素分泌量少，故对照组的胰岛素分泌较多。正确答案是B。",
+          "promptHtml": "[36] ______ Monkeys enjoyed a reduced chance of heart disease."
+        },
+        {
+          "id": 10,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "[37] ______ Monkeys produced greater quantities of insulin.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7043_980327",
+          "explanation": "题号：33\n\n定位词：less likely/diabetic\n\n文中对应第六段第二句中: ...they have more normal blood glucose levels（pointing to a reduced risk for diabetes）\n\n“血塘浓度也比较正常（表示得糖尿病的风险较低）”。正确答案为A。\n\n题号：34\n\n定位词：more chronic disease\n\n文中对应第六段第三句: Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time（nearly 15 years）have less chronic disease.\n\n“此外，有关研究最近指出，长期限制热量摄入（将近15年）的恒河猴患慢性病的几率也较低。”\n\n定位词：rhesus monkeys与control monkeys比较，前者患慢性病几率低，也就是说后者患慢性病几率高。正确答案是B。\n\n题号：35\n\n定位词：a longer than average lifespan\n\n文中对应第六段第四句: They and other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys.\n\n“但想要知道限制热量摄入是否会延长喉类的平均寿命和最大寿命，我们还必须对这些恒河猴以及其他猴类做更长时间的跟踪研究。”\n\nThey指的是caloric-restricted monkeys, other monkeys指的就是control monkeys，原文既然说还需更多研究才能知道它们的寿命是否得到延长，也就是说两类猴都还没有表明寿命得到延长。正确答案是C。\n\n题号：36\n\n定位词：reduce chance of heart disease\n\n文中对应第六段第二句中: For example, they have lower blood pressure and triglyceride levels（signifying a decreased likelihood of heart disease）...\n\n“例如，它们的血压与甘油三酸酯含量都比较低（表示得心脏病的可能性较小）”。\n\n这句话阐述的是calorie-restricted animal的情况，也就是calorie-restricted monkeys的情况，所以正确答案是A。\n\n题号：37\n\n定位词：greater quantities of insulin\n\n文中对应第五段中: ...compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin\n\n“比起正常饮食的对照组动物,限制热量摄入组猴子的体温和胰岛素浓度都较低”。\n\n限制热量摄入组的猴子比对照组猴子的胰岛素浓度低，说明其胰岛素分泌量少，故对照组的胰岛素分泌较多。正确答案是B。",
+          "promptHtml": "[37] ______ Monkeys produced greater quantities of insulin."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "caloric-restricted monkeys"
+        },
+        {
+          "value": "B",
+          "text": "control monkeys"
+        },
+        {
+          "value": "C",
+          "text": "neither caloric-restricted monkeys nor control monkeys"
+        }
+      ],
+      "contextHtml": "<p><strong>[33] ______</strong> Monkeys were less likely to become diabetic.</p>\n\n<p><strong>[34] ______</strong> Monkeys experienced more chronic disease.</p>\n\n<p><strong>[35] ______</strong> Monkeys have been shown to experience a longer than average life span.</p>\n\n<p><strong>[36] ______</strong> Monkeys enjoyed a reduced chance of heart disease.</p>\n\n<p><strong>[37] ______</strong> Monkeys produced greater quantities of insulin.</p>\n\n<p></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 38-40\n\nComplete the flow-chart below.\n\nChoose NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 11,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "[38] ______",
+          "answers": [
+            "glucose"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7043_214479",
+          "explanation": "题号：38\n\n定位词：production of ATP is decreased\n\n文中对应第八段第二句: By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation.\n\n“通过限制食物的摄取量，可使进人细胞的葡萄糖降到最低，因此减少ATP的生成量。”\n\n通过minimizes the amount of glucose和less...is processed的对应很快选出答案应该是glucose。\n\n题号：39\n\n定位词：one possibility\n\n文中对应第八段中: One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells.\n\n“其中一种说法与ATP生成过程中自由基的释放有关，人们认为自由基会损伤细胞，因此引起衰老以及像癌症这类与衰老有关的疾病。”\n\n根据原文，free radical促进cancer之类的disease破坏细胞，所以free radicals越少，被疾病破坏的细胞就越少。即题目中给出的部分: cells less damaged by disease，所以答案为free radicals。\n\n题号：40\n\n定位词：focus on\n\n文中对应第八段最后一句: Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce（even if it isn't）and induce them to shift into an anti-aging mode that emphasizes preservation....\n\n“另一种假设认为，葡萄糖代谢的降低让细胞以为食物不足（即使事实并非如此），而促使细胞进入抗衰老的状态，这种状态着重的是维持……”\n\nemphasize与focus on近义，scarce与in short supply同义，所以对应答案为preservation。",
+          "promptHtml": "[38] ______"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "[39] ______",
+          "answers": [
+            "free radicals"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7043_670913",
+          "explanation": "题号：38\n\n定位词：production of ATP is decreased\n\n文中对应第八段第二句: By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation.\n\n“通过限制食物的摄取量，可使进人细胞的葡萄糖降到最低，因此减少ATP的生成量。”\n\n通过minimizes the amount of glucose和less...is processed的对应很快选出答案应该是glucose。\n\n题号：39\n\n定位词：one possibility\n\n文中对应第八段中: One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells.\n\n“其中一种说法与ATP生成过程中自由基的释放有关，人们认为自由基会损伤细胞，因此引起衰老以及像癌症这类与衰老有关的疾病。”\n\n根据原文，free radical促进cancer之类的disease破坏细胞，所以free radicals越少，被疾病破坏的细胞就越少。即题目中给出的部分: cells less damaged by disease，所以答案为free radicals。\n\n题号：40\n\n定位词：focus on\n\n文中对应第八段最后一句: Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce（even if it isn't）and induce them to shift into an anti-aging mode that emphasizes preservation....\n\n“另一种假设认为，葡萄糖代谢的降低让细胞以为食物不足（即使事实并非如此），而促使细胞进入抗衰老的状态，这种状态着重的是维持……”\n\nemphasize与focus on近义，scarce与in short supply同义，所以对应答案为preservation。",
+          "promptHtml": "[39] ______"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "[40] ______",
+          "answers": [
+            "preservation"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7043_283119",
+          "explanation": "题号：38\n\n定位词：production of ATP is decreased\n\n文中对应第八段第二句: By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation.\n\n“通过限制食物的摄取量，可使进人细胞的葡萄糖降到最低，因此减少ATP的生成量。”\n\n通过minimizes the amount of glucose和less...is processed的对应很快选出答案应该是glucose。\n\n题号：39\n\n定位词：one possibility\n\n文中对应第八段中: One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells.\n\n“其中一种说法与ATP生成过程中自由基的释放有关，人们认为自由基会损伤细胞，因此引起衰老以及像癌症这类与衰老有关的疾病。”\n\n根据原文，free radical促进cancer之类的disease破坏细胞，所以free radicals越少，被疾病破坏的细胞就越少。即题目中给出的部分: cells less damaged by disease，所以答案为free radicals。\n\n题号：40\n\n定位词：focus on\n\n文中对应第八段最后一句: Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce（even if it isn't）and induce them to shift into an anti-aging mode that emphasizes preservation....\n\n“另一种假设认为，葡萄糖代谢的降低让细胞以为食物不足（即使事实并非如此），而促使细胞进入抗衰老的状态，这种状态着重的是维持……”\n\nemphasize与focus on近义，scarce与in short supply同义，所以对应答案为preservation。",
+          "promptHtml": "[40] ______"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><b>How a caloric-restriction mimetic works</b></span></p>\n\n<p> </p>\n\n<p><img src=\"/api/guest/cambridge/media/images/9f765e1dd78b6cf484acf4c2a7ff7486.png\" alt=\"\"></p>\n\n<p><strong>[38] ______</strong></p>\n\n<p><strong>[39] ______</strong></p>\n\n<p><strong>[40] ______</strong></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span>The Search for the Anti-aging Pill</span></p><p>　　In government laboratories and elsewhere, scientists are seeking a drug able to prolong life and youthful vigor. Studies of caloric restriction are showing the way</p><p>As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging - the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older. But one intervention, consumption of a low-calorie* yet nutritionally balanced diet, works incredibly well in a broad range of animals, increasing longevity and prolonging good health. Those findings suggest that caloric restriction could delay aging and increase longevity in humans, too.</p><p>Unfortunately, for maximum benefit, people would probably have to reduce their caloric intake by roughly thirty per cent, equivalent to dropping from 2,500 calories a day to 1,750. Few mortals could stick to that harsh a regimen, especially for years on end. But what if someone could create a pill that mimicked the physiological effects of eating less without actually forcing people to eat less? Could such a ‘caloric-restriction mimetic&#x27;, as we call it, enable people to stay healthy longer, postponing age-related disorders (such as diabetes, arteriosclerosis, heart disease and cancer) until very late in life? Scientists first posed this question in the mid-1990s, after researchers came upon a chemical agent that in rodents seemed to reproduce many of caloric restriction&#x27;s benefits. No compound that would safely achieve the same feat in people has been found yet, but the search has been informative and has fanned hope that caloric-restriction (CR)mimetics can indeed be developed eventually.</p><p><strong>The benefits of caloric restriction</strong></p><p>The hunt for CR mimetics grew out of a desire to better understand caloric restriction&#x27;s many effects on the body. Scientists first recognized the value of the practice more than 60 years ago, when they found that rats fed a low-calorie diet lived longer on average than free-feeding rats and also had a reduced incidence of conditions that become increasingly common in old age. What is more, some of the treated animals survived longer than the oldest-living animals in the control group, which means that the maximum lifespan (the oldest attainable age), not merely the normal lifespan, increased. Various interventions, such as infection-fighting drugs, can increase a population&#x27;s average survival time, but only approaches that slow the body&#x27;s rate of aging will increase the maximum lifespan.</p><p>The rat findings have been replicated many times and extended to creatures ranging from yeast to fruit flies, worms, fish, spiders, mice and hamsters. Until fairly recently, the studies were limited to short-lived creatures genetically distant from humans. But caloric-restriction projects underway in two species more closely related to humans - rhesus and squirrel monkeys - have made scientists optimistic that CR mimetics could help people.</p><p>The monkey projects demonstrate that, compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin, and they retain more youthful levels of certain hormones that tend to fall with age.</p><p>The caloric-restricted animals also look better on indicators of risk for age-related diseases. For example, they have lower blood pressure and triglyceride levels (signifying a decreased likelihood of heart disease), and they have more normal blood glucose levels (pointing to a reduced risk for diabetes, which is marked by unusually high blood glucose levels). Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time (nearly 15 years) have less chronic disease. They and the other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys. Unlike the multitude of elixirs being touted as the latest anti-aging cure, CR mimetics would alter fundamental processes that underlie aging. We aim to develop compounds that fool cells into activating maintenance and repair.</p><p><strong>How a prototype caloric-restriction mimetic works</strong></p><p>The best-studied candidate for a caloric-restriction mimetic, 2DG (2-deoxy-D-glucose), works by interfering with the way cells process glucose. It has proved toxic at some doses in animals and so cannot be used in humans. But it has demonstrated that chemicals can replicate the effects of caloric restriction; the trick is finding the right one.</p><p>Cells use the glucose from food to generate ATP (adenosine triphosphate), the molecule that powers many activities in the body. By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation. When 2DG is administered to animals that eat normally, glucose reaches cells in abundance but the drug prevents most of it from being processed and thus reduces ATP synthesis. Researchers have proposed several explanations for why interruption of glucose processing and ATP production might retard aging. One possibility relates to the ATP-making machinery&#x27;s emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells. Reduced operation of the machinery should limit their production and thereby constrain the damage. Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce (even if it isn&#x27;t) and induce them to shift into an anti-aging mode that emphasizes preservation of the organism over such ‘luxuries&#x27; as growth and reproduction.</p><p> </p><p>　* calorie: a measure of the energy value of food</p>"
+}

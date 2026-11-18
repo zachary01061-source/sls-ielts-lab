@@ -1,0 +1,334 @@
+{
+  "id": "cambridge-16-test-2-reading-2",
+  "title": "I contain multitudes",
+  "titleCn": "I contain multitudes",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 16,
+    "test": 2
+  },
+  "sourceQuestionId": "8324",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8324",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "I contain multitudes"
+    },
+    {
+      "label": "2",
+      "text": "Wendy Moore reviews Ed Yong’s book about microbes"
+    },
+    {
+      "label": "3",
+      "text": "Microbes, most of them bacteria, have populated this planet since long before animal life developed and they will outlive us. Invisible to the naked eye, they are ubiquitous. They inhabit the soil, air, rocks and water and are present within every form of life, from seaweed and coral to dogs and humans. And, as Yong explains in his utterly absorbing and hugely important book, we mess with them at our peril."
+    },
+    {
+      "label": "4",
+      "text": "Every species has its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual. What is amazing is that while the number of human cells in the average person is about 30 trillion, the number of microbial ones is higher – about 39 trillion. At best, Yong informs us, we are only 50 per cent human. Indeed, some scientists even suggest we should think of each species and its microbes as a single unit, dubbed a ‘holobiont’."
+    },
+    {
+      "label": "5",
+      "text": "In each human there are microbes that live only in the stomach, the mouth or the armpit and by and large they do so peacefully. So ‘bad’ microbes are just microbes out of context. Microbes that sit contentedly in the human gut (where there are more microbes than there are stars in the galaxy) can become deadly if they find their way into the bloodstream. These communities are constantly changing too. The right hand shares just one sixth of its microbes with the left hand. And, of course, we are surrounded by microbes. Every time we eat, we swallow a million microbes in each gram of food; we are continually swapping microbes with other humans, pets and the world at large."
+    },
+    {
+      "label": "6",
+      "text": "It’s a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept guide. Writing with lightness and panache, he has a knack of explaining complex science in terms that are both easy to understand and totally enthralling. Yong is on a mission. Leading us gently by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade us to love them as much as he does. By the end, we do."
+    },
+    {
+      "label": "7",
+      "text": "For most of human history we had no idea that microbes existed. The first man to see these extraordinarily potent creatures was a Dutch lens-maker called Antony van Leeuwenhoek in the 1670s. Using microscopes of his own design that could magnify up to 270 times, he examined a drop of water from a nearby lake and found it teeming with tiny creatures he called ‘animalcules’. It wasn’t until nearly two hundred years later that the research of French biologist Louis Pasteur indicated that some microbes caused disease. It was Pasteur’s ‘germ theory’ that gave bacteria the poor image that endures today."
+    },
+    {
+      "label": "8",
+      "text": "Yong’s book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health. The book also acknowledges that our attitude towards bacteria is not a simple one. We tend to see the dangers posed by bacteria, yet at the same time we are sold yoghurts and drinks that supposedly nurture ‘friendly’ bacteria. In reality, says Yong, bacteria should not be viewed as either friends or foes, villains or heroes. Instead we should realise we have a symbiotic relationship, that can be mutually beneficial or mutually destructive."
+    },
+    {
+      "label": "9",
+      "text": "What then do these millions of organisms do? The answer is pretty much everything. New research is now unravelling the ways in which bacteria aid digestion, regulate our immune systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity. ‘They actually help us become who we are,’ says Yong. But we are facing a growing problem. Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune problems, such as inflammatory bowel disease (IBD)."
+    },
+    {
+      "label": "10",
+      "text": "The most recent research actually turns accepted norms upside down. For example, there are studies indicating that the excessive use of household detergents and antibacterial products actually destroys the microbes that normally keep the more dangerous germs at bay. Other studies show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria, which may help protect them against allergies later."
+    },
+    {
+      "label": "11",
+      "text": "The readers of Yong’s book must be prepared for a decidedly unglamorous world. Among the less appealing case studies is one about a fungus that is wiping out entire populations of frogs and that can be halted by a rare microbial bacterium. Another is about squid that carry luminescent bacteria that protect them against predators. However, if you can overcome your distaste for some of the investigations, the reasons for Yong’s enthusiasm become clear. The microbial world is a place of wonder. Already, in an attempt to stop mosquitoes spreading dengue fever – a disease that infects 400 million people a year – mosquitoes are being loaded with a bacterium to block the disease. In the future, our ability to manipulate microbes means we could construct buildings with useful microbes built into their walls to fight off infections. Just imagine a neonatal hospital ward coated in a specially mixed cocktail of microbes so that babies get the best start in life."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 14–16\n\nChoose the correct letter, A, B, C or D.\n\nChoose the correct letter for questions 14–16.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "What point does the writer make about microbes in the first paragraph?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8324_386890",
+          "options": [
+            {
+              "value": "A",
+              "text": "They adapt quickly to their environment."
+            },
+            {
+              "value": "B",
+              "text": "The risk they pose has been exaggerated."
+            },
+            {
+              "value": "C",
+              "text": "They are more plentiful in animal life than plant life."
+            },
+            {
+              "value": "D",
+              "text": "They will continue to exist for longer than the human race."
+            }
+          ],
+          "explanation": "译文：作者在第一自然段关于微生物提出了哪一点？\n\n虽然问题句已经明示考生：答案来自于第一段，但这种情况下的绝大多数正确答案都无法只依靠段落中的某一句话就能锁定，而是需要考生读遍全段、比对过所有选项，才能最终确认最佳选择。本题便是如此。其实在阅读第一句话时，就已经可以遇到对D项类似内容的提及：they will outlive us说的就是微生物这个种群必将比我们人类存在得更久。然而是否因为这一句话就能判定正确答案？恐怕大多数考生都并不愿冒这个风险，而是还要再确认过本段其他信息和对比其他选项后才能最终确认答案。第二句中的uniquitous这个词，在以往阅读文章中考过数次，值得考生关注和记忆，但此处如果不认识这个词也无妨，因为耐心读到下一句后也能看出，后者实际上就是在以具体举例的形式来进一步指明“微生物无所不在”。最后一句话引出了Yong的一本书，提醒我们轻易不要去招惹它们。至此，在完成对第一段所有句子内容的阅读和对比四个选项后，可以最终锁定答案为D项：They will continue to exist for longer than the human race.（它们将比人类持续存在得更长久。）\n\n另外三个选项的信息，实际都并未在第一段中提及。\n\nA项：They adapt quickly to their environment.（它们迅速适应了环境。）\n\nB项：The risk they pose has been exaggerated.（它们所造成的风险被夸大了。）\n\nC项：They are more plentiful in animal life than plant life.（它们在动物身上比在植物身上更丰富。）"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "In the second paragraph, the writer is impressed by the fact that",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8324_296203",
+          "options": [
+            {
+              "value": "A",
+              "text": "each species tends to have vastly different microbes."
+            },
+            {
+              "value": "B",
+              "text": "some parts of the body contain relatively few microbes."
+            },
+            {
+              "value": "C",
+              "text": "the average individual has more microbial cells than human ones."
+            },
+            {
+              "value": "D",
+              "text": "scientists have limited understanding of how microbial cells behave."
+            }
+          ],
+          "explanation": "译文：在第二段中，作者对这样一个事实印象深刻\n\n本题同样需要通读全段所有句意才能最终确认答案。虽然相对比较明显的提示来自于第二句句首的what is amazing，但是如果缺少了段落上下文和对比其他选项进行判断排除，考生恐怕也未必能笃定正确答案应为：C项：the average individual has more microbial cells than human ones.（一个普通人身上的微生物细胞比人体细胞还要多。）\n\nA项：each species tends to have vastly different microbes.（每一个物种所携带的微生物都与其他物种之间存在极大的不同。）本选项确实有一定的迷惑性。在第二段第一句话里，确实说到了“微生物群在不同的物种之间各不相同”，然而是否存在“极大的差异”？这一点却并不能从原文中明确得知，所以本选项表述不够准确。关于本项对应句的详细分析，可以参见前文“佳句赏析”中的第一句。\n\nB项：some parts of the body contain relatively few microbes.（身体上的一些部位包含相对较少的微生物。）本项的定位也在第二段第一句，其迷惑性程度也与A项类似：原文只是提及了不同人体部位有着各不相同的微生物群，却没有说到它们的数量多寡。\n\nD项：scientists have limited understanding of how microbial cells behave.（科学家对于微生物细胞如何活动的理解有限。）这个选项的信息完全不曾在原文中出现过。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "What is the writer doing in the fifth paragraph?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8324_577082",
+          "options": [
+            {
+              "value": "A",
+              "text": "explaining how a discovery was made"
+            },
+            {
+              "value": "B",
+              "text": "comparing scientists’ theories about microbes"
+            },
+            {
+              "value": "C",
+              "text": "describing confusion among scientists"
+            },
+            {
+              "value": "D",
+              "text": "giving details of how microbes cause disease"
+            }
+          ],
+          "explanation": "译文：作者在第五段里做了什么？\n\n本题的解题难度略高，主要是由于第五段篇幅略长，且包含了结构比较复杂的长句。不过，考生只需对“单选题可能需要读完全段、对比所有选项才能更准确作答”这个题型特点有所了解和预期，耐心读懂段中每句话的意思和对比选项细节表达，仍然不难得出答案应为：\n\nA项：explaining how a discovery was made（解释一种发现是如何做出的）\n\nB项：comparing scientists’ theories about microbes（比较科学家们关于微生物的不同理论）本段中确实提到了两位不同的人，一位首先发现了微生物的存在，另一位则通过研究发现其中的一些可能会致病。然而前者并未提出什么理论，作者也并未对二者进行任何比较，只是平铺直叙地按时间先后顺序介绍了事实而已，因此本选项的表述并不能算作正确。\n\nC项：describing confusion among scientists（描述科学家之间的迷惑不解）此项属于无中生有的信息，完全未在本段被提到过。\n\nD项：giving details of how microbes cause disease（给出微生物是如何致病的细节描述）本段内容并没有就“致病原因”给出任何细节描述。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 17–20\n\nComplete the summary using the list of words, A–H, below.\n\nChoose the correct letter, A–H and move it into boxes 17–20.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Answer for gap 17.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8324_884391",
+          "explanation": "17. 本题的题干与原文的对应不算明显：无论是beneficial effect与原文中的maintaining our health这种间接对应，还是small number与原文中的fewer than one hundred这种隐晦对应，考生都很难依靠直接看出同义替换而成功找到。不过好在这些对应的词汇认知难度都不高，考生如果抱定平行阅读的原则，耐心依次读懂原文、比对题干，也不难找到原文中的答案词：disease；不过此处还需多做一步，在词库里找到答案对应的选项字母，进而根据词义对应锁定答案为G illness。\n\n18. 本题的定位比上一题容易得多，考生只需依据题干句中最核心的名词信息relationship即可在原文中找到原词重现的对应句，进而根据“空格处需要一个形容词”这个分析，确认答案应为symbiotic。这个词本身的认知难度比较高，但不认识这个词的考生如果能沉着冷静理解整个句子的结构和语境，应该不难从“并不是非友即敌、非坏蛋即英雄”以及“可以互相有益也可以互相有损”这些表述中，推理出此处应该是好坏掺半、互可损益的关系；再结合词库中给出的可选内容，最终锁定答案为B partnership。\n\n19. 本题与下一题的位置出现了乱序，但因为距离很近，所以不会给考生造成太大干扰。明确了poor对应的是原文中unhealthy这个意思表达后，考生即可得出正确答案为H nutrition。\n\n20. 本题与上一题解法一致，细节不再赘述。正确答案为原文词hygiene在词库中的对应项E cleanliness。",
+          "promptHtml": "Answer for gap 17."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Answer for gap 18.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8324_574796",
+          "explanation": "17. 本题的题干与原文的对应不算明显：无论是beneficial effect与原文中的maintaining our health这种间接对应，还是small number与原文中的fewer than one hundred这种隐晦对应，考生都很难依靠直接看出同义替换而成功找到。不过好在这些对应的词汇认知难度都不高，考生如果抱定平行阅读的原则，耐心依次读懂原文、比对题干，也不难找到原文中的答案词：disease；不过此处还需多做一步，在词库里找到答案对应的选项字母，进而根据词义对应锁定答案为G illness。\n\n18. 本题的定位比上一题容易得多，考生只需依据题干句中最核心的名词信息relationship即可在原文中找到原词重现的对应句，进而根据“空格处需要一个形容词”这个分析，确认答案应为symbiotic。这个词本身的认知难度比较高，但不认识这个词的考生如果能沉着冷静理解整个句子的结构和语境，应该不难从“并不是非友即敌、非坏蛋即英雄”以及“可以互相有益也可以互相有损”这些表述中，推理出此处应该是好坏掺半、互可损益的关系；再结合词库中给出的可选内容，最终锁定答案为B partnership。\n\n19. 本题与下一题的位置出现了乱序，但因为距离很近，所以不会给考生造成太大干扰。明确了poor对应的是原文中unhealthy这个意思表达后，考生即可得出正确答案为H nutrition。\n\n20. 本题与上一题解法一致，细节不再赘述。正确答案为原文词hygiene在词库中的对应项E cleanliness。",
+          "promptHtml": "Answer for gap 18."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Answer for gap 19.",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8324_174649",
+          "explanation": "17. 本题的题干与原文的对应不算明显：无论是beneficial effect与原文中的maintaining our health这种间接对应，还是small number与原文中的fewer than one hundred这种隐晦对应，考生都很难依靠直接看出同义替换而成功找到。不过好在这些对应的词汇认知难度都不高，考生如果抱定平行阅读的原则，耐心依次读懂原文、比对题干，也不难找到原文中的答案词：disease；不过此处还需多做一步，在词库里找到答案对应的选项字母，进而根据词义对应锁定答案为G illness。\n\n18. 本题的定位比上一题容易得多，考生只需依据题干句中最核心的名词信息relationship即可在原文中找到原词重现的对应句，进而根据“空格处需要一个形容词”这个分析，确认答案应为symbiotic。这个词本身的认知难度比较高，但不认识这个词的考生如果能沉着冷静理解整个句子的结构和语境，应该不难从“并不是非友即敌、非坏蛋即英雄”以及“可以互相有益也可以互相有损”这些表述中，推理出此处应该是好坏掺半、互可损益的关系；再结合词库中给出的可选内容，最终锁定答案为B partnership。\n\n19. 本题与下一题的位置出现了乱序，但因为距离很近，所以不会给考生造成太大干扰。明确了poor对应的是原文中unhealthy这个意思表达后，考生即可得出正确答案为H nutrition。\n\n20. 本题与上一题解法一致，细节不再赘述。正确答案为原文词hygiene在词库中的对应项E cleanliness。",
+          "promptHtml": "Answer for gap 19."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Answer for gap 20.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8324_334925",
+          "explanation": "17. 本题的题干与原文的对应不算明显：无论是beneficial effect与原文中的maintaining our health这种间接对应，还是small number与原文中的fewer than one hundred这种隐晦对应，考生都很难依靠直接看出同义替换而成功找到。不过好在这些对应的词汇认知难度都不高，考生如果抱定平行阅读的原则，耐心依次读懂原文、比对题干，也不难找到原文中的答案词：disease；不过此处还需多做一步，在词库里找到答案对应的选项字母，进而根据词义对应锁定答案为G illness。\n\n18. 本题的定位比上一题容易得多，考生只需依据题干句中最核心的名词信息relationship即可在原文中找到原词重现的对应句，进而根据“空格处需要一个形容词”这个分析，确认答案应为symbiotic。这个词本身的认知难度比较高，但不认识这个词的考生如果能沉着冷静理解整个句子的结构和语境，应该不难从“并不是非友即敌、非坏蛋即英雄”以及“可以互相有益也可以互相有损”这些表述中，推理出此处应该是好坏掺半、互可损益的关系；再结合词库中给出的可选内容，最终锁定答案为B partnership。\n\n19. 本题与下一题的位置出现了乱序，但因为距离很近，所以不会给考生造成太大干扰。明确了poor对应的是原文中unhealthy这个意思表达后，考生即可得出正确答案为H nutrition。\n\n20. 本题与上一题解法一致，细节不再赘述。正确答案为原文词hygiene在词库中的对应项E cleanliness。",
+          "promptHtml": "Answer for gap 20."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "solution"
+        },
+        {
+          "value": "B",
+          "text": "partnership"
+        },
+        {
+          "value": "C",
+          "text": "destruction"
+        },
+        {
+          "value": "D",
+          "text": "exaggeration"
+        },
+        {
+          "value": "E",
+          "text": "cleanliness"
+        },
+        {
+          "value": "F",
+          "text": "regulations"
+        },
+        {
+          "value": "G",
+          "text": "illness"
+        },
+        {
+          "value": "H",
+          "text": "nutrition"
+        }
+      ],
+      "contextHtml": "<p><b>We should be more tolerant of microbes</b></p>\n\n<p>Yong’s book argues that we should be more tolerant of microbes. Many have a beneficial effect, and only a relatively small number lead to <strong>[17] ______</strong> . And although it is misleading to think of microbes as ‘friendly’, we should also stop thinking of them as the enemy. In fact, we should accept that our relationship with microbes is one based on <strong>[18] ______</strong> .</p>\n\n<p>New research shows that microbes have numerous benefits for humans. Amongst other things, they aid digestion, remove poisons, produce vitamins and may even help reduce obesity. However, there is a growing problem. Our poor <strong>[19] ______</strong> , our overuse of antibiotics, and our excessive focus on <strong>[20] ______</strong> are upsetting the bacterial balance and may be contributing to the huge increase in allergies and immune system problems.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "instruction": "Questions 21–26\n\nDo the following statements agree with the claims of the writer in Reading Passage 2?\n\nIn boxes 21–26 on your answer sheet, write\n\nYES if the statement agrees with the claims of the writer\n\nNO if the statement contradicts the claims of the writer\n\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "It is possible that using antibacterial products in the home fails to have the desired effect.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8324_856012",
+          "explanation": "译文：在家中使用抗菌类产品有可能并不能达到想要的效果。\n\n本题的定位相对比较容易，因为题干中的home与原文中household的同义替换用法在雅思阅读文章中并不少见。考生只需在定位后耐心看懂这一句话本身，即可确认正确答案为YES。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "It is a good idea to ensure that children come into contact with as few bacteria as possible.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8324_130567",
+          "explanation": "译文：确保孩子们能尽可能少地接触到细菌会是个好主意。\n\n本题的定位紧随上一题之后，且原文句直接包含原词重现的定位词children；耐心读懂本句可知：原文中表达的意思是“让孩子更早接触各种微生物会有好处”，这与题干意思表达形成直接的矛盾抵触，可知答案应为NO。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Yong’s book contains more case studies than are necessary.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8324_623252",
+          "explanation": "译文：Yong的书里包含了多到不必要的个例。\n\n本题的定位说难不难：包含了大写人名且文章只剩下最后一个自然段的阅读量供考生定位寻找；然而说简单也不简单：第一句里包含Yong’s book却并未评价是否给出了过多案例分析。应对这种情况的最保险方法，就是考生每读一部分原文内容，就同时对比判断题中相邻的两道题目，即使判定上一题确实未被提及，也要看看下一题是否被说到了。这个做法十分有利于及时止损，以免上一题真的应选“未被提及”但考生并未意识到已经路过了下一题。本题正是如此：虽然连看三句都没有找到相关内容，但是第三句里提到了下一道题的信息。由于判断题在绝大多数情况下皆顺序出题，因此可以基本判定本题的正确答案为 NOT GIVEN。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "The case study about bacteria that prevent squid from being attacked may have limited appeal.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8324_353939",
+          "explanation": "译文：关于保护鱿鱼不受攻击的案例研究也许看起来魅力有限。\n\n本题的解答虽然涉及对两句原文句的阅读，但依然可说十分友好。考生首先可以依据原词重现的squid直接定位到第三句里，但这句话只描述了鱿鱼预防捕食者的机制，并未提及关于“这个案例是否吸引人”的信息。从句首的another一词可知，上一句应当也是同类案例分享，向前阅读确认可知，作者确实对它们下了less appealing的评语，从而得出正确答案为TRUE。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Efforts to control dengue fever have been surprisingly successful.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8324_653366",
+          "explanation": "译文：控制登革热的努力出乎意料地成功。\n\n本题的出题套路与第23题类似：虽可利用“登革热”这个专有名称进行定位，原文句却只说进行了这样的尝试，并未给出结果如何，更未评价其结果是否出人意料；继续向下文阅读，则遇到了下一道题的对应内容，根据顺序原则可推导出本题答案应为NOT GIVEN。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Microbes that reduce the risk of infection have already been put inside the walls of some hospital wards.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8324_600157",
+          "explanation": "译文：减少感染风险的微生物已经被放置于一些医院病房的墙内了。\n\n本题的解题关键在于考生注意到题干的时态细节。完成时表示题干所描述的医院已经建成投入使用；然而对比原文句却可清楚地看到：作者只是畅想了未来的情况，眼下还没有实现。二者内容形成矛盾抵触，因此答案应为FALSE。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<h1><b>I contain multitudes</b></h1><p><i>Wendy Moore reviews Ed Yong’s book about microbes</i></p><p>Microbes, most of them bacteria, have populated this planet since long before animal life developed and they will outlive us. Invisible to the naked eye, they are ubiquitous. They inhabit the soil, air, rocks and water and are present within every form of life, from seaweed and coral to dogs and humans. And, as Yong explains in his utterly absorbing and hugely important book, we mess with them at our peril.</p><p>Every species has its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual. What is amazing is that while the number of human cells in the average person is about 30 trillion, the number of microbial ones is higher – about 39 trillion. At best, Yong informs us, we are only 50 per cent human. Indeed, some scientists even suggest we should think of each species and its microbes as a single unit, dubbed a ‘holobiont’.</p><p>In each human there are microbes that live only in the stomach, the mouth or the armpit and by and large they do so peacefully. So ‘bad’ microbes are just microbes out of context. Microbes that sit contentedly in the human gut (where there are more microbes than there are stars in the galaxy) can become deadly if they find their way into the bloodstream. These communities are constantly changing too. The right hand shares just one sixth of its microbes with the left hand. And, of course, we are surrounded by microbes. Every time we eat, we swallow a million microbes in each gram of food; we are continually swapping microbes with other humans, pets and the world at large.</p><p>It’s a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept guide. Writing with lightness and panache, he has a knack of explaining complex science in terms that are both easy to understand and totally enthralling. Yong is on a mission. Leading us gently by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade us to love them as much as he does. By the end, we do.</p><p>For most of human history we had no idea that microbes existed. The first man to see these extraordinarily potent creatures was a Dutch lens-maker called Antony van Leeuwenhoek in the 1670s. Using microscopes of his own design that could magnify up to 270 times, he examined a drop of water from a nearby lake and found it teeming with tiny creatures he called ‘animalcules’. It wasn’t until nearly two hundred years later that the research of French biologist Louis Pasteur indicated that some microbes caused disease. It was Pasteur’s ‘germ theory’ that gave bacteria the poor image that endures today.</p><p>Yong’s book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health. The book also acknowledges that our attitude towards bacteria is not a simple one. We tend to see the dangers posed by bacteria, yet at the same time we are sold yoghurts and drinks that supposedly nurture ‘friendly’ bacteria. In reality, says Yong, bacteria should not be viewed as either friends or foes, villains or heroes. Instead we should realise we have a symbiotic relationship, that can be mutually beneficial or mutually destructive.</p><p>What then do these millions of organisms do? The answer is pretty much everything. New research is now unravelling the ways in which bacteria aid digestion, regulate our immune systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity. ‘They actually help us become who we are,’ says Yong. But we are facing a growing problem. Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune problems, such as inflammatory bowel disease (IBD).</p><p>The most recent research actually turns accepted norms upside down. For example, there are studies indicating that the excessive use of household detergents and antibacterial products actually destroys the microbes that normally keep the more dangerous germs at bay. Other studies show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria, which may help protect them against allergies later.</p><p>The readers of Yong’s book must be prepared for a decidedly unglamorous world. Among the less appealing case studies is one about a fungus that is wiping out entire populations of frogs and that can be halted by a rare microbial bacterium. Another is about squid that carry luminescent bacteria that protect them against predators. However, if you can overcome your distaste for some of the investigations, the reasons for Yong’s enthusiasm become clear. The microbial world is a place of wonder. Already, in an attempt to stop mosquitoes spreading dengue fever – a disease that infects 400 million people a year – mosquitoes are being loaded with a bacterium to block the disease. In the future, our ability to manipulate microbes means we could construct buildings with useful microbes built into their walls to fight off infections. Just imagine a neonatal hospital ward coated in a specially mixed cocktail of microbes so that babies get the best start in life.</p>"
+}

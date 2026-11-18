@@ -1,0 +1,465 @@
+{
+  "id": "ed1f28f5-8397-4684-a17b-08485b7f2671",
+  "title": "An electronic toy company",
+  "titleCn": "电子玩具公司入职培训介绍",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/ed1f28f5-8397-4684-a17b-08485b7f2671",
+  "duration": 472,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:04,420"
+    },
+    {
+      "label": "2",
+      "text": "Now listen carefully and answer questions eleven to fifteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:11,840"
+    },
+    {
+      "label": "4",
+      "text": "Good morning, everyone. My name's Janet Parker, and I'm the human resources manager of this company. Thank you for joining us and coming to this training session, which I hope will help you quickly learn about our company and know what you will do in your position."
+    },
+    {
+      "label": "5",
+      "text": "00:00:33,240"
+    },
+    {
+      "label": "6",
+      "text": "First, I'll briefly introduce the history of our company. We're quite an old company specializing in electric toys for more than thirty years. The founder, Ronald Stevenson, got the idea of establishing his own company when he finished his apprenticeship. With the support of his grandfather, he got enough startup capital and the company was set up and succeeded in a short period. To satisfy the demands of customers, we've expanded the premises considerably over the past years, and the number of staff members has grown up on a regular basis."
+    },
+    {
+      "label": "7",
+      "text": "00:01:18,060"
+    },
+    {
+      "label": "8",
+      "text": "Recently, we found the sales of our products creeping up very slowly, and we've decided to introduce new electronic toys to give that a boost. So we have to look for more workers to help us, and that's the reason why you are here. The first week may be pretty challenging as there will be a lot of new information, but don't worry too much about trying to remember everything. The important thing is to check with someone if you're unsure what to do. According to the contract, you'll be expected to work here for six months. Some of you asked me if there is a possibility for you to be employed as our full-time member. I can't give you a definite answer now. It'll depend on your job performance during the employment and whether we have job vacancies then."
+    },
+    {
+      "label": "9",
+      "text": "00:02:18,740"
+    },
+    {
+      "label": "10",
+      "text": "About two hundred full-time staff members in our company, seventy percent of whom are responsible for sending out goods, while the minority of jobs are in the manufacturing line. You will work in different departments according to our needs, which I'll explain to you in detail later. Working in our company, you'll be impressed by our modern machinery and production methods, advanced skills, and friendly working atmosphere. However, I must tell you one thing which is not so pleasant, because the manager of the payroll department is on sick leave these days, I'm afraid that you won't get paid on time this month. But don't worry too much, it'll be solved very soon."
+    },
+    {
+      "label": "11",
+      "text": "00:03:13,740"
+    },
+    {
+      "label": "12",
+      "text": "Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty."
+    },
+    {
+      "label": "13",
+      "text": "00:03:29,400"
+    },
+    {
+      "label": "14",
+      "text": "Now listen and answer questions sixteen to twenty."
+    },
+    {
+      "label": "15",
+      "text": "00:03:57,060"
+    },
+    {
+      "label": "16",
+      "text": "In the second part of this training session, I'll explain what you will be responsible for in the following working days. There are five positions, and you'll be working in different departments. As I've mentioned before, we're in urgent need of someone who can deal with the salary problem, so our staff can get paid as soon as possible, and that's the primary job for the first person. Then the second of you will be working in the manufacturing line to help develop new products, and I'm sure you will be pretty busy in the following days. The third person will work on the sixth floor, and your main job is to look after the mechanical side. It includes checking equipment daily to ensure they are working correctly and doing some repair work if necessary. Without your help, many processes like manufacturing or packaging won't work well. Then the fourth person will work in the technology department to deal with problems related to software and hardware. We're getting new laptops next week, and you must install new programs. And the last of you will work in the after-sale service department. You are expected to keep a long-term relationship with customers, including collecting feedback regularly, dealing with customer complaints, enhancing customer satisfaction, et cetera."
+    },
+    {
+      "label": "17",
+      "text": "00:05:35,980"
+    },
+    {
+      "label": "18",
+      "text": "Okay, now that's all I want to share with you today. Are there any questions?"
+    },
+    {
+      "label": "19",
+      "text": "00:05:44,360"
+    },
+    {
+      "label": "20",
+      "text": "That is the end of part two. You now have half a minute to check your answers to part two."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-15**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "8cd7f7d9-5dfd-46a8-93e3-3d15961b7e92",
+          "prompt": "**11** What point is made about the history of the company?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "It was quickly established",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the company was set up and succeeded in a short period"
+          },
+          "keywordPairs": [
+            {
+              "question": "quickly established",
+              "article": "set up in a short period"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "It was quickly established"
+            },
+            {
+              "value": "B",
+              "text": "It took a long time to establish"
+            },
+            {
+              "value": "C",
+              "text": "It was set up by a relative"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "d9ee7495-d145-4679-821b-4d3c7b33d2e2",
+          "prompt": "**12** Why should the company recruit more temporary staff?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "It aims to meet the new demands of customers",
+          "evidence": {
+            "paragraph": "",
+            "quote": "To satisfy the demands of customers, we've expanded the premises considerably over the past years;Recently, we found the sales of our products creeping up very slowly, and we've decided to introduce new electronic toys to give that a boost. So we have to look for more workers to help us"
+          },
+          "keywordPairs": [
+            {
+              "question": "recruit more temporary staff",
+              "article": "look for more workers"
+            },
+            {
+              "question": "meet the new demands of",
+              "article": "satisfy the demands of"
+            },
+            {
+              "question": "why",
+              "article": "So"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "It plans to develop new products"
+            },
+            {
+              "value": "B",
+              "text": "The old staff are having an illness"
+            },
+            {
+              "value": "C",
+              "text": "It aims to meet the new demands of customers"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "ff0550c5-4f4b-4376-a7ac-5492d799e0d3",
+          "prompt": "**13** How long will the employees work in the company?",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "half a year",
+          "evidence": {
+            "paragraph": "",
+            "quote": "According to the contract, you'll be expected to work here for six months"
+          },
+          "keywordPairs": [
+            {
+              "question": "in the company",
+              "article": "here"
+            },
+            {
+              "question": "half a year",
+              "article": "six months"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "a few weeks"
+            },
+            {
+              "value": "B",
+              "text": "half a year"
+            },
+            {
+              "value": "C",
+              "text": "indefinitely"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "cac629ff-70fb-43ca-a92b-4520042f7fb7",
+          "prompt": "**14** The largest number of positions are in the development of",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "production",
+          "evidence": {
+            "paragraph": "",
+            "quote": "About two hundred full-time staff members in our company, seventy percent of whom are responsible for sending out goods"
+          },
+          "keywordPairs": [
+            {
+              "question": "largest number of positions",
+              "article": "seventy percent"
+            },
+            {
+              "question": "package delivery",
+              "article": "sending out goods"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "administration"
+            },
+            {
+              "value": "B",
+              "text": "production"
+            },
+            {
+              "value": "C",
+              "text": "package delivery"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "09967a64-a74f-4fd7-8708-f5ed34c46012",
+          "prompt": "**15** What`s the current problem with the company?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "late payment",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, I must tell you one thing which is not so pleasant, because the manager of the payroll department is on sick leave these days, I'm afraid that you won't get paid on time this month"
+          },
+          "keywordPairs": [
+            {
+              "question": "current problem",
+              "article": "not so pleasant"
+            },
+            {
+              "question": "late payment",
+              "article": "won't get paid on time"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "outdated machines"
+            },
+            {
+              "value": "B",
+              "text": "inadequate skills"
+            },
+            {
+              "value": "C",
+              "text": "late payment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "matching",
+      "instruction": "**Questions 16-20**\nWhat`s the responsibility of each temporary staff member?\nChoose **FIVE** answers from the box and write the correct letter, **A-F**, next to Questions **16-20**.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "d6e2fe3c-2dfb-4e88-bccb-ab4abe01a727",
+          "prompt": "**Staff**\n**16** 1st person _____",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "wage",
+          "evidence": {
+            "paragraph": "",
+            "quote": "our staff can get paid as soon as possible, and that's the primary job for the first person"
+          },
+          "keywordPairs": [
+            {
+              "question": "responsibility",
+              "article": "primary job"
+            },
+            {
+              "question": "wage",
+              "article": "get paid"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "2b647440-9fd0-43c0-bb14-120a4a3c629a",
+          "prompt": "**17** 2dn person",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "production",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Then the second of you will be working in the manufacturing line to help develop new products"
+          },
+          "keywordPairs": [],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "0fb744fd-1222-4f25-8f57-338e16659b91",
+          "prompt": "**18** 3rd person _____",
+          "answers": [
+            "D"
+          ],
+          "rawAnswer": "maintenance",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The third person will work on the sixth floor, and your main job is to look after the mechanical side. It includes checking equipment daily to ensure they are working correctly and doing some repair work if necessary"
+          },
+          "keywordPairs": [
+            {
+              "question": "maintenance",
+              "article": "look after"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "b47f6559-8427-4bfc-9bd4-3876a8736332",
+          "prompt": "**19** 4th person _____",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "computer",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Then the fourth person will work in the technology department to deal with problems related to software and hardware. We're getting new laptops next week, and you must install new programs"
+          },
+          "keywordPairs": [
+            {
+              "question": "computer",
+              "article": "software and hardware"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "6f79c469-2dbe-43d4-86f8-c27860c4a04e",
+          "prompt": "**20** 5th person _____",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "maintaining customer relationship",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And the last of you will work in the after-sale service department. You are expected to keep a long-term relationship with customers, including collecting feedback regularly, dealing with customer complaints, enhancing customer satisfaction, et cetera"
+          },
+          "keywordPairs": [
+            {
+              "question": "maintaining",
+              "article": "keep"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "computer"
+        },
+        {
+          "value": "B",
+          "text": "wage"
+        },
+        {
+          "value": "C",
+          "text": "production"
+        },
+        {
+          "value": "D",
+          "text": "maintenance"
+        },
+        {
+          "value": "E",
+          "text": "research and development"
+        },
+        {
+          "value": "F",
+          "text": "maintaining customer relationship"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "配对题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:04,420</p><p>Now listen carefully and answer questions eleven to fifteen. </p><p>00:00:11,840</p><p>Good morning, everyone. My name's Janet Parker, and I'm the human resources manager of this company. Thank you for joining us and coming to this training session, which I hope will help you quickly learn about our company and know what you will do in your position. </p><p>00:00:33,240</p><p>First, I'll briefly introduce the history of our company. We're quite an old company specializing in electric toys for more than thirty years. The founder, Ronald Stevenson, got the idea of establishing his own company when he finished his apprenticeship. With the support of his grandfather, he got enough startup capital and the company was set up and succeeded in a short period. To satisfy the demands of customers, we've expanded the premises considerably over the past years, and the number of staff members has grown up on a regular basis. </p><p>00:01:18,060</p><p>Recently, we found the sales of our products creeping up very slowly, and we've decided to introduce new electronic toys to give that a boost. So we have to look for more workers to help us, and that's the reason why you are here. The first week may be pretty challenging as there will be a lot of new information, but don't worry too much about trying to remember everything. The important thing is to check with someone if you're unsure what to do. According to the contract, you'll be expected to work here for six months. Some of you asked me if there is a possibility for you to be employed as our full-time member. I can't give you a definite answer now. It'll depend on your job performance during the employment and whether we have job vacancies then. </p><p>00:02:18,740</p><p>About two hundred full-time staff members in our company, seventy percent of whom are responsible for sending out goods, while the minority of jobs are in the manufacturing line. You will work in different departments according to our needs, which I'll explain to you in detail later. Working in our company, you'll be impressed by our modern machinery and production methods, advanced skills, and friendly working atmosphere. However, I must tell you one thing which is not so pleasant, because the manager of the payroll department is on sick leave these days, I'm afraid that you won't get paid on time this month. But don't worry too much, it'll be solved very soon. </p><p>00:03:13,740</p><p>Before you hear the rest of the talk, you have some time to look at questions sixteen to twenty. </p><p>00:03:29,400</p><p>Now listen and answer questions sixteen to twenty. </p><p>00:03:57,060</p><p>In the second part of this training session, I'll explain what you will be responsible for in the following working days. There are five positions, and you'll be working in different departments. As I've mentioned before, we're in urgent need of someone who can deal with the salary problem, so our staff can get paid as soon as possible, and that's the primary job for the first person. Then the second of you will be working in the manufacturing line to help develop new products, and I'm sure you will be pretty busy in the following days. The third person will work on the sixth floor, and your main job is to look after the mechanical side. It includes checking equipment daily to ensure they are working correctly and doing some repair work if necessary. Without your help, many processes like manufacturing or packaging won't work well. Then the fourth person will work in the technology department to deal with problems related to software and hardware. We're getting new laptops next week, and you must install new programs. And the last of you will work in the after-sale service department. You are expected to keep a long-term relationship with customers, including collecting feedback regularly, dealing with customer complaints, enhancing customer satisfaction, et cetera. </p><p>00:05:35,980</p><p>Okay, now that's all I want to share with you today. Are there any questions? </p><p>00:05:44,360</p>That is the end of part two. You now have half a minute to check your answers to part two.",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/ed1f28f5-8397-4684-a17b-08485b7f2671.mp3",
+    "durationSeconds": 351.672,
+    "sizeBytes": 5627283,
+    "sha256": "eb2f974edae9b69a4312977d4503c988ef9139ba151dae6ffb8ce2f76c5d4387",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:47:46Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1774502428172_xc9wbz_f3515458_a9e28e94.mp3"
+}

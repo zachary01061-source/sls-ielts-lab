@@ -1,0 +1,352 @@
+{
+  "id": "cambridge-17-test-3-reading-2",
+  "title": "Palm oil",
+  "titleCn": "Palm oil",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 3
+  },
+  "sourceQuestionId": "8386",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8386",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Palm oil"
+    },
+    {
+      "label": "2",
+      "text": "A Palm oil is an edible oil derived from the fruit of the African oil palm tree, and is currently the most consumed vegetable oil in the world. It’s almost certainly in the soap we wash with in the morning, the sandwich we have for lunch, and the biscuits we snack on during the day. Why is palm oil so attractive for manufacturers? Primarily because its unique properties – such as remaining solid at room temperature – make it an ideal ingredient for long-term preservation, allowing many packaged foods on supermarket shelves to have ‘best before’ dates of months, even years, into the future."
+    },
+    {
+      "label": "3",
+      "text": "B Many farmers have seized the opportunity to maximise the planting of oil palm trees. Between 1990 and 2012, the global land area devoted to growing oil palm trees grew from 6 to 17 million hectares, now accounting for around ten percent of total cropland in the entire world. From a mere two million tonnes of palm oil being produced annually globally 50 years ago, there are now around 60 million tonnes produced every single year, a figure looking likely to double or even triple by the middle of the century."
+    },
+    {
+      "label": "4",
+      "text": "C However, there are multiple reasons why conservationists cite the rapid spread of oil palm plantations as a major concern. There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result of land clearing to establish oil palm tree monoculture on an industrial scale, particularly in Malaysia and Indonesia. Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna – have suffered from the unstoppable spread of oil palm plantations."
+    },
+    {
+      "label": "5",
+      "text": "D ‘Palm oil is surely one of the greatest threats to global biodiversity,’ declares Dr Farnon Ellwood of the University of the West of England, Bristol. ‘Palm oil is replacing rainforest, and rainforest is where all the species are. That’s a problem.’ This has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely."
+    },
+    {
+      "label": "6",
+      "text": "Meanwhile Bhavani Shankar, Professor at London’s School of Oriental and African Studies, argues, ‘It’s easy to say that palm oil is the enemy and we should be against it. It makes for a more dramatic story, and it’s very intuitive. But given the complexity of the argument, I think a much more nuanced story is closer to the truth.’"
+    },
+    {
+      "label": "7",
+      "text": "E One response to the boycott movement has been the argument for the vital role palm oil plays in lifting many millions of people in the developing world out of poverty. Is it desirable to have palm oil boycotted, replaced, eliminated from the global supply chain, given how many low-income people in developing countries depend on it for their livelihoods? How best to strike a utilitarian balance between these competing factors has become a serious bone of contention."
+    },
+    {
+      "label": "8",
+      "text": "F Even the deforestation argument isn’t as straightforward as it seems. Oil palm plantations produce at least four and potentially up to ten times more oil per hectare than soybean, rapeseed, sunflower or other competing oils. That immensely high yield – which is predominantly what makes it so profitable – is potentially also an ecological benefit. If ten times more palm oil can be produced from a patch of land than any competing oil, then ten times more land would need to be cleared in order to produce the same volume of oil from that competitor."
+    },
+    {
+      "label": "9",
+      "text": "As for the question of carbon emissions, the issue really depends on what oil palm trees are replacing. Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere and store within the plant. The more carbon a plant sequesters, the more it reduces the effect of climate change. As Shankar explains: ‘[Palm oil production] actually sequesters more carbon in some ways than other alternatives. […] Of course, if you’re cutting down virgin forest it’s terrible – that’s what’s happening in Indonesia and Malaysia, it’s been allowed to get out of hand. But if it’s replacing rice, for example, it might actually sequester more carbon.’"
+    },
+    {
+      "label": "10",
+      "text": "G The industry is now regulated by a group called the Roundtable on Sustainable Palm Oil (RSPO), consisting of palm growers, retailers, product manufacturers, and other interested parties. Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil have to meet in order for their product to be regarded as officially ‘sustainable’. The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria. Only once these requirements are fully satisfied is the oil allowed to be sold as certified sustainable palm oil (CSPO). Recent figures show that the RSPO now certifies around 12 million tonnes of palm oil annually, equivalent to roughly 21 percent of the world’s total palm oil production."
+    },
+    {
+      "label": "11",
+      "text": "H There is even hope that oil palm plantations might not need to be such sterile monocultures, or ‘green deserts’, as Ellwood describes them. New research at Ellwood’s lab hints at one plant which might make all the difference. The bird’s nest fern (Asplenium nidus) grows on trees in an epiphytic fashion (meaning it’s dependent on the tree only for support, not for nutrients), and is native to many tropical regions, where as a keystone species it performs a vital ecological role. Ellwood believes that reintroducing the bird’s nest fern into oil palm plantations could potentially allow these areas to recover their biodiversity, providing a home for all manner of species, from fungi and bacteria, to invertebrates such as insects, amphibians, reptiles and even mammals."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–20\n\nReading Passage 2 has eight sections, A–H.\n\nWhich section contains the following information?\n\nTick the correct letter, A–H, for questions 14-20.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "examples of a range of potential environmental advantages of oil palm tree cultivation",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8386_233494-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "description of an organisation which controls the environmental impact of palm oil production",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q8386_233494-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "examples of the widespread global use of palm oil",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8386_233494-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "reference to a particular species which could benefit the ecosystem of oil palm plantations",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8386_233494-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "figures illustrating the rapid expansion of the palm oil industry",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8386_233494-5"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "an economic justification for not opposing the palm oil industry",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8386_233494-6"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "examples of creatures badly affected by the establishment of oil palm plantations",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8386_233494-7"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 21 and 22\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Which TWO statements are made about the Roundtable on Sustainable Palm Oil (RSPO)?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8386_301751",
+          "options": [
+            {
+              "value": "A",
+              "text": "Its membership has grown steadily over the course of the last decade."
+            },
+            {
+              "value": "B",
+              "text": "It demands that certified producers be open and honest about their practices."
+            },
+            {
+              "value": "C",
+              "text": "It took several years to establish its set of criteria for sustainable palm oil certification."
+            },
+            {
+              "value": "D",
+              "text": "Its regulations regarding sustainability are stricter than those governing other industries."
+            },
+            {
+              "value": "E",
+              "text": "It was formed at the request of environmentalists concerned about the loss of virgin forests."
+            }
+          ],
+          "explanation": "选项A：Its membership has grown steadily over the course of the last decade.\n\n译文：其成员在过去十年间飞速增长。\n\n虽然段落里确实有提到past decade这个时间信息，然而在这十年间发生的事情是逐渐达成了棕榈油可持续生产的标准(也就是选项C的对应内容)，而非RSPO组织成员增加。如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。\n\n选项B：It demands that certified producers be open and honest about their practices.\n\n译文：它要求得到认证的生产商对于自己的行为保持开放和诚实。\n\n这个选项归根结底其实是在考查考生对于transparency这个词汇的认知能力。如果认识原文中的这个词汇，则能轻易看出它同义替换的正是题干中的“open and honest”这个信息；如果有考生至此还不认识这个词汇，请回到前文“必背词汇”列表中去，重新补充学习这个核心认知词汇。\n\n本项正是这道五选二多选题的正确答案之一。\n\n选项C：It took several years to establish its set of criteria for sustainable palm oil certification.\n\n译文：它花了几年的时间来建立起自己的一套可持续橄榄油认证标准。\n\n如前所说，这才是正文里关于“十年时间内发生了什么”的内容介绍，本项是这道五选二多选题的另一个正确答案。\n\n关于本选项对应原文句的详细解析，可以参见前文中的“佳句赏析”第四句。\n\n选项D：Its regulations regarding sustainability are stricter than those governing other industries.\n\n译文：它对可持续性的监管标准比其它行业的管制标准更严格。\n\n这也是一个原文中并未提及的信息：通过阅读Section G的文意不难看出，RSPO确实会提出一系列要求，而棕榈油生产商们必须充分满足所有这些条件才能获得认证。然而，这些要求和条件是否比其它行业内的标准更高更严格？原文中并没有任何提及和比较。\n\n选项E：It was formed at the request of environmentalists concerned about the loss of virgin forests.\n\n译文：它之所以建立是应忧心于原始森林消失的环保人士的要求。\n\n这个选项与上一个选项类似：Section G只是陈述了目前这个行业由该组织进行监管，至于其成立源起如何？原文未说，考生当然也就不得而知。",
+          "setId": "Q8386_301751",
+          "blockId": "Q8386_301751"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Which TWO statements are made about the Roundtable on Sustainable Palm Oil (RSPO)?",
+          "answers": [
+            "B",
+            "C"
+          ],
+          "sourceCode": "Q8386_301751",
+          "options": [
+            {
+              "value": "A",
+              "text": "Its membership has grown steadily over the course of the last decade."
+            },
+            {
+              "value": "B",
+              "text": "It demands that certified producers be open and honest about their practices."
+            },
+            {
+              "value": "C",
+              "text": "It took several years to establish its set of criteria for sustainable palm oil certification."
+            },
+            {
+              "value": "D",
+              "text": "Its regulations regarding sustainability are stricter than those governing other industries."
+            },
+            {
+              "value": "E",
+              "text": "It was formed at the request of environmentalists concerned about the loss of virgin forests."
+            }
+          ],
+          "explanation": "选项A：Its membership has grown steadily over the course of the last decade.\n\n译文：其成员在过去十年间飞速增长。\n\n虽然段落里确实有提到past decade这个时间信息，然而在这十年间发生的事情是逐渐达成了棕榈油可持续生产的标准(也就是选项C的对应内容)，而非RSPO组织成员增加。如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。\n\n选项B：It demands that certified producers be open and honest about their practices.\n\n译文：它要求得到认证的生产商对于自己的行为保持开放和诚实。\n\n这个选项归根结底其实是在考查考生对于transparency这个词汇的认知能力。如果认识原文中的这个词汇，则能轻易看出它同义替换的正是题干中的“open and honest”这个信息；如果有考生至此还不认识这个词汇，请回到前文“必背词汇”列表中去，重新补充学习这个核心认知词汇。\n\n本项正是这道五选二多选题的正确答案之一。\n\n选项C：It took several years to establish its set of criteria for sustainable palm oil certification.\n\n译文：它花了几年的时间来建立起自己的一套可持续橄榄油认证标准。\n\n如前所说，这才是正文里关于“十年时间内发生了什么”的内容介绍，本项是这道五选二多选题的另一个正确答案。\n\n关于本选项对应原文句的详细解析，可以参见前文中的“佳句赏析”第四句。\n\n选项D：Its regulations regarding sustainability are stricter than those governing other industries.\n\n译文：它对可持续性的监管标准比其它行业的管制标准更严格。\n\n这也是一个原文中并未提及的信息：通过阅读Section G的文意不难看出，RSPO确实会提出一系列要求，而棕榈油生产商们必须充分满足所有这些条件才能获得认证。然而，这些要求和条件是否比其它行业内的标准更高更严格？原文中并没有任何提及和比较。\n\n选项E：It was formed at the request of environmentalists concerned about the loss of virgin forests.\n\n译文：它之所以建立是应忧心于原始森林消失的环保人士的要求。\n\n这个选项与上一个选项类似：Section G只是陈述了目前这个行业由该组织进行监管，至于其成立源起如何？原文未说，考生当然也就不得而知。",
+          "setId": "Q8386_301751",
+          "blockId": "Q8386_301751"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Its membership has grown steadily over the course of the last decade."
+        },
+        {
+          "value": "B",
+          "text": "It demands that certified producers be open and honest about their practices."
+        },
+        {
+          "value": "C",
+          "text": "It took several years to establish its set of criteria for sustainable palm oil certification."
+        },
+        {
+          "value": "D",
+          "text": "Its regulations regarding sustainability are stricter than those governing other industries."
+        },
+        {
+          "value": "E",
+          "text": "It was formed at the request of environmentalists concerned about the loss of virgin forests."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 23–26\n\nComplete the sentences below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "One advantage of palm oil for manufacturers is that it stays [23] ______even when not refrigerated.",
+          "answers": [
+            "solid"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8386_666859",
+          "explanation": "23. 本题的题干-原文对应虽非原词重现，但也并不难看出，因为无论是题干stay与原文remain的对应，还是题干not refrigerated与原文room temperature的对应，都不至于从单词认知的角度给考生造成太大的障碍。进而分析题干可知，答案应为：solid。\n\n24. 分析本题题干可知，空格中需要填的是一种具体的动物名；接下来。考生可以依靠题干中best known与原文中most famously的简单同义替换对应，锁定所需的答案。即使并不认识the后面的这两个单词，其实也能笃定它们就是空格中所需的内容：Sumatran orangutan。\n\n25. 本题虽然距离上一道题的绝对距离很远，从Section C一下子跳到了Section G中，但只要考生抱定平行阅读的原则、耐心逐段推进，终会在答案出处的位置顺利定位。本题尤其如此：其定位本身其实并不算困难，因为即使抛开RSPO这个大写定位信息之外，题干中的criteria和insists也都原词重现在了原文定位句中，考生只需看出题干中的routine basis与原文中的regular对应、题干中的check与原文中的assessment对应，即可得出正确答案应为：carbon stocks。\n\n26. 本题从定位到解题都不困难。定位方面，即使不依赖大写人名Ellwood和植物专有名称bird’s nest fern，考生也可以根据上一道题的出处位置得知，此题答案必然位于所剩无几的最后一段正文篇幅中；解题方面，考生只需认识题干中的restore和原文中的recover这一对高频核心认知词汇，即可得到正确答案为：biodiversity。",
+          "promptHtml": "One advantage of palm oil for manufacturers is that it stays [23] ______even when not refrigerated."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "The [24] ______ is the best known of the animals suffering habitat loss as a result of the spread of oil palm plantations.",
+          "answers": [
+            "orangutan",
+            "Sumatran orangutan",
+            "orang-utan",
+            "Sumatran orang-utan"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8386_278873",
+          "explanation": "23. 本题的题干-原文对应虽非原词重现，但也并不难看出，因为无论是题干stay与原文remain的对应，还是题干not refrigerated与原文room temperature的对应，都不至于从单词认知的角度给考生造成太大的障碍。进而分析题干可知，答案应为：solid。\n\n24. 分析本题题干可知，空格中需要填的是一种具体的动物名；接下来。考生可以依靠题干中best known与原文中most famously的简单同义替换对应，锁定所需的答案。即使并不认识the后面的这两个单词，其实也能笃定它们就是空格中所需的内容：Sumatran orangutan。\n\n25. 本题虽然距离上一道题的绝对距离很远，从Section C一下子跳到了Section G中，但只要考生抱定平行阅读的原则、耐心逐段推进，终会在答案出处的位置顺利定位。本题尤其如此：其定位本身其实并不算困难，因为即使抛开RSPO这个大写定位信息之外，题干中的criteria和insists也都原词重现在了原文定位句中，考生只需看出题干中的routine basis与原文中的regular对应、题干中的check与原文中的assessment对应，即可得出正确答案应为：carbon stocks。\n\n26. 本题从定位到解题都不困难。定位方面，即使不依赖大写人名Ellwood和植物专有名称bird’s nest fern，考生也可以根据上一道题的出处位置得知，此题答案必然位于所剩无几的最后一段正文篇幅中；解题方面，考生只需认识题干中的restore和原文中的recover这一对高频核心认知词汇，即可得到正确答案为：biodiversity。",
+          "promptHtml": "The [24] ______ is the best known of the animals suffering habitat loss as a result of the spread of oil palm plantations."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "As one of its criteria for the certification of sustainable palm oil, the RSPO insists that growers check [25] ______ on a routine basis.",
+          "answers": [
+            "carbon stocks"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8386_749976",
+          "explanation": "23. 本题的题干-原文对应虽非原词重现，但也并不难看出，因为无论是题干stay与原文remain的对应，还是题干not refrigerated与原文room temperature的对应，都不至于从单词认知的角度给考生造成太大的障碍。进而分析题干可知，答案应为：solid。\n\n24. 分析本题题干可知，空格中需要填的是一种具体的动物名；接下来。考生可以依靠题干中best known与原文中most famously的简单同义替换对应，锁定所需的答案。即使并不认识the后面的这两个单词，其实也能笃定它们就是空格中所需的内容：Sumatran orangutan。\n\n25. 本题虽然距离上一道题的绝对距离很远，从Section C一下子跳到了Section G中，但只要考生抱定平行阅读的原则、耐心逐段推进，终会在答案出处的位置顺利定位。本题尤其如此：其定位本身其实并不算困难，因为即使抛开RSPO这个大写定位信息之外，题干中的criteria和insists也都原词重现在了原文定位句中，考生只需看出题干中的routine basis与原文中的regular对应、题干中的check与原文中的assessment对应，即可得出正确答案应为：carbon stocks。\n\n26. 本题从定位到解题都不困难。定位方面，即使不依赖大写人名Ellwood和植物专有名称bird’s nest fern，考生也可以根据上一道题的出处位置得知，此题答案必然位于所剩无几的最后一段正文篇幅中；解题方面，考生只需认识题干中的restore和原文中的recover这一对高频核心认知词汇，即可得到正确答案为：biodiversity。",
+          "promptHtml": "As one of its criteria for the certification of sustainable palm oil, the RSPO insists that growers check [25] ______ on a routine basis."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Ellwood and his researchers are looking into whether the bird’s nest fern could restore [26] ______ in areas where oil palm trees are grown.",
+          "answers": [
+            "biodiversity"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q8386_942436",
+          "explanation": "23. 本题的题干-原文对应虽非原词重现，但也并不难看出，因为无论是题干stay与原文remain的对应，还是题干not refrigerated与原文room temperature的对应，都不至于从单词认知的角度给考生造成太大的障碍。进而分析题干可知，答案应为：solid。\n\n24. 分析本题题干可知，空格中需要填的是一种具体的动物名；接下来。考生可以依靠题干中best known与原文中most famously的简单同义替换对应，锁定所需的答案。即使并不认识the后面的这两个单词，其实也能笃定它们就是空格中所需的内容：Sumatran orangutan。\n\n25. 本题虽然距离上一道题的绝对距离很远，从Section C一下子跳到了Section G中，但只要考生抱定平行阅读的原则、耐心逐段推进，终会在答案出处的位置顺利定位。本题尤其如此：其定位本身其实并不算困难，因为即使抛开RSPO这个大写定位信息之外，题干中的criteria和insists也都原词重现在了原文定位句中，考生只需看出题干中的routine basis与原文中的regular对应、题干中的check与原文中的assessment对应，即可得出正确答案应为：carbon stocks。\n\n26. 本题从定位到解题都不困难。定位方面，即使不依赖大写人名Ellwood和植物专有名称bird’s nest fern，考生也可以根据上一道题的出处位置得知，此题答案必然位于所剩无几的最后一段正文篇幅中；解题方面，考生只需认识题干中的restore和原文中的recover这一对高频核心认知词汇，即可得到正确答案为：biodiversity。",
+          "promptHtml": "Ellwood and his researchers are looking into whether the bird’s nest fern could restore [26] ______ in areas where oil palm trees are grown."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span>One advantage of palm oil for manufacturers is that it stays </span><strong>[23] ______</strong><span>even when not refrigerated.<br>\nThe </span><strong>[24] ______</strong><span> is the best known of the animals suffering habitat loss as a result of the spread of oil palm plantations.<br>\nAs one of its criteria for the certification of sustainable palm oil, the RSPO insists that growers check </span><strong>[25] ______</strong><span> on a routine basis.<br>\nEllwood and his researchers are looking into whether the bird’s nest fern could restore </span><strong>[26] ______</strong><span> in areas where oil palm trees are grown.</span></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Palm oil </strong></span></p><p><br><span><strong>A</strong> Palm oil is an edible oil derived from the fruit of the African oil palm tree, and is currently the most consumed vegetable oil in the world. It’s almost certainly in the soap we wash with in the morning, the sandwich we have for lunch, and the biscuits we snack on during the day. Why is palm oil so attractive for manufacturers? Primarily because its unique properties – such as remaining solid at room temperature – make it an ideal ingredient for long-term preservation, allowing many packaged foods on supermarket shelves to have ‘best before’ dates of months, even years, into the future. </span></p><p><br><span><strong>B</strong> Many farmers have seized the opportunity to maximise the planting of oil palm trees. Between 1990 and 2012, the global land area devoted to growing oil palm trees grew from 6 to 17 million hectares, now accounting for around ten percent of total cropland in the entire world. From a mere two million tonnes of palm oil being produced annually globally 50 years ago, there are now around 60 million tonnes produced every single year, a figure looking likely to double or even triple by the middle of the century. </span></p><p><br><span><strong>C</strong> However, there are multiple reasons why conservationists cite the rapid spread of oil palm plantations as a major concern. There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result of land clearing to establish oil palm tree monoculture on an industrial scale, particularly in Malaysia and Indonesia. Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna – have suffered from the unstoppable spread of oil palm plantations. </span></p><p><br><span><strong>D</strong> ‘Palm oil is surely one of the greatest threats to global biodiversity,’ declares Dr Farnon Ellwood of the University of the West of England, Bristol. ‘Palm oil is replacing rainforest, and rainforest is where all the species are. That’s a problem.’ This has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely. </span></p><p><br><span>Meanwhile Bhavani Shankar, Professor at London’s School of Oriental and African Studies, argues, ‘It’s easy to say that palm oil is the enemy and we should be against it. It makes for a more dramatic story, and it’s very intuitive. But given the complexity of the argument, I think a much more nuanced story is closer to the truth.’ </span></p><p><br><span><strong>E</strong> One response to the boycott movement has been the argument for the vital role palm oil plays in lifting many millions of people in the developing world out of poverty. Is it desirable to have palm oil boycotted, replaced, eliminated from the global supply chain, given how many low-income people in developing countries depend on it for their livelihoods? How best to strike a utilitarian balance between these competing factors has become a serious bone of contention. </span></p><p><br><span><strong>F</strong> Even the deforestation argument isn’t as straightforward as it seems. Oil palm plantations produce at least four and potentially up to ten times more oil per hectare than soybean, rapeseed, sunflower or other competing oils. That immensely high yield – which is predominantly what makes it so profitable – is potentially also an ecological benefit. If ten times more palm oil can be produced from a patch of land than any competing oil, then ten times more land would need to be cleared in order to produce the same volume of oil from that competitor. </span></p><p><br><span>As for the question of carbon emissions, the issue really depends on what oil palm trees are replacing. Crops vary in the degree to which they sequester carbon – in other words, the amount of carbon they capture from the atmosphere and store within the plant. The more carbon a plant sequesters, the more it reduces the effect of climate change. As Shankar explains: ‘[Palm oil production] actually sequesters more carbon in some ways than other alternatives. […] Of course, if you’re cutting down virgin forest it’s terrible – that’s what’s happening in Indonesia and Malaysia, it’s been allowed to get out of hand. But if it’s replacing rice, for example, it might actually sequester more carbon.’ </span></p><p><br><span><strong>G</strong> The industry is now regulated by a group called the Roundtable on Sustainable Palm Oil (RSPO), consisting of palm growers, retailers, product manufacturers, and other interested parties. Over the past decade or so, an agreement has gradually been reached regarding standards that producers of palm oil have to meet in order for their product to be regarded as officially ‘sustainable’. The RSPO insists upon no virgin forest clearing, transparency and regular assessment of carbon stocks, among other criteria. Only once these requirements are fully satisfied is the oil allowed to be sold as certified sustainable palm oil (CSPO). Recent figures show that the RSPO now certifies around 12 million tonnes of palm oil annually, equivalent to roughly 21 percent of the world’s total palm oil production. </span></p><p><br><span><strong>H</strong> There is even hope that oil palm plantations might not need to be such sterile monocultures, or ‘green deserts’, as Ellwood describes them. New research at Ellwood’s lab hints at one plant which might make all the difference. The bird’s nest fern (Asplenium nidus) grows on trees in an epiphytic fashion (meaning it’s dependent on the tree only for support, not for nutrients), and is native to many tropical regions, where as a keystone species it performs a vital ecological role. Ellwood believes that reintroducing the bird’s nest fern into oil palm plantations could potentially allow these areas to recover their biodiversity, providing a home for all manner of species, from fungi and bacteria, to invertebrates such as insects, amphibians, reptiles and even mammals. </span></p>"
+}

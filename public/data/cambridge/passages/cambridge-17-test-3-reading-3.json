@@ -1,0 +1,398 @@
+{
+  "id": "cambridge-17-test-3-reading-3",
+  "title": "Building the Skyline: The Birth and Growth of Manhattan’s Skyscrapers",
+  "titleCn": "Building the Skyline: The Birth and Growth of Manhattan’s Skyscrapers",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 3
+  },
+  "sourceQuestionId": "8387",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8387",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Building the Skyline: The Birth and Growth of Manhattan’s Skyscrapers"
+    },
+    {
+      "label": "2",
+      "text": "Katharine L. Shester reviews a book by Jason Barr about the development of New York City"
+    },
+    {
+      "label": "3",
+      "text": "In Building the Skyline, Jason Barr takes the reader through a detailed history of New York City. The book combines geology, history, economics, and a lot of data to explain why business clusters developed where they did and how the early decisions of workers and firms shaped the skyline we see today. Building the Skyline is organized into two distinct parts. The first is primarily historical and addresses New York’s settlement and growth from 1609 to 1900; the second deals primarily with the 20th century and is a compilation of chapters commenting on different aspects of New York’s urban development. The tone and organization of the book changes somewhat between the first and second parts, as the latter chapters incorporate aspects of Barr’s related research papers."
+    },
+    {
+      "label": "4",
+      "text": "Barr begins chapter one by taking the reader on a ‘helicopter time-machine’ ride – giving a fascinating account of how the New York landscape in 1609 might have looked from the sky. He then moves on to a subterranean walking tour of the city, indicating the location of rock and water below the subsoil, before taking the reader back to the surface. His love of the city comes through as he describes various fun facts about the location of the New York residence of early 19th-century vice-president Aaron Burr as well as a number of legends about the city."
+    },
+    {
+      "label": "5",
+      "text": "Chapters two and three take the reader up to the Civil War (1861–1865), with chapter two focusing on the early development of land and the implementation of a grid system in 1811. Chapter three focuses on land use before the Civil War. Both chapters are informative and well researched and set the stage for the economic analysis that comes later in the book. I would have liked Barr to expand upon his claim that existing tenements* prevented skyscrapers in certain neighborhoods because ‘likely no skyscraper developer was interested in performing the necessary “slum clearance”’. Later in the book, Barr makes the claim that the depth of bedrock** was not a limiting factor for developers, as foundation costs were a small fraction of the cost of development. At first glance, it is not obvious why slum clearance would be limiting, while more expensive foundations would not."
+    },
+    {
+      "label": "6",
+      "text": "Chapter four focuses on immigration and the location of neighborhoods and tenements in the late 19th century. Barr identifies four primary immigrant enclaves and analyzes their locations in terms of the amenities available in the area. Most of these enclaves were located on the least valuable land, between the industries located on the waterfront and the wealthy neighborhoods bordering Central Park."
+    },
+    {
+      "label": "7",
+      "text": "Part two of the book begins with a discussion of the economics of skyscraper height. In chapter five, Barr distinguishes between engineering height, economic height, and developer height — where engineering height is the tallest building that can be safely made at a given time, economic height is the height that is most efficient from society’s point of view, and developer height is the actual height chosen by the developer, who is attempting to maximize return on investment."
+    },
+    {
+      "label": "8",
+      "text": "Chapter five also has an interesting discussion of the technological advances that led to the construction of skyscrapers. For example, the introduction of iron and steel skeletal frames made thick, load-bearing walls unnecessary, expanding the usable square footage of buildings and increasing the use of windows and availability of natural light. Chapter six then presents data on building height throughout the 20th century and uses regression analysis to ‘predict’ building construction. While less technical than the research paper on which the chapter is based, it is probably more technical than would be preferred by a general audience."
+    },
+    {
+      "label": "9",
+      "text": "Chapter seven tackles the ‘bedrock myth’, the assumption that the absence of bedrock close to the surface between Downtown and Midtown New York is the reason for skyscrapers not being built between the two urban centers. Rather, Barr argues that while deeper bedrock does increase foundation costs, these costs were neither prohibitively high nor were they large compared to the overall cost of building a skyscraper. What I enjoyed the most about this chapter was Barr’s discussion of how foundations are actually built. He describes the use of caissons, which enable workers to dig down for considerable distances, often below the water table, until they reach bedrock. Barr’s thorough technological history discusses not only how caissons work, but also the dangers involved. While this chapter references empirical research papers, it is a relatively easy read."
+    },
+    {
+      "label": "10",
+      "text": "Chapters eight and nine focus on the birth of Midtown and the building boom of the 1920s. Chapter eight contains lengthy discussions of urban economic theory that may serve as a distraction to readers primarily interested in New York. However, they would be well-suited for undergraduates learning about the economics of cities. In the next chapter, Barr considers two of the primary explanations for the building boom of the 1920s — the first being exuberance, and the second being financing. He uses data to assess the viability of these two explanations and finds that supply and demand factors explain much of the development of the 1920s; though it enabled the boom, cheap credit was not, he argues, the primary cause."
+    },
+    {
+      "label": "11",
+      "text": "In the final chapter (chapter 10), Barr discusses another of his empirical papers that estimates Manhattan land values from the mid-19th century to the present day. The data work that went into these estimations is particularly impressive. Toward the end of the chapter, Barr assesses ‘whether skyscrapers are a cause or an effect of high land values’. He finds that changes in land values predict future building height, but the reverse is not true. The book ends with an epilogue, in which Barr discusses the impact of climate change on the city and makes policy suggestions for New York going forward."
+    },
+    {
+      "label": "12",
+      "text": "* a tenement: a multi-occupancy building of any sort, but particularly a run-down apartment building or slum building"
+    },
+    {
+      "label": "13",
+      "text": "** bedrock: the solid, hard rock in the ground that lies under a loose layer of soil"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27–31\n\nChoose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "What point does Shester make about Barr's book in the first paragraph?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8387_949083",
+          "options": [
+            {
+              "value": "A",
+              "text": "It gives a highly original explanation for urban development."
+            },
+            {
+              "value": "B",
+              "text": "Elements of Barr’s research papers are incorporated throughout the book."
+            },
+            {
+              "value": "C",
+              "text": "Other books that are available on the subject have taken a different approach."
+            },
+            {
+              "value": "D",
+              "text": "It covers a range of factors that affected the development of New York."
+            }
+          ],
+          "explanation": "这种问“某一段作者提出了什么看法”的问题，优点和缺点都非常明显。优点是完全不用耗费任何时间去定位，缺点则是基本无法指望靠只看段落中的某一句两句话而得出总体结论、从而正确解题。综合全段内容，可以看出最合适的答案应为：\n\nD项：It covers a range of factors that affected the development of New York.\n\n译文：它覆盖了一系列影响纽约发展的因素。\n\nA项：It gives a highly original explanation for urban development.\n\n译文：它给出了关于都市发展的一个非常有创意的解释。\n\n虽然选项中的urban development这两个词确实都一模一样地出现在了第一段里，但选项意思却并不能概括总结第一段里所给出的全书大意。如果这是正确答案的话，则段中提及的这本书内容就都应该围绕着“都市发展原因”这一点来展开，这显然与第一段里的大部分陈述内容都不匹配。\n\nB项：Elements of Barr’s research papers are incorporated throughout the book.\n\n译文：整本书从头到尾的内容中都融入了Barr研究论文里的要素。\n\n本段最后一句话的后半句明确说到了：是书中的后几个章节里融入了Barr研究论文中的一些方面，这与选项“贯穿全文”的表述形成了直白的矛盾，不是正确答案。\n\nC项：Other books that are available on the subject have taken a different approach.\n\n译文：其它关于这个话题的书采用了不同的展开方式。\n\n全段内容都着眼在介绍这本书的主要内容和结构，完全没有提及过与其它同类书籍的对比。如果这是一道判断题的话，本选项就是一个妥妥的NOT GIVEN选项。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "How does Shester respond to the information in the book about tenements?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8387_960286",
+          "options": [
+            {
+              "value": "A",
+              "text": "She describes the reasons for Barr’s interest."
+            },
+            {
+              "value": "B",
+              "text": "She indicates a potential problem with Barr’s analysis."
+            },
+            {
+              "value": "C",
+              "text": "She compares Barr’s conclusion with that of other writers."
+            },
+            {
+              "value": "D",
+              "text": "She provides details about the sources Barr used for his research."
+            }
+          ],
+          "explanation": "本题虽然没有像上一题那样直接指出去哪一段寻找，但问题句中所包含的tenements这个单词原文重现在了文章第三段中，考生只要稍加注意就不会错过。且由于找到这个单词时，段落篇幅已经过半，所以考生反而可以庆幸一下：解题应该不需要看完全段、而是耐心看懂后半段内容即可。构成后半段的三句话大意分别为：Barr宣称清理贫民区是个大麻烦；然而他也说了岩床厚度对于开发商来说不是问题；这二者为什么一个是困难而另一个不是，他没有说清楚。结合这几句话可知，答案应为：\n\nB项：She indicates a potential problem with Barr’s analysis.\n\n译文：她指出了Barr所做分析中的一个潜在问题。\n\nA项：She describes the reasons for Barr’s interest.\n\n译文：她描述了Barr之所以感兴趣的原因。\n\n看懂了本项意思就能够知道，此项的重点在于Barr本人有兴趣的原因；而原文表述的对象是书评人Shester对Barr观点的点评，这二者之间并没有什么关联。\n\nC项：She compares Barr’s conclusion with that of other writers.\n\n译文：她将Barr的结论与其他作者进行了比较。\n\n这个选项与上一道题中的C项出题方式类似，都属于无中生有地强行拉扯上实际在原文中完全没有出现过的“其他”书籍或作者，要排除这个选项应该并不困难。\n\nD项：She provides details about the sources Barr used for his research.\n\n译文：她提供了Barr用以进行自己研究的资源的细节。\n\n这个选项换成更友好一点的解读方式也就是在说：Barr进行研究的时候使用了一些资源，但也许是Shester觉得语焉不详，所以又提供了一些关于这些资源的细节。如果真是如此，那Shester也可算是Barr的半个知音了。可惜文章中完全没有提到过这个信息。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "What does Shester say about chapter six of the book?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8387_809823",
+          "options": [
+            {
+              "value": "A",
+              "text": "It contains conflicting data."
+            },
+            {
+              "value": "B",
+              "text": "It focuses too much on possible trends."
+            },
+            {
+              "value": "C",
+              "text": "It is too specialised for most readers."
+            },
+            {
+              "value": "D",
+              "text": "It draws on research that is out of date."
+            }
+          ],
+          "explanation": "本题的难度相对较低：首先是因为考生可以直接凭借chapter six这个信息快速定位到原文的第六段中部，其次还因为定位之后便会发现，接下来需要阅读的只是两句话篇幅而已。耐心读懂这两句，特别是最后一句的大意，即可确认答案应为：\n\nC项：It is too specialised for most readers.\n\n译文：它对于大多数读者来说太过专业了。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "What does Shester suggest about the chapters focusing on the 1920s building boom?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8387_550356",
+          "options": [
+            {
+              "value": "A",
+              "text": "The information should have been organised differently."
+            },
+            {
+              "value": "B",
+              "text": "More facts are needed about the way construction was financed."
+            },
+            {
+              "value": "C",
+              "text": "The explanation that is given for the building boom is unlikely."
+            },
+            {
+              "value": "D",
+              "text": "Some parts will have limited appeal to certain people."
+            }
+          ],
+          "explanation": "本题的解题难度相对略高，其中主要原因在于：虽然考生一则可以根据一模一样出现在原文里的“1920s building boom”这个信息定位到第八段第一句，且读完第二和三句之后可以看出D项与这两句话的意思对应，但由于第一句话明确说了第八和第九章都是在讲1920年代的建筑繁荣，此时考生如果对自己的结论并不特别笃定，担心后文中还会有更为合适匹配选项的话，则更安全的办法其实是继续读完本段的其它篇幅内容，对比所有选项进行排除和精准判定，最终锁定正确答案还是应为：\n\nD项：Some parts will have limited appeal to certain people.\n\n译文：一些部分对于某些人来说可能吸引力有限\n\nA项：The information should have been organised differently.\n\n译文：信息本应当以不同的方式进行组织安排。\n\n这是一个完全子虚乌有、未在段落中任何地方被提及的内容，读完了全段大意的考生应当可以比较轻松地排除它。\n\nB项：More facts are needed about the way constructions was financed.\n\n译文：关于建筑工程是如何获得资金的，需要更多的事实信息。\n\n本项与上面的A项类似，也是一个无中生有的内容。\n\nC项：The explanation that is given for the building boom is unlikely.\n\n译文：关于建筑繁荣所给出的解释不太可能成立。\n\n第八段的最后一句话里确实提及了explanation，而且还给出了不止一条解释。但是，书评人Shester只是以罗列事实的方式描述了书里所给解释的内容，并没有去评价这些解释合理与否。考生只需理解到这个程度，应该就不会被此项所混淆干扰。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "What impresses Shester the most about the chapter on land values?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8387_838779",
+          "options": [
+            {
+              "value": "A",
+              "text": "the broad time period that is covered"
+            },
+            {
+              "value": "B",
+              "text": "the interesting questions that Barr asks"
+            },
+            {
+              "value": "C",
+              "text": "the nature of the research into the topic"
+            },
+            {
+              "value": "D",
+              "text": "the recommendations Barr makes for the future"
+            }
+          ],
+          "explanation": "本题的解题难度可能主要来自于选项答案的文字表达比较抽象，考生如果一心想靠题干关键词与原文中同义替换信息词在单词层面上的对应，则可能会遭遇比较大的解题困难。land values这个定位信息出现在第九段的开头句里，但这句话本身只是交代了“第十章讨论土地价值”这个事实性信息，书评人Shester对书的点评要从第二句话开始说起。第二句的字面意思是：Shester表示自己感到印象格外深刻的地方在于书里为了做这些预估而进行的数据工作，换成更直白的方式来说，也就是“为了得出这些评估结论，作者想必做了很多的数据汇总分析工作，这令人格外印象深刻”。如果单看data work这两个词，是无论如何都没有办法对应于正确答案选项中的nature一词的。但是当考生综合考虑四个选项整句话的意思，应该就能看出来正确答案应为：\n\nC项：the nature of the research into the topic\n\n译文：关于此话题研究的性质\n\n这个选项本身可能就不太好理解，因为nature一词在此的意思指“性质、属性”，综合选项的完整信息来看，相当于在说“这份关于该话题的研究到底是什么样的情况”，这正是原文中所说的令书评人Shester感到印象格外深刻之处。\n\nA项：the broad time period that is covered\n\n译文：所覆盖的时间段之久\n\n本段中确实提及了关于土地价值的评估所跨越的时间段，是19世纪中期直到现代。但文中并没有对这个时间段做进一步的点评，客观上来说这个时间段似乎也并不是很长，是一个很好排除掉的选项。\n\nB项：the interesting questions that Barr asks\n\n译文：Barr所提出的一些有趣的问题\n\n根据本段内容可以看出，Barr确实提出了一些自己的看法和思考，然而这些是否可以算作“问题”，其实还有待商榷；问题内容是否“有趣”，文中也并无点评。\n\nD项：the recommendations Barr makes for the future\n\n译文：Barr给未来的推荐\n\n这个信息本身倒是确实出现在了本段的最后一句话里，然而这句话的一开头即说得非常明白：这个给未来的建议是出现在全书的epilogue也就是尾声里的，并不包含在关于土地价值的第十章内容本身中。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "instruction": "Questions 32–35\n\nDo the following statements agree with the claims of the writer in Reading Passage 3?\n\nChoose\n\nYES if the statement agrees with the claims of the writer\n\nNO if the statement contradicts the claims of the writer\n\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "The description in the first chapter of how New York probably looked from the air in the early 1600s lacks interest.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8387_969861",
+          "explanation": "本题的定位不难，考生凭借“第一章”和early 1600s(在原文中替换成了一个具体年份1609，这是一个非常常见的替换方式)，即可定位到第二段的第一句话。不过本句并没有提及对“这个描述是否有趣味”的点评，考生需继续向下多阅读两句，才能在第三句也是最后一句里看到明确的“fun”这个点评，从而看出这个表述与题干意思形成了矛盾抵触，进而可选出正确答案应为：NO。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Chapters two and three prepare the reader well for material yet to come.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q8387_242238",
+          "explanation": "本题的定位也不难，因为考生还是可以依靠章节号码很快定位；与上一题类似，也是定位句本身并没有给出足够的可供解题依据的信息，考生需耐心再向下看两句，在第三句里可以明确地找到set the stage for ... that comes later这个非常明显的同义表达，进而确认本题答案应为：YES。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "The biggest problem for many nineteenth-century New York immigrant neighbourhoods was a lack of amenities.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q8387_690407",
+          "explanation": "本题中所包含的许多单词和词组信息，倒是都可以在原文中找到，例如immigrant neighbourhoods和amenities，其中amenity这个单词甚至也许会令一些考生感到陌生。但其实在本题中即使并不认识它也不打紧，因为题干问的是“最大问题是否在于缺少这个东西”，而不是在问“这个东西本身是什么或有什么属性特点”，因而对考生解答的干扰其实不大，综合阅读后会发现文中既没有说到“最大问题”也没有说到“是否缺少amenities”，由此可以判定文中确实没有提及相关信息，于是正确答案应为： NOT GIVEN。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "In the nineteenth century, New York’s immigrant neighbourhoods tended to concentrate around the harbour.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q8387_730753",
+          "explanation": "本题的定位与上一道题紧密相连，所以考生在同时寻找这两道题的定位和答案时，要遇见出题句并不困难。本段最后一句明确说到了移民聚居区的位置是处在港口区和富人区之间，这与题干信息形成了非常直白的矛盾抵触，正确答案应为：NO。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 36–40\n\nComplete the summary using the list of phrases, A–J.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "Answer for gap 36.",
+          "answers": [
+            "H"
+          ],
+          "sourceCode": "Q8387_130819",
+          "explanation": "36. 本题的定位依旧不难：考生可以直接利用chapter seven这个章节号定位到第七段段首第一句；在这句话里同时还出现了一模一样的bedrock close to the surface，明示答案极大可能就在本句里，不用去后面找，简直没法更友好一些。仔细看清句意可知，这种缺失不能解释的是为什么“在Downtown与Midtown之间的地区”没有建起摩天大楼。用这个引号中的信息去词库中匹配答案，可知最合适的选择应当为：H specific areas。\n\n37. 本题的出处紧随上一题之后，而且还包含foundation和cost这两个直接原词重现的定位信息，考生只需有基本的词汇认知水平，认识词库中excessive这个雅思阅读中高频常见词的意思(如果目前还不认识，请回到前文“必背词汇”列表学习复习巩固)，再耐心阅读和对比句意，即可在词库中找到对应选项为：D excessive expense。\n\n38. 本题的出处与上一题来自同一句话，且原文中overall与选项中total的同义替换关系、原文中cost与选项中expenditure的同义替换关系，都是反复在雅思阅读文章和题目中出镜并受到考查的核心词汇，考生应可轻松找到正确选项为：I total expenditure。\n\n39. 本题的定位依旧不难，因为考生即使不认识caisson这个略显生僻的单词，也不难依靠它在原文中的原样出现来定位。进而阅读对应句意思可知，caissons可以让工人向下挖出相当的深度来，最佳的对应项应为：B deep excavations。\n\n40. 通过题干中的their可知，本题的答案必然仍与their所指代的对象caissons有着紧密的关系。考生只需耐心从上一题定位句向后文再多读一句，即可找到文中给出的答案，the dangers involved，继而锁定在词库中的对应项：F associated risks。",
+          "promptHtml": "Answer for gap 36."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Answer for gap 37.",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8387_954184",
+          "explanation": "36. 本题的定位依旧不难：考生可以直接利用chapter seven这个章节号定位到第七段段首第一句；在这句话里同时还出现了一模一样的bedrock close to the surface，明示答案极大可能就在本句里，不用去后面找，简直没法更友好一些。仔细看清句意可知，这种缺失不能解释的是为什么“在Downtown与Midtown之间的地区”没有建起摩天大楼。用这个引号中的信息去词库中匹配答案，可知最合适的选择应当为：H specific areas。\n\n37. 本题的出处紧随上一题之后，而且还包含foundation和cost这两个直接原词重现的定位信息，考生只需有基本的词汇认知水平，认识词库中excessive这个雅思阅读中高频常见词的意思(如果目前还不认识，请回到前文“必背词汇”列表学习复习巩固)，再耐心阅读和对比句意，即可在词库中找到对应选项为：D excessive expense。\n\n38. 本题的出处与上一题来自同一句话，且原文中overall与选项中total的同义替换关系、原文中cost与选项中expenditure的同义替换关系，都是反复在雅思阅读文章和题目中出镜并受到考查的核心词汇，考生应可轻松找到正确选项为：I total expenditure。\n\n39. 本题的定位依旧不难，因为考生即使不认识caisson这个略显生僻的单词，也不难依靠它在原文中的原样出现来定位。进而阅读对应句意思可知，caissons可以让工人向下挖出相当的深度来，最佳的对应项应为：B deep excavations。\n\n40. 通过题干中的their可知，本题的答案必然仍与their所指代的对象caissons有着紧密的关系。考生只需耐心从上一题定位句向后文再多读一句，即可找到文中给出的答案，the dangers involved，继而锁定在词库中的对应项：F associated risks。",
+          "promptHtml": "Answer for gap 37."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Answer for gap 38.",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q8387_382488",
+          "explanation": "36. 本题的定位依旧不难：考生可以直接利用chapter seven这个章节号定位到第七段段首第一句；在这句话里同时还出现了一模一样的bedrock close to the surface，明示答案极大可能就在本句里，不用去后面找，简直没法更友好一些。仔细看清句意可知，这种缺失不能解释的是为什么“在Downtown与Midtown之间的地区”没有建起摩天大楼。用这个引号中的信息去词库中匹配答案，可知最合适的选择应当为：H specific areas。\n\n37. 本题的出处紧随上一题之后，而且还包含foundation和cost这两个直接原词重现的定位信息，考生只需有基本的词汇认知水平，认识词库中excessive这个雅思阅读中高频常见词的意思(如果目前还不认识，请回到前文“必背词汇”列表学习复习巩固)，再耐心阅读和对比句意，即可在词库中找到对应选项为：D excessive expense。\n\n38. 本题的出处与上一题来自同一句话，且原文中overall与选项中total的同义替换关系、原文中cost与选项中expenditure的同义替换关系，都是反复在雅思阅读文章和题目中出镜并受到考查的核心词汇，考生应可轻松找到正确选项为：I total expenditure。\n\n39. 本题的定位依旧不难，因为考生即使不认识caisson这个略显生僻的单词，也不难依靠它在原文中的原样出现来定位。进而阅读对应句意思可知，caissons可以让工人向下挖出相当的深度来，最佳的对应项应为：B deep excavations。\n\n40. 通过题干中的their可知，本题的答案必然仍与their所指代的对象caissons有着紧密的关系。考生只需耐心从上一题定位句向后文再多读一句，即可找到文中给出的答案，the dangers involved，继而锁定在词库中的对应项：F associated risks。",
+          "promptHtml": "Answer for gap 38."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "Answer for gap 39.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8387_519530",
+          "explanation": "36. 本题的定位依旧不难：考生可以直接利用chapter seven这个章节号定位到第七段段首第一句；在这句话里同时还出现了一模一样的bedrock close to the surface，明示答案极大可能就在本句里，不用去后面找，简直没法更友好一些。仔细看清句意可知，这种缺失不能解释的是为什么“在Downtown与Midtown之间的地区”没有建起摩天大楼。用这个引号中的信息去词库中匹配答案，可知最合适的选择应当为：H specific areas。\n\n37. 本题的出处紧随上一题之后，而且还包含foundation和cost这两个直接原词重现的定位信息，考生只需有基本的词汇认知水平，认识词库中excessive这个雅思阅读中高频常见词的意思(如果目前还不认识，请回到前文“必背词汇”列表学习复习巩固)，再耐心阅读和对比句意，即可在词库中找到对应选项为：D excessive expense。\n\n38. 本题的出处与上一题来自同一句话，且原文中overall与选项中total的同义替换关系、原文中cost与选项中expenditure的同义替换关系，都是反复在雅思阅读文章和题目中出镜并受到考查的核心词汇，考生应可轻松找到正确选项为：I total expenditure。\n\n39. 本题的定位依旧不难，因为考生即使不认识caisson这个略显生僻的单词，也不难依靠它在原文中的原样出现来定位。进而阅读对应句意思可知，caissons可以让工人向下挖出相当的深度来，最佳的对应项应为：B deep excavations。\n\n40. 通过题干中的their可知，本题的答案必然仍与their所指代的对象caissons有着紧密的关系。考生只需耐心从上一题定位句向后文再多读一句，即可找到文中给出的答案，the dangers involved，继而锁定在词库中的对应项：F associated risks。",
+          "promptHtml": "Answer for gap 39."
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "Answer for gap 40.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8387_218293",
+          "explanation": "36. 本题的定位依旧不难：考生可以直接利用chapter seven这个章节号定位到第七段段首第一句；在这句话里同时还出现了一模一样的bedrock close to the surface，明示答案极大可能就在本句里，不用去后面找，简直没法更友好一些。仔细看清句意可知，这种缺失不能解释的是为什么“在Downtown与Midtown之间的地区”没有建起摩天大楼。用这个引号中的信息去词库中匹配答案，可知最合适的选择应当为：H specific areas。\n\n37. 本题的出处紧随上一题之后，而且还包含foundation和cost这两个直接原词重现的定位信息，考生只需有基本的词汇认知水平，认识词库中excessive这个雅思阅读中高频常见词的意思(如果目前还不认识，请回到前文“必背词汇”列表学习复习巩固)，再耐心阅读和对比句意，即可在词库中找到对应选项为：D excessive expense。\n\n38. 本题的出处与上一题来自同一句话，且原文中overall与选项中total的同义替换关系、原文中cost与选项中expenditure的同义替换关系，都是反复在雅思阅读文章和题目中出镜并受到考查的核心词汇，考生应可轻松找到正确选项为：I total expenditure。\n\n39. 本题的定位依旧不难，因为考生即使不认识caisson这个略显生僻的单词，也不难依靠它在原文中的原样出现来定位。进而阅读对应句意思可知，caissons可以让工人向下挖出相当的深度来，最佳的对应项应为：B deep excavations。\n\n40. 通过题干中的their可知，本题的答案必然仍与their所指代的对象caissons有着紧密的关系。考生只需耐心从上一题定位句向后文再多读一句，即可找到文中给出的答案，the dangers involved，继而锁定在词库中的对应项：F associated risks。",
+          "promptHtml": "Answer for gap 40."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "development plans"
+        },
+        {
+          "value": "B",
+          "text": "deep excavations"
+        },
+        {
+          "value": "C",
+          "text": "great distance"
+        },
+        {
+          "value": "D",
+          "text": "excessive expense"
+        },
+        {
+          "value": "E",
+          "text": "impossible tasks"
+        },
+        {
+          "value": "F",
+          "text": "associated risks"
+        },
+        {
+          "value": "G",
+          "text": "water level"
+        },
+        {
+          "value": "H",
+          "text": "specific areas"
+        },
+        {
+          "value": "I",
+          "text": "total expenditure"
+        },
+        {
+          "value": "J",
+          "text": "construction guidelines"
+        }
+      ],
+      "contextHtml": "<p><strong><span>The bedrock myth</span></strong></p>\n\n<p><br>\n<span>In chapter seven, Barr indicates how the lack of bedrock close to the surface does not explain why skyscrapers are absent from </span><strong>[36] ______</strong> <span> . He points out that although the cost of foundations increases when bedrock is deep below the surface, this cannot be regarded as </span><strong>[37] ______</strong> <span> , especially when compared to </span><strong>[38] ______</strong> <span> . </span></p>\n\n<p><span>A particularly enjoyable part of the chapter was Barr’s account of how foundations are built. He describes not only how </span><strong>[39] ______</strong> <span> are made possible by the use of caissons, but he also discusses their </span><strong>[40] ______</strong> <span> . The chapter is well researched but relatively easy to understand.</span></p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><strong>Building the Skyline: The Birth and Growth of Manhattan’s Skyscrapers</strong></span></span><br><span>Katharine L. Shester reviews a book by Jason Barr about the development of New York City </span></p><p><span>In <em>Building the Skyline</em>, Jason Barr takes the reader through a detailed history of New York City. The book combines geology, history, economics, and a lot of data to explain why business clusters developed where they did and how the early decisions of workers and firms shaped the skyline we see today. <em>Building the Skyline</em> is organized into two distinct parts. The first is primarily historical and addresses New York’s settlement and growth from 1609 to 1900; the second deals primarily with the 20th century and is a compilation of chapters commenting on different aspects of New York’s urban development. The tone and organization of the book changes somewhat between the first and second parts, as the latter chapters incorporate aspects of Barr’s related research papers. </span></p><p><br><span>Barr begins chapter one by taking the reader on a ‘helicopter time-machine’ ride – giving a fascinating account of how the New York landscape in 1609 might have looked from the sky. He then moves on to a subterranean walking tour of the city, indicating the location of rock and water below the subsoil, before taking the reader back to the surface. His love of the city comes through as he describes various fun facts about the location of the New York residence of early 19th-century vice-president Aaron Burr as well as a number of legends about the city. </span></p><p><br><span>Chapters two and three take the reader up to the Civil War (1861–1865), with chapter two focusing on the early development of land and the implementation of a grid system in 1811. Chapter three focuses on land use before the Civil War. Both chapters are informative and well researched and set the stage for the economic analysis that comes later in the book. I would have liked Barr to expand upon his claim that existing tenements* prevented skyscrapers in certain neighborhoods because ‘likely no skyscraper developer was interested in performing the necessary “slum clearance”’. Later in the book, Barr makes the claim that the depth of bedrock** was not a limiting factor for developers, as foundation costs were a small fraction of the cost of development. At first glance, it is not obvious why slum clearance would be limiting, while more expensive foundations would not. </span></p><p><br><span>Chapter four focuses on immigration and the location of neighborhoods and tenements in the late 19th century. Barr identifies four primary immigrant enclaves and analyzes their locations in terms of the amenities available in the area. Most of these enclaves were located on the least valuable land, between the industries located on the waterfront and the wealthy neighborhoods bordering Central Park. </span></p><p><br><span>Part two of the book begins with a discussion of the economics of skyscraper height. In chapter five, Barr distinguishes between engineering height, economic height, and developer height — where engineering height is the tallest building that can be safely made at a given time, economic height is the height that is most efficient from society’s point of view, and developer height is the actual height chosen by the developer, who is attempting to maximize return on investment. </span></p><p><br><span>Chapter five also has an interesting discussion of the technological advances that led to the construction of skyscrapers. For example, the introduction of iron and steel skeletal frames made thick, load-bearing walls unnecessary, expanding the usable square footage of buildings and increasing the use of windows and availability of natural light. Chapter six then presents data on building height throughout the 20th century and uses regression analysis to ‘predict’ building construction. While less technical than the research paper on which the chapter is based, it is probably more technical than would be preferred by a general audience. </span></p><p><br><span>Chapter seven tackles the ‘bedrock myth’, the assumption that the absence of bedrock close to the surface between Downtown and Midtown New York is the reason for skyscrapers not being built between the two urban centers. Rather, Barr argues that while deeper bedrock does increase foundation costs, these costs were neither prohibitively high nor were they large compared to the overall cost of building a skyscraper. What I enjoyed the most about this chapter was Barr’s discussion of how foundations are actually built. He describes the use of caissons, which enable workers to dig down for considerable distances, often below the water table, until they reach bedrock. Barr’s thorough technological history discusses not only how caissons work, but also the dangers involved. While this chapter references empirical research papers, it is a relatively easy read. </span></p><p><br><span>Chapters eight and nine focus on the birth of Midtown and the building boom of the 1920s. Chapter eight contains lengthy discussions of urban economic theory that may serve as a distraction to readers primarily interested in New York. However, they would be well-suited for undergraduates learning about the economics of cities. In the next chapter, Barr considers two of the primary explanations for the building boom of the 1920s — the first being exuberance, and the second being financing. He uses data to assess the viability of these two explanations and finds that supply and demand factors explain much of the development of the 1920s; though it enabled the boom, cheap credit was not, he argues, the primary cause. </span></p><p><br><span>In the final chapter (chapter 10), Barr discusses another of his empirical papers that estimates Manhattan land values from the mid-19th century to the present day. The data work that went into these estimations is particularly impressive. Toward the end of the chapter, Barr assesses ‘whether skyscrapers are a cause or an effect of high land values’. He finds that changes in land values predict future building height, but the reverse is not true. The book ends with an epilogue, in which Barr discusses the impact of climate change on the city and makes policy suggestions for New York going forward. </span></p><p><br><span><span>* a tenement: a multi-occupancy building of any sort, but particularly a run-down apartment building or slum building<br>** bedrock: the solid, hard rock in the ground that lies under a loose layer of soil</span></span><br> </p>"
+}

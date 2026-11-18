@@ -1,0 +1,447 @@
+{
+  "id": "1dbcf2c4-64f1-4cae-bb6e-b24da85365b2",
+  "title": "The history of radio station",
+  "titleCn": "Sun Valley学生电台发展史介绍",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/1dbcf2c4-64f1-4cae-bb6e-b24da85365b2",
+  "duration": 418,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,220"
+    },
+    {
+      "label": "2",
+      "text": "Listen carefully and answer questions one to four."
+    },
+    {
+      "label": "3",
+      "text": "00:00:03,900"
+    },
+    {
+      "label": "4",
+      "text": "Good afternoon. Welcome to Sun Valley Radio Station, where I'll give you a brief introduction to what we do. First off, let's start with a short history of the student radio service. The organization was founded in nineteen ninety-six by four students in the final year of their media studies course. They wanted to start a radio station and produce programs aimed at students enrolled on campus, as well as students from other schools in the local area. They began with a range of radio programs, which included a history program and an art program. The program with the largest audience share is the music program, and it's been a number one for the last two years with both local and national acts performing live in the studio. We also have a series of programs for younger listeners between the ages of four and eight. It's an education program designed to challenge them with practical and mental tasks. Young children find it difficult to organize things around them, and so our program is aimed at improving their abilities. Another main function of the radio station is to include people from the local area, not just students in our radio shows. Many residents who live near the university listen to our programs and make contributions to our output. As I noted earlier, the station began in nineteen ninety-six and has been going strong ever since that time. Although the station is now located in a professional recording studio, it actually began in a caravan near the school gym. We moved the station to this building about ten years ago and have made a few changes to the layout in that time."
+    },
+    {
+      "label": "5",
+      "text": "00:02:04,000"
+    },
+    {
+      "label": "6",
+      "text": "Now listen and answer questions five to ten."
+    },
+    {
+      "label": "7",
+      "text": "00:02:07,620"
+    },
+    {
+      "label": "8",
+      "text": "When you arrived at reception earlier, you saw the cafeteria right through it. Five years ago, we didn't have one and had to go to the student canteen for food and refreshments. We have a range of eating options and cater to all tastes. If you don't eat meat, you can try our vegetarian menu. Personally, I'd recommend the spinach pasta, but the egg salad seems to be the most popular choice. If you go left past the toilet, you'll find the storeroom where we keep all our stationery and office supplies. Further down left at the end of the corridor, you'll find the training studio where all our new recruits learn how to broadcast. Anyone who starts work at the radio station must learn the basics of broadcasting in this room. While some of the people who work here have broadcasting experience, most people are completely new to this industry. We try to make sure that everyone who works here gets the training they need because many of them want to work in the media in future. The student radio station is a great place to begin a career in broadcasting, as it provides people with a professional level of training and development. Now, if you go back along the corridor, you'll find the main studio next to the office. Face the office, it's just on your left. This is where all the important programs are recorded and eventually sent out over the airwaves. I think someone is recording a program in there right now. If the red light above the door is glowing, that's when you know a recording is in progress. Now, if you go along the corridor, you will find the editing studio in the room second right past the office. This is where all the broadcasts are checked and edited for any mistakes by our editors. This is a very important job as the radio station has very high standards, and any mistakes in our broadcasts have a negative effect on our reputation. On the other side of the corridor, you'll find the waiting room, which is the third room on the left. Don't mistake it for the cleaning cupboard next door. We use this room for guests on our programs who are waiting to go into the recording studio to record a program. There are many magazines, books, refreshments, and a TV in this room so that our guests feel as comfortable as possible before they go into the studio. Okay, that's the end of the tour. Now, let's meet some of our presenters"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-14**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "b9bc3cd7-8eab-445e-b2b3-537623eebf86",
+          "prompt": "**11** The most popular programme is",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "music program",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The program with the largest audience share is the music program, and it's been a number one for the last two years with both local and national acts performing live in the studio"
+          },
+          "keywordPairs": [
+            {
+              "question": "most popular",
+              "article": "the largest audience share"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "art program"
+            },
+            {
+              "value": "B",
+              "text": "music program"
+            },
+            {
+              "value": "C",
+              "text": "language program"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "fb07d582-2b3f-4dd0-b45d-0114ee304ae1",
+          "prompt": "**12** Children have problems with",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "organisational skills",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Young children find it difficult to organize things around them, and so our program is aimed at improving their abilities"
+          },
+          "keywordPairs": [
+            {
+              "question": "have problems with",
+              "article": "find it difficult to"
+            },
+            {
+              "question": "organisational skills",
+              "article": "organize things around them"
+            }
+          ],
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "following instructions"
+            },
+            {
+              "value": "B",
+              "text": "paying attention"
+            },
+            {
+              "value": "C",
+              "text": "organisational skills"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "25481e35-3328-4a19-bce5-34fb49c85efb",
+          "prompt": "**13** The purpose of the radio station is to",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "involve local community",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another main function of the radio station is to include people from the local area, not just students in our radio shows. Many residents who live near the university listen to our programs and make contributions to our output"
+          },
+          "keywordPairs": [
+            {
+              "question": "purpose",
+              "article": "main function"
+            },
+            {
+              "question": "involve local community",
+              "article": "include people from the local area"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "involve local community"
+            },
+            {
+              "value": "B",
+              "text": "promote youth initiatives"
+            },
+            {
+              "value": "C",
+              "text": "raise charity fund"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "3f98e6d7-1160-4ba6-8c9d-a2ced182f6d1",
+          "prompt": "**14** The radio station originally started in a",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "caravan",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Although the station is now located in a professional recording studio, it actually began in a caravan near the school gym"
+          },
+          "keywordPairs": [
+            {
+              "question": "originally started",
+              "article": "actually began"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "caravan"
+            },
+            {
+              "value": "B",
+              "text": "gym"
+            },
+            {
+              "value": "C",
+              "text": "classroom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "map",
+      "instruction": "**Questions 15-20**\nLabel the map below.\nWrite the correct letter, **A-I**, next to questions **15-20**.\n\n**Visiting the Sun Valley Radio Station**\n![图片1.png](assets/listening/aa561037e550346eb45c91a08e9445f8b469e517876b25a92577657812ff2d99.png)",
+      "questions": [
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "67f3df7f-a966-4491-964f-206c90b3c0ab",
+          "prompt": "Cafeteria",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "A",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When you arrived at reception earlier, you saw the cafeteria right through it. Five years ago, we didn't have one and had to go to the student canteen for food and refreshments"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "cafeteria"
+            },
+            {
+              "question": "",
+              "article": "reception"
+            },
+            {
+              "question": "",
+              "article": "right through it"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "2c05415d-979e-4312-9276-be6e30e49a29",
+          "prompt": "Storeroom",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "B",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you go left past the toilet, you'll find the storeroom where we keep all our stationery and office supplies"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "storeroom"
+            },
+            {
+              "question": "",
+              "article": "toilet"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "afd25d16-b571-4a71-9c07-c60f3e0484fe",
+          "prompt": "Training Studio",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "C",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you go left past the toilet, you'll find the storeroom where we keep all our stationery and office supplies. Further down left at the end of the corridor, you'll find the training studio where all our new recruits learn how to broadcast"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "training studio"
+            },
+            {
+              "question": "",
+              "article": "corridor"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "b1439ca5-a3a2-4f25-a2a9-c988b71a05f2",
+          "prompt": "Main Studio",
+          "answers": [
+            "D"
+          ],
+          "rawAnswer": "D",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, if you go back along the corridor, you'll find the main studio next to the office. Face the office, it's just on your left. This is where all the important programs are recorded and eventually sent out over the airwaves"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "main studio"
+            },
+            {
+              "question": "",
+              "article": "corridor"
+            },
+            {
+              "question": "",
+              "article": "office"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "8c35ca63-7b31-4c88-8519-45dd88c08544",
+          "prompt": "Editing Studio",
+          "answers": [
+            "H"
+          ],
+          "rawAnswer": "H",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, if you go along the corridor, you will find the editing studio in the room second right past the office. This is where all the broadcasts are checked and edited for any mistakes by our editors"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "editing studio"
+            },
+            {
+              "question": "",
+              "article": "corridor"
+            },
+            {
+              "question": "",
+              "article": "office"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "7130f272-ac97-4dd3-b241-a5f33e5ad756",
+          "prompt": "Waiting Room",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "E",
+          "evidence": {
+            "paragraph": "",
+            "quote": "On the other side of the corridor, you'll find the waiting room, which is the third room on the left. Don't mistake it for the cleaning cupboard next door. We use this room for guests on our programs who are waiting to go into the recording studio to record a program"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "waiting room"
+            },
+            {
+              "question": "",
+              "article": "corridor"
+            },
+            {
+              "question": "",
+              "article": "cleaning cupboard"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ],
+      "images": [
+        "assets/listening/aa561037e550346eb45c91a08e9445f8b469e517876b25a92577657812ff2d99.png"
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "地图题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,220</p><p>Listen carefully and answer questions one to four. </p><p>00:00:03,900</p><p>Good afternoon. Welcome to Sun Valley Radio Station, where I'll give you a brief introduction to what we do. First off, let's start with a short history of the student radio service. The organization was founded in nineteen ninety-six by four students in the final year of their media studies course. They wanted to start a radio station and produce programs aimed at students enrolled on campus, as well as students from other schools in the local area. They began with a range of radio programs, which included a history program and an art program. The program with the largest audience share is the music program, and it's been a number one for the last two years with both local and national acts performing live in the studio. We also have a series of programs for younger listeners between the ages of four and eight. It's an education program designed to challenge them with practical and mental tasks. Young children find it difficult to organize things around them, and so our program is aimed at improving their abilities. Another main function of the radio station is to include people from the local area, not just students in our radio shows. Many residents who live near the university listen to our programs and make contributions to our output. As I noted earlier, the station began in nineteen ninety-six and has been going strong ever since that time. Although the station is now located in a professional recording studio, it actually began in a caravan near the school gym. We moved the station to this building about ten years ago and have made a few changes to the layout in that time. </p><p>00:02:04,000</p><p>Now listen and answer questions five to ten. </p><p>00:02:07,620</p><p>When you arrived at reception earlier, you saw the cafeteria right through it. Five years ago, we didn't have one and had to go to the student canteen for food and refreshments. We have a range of eating options and cater to all tastes. If you don't eat meat, you can try our vegetarian menu. Personally, I'd recommend the spinach pasta, but the egg salad seems to be the most popular choice. If you go left past the toilet, you'll find the storeroom where we keep all our stationery and office supplies. Further down left at the end of the corridor, you'll find the training studio where all our new recruits learn how to broadcast. Anyone who starts work at the radio station must learn the basics of broadcasting in this room. While some of the people who work here have broadcasting experience, most people are completely new to this industry. We try to make sure that everyone who works here gets the training they need because many of them want to work in the media in future. The student radio station is a great place to begin a career in broadcasting, as it provides people with a professional level of training and development. Now, if you go back along the corridor, you'll find the main studio next to the office. Face the office, it's just on your left. This is where all the important programs are recorded and eventually sent out over the airwaves. I think someone is recording a program in there right now. If the red light above the door is glowing, that's when you know a recording is in progress. Now, if you go along the corridor, you will find the editing studio in the room second right past the office. This is where all the broadcasts are checked and edited for any mistakes by our editors. This is a very important job as the radio station has very high standards, and any mistakes in our broadcasts have a negative effect on our reputation. On the other side of the corridor, you'll find the waiting room, which is the third room on the left. Don't mistake it for the cleaning cupboard next door. We use this room for guests on our programs who are waiting to go into the recording studio to record a program. There are many magazines, books, refreshments, and a TV in this room so that our guests feel as comfortable as possible before they go into the studio. Okay, that's the end of the tour. Now, let's meet some of our presenters<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/1dbcf2c4-64f1-4cae-bb6e-b24da85365b2.mp3",
+    "durationSeconds": 297.036,
+    "sizeBytes": 1188404,
+    "sha256": "00f5407003868526875533a9c6beb1a0137aae650f6a3bcd66ecc6e6675b3e2e",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:09:32Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1781791726707_qe7v9m.mp3"
+}

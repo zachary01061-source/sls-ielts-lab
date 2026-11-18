@@ -1,0 +1,410 @@
+{
+  "id": "cambridge-14-test-4-reading-2",
+  "title": "Why zoos are good",
+  "titleCn": "Why zoos are good",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 14,
+    "test": 4
+  },
+  "sourceQuestionId": "6661",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6661",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Why zoos are good"
+    },
+    {
+      "label": "2",
+      "text": "Scientist David Hone makes the case for zoos"
+    },
+    {
+      "label": "3",
+      "text": "A In my view, it is perfectly possible for many species of animals living in zoos or wildlife parks to have a quality of life as high as, or higher than, in the wild. Animals in good zoos get a varied and high-quality diet with all the supplements required, and any illnesses they might have will be treated. Their movement might be somewhat restricted, but they have a safe environment in which to live, and they are spared bullying and social ostracism by others of their kind. They do not suffer from the threat or stress of predators, or the irritation and pain of parasites or injuries. The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation or in the jaws of a predator. A lot of very nasty things happen to truly 'wild' animals that simply don't happen in good zoos, and to view a life that is 'free' as one that is automatically 'good' is, I think, an error. Furthermore, zoos serve several key purposes."
+    },
+    {
+      "label": "4",
+      "text": "B Firstly, zoos aid conservation. Colossal numbers of species are becoming extinct across the world, and many more are increasingly threatened and therefore risk extinction. Moreover, some of these collapses have been sudden, dramatic and unexpected, or were simply discovered very late in the day. A species protected in captivity can be bred up to provide a reservoir population against a population crash or extinction in the wild. A good number of species only exist in captivity, with many of these living in zoos. Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that have been boosted by captive bred animals. Without these efforts there would be fewer species alive today. Although reintroduction successes are few and far between, the numbers are increasing and the very fact that species have been saved or reintroduced as a result of captive breeding proves the value of such initiatives."
+    },
+    {
+      "label": "5",
+      "text": "C Zoos also provide education. Many children and adults, especially those in cities, will never see a wild animal beyond a fox or pigeon. While it is true that television documentaries are becoming ever more detailed and impressive, and many natural history specimens are on display in museums, there really is nothing to compare with seeing a living creature in the flesh, hearing it, smelling it, watching what it does and having the time to absorb details. That alone will bring a greater understanding and perspective to many, and hopefully give them a greater appreciation for wildlife, conservation efforts and how they can contribute."
+    },
+    {
+      "label": "6",
+      "text": "D In addition to this, there is also the education that can take place in zoos through signs, talks and presentations which directly communicate information to visitors about the animals they are seeing and their place in the world. This was an area where zoos used to be lacking, but they are now increasingly sophisticated in their communication and outreach work. Many zoos also work directly to educate conservation workers in other countries, or send their animal keepers abroad to contribute their knowledge and skills to those working in zoos and reserves, thereby helping to improve conditions and reintroductions all over the world."
+    },
+    {
+      "label": "7",
+      "text": "E Zoos also play a key role in research. If we are to save wild species and restore and repair ecosystems，we need to know about how key species live, act and react. Being able to undertake research on animals in zoos where there is less risk and fewer variables means real changes can be effected on wild populations. Finding out about, for example, the oestrus cycle of an animal or its breeding rate helps us manage wild populations. Procedures such as capturing and moving at-risk or dangerous individuals are bolstered by knowledge gained in zoos about doses for anaesthetics, and by experience in handling and transporting animals. This can make a real difference to conservation efforts and to the reduction of human-animal conflicts, and can provide a knowledge base for helping with the increasing threats of habitat destruction and other problems."
+    },
+    {
+      "label": "8",
+      "text": "F In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of numerous species. They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious. Without them, the world would be, and would increasingly become, a much poorer place."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-17\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a reference to how quickly animal species can die out",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6661_119752-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "reasons why it is preferable to study animals in captivity rather than in the wild",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6661_119752-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "mention of two ways of learning about animals other than visiting them in zoos",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6661_119752-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "reasons why animals in zoos may be healthier than those in the wild",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6661_119752-4"
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 14-17</em></strong></p>\n\n<p>Which paragraph contains the following information?</p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Choose the correct answer.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 18-22\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "An animal is likely to live longer in a zoo than in the wild.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6661_291697",
+          "explanation": "参考译文：动物在动物园中可能会比在野外存活得更久。\n\n定位词：an animal\n\nA段第五句：The average captive animal...a predator.\n\nA段第五句说到，一般圈养动物会比生活在野外的动物有更长的寿命，并且不会死于干旱、饥饿或是捕食者。\n\n因此本题答案为TRUE。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "There are some species in zoos which can no longer be found in the wild.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6661_203016",
+          "explanation": "参考译文:一些动物园中的物种在野外已经不再存在。\n\n定位词：some species in zoos\n\nB段第五句A good number of species only exist in captivity, with many of these living in zoos说到，很多物种只在圈养状况下生存，它们中的很多生活在动物园中。这一表达与题目表述含义一致。\n\n因此本题答案为TRUE。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Improvements in the quality of TV wildlife documentaries have resulted in increased numbers of zoo visitors.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6661_329238",
+          "explanation": "参考译文：野生动物电视纪录片质量的提升带来了更多的动物园参观者。\n\n定位词：Improvements is the quality of TV wildlife documentaries\n\nC段第三句：While it is true that television documentaries...the time to absorb details.说到，尽管电视纪录片正变得越来越细致和吸引人，很多自然历史标本也在博物馆中展览，但事实上没有什么能与亲身观察它们在做什么以及花时间了解更多细节相比。这说明电视纪录片的质量的确有所提升，但这种提升是否resulted in increased numbers of zoo visitors，文章并没有涉及。\n\n因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Zoos have always excelled at transmitting information about animals to the public.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6661_112831",
+          "explanation": "参考译文：动物园一直很擅于将关于动物的信息传达给公众\n\n定位词：Zoos have always excelled at\n\nD段第二句：This was an area...in their communication and outreach work. D段首句列举了动物园通过多种方式向公众提供更多信息，而第一句中说到This was an area where zoos used to be lacking，说明在这些方面，动物园之前并没有做得很好，这与题目表述的含义相反。\n\n因此本题答案为FALSE。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Studying animals in zoos is less stressful for the animals than studying them in the wild.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6661_383499",
+          "explanation": "参考译文：研究动物园中的动物比研究野生动物更让这些动物放松。\n\n定位词：Studying animals in zoos\n\nE段第三句Being able to undertake research on animals in zoos...on wild populations.对在动物园和在野外进行研究做了比较，文中说到，能够在动物同这种更少风险、更少变量的状态下对动物进行研究，意味着可以对野生种群的变化真正起到作用。但是本段内容中并没有沙及对动物来说是否会less stressful。\n\n因此本题答案为NOT GIVEN。"
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 18-22</em></strong></p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><em>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text,</em></p>\n\n\t\t\t<p><em>choose <strong>FALSE</strong> if the statement contradicts the information,</em></p>\n\n\t\t\t<p><em>or choose <strong>NOT GIVEN</strong> if there is no information on this.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 23 and 24\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Which TWO of the following are stated about zoo staff in the text?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q6661_830076",
+          "options": [
+            {
+              "value": "A",
+              "text": "Some take part in television documentaries about animals."
+            },
+            {
+              "value": "B",
+              "text": "Some travel to overseas locations to join teams in zoos."
+            },
+            {
+              "value": "C",
+              "text": "Some get experience with species in the wild before taking up zoo jobs."
+            },
+            {
+              "value": "D",
+              "text": "Some teach people who are involved with conservation projects."
+            },
+            {
+              "value": "E",
+              "text": "Some specialise in caring for species which are under threat."
+            }
+          ],
+          "explanation": "本题针对动物园员工进行提问\n\n题号：A\n\n选项翻译：一些人参与关于动物的电视纪录片。\n\n文中有涉及television documentaries，但是并未提及人们参与电视纪录片这一信息。\n\n题号：B\n\n选项翻译：一些人到国外加入动物园的工作团队。\n\nD段最后一句提到了该选项的信息。\n\n题号：C\n\n选项翻译：一些人在从事动物园的工作前已经对一些野生物种非常熟悉。\n\n文中没有提及这一信息\n\n题号：D\n\n选项翻译：一些人负责辅导参与保护工作的人。\n\nD段最后一句提到了该选项的信息。\n\n题号：E\n\n选项翻译：一些人在濒危动物的保育工作方面很专业。\n\n文中没有提及这一信息",
+          "setId": "Q6661_830076",
+          "blockId": "Q6661_830076"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Which TWO of the following are stated about zoo staff in the text?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q6661_830076",
+          "options": [
+            {
+              "value": "A",
+              "text": "Some take part in television documentaries about animals."
+            },
+            {
+              "value": "B",
+              "text": "Some travel to overseas locations to join teams in zoos."
+            },
+            {
+              "value": "C",
+              "text": "Some get experience with species in the wild before taking up zoo jobs."
+            },
+            {
+              "value": "D",
+              "text": "Some teach people who are involved with conservation projects."
+            },
+            {
+              "value": "E",
+              "text": "Some specialise in caring for species which are under threat."
+            }
+          ],
+          "explanation": "本题针对动物园员工进行提问\n\n题号：A\n\n选项翻译：一些人参与关于动物的电视纪录片。\n\n文中有涉及television documentaries，但是并未提及人们参与电视纪录片这一信息。\n\n题号：B\n\n选项翻译：一些人到国外加入动物园的工作团队。\n\nD段最后一句提到了该选项的信息。\n\n题号：C\n\n选项翻译：一些人在从事动物园的工作前已经对一些野生物种非常熟悉。\n\n文中没有提及这一信息\n\n题号：D\n\n选项翻译：一些人负责辅导参与保护工作的人。\n\nD段最后一句提到了该选项的信息。\n\n题号：E\n\n选项翻译：一些人在濒危动物的保育工作方面很专业。\n\n文中没有提及这一信息",
+          "setId": "Q6661_830076",
+          "blockId": "Q6661_830076"
+        }
+      ],
+      "contextHtml": "<p><strong><em>Questions 23 and 24</em></strong></p>\n\n<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><em>Choose <strong>TWO</strong> correct answers.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Some take part in television documentaries about animals."
+        },
+        {
+          "value": "B",
+          "text": "Some travel to overseas locations to join teams in zoos."
+        },
+        {
+          "value": "C",
+          "text": "Some get experience with species in the wild before taking up zoo jobs."
+        },
+        {
+          "value": "D",
+          "text": "Some teach people who are involved with conservation projects."
+        },
+        {
+          "value": "E",
+          "text": "Some specialise in caring for species which are under threat."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO of these beliefs about zoos does the writer mention in the text?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q6661_411475",
+          "options": [
+            {
+              "value": "A",
+              "text": "They can help children overcome their fears of wild animals."
+            },
+            {
+              "value": "B",
+              "text": "They can increase public awareness of environmental issues."
+            },
+            {
+              "value": "C",
+              "text": "They can provide employment for a range of professional people."
+            },
+            {
+              "value": "D",
+              "text": "They can generate income to support wildlife conservation projects."
+            },
+            {
+              "value": "E",
+              "text": "They can raise animals which can later be released into the wild."
+            }
+          ],
+          "explanation": "本题针对作者提到的有关动物园的说法进行提问\n\n题号：A\n\n选项翻译：它们有助于帮助儿童克服对野生动物的恐惧。\n\n文中没有提及这一信息。\n\n题号：B\n\n选项翻译：它们能够让公众更加了解环境问题。\n\n文中F段倒数第二句提到这一信息。\n\n题号：C\n\n选项翻译：它们能为很多专业人员提供就业机会。\n\n文中没有提及这一信息\n\n题号：D\n\n选项翻译：它们能够产生收入从而支持野生动物保护项目。\n\n文中没有提及这一信息\n\n题号：E\n\n选项翻译：它们可以收养以后要放归野外的动物。\n\n文中B段提及这一信息",
+          "setId": "Q6661_411475",
+          "blockId": "Q6661_411475"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO of these beliefs about zoos does the writer mention in the text?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q6661_411475",
+          "options": [
+            {
+              "value": "A",
+              "text": "They can help children overcome their fears of wild animals."
+            },
+            {
+              "value": "B",
+              "text": "They can increase public awareness of environmental issues."
+            },
+            {
+              "value": "C",
+              "text": "They can provide employment for a range of professional people."
+            },
+            {
+              "value": "D",
+              "text": "They can generate income to support wildlife conservation projects."
+            },
+            {
+              "value": "E",
+              "text": "They can raise animals which can later be released into the wild."
+            }
+          ],
+          "explanation": "本题针对作者提到的有关动物园的说法进行提问\n\n题号：A\n\n选项翻译：它们有助于帮助儿童克服对野生动物的恐惧。\n\n文中没有提及这一信息。\n\n题号：B\n\n选项翻译：它们能够让公众更加了解环境问题。\n\n文中F段倒数第二句提到这一信息。\n\n题号：C\n\n选项翻译：它们能为很多专业人员提供就业机会。\n\n文中没有提及这一信息\n\n题号：D\n\n选项翻译：它们能够产生收入从而支持野生动物保护项目。\n\n文中没有提及这一信息\n\n题号：E\n\n选项翻译：它们可以收养以后要放归野外的动物。\n\n文中B段提及这一信息",
+          "setId": "Q6661_411475",
+          "blockId": "Q6661_411475"
+        }
+      ],
+      "contextHtml": "<table>\n\t\n\t\t\n\t\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong><em>Questions 25 and 26</em></strong></p>\n\n\t\t\t<p><em>Choose <strong>TWO</strong> correct answers.</em></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "They can help children overcome their fears of wild animals."
+        },
+        {
+          "value": "B",
+          "text": "They can increase public awareness of environmental issues."
+        },
+        {
+          "value": "C",
+          "text": "They can provide employment for a range of professional people."
+        },
+        {
+          "value": "D",
+          "text": "They can generate income to support wildlife conservation projects."
+        },
+        {
+          "value": "E",
+          "text": "They can raise animals which can later be released into the wild."
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Why zoos are good</strong></span></p><p><em>Scientist David Hone makes the case for zoos</em></p><p><strong>A </strong>    In my view, it is perfectly possible for many species of animals living in zoos or wildlife parks to have a quality of life as high as, or higher than, in the wild. Animals in good zoos get a varied and high-quality diet with all the supplements required, and any illnesses they might have will be treated. Their movement might be somewhat restricted, but they have a safe environment in which to live, and they are spared bullying and social ostracism by others of their kind. They do not suffer from the threat or stress of predators, or the irritation and pain of parasites or injuries. The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation or in the jaws of a predator. A lot of very nasty things happen to truly &#x27;wild&#x27; animals that simply don&#x27;t happen in good zoos, and to view a life that is &#x27;free&#x27; as one that is automatically &#x27;good&#x27; is, I think, an error. Furthermore, zoos serve several key purposes.</p><p><strong>B</strong>     Firstly, zoos aid conservation. Colossal numbers of species are becoming extinct across the world, and many more are increasingly threatened and therefore risk extinction. Moreover, some of these collapses have been sudden, dramatic and unexpected, or were simply discovered very late in the day. A species protected in captivity can be bred up to provide a reservoir population against a population crash or extinction in the wild. A good number of species only exist in captivity, with many of these living in zoos. Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that have been boosted by captive bred animals. Without these efforts there would be fewer species alive today. Although reintroduction successes are few and far between, the numbers are increasing and the very fact that species have been saved or reintroduced as a result of captive breeding proves the value of such initiatives.</p><p><strong>C</strong>    Zoos also provide education. Many children and adults, especially those in cities, will never see a wild animal beyond a fox or pigeon. While it is true that television documentaries are becoming ever more detailed and impressive, and many natural history specimens are on display in museums, there really is nothing to compare with seeing a living creature in the flesh, hearing it, smelling it, watching what it does and having the time to absorb details. That alone will bring a greater understanding and perspective to many, and hopefully give them a greater appreciation for wildlife, conservation efforts and how they can contribute.</p><p><strong>D </strong>   In addition to this, there is also the education that can take place in zoos through signs, talks and presentations which directly communicate information to visitors about the animals they are seeing and their place in the world. This was an area where zoos used to be lacking, but they are now increasingly sophisticated in their communication and outreach work. Many zoos also work directly to educate conservation workers in other countries, or send their animal keepers abroad to contribute their knowledge and skills to those working in zoos and reserves, thereby helping to improve conditions and reintroductions all over the world.</p><p><strong>E </strong>    Zoos also play a key role in research. If we are to save wild species and restore and repair ecosystems，we need to know about how key species live, act and react. Being able to undertake research on animals in zoos where there is less risk and fewer variables means real changes can be effected on wild populations. Finding out about, for example, the oestrus cycle of an animal or its breeding rate helps us manage wild populations. Procedures such as capturing and moving at-risk or dangerous individuals are bolstered by knowledge gained in zoos about doses for anaesthetics, and by experience in handling and transporting animals. This can make a real difference to conservation efforts and to the reduction of human-animal conflicts, and can provide a knowledge base for helping with the increasing threats of habitat destruction and other problems.</p><p><strong>F </strong>    In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of numerous species. They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious. Without them, the world would be, and would increasingly become, a much poorer place.</p>"
+}

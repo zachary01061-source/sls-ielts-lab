@@ -1,0 +1,258 @@
+{
+  "id": "cambridge-7-test-1-reading-1",
+  "title": "Let's Go Bats",
+  "titleCn": "Let's Go Bats",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 7,
+    "test": 1
+  },
+  "sourceQuestionId": "7122",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7122",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Let's Go Bats"
+    },
+    {
+      "label": "2",
+      "text": "A Bats have a problem: how to find their way around in the dark. They hunt at night, and cannot use light to help them find prey and avoid obstacles. You might say that this is a problem of their own making, one that they could avoid simply by changing their habits and hunting by day. But the daytime economy is already heavily exploited by other creatures such as birds. Given that there is a living to be made at night, and given that alternative daytime trades are thoroughly occupied, natural selection has favoured bats that make a go of the night-hunting trade. It is probable that the nocturnal trades go way back in the ancestry of all mammals. In the time when the dinosaurs dominated the daytime economy, our mammalian ancestors probably only managed to survive at all because they found ways of scraping a living at night. Only after the mysterious mass extinction of the dinosaurs about 65 million years ago were our ancestors able to emerge into the daylight in any substantial numbers."
+    },
+    {
+      "label": "3",
+      "text": "B Bats have an engineering problem: how to find their way and find their prey in the absence of light. Bats are not the only creatures to face this difficulty today. Obviously the night-flying insects that they prey on must find their way about somehow. Deep-sea fish and whales have little or no light by day or by night. Fish and dolphins that live in extremely muddy water cannot see because, although there is light, it is obstructed and scattered by the dirt in the water. Plenty of other modern animals make their living in conditions where seeing is difficult or impossible."
+    },
+    {
+      "label": "4",
+      "text": "C Given the questions of how to manoeuvre in the dark, what solutions might an engineer consider? The first one that might occur to him is to manufacture light, to use a lantern or a searchlight. Fireflies and some fish (usually with the help of bacteria) have the power to manufacture their own light, but the process seems to consume a large amount of energy. Fireflies use their light for attracting mates. This doesn't require a prohibitive amount of energy: a male's tiny pinprick of light can be seen by a female from some distance on a dark night, since her eyes are exposed directly to the light source itself. However, using light to find one's own way around requires vastly more energy, since the eyes have to detect the tiny fraction of the light that bounces off each part of the scene. The light source must therefore be immensely brighter if it is to be used as a headlight to illuminate the path, than if it is to be used as a signal to others. In any event, whether or not the reason is the energy expense, it seems to be the case that, with the possible exception of some weird deep-sea fish, no animal apart from man uses manufactured light to find its way about."
+    },
+    {
+      "label": "5",
+      "text": "D What else might the engineer think of? Well, blind humans sometimes seem to have an uncanny sense of obstacles in their path. It has been given the name 'facial vision', because blind people have reported that it feels a bit like the sense of touch, on the face. One report tells of a totally blind boy who could ride his tricycle at good speed round the block near his home, using facial vision. Experiments showed that, in fact, facial vision is nothing to do with touch or the front of the face, although the sensation may be referred to the front of the face, like the referred pain in a phantom limb. The sensation of facial vision, it turns out, really goes in through the ears. Blind people, without even being aware of the fact, are actually using echoes of their own footsteps and of other sounds, to sense the presence of obstacles. Before this was discovered, engineers had already built instruments to exploit the principle, for example to measure the depth of the sea under a ship. After this technique had been invented, it was only a matter of time before weapons designers adapted it for the detection of submarines. Both sides in the Second world war relied heavily on these devices, under such codenames as Asdic (British) and Sonar (American), as well as Radar (American) or RDF (British), which uses radio echoes rather than sound echoes."
+    },
+    {
+      "label": "6",
+      "text": "E The Sonar and Radar pioneers didn't know it then, but all the world now knows that bats, or rather natural selection working on bats, had perfected the system tens of millions of years earlier, and their 'radar' achieves feats of detection and navigation that would strike an engineer dumb with admiration. It is technically incorrect to talk about bat 'radar', since they do not use radio waves. It is sonar. But the underlying mathematical theories of radar and sonar are very similar, and much of our scientific understanding of the details of what bats are doing has come from applying radar theory to them. The American zoologist Donald Griffin, who was largely responsible for the discovery of sonar in bats, coined the term 'echolocation' to cover both sonar and radar, whether used by animals or by human instruments."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 1-5\n\nReading Passage 1 has five paragraphs, A-E.\n\nWhich paragraph contains the following information?\n\nChoose the correct answer.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "examples of wildlife other than bats which do not rely on vision to navigate by",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7122_331310-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "how early mammals avoided dying out",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7122_331310-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "why bats hunt in the dark",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7122_331310-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "how a particular discovery has helped our understanding of bats",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q7122_331310-4"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "early military uses of echolocation",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q7122_331310-5"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 6-9\n\nComplete the summary below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Answer for gap 6.",
+          "answers": [
+            "phantom"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q7122_218348",
+          "explanation": "题号：6\n\n定位词：facial vision /pain/arm or leg\n\nD段…like the referred pain in a phantom limb\n\n通过填空题的小标题\"Facial Vision\",首先可以把此题迅速定位到文章D段,紧接着可以在D段的第六行寻找到定位关键词referred pain。单词底子较弱的考生可以在pain的后面找到冠词a,这样即使不知道arm和leg是limb的另一种表达，也能够填写正确答案phantom。\n\n题号：7\n\n定位词：perceiving/ears\n\nD段 The sensation of facial vision, it turns out, really goes in through the ears. Blind people, without even being aware of the fact, are actually using echoes of their own footsteps and of other sounds, to sense the presence of obstacles. 此题需要将两句话放在一起理解：面感视觉是通过耳朵传输的。尽管盲人并没有意识到这一点，但现实生活中他们的确在运用自己的步伐以及其他声音的回声来感觉路上障碍物的存在。Perceive一词在雅思学术类阅读考试当中多次出现，是“感知；感觉；察觉”的意思，相当于原文中的sense。\n\n综上分析得出答案echoes或obstacles。\n\n题号：8\n\n定位词：before/Instruments/calculated/\n\nSeabed D段…for example to measure the depth of the sea under a ship 此空比较简单。按照解题顺序，找到介词before,接着找到instruments,并很快找到题目中关键词calculated的同义词measure，然后就可以顺利找到正确答案depth。\n\n题号：9\n\n定位词：wartime/finding\n\nD段 After this technique hadbeen invented, it was only a matter of time before weapons designers adapted it for the detection of submarines.\n\n看到weapons designers可以联想到wartime, detection是探测的意思，与题目中的finding同义,由此可知答案是submarines。这里特别提醒考生,如果不变复数是不得分的。",
+          "promptHtml": "Answer for gap 6."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "Answer for gap 7.",
+          "answers": [
+            "echoes",
+            "obstacles"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q7122_510518",
+          "explanation": "题号：6\n\n定位词：facial vision /pain/arm or leg\n\nD段…like the referred pain in a phantom limb\n\n通过填空题的小标题\"Facial Vision\",首先可以把此题迅速定位到文章D段,紧接着可以在D段的第六行寻找到定位关键词referred pain。单词底子较弱的考生可以在pain的后面找到冠词a,这样即使不知道arm和leg是limb的另一种表达，也能够填写正确答案phantom。\n\n题号：7\n\n定位词：perceiving/ears\n\nD段 The sensation of facial vision, it turns out, really goes in through the ears. Blind people, without even being aware of the fact, are actually using echoes of their own footsteps and of other sounds, to sense the presence of obstacles. 此题需要将两句话放在一起理解：面感视觉是通过耳朵传输的。尽管盲人并没有意识到这一点，但现实生活中他们的确在运用自己的步伐以及其他声音的回声来感觉路上障碍物的存在。Perceive一词在雅思学术类阅读考试当中多次出现，是“感知；感觉；察觉”的意思，相当于原文中的sense。\n\n综上分析得出答案echoes或obstacles。\n\n题号：8\n\n定位词：before/Instruments/calculated/\n\nSeabed D段…for example to measure the depth of the sea under a ship 此空比较简单。按照解题顺序，找到介词before,接着找到instruments,并很快找到题目中关键词calculated的同义词measure，然后就可以顺利找到正确答案depth。\n\n题号：9\n\n定位词：wartime/finding\n\nD段 After this technique hadbeen invented, it was only a matter of time before weapons designers adapted it for the detection of submarines.\n\n看到weapons designers可以联想到wartime, detection是探测的意思，与题目中的finding同义,由此可知答案是submarines。这里特别提醒考生,如果不变复数是不得分的。",
+          "promptHtml": "Answer for gap 7."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Answer for gap 8.",
+          "answers": [
+            "depth"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q7122_113409",
+          "explanation": "题号：6\n\n定位词：facial vision /pain/arm or leg\n\nD段…like the referred pain in a phantom limb\n\n通过填空题的小标题\"Facial Vision\",首先可以把此题迅速定位到文章D段,紧接着可以在D段的第六行寻找到定位关键词referred pain。单词底子较弱的考生可以在pain的后面找到冠词a,这样即使不知道arm和leg是limb的另一种表达，也能够填写正确答案phantom。\n\n题号：7\n\n定位词：perceiving/ears\n\nD段 The sensation of facial vision, it turns out, really goes in through the ears. Blind people, without even being aware of the fact, are actually using echoes of their own footsteps and of other sounds, to sense the presence of obstacles. 此题需要将两句话放在一起理解：面感视觉是通过耳朵传输的。尽管盲人并没有意识到这一点，但现实生活中他们的确在运用自己的步伐以及其他声音的回声来感觉路上障碍物的存在。Perceive一词在雅思学术类阅读考试当中多次出现，是“感知；感觉；察觉”的意思，相当于原文中的sense。\n\n综上分析得出答案echoes或obstacles。\n\n题号：8\n\n定位词：before/Instruments/calculated/\n\nSeabed D段…for example to measure the depth of the sea under a ship 此空比较简单。按照解题顺序，找到介词before,接着找到instruments,并很快找到题目中关键词calculated的同义词measure，然后就可以顺利找到正确答案depth。\n\n题号：9\n\n定位词：wartime/finding\n\nD段 After this technique hadbeen invented, it was only a matter of time before weapons designers adapted it for the detection of submarines.\n\n看到weapons designers可以联想到wartime, detection是探测的意思，与题目中的finding同义,由此可知答案是submarines。这里特别提醒考生,如果不变复数是不得分的。",
+          "promptHtml": "Answer for gap 8."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Answer for gap 9.",
+          "answers": [
+            "submarines"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q7122_408686",
+          "explanation": "题号：6\n\n定位词：facial vision /pain/arm or leg\n\nD段…like the referred pain in a phantom limb\n\n通过填空题的小标题\"Facial Vision\",首先可以把此题迅速定位到文章D段,紧接着可以在D段的第六行寻找到定位关键词referred pain。单词底子较弱的考生可以在pain的后面找到冠词a,这样即使不知道arm和leg是limb的另一种表达，也能够填写正确答案phantom。\n\n题号：7\n\n定位词：perceiving/ears\n\nD段 The sensation of facial vision, it turns out, really goes in through the ears. Blind people, without even being aware of the fact, are actually using echoes of their own footsteps and of other sounds, to sense the presence of obstacles. 此题需要将两句话放在一起理解：面感视觉是通过耳朵传输的。尽管盲人并没有意识到这一点，但现实生活中他们的确在运用自己的步伐以及其他声音的回声来感觉路上障碍物的存在。Perceive一词在雅思学术类阅读考试当中多次出现，是“感知；感觉；察觉”的意思，相当于原文中的sense。\n\n综上分析得出答案echoes或obstacles。\n\n题号：8\n\n定位词：before/Instruments/calculated/\n\nSeabed D段…for example to measure the depth of the sea under a ship 此空比较简单。按照解题顺序，找到介词before,接着找到instruments,并很快找到题目中关键词calculated的同义词measure，然后就可以顺利找到正确答案depth。\n\n题号：9\n\n定位词：wartime/finding\n\nD段 After this technique hadbeen invented, it was only a matter of time before weapons designers adapted it for the detection of submarines.\n\n看到weapons designers可以联想到wartime, detection是探测的意思，与题目中的finding同义,由此可知答案是submarines。这里特别提醒考生,如果不变复数是不得分的。",
+          "promptHtml": "Answer for gap 9."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Facial Vision</strong></span></p>\n\n<p>Blind people report that so-called &#x27;facial vision&#x27; is comparable to the sensation of touch on the face. In fact, the sensation is more similar to the way in which pain from a <strong>[6] ______</strong>arm or leg might be felt. The ability actually comes from perceiving <strong>[7] ______</strong>through the ears. However, even before this was understood, the principle had been applied in the design of instruments which calculated the <strong>[8] ______</strong>of the seabed. This was followed by a wartime application in devices for finding <strong>[9] ______</strong>.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 10-13\n\nComplete the sentences below.\n\nWrite NO MORE THAN TWO WORDS from the text in each gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Long before the invention of radar, [10] ______had resulted in a sophisticated radar-like system in bats.",
+          "answers": [
+            "natural selection"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7122_864441",
+          "explanation": "题号：10\n\n题目：早在雷达发明之前，是什么在蝙蝠身上进化出了复杂的类雷达系统呢?\n\n定位词：radar /result in/ radar like/bats\n\nE段…or rather natural selection working on bats, had perfected the system tens of millions of years earlier...\n\nsophisticated 一词指“精密的;复杂的”。根据题意，考生需要寻找一个蝙蝠拥有精确定位本领的原因,原因连接词在这里并没有出现，但是perfect一词却可以告诉我们是自然选择使然。所以正确答案是natural selection。\n\n题号：11\n\n题目：说蝙蝠也使用雷达实际上是不正确的，因为在导航的时候它们根本没有使用______。\n\n定位词：not used\n\nE段 It is technically incorrect to talk about bat “radar”, since they do not use radio waves.\n\nnot used是关键词,题目中以被动语态的形式出现，文章中则变成主动语态，但因为核心动词use没有改变，所以此题很简单。正确答案是radio waves。\n\n题号：12\n\n题目:雷达和声呐是基于相似的_____。\n\n定位词：radar/sonar/similar\n\nE段 But the underlying mathematical theories of radar and sonar are very similar...\n\n先在E段后部找到radar和sonar两个关键词，接着找到similar，空里要填的名词应该就不远了。此处语序有所变动,但是仍然很容易找到答案mathematical theories。因为题于中要求最多用两个词填空，因此前面的underlying就不能填了。\n\n题号：13\n\n题目:第一次使用声呐一词的人的职业是______。\n\n定位词：echolocation/first/someone\n\nE段 The American zoologist Donald Griffin, who was largely responsible for the discovery of sonar in bats, coined the term“echolocation” to cover both sonar and radar, whether used by animals or by human instruments.\n\n这道题既简单又可爱,简直是来给考生送分的。只要知道coin一词有“发明;创造;杜撰”的意思,就能轻易联想到first used。而根据文章，这个词是由一个叫Donald Griffin的zoologist发明的，由此得出答案。",
+          "promptHtml": "Long before the invention of radar, [10] ______had resulted in a sophisticated radar-like system in bats."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Radar is an inaccurate term when referring to bats because [11] ______are not used in their navigation system.",
+          "answers": [
+            "radio waves",
+            "echoes"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7122_671803",
+          "explanation": "题号：10\n\n题目：早在雷达发明之前，是什么在蝙蝠身上进化出了复杂的类雷达系统呢?\n\n定位词：radar /result in/ radar like/bats\n\nE段…or rather natural selection working on bats, had perfected the system tens of millions of years earlier...\n\nsophisticated 一词指“精密的;复杂的”。根据题意，考生需要寻找一个蝙蝠拥有精确定位本领的原因,原因连接词在这里并没有出现，但是perfect一词却可以告诉我们是自然选择使然。所以正确答案是natural selection。\n\n题号：11\n\n题目：说蝙蝠也使用雷达实际上是不正确的，因为在导航的时候它们根本没有使用______。\n\n定位词：not used\n\nE段 It is technically incorrect to talk about bat “radar”, since they do not use radio waves.\n\nnot used是关键词,题目中以被动语态的形式出现，文章中则变成主动语态，但因为核心动词use没有改变，所以此题很简单。正确答案是radio waves。\n\n题号：12\n\n题目:雷达和声呐是基于相似的_____。\n\n定位词：radar/sonar/similar\n\nE段 But the underlying mathematical theories of radar and sonar are very similar...\n\n先在E段后部找到radar和sonar两个关键词，接着找到similar，空里要填的名词应该就不远了。此处语序有所变动,但是仍然很容易找到答案mathematical theories。因为题于中要求最多用两个词填空，因此前面的underlying就不能填了。\n\n题号：13\n\n题目:第一次使用声呐一词的人的职业是______。\n\n定位词：echolocation/first/someone\n\nE段 The American zoologist Donald Griffin, who was largely responsible for the discovery of sonar in bats, coined the term“echolocation” to cover both sonar and radar, whether used by animals or by human instruments.\n\n这道题既简单又可爱,简直是来给考生送分的。只要知道coin一词有“发明;创造;杜撰”的意思,就能轻易联想到first used。而根据文章，这个词是由一个叫Donald Griffin的zoologist发明的，由此得出答案。",
+          "promptHtml": "Radar is an inaccurate term when referring to bats because [11] ______are not used in their navigation system."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Radar and sonar are based on similar [12] ______.",
+          "answers": [
+            "mathematical theories"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7122_207894",
+          "explanation": "题号：10\n\n题目：早在雷达发明之前，是什么在蝙蝠身上进化出了复杂的类雷达系统呢?\n\n定位词：radar /result in/ radar like/bats\n\nE段…or rather natural selection working on bats, had perfected the system tens of millions of years earlier...\n\nsophisticated 一词指“精密的;复杂的”。根据题意，考生需要寻找一个蝙蝠拥有精确定位本领的原因,原因连接词在这里并没有出现，但是perfect一词却可以告诉我们是自然选择使然。所以正确答案是natural selection。\n\n题号：11\n\n题目：说蝙蝠也使用雷达实际上是不正确的，因为在导航的时候它们根本没有使用______。\n\n定位词：not used\n\nE段 It is technically incorrect to talk about bat “radar”, since they do not use radio waves.\n\nnot used是关键词,题目中以被动语态的形式出现，文章中则变成主动语态，但因为核心动词use没有改变，所以此题很简单。正确答案是radio waves。\n\n题号：12\n\n题目:雷达和声呐是基于相似的_____。\n\n定位词：radar/sonar/similar\n\nE段 But the underlying mathematical theories of radar and sonar are very similar...\n\n先在E段后部找到radar和sonar两个关键词，接着找到similar，空里要填的名词应该就不远了。此处语序有所变动,但是仍然很容易找到答案mathematical theories。因为题于中要求最多用两个词填空，因此前面的underlying就不能填了。\n\n题号：13\n\n题目:第一次使用声呐一词的人的职业是______。\n\n定位词：echolocation/first/someone\n\nE段 The American zoologist Donald Griffin, who was largely responsible for the discovery of sonar in bats, coined the term“echolocation” to cover both sonar and radar, whether used by animals or by human instruments.\n\n这道题既简单又可爱,简直是来给考生送分的。只要知道coin一词有“发明;创造;杜撰”的意思,就能轻易联想到first used。而根据文章，这个词是由一个叫Donald Griffin的zoologist发明的，由此得出答案。",
+          "promptHtml": "Radar and sonar are based on similar [12] ______."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "The word 'echolocation' was first used by someone working as a [13] ______.",
+          "answers": [
+            "zoologist"
+          ],
+          "maxWords": 2,
+          "sourceCode": "Q7122_956111",
+          "explanation": "题号：10\n\n题目：早在雷达发明之前，是什么在蝙蝠身上进化出了复杂的类雷达系统呢?\n\n定位词：radar /result in/ radar like/bats\n\nE段…or rather natural selection working on bats, had perfected the system tens of millions of years earlier...\n\nsophisticated 一词指“精密的;复杂的”。根据题意，考生需要寻找一个蝙蝠拥有精确定位本领的原因,原因连接词在这里并没有出现，但是perfect一词却可以告诉我们是自然选择使然。所以正确答案是natural selection。\n\n题号：11\n\n题目：说蝙蝠也使用雷达实际上是不正确的，因为在导航的时候它们根本没有使用______。\n\n定位词：not used\n\nE段 It is technically incorrect to talk about bat “radar”, since they do not use radio waves.\n\nnot used是关键词,题目中以被动语态的形式出现，文章中则变成主动语态，但因为核心动词use没有改变，所以此题很简单。正确答案是radio waves。\n\n题号：12\n\n题目:雷达和声呐是基于相似的_____。\n\n定位词：radar/sonar/similar\n\nE段 But the underlying mathematical theories of radar and sonar are very similar...\n\n先在E段后部找到radar和sonar两个关键词，接着找到similar，空里要填的名词应该就不远了。此处语序有所变动,但是仍然很容易找到答案mathematical theories。因为题于中要求最多用两个词填空，因此前面的underlying就不能填了。\n\n题号：13\n\n题目:第一次使用声呐一词的人的职业是______。\n\n定位词：echolocation/first/someone\n\nE段 The American zoologist Donald Griffin, who was largely responsible for the discovery of sonar in bats, coined the term“echolocation” to cover both sonar and radar, whether used by animals or by human instruments.\n\n这道题既简单又可爱,简直是来给考生送分的。只要知道coin一词有“发明;创造;杜撰”的意思,就能轻易联想到first used。而根据文章，这个词是由一个叫Donald Griffin的zoologist发明的，由此得出答案。",
+          "promptHtml": "The word &#x27;echolocation&#x27; was first used by someone working as a [13] ______."
+        }
+      ],
+      "sourceType": "sentence_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Long before the invention of radar, <strong>[10] ______</strong>had resulted in a sophisticated radar-like system in bats.</p>\n\n<p>Radar is an inaccurate term when referring to bats because <strong>[11] ______</strong>are not used in their navigation system.</p>\n\n<p>Radar and sonar are based on similar <strong>[12] ______</strong>.</p>\n\n<p>The word &#x27;echolocation&#x27; was first used by someone working as a <strong>[13] ______</strong>.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Let&#x27;s Go Bats</span></strong></p><p><img src=\"/api/guest/cambridge/media/images/f8fe000f9f99543b540cc90971a9caed.png\" alt=\"原题配图\"></p><p><strong>A</strong>    Bats have a problem: how to find their way around in the dark. They hunt at night, and cannot use light to help them find prey and avoid obstacles. You might say that this is a problem of their own making, one that they could avoid simply by changing their habits and hunting by day. But the daytime economy is already heavily exploited by other creatures such as birds. Given that there is a living to be made at night, and given that alternative daytime trades are thoroughly occupied, natural selection has favoured bats that make a go of the night-hunting trade. It is probable that the nocturnal trades go way back in the ancestry of all mammals. In the time when the dinosaurs dominated the daytime economy, our mammalian ancestors probably only managed to survive at all because they found ways of scraping a living at night. Only after the mysterious mass extinction of the dinosaurs about 65 million years ago were our ancestors able to emerge into the daylight in any substantial numbers.</p><p><strong>B </strong>   Bats have an engineering problem: how to find their way and find their prey in the absence of light. Bats are not the only creatures to face this difficulty today. Obviously the night-flying insects that they prey on must find their way about somehow. Deep-sea fish and whales have little or no light by day or by night. Fish and dolphins that live in extremely muddy water cannot see because, although there is light, it is obstructed and scattered by the dirt in the water. Plenty of other modern animals make their living in conditions where seeing is difficult or impossible. </p><p><strong>C </strong>   Given the questions of how to manoeuvre in the dark, what solutions might an engineer consider? The first one that might occur to him is to manufacture light, to use a lantern or a searchlight. Fireflies and some fish (usually with the help of bacteria) have the power to manufacture their own light, but the process seems to consume a large amount of energy. Fireflies use their light for attracting mates. This doesn&#x27;t require a prohibitive amount of energy: a male&#x27;s tiny pinprick of light can be seen by a female from some distance on a dark night, since her eyes are exposed directly to the light source itself. However, using light to find one&#x27;s own way around requires vastly more energy, since the eyes have to detect the tiny fraction of the light that bounces off each part of the scene. The light source must therefore be immensely brighter if it is to be used as a headlight to illuminate the path, than if it is to be used as a signal to others. In any event, whether or not the reason is the energy expense, it seems to be the case that, with the possible exception of some weird deep-sea fish, no animal apart from man uses manufactured light to find its way about.</p><p><strong>D</strong>    What else might the engineer think of? Well, blind humans sometimes seem to have an uncanny sense of obstacles in their path. It has been given the name &#x27;facial vision&#x27;, because blind people have reported that it feels a bit like the sense of touch, on the face. One report tells of a totally blind boy who could ride his tricycle at good speed round the block near his home, using facial vision. Experiments showed that, in fact, facial vision is nothing to do with touch or the front of the face, although the sensation may be referred to the front of the face, like the referred pain in a phantom limb. The sensation of facial vision, it turns out, really goes in through the ears. Blind people, without even being aware of the fact, are actually using echoes of their own footsteps and of other sounds, to sense the presence of obstacles. Before this was discovered, engineers had already built instruments to exploit the principle, for example to measure the depth of the sea under a ship. After this technique had been invented, it was only a matter of time before weapons designers adapted it for the detection of submarines. Both sides in the Second world war relied heavily on these devices, under such codenames as Asdic (British) and Sonar (American), as well as Radar (American) or RDF (British), which uses radio echoes rather than sound echoes.</p><p><strong>E </strong>   The Sonar and Radar pioneers didn&#x27;t know it then, but all the world now knows that bats, or rather natural selection working on bats, had perfected the system tens of millions of years earlier, and their &#x27;radar&#x27; achieves feats of detection and navigation that would strike an engineer dumb with admiration. It is technically incorrect to talk about bat &#x27;radar&#x27;, since they do not use radio waves. It is sonar. But the underlying mathematical theories of radar and sonar are very similar, and much of our scientific understanding of the details of what bats are doing has come from applying radar theory to them. The American zoologist Donald Griffin, who was largely responsible for the discovery of sonar in bats, coined the term &#x27;echolocation&#x27; to cover both sonar and radar, whether used by animals or by human instruments.</p>"
+}

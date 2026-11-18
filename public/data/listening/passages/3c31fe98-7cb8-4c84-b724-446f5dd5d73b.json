@@ -1,0 +1,303 @@
+{
+  "id": "3c31fe98-7cb8-4c84-b724-446f5dd5d73b",
+  "title": "The Nazca lines",
+  "titleCn": "纳斯卡线条：秘鲁沙漠巨画的未解之谜",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/3c31fe98-7cb8-4c84-b724-446f5dd5d73b",
+  "duration": 418,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,440"
+    },
+    {
+      "label": "2",
+      "text": "Today, I'd like to talk about one of the world's most fascinating archaeological mysteries, the Nazca Lines in Peru. These enormous designs carved into the desert ground have puzzled scientists and visitors alike for decades. Let's take a closer look at their location and construction, then move on to their purpose and theories, and finally explore recent discoveries and threats to their preservation. When we talk about where these lines were made, they actually lie deep in a remote desert area in southern Peru. The climate there is extremely dry and hot, which helped the drawings survive for thousands of years. So instead of being in a forest or valley, they're spread across this vast sandy landscape. Archaeologists discovered that the ancient builders didn't have any advanced machines. They relied on very basic tools to create these enormous figures. Things like wooden stakes and ropes were enough for them to mark out straight paths over the ground. It's fascinating how such primitive equipment could lead to such precise designs. To make the drawings as accurate as possible, the Nazca people carefully set up wooden pegs across the land. They then pulled long ropes tight between those posts to mark out perfectly straight paths over the desert surface. It's amazing that such simple techniques could produce geometric patterns visible even from the sky. Instead of using metal wires or modern measuring tapes, they mainly relied on ropes made from cotton fibers. These natural materials allowed them to take exact measurements without the rope breaking or stretching too much. The consistency of these ropes was the secret behind the symmetry of many Nazca figures. The surface of the land was originally covered with dark stones that had been burnt by the sun. The artists cleared those rocks away to expose the lighter-colored soil hidden below. This color contrast made the lines stand out sharply, creating shapes that could be seen clearly from above. Now, moving on to their possible meanings and functions. Many of the giant animal drawings, like the hummingbird or the monkey, weren't just decorative art. Local people believed these creatures had spiritual powers connected with healing and traditional medicine. During ancient ceremonies, they probably used these animal shapes as sacred spaces for prayer or offerings to cure illness and protect their community. However, not all experts agree with that spiritual explanation. One leading theory suggests that the lines had a practical use rather than a religious one. Some researchers think they were part of an irrigation system, basically channels designed to stop floodwaters from ruining nearby crops. The layout of these lines seems to follow the paths of underground water, suggesting they serve to control heavy rain or runoff. Another reason the Nazca Lines are still visible today is the area's unique environment. Because the region barely receives any rain, the designs have remained visible for centuries. The heat and dryness help to preserve the dark outer coating caused by dead insects and oxidized stones. Without that extreme arid environment, the drawings would probably have faded or disappeared long ago. Let's finish with what's been happening more recently. In recent years, researchers have started using drones to scan the vast desert surface from above. Thanks to this modern technology, they've identified several new designs, one of which is a remarkable portrait that appears to show a human face. It's quite surprising because most of the older patterns were animals or geometric forms, not people. Unfortunately, this ancient site has begun to suffer from modern human activity. With more visitors arriving each year, the area is becoming damaged by the heavy footprint of tourism. Even though local authorities are trying to limit access, vehicles and careless visitors still pose a serious risk to the preservation of the lines."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "44410413-ac5e-4b87-aa89-401ddfd24e99",
+          "prompt": "**Location and Construction**\n·Located in the Peruvian **31**_____ .",
+          "answers": [
+            "desert"
+          ],
+          "rawAnswer": "desert",
+          "evidence": {
+            "paragraph": "",
+            "quote": "they actually lie deep in a remote desert area in southern Peru"
+          },
+          "keywordPairs": [
+            {
+              "question": "located",
+              "article": "lie"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "b2afb311-e6b0-4da8-a8cf-45cf49e85036",
+          "prompt": "·Used simple **32**_____ (e.g. rope) for construction.",
+          "answers": [
+            "tools"
+          ],
+          "rawAnswer": "tools",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They relied on very basic tools to create these enormous figures"
+          },
+          "keywordPairs": [
+            {
+              "question": "simple",
+              "article": "basic"
+            },
+            {
+              "question": "used",
+              "article": "relied on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "911c2e35-f64b-48db-ba9b-59cb654c9b9e",
+          "prompt": "·Created **33**_____ lines by stretching ropes between posts.",
+          "answers": [
+            "straight"
+          ],
+          "rawAnswer": "straight",
+          "evidence": {
+            "paragraph": "",
+            "quote": "pulled long ropes tight between those posts to mark out perfectly straight paths over the desert surface"
+          },
+          "keywordPairs": [
+            {
+              "question": "lines",
+              "article": "paths"
+            },
+            {
+              "question": "created",
+              "article": "mark out"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "0f98019f-3e09-4754-89be-6408587ae1dd",
+          "prompt": "·**34**_____ cotton ropes were employed for precise measurement.",
+          "answers": [
+            "natural"
+          ],
+          "rawAnswer": "natural",
+          "evidence": {
+            "paragraph": "",
+            "quote": "ropes made from cotton fibers. These natural materials allowed them to take exact measurements"
+          },
+          "keywordPairs": [
+            {
+              "question": "precise",
+              "article": "exact"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "ce3e1651-85fc-4012-84ea-4ce729794263",
+          "prompt": "·Formed by removing dark rocks to reveal light **35**_____ underneath.",
+          "answers": [
+            "soil"
+          ],
+          "rawAnswer": "soil",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The artists cleared those rocks away to expose the lighter-colored soil hidden below"
+          },
+          "keywordPairs": [
+            {
+              "question": "underneath",
+              "article": "below"
+            },
+            {
+              "question": "reveal",
+              "article": "expose"
+            },
+            {
+              "question": "removing",
+              "article": "cleared"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "342a750b-5cff-4961-aefd-1cf5943d2e69",
+          "prompt": "**Purpose and Theories**\n·Animal figures (e.g. monkeys, birds) linked to **36**_____ in local rituals.",
+          "answers": [
+            "medicine"
+          ],
+          "rawAnswer": "medicine",
+          "evidence": {
+            "paragraph": "",
+            "quote": "these creatures had spiritual powers connected with healing and traditional medicine"
+          },
+          "keywordPairs": [
+            {
+              "question": "linked to",
+              "article": "connected with"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "e283059b-0b9a-4c0f-8dbe-3f9bbba4971a",
+          "prompt": "·Dominant theory: channels around water sources to prevent **37**_____ damage.",
+          "answers": [
+            "crops"
+          ],
+          "rawAnswer": "crops",
+          "evidence": {
+            "paragraph": "",
+            "quote": "channels designed to stop floodwaters from ruining nearby crops"
+          },
+          "keywordPairs": [
+            {
+              "question": "prevent",
+              "article": "stop"
+            },
+            {
+              "question": "damage",
+              "article": "ruining"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "9b0d5d7b-50b1-43d7-84c2-6542b269e7fb",
+          "prompt": "**Recent Discoveries and Threats**\n·New figures discovered using drone technology, including a rare **38**_____ of a human face.",
+          "answers": [
+            "coating"
+          ],
+          "rawAnswer": "coating",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The heat and dryness help to preserve the dark outer coating caused by dead insects and oxidized stones"
+          },
+          "keywordPairs": [
+            {
+              "question": "black",
+              "article": "dark"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "d81ee763-927f-4505-bff0-b128cc9ea9fe",
+          "prompt": "**Recent Discoveries and Threats**\n·New figures discovered using drone technology, including a rare **39**_____ of a human face.",
+          "answers": [
+            "portrait"
+          ],
+          "rawAnswer": "portrait",
+          "evidence": {
+            "paragraph": "",
+            "quote": "they've identified several new designs, one of which is a remarkable portrait that appears to show a human face"
+          },
+          "keywordPairs": [
+            {
+              "question": "rare",
+              "article": "remarkable"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "c38a05a2-62b4-4b1e-9d67-fe6a76639d52",
+          "prompt": "·Current threat - increasingly affected by **40**_____ .",
+          "answers": [
+            "tourism"
+          ],
+          "rawAnswer": "tourism",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the area is becoming damaged by the heavy footprint of tourism"
+          },
+          "keywordPairs": [
+            {
+              "question": "increasingly",
+              "article": "becoming"
+            },
+            {
+              "question": "threat",
+              "article": "pose a serious risk"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,440</p><p>Today, I'd like to talk about one of the world's most fascinating archaeological mysteries, the Nazca Lines in Peru. These enormous designs carved into the desert ground have puzzled scientists and visitors alike for decades. Let's take a closer look at their location and construction, then move on to their purpose and theories, and finally explore recent discoveries and threats to their preservation. When we talk about where these lines were made, they actually lie deep in a remote desert area in southern Peru. The climate there is extremely dry and hot, which helped the drawings survive for thousands of years. So instead of being in a forest or valley, they're spread across this vast sandy landscape. Archaeologists discovered that the ancient builders didn't have any advanced machines. They relied on very basic tools to create these enormous figures. Things like wooden stakes and ropes were enough for them to mark out straight paths over the ground. It's fascinating how such primitive equipment could lead to such precise designs. To make the drawings as accurate as possible, the Nazca people carefully set up wooden pegs across the land. They then pulled long ropes tight between those posts to mark out perfectly straight paths over the desert surface. It's amazing that such simple techniques could produce geometric patterns visible even from the sky. Instead of using metal wires or modern measuring tapes, they mainly relied on ropes made from cotton fibers. These natural materials allowed them to take exact measurements without the rope breaking or stretching too much. The consistency of these ropes was the secret behind the symmetry of many Nazca figures. The surface of the land was originally covered with dark stones that had been burnt by the sun. The artists cleared those rocks away to expose the lighter-colored soil hidden below. This color contrast made the lines stand out sharply, creating shapes that could be seen clearly from above. Now, moving on to their possible meanings and functions. Many of the giant animal drawings, like the hummingbird or the monkey, weren't just decorative art. Local people believed these creatures had spiritual powers connected with healing and traditional medicine. During ancient ceremonies, they probably used these animal shapes as sacred spaces for prayer or offerings to cure illness and protect their community. However, not all experts agree with that spiritual explanation. One leading theory suggests that the lines had a practical use rather than a religious one. Some researchers think they were part of an irrigation system, basically channels designed to stop floodwaters from ruining nearby crops. The layout of these lines seems to follow the paths of underground water, suggesting they serve to control heavy rain or runoff. Another reason the Nazca Lines are still visible today is the area's unique environment. Because the region barely receives any rain, the designs have remained visible for centuries. The heat and dryness help to preserve the dark outer coating caused by dead insects and oxidized stones. Without that extreme arid environment, the drawings would probably have faded or disappeared long ago. Let's finish with what's been happening more recently. In recent years, researchers have started using drones to scan the vast desert surface from above. Thanks to this modern technology, they've identified several new designs, one of which is a remarkable portrait that appears to show a human face. It's quite surprising because most of the older patterns were animals or geometric forms, not people. Unfortunately, this ancient site has begun to suffer from modern human activity. With more visitors arriving each year, the area is becoming damaged by the heavy footprint of tourism. Even though local authorities are trying to limit access, vehicles and careless visitors still pose a serious risk to the preservation of the lines.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/3c31fe98-7cb8-4c84-b724-446f5dd5d73b.mp3",
+    "durationSeconds": 297.795918,
+    "sizeBytes": 4765298,
+    "sha256": "28df9c14fd01d870be01d6d43c8ba0b7e8bb1a78b607761083b1c1f035be032f",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:33:16Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1778078281025_8glmi8_2158065c.mp3"
+}

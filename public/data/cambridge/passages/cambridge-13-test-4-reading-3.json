@@ -1,0 +1,342 @@
+{
+  "id": "cambridge-13-test-4-reading-3",
+  "title": "Book Review",
+  "titleCn": "Book Review",
+  "subject": "reading",
+  "part": 3,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 13,
+    "test": 4
+  },
+  "sourceQuestionId": "6718",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6718",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Book Review"
+    },
+    {
+      "label": "2",
+      "text": "The Happiness Industry: How the Government and Big Business"
+    },
+    {
+      "label": "3",
+      "text": "Sold Us Well-Being"
+    },
+    {
+      "label": "4",
+      "text": "By William Davies"
+    },
+    {
+      "label": "5",
+      "text": "'Happiness is the ultimate goal because it is self-evidently good. If we are asked why happiness matters we can give no further external reason. It just obviously does matter.' This pronouncement by Richard Layard, an economist and advocate of 'positive psychology', summarises the beliefs of many people today. For Layard and others like him, it is obvious that the purpose of government is to promote a state of collective well-being. The only question is how to achieve it, and here positive psychology - a supposed science that not only identifies what makes people happy but also allows their happiness to be measured - can show the way. Equipped with this science, they say, governments can secure happiness in society in a way they never could in the past."
+    },
+    {
+      "label": "6",
+      "text": "It is an astonishingly crude and simple-minded way of thinking, and for that very reason increasingly popular. Those who think in this way are oblivious to the vast philosophical literature in which the meaning and value of happiness have been explored and questioned, and write as if nothing of any importance had been thought on the subject until it came to their attention. It was the philosopher Jeremy Bentham (1748—1832) who was more than anyone else responsible for the development of this way of thinking. For Bentham it was obvious that the human good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all this was mere metaphysics or fiction. Without knowing anything much of him or the school of moral theory he established - since they are by education and intellectual conviction illiterate in the history of ideas - our advocates of positive psychology follow in his tracks in rejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human happiness to date."
+    },
+    {
+      "label": "7",
+      "text": "But as William Davies notes in his recent book The Happiness Industry, the view that happiness is the only self-evident good is actually a way of limiting moral inquiry. One of the virtues of this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined historical framework. Rightly, Davies begins his story with Bentham, noting that he was far more than a philosopher. Davies writes, 'Bentham's activities were those which we might now associate with a public sector management consultant'. In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of 'conversation tubes,and to the Bank of England with a design for a printing device that could produce unforgeable banknotes. He drew up plans for a 'frigidarium' to keep provisions such as meat, fish, fruit and vegetables fresh. His celebrated design for a prison to be known as a 'Panopticon'. in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted. (Surprisingly, Davies does not discuss the fact that Bentham meant his Panopticon not just as a model prison but also as an instrument of control that could be applied to schools and factories.)"
+    },
+    {
+      "label": "8",
+      "text": "Bentham was also a pioneer of the 'science of happiness'. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done. Viewing happiness as a complex of pleasurable sensations, he suggested that it might be quantified by measuring the human pulse rate. Alternatively, money could be used as the standard for quantification: if two different goods have the same price, it can be claimed that they produce the same quantity of pleasure in the consumer. Bentham was more attracted by the latter measure. By associating money so closely to inner experience, Davies writes, Bentham 'set the stage for the entangling of psychological research and capitalism that would shape the business practices of the twentieth century'."
+    },
+    {
+      "label": "9",
+      "text": "The Happiness Industry describes how the project of a science of happiness has become integral to capitalism. We learn much that is interesting about how economic problems are being redefined and treated as psychological maladies. In addition, Davies shows how the belief that inner states of pleasure and displeasure can be objectively measured has informed management studies and advertising. The tendency of thinkers such as J B Watson, the founder of behaviourism*, was that human beings could be shaped, or manipulated, by policymakers and managers. Watson had no factual basis for his view of human action. When he became president of the American Psychological Association in 1915, he 'had never even studied a single human being': his research had been confined to experiments on white rats. Yet Watson's reductive model is now widely applied, with 'behaviour change' becoming the goal of governments: in Britain, a 'Behaviour Insights Team' has been established by the government to study how people can be encouraged, at minimum cost to the public purse, to live in what are considered to be socially desirable ways."
+    },
+    {
+      "label": "10",
+      "text": "Modern industrial societies appear to need the possibility of ever-increasing happiness to motivate them in their labours. But whatever its intellectual pedigree, the idea that governments should be responsible for promoting happiness is always a threat to human freedom."
+    },
+    {
+      "label": "11",
+      "text": "*'Behaviourism': a branch of psychology which is concerned with observable behaviour"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 27-29\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 27,
+          "sourceNumber": "27",
+          "prompt": "What is the reviewer's attitude to advocates of positive psychology?",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q6718_861801",
+          "options": [
+            {
+              "value": "A",
+              "text": "They are wrong to reject the ideas of Bentham."
+            },
+            {
+              "value": "B",
+              "text": "They are over-influenced by their study of Bentham's theories."
+            },
+            {
+              "value": "C",
+              "text": "They have a fresh new approach to ideas on human happiness."
+            },
+            {
+              "value": "D",
+              "text": "They are ignorant about the ideas they should be considering."
+            }
+          ],
+          "explanation": "题目：评论者对积极心理学倡导者的态度是什么？\n\n定位词：the reviewer's attitude, advocates of positive psychology\n\n1.他们拒绝Bentham的观点是错误的。\n\n2.他们受到对Bentham理论研究的过度影响。\n\n3.他们对于人类幸福的观点有全新的方法。\n\n4.他们对自己应当考虑的观点一无所知。\n\n分析：本题考查评论者对积极心理学倡导者的态度，原文第一段首先引出积极心理学及其主要观点，第二段开头开始进行评论性质的描述： an astonishingly crude and simple-minded way of thinking，之后进行了进一步解释: oblivious to the vast philosophical literature ... write as if nothing of any importance had been thought on the subject until it came to their attention，可以看出评论者对积极心理学的倡导者们忽略之前人们的讨论和研究的做法是不满意的，而在后文中也能找到类似的表述：without knowing anything much of him or the school of moral theory he established，D选项的含义与之一致，因此本题答案为D。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 28,
+          "sourceNumber": "28",
+          "prompt": "The reviewer refers to the Greek philosopher Aristotle in order to suggest that happiness",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6718_875663",
+          "options": [
+            {
+              "value": "A",
+              "text": "may not be just pleasure and the absence of pain."
+            },
+            {
+              "value": "B",
+              "text": "should not be the main goal of humans."
+            },
+            {
+              "value": "C",
+              "text": "is not something that should be fought for."
+            },
+            {
+              "value": "D",
+              "text": "is not just an abstract concept."
+            }
+          ],
+          "explanation": "题目：评论者提到希腊哲学家亚里士多德是为了说明幸福_______\n\n定位词：Aristotle\n\n1.或许不只是愉悦和无痛苦。\n\n2.不应当成为人类的主要目标。\n\n3.不是应当追求的东西。\n\n4.不只是一个抽象概念。\n\n分析：文中第二段提到Bentham的观点：For Bentham it was obvious that the human good consists of pleasure and the absence of pain，之后提到亚里士多德： may have identified happiness with self-realisation in the 4th century BC，并指出这一时代的思想家们似乎在努力处理好对幸福的追求与其他人类价值之间的关系，而这些对Bentham而言只是形而上的或虚构的东西，可见亚里土多德对幸福的定义和思考与Bentham不同，选项中A的表达与此一致，因此本题答案为A。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 29,
+          "sourceNumber": "29",
+          "prompt": "According to Davies, Bentham's suggestion for linking the price of goods to happiness was significant because",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6718_702504",
+          "options": [
+            {
+              "value": "A",
+              "text": "it was the first successful way of assessing happiness."
+            },
+            {
+              "value": "B",
+              "text": "it established a connection between work and psychology."
+            },
+            {
+              "value": "C",
+              "text": "it was the first successful example of psychological research."
+            },
+            {
+              "value": "D",
+              "text": "it involved consideration of the rights of consumers."
+            }
+          ],
+          "explanation": "题目：对Davies而言，Bentham将商品价格与幸福紧密联系的观点很重要是因为_______\n\n定位词: linking the price of goods to happiness\n\n1.这是评估幸福的第一种成功方式。\n\n2.这建立了工作和心理学间的联系。\n\n3.这是心理学研究的第一个成功案例。\n\n4.这考虑到了消费者的权利。\n\n分析：文章第四段中提到了将商品价格与幸福进行联系的观点：money could be used as the standard for quantification，之后Davies对Bentham这一主张的评价是：set the stage for the entangling of psychological research and capitalism ... ，而B选项it established a connection between work and psychology与这一观点一致，因此本题答案为B。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "instruction": "Questions 30-34\n\nComplete the summary using the list of words A-G below.\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 4,
+          "sourceSlot": 30,
+          "sourceNumber": "30",
+          "prompt": "Answer for gap 30.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6718_327768",
+          "explanation": "题号：30\n\n定位词：1790s, government\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of ' conversation tubes ', and to the Bank of England with a design for a printing device that could produce unforgeable banknotes.\n\n题目中首句说到Bentham在哲学之外的领域也非常活跃，这一表达在原文中第三段出现，并具体讨论了Bentham提出的建议。题目问到在1790s，为不同政府部门建议的type of technology对应本段第五句，这里提到的a set of ' conversation tubes ' 是为了促进不同部门间的交流，本题答案为F。\n\n题号：31\n\n定位词：Printing banknotes\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that ... with a design for a printing device that could produce unforgeable banknotes.\n\n题目中说到He developed a new way of printing banknotes，这一表达同样出现在第三段第五句，原文中说到a design for a printing devices that could produce unforgeable banknotes，可见这一做法的目的是为了让纸币无法被伪造，从而提高其安全性，选项中security与原文含义一致，本题答案为B。\n\n题号：32\n\n定位词：food\n\n第三段第六句：He drew up plans for a ' frigidarium ' to keep provisions such as meat, fish, fruit and vegetables fresh.\n\n本题问到关于food方面的做法，原文中第三段第六句中提到了provisions such as meat, fish, fruit and vegetables，这部分与food含义一致，而Bentham希望让它们keep fresh，选项中的preservation与原文含义一致，本题答案为G。\n\n题号：33\n\n定位词：prison\n\n第三段第七句：His celebrated design for a prison to be known as a ' Panopticon ' , in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted.\n\n本题问到与prison有关的内容，原文中第三段第七句说到prisoners would be kept in solitary confinement while being visible at all times to the guards，也就是说守卫可以随时看到犯人的情况，因此这与对犯人的observation有关，本题答案为E。\n\n题号：34\n\n定位词：Researching happiness, suggested some methods\n\n第四段第一、二句：Bentham was also a pioneer of the ' science of happiness '. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done.\n\n文中第四段开头说到幸福作为一门科学，需要能够被测量，Bentham提出了两种不同的方法，这与题目中的表达一致，Bentham关注的是对幸福的measurement，本题答案为A。",
+          "promptHtml": "Answer for gap 30."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 31,
+          "sourceNumber": "31",
+          "prompt": "Answer for gap 31.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6718_800832",
+          "explanation": "题号：30\n\n定位词：1790s, government\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of ' conversation tubes ', and to the Bank of England with a design for a printing device that could produce unforgeable banknotes.\n\n题目中首句说到Bentham在哲学之外的领域也非常活跃，这一表达在原文中第三段出现，并具体讨论了Bentham提出的建议。题目问到在1790s，为不同政府部门建议的type of technology对应本段第五句，这里提到的a set of ' conversation tubes ' 是为了促进不同部门间的交流，本题答案为F。\n\n题号：31\n\n定位词：Printing banknotes\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that ... with a design for a printing device that could produce unforgeable banknotes.\n\n题目中说到He developed a new way of printing banknotes，这一表达同样出现在第三段第五句，原文中说到a design for a printing devices that could produce unforgeable banknotes，可见这一做法的目的是为了让纸币无法被伪造，从而提高其安全性，选项中security与原文含义一致，本题答案为B。\n\n题号：32\n\n定位词：food\n\n第三段第六句：He drew up plans for a ' frigidarium ' to keep provisions such as meat, fish, fruit and vegetables fresh.\n\n本题问到关于food方面的做法，原文中第三段第六句中提到了provisions such as meat, fish, fruit and vegetables，这部分与food含义一致，而Bentham希望让它们keep fresh，选项中的preservation与原文含义一致，本题答案为G。\n\n题号：33\n\n定位词：prison\n\n第三段第七句：His celebrated design for a prison to be known as a ' Panopticon ' , in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted.\n\n本题问到与prison有关的内容，原文中第三段第七句说到prisoners would be kept in solitary confinement while being visible at all times to the guards，也就是说守卫可以随时看到犯人的情况，因此这与对犯人的observation有关，本题答案为E。\n\n题号：34\n\n定位词：Researching happiness, suggested some methods\n\n第四段第一、二句：Bentham was also a pioneer of the ' science of happiness '. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done.\n\n文中第四段开头说到幸福作为一门科学，需要能够被测量，Bentham提出了两种不同的方法，这与题目中的表达一致，Bentham关注的是对幸福的measurement，本题答案为A。",
+          "promptHtml": "Answer for gap 31."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 32,
+          "sourceNumber": "32",
+          "prompt": "Answer for gap 32.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q6718_492349",
+          "explanation": "题号：30\n\n定位词：1790s, government\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of ' conversation tubes ', and to the Bank of England with a design for a printing device that could produce unforgeable banknotes.\n\n题目中首句说到Bentham在哲学之外的领域也非常活跃，这一表达在原文中第三段出现，并具体讨论了Bentham提出的建议。题目问到在1790s，为不同政府部门建议的type of technology对应本段第五句，这里提到的a set of ' conversation tubes ' 是为了促进不同部门间的交流，本题答案为F。\n\n题号：31\n\n定位词：Printing banknotes\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that ... with a design for a printing device that could produce unforgeable banknotes.\n\n题目中说到He developed a new way of printing banknotes，这一表达同样出现在第三段第五句，原文中说到a design for a printing devices that could produce unforgeable banknotes，可见这一做法的目的是为了让纸币无法被伪造，从而提高其安全性，选项中security与原文含义一致，本题答案为B。\n\n题号：32\n\n定位词：food\n\n第三段第六句：He drew up plans for a ' frigidarium ' to keep provisions such as meat, fish, fruit and vegetables fresh.\n\n本题问到关于food方面的做法，原文中第三段第六句中提到了provisions such as meat, fish, fruit and vegetables，这部分与food含义一致，而Bentham希望让它们keep fresh，选项中的preservation与原文含义一致，本题答案为G。\n\n题号：33\n\n定位词：prison\n\n第三段第七句：His celebrated design for a prison to be known as a ' Panopticon ' , in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted.\n\n本题问到与prison有关的内容，原文中第三段第七句说到prisoners would be kept in solitary confinement while being visible at all times to the guards，也就是说守卫可以随时看到犯人的情况，因此这与对犯人的observation有关，本题答案为E。\n\n题号：34\n\n定位词：Researching happiness, suggested some methods\n\n第四段第一、二句：Bentham was also a pioneer of the ' science of happiness '. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done.\n\n文中第四段开头说到幸福作为一门科学，需要能够被测量，Bentham提出了两种不同的方法，这与题目中的表达一致，Bentham关注的是对幸福的measurement，本题答案为A。",
+          "promptHtml": "Answer for gap 32."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 33,
+          "sourceNumber": "33",
+          "prompt": "Answer for gap 33.",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q6718_378117",
+          "explanation": "题号：30\n\n定位词：1790s, government\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of ' conversation tubes ', and to the Bank of England with a design for a printing device that could produce unforgeable banknotes.\n\n题目中首句说到Bentham在哲学之外的领域也非常活跃，这一表达在原文中第三段出现，并具体讨论了Bentham提出的建议。题目问到在1790s，为不同政府部门建议的type of technology对应本段第五句，这里提到的a set of ' conversation tubes ' 是为了促进不同部门间的交流，本题答案为F。\n\n题号：31\n\n定位词：Printing banknotes\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that ... with a design for a printing device that could produce unforgeable banknotes.\n\n题目中说到He developed a new way of printing banknotes，这一表达同样出现在第三段第五句，原文中说到a design for a printing devices that could produce unforgeable banknotes，可见这一做法的目的是为了让纸币无法被伪造，从而提高其安全性，选项中security与原文含义一致，本题答案为B。\n\n题号：32\n\n定位词：food\n\n第三段第六句：He drew up plans for a ' frigidarium ' to keep provisions such as meat, fish, fruit and vegetables fresh.\n\n本题问到关于food方面的做法，原文中第三段第六句中提到了provisions such as meat, fish, fruit and vegetables，这部分与food含义一致，而Bentham希望让它们keep fresh，选项中的preservation与原文含义一致，本题答案为G。\n\n题号：33\n\n定位词：prison\n\n第三段第七句：His celebrated design for a prison to be known as a ' Panopticon ' , in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted.\n\n本题问到与prison有关的内容，原文中第三段第七句说到prisoners would be kept in solitary confinement while being visible at all times to the guards，也就是说守卫可以随时看到犯人的情况，因此这与对犯人的observation有关，本题答案为E。\n\n题号：34\n\n定位词：Researching happiness, suggested some methods\n\n第四段第一、二句：Bentham was also a pioneer of the ' science of happiness '. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done.\n\n文中第四段开头说到幸福作为一门科学，需要能够被测量，Bentham提出了两种不同的方法，这与题目中的表达一致，Bentham关注的是对幸福的measurement，本题答案为A。",
+          "promptHtml": "Answer for gap 33."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 34,
+          "sourceNumber": "34",
+          "prompt": "Answer for gap 34.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q6718_373991",
+          "explanation": "题号：30\n\n定位词：1790s, government\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of ' conversation tubes ', and to the Bank of England with a design for a printing device that could produce unforgeable banknotes.\n\n题目中首句说到Bentham在哲学之外的领域也非常活跃，这一表达在原文中第三段出现，并具体讨论了Bentham提出的建议。题目问到在1790s，为不同政府部门建议的type of technology对应本段第五句，这里提到的a set of ' conversation tubes ' 是为了促进不同部门间的交流，本题答案为F。\n\n题号：31\n\n定位词：Printing banknotes\n\n第三段第五句：In the 1790s, he wrote to the Home Office suggesting that ... with a design for a printing device that could produce unforgeable banknotes.\n\n题目中说到He developed a new way of printing banknotes，这一表达同样出现在第三段第五句，原文中说到a design for a printing devices that could produce unforgeable banknotes，可见这一做法的目的是为了让纸币无法被伪造，从而提高其安全性，选项中security与原文含义一致，本题答案为B。\n\n题号：32\n\n定位词：food\n\n第三段第六句：He drew up plans for a ' frigidarium ' to keep provisions such as meat, fish, fruit and vegetables fresh.\n\n本题问到关于food方面的做法，原文中第三段第六句中提到了provisions such as meat, fish, fruit and vegetables，这部分与food含义一致，而Bentham希望让它们keep fresh，选项中的preservation与原文含义一致，本题答案为G。\n\n题号：33\n\n定位词：prison\n\n第三段第七句：His celebrated design for a prison to be known as a ' Panopticon ' , in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted.\n\n本题问到与prison有关的内容，原文中第三段第七句说到prisoners would be kept in solitary confinement while being visible at all times to the guards，也就是说守卫可以随时看到犯人的情况，因此这与对犯人的observation有关，本题答案为E。\n\n题号：34\n\n定位词：Researching happiness, suggested some methods\n\n第四段第一、二句：Bentham was also a pioneer of the ' science of happiness '. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done.\n\n文中第四段开头说到幸福作为一门科学，需要能够被测量，Bentham提出了两种不同的方法，这与题目中的表达一致，Bentham关注的是对幸福的measurement，本题答案为A。",
+          "promptHtml": "Answer for gap 34."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "Measurement"
+        },
+        {
+          "value": "B",
+          "text": "Security"
+        },
+        {
+          "value": "C",
+          "text": "implementation"
+        },
+        {
+          "value": "D",
+          "text": "profits"
+        },
+        {
+          "value": "E",
+          "text": "observation"
+        },
+        {
+          "value": "F",
+          "text": "communication"
+        },
+        {
+          "value": "G",
+          "text": "preservation"
+        }
+      ],
+      "contextHtml": "<p><span><strong>Jeremy Bentham</strong></span></p>\n\n<p>eremy Bentham was active in other areas besides philosophy. In the 1790s he suggested a type of technology to improve <strong>[30] ______</strong>  for different Government departments. He developed a new way of printing banknotes to increase <strong>[31] ______</strong>  and also designed a method for the <strong>[32] ______</strong>  of food. He also drew up plans for a prison which allowed the <strong>[33] ______</strong>  of prisoners at all times, and believed the same design could be used for other institutions as well. When researching happiness, he investigated possibilities for its <strong>[34] ______</strong> , and suggested some methods of doing this.</p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "ynng",
+      "instruction": "Questions 35-40\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 35,
+          "sourceNumber": "35",
+          "prompt": "One strength of The Happiness Industry is its discussion of the relationship between psychology and economics.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6718_109284",
+          "explanation": "参考译文: 《幸福产业》一书的优点之一是它讨论了心理学和经济学之间的关系。\n\n定位词: The happiness industry\n\n文中对应点 第五段第一、二句：The Happiness Industry describes how the project of a science of happiness has become integral to capitalism ... how economic problems are being redefined and treated as psychological maladies.\n\n第五段首句出现了《幸福产业》这本书，并说明本书写到了how the project of a science of happiness has become integral to capitalism，并在第二句说明用心理学的方式定义和解决经济学问题是本书的特点，题目表述与原文一致，因此本题答案为YES。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 36,
+          "sourceNumber": "36",
+          "prompt": "It is more difficult to measure some emotions than others.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6718_804967",
+          "explanation": "参考译文: 对一些情绪的测量比另一些更难。\n\n定位词: to measure some emotions than others\n\n文中对应点 第五段第三、四、五句：In addition, Davies shows how the belief that inner states of pleasure and displeasure can be objectively measured ... was that human beings could be shaped ... Watson had no factual basis for his view of human action.\n\n本题的表达中含有比较关系，因此需要在文中对应位置判断是否将some emotions和others进行了对比。37 题考查华生的行为主义，并且有定位词1915，结合上一题的位置，可以判断本题位于第五段第三至五句，在这一部分表述中，并没有提到一些情绪比另一些情绪更难测量，因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 37,
+          "sourceNumber": "37",
+          "prompt": "Watson's ideas on behaviourism were supported by research on humans he carried out before 1915.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6718_585162",
+          "explanation": "参考译文: 华生关于行为主义的理论得到了他1915年之前对人类研究的支持。\n\n定位词: Watson's ideas on behaviourism, 1915\n\n文中对应点 第五段第六句：When he became president of the American Psychological Association in1915, he 'had never even studied a single human being': his research had been confined to experiments on white rats.\n\n定位词1915出现在第五段第六句，关于华生，句中说到had never even studied a single human being，并且his research had been confined to experiments on while rats，说明华生的研究并不是针对人类的，而题目中supported by research on humans的表述与之相反，因此本题答案为NO。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 38,
+          "sourceNumber": "38",
+          "prompt": "Watson's ideas have been most influential on governments outside America.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6718_181186",
+          "explanation": "参考译文: 华生的理论对除美国之外的政府影响力最大。\n\n定位词: Watson's ideas\n\n文中对应点 第五段第七句：Yet Watson's reductive model is now widely applied, ... a 'Behaviour Insights Team' has been established by the government to study how people can be encouraged, at minimum cost to the public purse, to live in what are considered to be socially desirable ways.\n\n关于华生研究的影响力，文中第五段第七句中说到now widely applied，并且行为改变也成了goal of governments，之后举了英国的例子，说明华生的理论是如何应用的，但是并没有描述题目中所说的most influential，英国的例子也无法完全代表题目中的governments outside America，因此本题答案为NOT GIVEN。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 39,
+          "sourceNumber": "39",
+          "prompt": "The need for happiness is linked to industrialisation.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6718_383169",
+          "explanation": "参考译文: 对幸福的需求与工业化有关。\n\n定位词: The need for happiness\n\n文中对应点 第六段第一句：Modern industrial societies appear to need the possibility of ever-increasing happiness to motivate them in their labours.\n\n本句提到的modern industrial societies和need the possibility of ever-increasing happiness与题目中的industrialiation和the need for happiness对应，题目表述与原文一致，因此本题答案为YES。"
+        },
+        {
+          "id": 14,
+          "sourceSlot": 40,
+          "sourceNumber": "40",
+          "prompt": "A main aim of government should be to increase the happiness of the population.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6718_693559",
+          "explanation": "参考译文: 政府的主要目的应当是增加人们的幸福感。\n\n定位词: a main aim of government\n\n文中对应点 第六段第二句：But whatever its intellectual pedigree, the idea that governments should be responsible for promoting happiness is always a threat to human freedom.\n\n第六段首句首先说明了社会中通过幸福感来激励工人是非常普遍的，但是第二句中通过转折说明了认为政府应当负责增进人们的幸福并不是一件好事，题目表述与原文相反，因此本题答案为NO。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>Book Review</span></strong></p><p><em>The Happiness Industry: How the Government and Big Business</em></p><p><em>Sold Us Well-Being</em></p><p><em>By William Davies</em></p><p>&#x27;Happiness is the ultimate goal because it is self-evidently good. If we are asked why happiness matters we can give no further external reason. It just obviously does matter.&#x27; This pronouncement by Richard Layard, an economist and advocate of &#x27;positive psychology&#x27;, summarises the beliefs of many people today. For Layard and others like him, it is obvious that the purpose of government is to promote a state of collective well-being. The only question is how to achieve it, and here positive psychology - a supposed science that not only identifies what makes people happy but also allows their happiness to be measured - can show the way. Equipped with this science, they say, governments can secure happiness in society in a way they never could in the past.</p><p> </p><p>It is an astonishingly crude and simple-minded way of thinking, and for that very reason increasingly popular. Those who think in this way are oblivious to the vast philosophical literature in which the meaning and value of happiness have been explored and questioned, and write as if nothing of any importance had been thought on the subject until it came to their attention. It was the philosopher Jeremy Bentham (1748—1832) who was more than anyone else responsible for the development of this way of thinking. For Bentham it was obvious that the human good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all this was mere metaphysics or fiction. Without knowing anything much of him or the school of moral theory he established - since they are by education and intellectual conviction illiterate in the history of ideas - our advocates of positive psychology follow in his tracks in rejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human happiness to date.</p><p> </p><p>But as William Davies notes in his recent book The Happiness Industry, the view that happiness is the only self-evident good is actually a way of limiting moral inquiry. One of the virtues of this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined historical framework. Rightly, Davies begins his story with Bentham, noting that he was far more than a philosopher. Davies writes, &#x27;Bentham&#x27;s activities were those which we might now associate with a public sector management consultant&#x27;. In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of &#x27;conversation tubes,and to the Bank of England with a design for a printing device that could produce unforgeable banknotes. He drew up plans for a &#x27;frigidarium&#x27; to keep provisions such as meat, fish, fruit and vegetables fresh. His celebrated design for a prison to be known as a &#x27;Panopticon&#x27;. in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted. (Surprisingly, Davies does not discuss the fact that Bentham meant his Panopticon not just as a model prison but also as an instrument of control that could be applied to schools and factories.)</p><p> </p><p>Bentham was also a pioneer of the &#x27;science of happiness&#x27;. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done. Viewing happiness as a complex of pleasurable sensations, he suggested that it might be quantified by measuring the human pulse rate. Alternatively, money could be used as the standard for quantification: if two different goods have the same price, it can be claimed that they produce the same quantity of pleasure in the consumer. Bentham was more attracted by the latter measure. By associating money so closely to inner experience, Davies writes, Bentham &#x27;set the stage for the entangling of psychological research and capitalism that would shape the business practices of the twentieth century&#x27;.</p><p> </p><p><em>The Happiness Industry</em> describes how the project of a science of happiness has become integral to capitalism. We learn much that is interesting about how economic problems are being redefined and treated as psychological maladies. In addition, Davies shows how the belief that inner states of pleasure and displeasure can be objectively measured has informed management studies and advertising. The tendency of thinkers such as J B Watson, the founder of behaviourism*, was that human beings could be shaped, or manipulated, by policymakers and managers. Watson had no factual basis for his view of human action. When he became president of the American Psychological Association in 1915, he &#x27;had never even studied a single human being&#x27;: his research had been confined to experiments on white rats. Yet Watson&#x27;s reductive model is now widely applied, with &#x27;behaviour change&#x27; becoming the goal of governments: in Britain, a &#x27;Behaviour Insights Team&#x27; has been established by the government to study how people can be encouraged, at minimum cost to the public purse, to live in what are considered to be socially desirable ways.</p><p> </p><p>Modern industrial societies appear to need the possibility of ever-increasing happiness to motivate them in their labours. But whatever its intellectual pedigree, the idea that governments should be responsible for promoting happiness is always a threat to human freedom.</p><p>*&#x27;Behaviourism&#x27;: a branch of psychology which is concerned with observable behaviour</p><div> </div>"
+}

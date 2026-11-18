@@ -1,0 +1,355 @@
+{
+  "id": "3a290a7f-cfc6-414c-b5dc-74b561238ea7",
+  "title": "The sense of smell",
+  "titleCn": "嗅觉的力量：气味如何影响人的行为",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/3a290a7f-cfc6-414c-b5dc-74b561238ea7",
+  "duration": 505,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,860"
+    },
+    {
+      "label": "2",
+      "text": "Now turn to section four."
+    },
+    {
+      "label": "3",
+      "text": "00:00:07,480"
+    },
+    {
+      "label": "4",
+      "text": "Section four. You will hear a lecturer giving a talk to psychology students about people's sense of smell. First, you have some time to look at questions thirty-one to forty."
+    },
+    {
+      "label": "5",
+      "text": "00:00:33,500"
+    },
+    {
+      "label": "6",
+      "text": "Now listen carefully and answer questions thirty-one to forty."
+    },
+    {
+      "label": "7",
+      "text": "00:01:11,920"
+    },
+    {
+      "label": "8",
+      "text": "Good afternoon. So far in this course on perception, we have focused on sight. Today, we're going to move on to consider a sense that has received rather less attention in the literature on human perception. That is our sense of smell. It's often said that our ability to sense smells is much less developed than that of animals such as the dog or a fish such as the shark, or of course, the creature which is believed to have the most acute sense of smell of all, the bear. Yet it seems that this belief that the human sense of smell is weak might actually be a misconception. According to a number of recent studies, our noses are sensitive instruments that influence us in surprising ways. Subtle smells can change your mood. Smell can even influence what you go for when you have to make choices, perhaps about whether to buy something or not. Yet the power that smell has over us is, by and large, not something that we are aware of. So the big mystery is why it is subconscious. One possible reason is that our noses aren't well equipped to detect the source of an odor, and so we dismiss it. Let's look at some practical examples of how smell can influence us. The power of smell will be no news to estate agents. They often suggest that people who want to sell a house arrange things so that there is a smell of newly baked bread on the property to encourage viewers to want to buy it. But there are more subtle and surprising effects, too. For instance, Dutch researchers carried out a study into the impact of smell in a nightclub. They discovered, rather to their surprise, that when the aroma of oranges was pumped into the venue, the guests partied harder. They danced more, rated their night as more enjoyable, and even thought the music was better than when there was no added scent. Another study found that the hint of a smell wafting out of a hidden bucket of lemon-scented detergent was enough to persuade students to clean the communal kitchen after using it, even though the vast majority of them hadn't actually registered the smell. Other work has found that scent can influence our cognitive skills. A study this year gave participants a task to test their decision-making abilities. It found that subjecting people to a new smell, either good or bad, let people relying on their emotions to make a decision rather than relying on logic. As a result, these people performed significantly worse than normal when doing the task."
+    },
+    {
+      "label": "9",
+      "text": "00:04:07,020"
+    },
+    {
+      "label": "10",
+      "text": "Our sense of smell may even help us to pick up on how those around us are feeling. It has been shown that certain animals can smell each other's fear. Is it possible that humans can do the same thing? To test the idea, one team of scientists took sweat samples from people doing a skydive for the first time. They also took sweat samples from the same people after they had worked up their sweat in a gym, a situation where no fear is involved. They presented the different samples in turn to a series of subjects who did not know the reason for the experiment. As they did this, the scientists observed these subjects' brain activity by means of a scanner, and they saw a much stronger reaction to the skydive sweat. The team of scientists next tested whether the smell of fear sweat, that is, the sweat of the skydivers, affected people's responses to various facial expressions. Normally, people pay more attention to angry faces because they pose a threat. However, after smelling the fear sweat, the participants gave the same amount of attention to neutral facial expressions. Despite the impact of smell, most people seem totally unaware of how they are being affected by scents. However, some psychologists have been trying to train people's noses. They persuaded thirty-two students to wear blindfolds and ear defenders and see whether they could sniff out a trail of chocolate. They found that after three days of practice, the students were all much more accurate in following the trail. Further evidence of our ability to train our noses comes from a chef who lost her sense of smell after an illness. Knowing that her job depended on her having a good nose, she trained herself gradually by sniffing spices for ten minutes a day. Gradually, her ability to smell returned. Now let's talk on about the..."
+    },
+    {
+      "label": "11",
+      "text": "00:06:17,360"
+    },
+    {
+      "label": "12",
+      "text": "That is the end of section four. You now have half a minute to check your answers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "2d273e40-32e7-41dc-8a7c-fca9cfd2bfee",
+          "prompt": "The animal with the best sense of smell is the **31**_____ .",
+          "answers": [
+            "bear"
+          ],
+          "rawAnswer": "bear",
+          "evidence": {
+            "paragraph": "",
+            "quote": "the creature which is believed to have the most acute sense of smell of all, the bear"
+          },
+          "keywordPairs": [
+            {
+              "question": "best sense of smell",
+              "article": "most acute sense of smell of all"
+            },
+            {
+              "question": "animal",
+              "article": "creature"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "4fda7f83-2df4-4de2-8695-febaccfd0fb1",
+          "prompt": "The human sense of smell may be stronger than we imagine.\nSmell can influence our mood and the choices we make.\nHowever, we are not usually aware of this, maybe because we can`t easily identify the **32**_____ of smell.",
+          "answers": [
+            "source"
+          ],
+          "rawAnswer": "source",
+          "evidence": {
+            "paragraph": "",
+            "quote": "One possible reason is that our noses aren't well equipped to detect the source of an odor, and so we dismiss it"
+          },
+          "keywordPairs": [
+            {
+              "question": "can't easily identify",
+              "article": "aren't well equipped to detect"
+            },
+            {
+              "question": "smell",
+              "article": "odor"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "9fd703e2-062d-4d1a-a2dc-110a5d34c6ee",
+          "prompt": "**Some examples of how smell influence people**\nSelling houses: the smell of fresh **33**_____ makes potential buyers find a house desirable.",
+          "answers": [
+            "bread"
+          ],
+          "rawAnswer": "bread",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They often suggest that people who want to sell a house arrange things so that there is a smell of newly baked bread on the property to encourage viewers to want to buy it"
+          },
+          "keywordPairs": [
+            {
+              "question": "fresh",
+              "article": "newly baked"
+            },
+            {
+              "question": "potential buyers",
+              "article": "viewers"
+            },
+            {
+              "question": "find a house desirable",
+              "article": "encourage viewers to want to buy it"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "08c6ae83-95f0-4203-a0a3-3f074c7a0f27",
+          "prompt": "A Dutch study found the smell of **34**_____ made people enjoy a nightclub more.",
+          "answers": [
+            "oranges"
+          ],
+          "rawAnswer": "oranges",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They discovered, rather to their surprise, that when the aroma of oranges was pumped into the venue, the guests partied harder;rated their night as more enjoyable"
+          },
+          "keywordPairs": [
+            {
+              "question": "smell",
+              "article": "aroma"
+            },
+            {
+              "question": "enjoy a nightclub more",
+              "article": "rated their night as more enjoyable"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "84a39802-d3b4-456a-8367-11e3fd06d4fa",
+          "prompt": "Another study found that specific smell encouraged students to **35**_____ a shared room.",
+          "answers": [
+            "clean"
+          ],
+          "rawAnswer": "clean",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Another study found that the hint of a smell;was enough to persuade students to clean the communal kitchen after using it"
+          },
+          "keywordPairs": [
+            {
+              "question": "encouraged",
+              "article": "persuade"
+            },
+            {
+              "question": "shared room",
+              "article": "communal kitchen"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "1f67c4e6-ea18-4b3c-ad8f-c0677ddbca39",
+          "prompt": "A new smell makes us less likely to base a decision on **36**_____ .",
+          "answers": [
+            "logic"
+          ],
+          "rawAnswer": "logic",
+          "evidence": {
+            "paragraph": "",
+            "quote": "It found that subjecting people to a new smell;let people relying on their emotions to make a decision rather than relying on logic"
+          },
+          "keywordPairs": [
+            {
+              "question": "less likely to base a decision on",
+              "article": "rather than relying on"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "cc5e0700-a5cb-462f-8094-82c6593635ee",
+          "prompt": "**Can we smell fear?**\nA team of scientists collected the sweat of people when doing a skydive and when using a **37**_____ .\nThey found subjects responded more strongly to the sky divers.",
+          "answers": [
+            "gym"
+          ],
+          "rawAnswer": "gym",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They also took sweat samples from the same people after they had worked up their sweat in a gym, a situation where no fear is involved"
+          },
+          "keywordPairs": [
+            {
+              "question": "collected the sweat",
+              "article": "took sweat samples"
+            },
+            {
+              "question": "using",
+              "article": "in"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "76ddbbe3-a1ae-4057-bc7c-a063e384eef7",
+          "prompt": "After smelling “fear” sweat, people paid equal attention to **38**_____ facial expressions.",
+          "answers": [
+            "neutral"
+          ],
+          "rawAnswer": "neutral",
+          "evidence": {
+            "paragraph": "",
+            "quote": "However, after smelling the fear sweat, the participants gave the same amount of attention to neutral facial expressions"
+          },
+          "keywordPairs": [
+            {
+              "question": "paid equal",
+              "article": "gave the same amount of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "fc3ca334-e7fa-48e1-a0e1-9b86efeec59c",
+          "prompt": "**Training noses**\nSubjects` eyes and ears were covered and they had to practise following the smell of **39**_____ .",
+          "answers": [
+            "chocolate"
+          ],
+          "rawAnswer": "chocolate",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They persuaded thirty-two students to wear blindfolds and ear defenders and see whether they could sniff out a trail of chocolate"
+          },
+          "keywordPairs": [
+            {
+              "question": "eyes and ears were covered",
+              "article": "wear blindfolds and ear defenders"
+            },
+            {
+              "question": "following the smell of",
+              "article": "sniff out a trail of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "f63c5149-fad6-4d04-aa76-97e407e0a7c1",
+          "prompt": "A chef was able to bring back her sense of smell by regularly smelling **40**_____ .",
+          "answers": [
+            "spices"
+          ],
+          "rawAnswer": "spices",
+          "evidence": {
+            "paragraph": "",
+            "quote": "she trained herself gradually by sniffing spices for ten minutes a day. Gradually, her ability to smell returned"
+          },
+          "keywordPairs": [
+            {
+              "question": "smelling",
+              "article": "sniffing"
+            },
+            {
+              "question": "regularly",
+              "article": "ten minutes a day"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,860</p><p>Now turn to section four. </p><p>00:00:07,480</p><p>Section four. You will hear a lecturer giving a talk to psychology students about people's sense of smell. First, you have some time to look at questions thirty-one to forty. </p><p>00:00:33,500</p><p>Now listen carefully and answer questions thirty-one to forty. </p><p>00:01:11,920</p><p>Good afternoon. So far in this course on perception, we have focused on sight. Today, we're going to move on to consider a sense that has received rather less attention in the literature on human perception. That is our sense of smell. It's often said that our ability to sense smells is much less developed than that of animals such as the dog or a fish such as the shark, or of course, the creature which is believed to have the most acute sense of smell of all, the bear. Yet it seems that this belief that the human sense of smell is weak might actually be a misconception. According to a number of recent studies, our noses are sensitive instruments that influence us in surprising ways. Subtle smells can change your mood. Smell can even influence what you go for when you have to make choices, perhaps about whether to buy something or not. Yet the power that smell has over us is, by and large, not something that we are aware of. So the big mystery is why it is subconscious. One possible reason is that our noses aren't well equipped to detect the source of an odor, and so we dismiss it. Let's look at some practical examples of how smell can influence us. The power of smell will be no news to estate agents. They often suggest that people who want to sell a house arrange things so that there is a smell of newly baked bread on the property to encourage viewers to want to buy it. But there are more subtle and surprising effects, too. For instance, Dutch researchers carried out a study into the impact of smell in a nightclub. They discovered, rather to their surprise, that when the aroma of oranges was pumped into the venue, the guests partied harder. They danced more, rated their night as more enjoyable, and even thought the music was better than when there was no added scent. Another study found that the hint of a smell wafting out of a hidden bucket of lemon-scented detergent was enough to persuade students to clean the communal kitchen after using it, even though the vast majority of them hadn't actually registered the smell. Other work has found that scent can influence our cognitive skills. A study this year gave participants a task to test their decision-making abilities. It found that subjecting people to a new smell, either good or bad, let people relying on their emotions to make a decision rather than relying on logic. As a result, these people performed significantly worse than normal when doing the task. </p><p>00:04:07,020</p><p>Our sense of smell may even help us to pick up on how those around us are feeling. It has been shown that certain animals can smell each other's fear. Is it possible that humans can do the same thing? To test the idea, one team of scientists took sweat samples from people doing a skydive for the first time. They also took sweat samples from the same people after they had worked up their sweat in a gym, a situation where no fear is involved. They presented the different samples in turn to a series of subjects who did not know the reason for the experiment. As they did this, the scientists observed these subjects' brain activity by means of a scanner, and they saw a much stronger reaction to the skydive sweat. The team of scientists next tested whether the smell of fear sweat, that is, the sweat of the skydivers, affected people's responses to various facial expressions. Normally, people pay more attention to angry faces because they pose a threat. However, after smelling the fear sweat, the participants gave the same amount of attention to neutral facial expressions. Despite the impact of smell, most people seem totally unaware of how they are being affected by scents. However, some psychologists have been trying to train people's noses. They persuaded thirty-two students to wear blindfolds and ear defenders and see whether they could sniff out a trail of chocolate. They found that after three days of practice, the students were all much more accurate in following the trail. Further evidence of our ability to train our noses comes from a chef who lost her sense of smell after an illness. Knowing that her job depended on her having a good nose, she trained herself gradually by sniffing spices for ten minutes a day. Gradually, her ability to smell returned. Now let's talk on about the... </p><p>00:06:17,360</p><p>That is the end of section four. You now have half a minute to check your answers.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/3a290a7f-cfc6-414c-b5dc-74b561238ea7.mp3",
+    "durationSeconds": 384.072,
+    "sizeBytes": 6145683,
+    "sha256": "08ef0fe4bf1aa9437e68e09c8f64b3e728e6ffebccb927e951ee39fda7ca7a4e",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:51:23Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1776313630564_w1v8na_1ffc3dd7.mp3"
+}

@@ -1,0 +1,361 @@
+{
+  "id": "cambridge-6-test-4-reading-2",
+  "title": "Do literate women make better mothers?",
+  "titleCn": "Do literate women make better mothers?",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 6,
+    "test": 4
+  },
+  "sourceQuestionId": "6987",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6987",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Do literate women make better mothers?"
+    },
+    {
+      "label": "2",
+      "text": "Children in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write. Experts in public health accepted this idea decades ago, but until now no one has been able to show that a woman's ability to read in itself improves her children's chances of survival."
+    },
+    {
+      "label": "3",
+      "text": "Most literate women learnt to read in primary school, and the fact that a woman has had an education may simply indicate her family's wealth or that it values its children more highly. Now a long-term study carried out in Nicaragua has eliminated these factors by showing that teaching reading to poor adult women, who would other wise have remained illiterate, has a direct effect on their children's health and survival."
+    },
+    {
+      "label": "4",
+      "text": "In 1979, the government of Nicaragua established a number of social programmes, including a National Literacy Crusade. By 1985, about 300,000 illiterate adults from all over the country, many of whom had never attended primary school, had learnt how to read, write and use numbers."
+    },
+    {
+      "label": "5",
+      "text": "During this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all. The women were asked how many children they had given birth to and how many of them had died in infancy. The research teams also examined the surviving children to find out how well-nourished they were."
+    },
+    {
+      "label": "6",
+      "text": "The investigators' findings were striking. In the late 1970s, the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births. At this point in their lives, those mothers who later went on to learn to read had a similar level of child mortality (105/1000). For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand."
+    },
+    {
+      "label": "7",
+      "text": "In 1985, after the National Literacy Crusade had ended, the infant mortality figures for those who remained illiterate and for those educated in primary school remained more or less unchanged. For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate. The children of the newly-literate mothers were also better nourished than those of women who could not read."
+    },
+    {
+      "label": "8",
+      "text": "Why are the children of literate mothers better off? According to Peter Sandiford of the Liverpool School of Tropical Medicine, no one knows for certain. Child health was not on the curriculum during the women's lessons, so he and his colleagues are looking at other factors. They are working with the same group of 3,000 women, to try to find out whether reading mothers make better use of hospitals and clinics, opt for smaller families, exert more control at home, learn modern childcare techniques more quickly, or whether they merely have more respect for themselves and their children."
+    },
+    {
+      "label": "9",
+      "text": "The Nicaraguan study may have important implications for governments and aid agencies that need to know where to direct their resources. Sandiford says that there is increasing evidence that female education, at any age, is 'an important health intervention in its own right'. The results of the study lend support to the World Bank's recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health."
+    },
+    {
+      "label": "10",
+      "text": "'We've known for a long time that maternal education is important,' says John Cleland of the London School of Hygiene and Tropical Medicine.'But we thought that even if we started educating girls today, we'd have to wait a generation for the pay-off. The Nicaraguan study suggests we may be able to bypass that.'"
+    },
+    {
+      "label": "11",
+      "text": "Cleland warns that the Nicaraguan crusade was special in many ways, and similar campaigns elsewhere might not work as well. It is notoriously difficult to teach adults skills that do not have an immediate impact on their everyday lives, and many literacy campaigns in other countries have been much less successful.'The crusade was part of a larger effort to bring a better life to the people,' says Cleland. Replicating these conditions in other countries will be a major challenge for development workers."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-18\n\nComplete the summary using the list of words, A-J, below.\n\nChoose the correct answer and move it into the gap.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Answer for gap 14.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q6987_144428",
+          "explanation": "题号：14\n\n定位词：Nicaraguan National Literacy Crusade, illterate\n\n第3段第2句：原文“到1985年，全国有30万文盲人口学会了阅读、写字和使用数字，其中很多人没上过小学。”因此答案为B选项。\n\n题号：15\n\n定位词：Pubic health experts, child heath\n\n第5段：原文明确提到研究结果表明女性的受教育程度和孩子的健康有密切联系。因此答案为F选项。\n\n题号：16\n\n定位词：Nicaragua\n\n第4段末句：原文“研究小组同时也调查了存活的孩子以了解他们的健康程度。”因此答案为C选项。\n\n题号：17\n\n定位词：attitudes, eliminated\n\n第2段：原文“……女性受到教育这一事实可能仅仅显示出其家庭比较富裕或者家庭更为看重子女。在尼加拉瓜进行的一项长期研究消除了这些因素……”，因此答案为J选项。\n\n题号：18\n\n定位词：infant health and survival\n\n第2段末句：原文“这项研究的结果表明妇女阅读能力的提高对其孩子的健康和生存有直接影响。”因此答案为F选项。",
+          "promptHtml": "Answer for gap 14."
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Answer for gap 15.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6987_779633",
+          "explanation": "题号：14\n\n定位词：Nicaraguan National Literacy Crusade, illterate\n\n第3段第2句：原文“到1985年，全国有30万文盲人口学会了阅读、写字和使用数字，其中很多人没上过小学。”因此答案为B选项。\n\n题号：15\n\n定位词：Pubic health experts, child heath\n\n第5段：原文明确提到研究结果表明女性的受教育程度和孩子的健康有密切联系。因此答案为F选项。\n\n题号：16\n\n定位词：Nicaragua\n\n第4段末句：原文“研究小组同时也调查了存活的孩子以了解他们的健康程度。”因此答案为C选项。\n\n题号：17\n\n定位词：attitudes, eliminated\n\n第2段：原文“……女性受到教育这一事实可能仅仅显示出其家庭比较富裕或者家庭更为看重子女。在尼加拉瓜进行的一项长期研究消除了这些因素……”，因此答案为J选项。\n\n题号：18\n\n定位词：infant health and survival\n\n第2段末句：原文“这项研究的结果表明妇女阅读能力的提高对其孩子的健康和生存有直接影响。”因此答案为F选项。",
+          "promptHtml": "Answer for gap 15."
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Answer for gap 16.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q6987_441221",
+          "explanation": "题号：14\n\n定位词：Nicaraguan National Literacy Crusade, illterate\n\n第3段第2句：原文“到1985年，全国有30万文盲人口学会了阅读、写字和使用数字，其中很多人没上过小学。”因此答案为B选项。\n\n题号：15\n\n定位词：Pubic health experts, child heath\n\n第5段：原文明确提到研究结果表明女性的受教育程度和孩子的健康有密切联系。因此答案为F选项。\n\n题号：16\n\n定位词：Nicaragua\n\n第4段末句：原文“研究小组同时也调查了存活的孩子以了解他们的健康程度。”因此答案为C选项。\n\n题号：17\n\n定位词：attitudes, eliminated\n\n第2段：原文“……女性受到教育这一事实可能仅仅显示出其家庭比较富裕或者家庭更为看重子女。在尼加拉瓜进行的一项长期研究消除了这些因素……”，因此答案为J选项。\n\n题号：18\n\n定位词：infant health and survival\n\n第2段末句：原文“这项研究的结果表明妇女阅读能力的提高对其孩子的健康和生存有直接影响。”因此答案为F选项。",
+          "promptHtml": "Answer for gap 16."
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Answer for gap 17.",
+          "answers": [
+            "J"
+          ],
+          "sourceCode": "Q6987_550928",
+          "explanation": "题号：14\n\n定位词：Nicaraguan National Literacy Crusade, illterate\n\n第3段第2句：原文“到1985年，全国有30万文盲人口学会了阅读、写字和使用数字，其中很多人没上过小学。”因此答案为B选项。\n\n题号：15\n\n定位词：Pubic health experts, child heath\n\n第5段：原文明确提到研究结果表明女性的受教育程度和孩子的健康有密切联系。因此答案为F选项。\n\n题号：16\n\n定位词：Nicaragua\n\n第4段末句：原文“研究小组同时也调查了存活的孩子以了解他们的健康程度。”因此答案为C选项。\n\n题号：17\n\n定位词：attitudes, eliminated\n\n第2段：原文“……女性受到教育这一事实可能仅仅显示出其家庭比较富裕或者家庭更为看重子女。在尼加拉瓜进行的一项长期研究消除了这些因素……”，因此答案为J选项。\n\n题号：18\n\n定位词：infant health and survival\n\n第2段末句：原文“这项研究的结果表明妇女阅读能力的提高对其孩子的健康和生存有直接影响。”因此答案为F选项。",
+          "promptHtml": "Answer for gap 17."
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Answer for gap 18.",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q6987_618863",
+          "explanation": "题号：14\n\n定位词：Nicaraguan National Literacy Crusade, illterate\n\n第3段第2句：原文“到1985年，全国有30万文盲人口学会了阅读、写字和使用数字，其中很多人没上过小学。”因此答案为B选项。\n\n题号：15\n\n定位词：Pubic health experts, child heath\n\n第5段：原文明确提到研究结果表明女性的受教育程度和孩子的健康有密切联系。因此答案为F选项。\n\n题号：16\n\n定位词：Nicaragua\n\n第4段末句：原文“研究小组同时也调查了存活的孩子以了解他们的健康程度。”因此答案为C选项。\n\n题号：17\n\n定位词：attitudes, eliminated\n\n第2段：原文“……女性受到教育这一事实可能仅仅显示出其家庭比较富裕或者家庭更为看重子女。在尼加拉瓜进行的一项长期研究消除了这些因素……”，因此答案为J选项。\n\n题号：18\n\n定位词：infant health and survival\n\n第2段末句：原文“这项研究的结果表明妇女阅读能力的提高对其孩子的健康和生存有直接影响。”因此答案为F选项。",
+          "promptHtml": "Answer for gap 18."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "child literacy"
+        },
+        {
+          "value": "B",
+          "text": "men and women"
+        },
+        {
+          "value": "C",
+          "text": "an international research team"
+        },
+        {
+          "value": "D",
+          "text": "medical care"
+        },
+        {
+          "value": "E",
+          "text": "mortality"
+        },
+        {
+          "value": "F",
+          "text": "maternal literacy"
+        },
+        {
+          "value": "G",
+          "text": "adults and children"
+        },
+        {
+          "value": "H",
+          "text": "paternal literacy"
+        },
+        {
+          "value": "I",
+          "text": "a National Literacy Crusade"
+        },
+        {
+          "value": "J",
+          "text": "family wealth"
+        }
+      ],
+      "contextHtml": "<p>The Nicaraguan National Literacy Crusade aimed to teach large numbers of illiterate <strong>[14] ______</strong> to read and write. Public health experts have known for many years that there is a connection between child health and <strong>[15] ______</strong>. However, it has not previously been known whether these two factors were directly linked or not. This question has been investigated by <strong>[16] ______</strong> in Nicaragua. As a result, factors such as <strong>[17] ______</strong> and attitudes to children have been eliminated, and it has been shown that <strong>[18] ______</strong> can in itself improve infant health and survival.</p>\n"
+    },
+    {
+      "id": "g2",
+      "type": "ynng",
+      "instruction": "Questions 19-24\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "About a thousand of the women interviewed by the researchers had learnt to read when they were children.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6987_890303",
+          "explanation": "定位词：a thousand of the women\n\n题目：研究人员调查的妇女中大约有1000人在儿童时期就学会了阅读。原文：没有提到题目的内容，因此答案为NOT GIVEN。"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Before the National Literacy Crusade, illiterate women had approximately the same levels of infant mortality as those who had learnt to read in primary school.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6987_888541",
+          "explanation": "定位词：Before the National Literacy Crusade\n\n题目：在全国扫盲运动之前，文育母亲和在小学期间接受教育的女性的婴儿死亡率大致相同。原文第5段：“研究者的发现令人吃惊。在20世纪70年代末期，文盲母亲的婴儿死亡率约为1000个婴儿中有110个死亡。那些后来才学习阅读的母亲也有相同的婴儿死亡率（105/1000）。然而对于那些在小学期间接受教育的女性而言，婴儿死亡率为相对而言比较低，为80/1000。”显然婴儿死亡率差异很大，因此答案为NO。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Before and after the National Literacy Crusade, the child mortality rate for the illiterate women stayed at about 110 deaths for each thousand live births.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6987_609068",
+          "explanation": "定位词：110 deaths\n\n题目：在全国扫盲运动前后，文盲母亲的婴儿死亡率约为1000个婴儿中有110个死亡。原文第5段第2句及第6段首句：“在20世纪70年代末期，文盲母亲的婴儿死亡率约为1000个婴儿中有110个死亡。……在1985年，全国扫盲运动结束后，仍旧不识字和小学期间接受教育的母亲的婴儿死亡率几乎没有什么改变。”因此答案为YES。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "The women who had learnt to read through the National Literacy Crusade showed the greatest change in infant mortality levels.",
+          "answers": [
+            "YES"
+          ],
+          "sourceCode": "Q6987_860372",
+          "explanation": "定位词：the greatest change in infant mortality levels\n\n题目：在全国扫盲运动中学会阅读的女性的婴儿死亡率发生了最大的变化。原文第6段第2句：“而那些在这场运动中学会阅读的女性，其婴儿死亡率为84/1000，比仍然不识字的母亲的婴儿死亡率整整低了21点。”因此答案为YES。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "The women who had learnt to read through the National Literacy Crusade had the lowest rates of child mortality.",
+          "answers": [
+            "NO"
+          ],
+          "sourceCode": "Q6987_975182",
+          "explanation": "定位词：the lowest rates of child mortality\n\n题目：在全国扫盲运动中学会阅读的女性婴儿死亡率最低。原文第5段末句及第6段第2句：“然而对于那些在小学期间接受教育的女性而言，婴儿死亡率相对而言比较低，为80/1000。……而那些在这场运动中学会阅读的女性，其婴儿死亡率为84/1000……”。可见，在全国扫盲运动中学会阅读的女性的婴儿死亡率高于那些在小学期间接受教育的女性，因此答案为NO。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "After the National Literacy Crusade, the children of the women who remained illiterate were found to be severely malnourished.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6987_144905",
+          "explanation": "定位词：severely malnourished\n\n题目：在全国扫盲运动之后，仍旧不识字的母亲的婴儿严重营养不良。原文：并没有提到题目的内容，因此答案为NOT GIVEN。"
+        }
+      ],
+      "sourceType": "ynng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO correct answers.",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO important implications drawn from the Nicaraguan study are mentioned by the writer of the passage?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "sourceCode": "Q6987_802349",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is better to educate mature women than young girls."
+            },
+            {
+              "value": "B",
+              "text": "Similar campaigns in other countries would be equally successful."
+            },
+            {
+              "value": "C",
+              "text": "The effects of maternal literacy programmes can be seen very quickly."
+            },
+            {
+              "value": "D",
+              "text": "Improving child health can quickly affect a country's economy."
+            },
+            {
+              "value": "E",
+              "text": "Money spent on female education will improve child health."
+            }
+          ],
+          "explanation": "题号：25\n\n原文第6段第2句：原文“而那些在这场运动中学会阅读的女性，其婴儿死亡率为84/1000，比仍然不识字的母亲的婴儿死亡率整整低了21点。”对应C选项。\n\n题号：26\n\n原文第8段第2、3句：原文“……女性教育，在任何年龄阶段，都是‘对健康非常重要的影响因素’。这项研究的结果支持了世界银行对于发展中国家增加教育预算的建议，这不仅能够帮助发展中国家发展经济，同时也能提高孩子的健康水平。”对应E选项。",
+          "setId": "Q6987_802349",
+          "blockId": "Q6987_802349"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO important implications drawn from the Nicaraguan study are mentioned by the writer of the passage?",
+          "answers": [
+            "C",
+            "E"
+          ],
+          "sourceCode": "Q6987_802349",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is better to educate mature women than young girls."
+            },
+            {
+              "value": "B",
+              "text": "Similar campaigns in other countries would be equally successful."
+            },
+            {
+              "value": "C",
+              "text": "The effects of maternal literacy programmes can be seen very quickly."
+            },
+            {
+              "value": "D",
+              "text": "Improving child health can quickly affect a country's economy."
+            },
+            {
+              "value": "E",
+              "text": "Money spent on female education will improve child health."
+            }
+          ],
+          "explanation": "题号：25\n\n原文第6段第2句：原文“而那些在这场运动中学会阅读的女性，其婴儿死亡率为84/1000，比仍然不识字的母亲的婴儿死亡率整整低了21点。”对应C选项。\n\n题号：26\n\n原文第8段第2、3句：原文“……女性教育，在任何年龄阶段，都是‘对健康非常重要的影响因素’。这项研究的结果支持了世界银行对于发展中国家增加教育预算的建议，这不仅能够帮助发展中国家发展经济，同时也能提高孩子的健康水平。”对应E选项。",
+          "setId": "Q6987_802349",
+          "blockId": "Q6987_802349"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "It is better to educate mature women than young girls."
+        },
+        {
+          "value": "B",
+          "text": "Similar campaigns in other countries would be equally successful."
+        },
+        {
+          "value": "C",
+          "text": "The effects of maternal literacy programmes can be seen very quickly."
+        },
+        {
+          "value": "D",
+          "text": "Improving child health can quickly affect a country's economy."
+        },
+        {
+          "value": "E",
+          "text": "Money spent on female education will improve child health."
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Do literate women make better mothers?</strong></span></p><p><img src=\"/api/guest/cambridge/media/images/0a18f7d40ca5317632fcedb1ce06114d.png\" alt=\"\"></p><p>Children in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write. Experts in public health accepted this idea decades ago, but until now no one has been able to show that a woman&#x27;s ability to read in itself improves her children&#x27;s chances of survival.</p><p>Most literate women learnt to read in primary school, and the fact that a woman has had an education may simply indicate her family&#x27;s wealth or that it values its children more highly. Now a long-term study carried out in Nicaragua has eliminated these factors by showing that teaching reading to poor adult women, who would other wise have remained illiterate, has a direct effect on their children&#x27;s health and survival.</p><p>In 1979, the government of Nicaragua established a number of social programmes, including a National Literacy Crusade. By 1985, about 300,000 illiterate adults from all over the country, many of whom had never attended primary school, had learnt how to read, write and use numbers.</p><p>During this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all. The women were asked how many children they had given birth to and how many of them had died in infancy. The research teams also examined the surviving children to find out how well-nourished they were.</p><p>The investigators&#x27; findings were striking. In the late 1970s, the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births. At this point in their lives, those mothers who later went on to learn to read had a similar level of child mortality (105/1000). For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand.</p><p>In 1985, after the National Literacy Crusade had ended, the infant mortality figures for those who remained illiterate and for those educated in primary school remained more or less unchanged. For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate. The children of the newly-literate mothers were also better nourished than those of women who could not read.</p><p>Why are the children of literate mothers better off? According to Peter Sandiford of the Liverpool School of Tropical Medicine, no one knows for certain. Child health was not on the curriculum during the women&#x27;s lessons, so he and his colleagues are looking at other factors. They are working with the same group of 3,000 women, to try to find out whether reading mothers make better use of hospitals and clinics, opt for smaller families, exert more control at home, learn modern childcare techniques more quickly, or whether they merely have more respect for themselves and their children.</p><p>The Nicaraguan study may have important implications for governments and aid agencies that need to know where to direct their resources. Sandiford says that there is increasing evidence that female education, at any age, is &#x27;an important health intervention in its own right&#x27;. The results of the study lend support to the World Bank&#x27;s recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health.</p><p>&#x27;We&#x27;ve known for a long time that maternal education is important,&#x27; says John Cleland of the London School of Hygiene and Tropical Medicine.&#x27;But we thought that even if we started educating girls today, we&#x27;d have to wait a generation for the pay-off. The Nicaraguan study suggests we may be able to bypass that.&#x27;</p><p>Cleland warns that the Nicaraguan crusade was special in many ways, and similar campaigns elsewhere might not work as well. It is notoriously difficult to teach adults skills that do not have an immediate impact on their everyday lives, and many literacy campaigns in other countries have been much less successful.&#x27;The crusade was part of a larger effort to bring a better life to the people,&#x27; says Cleland. Replicating these conditions in other countries will be a major challenge for development workers.</p>"
+}

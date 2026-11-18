@@ -1,0 +1,282 @@
+{
+  "id": "cambridge-10-test-1-reading-1",
+  "title": "Stepwells",
+  "titleCn": "Stepwells",
+  "subject": "reading",
+  "part": 1,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 10,
+    "test": 1
+  },
+  "sourceQuestionId": "6806",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6806",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Stepwells"
+    },
+    {
+      "label": "2",
+      "text": "A millennium ago, stepwells were fundamental to life in the driest parts of India. Richard Cox travelled to north-western India to document these spectacular monuments from a bygone era."
+    },
+    {
+      "label": "3",
+      "text": "During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in north-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation. However, the significance of this invention – the stepwell – goes beyond its utilitarian application."
+    },
+    {
+      "label": "4",
+      "text": "Unique to this region, stepwells are often architecturally complex and vary widely in size and shape. During their heyday, they were places of gathering, of leisure and relaxation and of worship for villagers of all but the lowest classes. Most stepwells are found dotted round the desert areas of Gujarat (where they are called vav) and Rajasthan (where they are called baori), while a few also survive in Delhi. Some were located in near villages as public spaces for the community; others were positioned beside ponds as resting places for travellers."
+    },
+    {
+      "label": "5",
+      "text": "As their name suggests, stepwells comprise a series of stone steps descending from ground level to the water source (normally an underground aquifer) as it recedes following the rains. When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated."
+    },
+    {
+      "label": "6",
+      "text": "Some wells are vast, open craters with hundreds of steps paving each sloping side, often in tiers. Others are more elaborate, with long stepped passages leading to the water via several storeys. Built from stone and supported by pillars, they also included pavilions that sheltered visitors from the relentless heat. But perhaps the most impressive features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts such as women combing their hair or churning butter."
+    },
+    {
+      "label": "7",
+      "text": "Down the centuries, thousands of wells were constructed throughout north-western India, but the majority have now fallen into disuse; many are derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table. Their condition hasn't been helped by recent dry spells: southern Rajasthan suffered an eight-year drought between 1996 and 2004."
+    },
+    {
+      "label": "8",
+      "text": "However, some important sites in Gujarat have recently undergone major restoration, and the state government announced in June last year that it plans to restore the stepwells throughout the state."
+    },
+    {
+      "label": "9",
+      "text": "In Patan, the state's ancient capital, the stepwell of Rani Ki Vav (Queen`s Stepwell) is perhaps the finest current example. It was built by Queen Udayamati during the late 11th century, but became silted up following a flood during the 13th century. But the Archaeological Survey of India began restoring it in the 1960s, and today it is in pristine condition. At 65 metres long, 20 metres wide and 27 metres deep, Rani Ki Vav features 500 sculptures carved into niches throughout the monument. Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale."
+    },
+    {
+      "label": "10",
+      "text": "Another example is the Surya Kund in Modhera, northern Gujarat, next to the Sun Temple, built by King Bhima I in 1026 to honour the sun god Surya. It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation. The terraces house 108 small, intricately carved shrines between the sets of steps."
+    },
+    {
+      "label": "11",
+      "text": "Rajasthan also has a wealth of wells. The ancient city of Bundi, 200 kilometres south of Jaipur, is renowned for its architecture, including its stepwells."
+    },
+    {
+      "label": "12",
+      "text": "One of the larger examples is Raniji Ki Baori, which was built by the queen of the region, Nathavatji, in 1699. At 46 metres deep, 20 metres wide and 40 metres long, the intricately carved monument is one of 21 baoris commissioned in the Bundi area by Nathavatji."
+    },
+    {
+      "label": "13",
+      "text": "In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori, one of India's oldest and deepest wells; aesthetically it's perhaps one of the most dramatic. Built in around 850 AD next to the temple of Harshat Mata, the baori comprises hundreds of zigzagging steps that run along three of its sides, steeply descending 11 storeys, resulting in a striking pattern when seen from afar. On the fourth side, verandas which are supported by ornate pillars overlook the steps."
+    },
+    {
+      "label": "14",
+      "text": "Still in public use is Neemrana Ki Baori, located just off the Jaipur-Delhi highway. Constructed in around 1700, it is nine storeys deep, with the last two being underwater. At ground level, there are 86 colonnaded openings from where the visitor descends 170 steps to the deepest water source."
+    },
+    {
+      "label": "15",
+      "text": "Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognized the importance of preserving them as part of the country's rich history. Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and the value of water to human existence."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "tfng",
+      "instruction": "Questions 1-5\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nChoose YES if the statement agrees with the claims of the writer,\n\nchoose NO if the statement contradicts the claims of the writer,\n\nor choose NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 1,
+          "sourceNumber": "1",
+          "prompt": "Examples of ancient stepwells can be found all over the world.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6806_793973",
+          "explanation": "参考译文：古时阶梯井的实例可以在全世界找到。\n\n定位词：Examples of ancient stepwell\n\nDuring the sixth and seventh centuries, the inhabitants of the modern-day states of |Gujarat and Rajasthan in north-western India developed a method of gaining ace to clean, fresh groundwater during the dry season for drinking bathing, watering animals and irrigation. However, the significance of this invention -the stepwell-goes beyond its utilitarian application. 本题是一篇文章的第一道题目，而且问题的内容和文章主题Stepwells相关，因此优先在开头段寻找。首段首句提到“印度西北部的居民发明了一种方法”，而根据文章第二句中的the significance of his invention the stepwell可以看到说的就是stepwells，因此关于古时候阶梯井“在哪儿”这件事，文中是提到的，排除NOT GIVEN。之后看是不是all over the world, 由于文章明确说到了north-western India，因此确定答案为FALSE。并且通过阅读全文,可以进一步确认实际上本文只聚焦在印度地区。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 2,
+          "sourceNumber": "2",
+          "prompt": "Stepwells had a range of functions, in addition to those related to water collection.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6806_813225",
+          "explanation": "参考译文：除了那些与水收集有关的功能，阶梯井还有许多其他功能。\n\n定位词：those related to water collection\n\nDuring their heyday, they were places of gathering, of leisure and relaxation and of worship for villagers of all but the lowest classes. 本题说到了“除了”那些与水收集有关的功能，因此重点考的是阶梯井是否有其他功能，与水收集相关的功能在文章首段已经明确提到，即 \"... method of gaining access to dean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation.\" 而除此之外，在文章第二段第二句提到的\"places of gathering, of leisure and relaxation and of worship\" 即题目中的\"a range of functions\"。因此本题选择TRUE。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 3,
+          "sourceNumber": "3",
+          "prompt": "The few existing stepwells in Delhi are more attractive than those found elsewhere.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6806_860018",
+          "explanation": "参考译文：德里所剩无几的阶梯井比其他地区的更引人关注。\n\n定位词：Delhi\n\nMost stepwells are found dotted round the desert areas of Gujarat (where they are called vav) and Rajasthan (where they are called baori), while a few also survive in Delhi. 本题目可以通过专有名词Delhi确定解题区域，题目中考到了比较关系\"are more attractive than\"，因此首先判断是否将Delhi 和其他地区的阶梯井进行了比较。通过阅读本段可以发现，整个段落中都没有进行这个方面的比较，因此直接选择\"NOT GIVEN\"。\n\n补充：对于这类题目的解答，如果在原文中进行了比较，则需要进一步判断是more, less，还是equal, 也就是进步判断TRUE还是FALSE的过程。这道题目相对更简单，答案为NOT GIVEN。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 4,
+          "sourceNumber": "4",
+          "prompt": "It took workers many years to build the stone steps characteristic of stepwells.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6806_544519",
+          "explanation": "参考译文：工人们用许多年时间修建石阶——阶梯井的特色。\n\n定位词：stone steps\n\nAs their name suggests, stepwells comprise a series of stone steps descending from ground level to the water source (normally an underground aquifer) as it recedes following the rains When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated. 根据题目信息，本题首先判断“花费了多久修建”这件事是否提及，如果文中有提及，排除NOT GIVEN选项，如果确实花费了many years，则答案为TRUE，不是many years (例如文中实际提到的是few years)，则答案为FALSE。根据题目中的定位词出现的位置，可以判断本题对应文章第三段，该部分也出现了stone steps，但并没有提到关于“花费时间”的问题，因此本题直接选择\"NOT GIVEN\"。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 5,
+          "sourceNumber": "5",
+          "prompt": "The number of steps above the water level in a stepwell altered during the course of a year.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6806_694122",
+          "explanation": "参考译文：阶梯井中水平面以上的阶梯数量在一年中有所变化。\n\n定位词：steps, above the water level\n\nAs their name suggests, stepwells comprise a series of stone steps descending from ground level to the water source (normally an underground aquifer) as it recedes following the rains. When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated. 本题重点考查关于“水平面以上阶梯的数量”相关的信息，文章第三段具体描述了阶梯井的形式一一从地平面向下延伸至水源，并且在最后一句对不同情况进行了对比：When the water level was high, …a few steps…; When it was low, several levels...说明在一年中随着水量的变化，水平面以上部分的阶梯数量也在变化，因此本题选择TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 6-8\n\nAnswer the questions below.\n\nWrite ONE WORD ONLY from the text in each gap.",
+      "questions": [
+        {
+          "id": 6,
+          "sourceSlot": 6,
+          "sourceNumber": "6",
+          "prompt": "Which part of some stepwells provided shade for people? [6] ______",
+          "answers": [
+            "pavilions"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6806_755146",
+          "explanation": "题号：6\n\n定位词：shade for, people\n\n第四段：Built from stone and supported by pillars, they also included pavilions that sheltered visitors from the relentless heat.\n\n本题问到which part of some stepwells，因此答案应当为关于阶梯井某个部分的名词，且答案限定为一个词，通过题目中的定位词shade for people,在原文中第四段找到sheltered visitors，此处为题目中信息的同义替换，而这部分在句中做修饰成分，因此that前的名词pavilions为本题答案。\n\n题号：7\n\n定位词：serious climatic event, southern Rajasthan\n\n第五段：Their condition hasn't been helped by recent dry spells: southern Rajasthan suffered an eight year drought between 1996 and 2004.\n\n本题问的是type of serious climatic event，因此答案为一个表示气候现象的名词，并且其发生的位置为题目中的southern Rajasthan，在文章第五段最后说到southern Rajasthan suffered an eight-year drought between 1996 and 2004，因此此处的地点原词重现，气候现象为drought。\n\n题号：8\n\n定位词：frequent visitors nowadays\n\n最后一段：Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country's rich history. Tourists flock to wells in far-flung corners of northwestern India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.\n\n本题的出现位置距离前面两道题目比较远，第6题第7题分别位于文章第四段和第五段，而本题问到的是nowadays的情况，从文章结构而言，第六段的However之后重点说到了restoration的问题，之后的几个段落分别针对the stepwell of Rani Ki Vav, Surya Kund, Raniji Ki Baori, Chand Baori以及Neemrana Ki Baori进行了大量的具体描述，直至最后一段开头出现了Today，第二句话中则说到了Tourists flock to wells in far-flung corners of northwestern Indian...也就是说，如今的frequent visitors 指的是本句的主语tourists，因此本题答案为tourists。",
+          "promptHtml": "Which part of some stepwells provided shade for people? [6] ______"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 7,
+          "sourceNumber": "7",
+          "prompt": "What type of serious climatic event, which took place in southern Rajasthan, is mentioned in the article? [7] ______",
+          "answers": [
+            "drought"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6806_861279",
+          "explanation": "题号：6\n\n定位词：shade for, people\n\n第四段：Built from stone and supported by pillars, they also included pavilions that sheltered visitors from the relentless heat.\n\n本题问到which part of some stepwells，因此答案应当为关于阶梯井某个部分的名词，且答案限定为一个词，通过题目中的定位词shade for people,在原文中第四段找到sheltered visitors，此处为题目中信息的同义替换，而这部分在句中做修饰成分，因此that前的名词pavilions为本题答案。\n\n题号：7\n\n定位词：serious climatic event, southern Rajasthan\n\n第五段：Their condition hasn't been helped by recent dry spells: southern Rajasthan suffered an eight year drought between 1996 and 2004.\n\n本题问的是type of serious climatic event，因此答案为一个表示气候现象的名词，并且其发生的位置为题目中的southern Rajasthan，在文章第五段最后说到southern Rajasthan suffered an eight-year drought between 1996 and 2004，因此此处的地点原词重现，气候现象为drought。\n\n题号：8\n\n定位词：frequent visitors nowadays\n\n最后一段：Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country's rich history. Tourists flock to wells in far-flung corners of northwestern India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.\n\n本题的出现位置距离前面两道题目比较远，第6题第7题分别位于文章第四段和第五段，而本题问到的是nowadays的情况，从文章结构而言，第六段的However之后重点说到了restoration的问题，之后的几个段落分别针对the stepwell of Rani Ki Vav, Surya Kund, Raniji Ki Baori, Chand Baori以及Neemrana Ki Baori进行了大量的具体描述，直至最后一段开头出现了Today，第二句话中则说到了Tourists flock to wells in far-flung corners of northwestern Indian...也就是说，如今的frequent visitors 指的是本句的主语tourists，因此本题答案为tourists。",
+          "promptHtml": "What type of serious climatic event, which took place in southern Rajasthan, is mentioned in the article? [7] ______"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 8,
+          "sourceNumber": "8",
+          "prompt": "Who are frequent visitors to stepwells nowadays? [8] ______",
+          "answers": [
+            "tourists"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q6806_411464",
+          "explanation": "题号：6\n\n定位词：shade for, people\n\n第四段：Built from stone and supported by pillars, they also included pavilions that sheltered visitors from the relentless heat.\n\n本题问到which part of some stepwells，因此答案应当为关于阶梯井某个部分的名词，且答案限定为一个词，通过题目中的定位词shade for people,在原文中第四段找到sheltered visitors，此处为题目中信息的同义替换，而这部分在句中做修饰成分，因此that前的名词pavilions为本题答案。\n\n题号：7\n\n定位词：serious climatic event, southern Rajasthan\n\n第五段：Their condition hasn't been helped by recent dry spells: southern Rajasthan suffered an eight year drought between 1996 and 2004.\n\n本题问的是type of serious climatic event，因此答案为一个表示气候现象的名词，并且其发生的位置为题目中的southern Rajasthan，在文章第五段最后说到southern Rajasthan suffered an eight-year drought between 1996 and 2004，因此此处的地点原词重现，气候现象为drought。\n\n题号：8\n\n定位词：frequent visitors nowadays\n\n最后一段：Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country's rich history. Tourists flock to wells in far-flung corners of northwestern India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.\n\n本题的出现位置距离前面两道题目比较远，第6题第7题分别位于文章第四段和第五段，而本题问到的是nowadays的情况，从文章结构而言，第六段的However之后重点说到了restoration的问题，之后的几个段落分别针对the stepwell of Rani Ki Vav, Surya Kund, Raniji Ki Baori, Chand Baori以及Neemrana Ki Baori进行了大量的具体描述，直至最后一段开头出现了Today，第二句话中则说到了Tourists flock to wells in far-flung corners of northwestern Indian...也就是说，如今的frequent visitors 指的是本句的主语tourists，因此本题答案为tourists。",
+          "promptHtml": "Who are frequent visitors to stepwells nowadays? [8] ______"
+        }
+      ],
+      "sourceType": "short_answer",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p>Which part of some stepwells provided shade for people?    <strong>[6] ______</strong></p>\n\n<p>What type of serious climatic event, which took place in southern Rajasthan, is mentioned in the article?    <strong>[7] ______</strong></p>\n\n<p>Who are frequent visitors to stepwells nowadays?    <strong>[8] ______</strong></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "instruction": "Questions 9-13\n\nComplete the table below.\n\nWrite ONE WORD AND/OR A NUMBER from the test in each gap.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 9,
+          "sourceNumber": "9",
+          "prompt": "Excellent condition, despite the [9] ______of 2001",
+          "answers": [
+            "earthquake"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q6806_355416",
+          "explanation": "题号：9\n\n定位词：Rani Ki Vav, 2001\n\n第七段最后一句：Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.\n\n根据空前空后的信息，不难判断本题应当填入名词，而空后出现了2001这一数字，因此在第七段当中找到survived an earthquake，答案应当为earthquake。\n\n题号：10\n\n对应词：Surya Kund geometrical pattern\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题题干形式为Steps on the _____ produce...因此空中应当填人名词，宾语为geometrical pattern。在第八段中第二句的句末可以看到geometrical formation,此处为题目的同义替换，而前面的four sides of steps可以替换题目中的steps on the 10....，因此答案为four sides，这也与题目要求中的ONE WORD AND/OR A NUMBER相吻合。\n\n题号：11\n\n对应词：Surya Kund looks more like, than a well\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题问到看上去更像______而非水井，因此原文中应当有与more like…than a well相对应的结构，并且答案为名词。在第八段第二句中，出现了resembles a tank rather than a well，此处resembles相当于题目中的like，而rather than结构也与题目对应，因此答案应当为tank。\n\n题号：12\n\n对应词：Chand Baori, a view of the steps\n\n第十段最后一句：On the fourth side, verandas which are supported by ornate pillars overlook the steps. 题目所需要填入的内容出现了which引导的从句，因此可以以此为线索进行寻找，此处的provide a view of the steps与原文第十段最后一句中的overlook the steps对应。因此答案为veranda。\n\n本题需要注意的是，原文句子中which are supported by ornate pillars是对主语verandas的修饰，主干为verandas overlook the steps，不要因为overlook the steps前出现了名词pillars 而造成失分。\n\n题号：13\n\n对应词：Neemrana Ki Baori, two, levels\n\n第十一段第二句：Constructed in around 1700, it is nine storeys deep, with the last two being underwater. 本题问到的是levels的修饰语，并且有明显的提示词two，因此在第十一段的第二句中看到with the last two being underwater，答案为此处的underwater。",
+          "promptHtml": "Excellent condition, despite the [9] ______of 2001"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 10,
+          "sourceNumber": "10",
+          "prompt": "Steps on the [10] ______produce a geometrical pattern",
+          "answers": [
+            "4 sides",
+            "four sides"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q6806_560775",
+          "explanation": "题号：9\n\n定位词：Rani Ki Vav, 2001\n\n第七段最后一句：Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.\n\n根据空前空后的信息，不难判断本题应当填入名词，而空后出现了2001这一数字，因此在第七段当中找到survived an earthquake，答案应当为earthquake。\n\n题号：10\n\n对应词：Surya Kund geometrical pattern\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题题干形式为Steps on the _____ produce...因此空中应当填人名词，宾语为geometrical pattern。在第八段中第二句的句末可以看到geometrical formation,此处为题目的同义替换，而前面的four sides of steps可以替换题目中的steps on the 10....，因此答案为four sides，这也与题目要求中的ONE WORD AND/OR A NUMBER相吻合。\n\n题号：11\n\n对应词：Surya Kund looks more like, than a well\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题问到看上去更像______而非水井，因此原文中应当有与more like…than a well相对应的结构，并且答案为名词。在第八段第二句中，出现了resembles a tank rather than a well，此处resembles相当于题目中的like，而rather than结构也与题目对应，因此答案应当为tank。\n\n题号：12\n\n对应词：Chand Baori, a view of the steps\n\n第十段最后一句：On the fourth side, verandas which are supported by ornate pillars overlook the steps. 题目所需要填入的内容出现了which引导的从句，因此可以以此为线索进行寻找，此处的provide a view of the steps与原文第十段最后一句中的overlook the steps对应。因此答案为veranda。\n\n本题需要注意的是，原文句子中which are supported by ornate pillars是对主语verandas的修饰，主干为verandas overlook the steps，不要因为overlook the steps前出现了名词pillars 而造成失分。\n\n题号：13\n\n对应词：Neemrana Ki Baori, two, levels\n\n第十一段第二句：Constructed in around 1700, it is nine storeys deep, with the last two being underwater. 本题问到的是levels的修饰语，并且有明显的提示词two，因此在第十一段的第二句中看到with the last two being underwater，答案为此处的underwater。",
+          "promptHtml": "Steps on the [10] ______produce a geometrical pattern"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "Looks more like a [11] ______than a well",
+          "answers": [
+            "tank"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q6806_545899",
+          "explanation": "题号：9\n\n定位词：Rani Ki Vav, 2001\n\n第七段最后一句：Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.\n\n根据空前空后的信息，不难判断本题应当填入名词，而空后出现了2001这一数字，因此在第七段当中找到survived an earthquake，答案应当为earthquake。\n\n题号：10\n\n对应词：Surya Kund geometrical pattern\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题题干形式为Steps on the _____ produce...因此空中应当填人名词，宾语为geometrical pattern。在第八段中第二句的句末可以看到geometrical formation,此处为题目的同义替换，而前面的four sides of steps可以替换题目中的steps on the 10....，因此答案为four sides，这也与题目要求中的ONE WORD AND/OR A NUMBER相吻合。\n\n题号：11\n\n对应词：Surya Kund looks more like, than a well\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题问到看上去更像______而非水井，因此原文中应当有与more like…than a well相对应的结构，并且答案为名词。在第八段第二句中，出现了resembles a tank rather than a well，此处resembles相当于题目中的like，而rather than结构也与题目对应，因此答案应当为tank。\n\n题号：12\n\n对应词：Chand Baori, a view of the steps\n\n第十段最后一句：On the fourth side, verandas which are supported by ornate pillars overlook the steps. 题目所需要填入的内容出现了which引导的从句，因此可以以此为线索进行寻找，此处的provide a view of the steps与原文第十段最后一句中的overlook the steps对应。因此答案为veranda。\n\n本题需要注意的是，原文句子中which are supported by ornate pillars是对主语verandas的修饰，主干为verandas overlook the steps，不要因为overlook the steps前出现了名词pillars 而造成失分。\n\n题号：13\n\n对应词：Neemrana Ki Baori, two, levels\n\n第十一段第二句：Constructed in around 1700, it is nine storeys deep, with the last two being underwater. 本题问到的是levels的修饰语，并且有明显的提示词two，因此在第十一段的第二句中看到with the last two being underwater，答案为此处的underwater。",
+          "promptHtml": "Looks more like a [11] ______than a well"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "Has [12] ______which provide a view of the steps",
+          "answers": [
+            "verandas",
+            "verandahs"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q6806_728556",
+          "explanation": "题号：9\n\n定位词：Rani Ki Vav, 2001\n\n第七段最后一句：Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.\n\n根据空前空后的信息，不难判断本题应当填入名词，而空后出现了2001这一数字，因此在第七段当中找到survived an earthquake，答案应当为earthquake。\n\n题号：10\n\n对应词：Surya Kund geometrical pattern\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题题干形式为Steps on the _____ produce...因此空中应当填人名词，宾语为geometrical pattern。在第八段中第二句的句末可以看到geometrical formation,此处为题目的同义替换，而前面的four sides of steps可以替换题目中的steps on the 10....，因此答案为four sides，这也与题目要求中的ONE WORD AND/OR A NUMBER相吻合。\n\n题号：11\n\n对应词：Surya Kund looks more like, than a well\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题问到看上去更像______而非水井，因此原文中应当有与more like…than a well相对应的结构，并且答案为名词。在第八段第二句中，出现了resembles a tank rather than a well，此处resembles相当于题目中的like，而rather than结构也与题目对应，因此答案应当为tank。\n\n题号：12\n\n对应词：Chand Baori, a view of the steps\n\n第十段最后一句：On the fourth side, verandas which are supported by ornate pillars overlook the steps. 题目所需要填入的内容出现了which引导的从句，因此可以以此为线索进行寻找，此处的provide a view of the steps与原文第十段最后一句中的overlook the steps对应。因此答案为veranda。\n\n本题需要注意的是，原文句子中which are supported by ornate pillars是对主语verandas的修饰，主干为verandas overlook the steps，不要因为overlook the steps前出现了名词pillars 而造成失分。\n\n题号：13\n\n对应词：Neemrana Ki Baori, two, levels\n\n第十一段第二句：Constructed in around 1700, it is nine storeys deep, with the last two being underwater. 本题问到的是levels的修饰语，并且有明显的提示词two，因此在第十一段的第二句中看到with the last two being underwater，答案为此处的underwater。",
+          "promptHtml": "Has [12] ______which provide a view of the steps"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Has two [13] ______levels",
+          "answers": [
+            "underwater"
+          ],
+          "maxWords": 1,
+          "allowNumber": true,
+          "sourceCode": "Q6806_199128",
+          "explanation": "题号：9\n\n定位词：Rani Ki Vav, 2001\n\n第七段最后一句：Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.\n\n根据空前空后的信息，不难判断本题应当填入名词，而空后出现了2001这一数字，因此在第七段当中找到survived an earthquake，答案应当为earthquake。\n\n题号：10\n\n对应词：Surya Kund geometrical pattern\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题题干形式为Steps on the _____ produce...因此空中应当填人名词，宾语为geometrical pattern。在第八段中第二句的句末可以看到geometrical formation,此处为题目的同义替换，而前面的four sides of steps可以替换题目中的steps on the 10....，因此答案为four sides，这也与题目要求中的ONE WORD AND/OR A NUMBER相吻合。\n\n题号：11\n\n对应词：Surya Kund looks more like, than a well\n\n第八段第二句：It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.\n\n本题问到看上去更像______而非水井，因此原文中应当有与more like…than a well相对应的结构，并且答案为名词。在第八段第二句中，出现了resembles a tank rather than a well，此处resembles相当于题目中的like，而rather than结构也与题目对应，因此答案应当为tank。\n\n题号：12\n\n对应词：Chand Baori, a view of the steps\n\n第十段最后一句：On the fourth side, verandas which are supported by ornate pillars overlook the steps. 题目所需要填入的内容出现了which引导的从句，因此可以以此为线索进行寻找，此处的provide a view of the steps与原文第十段最后一句中的overlook the steps对应。因此答案为veranda。\n\n本题需要注意的是，原文句子中which are supported by ornate pillars是对主语verandas的修饰，主干为verandas overlook the steps，不要因为overlook the steps前出现了名词pillars 而造成失分。\n\n题号：13\n\n对应词：Neemrana Ki Baori, two, levels\n\n第十一段第二句：Constructed in around 1700, it is nine storeys deep, with the last two being underwater. 本题问到的是levels的修饰语，并且有明显的提示词two，因此在第十一段的第二句中看到with the last two being underwater，答案为此处的underwater。",
+          "promptHtml": "Has two [13] ______levels"
+        }
+      ],
+      "sourceType": "table_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Stepwell</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Date　</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Features</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Other notes</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Rani Ki Vav</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>　Late 11th century</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>As many as 500 sculptures decorate the monument</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Restored in the 1960s</p>\n\n\t\t\t<p>Excellent condition, despite the <strong>[9] ______</strong>of 2001</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Surya Kund</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>　1026</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Steps on the <strong>[10] ______</strong>produce a geometrical pattern</p>\n\n\t\t\t<p>Carved shrines</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Looks more like a <strong>[11] ______</strong>than a well</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Raniji Ki  Baori</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>　1699</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Intricately carved monument</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>One of 21 baoris in the area commissioned by Queen Nathavatji</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Chand Baori</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>　850 AD</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Steps take you down 11 storeys to the bottom</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Old, deep and very dramatic</p>\n\n\t\t\t<p>Has <strong>[12] ______</strong>which provide a view of the steps</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Neemrana</strong></p>\n\n\t\t\t<p><strong>Ki Baori</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>　1700</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Has two <strong>[13] ______</strong>levels</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Used by public today</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><strong>Stepwells</strong></span></p><p>A millennium ago, <em>stepwells</em> were fundamental to life in the driest parts of India. Richard Cox travelled to north-western India to document these spectacular monuments from a bygone era.</p><p>During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in north-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation. However, the significance of this invention – the stepwell – goes beyond its utilitarian application.</p><p>Unique to this region, <em>stepwells</em> are often architecturally complex and vary widely in size and shape. During their heyday, they were places of gathering, of leisure and relaxation and of worship for villagers of all but the lowest classes. Most <em>stepwells</em> are found dotted round the desert areas of Gujarat (where they are called vav) and Rajasthan (where they are called baori), while a few also survive in Delhi. Some were located in near villages as public spaces for the community; others were positioned beside ponds as resting places for travellers.</p><p>As their name suggests, <em>stepwells</em> comprise a series of stone steps descending from ground level to the water source (normally an underground aquifer) as it recedes following the rains. When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated.</p><p>Some wells are vast, open craters with hundreds of steps paving each sloping side, often in tiers. Others are more elaborate, with long stepped passages leading to the water via several storeys. Built from stone and supported by pillars, they also included pavilions that sheltered visitors from the relentless heat. But perhaps the most impressive features are the intricate decorative sculptures that embellish many <em>stepwells</em>, showing activities from fighting and dancing to everyday acts such as women combing their hair or churning butter.</p><p>Down the centuries, thousands of wells were constructed throughout north-western India, but the majority have now fallen into disuse; many are derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table. Their condition hasn&#x27;t been helped by recent dry spells: southern Rajasthan suffered an eight-year drought between 1996 and 2004.</p><p>However, some important sites in Gujarat have recently undergone major restoration, and the state government announced in June last year that it plans to restore the <em>stepwells</em> throughout the state.</p><p>In Patan, the state&#x27;s ancient capital, the stepwell of Rani Ki Vav (Queen`s Stepwell) is perhaps the finest current example. It was built by Queen Udayamati during the late 11th century, but became silted up following a flood during the 13th century. But the Archaeological Survey of India began restoring it in the 1960s, and today it is in pristine condition. At 65 metres long, 20 metres wide and 27 metres deep, Rani Ki Vav features 500 sculptures carved into niches throughout the monument. Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.</p><p>Another example is the Surya Kund in Modhera, northern Gujarat, next to the Sun Temple, built by King Bhima I in 1026 to honour the sun god Surya. It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation. The terraces house 108 small, intricately carved shrines between the sets of steps.</p><p>Rajasthan also has a wealth of wells. The ancient city of Bundi, 200 kilometres south of Jaipur, is renowned for its architecture, including its stepwells.</p><p>One of the larger examples is Raniji Ki Baori, which was built by the queen of the region, Nathavatji, in 1699. At 46 metres deep, 20 metres wide and 40 metres long, the intricately carved monument is one of 21 baoris commissioned in the Bundi area by Nathavatji.</p><p>In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori, one of India&#x27;s oldest and deepest wells; aesthetically it&#x27;s perhaps one of the most dramatic. Built in around 850 AD next to the temple of Harshat Mata, the baori comprises hundreds of zigzagging steps that run along three of its sides, steeply descending 11 storeys, resulting in a striking pattern when seen from afar. On the fourth side, verandas which are supported by ornate pillars overlook the steps.</p><p>Still in public use is Neemrana Ki Baori, located just off the Jaipur-Delhi highway. Constructed in around 1700, it is nine storeys deep, with the last two being underwater. At ground level, there are 86 colonnaded openings from where the visitor descends 170 steps to the deepest water source.</p><p>Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognized the importance of preserving them as part of the country&#x27;s rich history. Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and the value of water to human existence.</p>"
+}

@@ -1,0 +1,330 @@
+{
+  "id": "cambridge-6-test-1-reading-2",
+  "title": "DELIVERING THE GOODS",
+  "titleCn": "DELIVERING THE GOODS",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 6,
+    "test": 1
+  },
+  "sourceQuestionId": "7068",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/7068",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "DELIVERING THE GOODS"
+    },
+    {
+      "label": "2",
+      "text": "The vast expansion in international trade owes much to a revolution in the business of moving freight"
+    },
+    {
+      "label": "3",
+      "text": "A International trade is growing at a startling pace. While the global economy has been expanding at a bit over 3% a year, the volume of trade has been rising at a compound annual rate of about twice that. Foreign products, from meat to machinery, play a more important role in almost every economy in the world, and foreign markets now tempt businesses that never much worried about sales beyond their nation's borders."
+    },
+    {
+      "label": "4",
+      "text": "B What lies behind this explosion in international commerce? The general worldwide decline in trade barriers, such as customs duties and import quotas, is surely one explanation. The economic opening of countries that have traditionally been minor players is another. But one force behind the import-export boom has passed all but unnoticed: the rapidly falling cost of getting goods to market. Theoretically, in the world of trade, shipping costs do not matter. Goods, once they have been made, are assumed to move instantly and at no cost from place to place. The real world, however, is full of frictions. Cheap labour may make Chinese clothing competitive in America, but if delays in shipment tie up working capital and cause winter coats to arrive in spring, trade may lose its advantages."
+    },
+    {
+      "label": "5",
+      "text": "C At the turn of the 20th century, agriculture and manufacturing were the two most important sectors almost everywhere, accounting for about 70% of total output in Germany, Italy and France, and 40-50% in America, Britain and Japan. International commerce was therefore dominated by raw materials, such as wheat, wood and iron ore, or processed commodities, such as meat and steel. But these sorts of products are heavy and bulky and the cost of transporting them relatively high."
+    },
+    {
+      "label": "6",
+      "text": "D Countries still trade disproportionately with their geographic neighbours. Over time, however, world output has shifted into goods whose worth is unrelated to their size and weight. Today, it is finished manufactured products that dominate the flow of trade, and, thanks to technological advances such as lightweight components, manufactured goods themselves have tended to become lighter and less bulky. As a result, less transportation is required for every dollar's worth of imports or exports."
+    },
+    {
+      "label": "7",
+      "text": "E To see how this influences trade, consider the business of making disk drives for computers. Most of the world's disk-drive manufacturing is concentrated in South-east Asia. This is possible only because disk drives, while valuable, are small and light and so cost little to ship. Computer manufacturers in Japan or Texas will not face hugely bigger freight bills if they import drives from Singapore rather than purchasing them on the domestic market. Distance therefore poses no obstacle to the globalisation of the disk-drive industry."
+    },
+    {
+      "label": "8",
+      "text": "F This is even more true of the fast-growing information industries. Films and compact discs cost little to transport, even by aeroplane. Computer software can be ‘exported' without ever loading it onto a ship, simply by transmitting it over telephone lines from one country to another, so freight rates and cargo-handling schedules become insignificant factors in deciding where to make the product. Businesses can locate based on other considerations, such as the availability of labour, while worrying less about the cost of delivering their output."
+    },
+    {
+      "label": "9",
+      "text": "G In many countries deregulation has helped to drive the process along. But, behind the scenes, a series of technological innovations known broadly as containerisation and intermodal transportation has led to swift productivity improvements in cargo-handling. Forty years ago, the process of exporting or importing involved a great many stages of handling, which risked portions of the shipment being damaged or stolen along the way. The invention of the container crane made it possible to load and unload containers without capsizing the ship and the adoption of standard container sizes allowed almost any box to be transported on any ship. By 1967, dual-purpose ships, carrying loose cargo in the hold* and containers on the deck, were giving way to all-container vessels that moved thousands of boxes at a time."
+    },
+    {
+      "label": "10",
+      "text": "H The shipping container transformed ocean shipping into a highly efficient, intensely competitive business. But getting the cargo to and from the dock was a different story. National governments, by and large, kept a much firmer hand on truck and railroad tariffs than on charges for ocean freight. This started changing, however, in the mid-1970s, when America began to deregulate its transportation industry. First airlines, then road hauliers and railways, were freed from restrictions on what they could carry, where they could haul it and what price they could charge. Big productivity gains resulted. Between 1985 and 1996, for example, America's freight railways dramatically reduced their employment, trackage, and their fleets of locomotives - while increasing the amount of cargo they hauled. Europe's railways have also shown marked, albeit smaller, productivity improvements."
+    },
+    {
+      "label": "11",
+      "text": "I In America the period of huge productivity gains in transportation may be almost over, but in most countries the process still has far to go. State ownership of railways and airlines, regulation of freight rates and toleration of anti-competitive practices, such as cargo-handling monopolies, all keep the cost of shipping unnecessarily high and deter international trade. Bringing these barriers down would help the world's economies grow even closer."
+    },
+    {
+      "label": "12",
+      "text": "* hold: ship's storage area below deck"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-17\n\nChoose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a suggestion for improving trade in the future",
+          "answers": [
+            "I"
+          ],
+          "sourceCode": "Q7068_986672-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "the effects of the introduction of electronic delivery",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q7068_986672-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "the similar cost involved in transporting a product from abroad or from a local supplier",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q7068_986672-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "the weakening relationship between the value of goods and the cost of their delivery",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q7068_986672-4"
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 18-22\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "International trade is increasing at a greater rate than the world economy.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7068_113550",
+          "explanation": "参考译文：国家贸易比世界经济增长地快很多。\n\n定位词：International trade，world economy\n\n解题关键字：at a greater rate\n\n文中对应A段：...global economy has been expanding at a bit over 3% a year, the volume of trade has been rising at a compound annual rate of about twice that.\n\n非常明显，twice是题眼，表示trade是global economy的两倍，所以看出国际贸易要比世界经济增长快很多，正好对应上定位词和题干。\n\n答案：TRUE"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Cheap labour guarantees effective trade conditions.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q7068_716668",
+          "explanation": "参考译文：廉价劳动力保证了有效的贸易情况。\n\n定位词：Cheap labour\n\n解题关键字：guarantee, effective/but\n\n文中对应B段: Cheap labour may make Chinese clothing competitive in America, but if delays in shipment… trade may lose its advantages.\n\n此题找到对应段落，正好cheap labour用词一样。之后文章尽管说廉价劳动力使得中国纺织品在美国具有竞争力，但要注意转折词'but'，它使意思发生转变。后面的句子可以看出，如果没有好的、及时的运输，那么贸易也就失去了优势(lose advantages)。因此正好是驳斥了题干中关于廉价劳动力对于贸易的保证关系，因此题干与文章的意思不相符。\n\n答案：FALSE"
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Japan imports more meat and steel than France.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7068_486068",
+          "explanation": "参考译文：日本比法国进口更多的肉类和钢铁\n\n定位词：Japan, France\n\n解题关键字：Imports more meat and steel\n\n文中对应C段：...agriculture and manufacturing were the two most important sectors almost everywhere, accounting for about 70% of total output in Germany, Italy and France, and 40-50% in America, Britain and Japan.\n\n题干很明显对于日本和法国的肉类和钢铁的进口量进行比较。文章中C段正好有对应的法国和日本。但文章原义是“农业和制造业几乎曾是各地最重要的两大行业，其比重占德国、意大利和法国总产量的约70%，以及美国.英国和日本总产量的40%～50%。”提到法国比日本多的是农业和制造业的总产量，可文中并没有提及关于肉类和钢铁的进口问题。此题是典型的题不对文，因此应该选择NOT GIVEN。\n\n答案：NOT GIVEN"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Most countries continue to prefer to trade with nearby nations.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q7068_281765",
+          "explanation": "参考译文：大部分国家都继续倾向于和邻国进行贸易。\n\n定位词：trade with nearby nations\n\n解题关键字：most countries\n\n文中对应D段：Countries still trade disproportionately with their geographic neighbours.译文是“各国仍然将重点放在与邻国的贸易往来上”。\n\n其中geographic neighbours与nearby nations对应，still和continue也对应。句子意思也跟题干意思完全吻合，因此此题应该选择TRUE。\n\nTIPS：特别需要注意，因为此题中含有most这一词语，容易误导考生把题干看成是绝对题型而误选成FALSE。对于一般性题目不应该急于运用技巧。\n\n答案：TRUE"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Small computer components are manufactured in Germany.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q7068_646856",
+          "explanation": "参考译文：小的电脑零件在德国生产制造。\n\n定位词：Small computer components\n\n解题关键字：manufactured in Germany\n\n文中对应E段: Most of the world's disk-drive manufacturing is concentrated in South-cast Asia.\n\n首先确定小的电脑零件只能在E和F段来找，而根据E段提供的信息，大部分的电脑配件之一——硬盘都在东南亚生产。 而并没有提到电脑零件在德国生产，因此文章中没有提及，既不肯定也不否定在德国生产小的电脑零件。因此答案应该是NOT GIVEN。\n\n答案：NOT GIVEN"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "matching",
+      "instruction": "Questions 23-26\n\nChoose the correct answer and move it into the gap.",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Modern cargo-handling methods have had a significant effect on [23] ______ as the business of moving freight around the world becomes increasingly streamlined.",
+          "answers": [
+            "G"
+          ],
+          "sourceCode": "Q7068_353583",
+          "explanation": "题号：23\n\n定位词：significant effect on, business of moving freight, increasingly streamlined\n\n文中对应E段: To see how this influences trade 根据题干译文“现代货物装卸方法的影响\"可以判断出答案应该是一个比较抽象的概括性名词。之后找到E段开头句'To see how this influences trade'，可以知道是承接上一段货物类型转变与运输关系的。因此跟business of moving freight becomes increasingly streamlined对应，而且两个词语effect和influence表达相同意义，因此可以选择influences后面的trade（贸易）作为答案。而题干词库中正好有trade一词，可以直接选择答案G。\n\n题号：24\n\n定位词：computers, for instance, overseas, rather than, local\n\n文中对应E段: …in Japan or Texas will not face hugely bigger freight bills if they import drives from Singapore rather than purchasing them on the domestic market. 根据语法，此处要求填写一个名词。而题干附近有一个很明显的关键词'for instance'，典型的举例题，而且根据之前的computers就可以定位在E段，因为E段核心是一个例子。之后就很容易地可以填出应该是电脑的硬盘及divers。但是答案选项里面却没有，只能选择相关的高一级的词汇components。\n\n本题还有一个可以进行定位和判断的定位词，就是通过24题空后面的rather than，继续分析得出其比较两者是overseas和local supplier，根据之前16题对于E段的了解，也可以直接定位到E段。\n\n题号：25\n\n定位词：introduction\n\n文中对应G段：But, behind the scenes, a series of technological innovations known broadly as containerization and intermodal transportation has led to swift productivity improvements in cargohanding. 根据空格前面的introduction可以推出需要填写的是一种方法或者科研成果。而根据上下文和题目关系以及定位词找到在G段第二句话中，有cargo-handling与之对应。之后看到斜体字中即为两种方法，集装箱运输和多式联运，那么可以判innovations和introduction相对应。而且答案应该跟container有关，答案应该填写C。\n\n题号：26\n\n定位词：governments\n\n文中对应H段: National governments, by and large, kept a much firmer hand on truck and railroad tariffs than on charges for ocean freight. 用government可以快速定位在H段，而且根据题干中所涉及的domestic cargo sector可以和truck and railroad对应，因此答案就在这句话中。通过分析，题目的空格应该是填写“降低”的宾语。而国家应该降低原文句中的tariffs(关税)。因此答案选择A。",
+          "promptHtml": "Modern cargo-handling methods have had a significant effect on [23] ______ as the business of moving freight around the world becomes increasingly streamlined."
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Answer for gap 24.",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q7068_965935",
+          "explanation": "题号：23\n\n定位词：significant effect on, business of moving freight, increasingly streamlined\n\n文中对应E段: To see how this influences trade 根据题干译文“现代货物装卸方法的影响\"可以判断出答案应该是一个比较抽象的概括性名词。之后找到E段开头句'To see how this influences trade'，可以知道是承接上一段货物类型转变与运输关系的。因此跟business of moving freight becomes increasingly streamlined对应，而且两个词语effect和influence表达相同意义，因此可以选择influences后面的trade（贸易）作为答案。而题干词库中正好有trade一词，可以直接选择答案G。\n\n题号：24\n\n定位词：computers, for instance, overseas, rather than, local\n\n文中对应E段: …in Japan or Texas will not face hugely bigger freight bills if they import drives from Singapore rather than purchasing them on the domestic market. 根据语法，此处要求填写一个名词。而题干附近有一个很明显的关键词'for instance'，典型的举例题，而且根据之前的computers就可以定位在E段，因为E段核心是一个例子。之后就很容易地可以填出应该是电脑的硬盘及divers。但是答案选项里面却没有，只能选择相关的高一级的词汇components。\n\n本题还有一个可以进行定位和判断的定位词，就是通过24题空后面的rather than，继续分析得出其比较两者是overseas和local supplier，根据之前16题对于E段的了解，也可以直接定位到E段。\n\n题号：25\n\n定位词：introduction\n\n文中对应G段：But, behind the scenes, a series of technological innovations known broadly as containerization and intermodal transportation has led to swift productivity improvements in cargohanding. 根据空格前面的introduction可以推出需要填写的是一种方法或者科研成果。而根据上下文和题目关系以及定位词找到在G段第二句话中，有cargo-handling与之对应。之后看到斜体字中即为两种方法，集装箱运输和多式联运，那么可以判innovations和introduction相对应。而且答案应该跟container有关，答案应该填写C。\n\n题号：26\n\n定位词：governments\n\n文中对应H段: National governments, by and large, kept a much firmer hand on truck and railroad tariffs than on charges for ocean freight. 用government可以快速定位在H段，而且根据题干中所涉及的domestic cargo sector可以和truck and railroad对应，因此答案就在这句话中。通过分析，题目的空格应该是填写“降低”的宾语。而国家应该降低原文句中的tariffs(关税)。因此答案选择A。",
+          "promptHtml": "Answer for gap 24."
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Answer for gap 25.",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q7068_741510",
+          "explanation": "题号：23\n\n定位词：significant effect on, business of moving freight, increasingly streamlined\n\n文中对应E段: To see how this influences trade 根据题干译文“现代货物装卸方法的影响\"可以判断出答案应该是一个比较抽象的概括性名词。之后找到E段开头句'To see how this influences trade'，可以知道是承接上一段货物类型转变与运输关系的。因此跟business of moving freight becomes increasingly streamlined对应，而且两个词语effect和influence表达相同意义，因此可以选择influences后面的trade（贸易）作为答案。而题干词库中正好有trade一词，可以直接选择答案G。\n\n题号：24\n\n定位词：computers, for instance, overseas, rather than, local\n\n文中对应E段: …in Japan or Texas will not face hugely bigger freight bills if they import drives from Singapore rather than purchasing them on the domestic market. 根据语法，此处要求填写一个名词。而题干附近有一个很明显的关键词'for instance'，典型的举例题，而且根据之前的computers就可以定位在E段，因为E段核心是一个例子。之后就很容易地可以填出应该是电脑的硬盘及divers。但是答案选项里面却没有，只能选择相关的高一级的词汇components。\n\n本题还有一个可以进行定位和判断的定位词，就是通过24题空后面的rather than，继续分析得出其比较两者是overseas和local supplier，根据之前16题对于E段的了解，也可以直接定位到E段。\n\n题号：25\n\n定位词：introduction\n\n文中对应G段：But, behind the scenes, a series of technological innovations known broadly as containerization and intermodal transportation has led to swift productivity improvements in cargohanding. 根据空格前面的introduction可以推出需要填写的是一种方法或者科研成果。而根据上下文和题目关系以及定位词找到在G段第二句话中，有cargo-handling与之对应。之后看到斜体字中即为两种方法，集装箱运输和多式联运，那么可以判innovations和introduction相对应。而且答案应该跟container有关，答案应该填写C。\n\n题号：26\n\n定位词：governments\n\n文中对应H段: National governments, by and large, kept a much firmer hand on truck and railroad tariffs than on charges for ocean freight. 用government可以快速定位在H段，而且根据题干中所涉及的domestic cargo sector可以和truck and railroad对应，因此答案就在这句话中。通过分析，题目的空格应该是填写“降低”的宾语。而国家应该降低原文句中的tariffs(关税)。因此答案选择A。",
+          "promptHtml": "Answer for gap 25."
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Answer for gap 26.",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q7068_909516",
+          "explanation": "题号：23\n\n定位词：significant effect on, business of moving freight, increasingly streamlined\n\n文中对应E段: To see how this influences trade 根据题干译文“现代货物装卸方法的影响\"可以判断出答案应该是一个比较抽象的概括性名词。之后找到E段开头句'To see how this influences trade'，可以知道是承接上一段货物类型转变与运输关系的。因此跟business of moving freight becomes increasingly streamlined对应，而且两个词语effect和influence表达相同意义，因此可以选择influences后面的trade（贸易）作为答案。而题干词库中正好有trade一词，可以直接选择答案G。\n\n题号：24\n\n定位词：computers, for instance, overseas, rather than, local\n\n文中对应E段: …in Japan or Texas will not face hugely bigger freight bills if they import drives from Singapore rather than purchasing them on the domestic market. 根据语法，此处要求填写一个名词。而题干附近有一个很明显的关键词'for instance'，典型的举例题，而且根据之前的computers就可以定位在E段，因为E段核心是一个例子。之后就很容易地可以填出应该是电脑的硬盘及divers。但是答案选项里面却没有，只能选择相关的高一级的词汇components。\n\n本题还有一个可以进行定位和判断的定位词，就是通过24题空后面的rather than，继续分析得出其比较两者是overseas和local supplier，根据之前16题对于E段的了解，也可以直接定位到E段。\n\n题号：25\n\n定位词：introduction\n\n文中对应G段：But, behind the scenes, a series of technological innovations known broadly as containerization and intermodal transportation has led to swift productivity improvements in cargohanding. 根据空格前面的introduction可以推出需要填写的是一种方法或者科研成果。而根据上下文和题目关系以及定位词找到在G段第二句话中，有cargo-handling与之对应。之后看到斜体字中即为两种方法，集装箱运输和多式联运，那么可以判innovations和introduction相对应。而且答案应该跟container有关，答案应该填写C。\n\n题号：26\n\n定位词：governments\n\n文中对应H段: National governments, by and large, kept a much firmer hand on truck and railroad tariffs than on charges for ocean freight. 用government可以快速定位在H段，而且根据题干中所涉及的domestic cargo sector可以和truck and railroad对应，因此答案就在这句话中。通过分析，题目的空格应该是填写“降低”的宾语。而国家应该降低原文句中的tariffs(关税)。因此答案选择A。",
+          "promptHtml": "Answer for gap 26."
+        }
+      ],
+      "sourceType": "matching",
+      "sourceContentTypes": [
+        "208"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "tariffs"
+        },
+        {
+          "value": "B",
+          "text": "components"
+        },
+        {
+          "value": "C",
+          "text": "container ships"
+        },
+        {
+          "value": "D",
+          "text": "output"
+        },
+        {
+          "value": "E",
+          "text": "employees"
+        },
+        {
+          "value": "F",
+          "text": "nsurance costs"
+        },
+        {
+          "value": "G",
+          "text": "trade"
+        },
+        {
+          "value": "H",
+          "text": "freight"
+        },
+        {
+          "value": "I",
+          "text": "fares"
+        },
+        {
+          "value": "J",
+          "text": "software"
+        },
+        {
+          "value": "K",
+          "text": "international standards"
+        }
+      ],
+      "contextHtml": "<p><strong><span>THE TRANSPORT REVOLUTION</span></strong></p>\n\n<p>Modern cargo-handling methods have had a significant effect on <strong>[23] ______</strong> as the business of moving freight around the world becomes increasingly streamlined.</p>\n\n<p>Manufacturers of computers, for instance, are able to import <strong>[24] ______</strong> from overseas, rather than having to rely on a local supplier. The introduction of <strong>[25] ______</strong> has meant that bulk cargo can be safely and efficiently moved over long distances. While international shipping is now efficient, there is still a need for governments to reduce <strong>[26] ______</strong> in order to free up the domestic cargo sector.</p>\n"
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>DELIVERING THE GOODS</span></strong></p><p>The vast expansion in international trade owes much to a revolution in the business of moving freight</p><p><img src=\"/api/guest/cambridge/media/images/59ffd26d40aebb3f68f40203538538d4.png\" alt=\"\"></p><p><strong>A</strong>    International trade is growing at a startling pace. While the global economy has been expanding at a bit over 3% a year, the volume of trade has been rising at a compound annual rate of about twice that. Foreign products, from meat to machinery, play a more important role in almost every economy in the world, and foreign markets now tempt businesses that never much worried about sales beyond their nation&#x27;s borders.</p><p><strong>B</strong>    What lies behind this explosion in international commerce? The general worldwide decline in trade barriers, such as customs duties and import quotas, is surely one explanation. The economic opening of countries that have traditionally been minor players is another. But one force behind the import-export boom has passed all but unnoticed: the rapidly falling cost of getting goods to market. Theoretically, in the world of trade, shipping costs do not matter. Goods, once they have been made, are assumed to move instantly and at no cost from place to place. The real world, however, is full of frictions. Cheap labour may make Chinese clothing competitive in America, but if delays in shipment tie up working capital and cause winter coats to arrive in spring, trade may lose its advantages.</p><p><strong>C</strong>    At the turn of the 20th century, agriculture and manufacturing were the two most important sectors almost everywhere, accounting for about 70% of total output in Germany, Italy and France, and 40-50% in America, Britain and Japan. International commerce was therefore dominated by raw materials, such as wheat, wood and iron ore, or processed commodities, such as meat and steel. But these sorts of products are heavy and bulky and the cost of transporting them relatively high.</p><p><strong>D</strong>    Countries still trade disproportionately with their geographic neighbours. Over time, however, world output has shifted into goods whose worth is unrelated to their size and weight. Today, it is finished manufactured products that dominate the flow of trade, and, thanks to technological advances such as lightweight components, manufactured goods themselves have tended to become lighter and less bulky. As a result, less transportation is required for every dollar&#x27;s worth of imports or exports.</p><p><strong>E</strong>    To see how this influences trade, consider the business of making disk drives for computers. Most of the world&#x27;s disk-drive manufacturing is concentrated in South-east Asia. This is possible only because disk drives, while valuable, are small and light and so cost little to ship. Computer manufacturers in Japan or Texas will not face hugely bigger freight bills if they import drives from Singapore rather than purchasing them on the domestic market. Distance therefore poses no obstacle to the globalisation of the disk-drive industry.</p><p><strong>F</strong>    This is even more true of the fast-growing information industries. Films and compact discs cost little to transport, even by aeroplane. Computer software can be ‘exported&#x27; without ever loading it onto a ship, simply by transmitting it over telephone lines from one country to another, so freight rates and cargo-handling schedules become insignificant factors in deciding where to make the product. Businesses can locate based on other considerations, such as the availability of labour, while worrying less about the cost of delivering their output.</p><p><strong>G</strong>    In many countries deregulation has helped to drive the process along. But, behind the scenes, a series of technological innovations known broadly as containerisation and intermodal transportation has led to swift productivity improvements in cargo-handling. Forty years ago, the process of exporting or importing involved a great many stages of handling, which risked portions of the shipment being damaged or stolen along the way. The invention of the container crane made it possible to load and unload containers without capsizing the ship and the adoption of standard container sizes allowed almost any box to be transported on any ship. By 1967, dual-purpose ships, carrying loose cargo in the hold* and containers on the deck, were giving way to all-container vessels that moved thousands of boxes at a time.</p><p><strong>H</strong>    The shipping container transformed ocean shipping into a highly efficient, intensely competitive business. But getting the cargo to and from the dock was a different story. National governments, by and large, kept a much firmer hand on truck and railroad tariffs than on charges for ocean freight. This started changing, however, in the mid-1970s, when America began to deregulate its transportation industry. First airlines, then road hauliers and railways, were freed from restrictions on what they could carry, where they could haul it and what price they could charge. Big productivity gains resulted. Between 1985 and 1996, for example, America&#x27;s freight railways dramatically reduced their employment, trackage, and their fleets of locomotives - while increasing the amount of cargo they hauled. Europe&#x27;s railways have also shown marked, albeit smaller, productivity improvements.</p><p><strong>I</strong>    In America the period of huge productivity gains in transportation may be almost over, but in most countries the process still has far to go. State ownership of railways and airlines, regulation of freight rates and toleration of anti-competitive practices, such as cargo-handling monopolies, all keep the cost of shipping unnecessarily high and deter international trade. Bringing these barriers down would help the world&#x27;s economies grow even closer.</p><p>* hold: ship&#x27;s storage area below deck</p>"
+}

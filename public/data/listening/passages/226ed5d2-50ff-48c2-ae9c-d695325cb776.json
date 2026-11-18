@@ -1,0 +1,240 @@
+{
+  "id": "226ed5d2-50ff-48c2-ae9c-d695325cb776",
+  "title": "School building design",
+  "titleCn": "学校建筑设计：印度山学校与北地学校",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/226ed5d2-50ff-48c2-ae9c-d695325cb776",
+  "duration": 292,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,060"
+    },
+    {
+      "label": "2",
+      "text": "Good morning, everyone. In today's lecture, we're going to explore the fascinating evolution of school building design. For a long time, the physical environment where children learned was largely ignored by educational theorists. But recently, architects have started adopting entirely new philosophies."
+    },
+    {
+      "label": "3",
+      "text": "00:00:24,180"
+    },
+    {
+      "label": "4",
+      "text": "Let's begin by looking at a fascinating project in Asia, the Indian Mountain School. The architects here fundamentally challenged the nineteenth-century industrial model of education."
+    },
+    {
+      "label": "5",
+      "text": "00:00:38,180"
+    },
+    {
+      "label": "6",
+      "text": "You see, historically, schools were designed to operate much like a factory where students were processed on an assembly line in uniform, identical boxes. However, the new approach here was to build the school as a true student-centered learning environment."
+    },
+    {
+      "label": "7",
+      "text": "00:00:56,920"
+    },
+    {
+      "label": "8",
+      "text": "When considering construction materials, the designers wanted to blend local heritage with contemporary needs. They could have easily used brick or concrete, which are standard worldwide. But instead, the main structure is built from natural stone found in the nearby region. This gives the building a very traditional exterior appearance, while the interior layout remains entirely modern."
+    },
+    {
+      "label": "9",
+      "text": "00:01:26,280"
+    },
+    {
+      "label": "10",
+      "text": "Another priority for this school was integrating the building with its natural surroundings. We all know that students need adequate ventilation, but the architects went a step further. A special feature of this design is ensuring every classroom provides a clear view of the scenery outside. Research actually shows that being able to look out at nature can improve students' concentration levels significantly."
+    },
+    {
+      "label": "11",
+      "text": "00:01:56,800"
+    },
+    {
+      "label": "12",
+      "text": "Moving on, let's look at another innovative example, Northland School. Here, the educational philosophy recognizes that teaching methods are constantly evolving, so the building itself must be able to adapt. Therefore, the core belief of the builders was that the environment needed to be extremely flexible. They achieved this by using movable partitions and modular furniture."
+    },
+    {
+      "label": "13",
+      "text": "00:02:26,580"
+    },
+    {
+      "label": "14",
+      "text": "The architects at Northland School also realized that education isn't exclusively about academic achievement. They spent months watching how children behave when they are not in class. As a result, the overall design places a huge priority on the social requirements of the students, creating comfortable breakout areas and collaborative spaces where"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the form below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "8b4747e3-66b4-4bea-b2e8-088af4adc3aa",
+          "prompt": "**School Building Design**\n\n**Indian Mountain School**\n·The architects rejected the 19th-century idea that a school should function like a **31**_____ .",
+          "answers": [
+            "factory"
+          ],
+          "rawAnswer": "factory",
+          "evidence": {
+            "paragraph": "",
+            "quote": "You see, historically, schools were designed to operate much like a factory where students were processed on an assembly line in uniform, identical boxes"
+          },
+          "keywordPairs": [
+            {
+              "question": "should function like",
+              "article": "were designed to operate much like"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "7b6568a0-63c9-4ed9-92ba-ebdf26055687",
+          "prompt": "·The exterior of the building was constructed using locally sourced **32**_____ .",
+          "answers": [
+            "stone"
+          ],
+          "rawAnswer": "stone",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But instead, the main structure is built from natural stone found in the nearby region. This gives the building a very traditional exterior appearance, while the interior layout remains entirely modern"
+          },
+          "keywordPairs": [
+            {
+              "question": "was constructed using",
+              "article": "is built from"
+            },
+            {
+              "question": "locally sourced",
+              "article": "found in the nearby region"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "a0c99b62-ec5d-4c96-804a-8f08917b52bb",
+          "prompt": "·The design ensures that every classroom has an unobstructed **33**_____ of the surrounding landscape.",
+          "answers": [
+            "view"
+          ],
+          "rawAnswer": "view",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A special feature of this design is ensuring every classroom provides a clear view of the scenery outside"
+          },
+          "keywordPairs": [
+            {
+              "question": "unobstructed",
+              "article": "clear"
+            },
+            {
+              "question": "surrounding landscape",
+              "article": "the scenery outside"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "c707f826-8d57-426b-ae44-8f71fa53ae59",
+          "prompt": "**Northland School**\n·The fundamental attitude of the construction team was to make the space highly **34**_____ .",
+          "answers": [
+            "flexible"
+          ],
+          "rawAnswer": "flexible",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Therefore, the core belief of the builders was that the environment needed to be extremely flexible"
+          },
+          "keywordPairs": [
+            {
+              "question": "fundamental attitude",
+              "article": "core belief"
+            },
+            {
+              "question": "construction team",
+              "article": "builders"
+            },
+            {
+              "question": "highly",
+              "article": "extremely"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "914ce752-52a4-4de9-92a6-20467483433e",
+          "prompt": "·Observations of students during breaks led to a strong emphasis on their **35**_____ needs.\n(以下暂无其他题目）",
+          "answers": [
+            "social"
+          ],
+          "rawAnswer": "social",
+          "evidence": {
+            "paragraph": "",
+            "quote": "They spent months watching how children behave when they are not in class. As a result, the overall design places a huge priority on the social requirements of the students"
+          },
+          "keywordPairs": [
+            {
+              "question": "Observations of students",
+              "article": "watching how children behave"
+            },
+            {
+              "question": "during breaks",
+              "article": "when they are not in class"
+            },
+            {
+              "question": "strong emphasis on",
+              "article": "places a huge priority on"
+            },
+            {
+              "question": "needs",
+              "article": "requirements"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        }
+      ]
+    }
+  ],
+  "questionCount": 5,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,060</p><p>Good morning, everyone. In today's lecture, we're going to explore the fascinating evolution of school building design. For a long time, the physical environment where children learned was largely ignored by educational theorists. But recently, architects have started adopting entirely new philosophies. </p><p>00:00:24,180</p><p>Let's begin by looking at a fascinating project in Asia, the Indian Mountain School. The architects here fundamentally challenged the nineteenth-century industrial model of education. </p><p>00:00:38,180</p><p>You see, historically, schools were designed to operate much like a factory where students were processed on an assembly line in uniform, identical boxes. However, the new approach here was to build the school as a true student-centered learning environment. </p><p>00:00:56,920</p><p>When considering construction materials, the designers wanted to blend local heritage with contemporary needs. They could have easily used brick or concrete, which are standard worldwide. But instead, the main structure is built from natural stone found in the nearby region. This gives the building a very traditional exterior appearance, while the interior layout remains entirely modern. </p><p>00:01:26,280</p><p>Another priority for this school was integrating the building with its natural surroundings. We all know that students need adequate ventilation, but the architects went a step further. A special feature of this design is ensuring every classroom provides a clear view of the scenery outside. Research actually shows that being able to look out at nature can improve students' concentration levels significantly. </p><p>00:01:56,800</p><p>Moving on, let's look at another innovative example, Northland School. Here, the educational philosophy recognizes that teaching methods are constantly evolving, so the building itself must be able to adapt. Therefore, the core belief of the builders was that the environment needed to be extremely flexible. They achieved this by using movable partitions and modular furniture. </p><p>00:02:26,580</p><p>The architects at Northland School also realized that education isn't exclusively about academic achievement. They spent months watching how children behave when they are not in class. As a result, the overall design places a huge priority on the social requirements of the students, creating comfortable breakout areas and collaborative spaces where<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/226ed5d2-50ff-48c2-ae9c-d695325cb776.mp3",
+    "durationSeconds": 171.144,
+    "sizeBytes": 685072,
+    "sha256": "2f1d38f3391ab5d979a77dac9bf81513862f21a5b8d20205ae9fc610fb8f4abe",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T03:54:39Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1792132990475_s98yju.mp3"
+}

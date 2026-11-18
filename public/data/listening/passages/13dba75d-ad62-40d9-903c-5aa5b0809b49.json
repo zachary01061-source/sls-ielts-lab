@@ -1,0 +1,411 @@
+{
+  "id": "13dba75d-ad62-40d9-903c-5aa5b0809b49",
+  "title": "Ancient Egyptian medicine",
+  "titleCn": "古埃及医学：处方成分与研究方法",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/13dba75d-ad62-40d9-903c-5aa5b0809b49",
+  "duration": 345,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,880"
+    },
+    {
+      "label": "2",
+      "text": "Today's lecture focuses on the practice of medicine in ancient Egypt. Not just the treatments themselves, but how modern researchers have managed to understand them despite the challenges involved. One major obstacle is the way the ancient material has been preserved. While a small number of medical texts have survived in full, these are rare. In most cases, what we find are collections that appear to be administrative or reference-based."
+    },
+    {
+      "label": "3",
+      "text": "00:00:35,000"
+    },
+    {
+      "label": "4",
+      "text": "Rather than offering full explanations, many of these documents are simply organized as lists of plants, preparations, or ritual items."
+    },
+    {
+      "label": "5",
+      "text": "00:00:46,280"
+    },
+    {
+      "label": "6",
+      "text": "This limitation has led researchers to rely heavily on supplementary evidence. For example, we now know that Egyptian medicine used ingredients that weren't always native to the region."
+    },
+    {
+      "label": "7",
+      "text": "00:01:00,320"
+    },
+    {
+      "label": "8",
+      "text": "Some were clearly imported from far-off places, perhaps through trade with neighboring cultures."
+    },
+    {
+      "label": "9",
+      "text": "00:01:07,640"
+    },
+    {
+      "label": "10",
+      "text": "These imported substances were sometimes expensive or difficult to obtain, making their inclusion quite significant."
+    },
+    {
+      "label": "11",
+      "text": "00:01:17,700"
+    },
+    {
+      "label": "12",
+      "text": "How do we know this?"
+    },
+    {
+      "label": "13",
+      "text": "00:01:19,700"
+    },
+    {
+      "label": "14",
+      "text": "The answer lies in several types of preserved material. One particularly valuable source has been temple decorations. Some temples contain detailed sculptures showing the preparation or application of various treatments."
+    },
+    {
+      "label": "15",
+      "text": "00:01:36,580"
+    },
+    {
+      "label": "16",
+      "text": "Other sources include wall illustrations and sealed jars that have survived in tombs."
+    },
+    {
+      "label": "17",
+      "text": "00:01:43,980"
+    },
+    {
+      "label": "18",
+      "text": "As for why these ingredients were chosen, there's evidence that their use wasn't always purely medical."
+    },
+    {
+      "label": "19",
+      "text": "00:01:52,720"
+    },
+    {
+      "label": "20",
+      "text": "In some cases, certain items were added to enhance the flavor of the medicine, which would have made it more acceptable to consume. Taste, after all, plays a role in whether people are willing to take treatment. A major contribution to this field came from a researcher named Campbell, who systematically analyzed the contents of ancient prescriptions. His study revealed a total of two hundred forty-eight different components, including substances derived from animals and a number of minerals."
+    },
+    {
+      "label": "21",
+      "text": "00:02:31,540"
+    },
+    {
+      "label": "22",
+      "text": "Some ingredients had symbolic significance. Items like onions or fish, for instance, were seen as symbols of strength or divine favor rather than functioning as active medical agents."
+    },
+    {
+      "label": "23",
+      "text": "00:02:45,620"
+    },
+    {
+      "label": "24",
+      "text": "But not everything was symbolic. Some ingredients had practical applications. Sugar, for example, appears to have been used to preserve mixtures and create pastes that adhered well to wounds or skin. The physical setting where these treatments occurred also mattered. During mummification, procedures had to take place in environments that were kept clean, likely to reduce contamination as well as for religious purity. And when it came to wrapping among the deceased, archaeological finds show that bandages were sometimes reinforced with substances such as resin or metal, possibly for extra durability or spiritual protection."
+    },
+    {
+      "label": "25",
+      "text": "00:03:28,860"
+    },
+    {
+      "label": "26",
+      "text": "But medical treatment wasn't just about death rituals. For everyday injuries, ingredients like honey were commonly applied to wounds, thanks to their natural ability to reduce infection and encourage healing."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "2e29c400-44a5-40c2-bc2b-80247aa0c3d7",
+          "prompt": "**Problems**\n·Only 12 medical texts have been fully preserved\n·Many ancient records were written as **31**_____ rather than detailed explanations.",
+          "answers": [
+            "lists"
+          ],
+          "rawAnswer": "lists",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Rather than offering full explanations, many of these documents are simply organized as lists of plants, preparations, or ritual items"
+          },
+          "keywordPairs": [
+            {
+              "question": "records",
+              "article": "documents"
+            },
+            {
+              "question": "written as",
+              "article": "organized as"
+            },
+            {
+              "question": "detailed",
+              "article": "full"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "d6caf13c-d1ea-418a-95df-046da0b1ed92",
+          "prompt": "**Sources of knowledge**\n·Some spices were **32**_____ from outside Egypt.",
+          "answers": [
+            "imported"
+          ],
+          "rawAnswer": "imported",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some were clearly imported from far-off places, perhaps through trade with neighboring cultures"
+          },
+          "keywordPairs": [
+            {
+              "question": "outside Egypt",
+              "article": "far-off places"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "6c7963aa-2c9f-48ae-b102-50f3ef65aaca",
+          "prompt": "Found in:\nBotanical specimens\nWall paintings\nTemple decorations like **33**_____ .",
+          "answers": [
+            "sculptures"
+          ],
+          "rawAnswer": "sculptures",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some temples contain detailed sculptures showing the preparation or application of various treatments"
+          },
+          "keywordPairs": [
+            {
+              "question": "like",
+              "article": "contain"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "7690ac85-4f2a-4c29-ad84-3923e2a59ef2",
+          "prompt": "**Uses of substances**\nSome ingredients were added for **34**_____ .\nOthers were likely symbolic\nOthers may have had symbolic or spiritual meanings",
+          "answers": [
+            "flavour"
+          ],
+          "rawAnswer": "flavour",
+          "evidence": {
+            "paragraph": "",
+            "quote": "In some cases, certain items were added to enhance the flavor of the medicine, which would have made it more acceptable to consume"
+          },
+          "keywordPairs": [
+            {
+              "question": "Some ingredients",
+              "article": "certain items"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "02930b49-dea7-4e0e-825d-5745364e98fe",
+          "prompt": "**Campbell's research findings**\nIdentified 248 substances, Including animals and some **35**_____ .",
+          "answers": [
+            "minerals"
+          ],
+          "rawAnswer": "minerals",
+          "evidence": {
+            "paragraph": "",
+            "quote": "His study revealed a total of two hundred forty-eight different components, including substances derived from animals and a number of minerals"
+          },
+          "keywordPairs": [
+            {
+              "question": "research",
+              "article": "study"
+            },
+            {
+              "question": "Identified",
+              "article": "revealed"
+            },
+            {
+              "question": "substances",
+              "article": "components"
+            },
+            {
+              "question": "some",
+              "article": "a number of"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "63d17f90-43b9-45ab-b3ab-1f2c94e64fca",
+          "prompt": "Certain items like onions and fish were considered **36**_____ of power.",
+          "answers": [
+            "symbols"
+          ],
+          "rawAnswer": "symbols",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Some ingredients had symbolic significance. Items like onions or fish, for instance, were seen as symbols of strength or divine favor rather than functioning as active medical agents"
+          },
+          "keywordPairs": [
+            {
+              "question": "considered",
+              "article": "seen as"
+            },
+            {
+              "question": "power",
+              "article": "strength"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "8a920212-ae6c-4bb6-872f-01dd8fb6c57f",
+          "prompt": "Substances such as **37**_____ were used for practical reasons.",
+          "answers": [
+            "sugar"
+          ],
+          "rawAnswer": "sugar",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Sugar, for example, appears to have been used to preserve mixtures and create pastes that adhered well to wounds or skin"
+          },
+          "keywordPairs": [
+            {
+              "question": "such as",
+              "article": "for example"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "6bfd9a37-1c3c-44b2-81e8-2a56da6f5e68",
+          "prompt": "Mummification process required the area to be **38**_____ .",
+          "answers": [
+            "clean"
+          ],
+          "rawAnswer": "clean",
+          "evidence": {
+            "paragraph": "",
+            "quote": "During mummification, procedures had to take place in environments that were kept clean, likely to reduce contamination as well as for religious purity"
+          },
+          "keywordPairs": [
+            {
+              "question": "required",
+              "article": "had to take place in environments that were kept"
+            },
+            {
+              "question": "area",
+              "article": "environments"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "3508677f-d471-4683-b6b3-270bcb9a911f",
+          "prompt": "Wrapping the body involved using materials like resin and **39**_____ .",
+          "answers": [
+            "metal"
+          ],
+          "rawAnswer": "metal",
+          "evidence": {
+            "paragraph": "",
+            "quote": "archaeological finds show that bandages were sometimes reinforced with substances such as resin or metal, possibly for extra durability or spiritual protection"
+          },
+          "keywordPairs": [
+            {
+              "question": "Wrapping the body",
+              "article": "bandages"
+            },
+            {
+              "question": "involved using materials",
+              "article": "reinforced with substances"
+            },
+            {
+              "question": "like",
+              "article": "such as"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "eebd14b2-231e-4bab-9a2b-e48a24ce18ef",
+          "prompt": "**40**_____ was applied to heal wounds.",
+          "answers": [
+            "honey"
+          ],
+          "rawAnswer": "honey",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For everyday injuries, ingredients like honey were commonly applied to wounds, thanks to their natural ability to reduce infection and encourage healing"
+          },
+          "keywordPairs": [
+            {
+              "question": "heal wounds",
+              "article": "encourage healing"
+            }
+          ],
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,880</p><p>Today's lecture focuses on the practice of medicine in ancient Egypt. Not just the treatments themselves, but how modern researchers have managed to understand them despite the challenges involved. One major obstacle is the way the ancient material has been preserved. While a small number of medical texts have survived in full, these are rare. In most cases, what we find are collections that appear to be administrative or reference-based. </p><p>00:00:35,000</p><p>Rather than offering full explanations, many of these documents are simply organized as lists of plants, preparations, or ritual items. </p><p>00:00:46,280</p><p>This limitation has led researchers to rely heavily on supplementary evidence. For example, we now know that Egyptian medicine used ingredients that weren't always native to the region. </p><p>00:01:00,320</p><p>Some were clearly imported from far-off places, perhaps through trade with neighboring cultures. </p><p>00:01:07,640</p><p>These imported substances were sometimes expensive or difficult to obtain, making their inclusion quite significant. </p><p>00:01:17,700</p><p>How do we know this? </p><p>00:01:19,700</p><p>The answer lies in several types of preserved material. One particularly valuable source has been temple decorations. Some temples contain detailed sculptures showing the preparation or application of various treatments. </p><p>00:01:36,580</p><p>Other sources include wall illustrations and sealed jars that have survived in tombs. </p><p>00:01:43,980</p><p>As for why these ingredients were chosen, there's evidence that their use wasn't always purely medical. </p><p>00:01:52,720</p><p>In some cases, certain items were added to enhance the flavor of the medicine, which would have made it more acceptable to consume. Taste, after all, plays a role in whether people are willing to take treatment. A major contribution to this field came from a researcher named Campbell, who systematically analyzed the contents of ancient prescriptions. His study revealed a total of two hundred forty-eight different components, including substances derived from animals and a number of minerals. </p><p>00:02:31,540</p><p>Some ingredients had symbolic significance. Items like onions or fish, for instance, were seen as symbols of strength or divine favor rather than functioning as active medical agents. </p><p>00:02:45,620</p><p>But not everything was symbolic. Some ingredients had practical applications. Sugar, for example, appears to have been used to preserve mixtures and create pastes that adhered well to wounds or skin. The physical setting where these treatments occurred also mattered. During mummification, procedures had to take place in environments that were kept clean, likely to reduce contamination as well as for religious purity. And when it came to wrapping among the deceased, archaeological finds show that bandages were sometimes reinforced with substances such as resin or metal, possibly for extra durability or spiritual protection. </p><p>00:03:28,860</p><p>But medical treatment wasn't just about death rituals. For everyday injuries, ingredients like honey were commonly applied to wounds, thanks to their natural ability to reduce infection and encourage healing.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/13dba75d-ad62-40d9-903c-5aa5b0809b49.mp3",
+    "durationSeconds": 224.928,
+    "sizeBytes": 900057,
+    "sha256": "45c92b6fcb1e840db5bb9cb7332fbe98ddb6aae59da33681f0e0295f5ca18351",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T05:26:33Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786346342618_fv3f1t_7e9b5665.mp3"
+}

@@ -1,0 +1,454 @@
+{
+  "id": "cambridge-15-test-3-listening-2",
+  "title": "Street Play Scheme",
+  "titleCn": "Street Play Scheme",
+  "subject": "listening",
+  "part": 2,
+  "duration": 424,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 15,
+    "test": 3
+  },
+  "sourceQuestionId": "8116",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/1/8116",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "PART 2"
+    },
+    {
+      "label": "2",
+      "text": "Presenter: My guest on the show today is Alice Riches who started the Street Play Scheme where she lives in Beechwood Road. For those of you that don't already know – Street Play involves local residents closing off their street for a few hours so that children have a chance to play in the street safely. She started it in her own street, Beechwood Road, and the idea caught on, and there are now Street Play Schemes all over the city. So when did you actually start the scheme, Alice?"
+    },
+    {
+      "label": "3",
+      "text": "Alice: Well, I first had the idea when my oldest child was still a toddler, so that's about six years ago now – but it took at least two years of campaigning before we were actually able to make it happen. So the scheme's been up and running for three years now. We'd love to be able to close our road for longer – for the whole weekend, from Saturday morning until Sunday evening, for example. At the moment it's just once a week. But when we started it was only once a month. But we're working on it."
+    },
+    {
+      "label": "4",
+      "text": "Presenter: So what actually happens when Beechwood Road is closed?"
+    },
+    {
+      "label": "5",
+      "text": "Alice: We have volunteer wardens, mostly parents but some elderly residents too, who block off our road at either end. The council have provided special signs but there's always a volunteer there to explain what's happening to any motorists. Generally, they're fine about it – we've only had to get the police involved once or twice."
+    },
+    {
+      "label": "6",
+      "text": "Now I should explain that the road isn't completely closed to cars. But only residents' cars are allowed. If people really need to get in or out of Beechwood Road, it's not a problem – as long as they drive at under 20 kilometres per hour. But most people just decide not to use their cars during this time, or they park in another street. The wardens are only there to stop through traffic."
+    },
+    {
+      "label": "7",
+      "text": "Presenter: So can anyone apply to get involved in Street Play?"
+    },
+    {
+      "label": "8",
+      "text": "Alice: Absolutely – we want to include all kids in the city – especially those who live on busy roads. It's here that demand is greatest. Obviously, there isn't such demand in wealthier areas where the children have access to parks or large gardens – or in the suburbs where there are usually more places for children to play outside."
+    },
+    {
+      "label": "9",
+      "text": "I'd recommend that anyone listening who likes the idea should just give it a go. We've been surprised by the positive reaction of residents all over the city. And that's not just parents. There are always a few who complain but they're a tiny minority. On the whole everyone is very supportive and say they're very happy to see children out on the street – even if it does get quite noisy."
+    },
+    {
+      "label": "10",
+      "text": "Alice: There have been so many benefits of Street Play for the kids. Parents really like the fact that the kids are getting fresh air instead of sitting staring at a computer screen, even if they're not doing anything particularly energetic. And of course it's great that kids can play with their friends outside without being supervised by their parents – but for me the biggest advantage is that kids develop confidence in themselves to be outside without their parents. The other really fantastic thing is that children get to know the adults in the street – it's like having a big extended family."
+    },
+    {
+      "label": "11",
+      "text": "Presenter: It certainly does have a lot of benefits. I want to move on now and ask you about a related project in King Street."
+    },
+    {
+      "label": "12",
+      "text": "Alice: Right. Well this was an experiment I was involved in where local residents decided to try and reduce the traffic along King Street, which is the busiest main road in our area, by persuading people not to use their cars for one day. We thought about making people pay more for parking – but we decided that would be really unpopular – so instead we just stopped people from parking on King Street but left the other car parks open."
+    },
+    {
+      "label": "13",
+      "text": "It was surprising how much of a difference all this made. As we'd predicted, air quality was significantly better but what I hadn't expected was how much quieter it would be – even with the buses still running. Of course everyone said they felt safer but we were actually amazed that sales in the shops went up considerably that day – we thought there'd be fewer people out shopping – not more."
+    },
+    {
+      "label": "14",
+      "text": "Presenter: That's really interesting so the fact that ..."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "instruction": "Questions 11–16\n\nChoose the correct letter, A, B or C.\n\nStreet Play Scheme",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 11,
+          "sourceNumber": "11",
+          "prompt": "When did the Street Play Scheme first take place?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8116_534165",
+          "options": [
+            {
+              "value": "A",
+              "text": "two years ago"
+            },
+            {
+              "value": "B",
+              "text": "three years ago"
+            },
+            {
+              "value": "C",
+              "text": "six years ago"
+            }
+          ],
+          "explanation": "本题干扰明显，三个选项均原文有提及。选项C：说话者Alice在六年前就有这个主意了，选项A： 这个方案开始前，有两年的宣传提案期。考生需要理解has been up and running表示“开始并运行”，方能选到B选项。"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 12,
+          "sourceNumber": "12",
+          "prompt": "How often is Beechwood Road closed to traffic now?",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8116_882300",
+          "options": [
+            {
+              "value": "A",
+              "text": "once a week"
+            },
+            {
+              "value": "B",
+              "text": "on Saturdays and Sundays"
+            },
+            {
+              "value": "C",
+              "text": "once a month"
+            }
+          ],
+          "explanation": "本题干扰明显，三个选项均原文有提及。在选项B的前后，原文提到we'd love to，for example，表示这是我们的希望，不是事实。选项C：最开始是每月一次。但是现在不是。选项A原词重现，且为答案。"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 13,
+          "sourceNumber": "13",
+          "prompt": "Who is responsible for closing the road?",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8116_200250",
+          "options": [
+            {
+              "value": "A",
+              "text": "a council official"
+            },
+            {
+              "value": "B",
+              "text": "the police"
+            },
+            {
+              "value": "C",
+              "text": "local wardens"
+            }
+          ],
+          "explanation": "本题干扰明显。选项B：只有一到两次请了警察来帮助方案的实施，警察并不是负责人。选项A：council被提及，但是没有说委员会官员是负责人。选项C：local wardens与原文volunteer wardens，parents，elderly residents替换。考生若不知道warden的含义，那么可以尝试使用排除法，筛选出答案。"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Residents who want to use their cars",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8116_525657",
+          "options": [
+            {
+              "value": "A",
+              "text": "have to park in another street."
+            },
+            {
+              "value": "B",
+              "text": "must drive very slowly."
+            },
+            {
+              "value": "C",
+              "text": "need permission from a warden."
+            }
+          ],
+          "explanation": "题干词car原文重现，较易定位。原文提到人们可以自由从Beechwood路进出，只要他们开车的速度控制在20 公里每小时以下就行。drive very slowly 与原文 drive at under 20 kilometres per hour 替换。"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Alice says that Street Play Schemes are most needed in",
+          "answers": [
+            "C"
+          ],
+          "sourceCode": "Q8116_622316",
+          "options": [
+            {
+              "value": "A",
+              "text": "wealthy areas."
+            },
+            {
+              "value": "B",
+              "text": "quiet suburban areas."
+            },
+            {
+              "value": "C",
+              "text": "areas with heavy traffic."
+            }
+          ],
+          "explanation": "题干词Street Play Scheme原文重现，可以用于定位。原文提到“尤其是那些住在繁忙道路的孩子”，因此选C。题干heavy traffic与原文busy roads 替换。考生需听到 isn't，方能排除A和C选项。"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "What has been the reaction of residents who are not parents?",
+          "answers": [
+            "B"
+          ],
+          "sourceCode": "Q8116_381117",
+          "options": [
+            {
+              "value": "A",
+              "text": "Many of them were unhappy at first."
+            },
+            {
+              "value": "B",
+              "text": "They like seeing children play in the street."
+            },
+            {
+              "value": "C",
+              "text": "They are surprised by the lack of noise."
+            }
+          ],
+          "explanation": "题干词reaction原文重现，可以用于定位。原文提到他们很支持，很开心看到孩子在外面玩耍，因此选B。选项A：原文提到了少部分人抱怨了，但是题干说的是许多人，两者矛盾，因此不选。选项C：原文提及了挺吵的，与题干说的不吵互相矛盾，因此不选。"
+        }
+      ],
+      "sourceType": "single_choice",
+      "sourceContentTypes": [
+        "201"
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "multi",
+      "instruction": "Questions 17 and 18\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Which TWO benefits for children does Alice think are the most important?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8116_188313",
+          "options": [
+            {
+              "value": "A",
+              "text": "increased physical activity"
+            },
+            {
+              "value": "B",
+              "text": "increased sense of independence"
+            },
+            {
+              "value": "C",
+              "text": "opportunity to learn new games"
+            },
+            {
+              "value": "D",
+              "text": "opportunity to be part of a community"
+            },
+            {
+              "value": "E",
+              "text": "opportunity to make new friends"
+            }
+          ],
+          "explanation": "题干词reaction原文重现，可以用于定位。考生需要注意题干中的most important，并且识别其在原文中的同义替换。Most important与原文中的biggest advantage 和 really fantastic替换。文中用了并列结构先后引出选项B和选项D。选项B中sense of independence 与原文 develop confidence in themselves without parents替换。选项D中community与原文extended family替换。Extended family可能会迷惑考生选择E选项，此处替换稍难。选项A和C在最初被排除。",
+          "setId": "Q8116_188313",
+          "blockId": "Q8116_188313"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Which TWO benefits for children does Alice think are the most important?",
+          "answers": [
+            "B",
+            "D"
+          ],
+          "sourceCode": "Q8116_188313",
+          "options": [
+            {
+              "value": "A",
+              "text": "increased physical activity"
+            },
+            {
+              "value": "B",
+              "text": "increased sense of independence"
+            },
+            {
+              "value": "C",
+              "text": "opportunity to learn new games"
+            },
+            {
+              "value": "D",
+              "text": "opportunity to be part of a community"
+            },
+            {
+              "value": "E",
+              "text": "opportunity to make new friends"
+            }
+          ],
+          "explanation": "题干词reaction原文重现，可以用于定位。考生需要注意题干中的most important，并且识别其在原文中的同义替换。Most important与原文中的biggest advantage 和 really fantastic替换。文中用了并列结构先后引出选项B和选项D。选项B中sense of independence 与原文 develop confidence in themselves without parents替换。选项D中community与原文extended family替换。Extended family可能会迷惑考生选择E选项，此处替换稍难。选项A和C在最初被排除。",
+          "setId": "Q8116_188313",
+          "blockId": "Q8116_188313"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "increased physical activity"
+        },
+        {
+          "value": "B",
+          "text": "increased sense of independence"
+        },
+        {
+          "value": "C",
+          "text": "opportunity to learn new games"
+        },
+        {
+          "value": "D",
+          "text": "opportunity to be part of a community"
+        },
+        {
+          "value": "E",
+          "text": "opportunity to make new friends"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 19 and 20\n\nChoose TWO letters, A–E.",
+      "questions": [
+        {
+          "id": 9,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Which TWO results of the King Street experiment surprised Alice?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8116_906841",
+          "options": [
+            {
+              "value": "A",
+              "text": "more shoppers"
+            },
+            {
+              "value": "B",
+              "text": "improved safety"
+            },
+            {
+              "value": "C",
+              "text": "less air pollution"
+            },
+            {
+              "value": "D",
+              "text": "more relaxed atmosphere"
+            },
+            {
+              "value": "E",
+              "text": "less noise pollution"
+            }
+          ],
+          "explanation": "题干词King Street原文重现，非常稳定，可以用于定位。考生需要注意题干中的surprise，并且识别其在原文中的同义替换。Surprise有两处替换： hadn't expect 和amazed替换。选项E less noise pollution 与原文how much quieter替换，选项A more shopper与原文sales went up，more替换。如果对A选项依然存疑，请查阅文本解析中的第7句话。选项C：原文说和我们预期的一样，空气会更好，与题干所问相互矛盾，因此不选。选项B提及，但是并未说感到惊讶，不选。选项D未提及。",
+          "setId": "Q8116_906841",
+          "blockId": "Q8116_906841"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Which TWO results of the King Street experiment surprised Alice?",
+          "answers": [
+            "A",
+            "E"
+          ],
+          "sourceCode": "Q8116_906841",
+          "options": [
+            {
+              "value": "A",
+              "text": "more shoppers"
+            },
+            {
+              "value": "B",
+              "text": "improved safety"
+            },
+            {
+              "value": "C",
+              "text": "less air pollution"
+            },
+            {
+              "value": "D",
+              "text": "more relaxed atmosphere"
+            },
+            {
+              "value": "E",
+              "text": "less noise pollution"
+            }
+          ],
+          "explanation": "题干词King Street原文重现，非常稳定，可以用于定位。考生需要注意题干中的surprise，并且识别其在原文中的同义替换。Surprise有两处替换： hadn't expect 和amazed替换。选项E less noise pollution 与原文how much quieter替换，选项A more shopper与原文sales went up，more替换。如果对A选项依然存疑，请查阅文本解析中的第7句话。选项C：原文说和我们预期的一样，空气会更好，与题干所问相互矛盾，因此不选。选项B提及，但是并未说感到惊讶，不选。选项D未提及。",
+          "setId": "Q8116_906841",
+          "blockId": "Q8116_906841"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "more shoppers"
+        },
+        {
+          "value": "B",
+          "text": "improved safety"
+        },
+        {
+          "value": "C",
+          "text": "less air pollution"
+        },
+        {
+          "value": "D",
+          "text": "more relaxed atmosphere"
+        },
+        {
+          "value": "E",
+          "text": "less noise pollution"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>PART 2<br>\nPresenter: My guest on the show today is Alice Riches who started the Street Play Scheme where she lives in Beechwood Road. For those of you that don&#x27;t already know – Street Play involves local residents closing off their street for a few hours so that children have a chance to play in the street safely. She started it in her own street, Beechwood Road, and the idea caught on, and there are now Street Play Schemes all over the city. So when did you actually start the scheme, Alice?<br>\nAlice: Well, I first had the idea when my oldest child was still a toddler, so that&#x27;s about six years ago now – but it took at least two years of campaigning before we were actually able to make it happen. So the scheme&#x27;s been up and running for three years now. We&#x27;d love to be able to close our road for longer – for the whole weekend, from Saturday morning until Sunday evening, for example. At the moment it&#x27;s just once a week. But when we started it was only once a month. But we&#x27;re working on it.<br>\nPresenter: So what actually happens when Beechwood Road is closed?<br>\nAlice: We have volunteer wardens, mostly parents but some elderly residents too, who block off our road at either end. The council have provided special signs but there&#x27;s always a volunteer there to explain what&#x27;s happening to any motorists. Generally, they&#x27;re fine about it – we&#x27;ve only had to get the police involved once or twice.</p>\n\n<p>Now I should explain that the road isn&#x27;t completely closed to cars. But only residents&#x27; cars are allowed. If people really need to get in or out of Beechwood Road, it&#x27;s not a problem – as long as they drive at under 20 kilometres per hour. But most people just decide not to use their cars during this time, or they park in another street. The wardens are only there to stop through traffic.<br>\nPresenter: So can anyone apply to get involved in Street Play?<br>\nAlice: Absolutely – we want to include all kids in the city – especially those who live on busy roads. It&#x27;s here that demand is greatest. Obviously, there isn&#x27;t such demand in wealthier areas where the children have access to parks or large gardens – or in the suburbs where there are usually more places for children to play outside.<br>\nI&#x27;d recommend that anyone listening who likes the idea should just give it a go. We&#x27;ve been surprised by the positive reaction of residents all over the city. And that&#x27;s not just parents. There are always a few who complain but they&#x27;re a tiny minority. On the whole everyone is very supportive and say they&#x27;re very happy to see children out on the street – even if it does get quite noisy.</p>\n\n<p>Alice: There have been so many benefits of Street Play for the kids. Parents really like the fact that the kids are getting fresh air instead of sitting staring at a computer screen, even if they&#x27;re not doing anything particularly energetic. And of course it&#x27;s great that kids can play with their friends outside without being supervised by their parents – but for me the biggest advantage is that kids develop confidence in themselves to be outside without their parents. The other really fantastic thing is that children get to know the adults in the street – it&#x27;s like having a big extended family.<br>\nPresenter: It certainly does have a lot of benefits. I want to move on now and ask you about a related project in King Street.<br>\nAlice: Right. Well this was an experiment I was involved in where local residents decided to try and reduce the traffic along King Street, which is the busiest main road in our area, by persuading people not to use their cars for one day. We thought about making people pay more for parking – but we decided that would be really unpopular – so instead we just stopped people from parking on King Street but left the other car parks open.<br>\nIt was surprising how much of a difference all this made. As we&#x27;d predicted, air quality was significantly better but what I hadn&#x27;t expected was how much quieter it would be – even with the buses still running. Of course everyone said they felt safer but we were actually amazed that sales in the shops went up considerably that day – we thought there&#x27;d be fewer people out shopping – not more.<br>\nPresenter: That&#x27;s really interesting so the fact that ...</p>",
+  "audio": {
+    "src": "/api/guest/cambridge/media/audio/8116.mp3",
+    "status": "ready",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 424.333
+  }
+}

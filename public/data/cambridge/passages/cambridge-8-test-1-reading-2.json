@@ -1,0 +1,291 @@
+{
+  "id": "cambridge-8-test-1-reading-2",
+  "title": "AIR TRAFFIC IN THEUSA",
+  "titleCn": "AIR TRAFFIC IN THEUSA",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 8,
+    "test": 1
+  },
+  "sourceQuestionId": "6974",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/6974",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "AIR TRAFFIC CONTROL IN THE USA"
+    },
+    {
+      "label": "2",
+      "text": "1"
+    },
+    {
+      "label": "3",
+      "text": "A An accident that occurred in the skies over the Grand Canyon in 1956 resulted in the establishment of the Federal Aviation Administration (FAA) to regulate and oversee the operation of aircraft in the skies over the United States, which were becoming quite congested. The resulting structure of air traffic control has greatly increased the safety of flight in the United States, and similar air traffic control procedures are also in place over much of the rest of the world."
+    },
+    {
+      "label": "4",
+      "text": "B Rudimentary air traffic control (ATC) existed well before the Grand Canyon disaster. As early as the 1920s, the earliest air traffic controllers manually guided aircraft in the vicinity of the airports, using lights and flags, while beacons and flashing lights were placed along cross-country routes to establish the earliest airways. However, this purely visual system was useless in bad weather, and, by the 1930s, radio communication was coming into use for ATC. The first region to have something approximating today's ATC was New York City, with other major metropolitan areas following soon after."
+    },
+    {
+      "label": "5",
+      "text": "2"
+    },
+    {
+      "label": "6",
+      "text": "C In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War, but the system remained rudimentary. It was only after the creation of the FAA that full-scale regulation of America's airspace took place, and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast planes, reducing pilots' margin of error and practically demanding some set of rules to keep everyone well separated and operating safely in the air."
+    },
+    {
+      "label": "7",
+      "text": "3"
+    },
+    {
+      "label": "8",
+      "text": "D Many people think that ATC consists of a row of controllers sitting in front of their radar screens at the nation's airports, telling arriving and departing traffic what to do. This is a very incomplete part of the picture. The FAA realised that the airspace over the United States would at any time have many different kinds of planes, flying for many different purposes, in a variety of weather conditions, and the same kind of structure was needed to accommodate all of them."
+    },
+    {
+      "label": "9",
+      "text": "4"
+    },
+    {
+      "label": "10",
+      "text": "E To meet this challenge, the following elements were put into effect. First, ATC extends over virtually the entire United States. In general, from 365m above the ground and higher, the entire country is blanketed by controlled airspace. In certain areas, mainly near airports, controlled airspace extends down to 215m above the ground, and, in the immediate vicinity of an airport, all the way down to the surface. Controlled airspace is that airspace in which FAA regulations apply. Elsewhere, in uncontrolled airspace, pilots are bound by fewer regulations. In this way, the recreational pilot who simply wishes to go flying for a while without all the restrictions imposed by the FAA has only to stay in uncontrolled airspace, below 365m, while the pilot who does want the protection afforded by ATC can easily enter the controlled airspace."
+    },
+    {
+      "label": "11",
+      "text": "5"
+    },
+    {
+      "label": "12",
+      "text": "F The FAA then recognised two types of operating environments. In good meteorological conditions, flying would be permitted under Visual Flight Rules (VFR), which suggests a strong reliance on visual cues to maintain an acceptable level of safety. Poor visibility necessitated a set of Instrumental Flight Rules (IFR), under which the pilot relied on altitude and navigational information provided by the plane's instrument panel to fly safely. On a clear day, a pilot in controlled airspace can choose a VFR or IFR flight plan, and the FAA regulations were devised in a way which accommodates both VFR and IFR operations in the same airspace. However, a pilot can only choose to fly IFR if they possess an instrument rating which is above and beyond the basic pilot's license that must also be held."
+    },
+    {
+      "label": "13",
+      "text": "6"
+    },
+    {
+      "label": "14",
+      "text": "G Controlled airspace is divided into several different types, designated by letters of the alphabet. Uncontrolled airspace is designated Class F, while controlled airspace below 5, 490m above sea level and not in the vicinity of an airport is Class E. All airspace above 5, 490m is designated Class A. The reason for the division of Class E and Class A airspace stems from the type of planes operating in them. Generally, Class E airspace is where one finds general aviation aircraft (few of which can climb above 5, 490m anyway), and commercial turboprop aircraft. Above 5, 490m is the realm of the heavy jets, since jet engines operate more efficiently at higher altitudes. The difference between Class E and A airspace is that in Class A, all operations are IFR, and pilots must be instrument-rated, that is, skilled and licensed in aircraft instrumentation. This is because ATC control of the entire space is essential. Three other types of airspace, Classes D, C and B, govern the vicinity of airports. These correspond roughly to small municipal, medium-sized metropolitan and major metropolitan airports respectively, and encompass an increasingly rigorous set of regulations. For example, all a VFR pilot has to do to enter Class C airspace is establish two-way radio contact with ATC. No explicit permission from ATC to enter is needed, although the pilot must continue to obey all regulations governing VFR flight. To enter Class B airspace, such as on approach to a major metropolitan airport, an explicit ATC clearance is required. The private pilot who cruises without permission into this airspace risks losing their license."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14-19\n\nReading Passage 2 has seven paragraphs, A-G.\n\nChoose the correct answer and move it into the gap.\n\nExample Answer\n\nParagraph B X",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "Gap 14 (see above)",
+          "answers": [
+            "ii"
+          ],
+          "sourceCode": "Q6974_513243",
+          "explanation": "题号：14\n\n定位词：aviation disaster, prompts\n\nG段首句:Controlled airspace is divided into serval different types…\n\nA段共两句话，首句主要介绍了一次事故(an accident) 以及其结果(resulted in)，即建立起FAA来regulate and oversee (管理和监督)越来越拥挤的天空。因此答案为ii。\n\n题号：15\n\n定位词：coincidental, developments\n\nC段前两句 In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War... It was only after the creation of the FAA that full-scale regulation of America's airspace took place, I and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast plans...demanding some set of rules to keep everyone well separated and operating safely in the air. C段首句说明了ATC取得的第一个development，即利用了第二次世界大战催生出的新研制的雷达和改进后的无线电通讯技术而建立的不成熟的管制系统。第二句则提到喷气式发动机的产生突然导致大批快速飞机的出现，因此促使美国开始进行全面的空中管制，两个逗号之间的部分指出了这一development的偶然性(fortuitous)，与中的coincidental含义一致。因此答案为iii。\n\n题号：16\n\n定位词：oversimplified\n\nD段一、二句：Many people think that.. This is a very incomplete part of the picture.\n\nD段首句阐述了一个大众观点(many people think...)，接着第二句指出这个观点过于片面。题干中的oversimplified相当于原句中的incomplete。因此答案为v。\n\n题号：17\n\n定位词：altitude zones\n\nE段第二句以及其他关键词：First, ATC extends over virtually the entire United Sates.\n\nE段第二句中提出让航空交通管制几乎遍及整个美国，接着分别讲述了不同高度的空域管制情况(from 365m above the ground and higher, 215m above the ground, below365m…)。因此答案为iv。\n\n题号：18\n\n定位词：weather conditions\n\nF段首句：The FAA then recognised two types of operating environments.\n\nF段首句提出FAA确认了两种飞行环境。接着对这两种环境进行了解释说明，即在气象条件良好的情况下，飞行员可按照目视飞行规则(VFR)飞行；在低能见度的情况下，飞行员则须按照仪表飞行规则(IFR)飞行。因此答案是vii。\n\n题号：19\n\n定位词：airspace categories\n\nG段首句：Controlled airspace is divided into serval different types, …G段首句点出此段主要阐述管制空域的分类(controlled airplace ... different types)。因此答案为vi。",
+          "promptHtml": "Gap 14 (see above)"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "Gap 15 (see above)",
+          "answers": [
+            "iii"
+          ],
+          "sourceCode": "Q6974_944657",
+          "explanation": "题号：14\n\n定位词：aviation disaster, prompts\n\nG段首句:Controlled airspace is divided into serval different types…\n\nA段共两句话，首句主要介绍了一次事故(an accident) 以及其结果(resulted in)，即建立起FAA来regulate and oversee (管理和监督)越来越拥挤的天空。因此答案为ii。\n\n题号：15\n\n定位词：coincidental, developments\n\nC段前两句 In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War... It was only after the creation of the FAA that full-scale regulation of America's airspace took place, I and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast plans...demanding some set of rules to keep everyone well separated and operating safely in the air. C段首句说明了ATC取得的第一个development，即利用了第二次世界大战催生出的新研制的雷达和改进后的无线电通讯技术而建立的不成熟的管制系统。第二句则提到喷气式发动机的产生突然导致大批快速飞机的出现，因此促使美国开始进行全面的空中管制，两个逗号之间的部分指出了这一development的偶然性(fortuitous)，与中的coincidental含义一致。因此答案为iii。\n\n题号：16\n\n定位词：oversimplified\n\nD段一、二句：Many people think that.. This is a very incomplete part of the picture.\n\nD段首句阐述了一个大众观点(many people think...)，接着第二句指出这个观点过于片面。题干中的oversimplified相当于原句中的incomplete。因此答案为v。\n\n题号：17\n\n定位词：altitude zones\n\nE段第二句以及其他关键词：First, ATC extends over virtually the entire United Sates.\n\nE段第二句中提出让航空交通管制几乎遍及整个美国，接着分别讲述了不同高度的空域管制情况(from 365m above the ground and higher, 215m above the ground, below365m…)。因此答案为iv。\n\n题号：18\n\n定位词：weather conditions\n\nF段首句：The FAA then recognised two types of operating environments.\n\nF段首句提出FAA确认了两种飞行环境。接着对这两种环境进行了解释说明，即在气象条件良好的情况下，飞行员可按照目视飞行规则(VFR)飞行；在低能见度的情况下，飞行员则须按照仪表飞行规则(IFR)飞行。因此答案是vii。\n\n题号：19\n\n定位词：airspace categories\n\nG段首句：Controlled airspace is divided into serval different types, …G段首句点出此段主要阐述管制空域的分类(controlled airplace ... different types)。因此答案为vi。",
+          "promptHtml": "Gap 15 (see above)"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "Gap 16 (see above)",
+          "answers": [
+            "v"
+          ],
+          "sourceCode": "Q6974_685505",
+          "explanation": "题号：14\n\n定位词：aviation disaster, prompts\n\nG段首句:Controlled airspace is divided into serval different types…\n\nA段共两句话，首句主要介绍了一次事故(an accident) 以及其结果(resulted in)，即建立起FAA来regulate and oversee (管理和监督)越来越拥挤的天空。因此答案为ii。\n\n题号：15\n\n定位词：coincidental, developments\n\nC段前两句 In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War... It was only after the creation of the FAA that full-scale regulation of America's airspace took place, I and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast plans...demanding some set of rules to keep everyone well separated and operating safely in the air. C段首句说明了ATC取得的第一个development，即利用了第二次世界大战催生出的新研制的雷达和改进后的无线电通讯技术而建立的不成熟的管制系统。第二句则提到喷气式发动机的产生突然导致大批快速飞机的出现，因此促使美国开始进行全面的空中管制，两个逗号之间的部分指出了这一development的偶然性(fortuitous)，与中的coincidental含义一致。因此答案为iii。\n\n题号：16\n\n定位词：oversimplified\n\nD段一、二句：Many people think that.. This is a very incomplete part of the picture.\n\nD段首句阐述了一个大众观点(many people think...)，接着第二句指出这个观点过于片面。题干中的oversimplified相当于原句中的incomplete。因此答案为v。\n\n题号：17\n\n定位词：altitude zones\n\nE段第二句以及其他关键词：First, ATC extends over virtually the entire United Sates.\n\nE段第二句中提出让航空交通管制几乎遍及整个美国，接着分别讲述了不同高度的空域管制情况(from 365m above the ground and higher, 215m above the ground, below365m…)。因此答案为iv。\n\n题号：18\n\n定位词：weather conditions\n\nF段首句：The FAA then recognised two types of operating environments.\n\nF段首句提出FAA确认了两种飞行环境。接着对这两种环境进行了解释说明，即在气象条件良好的情况下，飞行员可按照目视飞行规则(VFR)飞行；在低能见度的情况下，飞行员则须按照仪表飞行规则(IFR)飞行。因此答案是vii。\n\n题号：19\n\n定位词：airspace categories\n\nG段首句：Controlled airspace is divided into serval different types, …G段首句点出此段主要阐述管制空域的分类(controlled airplace ... different types)。因此答案为vi。",
+          "promptHtml": "Gap 16 (see above)"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "Gap 17 (see above)",
+          "answers": [
+            "iv"
+          ],
+          "sourceCode": "Q6974_276338",
+          "explanation": "题号：14\n\n定位词：aviation disaster, prompts\n\nG段首句:Controlled airspace is divided into serval different types…\n\nA段共两句话，首句主要介绍了一次事故(an accident) 以及其结果(resulted in)，即建立起FAA来regulate and oversee (管理和监督)越来越拥挤的天空。因此答案为ii。\n\n题号：15\n\n定位词：coincidental, developments\n\nC段前两句 In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War... It was only after the creation of the FAA that full-scale regulation of America's airspace took place, I and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast plans...demanding some set of rules to keep everyone well separated and operating safely in the air. C段首句说明了ATC取得的第一个development，即利用了第二次世界大战催生出的新研制的雷达和改进后的无线电通讯技术而建立的不成熟的管制系统。第二句则提到喷气式发动机的产生突然导致大批快速飞机的出现，因此促使美国开始进行全面的空中管制，两个逗号之间的部分指出了这一development的偶然性(fortuitous)，与中的coincidental含义一致。因此答案为iii。\n\n题号：16\n\n定位词：oversimplified\n\nD段一、二句：Many people think that.. This is a very incomplete part of the picture.\n\nD段首句阐述了一个大众观点(many people think...)，接着第二句指出这个观点过于片面。题干中的oversimplified相当于原句中的incomplete。因此答案为v。\n\n题号：17\n\n定位词：altitude zones\n\nE段第二句以及其他关键词：First, ATC extends over virtually the entire United Sates.\n\nE段第二句中提出让航空交通管制几乎遍及整个美国，接着分别讲述了不同高度的空域管制情况(from 365m above the ground and higher, 215m above the ground, below365m…)。因此答案为iv。\n\n题号：18\n\n定位词：weather conditions\n\nF段首句：The FAA then recognised two types of operating environments.\n\nF段首句提出FAA确认了两种飞行环境。接着对这两种环境进行了解释说明，即在气象条件良好的情况下，飞行员可按照目视飞行规则(VFR)飞行；在低能见度的情况下，飞行员则须按照仪表飞行规则(IFR)飞行。因此答案是vii。\n\n题号：19\n\n定位词：airspace categories\n\nG段首句：Controlled airspace is divided into serval different types, …G段首句点出此段主要阐述管制空域的分类(controlled airplace ... different types)。因此答案为vi。",
+          "promptHtml": "Gap 17 (see above)"
+        },
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Gap 18 (see above)",
+          "answers": [
+            "viii"
+          ],
+          "sourceCode": "Q6974_311393",
+          "explanation": "题号：14\n\n定位词：aviation disaster, prompts\n\nG段首句:Controlled airspace is divided into serval different types…\n\nA段共两句话，首句主要介绍了一次事故(an accident) 以及其结果(resulted in)，即建立起FAA来regulate and oversee (管理和监督)越来越拥挤的天空。因此答案为ii。\n\n题号：15\n\n定位词：coincidental, developments\n\nC段前两句 In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War... It was only after the creation of the FAA that full-scale regulation of America's airspace took place, I and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast plans...demanding some set of rules to keep everyone well separated and operating safely in the air. C段首句说明了ATC取得的第一个development，即利用了第二次世界大战催生出的新研制的雷达和改进后的无线电通讯技术而建立的不成熟的管制系统。第二句则提到喷气式发动机的产生突然导致大批快速飞机的出现，因此促使美国开始进行全面的空中管制，两个逗号之间的部分指出了这一development的偶然性(fortuitous)，与中的coincidental含义一致。因此答案为iii。\n\n题号：16\n\n定位词：oversimplified\n\nD段一、二句：Many people think that.. This is a very incomplete part of the picture.\n\nD段首句阐述了一个大众观点(many people think...)，接着第二句指出这个观点过于片面。题干中的oversimplified相当于原句中的incomplete。因此答案为v。\n\n题号：17\n\n定位词：altitude zones\n\nE段第二句以及其他关键词：First, ATC extends over virtually the entire United Sates.\n\nE段第二句中提出让航空交通管制几乎遍及整个美国，接着分别讲述了不同高度的空域管制情况(from 365m above the ground and higher, 215m above the ground, below365m…)。因此答案为iv。\n\n题号：18\n\n定位词：weather conditions\n\nF段首句：The FAA then recognised two types of operating environments.\n\nF段首句提出FAA确认了两种飞行环境。接着对这两种环境进行了解释说明，即在气象条件良好的情况下，飞行员可按照目视飞行规则(VFR)飞行；在低能见度的情况下，飞行员则须按照仪表飞行规则(IFR)飞行。因此答案是vii。\n\n题号：19\n\n定位词：airspace categories\n\nG段首句：Controlled airspace is divided into serval different types, …G段首句点出此段主要阐述管制空域的分类(controlled airplace ... different types)。因此答案为vi。",
+          "promptHtml": "Gap 18 (see above)"
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Gap 19 (see above)",
+          "answers": [
+            "vii"
+          ],
+          "sourceCode": "Q6974_727527",
+          "explanation": "题号：14\n\n定位词：aviation disaster, prompts\n\nG段首句:Controlled airspace is divided into serval different types…\n\nA段共两句话，首句主要介绍了一次事故(an accident) 以及其结果(resulted in)，即建立起FAA来regulate and oversee (管理和监督)越来越拥挤的天空。因此答案为ii。\n\n题号：15\n\n定位词：coincidental, developments\n\nC段前两句 In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War... It was only after the creation of the FAA that full-scale regulation of America's airspace took place, I and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast plans...demanding some set of rules to keep everyone well separated and operating safely in the air. C段首句说明了ATC取得的第一个development，即利用了第二次世界大战催生出的新研制的雷达和改进后的无线电通讯技术而建立的不成熟的管制系统。第二句则提到喷气式发动机的产生突然导致大批快速飞机的出现，因此促使美国开始进行全面的空中管制，两个逗号之间的部分指出了这一development的偶然性(fortuitous)，与中的coincidental含义一致。因此答案为iii。\n\n题号：16\n\n定位词：oversimplified\n\nD段一、二句：Many people think that.. This is a very incomplete part of the picture.\n\nD段首句阐述了一个大众观点(many people think...)，接着第二句指出这个观点过于片面。题干中的oversimplified相当于原句中的incomplete。因此答案为v。\n\n题号：17\n\n定位词：altitude zones\n\nE段第二句以及其他关键词：First, ATC extends over virtually the entire United Sates.\n\nE段第二句中提出让航空交通管制几乎遍及整个美国，接着分别讲述了不同高度的空域管制情况(from 365m above the ground and higher, 215m above the ground, below365m…)。因此答案为iv。\n\n题号：18\n\n定位词：weather conditions\n\nF段首句：The FAA then recognised two types of operating environments.\n\nF段首句提出FAA确认了两种飞行环境。接着对这两种环境进行了解释说明，即在气象条件良好的情况下，飞行员可按照目视飞行规则(VFR)飞行；在低能见度的情况下，飞行员则须按照仪表飞行规则(IFR)飞行。因此答案是vii。\n\n题号：19\n\n定位词：airspace categories\n\nG段首句：Controlled airspace is divided into serval different types, …G段首句点出此段主要阐述管制空域的分类(controlled airplace ... different types)。因此答案为vi。",
+          "promptHtml": "Gap 19 (see above)"
+        }
+      ],
+      "sourceType": "paragraph_main",
+      "sourceContentTypes": [
+        "311"
+      ],
+      "options": [
+        {
+          "value": "i",
+          "text": "Disobeying FAA regulations"
+        },
+        {
+          "value": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "value": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "value": "iv",
+          "text": "Setting altitude zones"
+        },
+        {
+          "value": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "value": "vi",
+          "text": "Controlling pilots' licences"
+        },
+        {
+          "value": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "value": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "value": "ix",
+          "text": "Taking off safely"
+        },
+        {
+          "value": "x",
+          "text": "First steps towards ATC"
+        }
+      ],
+      "contextHtml": ""
+    },
+    {
+      "id": "g2",
+      "type": "tfng",
+      "instruction": "Questions 20-26\n\nDo the following statements agree with the information given in Reading Passage 2?\n\nChoose TRUE if the statement agrees with the information given in the text,\n\nchoose FALSE if the statement contradicts the information,\n\nor choose NOT GIVEN if there is no information on this.",
+      "questions": [
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "The FAA was created as a result of the introduction of the jet engine.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6974_394262",
+          "explanation": "题号：20\n\n参考译文：FAA是随着喷气式发动机的产生而产生的。\n\n定位词：FAA\n\nA段首句:An accident that occurred in the skies over the Grand Canyon in 1956 resulted in the establishment of the Federal Aviation Administration (FAA) …\n\n通过定位词可以迅速定位至第一段首句，由该句内容可知，FAA建立(establishment)原因为1956年的accident，与题干原因(jet engine)不一致。故此题答案为FALSE。"
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Air Traffic Control started after the Grand Canyon crash in 1956.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6974_581757",
+          "explanation": "题号：21\n\n参考译文：航空交通管制是在1956年的大峡谷空难后开始的。\n\n定位词：Air Traffic Control, Grand Canyon\n\nB段首句:Rudimentary air traffic control (ATC) existed well before the Grand Canyon disaster.\n\n此题定位没有难度。定位句中的before与解题关键同after明显自相矛盾。故此题答案为FALSE。"
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Beacons and flashing lights are still used by ATC today.",
+          "answers": [
+            "NOT GIVEN"
+          ],
+          "sourceCode": "Q6974_207246",
+          "explanation": "题号：22\n\n参考译文：灯标和闪光灯至今仍被ATC使用。\n\n定位词：beacons and flashing lights\n\nB段：...while beacons and flashing lights were placed along cross country routes to establish the earliest airways.\n\n此题的定位词在文中原词出现,按照顺序原则可以迅速定位。文中定位处仅指出beacons和flashing lights在当时的使用情况，对于题干中所指的如今的使用状况只字未提。故此题答案为NOT GIVEN。"
+        },
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "Some improvements were made in radio communication during World War II.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6974_850763",
+          "explanation": "题号：23\n\n参考译文：在二战期间无线电通讯技术取得了一些进展。\n\n定位词：improvements, radio communication, World War II\n\nC段:...improved radio communication brought about by the Second World War...\n\n此题定位很简单,定位句含义为“第二次世界大战催生出的……改进后的无线电通讯技术”，与题干含义无异。故此题答案为TRUE。"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "Class F airspace is airspace which is below 365m and not near airports.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6974_142858",
+          "explanation": "题号：24\n\n参考译文：F级空域为365米以下的区间且离飞机场不近。\n\n定位词：Class F, 365m\n\nG段:Uncontrolled airspace is designated Class F...\n\n通过定位词Class F可快速定位至此处,但是只能确定Class F为uncontrolled airspace,通过该短语及365m可继续定位于E段。\n\nE段:In general, from 365m above the ground and higher, the entire country is blanketed by controlled airspace. In certain areas, mainly near airports, controlled airspace extends down to215m above the ground…\n\n此句说明从365米往上的区间为controlled airspace,且在大部分near airports的区域, 215米以上的区间都是controlled airspace,因此可以逆推出uncontrolled airspace的情况。故此题答案为TRUE。"
+        },
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "All aircraft in Class E airspace must use IFR.",
+          "answers": [
+            "FALSE"
+          ],
+          "sourceCode": "Q6974_286038",
+          "explanation": "题号：25\n\n参考译文：E级空域的所有飞机必须使用仪表飞行规则。\n\n定位词：Class E, IFR\n\nG段:The difference between Class E and A airspace is that in Class A, all operations are IFR, …\n\n此题通过定位词能够迅速定位。定位句的含义为“E级和A级之间的区别在F A级领空中\n\n所有的操作都遵循仪表飞行规则”显然题干信息与定位句内容矛盾。此题还可以按照绝对化词汇all和must来快速判定答案。故此题答案为FALSE。"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "A pilot entering Class C airspace is flying over an average-sized city.",
+          "answers": [
+            "TRUE"
+          ],
+          "sourceCode": "Q6974_580370",
+          "explanation": "题号：26\n\n参考译文：进人C级空域的飞行员主要飞越中等规模的城市。\n\n定位词：Class C\n\nG段:Three other types of airspace, Classes D, C and B, govern the vicinity of airports. These correspond roughly to small municipal, medium-sized metropolitan and major metropolitan airports respectively...\n\n译文:其他三个等级:D级、C级和B级用于管理机场附近的区域。这三个级别大致分别适用于小型城市、中等城市和大型城市的机场......\n\n此题通过定位词能够迅速定位。定位句中的medium-sized与题干中的average-sized属于同义转述。故此题答案为TRUE。"
+        }
+      ],
+      "sourceType": "tfng",
+      "sourceContentTypes": [
+        "203"
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><strong><span>AIR TRAFFIC CONTROL IN THE USA</span></strong>　　</p><span>1<strong>[14] ______</strong></span><br><p><strong>A</strong>    An accident that occurred in the skies over the Grand Canyon in 1956 resulted in the establishment of the Federal Aviation Administration (FAA) to regulate and oversee the operation of aircraft in the skies over the United States, which were becoming quite congested. The resulting structure of air traffic control has greatly increased the safety of flight in the United States, and similar air traffic control procedures are also in place over much of the rest of the world. <br><strong>B</strong>    Rudimentary air traffic control (ATC) existed well before the Grand Canyon disaster. As early as the 1920s, the earliest air traffic controllers manually guided aircraft in the vicinity of the airports, using lights and flags, while beacons and flashing lights were placed along cross-country routes to establish the earliest airways. However, this purely visual system was useless in bad weather, and, by the 1930s, radio communication was coming into use for ATC. The first region to have something approximating today&#x27;s ATC was New York City, with other major metropolitan areas following soon after. <br><span>2<strong>[15] ______</strong></span><br><strong>C</strong>    In the 1940s, ATC centres could and did take advantage of the newly developed radar and improved radio communication brought about by the Second World War, but the system remained rudimentary. It was only after the creation of the FAA that full-scale regulation of America&#x27;s airspace took place, and this was fortuitous, for the advent of the jet engine suddenly resulted in a large number of very fast planes, reducing pilots&#x27; margin of error and practically demanding some set of rules to keep everyone well separated and operating safely in the air. <br><span>3<strong>[16] ______</strong></span><br><strong>D</strong>    Many people think that ATC consists of a row of controllers sitting in front of their radar screens at the nation&#x27;s airports, telling arriving and departing traffic what to do. This is a very incomplete part of the picture. The FAA realised that the airspace over the United States would at any time have many different kinds of planes, flying for many different purposes, in a variety of weather conditions, and the same kind of structure was needed to accommodate all of them. <br><span>4<strong>[17] ______</strong></span><br><strong>E</strong>    To meet this challenge, the following elements were put into effect. First, ATC extends over virtually the entire United States. In general, from 365m above the ground and higher, the entire country is blanketed by controlled airspace. In certain areas, mainly near airports, controlled airspace extends down to 215m above the ground, and, in the immediate vicinity of an airport, all the way down to the surface. Controlled airspace is that airspace in which FAA regulations apply. Elsewhere, in uncontrolled airspace, pilots are bound by fewer regulations. In this way, the recreational pilot who simply wishes to go flying for a while without all the restrictions imposed by the FAA has only to stay in uncontrolled airspace, below 365m, while the pilot who does want the protection afforded by ATC can easily enter the controlled airspace. <br><span>5<strong>[18] ______</strong></span><br><strong>F </strong>   The FAA then recognised two types of operating environments. In good meteorological conditions, flying would be permitted under Visual Flight Rules (VFR), which suggests a strong reliance on visual cues to maintain an acceptable level of safety. Poor visibility necessitated a set of Instrumental Flight Rules (IFR), under which the pilot relied on altitude and navigational information provided by the plane&#x27;s instrument panel to fly safely. On a clear day, a pilot in controlled airspace can choose a VFR or IFR flight plan, and the FAA regulations were devised in a way which accommodates both VFR and IFR operations in the same airspace. However, a pilot can only choose to fly IFR if they possess an instrument rating which is above and beyond the basic pilot&#x27;s license that must also be held. <br><span>6<strong>[19] ______</strong></span><br><strong>G</strong>    Controlled airspace is divided into several different types, designated by letters of the alphabet. Uncontrolled airspace is designated Class F, while controlled airspace below 5, 490m above sea level and not in the vicinity of an airport is Class E. All airspace above 5, 490m is designated Class A. The reason for the division of Class E and Class A airspace stems from the type of planes operating in them. Generally, Class E airspace is where one finds general aviation aircraft (few of which can climb above 5, 490m anyway), and commercial turboprop aircraft. Above 5, 490m is the realm of the heavy jets, since jet engines operate more efficiently at higher altitudes. The difference between Class E and A airspace is that in Class A, all operations are IFR, and pilots must be instrument-rated, that is, skilled and licensed in aircraft instrumentation. This is because ATC control of the entire space is essential. Three other types of airspace, Classes D, C and B, govern the vicinity of airports. These correspond roughly to small municipal, medium-sized metropolitan and major metropolitan airports respectively, and encompass an increasingly rigorous set of regulations. For example, all a VFR pilot has to do to enter Class C airspace is establish two-way radio contact with ATC. No explicit permission from ATC to enter is needed, although the pilot must continue to obey all regulations governing VFR flight. To enter Class B airspace, such as on approach to a major metropolitan airport, an explicit ATC clearance is required. The private pilot who cruises without permission into this airspace risks losing their license. <br> </p>"
+}

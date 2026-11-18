@@ -1,0 +1,243 @@
+{
+  "id": "5946eaba-ff56-47ea-83e3-5d255bc81b3c",
+  "title": "Social conformity",
+  "titleCn": "社会从众心理实验：阿希实验与烟雾实验",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/5946eaba-ff56-47ea-83e3-5d255bc81b3c",
+  "duration": 191,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:01,599"
+    },
+    {
+      "label": "2",
+      "text": "Asch Conformity Experiment. There is an experiment with 2 cards. One card has a single line, and the other has 3 lines. Respondents are required to choose a line with equal length. Answers vary, and only a 3rd people are correct."
+    },
+    {
+      "label": "3",
+      "text": "00:00:23,879"
+    },
+    {
+      "label": "4",
+      "text": "When asked to repeat the experiment with 2 identical cards, most of the people are incorrect in the 2nd time."
+    },
+    {
+      "label": "5",
+      "text": "00:00:32,819"
+    },
+    {
+      "label": "6",
+      "text": "Auto-Kinetic Effect Experiment. However, some researchers believe the results are too random. Researchers set up a new website for collecting the questionnaires. People are locked in a dark room to take movement test. John Darley Experiment. The room is infused with smoke, but people show no fear. People tend to copy each other's behavior inside the dark room and take no actions, although they know what to do in case of emergency."
+    },
+    {
+      "label": "7",
+      "text": "00:01:00,599"
+    },
+    {
+      "label": "8",
+      "text": "Later on, another research was conducted in a restaurant."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nWrite **NO MORE THAN ONE WORDS** for each answers.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "acb6a2b4-73df-44fd-8ae1-2e1aca9052dc",
+          "prompt": "**Asch conformity experience**\n- There is an experiment with two cards.\n- One card has a single line, and the other has three lines.\n- Respondents are required to choose a line with equal **31**_____ .",
+          "answers": [
+            "length"
+          ],
+          "rawAnswer": "length",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Respondents are required to choose a line with equal length"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "6776e8bc-43e3-4712-b460-dec3c39f5089",
+          "prompt": "- Answers vary and only **32**_____ of people are correct.",
+          "answers": [
+            "1/3"
+          ],
+          "rawAnswer": "1/3",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Answers vary, and only a 3rd people are correct"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "e2df7f56-7fa7-40bb-a4d8-6485d9cbaef9",
+          "prompt": "- When asked to repeat the experiment with two identical cards, most of the people are **33**_____ in the second time.",
+          "answers": [
+            "incorrect"
+          ],
+          "rawAnswer": "incorrect",
+          "evidence": {
+            "paragraph": "",
+            "quote": "When asked to repeat the experiment with 2 identical cards, most of the people are incorrect in the 2nd time"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "3c4eadfc-b636-40d1-9e48-55cb4d778ab6",
+          "prompt": "**Autokinetic effect experiment**\n- Some researchers believe the results are too random.\n- Researchers set up a new **34**_____ for collecting the questionnaires.",
+          "answers": [
+            "website"
+          ],
+          "rawAnswer": "website",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Researchers set up a new website for collecting the questionnaires"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "9d610552-b86d-4705-864e-4ce2a0b9a3fd",
+          "prompt": "- People are locked in a dark room to take **35**_____ test.",
+          "answers": [
+            "movement"
+          ],
+          "rawAnswer": "movement",
+          "evidence": {
+            "paragraph": "",
+            "quote": "People are locked in a dark room to take movement test"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "6031f7e6-d64d-4f30-a3f4-fbe040aa9c1b",
+          "prompt": "**John Darley experiment**\n- The room is infused with **36**_____ ,",
+          "answers": [
+            "smoke"
+          ],
+          "rawAnswer": "smoke",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The room is infused with smoke, but people show no fear"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "38baa15f-abf2-46bd-9017-11272d372efd",
+          "prompt": "but people show no **37**_____ .",
+          "answers": [
+            "fear"
+          ],
+          "rawAnswer": "fear",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The room is infused with smoke, but people show no fear"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "3e2bd7c6-5ce7-49a1-bb2f-f9657bec5b42",
+          "prompt": "- People tend to **38**_____ each other`s behavior inside the dark room,",
+          "answers": [
+            "copy"
+          ],
+          "rawAnswer": "copy",
+          "evidence": {
+            "paragraph": "",
+            "quote": "People tend to copy each other's behavior inside the dark room and take no actions, although they know what to do in case of emergency"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "43a37d13-d13c-4ef3-8d97-7288f935438a",
+          "prompt": "and take no actions although they know what to do in case of **39**_____ .",
+          "answers": [
+            "emergency"
+          ],
+          "rawAnswer": "emergency",
+          "evidence": {
+            "paragraph": "",
+            "quote": "People tend to copy each other's behavior inside the dark room and take no actions, although they know what to do in case of emergency"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "df680796-3ada-4dd3-94d4-00af68ca6784",
+          "prompt": "- Later on, another research was conducted in a **40**_____ setting.",
+          "answers": [
+            "restaurant"
+          ],
+          "rawAnswer": "restaurant",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Later on, another research was conducted in a restaurant"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:01,599</p><p>Asch Conformity Experiment. There is an experiment with 2 cards. One card has a single line, and the other has 3 lines. Respondents are required to choose a line with equal length. Answers vary, and only a 3rd people are correct. </p><p>00:00:23,879</p><p>When asked to repeat the experiment with 2 identical cards, most of the people are incorrect in the 2nd time. </p><p>00:00:32,819</p><p>Auto-Kinetic Effect Experiment. However, some researchers believe the results are too random. Researchers set up a new website for collecting the questionnaires. People are locked in a dark room to take movement test. John Darley Experiment. The room is infused with smoke, but people show no fear. People tend to copy each other's behavior inside the dark room and take no actions, although they know what to do in case of emergency. </p><p>00:01:00,599</p><p>Later on, another research was conducted in a restaurant.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/5946eaba-ff56-47ea-83e3-5d255bc81b3c.mp3",
+    "durationSeconds": 70.032,
+    "sizeBytes": 1121043,
+    "sha256": "cf372be4bda13be3a3058b83ca41df8a9bdc56afb78e698f4158db9bfd5ef9ce",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:15:35Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786549005557_ne7lbj_540cf06a.mp3"
+}

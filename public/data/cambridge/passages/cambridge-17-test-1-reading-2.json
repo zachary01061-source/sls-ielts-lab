@@ -1,0 +1,453 @@
+{
+  "id": "cambridge-17-test-1-reading-2",
+  "title": "Stadiums: past, present and future",
+  "titleCn": "Stadiums: past, present and future",
+  "subject": "reading",
+  "part": 2,
+  "duration": 1200,
+  "source": "剑桥雅思",
+  "cambridge": {
+    "volume": 17,
+    "test": 1
+  },
+  "sourceQuestionId": "8376",
+  "sourceUrl": "https://ieltscat.xdf.cn/practice/check/2/8376",
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "Stadiums: past, present and future"
+    },
+    {
+      "label": "2",
+      "text": "A Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras."
+    },
+    {
+      "label": "3",
+      "text": "Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair."
+    },
+    {
+      "label": "4",
+      "text": "But this need not be the case. History shows that stadiums can drive urban development and adapt to the culture of every age. Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation during the 20th century."
+    },
+    {
+      "label": "5",
+      "text": "B The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses. With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles."
+    },
+    {
+      "label": "6",
+      "text": "Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome’s famous Colosseum. It has endured the centuries and is currently considered one of the world’s prime sites for opera, thanks to its outstanding acoustics."
+    },
+    {
+      "label": "7",
+      "text": "C The area in the centre of the Italian town of Lucca, known as the Piazza dell’Anfiteatro, is yet another impressive example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison. But rather than reverting to an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square."
+    },
+    {
+      "label": "8",
+      "text": "D There are many similarities between modern stadiums and the ancient amphitheatres intended for games. But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches."
+    },
+    {
+      "label": "9",
+      "text": "Many such stadiums are situated in suburban areas, designed for sporting use only and surrounded by parking lots. These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat."
+    },
+    {
+      "label": "10",
+      "text": "E But many of today’s most innovative architects see scope for the stadium to help improve the city. Among the current strategies, two seem to be having particular success: the stadium as an urban hub, and as a power plant."
+    },
+    {
+      "label": "11",
+      "text": "There’s a growing trend for stadiums to be equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children’s playgrounds and green space. Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces."
+    },
+    {
+      "label": "12",
+      "text": "This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters. There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world."
+    },
+    {
+      "label": "13",
+      "text": "F The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses. Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines."
+    },
+    {
+      "label": "14",
+      "text": "Freiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power plants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, inaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions."
+    },
+    {
+      "label": "15",
+      "text": "G Sporting arenas have always been central to the life and culture of cities. In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering. The stadium of today now brings together multiple functions, thus helping cities to create a sustainable future."
+    },
+    {
+      "label": "16",
+      "text": "* amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of seats for spectators, for the presentation of dramatic or sporting events"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "matching",
+      "instruction": "Questions 14–17\n\nReading Passage 2 has seven sections, A–G.\n\nWhich section contains the following information?\n\nTick the correct answer next to questions 14–17.\n\nNB You may use any letter more than once.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceSlot": 14,
+          "sourceNumber": "14",
+          "prompt": "a mention of negative attitudes towards stadium building projects",
+          "answers": [
+            "A"
+          ],
+          "sourceCode": "Q8376_631043-1"
+        },
+        {
+          "id": 2,
+          "sourceSlot": 15,
+          "sourceNumber": "15",
+          "prompt": "figures demonstrating the environmental benefits of a certain stadium",
+          "answers": [
+            "F"
+          ],
+          "sourceCode": "Q8376_631043-2"
+        },
+        {
+          "id": 3,
+          "sourceSlot": 16,
+          "sourceNumber": "16",
+          "prompt": "examples of the wide range of facilities available at some new stadiums",
+          "answers": [
+            "E"
+          ],
+          "sourceCode": "Q8376_631043-3"
+        },
+        {
+          "id": 4,
+          "sourceSlot": 17,
+          "sourceNumber": "17",
+          "prompt": "reference to the disadvantages of the stadiums built during a certain era",
+          "answers": [
+            "D"
+          ],
+          "sourceCode": "Q8376_631043-4"
+        }
+      ],
+      "sourceType": "paragraph_info",
+      "sourceContentTypes": [
+        "223"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "instruction": "Questions 18–22\n\nComplete the summary below.\n\nChoose ONE WORD ONLY from the passage for each answer.",
+      "questions": [
+        {
+          "id": 5,
+          "sourceSlot": 18,
+          "sourceNumber": "18",
+          "prompt": "Answer for gap 18.",
+          "answers": [
+            "fortress"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8376_427096",
+          "explanation": "18. 本题定位不难，专有地名Arles可直接帮助考生快速找到对应原文句。不过直接包含地名的Section B第一句里并没有提到这座剧场在历史变迁中的几种建筑用途，所以考生需耐心向下文再读一句，才能遇到答案。本题的解答难度不高，无论是题干中的convert、residential，还是对应原文中的became、transform、village，都是以往剑桥真题中司空见惯的高频词汇。通过对比题干和原文的相应信息，考生应该不难得出18题答案为fortress。\n\n19. 本题在原文中的定位紧挨上一道题，在题干中更是与上一题出自同一个句子，都是在问Arles这座圆形露天竞技场在后世里的功能变化。考生只需接上一句话向后文阅读，即可比较轻松地得出答案为bullfights。\n\n20. 本题的定位同样不难，因为包含Verona这个专有地名，且距离前两道题的位置也不远；与第18题类似，维罗纳这个地名所在的句子本身里没有题干所需的信息，考生需要在确认这一点之后耐心向下一句话继续阅读寻找，然后根据原文句中的site for这个提示得到正确答案应为opera。\n\n21. 本题的定位依然不难：可以凭借Lucca这个专有地名粗略定位到Section C的第一句；但跟前几道题类似，考生依然无法在这个句子里找到答案，而是需要耐心再向后阅读一句。原文中对应题干storage这个信息的depot一词也许对一些考生来说显得陌生；但即使不认识这个词，其实也可以根据原文句中并列的三个建筑功用：house、salt depot和prison，利用排除法猜到对应“存储”意思的应当是depot，进而找到答案：salt。\n\n22. 从题干句开头的it一词即可知，本题的答案出处距离上一题出处必定不远，因为同样都是在描述位于Lucca的这座圆形露天竞技场。于是考生只需沿上一题的原文定位处向后文耐心阅读，即可在本段末句中，根据原文里residence这个对应题干homes的信息，锁定答案为与其形成并列关系的shops。",
+          "promptHtml": "Answer for gap 18."
+        },
+        {
+          "id": 6,
+          "sourceSlot": 19,
+          "sourceNumber": "19",
+          "prompt": "Answer for gap 19.",
+          "answers": [
+            "bullfights"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8376_117468",
+          "explanation": "18. 本题定位不难，专有地名Arles可直接帮助考生快速找到对应原文句。不过直接包含地名的Section B第一句里并没有提到这座剧场在历史变迁中的几种建筑用途，所以考生需耐心向下文再读一句，才能遇到答案。本题的解答难度不高，无论是题干中的convert、residential，还是对应原文中的became、transform、village，都是以往剑桥真题中司空见惯的高频词汇。通过对比题干和原文的相应信息，考生应该不难得出18题答案为fortress。\n\n19. 本题在原文中的定位紧挨上一道题，在题干中更是与上一题出自同一个句子，都是在问Arles这座圆形露天竞技场在后世里的功能变化。考生只需接上一句话向后文阅读，即可比较轻松地得出答案为bullfights。\n\n20. 本题的定位同样不难，因为包含Verona这个专有地名，且距离前两道题的位置也不远；与第18题类似，维罗纳这个地名所在的句子本身里没有题干所需的信息，考生需要在确认这一点之后耐心向下一句话继续阅读寻找，然后根据原文句中的site for这个提示得到正确答案应为opera。\n\n21. 本题的定位依然不难：可以凭借Lucca这个专有地名粗略定位到Section C的第一句；但跟前几道题类似，考生依然无法在这个句子里找到答案，而是需要耐心再向后阅读一句。原文中对应题干storage这个信息的depot一词也许对一些考生来说显得陌生；但即使不认识这个词，其实也可以根据原文句中并列的三个建筑功用：house、salt depot和prison，利用排除法猜到对应“存储”意思的应当是depot，进而找到答案：salt。\n\n22. 从题干句开头的it一词即可知，本题的答案出处距离上一题出处必定不远，因为同样都是在描述位于Lucca的这座圆形露天竞技场。于是考生只需沿上一题的原文定位处向后文耐心阅读，即可在本段末句中，根据原文里residence这个对应题干homes的信息，锁定答案为与其形成并列关系的shops。",
+          "promptHtml": "Answer for gap 19."
+        },
+        {
+          "id": 7,
+          "sourceSlot": 20,
+          "sourceNumber": "20",
+          "prompt": "Answer for gap 20.",
+          "answers": [
+            "opera"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8376_926477",
+          "explanation": "18. 本题定位不难，专有地名Arles可直接帮助考生快速找到对应原文句。不过直接包含地名的Section B第一句里并没有提到这座剧场在历史变迁中的几种建筑用途，所以考生需耐心向下文再读一句，才能遇到答案。本题的解答难度不高，无论是题干中的convert、residential，还是对应原文中的became、transform、village，都是以往剑桥真题中司空见惯的高频词汇。通过对比题干和原文的相应信息，考生应该不难得出18题答案为fortress。\n\n19. 本题在原文中的定位紧挨上一道题，在题干中更是与上一题出自同一个句子，都是在问Arles这座圆形露天竞技场在后世里的功能变化。考生只需接上一句话向后文阅读，即可比较轻松地得出答案为bullfights。\n\n20. 本题的定位同样不难，因为包含Verona这个专有地名，且距离前两道题的位置也不远；与第18题类似，维罗纳这个地名所在的句子本身里没有题干所需的信息，考生需要在确认这一点之后耐心向下一句话继续阅读寻找，然后根据原文句中的site for这个提示得到正确答案应为opera。\n\n21. 本题的定位依然不难：可以凭借Lucca这个专有地名粗略定位到Section C的第一句；但跟前几道题类似，考生依然无法在这个句子里找到答案，而是需要耐心再向后阅读一句。原文中对应题干storage这个信息的depot一词也许对一些考生来说显得陌生；但即使不认识这个词，其实也可以根据原文句中并列的三个建筑功用：house、salt depot和prison，利用排除法猜到对应“存储”意思的应当是depot，进而找到答案：salt。\n\n22. 从题干句开头的it一词即可知，本题的答案出处距离上一题出处必定不远，因为同样都是在描述位于Lucca的这座圆形露天竞技场。于是考生只需沿上一题的原文定位处向后文耐心阅读，即可在本段末句中，根据原文里residence这个对应题干homes的信息，锁定答案为与其形成并列关系的shops。",
+          "promptHtml": "Answer for gap 20."
+        },
+        {
+          "id": 8,
+          "sourceSlot": 21,
+          "sourceNumber": "21",
+          "prompt": "Answer for gap 21.",
+          "answers": [
+            "salt"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8376_484892",
+          "explanation": "18. 本题定位不难，专有地名Arles可直接帮助考生快速找到对应原文句。不过直接包含地名的Section B第一句里并没有提到这座剧场在历史变迁中的几种建筑用途，所以考生需耐心向下文再读一句，才能遇到答案。本题的解答难度不高，无论是题干中的convert、residential，还是对应原文中的became、transform、village，都是以往剑桥真题中司空见惯的高频词汇。通过对比题干和原文的相应信息，考生应该不难得出18题答案为fortress。\n\n19. 本题在原文中的定位紧挨上一道题，在题干中更是与上一题出自同一个句子，都是在问Arles这座圆形露天竞技场在后世里的功能变化。考生只需接上一句话向后文阅读，即可比较轻松地得出答案为bullfights。\n\n20. 本题的定位同样不难，因为包含Verona这个专有地名，且距离前两道题的位置也不远；与第18题类似，维罗纳这个地名所在的句子本身里没有题干所需的信息，考生需要在确认这一点之后耐心向下一句话继续阅读寻找，然后根据原文句中的site for这个提示得到正确答案应为opera。\n\n21. 本题的定位依然不难：可以凭借Lucca这个专有地名粗略定位到Section C的第一句；但跟前几道题类似，考生依然无法在这个句子里找到答案，而是需要耐心再向后阅读一句。原文中对应题干storage这个信息的depot一词也许对一些考生来说显得陌生；但即使不认识这个词，其实也可以根据原文句中并列的三个建筑功用：house、salt depot和prison，利用排除法猜到对应“存储”意思的应当是depot，进而找到答案：salt。\n\n22. 从题干句开头的it一词即可知，本题的答案出处距离上一题出处必定不远，因为同样都是在描述位于Lucca的这座圆形露天竞技场。于是考生只需沿上一题的原文定位处向后文耐心阅读，即可在本段末句中，根据原文里residence这个对应题干homes的信息，锁定答案为与其形成并列关系的shops。",
+          "promptHtml": "Answer for gap 21."
+        },
+        {
+          "id": 9,
+          "sourceSlot": 22,
+          "sourceNumber": "22",
+          "prompt": "Answer for gap 22.",
+          "answers": [
+            "shops"
+          ],
+          "maxWords": 1,
+          "sourceCode": "Q8376_731105",
+          "explanation": "18. 本题定位不难，专有地名Arles可直接帮助考生快速找到对应原文句。不过直接包含地名的Section B第一句里并没有提到这座剧场在历史变迁中的几种建筑用途，所以考生需耐心向下文再读一句，才能遇到答案。本题的解答难度不高，无论是题干中的convert、residential，还是对应原文中的became、transform、village，都是以往剑桥真题中司空见惯的高频词汇。通过对比题干和原文的相应信息，考生应该不难得出18题答案为fortress。\n\n19. 本题在原文中的定位紧挨上一道题，在题干中更是与上一题出自同一个句子，都是在问Arles这座圆形露天竞技场在后世里的功能变化。考生只需接上一句话向后文阅读，即可比较轻松地得出答案为bullfights。\n\n20. 本题的定位同样不难，因为包含Verona这个专有地名，且距离前两道题的位置也不远；与第18题类似，维罗纳这个地名所在的句子本身里没有题干所需的信息，考生需要在确认这一点之后耐心向下一句话继续阅读寻找，然后根据原文句中的site for这个提示得到正确答案应为opera。\n\n21. 本题的定位依然不难：可以凭借Lucca这个专有地名粗略定位到Section C的第一句；但跟前几道题类似，考生依然无法在这个句子里找到答案，而是需要耐心再向后阅读一句。原文中对应题干storage这个信息的depot一词也许对一些考生来说显得陌生；但即使不认识这个词，其实也可以根据原文句中并列的三个建筑功用：house、salt depot和prison，利用排除法猜到对应“存储”意思的应当是depot，进而找到答案：salt。\n\n22. 从题干句开头的it一词即可知，本题的答案出处距离上一题出处必定不远，因为同样都是在描述位于Lucca的这座圆形露天竞技场。于是考生只需沿上一题的原文定位处向后文耐心阅读，即可在本段末句中，根据原文里residence这个对应题干homes的信息，锁定答案为与其形成并列关系的shops。",
+          "promptHtml": "Answer for gap 22."
+        }
+      ],
+      "sourceType": "summary_fill",
+      "sourceContentTypes": [
+        "216"
+      ],
+      "contextHtml": "<p><span><strong>Roman amphitheatres</strong></span></p>\n\n<p><span>The Roman stadiums of Europe have proved very versatile. The amphitheatre of Arles, for example, was converted first into a <strong>[18] ______</strong> , then into a residential area and finally into an arena where spectators could watch <strong>[19] ______</strong> . Meanwhile, the arena in Verona, one of the oldest Roman amphitheatres, is famous today as a venue where <strong>[20] ______</strong> is performed. The site of Lucca’s amphitheatre has also been used for many purposes over the centuries, including the storage of <strong>[21] ______</strong> . It is now a market square with <strong>[22] ______</strong> and homes incorporated into the remains of the Roman amphitheatre.</span></p>\n"
+    },
+    {
+      "id": "g3",
+      "type": "multi",
+      "instruction": "Questions 23 and 24\n\nChoose TWO letters, A–E.\n\nChoose the correct letters for questions 23 and 24 .",
+      "questions": [
+        {
+          "id": 10,
+          "sourceSlot": 23,
+          "sourceNumber": "23",
+          "prompt": "When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q8376_469727",
+          "options": [
+            {
+              "value": "A",
+              "text": "They are less imaginatively designed."
+            },
+            {
+              "value": "B",
+              "text": "They are less spacious."
+            },
+            {
+              "value": "C",
+              "text": "They are in less convenient locations."
+            },
+            {
+              "value": "D",
+              "text": "They are less versatile."
+            },
+            {
+              "value": "E",
+              "text": "They are made of less durable materials."
+            }
+          ],
+          "explanation": "选项A：They are less imaginatively designed.\n\n译文：它们的设计没那么有创意。\n\n如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。Section D由两个自然段、共四句话组成，通篇没有提及与“设计”有关的任何信息，因此考生应该不难排除这个选项。\n\n选项B：They are less spacious.\n\n译文：它们没有那么宽敞。\n\n此选项与上一个选项类似，也属于Section D中没有提及过的信息，可以排除。\n\n选项C：They are in less convenient locations.\n\n译文：它们位于不那么方便的地点。\n\n这个选项对应的就是第二段中的内容，无论是第一句话里的in suburban areas，还是第二句里的they may not be as accessible to the general public，都是在表达“不方便到达”的意思。且由于表达这个意思所使用的词汇都是高频常见单词，所以考生应当可以轻松锁定这个选项为正确答案之一。\n\n选项D：They are less versatile.\n\n译文：它们没有那么功能多样。\n\n这个正确选项对应的是Section D第一自然段的第二句话。所谓the flexibility was lost，就是在直接对应选项中的less versatile这个表达。正是因为本题基本上就是在简单粗暴地考查考生对versatile这个单词的认知，所以该词也入选了本篇的“必背词汇”名单，需要考生将它熟练掌握。\n\n选项E：They are made of less durable materials.\n\n译文：它们是用不那么持久的材料建造的。\n\n原文中提及的现代体育馆建造材料，是钢材和钢筋混凝土这类新型材料；但关于它们是否更加持久，文中并没有明确点评，考生也完全无需加以引申去思考这方面的比较结果。因此，本选项的混淆性其实也不算强。",
+          "setId": "Q8376_469727",
+          "blockId": "Q8376_469727"
+        },
+        {
+          "id": 11,
+          "sourceSlot": 24,
+          "sourceNumber": "24",
+          "prompt": "When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?",
+          "answers": [
+            "C",
+            "D"
+          ],
+          "sourceCode": "Q8376_469727",
+          "options": [
+            {
+              "value": "A",
+              "text": "They are less imaginatively designed."
+            },
+            {
+              "value": "B",
+              "text": "They are less spacious."
+            },
+            {
+              "value": "C",
+              "text": "They are in less convenient locations."
+            },
+            {
+              "value": "D",
+              "text": "They are less versatile."
+            },
+            {
+              "value": "E",
+              "text": "They are made of less durable materials."
+            }
+          ],
+          "explanation": "选项A：They are less imaginatively designed.\n\n译文：它们的设计没那么有创意。\n\n如果将这条选项信息类比于雅思阅读中的另一个题型“判断题”，那么这句话就是一个典型的在原文中并未出现的NOT GIVEN题目。Section D由两个自然段、共四句话组成，通篇没有提及与“设计”有关的任何信息，因此考生应该不难排除这个选项。\n\n选项B：They are less spacious.\n\n译文：它们没有那么宽敞。\n\n此选项与上一个选项类似，也属于Section D中没有提及过的信息，可以排除。\n\n选项C：They are in less convenient locations.\n\n译文：它们位于不那么方便的地点。\n\n这个选项对应的就是第二段中的内容，无论是第一句话里的in suburban areas，还是第二句里的they may not be as accessible to the general public，都是在表达“不方便到达”的意思。且由于表达这个意思所使用的词汇都是高频常见单词，所以考生应当可以轻松锁定这个选项为正确答案之一。\n\n选项D：They are less versatile.\n\n译文：它们没有那么功能多样。\n\n这个正确选项对应的是Section D第一自然段的第二句话。所谓the flexibility was lost，就是在直接对应选项中的less versatile这个表达。正是因为本题基本上就是在简单粗暴地考查考生对versatile这个单词的认知，所以该词也入选了本篇的“必背词汇”名单，需要考生将它熟练掌握。\n\n选项E：They are made of less durable materials.\n\n译文：它们是用不那么持久的材料建造的。\n\n原文中提及的现代体育馆建造材料，是钢材和钢筋混凝土这类新型材料；但关于它们是否更加持久，文中并没有明确点评，考生也完全无需加以引申去思考这方面的比较结果。因此，本选项的混淆性其实也不算强。",
+          "setId": "Q8376_469727",
+          "blockId": "Q8376_469727"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "They are less imaginatively designed."
+        },
+        {
+          "value": "B",
+          "text": "They are less spacious."
+        },
+        {
+          "value": "C",
+          "text": "They are in less convenient locations."
+        },
+        {
+          "value": "D",
+          "text": "They are less versatile."
+        },
+        {
+          "value": "E",
+          "text": "They are made of less durable materials."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "type": "multi",
+      "instruction": "Questions 25 and 26\n\nChoose TWO letters, A–E.\n\nChoose the correct letters for questions 25 and 26 .",
+      "questions": [
+        {
+          "id": 12,
+          "sourceSlot": 25,
+          "sourceNumber": "25",
+          "prompt": "Which TWO advantages of modern stadium design does the writer mention?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q8376_990922",
+          "options": [
+            {
+              "value": "A",
+              "text": "offering improved amenities for the enjoyment of sports events"
+            },
+            {
+              "value": "B",
+              "text": "bringing community life back into the city environment"
+            },
+            {
+              "value": "C",
+              "text": "facilitating research into solar and wind energy solutions"
+            },
+            {
+              "value": "D",
+              "text": "enabling local residents to reduce their consumption of electricity"
+            },
+            {
+              "value": "E",
+              "text": "providing a suitable site for the installation of renewable power generators"
+            }
+          ],
+          "explanation": "选项A：offering improved amenities for the enjoyment of sports events\n\n译文：提供了改进提升的便利设施以利于欣赏体育赛事\n\nSection E的第二段里确实提及了现代体育场馆正在不断增添新的功能和设施，但是这些新内容的增加是为了更好地复兴市民的都市生活和更高效地利用土地，而并非为了“欣赏体育赛事”这个目的而服务。考生只需仔细看清本选项所表达的完整内容，就应该不会被误导。\n\n选项B：bringing community life back into the city environment\n\n译文：将社区生活带回了城市环境中\n\nSection E的第二自然段和第三段第一句话，其实都是在用各种方式花样表达这个内容，因此本项为正确答案之一。\n\n选项C：facilitating research into solar and wind energy solutions\n\n译文：推动对太阳能和风能解决方案的研究\n\n如果单看选项中的wind和energy这两个词，那么Section F中倒也确实都提及过；然而如果把这个选项综合起来看句意，则会发现\n\n原文中完全没有表达过“现代体育馆能够促进对这些方向的研究”这个功用。\n\n选项D：enabling local residents to reduce their consumption of electricity\n\n译文：使得当地居民减少对电力的消耗\n\n与上一个选项类似，文中确实有提及电力能源，但重点在于“有一些体育馆如果利用得好可以为周边居民提供电力”，而非“让周边居民减少用电”。\n\n选项E：providing a suitable site for the installation of renewable power generators\n\n译文：提供一个合适的地点供安装可再生能源发电机\n\n这才是Section F的第一自然段着重于理念介绍、第二自然段跟进举例说明的主体内容，也是本组多选题的另一个正确选项。",
+          "setId": "Q8376_990922",
+          "blockId": "Q8376_990922"
+        },
+        {
+          "id": 13,
+          "sourceSlot": 26,
+          "sourceNumber": "26",
+          "prompt": "Which TWO advantages of modern stadium design does the writer mention?",
+          "answers": [
+            "B",
+            "E"
+          ],
+          "sourceCode": "Q8376_990922",
+          "options": [
+            {
+              "value": "A",
+              "text": "offering improved amenities for the enjoyment of sports events"
+            },
+            {
+              "value": "B",
+              "text": "bringing community life back into the city environment"
+            },
+            {
+              "value": "C",
+              "text": "facilitating research into solar and wind energy solutions"
+            },
+            {
+              "value": "D",
+              "text": "enabling local residents to reduce their consumption of electricity"
+            },
+            {
+              "value": "E",
+              "text": "providing a suitable site for the installation of renewable power generators"
+            }
+          ],
+          "explanation": "选项A：offering improved amenities for the enjoyment of sports events\n\n译文：提供了改进提升的便利设施以利于欣赏体育赛事\n\nSection E的第二段里确实提及了现代体育场馆正在不断增添新的功能和设施，但是这些新内容的增加是为了更好地复兴市民的都市生活和更高效地利用土地，而并非为了“欣赏体育赛事”这个目的而服务。考生只需仔细看清本选项所表达的完整内容，就应该不会被误导。\n\n选项B：bringing community life back into the city environment\n\n译文：将社区生活带回了城市环境中\n\nSection E的第二自然段和第三段第一句话，其实都是在用各种方式花样表达这个内容，因此本项为正确答案之一。\n\n选项C：facilitating research into solar and wind energy solutions\n\n译文：推动对太阳能和风能解决方案的研究\n\n如果单看选项中的wind和energy这两个词，那么Section F中倒也确实都提及过；然而如果把这个选项综合起来看句意，则会发现\n\n原文中完全没有表达过“现代体育馆能够促进对这些方向的研究”这个功用。\n\n选项D：enabling local residents to reduce their consumption of electricity\n\n译文：使得当地居民减少对电力的消耗\n\n与上一个选项类似，文中确实有提及电力能源，但重点在于“有一些体育馆如果利用得好可以为周边居民提供电力”，而非“让周边居民减少用电”。\n\n选项E：providing a suitable site for the installation of renewable power generators\n\n译文：提供一个合适的地点供安装可再生能源发电机\n\n这才是Section F的第一自然段着重于理念介绍、第二自然段跟进举例说明的主体内容，也是本组多选题的另一个正确选项。",
+          "setId": "Q8376_990922",
+          "blockId": "Q8376_990922"
+        }
+      ],
+      "sourceType": "multiple_choice",
+      "sourceContentTypes": [
+        "201"
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "offering improved amenities for the enjoyment of sports events"
+        },
+        {
+          "value": "B",
+          "text": "bringing community life back into the city environment"
+        },
+        {
+          "value": "C",
+          "text": "facilitating research into solar and wind energy solutions"
+        },
+        {
+          "value": "D",
+          "text": "enabling local residents to reduce their consumption of electricity"
+        },
+        {
+          "value": "E",
+          "text": "providing a suitable site for the installation of renewable power generators"
+        }
+      ]
+    }
+  ],
+  "status": "ready",
+  "articleHtml": "<p><span><span><strong>Stadiums: past, present and future</strong></span></span></p><p><br><span><strong>A</strong> Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras. </span></p><p><span>Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair. </span></p><p><span>But this need not be the case. History shows that stadiums can drive urban development and adapt to the culture of every age. Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation during the 20th century. </span></p><p><span><strong>B</strong> The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses. With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles. </span></p><p><span>Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome’s famous Colosseum. It has endured the centuries and is currently considered one of the world’s prime sites for opera, thanks to its outstanding acoustics. </span></p><p><span><strong>C</strong> The area in the centre of the Italian town of Lucca, known as the Piazza dell’Anfiteatro, is yet another impressive example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison. But rather than reverting to an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square. </span></p><p><span><strong>D</strong> There are many similarities between modern stadiums and the ancient amphitheatres intended for games. But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches.<br><br>Many such stadiums are situated in suburban areas, designed for sporting use only and surrounded by parking lots. These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat. </span></p><p><span><strong>E</strong> But many of today’s most innovative architects see scope for the stadium to help improve the city. Among the current strategies, two seem to be having particular success: the stadium as an urban hub, and as a power plant. </span></p><p><span>There’s a growing trend for stadiums to be equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children’s playgrounds and green space. Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces. </span></p><p><span>This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters. There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world. </span></p><p><span><strong>F</strong> The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses. Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines. </span></p><p><span>Freiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power plants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, inaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions. </span></p><p><span><strong>G</strong> Sporting arenas have always been central to the life and culture of cities. In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering. The stadium of today now brings together multiple functions, thus helping cities to create a sustainable future.  </span></p><p><span>* amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of seats for spectators, for the presentation of dramatic or sporting events </span><br> </p>"
+}

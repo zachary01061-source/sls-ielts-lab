@@ -1,0 +1,235 @@
+{
+  "id": "1d055c4a-ef40-46e9-a34e-c0bda3558f27",
+  "title": "The development of tinned food",
+  "titleCn": "罐头食品的发展与影响",
+  "part": 4,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/1d055c4a-ef40-46e9-a34e-c0bda3558f27",
+  "duration": 218,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:00,959"
+    },
+    {
+      "label": "2",
+      "text": "Topic 137. The evolution and impact of tinned food. The development of tinned food led to increased competition among manufacturers to produce better and safer products. Methods of food preservation. Before tinned food, people used cheese mixed with lime to seal food containers to prevent spoilage. With long voyages becoming common, there was a need to store food for extended periods without bacterial contamination. Now we know that the main culprit of spoilage is bacteria. Innovations and tools. Spoons became essential tools for consuming tinned food, especially in settings without proper dining facilities. Steel cans are coated with tin to prevent rusting and ensure food safety."
+    },
+    {
+      "label": "3",
+      "text": "00:00:55,340"
+    },
+    {
+      "label": "4",
+      "text": "Paper manufacturers played a role in the tinned food industry by providing labels and packaging materials. Industrial and commercial development."
+    },
+    {
+      "label": "5",
+      "text": "00:01:05,799"
+    },
+    {
+      "label": "6",
+      "text": "The mass production of tinned food in a factory revolutionized the food industry, making preserved food widely accessible. An explorer relied heavily on tinned food for sustenance during long expeditions, ensuring they had a reliable food source. Meat was one of the 1st types of food to be commercially tinned, providing a protein-rich option for consumers. Advertisements played a crucial role in popularizing tinned food, highlighting its convenience and long shelf life."
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "text",
+      "sourceType": "part4_fill",
+      "instruction": "**Questions 31-40**\nComplete the notes below.\nWrite **ONE WORD ONLY** for each answer.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "31",
+          "sourceQuestionId": "35a5e1e8-bb4d-4fa2-815a-1e55ea2cdae9",
+          "prompt": "**The Development of Tinned Food**\n\nThe development of tinned food led to increased **31**_____ among manufacturers to produce better and safer products.",
+          "answers": [
+            "competition"
+          ],
+          "rawAnswer": "competition",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The evolution and impact of tinned food. The development of tinned food led to increased competition among manufacturers to produce better and safer products"
+          },
+          "maxWords": 1,
+          "sourceSlot": 31,
+          "sourceSlotNumber": "31"
+        },
+        {
+          "id": 2,
+          "sourceNumber": "32",
+          "sourceQuestionId": "abf1bdb8-07e6-48d1-a3fe-bb07205233cc",
+          "prompt": "**Methods of Food Preservation**\n·Before tinned food, people used **32**_____ mixed with lime to seal food containers to prevent spoilage.",
+          "answers": [
+            "cheese"
+          ],
+          "rawAnswer": "cheese",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Before tinned food, people used cheese mixed with lime to seal food containers to prevent spoilage"
+          },
+          "maxWords": 1,
+          "sourceSlot": 32,
+          "sourceSlotNumber": "32"
+        },
+        {
+          "id": 3,
+          "sourceNumber": "33",
+          "sourceQuestionId": "7f1bc2f4-4587-4f61-93f0-46ed909b047f",
+          "prompt": "·With long voyages becoming common, there was a need to store food for extended periods without bacterial contamination. Now we know that the main culprit of spoilage is **33**_____ .",
+          "answers": [
+            "bacteria"
+          ],
+          "rawAnswer": "bacteria",
+          "evidence": {
+            "paragraph": "",
+            "quote": "With long voyages becoming common, there was a need to store food for extended periods without bacterial contamination. Now we know that the main culprit of spoilage is bacteria"
+          },
+          "maxWords": 1,
+          "sourceSlot": 33,
+          "sourceSlotNumber": "33"
+        },
+        {
+          "id": 4,
+          "sourceNumber": "34",
+          "sourceQuestionId": "ffcb538c-f37b-453c-8fbb-b7b706213b68",
+          "prompt": "**Innovations and Tools**\n·**34**_____ became essential tools for consuming tinned food, especially in settings without proper dining facilities.",
+          "answers": [
+            "spoons"
+          ],
+          "rawAnswer": "spoons",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Spoons became essential tools for consuming tinned food, especially in settings without proper dining facilities"
+          },
+          "maxWords": 1,
+          "sourceSlot": 34,
+          "sourceSlotNumber": "34"
+        },
+        {
+          "id": 5,
+          "sourceNumber": "35",
+          "sourceQuestionId": "d496358d-fcdc-4474-b5c8-693235aa65c4",
+          "prompt": "·**35**_____ cans are coated with tin to prevent rusting and ensure food safety.",
+          "answers": [
+            "steel"
+          ],
+          "rawAnswer": "steel",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Steel cans are coated with tin to prevent rusting and ensure food safety"
+          },
+          "maxWords": 1,
+          "sourceSlot": 35,
+          "sourceSlotNumber": "35"
+        },
+        {
+          "id": 6,
+          "sourceNumber": "36",
+          "sourceQuestionId": "d3882b07-e436-478c-9c3c-35bf8e0343ca",
+          "prompt": "·**36**_____ manufacturers played a role in the tinned food industry by providing labels and packaging materials.",
+          "answers": [
+            "paper"
+          ],
+          "rawAnswer": "paper",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Paper manufacturers played a role in the tinned food industry by providing labels and packaging materials"
+          },
+          "maxWords": 1,
+          "sourceSlot": 36,
+          "sourceSlotNumber": "36"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "37",
+          "sourceQuestionId": "baedafe2-d323-472c-9e71-b3481bcf27fe",
+          "prompt": "**Industrial and Commercial Development**\n·The mass production of tinned food in a **37**_____ revolutionized the food industry, making preserved food widely accessible.",
+          "answers": [
+            "factory"
+          ],
+          "rawAnswer": "factory",
+          "evidence": {
+            "paragraph": "",
+            "quote": "The mass production of tinned food in a factory revolutionized the food industry, making preserved food widely accessible"
+          },
+          "maxWords": 1,
+          "sourceSlot": 37,
+          "sourceSlotNumber": "37"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "38",
+          "sourceQuestionId": "2d3abae1-83f4-4e74-92bb-dfc6b4740002",
+          "prompt": "·An **38**_____ relied heavily on tinned food for sustenance during long expeditions, ensuring they had a reliable food source.",
+          "answers": [
+            "explorer"
+          ],
+          "rawAnswer": "explorer",
+          "evidence": {
+            "paragraph": "",
+            "quote": "An explorer relied heavily on tinned food for sustenance during long expeditions, ensuring they had a reliable food source"
+          },
+          "maxWords": 1,
+          "sourceSlot": 38,
+          "sourceSlotNumber": "38"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "39",
+          "sourceQuestionId": "005d4523-b0a6-408a-9c00-cb6ec4138f7d",
+          "prompt": "·**39**_____ was one of the first types of food to be commercially tinned, providing a protein-rich option for consumers.",
+          "answers": [
+            "meat"
+          ],
+          "rawAnswer": "meat",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Meat was one of the 1st types of food to be commercially tinned, providing a protein-rich option for consumers"
+          },
+          "maxWords": 1,
+          "sourceSlot": 39,
+          "sourceSlotNumber": "39"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "40",
+          "sourceQuestionId": "430ae434-8dde-4ea9-b4ba-ff92a0dd3c30",
+          "prompt": "·**40**_____ played a crucial role in popularizing tinned food, highlighting its convenience and long shelf life.",
+          "answers": [
+            "advertisements"
+          ],
+          "rawAnswer": "advertisements",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Advertisements played a crucial role in popularizing tinned food, highlighting its convenience and long shelf life"
+          },
+          "maxWords": 1,
+          "sourceSlot": 40,
+          "sourceSlotNumber": "40"
+        }
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "Part4填空题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:00,959</p><p>Topic 137. The evolution and impact of tinned food. The development of tinned food led to increased competition among manufacturers to produce better and safer products. Methods of food preservation. Before tinned food, people used cheese mixed with lime to seal food containers to prevent spoilage. With long voyages becoming common, there was a need to store food for extended periods without bacterial contamination. Now we know that the main culprit of spoilage is bacteria. Innovations and tools. Spoons became essential tools for consuming tinned food, especially in settings without proper dining facilities. Steel cans are coated with tin to prevent rusting and ensure food safety. </p><p>00:00:55,340</p><p>Paper manufacturers played a role in the tinned food industry by providing labels and packaging materials. Industrial and commercial development. </p><p>00:01:05,799</p><p>The mass production of tinned food in a factory revolutionized the food industry, making preserved food widely accessible. An explorer relied heavily on tinned food for sustenance during long expeditions, ensuring they had a reliable food source. Meat was one of the 1st types of food to be commercially tinned, providing a protein-rich option for consumers. Advertisements played a crucial role in popularizing tinned food, highlighting its convenience and long shelf life.<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "ready",
+    "src": "/media/listening/1d055c4a-ef40-46e9-a34e-c0bda3558f27.mp3",
+    "durationSeconds": 97.032,
+    "sizeBytes": 1553043,
+    "sha256": "2bbbc7a2bd6c4b80c3df1a354d7a2fd3c2f5ef9b39cbd338c221425ed4da28dc",
+    "mimeType": "audio/mpeg",
+    "verifiedAt": "2026-10-30T04:33:31Z",
+    "storage": "static"
+  },
+  "audioMissing": false,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786353686858_pkieew_a0265f35.mp3"
+}

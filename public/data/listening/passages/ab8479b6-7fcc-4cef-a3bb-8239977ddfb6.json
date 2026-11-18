@@ -1,0 +1,444 @@
+{
+  "id": "ab8479b6-7fcc-4cef-a3bb-8239977ddfb6",
+  "title": "Training courses for workers in the hospitality industry",
+  "titleCn": "酒店服务业员工培训课程介绍",
+  "part": 2,
+  "source": "SLS 听力题库",
+  "sourceUrl": "https://www.yaquan.site/paper/ab8479b6-7fcc-4cef-a3bb-8239977ddfb6",
+  "duration": 600,
+  "paragraphs": [
+    {
+      "label": "1",
+      "text": "00:00:04,940"
+    },
+    {
+      "label": "2",
+      "text": "Listen carefully and answer questions eleven to fifteen."
+    },
+    {
+      "label": "3",
+      "text": "00:00:12,140"
+    },
+    {
+      "label": "4",
+      "text": "Morning, everyone. My name is John. I've worked in the hospitality industry for twenty years here and all around the world. I've done it all: washing dishes in cafés, waiting tables, hotel work. I've been better at some of these roles than others, to be honest. But what I've always loved is the incredible variety of workmates I've had over the years. Today, I want to introduce some of the training courses available here at the college. So today's program. This morning, there will be short presentations about different hospitality jobs. Then this afternoon, there'll be workshops where you can explore these ideas in more detail. So your first presentation is on restaurant service. Another session focuses on kitchen assistants who help the cooks in the kitchen. This is a great way to learning cooking skills. There's an amazing number of traditional techniques to learn. You'd be surprised how many top chefs in expensive restaurants started out as a kitchen assistant. But be warned, kitchen assistants arrive at work first and leave last. So think hard about whether you can cope with the commitment. The session about porters, cleaners, and dishwashers is a popular one. These positions are good for students, especially because they require no experience. Dishwashers have to work late into the evening. No surprises there. A porter's role is more important than many people realize because guests' first impression are formed by the staff they meet on arrival. Cleaners will usually be doing shift work, which may or may not suit you depending on your situation. Another popular session looks at the role of the receptionist. This is a key role. You have to deal with every part of the hotel. So having reception work on your CV or resume is often a good way of moving your career forward in the long run. But having said that, they can be challenging, you know. Dealing with people from all around the world, you have to already be good at working under a lot of pressure. You can't work out how to do it on the job. For any of these jobs, you'll usually have an interview, so there's also a session on interview skills. Now, frankly, for the less skilled roles, the interview will be pretty quick. But for some of the jobs I've mentioned, the interview is just as important as it is in other types of employment. Basically, the key to coming across well is the same today as it was when I started twenty years ago. And the good thing is it's not too difficult to develop these skills with a little training and rehearsal."
+    },
+    {
+      "label": "5",
+      "text": "00:03:18,720"
+    },
+    {
+      "label": "6",
+      "text": "Now listen and answer questions sixteen to twenty."
+    },
+    {
+      "label": "7",
+      "text": "00:03:25,680"
+    },
+    {
+      "label": "8",
+      "text": "Okay. Then this afternoon we'll have the workshops. They'll be held in various classrooms around the college. So if you have a look at your college plan, I'll tell you where they're going to be. Now, at the moment, we're in the hall. You'll see it at the bottom of your plan. So if you want to go to the workshop on restaurant service, go out of the hall and turn right. Walk along to the office, and it's the classroom immediately next door to that. For kitchen hands, when you come out of the hall, you'll see the square in front of you. Cross to the other side of the square, and you'll see a block of two classrooms. You want the one on the left. Now, porters, cleaners, and dishwashers, you want to find a block of classes on the northern side of the college. There's a long block of classrooms, and you want the one at the eastern end. For the receptionist workshop, turn right out of the hall and go past the office. Then head up north between the two sets of classrooms. You'll come to the first end room on your left, and it's the classroom directly opposite that. For those of you who are wanting to brush up on your interview skills, there's an interview skills workshop. You see that on the western side of the square, there's a single large classroom. That's in there. Okay. Now let's move on to look at"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "type": "choice",
+      "sourceType": "single_choice",
+      "instruction": "**Questions 11-15**\nChoose the correct letter, **A, B** or **C**.",
+      "questions": [
+        {
+          "id": 1,
+          "sourceNumber": "11",
+          "sourceQuestionId": "e2fc4088-72f7-47ec-8fb2-16793dd55abc",
+          "prompt": "**11** What has the speaker enjoyed most about working in hospitality?",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "the range of people he has worked with",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But what I've always loved is the incredible variety of workmates I've had over the years"
+          },
+          "keywordPairs": [
+            {
+              "question": "enjoyed most",
+              "article": "always loved"
+            },
+            {
+              "question": "the range of people he has worked with",
+              "article": "variety of workmates"
+            }
+          ],
+          "sourceSlot": 11,
+          "sourceSlotNumber": "11",
+          "options": [
+            {
+              "value": "A",
+              "text": "the range of jobs available"
+            },
+            {
+              "value": "B",
+              "text": "the range of countries he has visited"
+            },
+            {
+              "value": "C",
+              "text": "the range of people he has worked with"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sourceNumber": "12",
+          "sourceQuestionId": "13ff667c-b199-4d1e-9dc2-1d3f50458cb6",
+          "prompt": "**12** What point does the speaker make about kitchen assistants?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "the long hours will not suit everyone",
+          "evidence": {
+            "paragraph": "",
+            "quote": "But be warned, kitchen assistants arrive at work first and leave last. So think hard about whether you can cope with the commitment"
+          },
+          "sourceSlot": 12,
+          "sourceSlotNumber": "12",
+          "options": [
+            {
+              "value": "A",
+              "text": "the long hours will not suit everyone"
+            },
+            {
+              "value": "B",
+              "text": "their work is sometimes quite boring"
+            },
+            {
+              "value": "C",
+              "text": "the pay is not particularly good"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sourceNumber": "13",
+          "sourceQuestionId": "bc679323-505d-40f7-9482-cd3a2f9f0530",
+          "prompt": "**13** According to the speaker, which job is sometimes undervalued?",
+          "answers": [
+            "A"
+          ],
+          "rawAnswer": "to learn foreign languages",
+          "evidence": {
+            "paragraph": "",
+            "quote": "A porter's role is more important than many people realize because guests' first impression are formed by the staff they meet on arrival"
+          },
+          "keywordPairs": [
+            {
+              "question": "undervalued",
+              "article": "more important than many people realize"
+            }
+          ],
+          "sourceSlot": 13,
+          "sourceSlotNumber": "13",
+          "options": [
+            {
+              "value": "A",
+              "text": "to learn foreign languages"
+            },
+            {
+              "value": "B",
+              "text": "to manage successfully situations"
+            },
+            {
+              "value": "C",
+              "text": "to get a better job eventually"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sourceNumber": "14",
+          "sourceQuestionId": "f9af2388-38d5-4ad4-97f4-90c19d1fc04c",
+          "prompt": "**14** Experience in reception may help employees",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "to get a better job eventually",
+          "evidence": {
+            "paragraph": "",
+            "quote": "So having reception work on your CV or resume is often a good way of moving your career forward in the long run"
+          },
+          "keywordPairs": [
+            {
+              "question": "get a better job eventually",
+              "article": "moving your career forward"
+            }
+          ],
+          "sourceSlot": 14,
+          "sourceSlotNumber": "14",
+          "options": [
+            {
+              "value": "A",
+              "text": "to learn foreign languages"
+            },
+            {
+              "value": "B",
+              "text": "to manage successfully situations"
+            },
+            {
+              "value": "C",
+              "text": "to get a better job eventually"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sourceNumber": "15",
+          "sourceQuestionId": "31855a7e-e3a7-49ab-8428-13327eaf37d8",
+          "prompt": "**15** The speakers says that interview skills",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "easy to learn if you have some practice",
+          "evidence": {
+            "paragraph": "",
+            "quote": "And the good thing is it's not too difficult to develop these skills with a little training and rehearsal"
+          },
+          "keywordPairs": [
+            {
+              "question": "easy to learn",
+              "article": "not too difficult to develop these skills"
+            },
+            {
+              "question": "if you have some practice",
+              "article": "with a little training and rehearsal"
+            }
+          ],
+          "sourceSlot": 15,
+          "sourceSlotNumber": "15",
+          "options": [
+            {
+              "value": "A",
+              "text": "are particularly important in hospitality"
+            },
+            {
+              "value": "B",
+              "text": "easy to learn if you have some practice"
+            },
+            {
+              "value": "C",
+              "text": "are understood better now than in the past"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "type": "matching",
+      "sourceType": "map",
+      "instruction": "**Questions 16-20**\nThe map below have **FIVE** gaps.\nChoose the correct letter, **A-J**, and move it to suitable places.\n![图片1.png](assets/listening/2d7d8bdc1b479621a41720da050aa2d9dead4449f6cd9fe7d35c19eb1e8c7e63.png)",
+      "questions": [
+        {
+          "id": 6,
+          "sourceNumber": "16",
+          "sourceQuestionId": "b7345ce3-fb46-4428-a37c-868f5705aafc",
+          "prompt": "Restaurant Service",
+          "answers": [
+            "J"
+          ],
+          "rawAnswer": "J",
+          "evidence": {
+            "paragraph": "",
+            "quote": "If you want to go to the workshop on restaurant service, go out of the hall and turn right. Walk along to the office, and it's the classroom immediately next door to that"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "restaurant service"
+            },
+            {
+              "question": "",
+              "article": "office"
+            },
+            {
+              "question": "",
+              "article": "hall"
+            }
+          ],
+          "sourceSlot": 16,
+          "sourceSlotNumber": "16"
+        },
+        {
+          "id": 7,
+          "sourceNumber": "17",
+          "sourceQuestionId": "e616047c-ef49-4d70-b2a2-c5e45c8e4567",
+          "prompt": "Kitchen hands",
+          "answers": [
+            "C"
+          ],
+          "rawAnswer": "C",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For kitchen hands, when you come out of the hall, you'll see the square in front of you. Cross to the other side of the square, and you'll see a block of two classrooms. You want the one on the left"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "kitchen hands"
+            },
+            {
+              "question": "",
+              "article": "square"
+            }
+          ],
+          "sourceSlot": 17,
+          "sourceSlotNumber": "17"
+        },
+        {
+          "id": 8,
+          "sourceNumber": "18",
+          "sourceQuestionId": "7bb29b00-81f1-4c91-b509-b51478e016a8",
+          "prompt": "Porters, cleaners, Dishwashers",
+          "answers": [
+            "B"
+          ],
+          "rawAnswer": "B",
+          "evidence": {
+            "paragraph": "",
+            "quote": "Now, porters, cleaners, and dishwashers, you want to find a block of classes on the northern side of the college. There's a long block of classrooms, and you want the one at the eastern end"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "porters, cleaners, and dishwashers"
+            },
+            {
+              "question": "",
+              "article": "block"
+            }
+          ],
+          "sourceSlot": 18,
+          "sourceSlotNumber": "18"
+        },
+        {
+          "id": 9,
+          "sourceNumber": "19",
+          "sourceQuestionId": "b0889934-472d-4432-b7a1-e45b626956fd",
+          "prompt": "Receptionists",
+          "answers": [
+            "E"
+          ],
+          "rawAnswer": "E",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For the receptionist workshop, turn right out of the hall and go past the office. Then head up north between the two sets of classrooms. You'll come to the first end room on your left, and it's the classroom directly opposite that"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "receptionist"
+            },
+            {
+              "question": "",
+              "article": "hall"
+            },
+            {
+              "question": "",
+              "article": "office"
+            }
+          ],
+          "sourceSlot": 19,
+          "sourceSlotNumber": "19"
+        },
+        {
+          "id": 10,
+          "sourceNumber": "20",
+          "sourceQuestionId": "1aabdae4-4fed-46ef-9f2e-475ed1c9c073",
+          "prompt": "Interview Skills",
+          "answers": [
+            "F"
+          ],
+          "rawAnswer": "F",
+          "evidence": {
+            "paragraph": "",
+            "quote": "For those of you who are wanting to brush up on your interview skills, there's an interview skills workshop. You see that on the western side of the square, there's a single large classroom. That's in there"
+          },
+          "keywordPairs": [
+            {
+              "question": "",
+              "article": "interview skills"
+            },
+            {
+              "question": "",
+              "article": "square"
+            }
+          ],
+          "sourceSlot": 20,
+          "sourceSlotNumber": "20"
+        }
+      ],
+      "options": [
+        {
+          "value": "A",
+          "text": "A"
+        },
+        {
+          "value": "B",
+          "text": "B"
+        },
+        {
+          "value": "C",
+          "text": "C"
+        },
+        {
+          "value": "D",
+          "text": "D"
+        },
+        {
+          "value": "E",
+          "text": "E"
+        },
+        {
+          "value": "F",
+          "text": "F"
+        },
+        {
+          "value": "G",
+          "text": "G"
+        },
+        {
+          "value": "H",
+          "text": "H"
+        },
+        {
+          "value": "I",
+          "text": "I"
+        },
+        {
+          "value": "J",
+          "text": "J"
+        }
+      ],
+      "images": [
+        "assets/listening/2d7d8bdc1b479621a41720da050aa2d9dead4449f6cd9fe7d35c19eb1e8c7e63.png"
+      ]
+    }
+  ],
+  "questionCount": 10,
+  "types": [
+    "单选题",
+    "地图题"
+  ],
+  "status": "ready",
+  "transcriptHtml": "<p>00:00:04,940</p><p>Listen carefully and answer questions eleven to fifteen. </p><p>00:00:12,140</p><p>Morning, everyone. My name is John. I've worked in the hospitality industry for twenty years here and all around the world. I've done it all: washing dishes in cafés, waiting tables, hotel work. I've been better at some of these roles than others, to be honest. But what I've always loved is the incredible variety of workmates I've had over the years. Today, I want to introduce some of the training courses available here at the college. So today's program. This morning, there will be short presentations about different hospitality jobs. Then this afternoon, there'll be workshops where you can explore these ideas in more detail. So your first presentation is on restaurant service. Another session focuses on kitchen assistants who help the cooks in the kitchen. This is a great way to learning cooking skills. There's an amazing number of traditional techniques to learn. You'd be surprised how many top chefs in expensive restaurants started out as a kitchen assistant. But be warned, kitchen assistants arrive at work first and leave last. So think hard about whether you can cope with the commitment. The session about porters, cleaners, and dishwashers is a popular one. These positions are good for students, especially because they require no experience. Dishwashers have to work late into the evening. No surprises there. A porter's role is more important than many people realize because guests' first impression are formed by the staff they meet on arrival. Cleaners will usually be doing shift work, which may or may not suit you depending on your situation. Another popular session looks at the role of the receptionist. This is a key role. You have to deal with every part of the hotel. So having reception work on your CV or resume is often a good way of moving your career forward in the long run. But having said that, they can be challenging, you know. Dealing with people from all around the world, you have to already be good at working under a lot of pressure. You can't work out how to do it on the job. For any of these jobs, you'll usually have an interview, so there's also a session on interview skills. Now, frankly, for the less skilled roles, the interview will be pretty quick. But for some of the jobs I've mentioned, the interview is just as important as it is in other types of employment. Basically, the key to coming across well is the same today as it was when I started twenty years ago. And the good thing is it's not too difficult to develop these skills with a little training and rehearsal. </p><p>00:03:18,720</p><p>Now listen and answer questions sixteen to twenty. </p><p>00:03:25,680</p><p>Okay. Then this afternoon we'll have the workshops. They'll be held in various classrooms around the college. So if you have a look at your college plan, I'll tell you where they're going to be. Now, at the moment, we're in the hall. You'll see it at the bottom of your plan. So if you want to go to the workshop on restaurant service, go out of the hall and turn right. Walk along to the office, and it's the classroom immediately next door to that. For kitchen hands, when you come out of the hall, you'll see the square in front of you. Cross to the other side of the square, and you'll see a block of two classrooms. You want the one on the left. Now, porters, cleaners, and dishwashers, you want to find a block of classes on the northern side of the college. There's a long block of classrooms, and you want the one at the eastern end. For the receptionist workshop, turn right out of the hall and go past the office. Then head up north between the two sets of classrooms. You'll come to the first end room on your left, and it's the classroom directly opposite that. For those of you who are wanting to brush up on your interview skills, there's an interview skills workshop. You see that on the western side of the square, there's a single large classroom. That's in there. Okay. Now let's move on to look at<span></span></p>",
+  "subject": "listening",
+  "audio": {
+    "status": "pending",
+    "src": "",
+    "errorCode": "source_http_404",
+    "sourceUnavailable": true,
+    "sourceVerifiedAt": "2026-10-30T05:44:33Z"
+  },
+  "audioMissing": true,
+  "transcriptAvailable": true,
+  "sourceAudioReference": "audio/1786348216731_4oetwr_120d6f9f.mp3"
+}
